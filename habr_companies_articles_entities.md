@@ -12905,152 +12905,152 @@
 - https://habr.com/ru/companies/drweb/articles/457558/
 - Отрасли: Информационная безопасность
 - Компании: Хабр, Доктор Веб, Далее, Space
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Антивирусная защита
+- Кандидаты компаний: DrWeb
 
 - https://habr.com/ru/companies/drweb/articles/460255/
 - Отрасли: Программное обеспечение, Enterprise
 - Компании: Хабр, Доктор Веб, MARS, Beget
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Антивирусная защита, видеоигры, криптовалюты
+- Кандидаты компаний: CheatHappens.com, clearcheats.ru, Facebook, FLiNG, Google, gtrainers.com, LinGon, Microsoft, MrAntiFun, s44571fu.bget.ru, Yahoo
 
 - https://habr.com/ru/companies/drweb/articles/470758/
 - Отрасли: Программное обеспечение, аналитики
 - Компании: Хабр, Доктор Веб
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: мобильная безопасность, мобильные устройства
+- Кандидаты компаний: Android, Dr.Web, Google Play, Microsoft Office, Windows, YoBit
 
 - https://habr.com/ru/companies/drweb/articles/472096/
 - Отрасли: аналитики, информационной безопасности, предлагает
 - Компании: Хабр, Доктор Веб, Далее, предлагает
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Антивирусная защита, мобильные приложения
+- Кандидаты компаний: Adjust, Dr.Web, Facebook, Google, Google Play, Jiagu
 
 - https://habr.com/ru/companies/drweb/articles/473378/
 - Отрасли: Программное обеспечение, информационной безопасности
 - Компании: Хабр, Доктор Веб
-- Кандидаты отраслей: не найдено
+- Кандидаты отраслей: IT, рынок вредоносного ПО
 - Кандидаты компаний: не найдено
 
 - https://habr.com/ru/companies/drweb/articles/475656/
 - Отрасли: Информационная безопасность, аналитики
 - Компании: Хабр, Доктор Веб
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Антивирусная защита, кибершпионаж, мобильные приложения, мобильные сервисы, мобильные устройства
+- Кандидаты компаний: Dr.Web, Google, Google Play
 
 - https://habr.com/ru/companies/drweb/articles/479678/
 - Отрасли: Информационная безопасность, аналитики
 - Компании: Хабр, Доктор Веб
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: антивирусная защита, мобильные услуги, мобильные устройства
+- Кандидаты компаний: Dr.Web, Google Play
 
 - https://habr.com/ru/companies/drweb/articles/484664/
 - Отрасли: Информационная безопасность
 - Компании: Хабр, Доктор Веб, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Антивирусная защита
+- Кандидаты компаний: Android.Xiny, Doctor Web, Google, KingRoot, SuperSU, Triada
 
 - https://habr.com/ru/companies/drweb/articles/486908/
 - Отрасли: Информационная безопасность
 - Компании: Хабр, Доктор Веб, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Антивирусная защита
+- Кандидаты компаний: buy.blockexplorer.com, dr.web, Folder Locker, GitHub, gmx.com, Google, localbitcoins.net, Windows Defender, www.buybitcoinworldwide.com
 
 - https://habr.com/ru/companies/drweb/articles/517866/
 - Отрасли: Информационная безопасность, облачных сервисов, стриминг
 - Компании: Хабр, Доктор Веб, ПИК, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: видеоигры, облачные вычисления
+- Кандидаты компаний: 7-Zip, Counter-Strike: Source, dr.web, GeForce NOW, NVIDIA, NVIDIA PSIRT, Steam
 
 - https://habr.com/ru/companies/drweb/articles/521524/
 - Отрасли: ТЭК, Информационная безопасность, аналитики, Поисковые технологии
 - Компании: Хабр, Доктор Веб, серверы
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: компьютерная безопасность, топливно-энергетический комплекс
+- Кандидаты компаний: GooglePlay, mail.ru, yandex.ru, zannews
 
 - https://habr.com/ru/companies/drweb/articles/525086/
 - Отрасли: Информационная безопасность
 - Компании: Хабр, Доктор Веб
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Антивирусная защита, Реверс-инжиниринг
+- Кандидаты компаний: doctorweb, Dr.Web, icefirebest[.]com, WinRAR, www[.]arestc[.]net
 
 - https://habr.com/ru/companies/drweb/articles/532444/
 - Отрасли: Информационная безопасность, Программное обеспечение
 - Компании: Хабр, Доктор Веб, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Антивирусная защита, Реверс-инжиниринг
+- Кандидаты компаний: Dr.Web, Macromedia, Remote Utilities, Remote Utilities Viewer
 
 - https://habr.com/ru/companies/drweb/articles/535490/
 - Отрасли: Информационная безопасность, информационной безопасности
 - Компании: Хабр, Доктор Веб
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-индустрия, корпоративный сектор, ритейл
+- Кандидаты компаний: amajai-technologies.industries, Crytek, LogMeIn, Ubisoft
 
 - https://habr.com/ru/companies/drweb/articles/545202/
 - Отрасли: Информационная безопасность, аналитики
 - Компании: Хабр, Доктор Веб, Positive Technologies, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Антивирусная защита, Реверс-инжиниринг, Телекоммуникационная компания
+- Кандидаты компаний: apphelp.dll, BackDoor.Spyder.1, Crosswalk, doctorweb, Dr.Web, Impacket, mbedtls, MSDTC, PlugX, ShadowPad, UT hash, Winnti
 
 - https://habr.com/ru/companies/drweb/articles/691442/
 - Отрасли: Информационная безопасность, digital, информационной безопасности
 - Компании: Хабр, Доктор Веб
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Digital Forensics
+- Кандидаты компаний: Dr.Web, Dr.Web FixIt!, Windows
 
 - https://habr.com/ru/companies/drweb/articles/693132/
 - Отрасли: не найдено
 - Компании: Хабр, Доктор Веб
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Service Desk, международная телефония, Мессенджеры, Системы связи, телефония
+- Кандидаты компаний: Dr.Web, SIP.TG, Skype Connect, Telegram
 
 - https://habr.com/ru/companies/drweb/articles/708706/
 - Отрасли: информационной безопасности
 - Компании: Хабр, Доктор Веб
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: антивирусная защита, арбитраж трафика, социальные сети
+- Кандидаты компаний: Blog Designer WordPress Plugin, Brizy WordPress Plugin, Dr.Web, Easysmtp, Facebook, FV Flowplayer Video Player, Google, Google Code Inserter, Matomo, Newspaper Theme, OneTone Simple Fields WordPress Plugin, OpinionStage, Post Custom Templates Lite, Rich Reviews plugin, Thim Core, Total Donations Plugin, WooCommerce, WordPress, WordPress Delucks SEO plugin, WordPress ND Shortcodes For Visual Composer, WordPress Ultimate FAQ, WP GDPR Compliance Plugin, WP Live Chat Coming Soon Page and Maintenance Mode Hybrid, WP Live Chat Support Plugin, WP Quick Booking Manager, WP-Matomo Integration, WPeMatico RSS Feed Fetcher, Yellow Pencil Visual Theme Customizer Plugin, Yuzo Related Posts, Zotabox
 
 - https://habr.com/ru/companies/drweb/articles/731564/
 - Отрасли: не найдено
 - Компании: Доктор Веб, Хабр
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Реверс-инжиниринг
+- Кандидаты компаний: Dr.Web, dr.web, Google, Microsoft, Microsoft Office
 
 - https://habr.com/ru/companies/drweb/articles/734252/
 - Отрасли: не найдено
 - Компании: Доктор Веб, Хабр
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: CTF, Реверс-инжиниринг
+- Кандидаты компаний: deobfuscate.io, DOSbox, Godot, msdox, obfuscate.io
 
 - https://habr.com/ru/companies/drweb/articles/736370/
 - Отрасли: не найдено
 - Компании: Доктор Веб, Хабр, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: CTF, Реверс-инжиниринг
+- Кандидаты компаний: Cheat Engine, GitHub, Godot, Hiew, IDA, procmon
 
 - https://habr.com/ru/companies/drweb/articles/739872/
 - Отрасли: не найдено
 - Компании: Доктор Веб, Хабр, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Реверс-инжиниринг
+- Кандидаты компаний: GitHub, IDA, VirusTotal, YARA
 
 - https://habr.com/ru/companies/drweb/articles/742166/
 - Отрасли: предлагает
 - Компании: Доктор Веб, Хабр, Далее, IDC, предлагает
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Реверс-инжиниринг
+- Кандидаты компаний: Delphi, dnspy, DrWeb, IDA, IDR (Interactive Delphi Reconstructor)
 
 - https://habr.com/ru/companies/dsol/articles/top/
 - Отрасли: аналитики, информационной безопасности, Информационная безопасность, телекоммуникаций, телекома, финтех
 - Компании: «Цифровые решения», Хабр, серверы, Далее, Госуслуги
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: балансировщики нагрузки, виртуализация, госуслуги, дата-центры, индустриальная сфера, компьютерные сети, облачные вычисления, облачные хранилища, ритейл, сетевой аналитики, твердотельные накопители
+- Кандидаты компаний: Anonymous, Intel, Intel QAT, Intel Xeon 4-го поколения, LulzSec
 
 - https://habr.com/ru/companies/eaeconsult/articles/top/
 - Отрасли: ERP, СМИ, аналитики, ритейла, Программное обеспечение
 - Компании: ЕАЕ-Консалт, Хабр, 1С, Галактика, Хабр Карьера, Directum
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: ИТ, компьютерное зрение, микроэлектроника, полупроводниковая промышленность, системы безопасности
+- Кандидаты компаний: Chat GPT, Google, Keycloak, Open AI, Reuters, Systems.Education, АЛМО, Американская коллегия адвокатов, ЕАЕ‑Консалт, ЛЯПАС, Массачусетская Школа Права, Монолит, Рапира, Сетунь, Эль-76
 
 - https://habr.com/ru/companies/edgecenter/articles/top/
 - Отрасли: стриминг, здравоохранение, предлагает
