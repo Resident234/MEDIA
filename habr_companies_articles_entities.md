@@ -6755,152 +6755,152 @@
 - https://habr.com/ru/companies/broadcast/articles/576364/
 - Отрасли: не найдено
 - Компании: Хабр, Broadcasts Group
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Мобильные приложения, Программирование, Разработка мобильных приложений
+- Кандидаты компаний: Android Broadcast, GitHub, Telegram, YouTube
 
 - https://habr.com/ru/companies/broadcast/articles/578154/
 - Отрасли: Оптимизация
 - Компании: Хабр, Broadcasts Group
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Android development
+- Кандидаты компаний: Android Gradle Plugin, Android Studio, Broadcasts Group Android, Google, Jetpack AppCompat, Telegram
 
 - https://habr.com/ru/companies/broadcast/articles/715052/
 - Отрасли: не найдено
 - Компании: Хабр, Broadcasts Group
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Android Broadcast, Broadcasts Group Android, GitHub, Google, Google Play, Huawei, Huawei App Gallery
 
 - https://habr.com/ru/companies/broadcast/articles/715062/
 - Отрасли: Дизайн и юзабилити, Оптимизация
 - Компании: Хабр, Broadcasts Group
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: мобильные приложения, мобильные устройства, смартфоны
+- Кандидаты компаний: Android Broadcast, Android Studio, Google, Google Fonts, Google Play, Google Play Services, ImageOptim, Material Design, Play Feature Delivery
 
 - https://habr.com/ru/companies/broadcast/articles/728096/
 - Отрасли: медиа, аналитики, виртуальные
 - Компании: Хабр, Broadcasts Group
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: мобильные приложения
+- Кандидаты компаний: Android Broadcast, Google, Google Photos, Google Play, Google Pllay Services, Jetpack, Jetpack Activity, Jetpack WindowManager, Pixel Tablet, Telegram, YouTube
 
 - https://habr.com/ru/companies/broadcast/articles/730810/
 - Отрасли: предлагает
 - Компании: Хабр, Broadcasts Group, предлагает
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Android development, Mobile development, Software development
+- Кандидаты компаний: Android Studio, Apollo GraphQL, Dagger, GitHub, Google, Gradle, Hilt, IntelliJ IDEA, Jetpack Compose, Moshi, Oracle, ProGuard, R8, Room, SQLDelight, Telegram, YouTube
 
 - https://habr.com/ru/companies/broadcast/articles/734236/
 - Отрасли: Оптимизация, медиа, аналитики
 - Компании: Хабр, Broadcasts Group
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: мобильные приложения, операционные системы, смартфоны
+- Кандидаты компаний: Android, Android Broadcast, Firebase Cloud Messaging, Google, Google Play, iPhone, LG, Nexus 5, Telegram, YouTube
 
 - https://habr.com/ru/companies/broadcast/articles/752614/
 - Отрасли: Поисковые технологии
 - Компании: Хабр, Broadcasts Group
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: iOS development
+- Кандидаты компаний: iOS Broadcast, OpenAPI, Telegram
 
 - https://habr.com/ru/companies/broadcast/articles/763094/
 - Отрасли: Мобильные технологии
 - Компании: Хабр, Broadcasts Group, Samsung, KTS
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: мобильных приложений, мобильных устройств, смартфоны, цифровых камер
+- Кандидаты компаний: Android Jetpack, Android Market, Android Support Library, AndroidX, AOSP, App Store, Apple, Blackberry, Google, Google Play, Google Play Services, HTC, HTC Dream, Microsoft, Nokia, Open Handset Alliance, Symbian, Windows Mobile
 
 - https://habr.com/ru/companies/carprice/articles/top/
 - Отрасли: не найдено
 - Компании: CarPrice, Хабр, Далее, серверы
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: рынок подержанных автомобилей
+- Кандидаты компаний: Docker, Kubernetes, Minikube, New Relic, SellAnyCar
 
 - https://habr.com/ru/companies/cdek_blog/articles/top/
 - Отрасли: ERP, финансового, ML, аналитики
 - Компании: CDEK, Хабр, OZON, 1С
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: логистика
+- Кандидаты компаний: 1C, ERP CDEK, Hibernate, IntelliJ IDEA Ultimate, JDBC, JetBrains, Jooq, MyBatis, Visual Studio Code, VSCode, Wildberries
 
 - https://habr.com/ru/companies/cedrusdata/articles/top/
 - Отрасли: аналитики
 - Компании: CedrusData, Хабр, Лемана Тех
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: анализ данных
+- Кандидаты компаний: Doris, Impala, Nessie, Presto, StarRocks, Substrait, Trino, Азбука Вкуса
 
 - https://habr.com/ru/companies/cian/articles/475062/
 - Отрасли: Веб-разработка
 - Компании: Хабр, Циан, VK, Хабр Карьера
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: бизнес-приложения, корпоративные, образовательные, правительственные, соцсети
+- Кандидаты компаний: App Store, Apple, Apple Developer Account, cian.ru, Sign in with Apple
 
 - https://habr.com/ru/companies/cian/articles/478564/
 - Отрасли: Оптимизация
 - Компании: Циан, Хабр, Хабр Карьера
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-инфраструктура, серверная оптимизация, системное администрирование
+- Кандидаты компаний: Apache Kafka, cian.ru, docker, docker-compose, ElasticSearch, Logstash, nginx, Nomad, Prometheus
 
 - https://habr.com/ru/companies/cian/articles/486056/
 - Отрасли: embedded
 - Компании: Циан, Хабр, Далее, Хабр Карьера
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: информационные технологии
+- Кандидаты компаний: Apache Ignite, Bitbucket, Camunda, CentOS, CIAN, Confluence, Consul, Docker, ELK, Grafana, Graphite, Integro, Jaeger, Java, Jenkins, Jira, Keycloak, MobX, Nomad, PostgreSQL, Prometheus, RabbitMQ, React, Spring Boot, Spring Cloud Config, TeamCity, Vault
 
 - https://habr.com/ru/companies/cian/articles/491896/
 - Отрасли: недвижимость, недвижимости, аналитики
 - Компании: Циан, Хабр, Яндекс, Хабр Карьера
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-индустрия
+- Кандидаты компаний: Google Analytics
 
 - https://habr.com/ru/companies/cian/articles/499542/
 - Отрасли: не найдено
 - Компании: Циан, Хабр, Далее, серверы, Хабр Карьера
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-инфраструктура, Системное администрирование
+- Кандидаты компаний: Jira, powerdns
 
 - https://habr.com/ru/companies/cian/articles/505536/
 - Отрасли: Веб-разработка, ML, провайдер, предлагает
 - Компании: Циан, Хабр, провайдер, предлагает, Хабр Карьера
-- Кандидаты отраслей: не найдено
+- Кандидаты отраслей: колл‑центр, мобильные устройства, площадки размещения объявлений, сотовая связь, теле‑компания
 - Кандидаты компаний: не найдено
 
 - https://habr.com/ru/companies/cian/articles/509246/
 - Отрасли: не найдено
 - Компании: Циан, Хабр, Далее, Хабр Карьера
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: C#, Cassandra, Elasticsearch, Kafka, MsSQL, NodeJS, PostgreSQL, pytest, Python, RabbitMQ, Redis
 
 - https://habr.com/ru/companies/cian/articles/516958/
 - Отрасли: Веб-разработка, финансы, SaaS, недвижимости, банках
 - Компании: Хабр, Циан, Далее, Яндекс, Цифра, Хабр Карьера
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Cloud Native разработка, Микросервисы, Разработка мобильных приложений, финансовые сервисы
+- Кандидаты компаний: Pivotal, Циан.Финансы
 
 - https://habr.com/ru/companies/cian/articles/563004/
 - Отрасли: ML, Data science, ETL, Оптимизация
 - Компании: Циан, Хабр, Мегафон, Хабр Карьера
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Lamoda, Одноклассники, Озон
 
 - https://habr.com/ru/companies/cian/articles/567358/
 - Отрасли: аналитики
 - Компании: Хабр, Циан, быструю, Хабр Карьера
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: мобильных приложений, тестирование программного обеспечения
+- Кандидаты компаний: Appium, Apple, Xcode
 
 - https://habr.com/ru/companies/cian/articles/569940/
 - Отрасли: SaaS, Дизайн и юзабилити, Программное обеспечение
 - Компании: Хабр, Циан, Хабр Карьера
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: JIRA, Kubernetes, Twitter
 
 - https://habr.com/ru/companies/cian/articles/570988/
 - Отрасли: не найдено
 - Компании: Хабр, Циан, Хабр Карьера
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Тестирование мобильных приложений
+- Кандидаты компаний: Appium, Apple, Xcode
 
 - https://habr.com/ru/companies/cian/articles/576732/
 - Отрасли: недвижимости, Оптимизация
 - Компании: Хабр, Циан, Яндекс, Далее, Хабр Карьера
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: ElasticSearch, Xiaomi, Xiaomi Mi A3, Яндекс.Карты
 
 - https://habr.com/ru/companies/cian/articles/582762/
 - Отрасли: не найдено
