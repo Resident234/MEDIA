@@ -114,6 +114,13 @@ def parse_json_content(content: str) -> dict:
         raise
 
 
+TRANSIENT_RE = re.compile(r"401|403|429|500|502|503|504|timeout|timed out|connection|apiconnection|remotedisconnected|rate.?limit|invalid api key|overloaded|empty content", re.IGNORECASE)
+
+
+class TransientLLMError(Exception):
+    pass
+
+
 def ask_candidates(client: OpenAI, article: dict, known_industries: list[str], known_companies: list[str]) -> dict:
     text = article.get("text", "")
     excerpt = text[:9000]
@@ -156,7 +163,7 @@ def ask_candidates(client: OpenAI, article: dict, known_industries: list[str], k
             choice = response.choices[0]
             content = choice.message.content or ""
             if not content.strip():
-                raise ValueError("empty content (likely reasoning token exhaustion)")
+                raise TransientLLMError("empty content (likely reasoning token exhaustion)")
             data = parse_json_content(content)
             return {
                 "industries": sorted(set(x.strip() for x in data.get("industries", []) if x.strip()), key=norm),
@@ -164,9 +171,12 @@ def ask_candidates(client: OpenAI, article: dict, known_industries: list[str], k
                 "reason": data.get("reason", ""),
             }
         except Exception as exc:
-            if attempt == 3:
-                return {"industries": [], "companies": [], "reason": f"LLM error: {exc}"[:500]}
-            time.sleep(2 * (attempt + 1))
+            if TRANSIENT_RE.search(str(exc)):
+                if attempt == 3:
+                    raise TransientLLMError(str(exc)[:500]) from exc
+                time.sleep(min(60, 5 * (attempt + 1)))
+                continue
+            return {"industries": [], "companies": [], "reason": f"LLM error: {exc}"[:500]}
     return {"industries": [], "companies": [], "reason": "unknown error"}
 
 
@@ -227,13 +237,11 @@ def main() -> None:
     known_records = load_known_records(root / "habr_companies_articles_entities_known.md")
     results = load_results(state_path)
 
-    api_key = os.environ.get("TOKENROUTER_API_KEY", "")
-    if not api_key and (root / ".env").exists():
+    api_key = os.environ.get("HABR_API_KEY", API_KEY)
+    if (root / ".env").exists():
         for line in (root / ".env").read_text(encoding="utf-8").splitlines():
-            if line.startswith("TOKENROUTER_API_KEY="):
-                api_key = line.split("=", 1)[1].strip()
-    if not api_key:
-        api_key = API_KEY
+            if line.startswith("HABR_API_KEY="):
+                api_key = line.split("=", 1)[1].strip() or api_key
     client = OpenAI(api_key=api_key, base_url=BASE_URL)
 
     done_batches = 0
@@ -252,14 +260,23 @@ def main() -> None:
                 pool.submit(ask_candidates, client, articles[url], known_industries, known_companies): url
                 for url in batch
             }
+            transient_failures = 0
             for future in as_completed(futures):
                 url = futures[future]
-                candidates = future.result()
+                try:
+                    candidates = future.result()
+                except TransientLLMError as exc:
+                    transient_failures += 1
+                    print(f"transient failure for {url}: {exc}", flush=True)
+                    continue
                 candidates["industries"] = [x for x in candidates.get("industries", []) if norm(x) not in known["industries"]]
                 candidates["companies"] = [x for x in candidates.get("companies", []) if norm(x) not in known["companies"]]
                 results[url] = {"url": url, "status": articles[url].get("status", 0), "candidates": candidates}
                 with state_path.open("a", encoding="utf-8") as fh:
                     fh.write(json.dumps(results[url], ensure_ascii=False) + "\n")
+            if transient_failures and transient_failures == len(batch):
+                print(f"whole batch failed transiently ({transient_failures}/{len(batch)}); aborting run to retry later", flush=True)
+                break
         write_report(report_path, urls, known_records, results)
         processed = sum(1 for url in urls if url in results)
         print(f"processed {processed}/{len(urls)}; batch {args.start + start + len(batch)}/{args.start + len(target_urls)}", flush=True)
