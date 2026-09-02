@@ -1217,8 +1217,8 @@
 - https://habr.com/ru/companies/agima/articles/575974/
 - Отрасли: диджитал, аналитики, образование
 - Компании: Хабр, AGIMA, Яндекс
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Usability, диджитал-дизайн, дизайн, рекламный бизнес
+- Кандидаты компаний: Adobe XD, Excel, Figma, Google, Google Analytics, Sketch, Огилви, Яндекс.Метрика
 
 - https://habr.com/ru/companies/agima/articles/577056/
 - Отрасли: аналитики, Дизайн и юзабилити
@@ -1230,7 +1230,7 @@
 - Отрасли: предлагает
 - Компании: Хабр, AGIMA, Яндекс, предлагает
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Bitrix, Chrome, Express, Google, Nuxt.js, PhantomJS, Prerender, Puppeteer, Vue.js
 
 - https://habr.com/ru/companies/agima/articles/582788/
 - Отрасли: Веб-разработка, Мобильные технологии, аналитики, CRM
@@ -1247,8 +1247,8 @@
 - https://habr.com/ru/companies/agima/articles/586092/
 - Отрасли: Мобильные технологии
 - Компании: Хабр, AGIMA, Далее, Яндекс
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: мобильная разработка
+- Кандидаты компаний: Albert Heijn, Apple, Bolt Food, CoinBase, Discord, eBay Motors, Facebook, Flutter, Google, Mattermost, React Native, Skype, Wix, Дикси, Мир корма, Ригла, Россельхозбанк, Свое родное, Яндекс.Про
 
 - https://habr.com/ru/companies/agima/articles/589495/
 - Отрасли: аналитики, Оптимизация
@@ -1259,8 +1259,8 @@
 - https://habr.com/ru/companies/agima/articles/591435/
 - Отрасли: аналитики
 - Компании: Хабр, AGIMA, Яндекс, быструю, Proto
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: онлайн-ритейл
+- Кандидаты компаний: Goods, Google, Sentry, Яндекс.Маркет
 
 - https://habr.com/ru/companies/agima/articles/596905/
 - Отрасли: не найдено
@@ -1301,14 +1301,14 @@
 - https://habr.com/ru/companies/agima/articles/654981/
 - Отрасли: диджитал
 - Компании: Хабр, AGIMA
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: мобильная разработка, продуктовый дизайн
+- Кандидаты компаний: Angular, Git, NPM, React, Storybook, Vue, Апстор, Скетч, Фигма
 
 - https://habr.com/ru/companies/agima/articles/655961/
 - Отрасли: Рекрутинг и HR
 - Компании: Хабр, AGIMA
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-индустрия, видеосвязь, спорт, экология
+- Кандидаты компаний: Managers Club, Team Canvas, TeamLead Club
 
 - https://habr.com/ru/companies/agima/articles/656929/
 - Отрасли: Веб-разработка
