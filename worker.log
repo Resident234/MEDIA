@@ -1,1 +1,49 @@
 processed 123/12038; batch 125/12038
+2026-09-02 16:16:07 watchdog: starting worker (done=117)
+2026-09-02 16:19:18 watchdog: starting worker (done=117)
+2026-09-02 16:22:15 watchdog: starting worker (done=117)
+2026-09-02 16:24:43 watchdog: starting worker (done=118)
+2026-09-02 16:26:26 watchdog: starting worker (done=118)
+2026-09-02 16:27:24 watchdog: starting worker (done=118)
+Traceback (most recent call last):
+  File "/mnt/h/s/Work_MEDIA/candidate_analysis_worker.py", line 14, in <module>
+    import requests
+ModuleNotFoundError: No module named 'requests'
+2026-09-02 16:27:24 watchdog: worker exited, restart in 30s
+2026-09-02 16:28:43 watchdog: starting worker (done=118)
+Traceback (most recent call last):
+  File "/mnt/h/s/Work_MEDIA/candidate_analysis_worker.py", line 14, in <module>
+    import requests
+ModuleNotFoundError: No module named 'requests'
+2026-09-02 16:28:43 watchdog: worker exited, restart in 30s
+2026-09-02 16:30:43 watchdog: starting worker (done=118)
+Traceback (most recent call last):
+  File "/mnt/h/s/Work_MEDIA/candidate_analysis_worker.py", line 14, in <module>
+    import requests
+ModuleNotFoundError: No module named 'requests'
+2026-09-02 16:30:44 watchdog: worker exited, restart in 30s
+2026-09-02 16:33:06 watchdog: starting worker (done=118)
+Traceback (most recent call last):
+  File "/mnt/h/s/Work_MEDIA/candidate_analysis_worker.py", line 14, in <module>
+    import requests
+ModuleNotFoundError: No module named 'requests'
+2026-09-02 16:33:06 watchdog: worker exited, restart in 30s
+2026-09-02 16:33:38 watchdog: starting worker (done=118)
+Traceback (most recent call last):
+  File "/mnt/h/s/Work_MEDIA/candidate_analysis_worker.py", line 14, in <module>
+    import requests
+ModuleNotFoundError: No module named 'requests'
+2026-09-02 16:33:38 watchdog: worker exited, restart in 30s
+2026-09-02 16:34:04 watchdog: starting worker (done=118)
+2026-09-02 16:44:41 watchdog: starting worker (done=118)
+2026-09-02 16:50:22 watchdog: starting worker (done=119)
+2026-09-02 17:00:42 watchdog: starting worker (done=119)
+2026-09-02 17:01:04 watchdog: starting worker (done=119)
+2026-09-02 17:02:06 watchdog: starting worker (done=119)
+processed 123/12038; batch 104/12038
+git error: fatal: detected dubious ownership in repository at '/mnt/h/s/Work_MEDIA'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /mnt/h/s/Work_MEDIA
+
+processed 148/12038; batch 150/12038
