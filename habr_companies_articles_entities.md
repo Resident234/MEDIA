@@ -8405,152 +8405,152 @@
 - https://habr.com/ru/companies/contentai/articles/509398/
 - Отрасли: ML, Natural Language Processing, NLP, образование
 - Компании: Хабр, Content AI
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: интеллектуальным технологиям, Искусственный интеллект, компьютерной лингвистике
+- Кандидаты компаний: ABBYY, ACM, AllenNLP, BERT, Dialogue Evaluation, fasttext, GENEA, ICPC, NLP Advanced Research Group, PyTorch, RuREBus-2020, R‑BERT, Диалог 2020, Минэкономразвития, Московский физико-технический институт (МФТИ), Физтех-школа прикладной математики и информатикии (ФПМИ) МФТИ
 
 - https://habr.com/ru/companies/contentai/articles/512942/
 - Отрасли: Natural Language Processing, Поисковые технологии, финансах, ERP
 - Компании: Хабр, Content AI, IDC, быструю, Галактика
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: большие данные, информационные системы, Искусственный интеллект, Космонавтика, машинное обучение, технологии обработки естественного языка, управление жизненным циклом изделий, цифровое производство
+- Кандидаты компаний: ABBYY, ABBYY Intelligent Search, Antares, Atlas V, Seagate, АО «НПО Энергомаш», Буран, Восток‑1, НПО Энергомаш, Роскосмос
 
 - https://habr.com/ru/companies/contentai/articles/514054/
 - Отрасли: консалтинг, OCR, облачных сервисов, IoT, облачные сервисы, провайдер, предлагает, торговые, Программное обеспечение
 - Компании: Хабр, Content AI, Gartner, Сбербанк, «Лаборатория Касперского», Магнит, Далее, провайдер, предлагает, IDC
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: B2B, IT-индустрии, рынок публичных облаков
+- Кандидаты компаний: .NET Core, ABBYY, ABBYY FlexiCapture, Cloud OCR SDK, GitHub, LinkedIn, Microsoft, NeoML, PostgreSQL, RabbitMQ, Redis, TimelinePI, Балтика, Тандер, ТМТ Консалтинг
 
 - https://habr.com/ru/companies/contentai/articles/515728/
 - Отрасли: NLP, RPA, аналитики, digital, BI, ETL, ERP, CRM, OCR, ML
 - Компании: Хабр, Content AI, Далее, Forrester, Альфа-Банк, ВТБ
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: бухгалтерских, кадровых, логистических
+- Кандидаты компаний: ABBYY, ABBYY Timeline, Content AI Data Mining, TimelinePI
 
 - https://habr.com/ru/companies/contentai/articles/518300/
 - Отрасли: OCR, транспортные, NLP, банках, бухгалтерия
 - Компании: Хабр, Content AI, Fesco
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: ECM/СЭД, архивы, библиотеки, логистические компании, транспортные компании, юридические фирмы
+- Кандидаты компаний: ABBYY, ABBYY FineReader Server, ABBYY Recognition Server, Kantor & Kantor, O’Reilly, PwC, SharePoint
 
 - https://habr.com/ru/companies/contentai/articles/521024/
 - Отрасли: Natural Language Processing, NLP
 - Компании: Хабр, Content AI, Далее, Тотальный диктант, Space, Сбербанк
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: ABBYY, Basic Automatic B.S. Essay Language (BABEL) Generator, ETS, MIT, Third Space Learning, World AI & Data Challenge, Университетского колледжа Лондона
 
 - https://habr.com/ru/companies/contentai/articles/538460/
 - Отрасли: Мобильные технологии
 - Компании: Хабр, Content AI
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: банковская отрасль, документооборот, мобильные устройства, юридические услуги
+- Кандидаты компаний: ABBYY, ABBYY FineScanner AI, ABBYY Mobile Capture SDK, ABBYY NeoML, Apple, Appsflyer, ARKit, Business Card Reader, TextGrabber
 
 - https://habr.com/ru/companies/contentai/articles/547030/
 - Отрасли: Консалтинг и поддержка, банках, предлагает, CRM, недвижимости
 - Компании: Хабр, Content AI, Сбербанк, предлагает, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: банки, контакт-центры
+- Кандидаты компаний: ABBYY, ABBYY Timeline, Bell Laboratories, Content AI Data Mining, ICE Partners, iKS-Consulting, Национальная ассоциация контактных центров (НАКЦ), Национальное агентство финансовых исследований (НАФИ)
 
 - https://habr.com/ru/companies/contentai/articles/551046/
 - Отрасли: Natural Language Processing, финансового, RPA
 - Компании: Хабр, Content AI, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: коммунальные услуги, производство, строительство, транспорт
+- Кандидаты компаний: ABBYY, ABBYY FlexiCapture, Charvel, Fender, Gretsch, Hamer, Jackson, National Safety Council, SAP, Squier, UiPath
 
 - https://habr.com/ru/companies/contentai/articles/562230/
 - Отрасли: Natural Language Processing, NLP, банках, BI, ML, здравоохранение, недвижимость, Machine Learning
 - Компании: Хабр, Content AI, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Банковский сектор, Искусственный интеллект, Машинное обучение
+- Кандидаты компаний: ABBYY, министерство здравоохранения Бангладеша, не упомянутое крупный банк, НПО «Энергомаш
 
 - https://habr.com/ru/companies/contentai/articles/563876/
 - Отрасли: ML, NLP, Оптимизация
 - Компании: Хабр, Content AI, AMD, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: машинное обучение
+- Кандидаты компаний: ABBYY, Azure DevOps, GitHub, NeoML
 
 - https://habr.com/ru/companies/contentai/articles/571054/
 - Отрасли: OCR, Computer Vision, Программное обеспечение
 - Компании: Хабр, Content AI, Surf, Далее, Тензор
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Искусственный интеллект, Машинное обучение, Обработка изображений
+- Кандидаты компаний: ABBYY
 
 - https://habr.com/ru/companies/contentai/articles/582956/
 - Отрасли: облачные сервисы, ML, OCR, NLP
 - Компании: Хабр, Content AI, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Искусственный интеллект
+- Кандидаты компаний: ABBYY, ABBYY Marketplace, ABBYY Vantage, Redis, RedLock.net, Workflow Core
 
 - https://habr.com/ru/companies/contentai/articles/595963/
 - Отрасли: предлагает, OCR, NLP, Мобильные технологии
 - Компании: Хабр, Content AI, предлагает, Арендовать
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Backend, DevOps, Frontend, low-code/no-code, искусственный интеллект, машинное обучение, облако
+- Кандидаты компаний: ABBYY, Argo CD, Cluster Overprovisioner, Consul, Docker, FastML, Flux, Jenkins X, Keda, Kubernetes, MSSQL, NeoML, Next.js 12, Nginx Ingress Controller, PostgreSQL, React 17, Redis Streams, Storybook, Webpack 5
 
 - https://habr.com/ru/companies/contentai/articles/596635/
 - Отрасли: NLP, OCR, digital, Computer Vision, Natural Language Processing
 - Компании: Хабр, Content AI, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: анализ и распознавание документов, анализ структуры документов, детектирование объектов на изображениях документов, искусственный интеллект, машинное обучение, мультимодальная классификация документов, обработка изображений, оптическое распознавание символов (OCR)
+- Кандидаты компаний: ABBYY, Google, Habr, Microsoft
 
 - https://habr.com/ru/companies/contentai/articles/597215/
 - Отрасли: NLP, Natural Language Processing
 - Компании: Хабр, Content AI, МТС, SberDevices, Яндекс, Далее
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: ABBYY, RuREBus, Минэкономразвития
 
 - https://habr.com/ru/companies/contentai/articles/599873/
 - Отрасли: ML, Программное обеспечение
 - Компании: Хабр, Content AI, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Искусственный интеллект, Машинное обучение, Обработка изображений
+- Кандидаты компаний: ABBYY, ABBYY FastML
 
 - https://habr.com/ru/companies/contentai/articles/647419/
 - Отрасли: Оптимизация, embedded, Программное обеспечение, Natural Language Processing
 - Компании: Хабр, Content AI, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: интеллектуальный анализ бизнес-процессов, компьютерного зрения, обработка естественного языка
+- Кандидаты компаний: .NET CLI, ABBYY, ABBYY NeoML, Borland, Build2, CMake, Flutter, Make, Meson, Ninja, VCL, VisualStudio
 
 - https://habr.com/ru/companies/contentai/articles/731436/
 - Отрасли: не найдено
 - Компании: Хабр, Content AI, Далее
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Active Directory, ContentReader Engine, Docker, GNOME, KDE, Kubernetes, Linux, LXDE, Mate, Ubuntu, Unity, Windows, Xfce
 
 - https://habr.com/ru/companies/contentai/articles/91837/
 - Отрасли: Рекрутинг и HR
 - Компании: Хабр, Content AI
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: ABBYY
 
 - https://habr.com/ru/companies/contentai/articles/96706/
 - Отрасли: Рекрутинг и HR
 - Компании: Хабр, Content AI
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT
+- Кандидаты компаний: ABBYY, FineReader, IBM
 
 - https://habr.com/ru/companies/contentai/articles/99114/
 - Отрасли: не найдено
 - Компании: Хабр, Content AI
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: перевод
+- Кандидаты компаний: ABBYY, ABBYY Aligner, Aligner, Aligner Online, FineReader
 
 - https://habr.com/ru/companies/croc/articles/110027/
 - Отрасли: Оптимизация, Программное обеспечение, Информационная безопасность, медиа
 - Компании: Хабр, КРОК, серверы, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: VDI, виртуализация
+- Кандидаты компаний: LSI Logic SAS, Microsoft, Microsoft Deployment Toolkit, Quest, Quest vWorkspace Agent, VMware, VMware ESX, VMware Tools, VMware View Agent
 
 - https://habr.com/ru/companies/croc/articles/110427/
 - Отрасли: виртуальные
 - Компании: Хабр, КРОК, серверы, RDP
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Active Directory, ESX, ESXi, iPad, LSI Logic SAS, QUEST, Quest AppPortal, Quest PNTools, Quest vWorkspace, SQL Express, VMware, VMware Infrastructure Client, VMware Tools, VMware vCenter, VMware vSphere, VMware Workstation, VMXNet3, Windows 7, Windows Server 2003, Windows Server 2008 R2
 
 - https://habr.com/ru/companies/croc/articles/110836/
 - Отрасли: Enterprise, Программное обеспечение
 - Компании: Хабр, КРОК, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: VDI, ИТ
+- Кандидаты компаний: Quest, Quest Software, Report Viewer, vWorkspace, vWorkspace Management Console, vWorkspace Sample Reporte Viewer
 
 - https://habr.com/ru/companies/croc/articles/120693/
 - Отрасли: Enterprise, ERP
