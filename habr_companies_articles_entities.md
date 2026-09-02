@@ -4805,152 +4805,152 @@
 - https://habr.com/ru/companies/avito/articles/478902/
 - Отрасли: ML, Machine Learning
 - Компании: Хабр, OZON, Далее, Авито
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: cloud native, машинное обучение
+- Кандидаты компаний: Avito, AvitoTech, Facebook, fasttext, Golang Москва, N26, Tensorflow, Timepad, YouTube
 
 - https://habr.com/ru/companies/avito/articles/479952/
 - Отрасли: digital, ML
 - Компании: Хабр, Авито
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: стальное производство
+- Кандидаты компаний: AvitoTech, GitHub, ManyChat, Severstal, Severstal Digital, Telegram, Timepad, YouTube, ВКонтакте
 
 - https://habr.com/ru/companies/avito/articles/483894/
 - Отрасли: не найдено
 - Компании: Хабр, Авито, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Хранение данных
+- Кандидаты компаний: Avito, AvitoTech, Booking.com, Confluent, Debezium, Netflix, YouTube
 
 - https://habr.com/ru/companies/avito/articles/485196/
 - Отрасли: digital, Электронная коммерция, Мобильные технологии
 - Компании: Хабр, Авито, OZON, Gett
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: fintech, marketplace
+- Кандидаты компаний: Avito, AvitoTech, drone.io, GolangKazan, Marketplace Technologies, meetup.com, Neuron.Digital, Ozon.ru, Provectus, Spiral Scout, Timepad, YouTube, Дремучий лес
 
 - https://habr.com/ru/companies/avito/articles/485290/
 - Отрасли: Natural Language Processing, NLP, Data science
 - Компании: Хабр, Авито
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: AvitoTech, Google, IMDb, Intento, Medium, Papers With Code, Towards Data Science
 
 - https://habr.com/ru/companies/avito/articles/486278/
 - Отрасли: не найдено
 - Компании: Хабр, Авито
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Хранение данных
+- Кандидаты компаний: Avito, AvitoTech, Booking.com, Confluent, Debezium, Facebook, YouTube, ВКонтакте
 
 - https://habr.com/ru/companies/avito/articles/487822/
 - Отрасли: недвижимости, Мобильные технологии
 - Компании: Хабр, Авито
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: мобильные приложения
+- Кандидаты компаний: Android Broadcast, Avito, AvitoTech, GDG Nizhny Novgorod, Google, Humans.net, MERA, Mobile People Talks, Sheraton, Telegram, Timepad, YouTube
 
 - https://habr.com/ru/companies/avito/articles/488214/
 - Отрасли: Enterprise
 - Компании: Хабр, Авито, OZON
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Базы данных, Конференции
+- Кандидаты компаний: AvitoTech, drone.io, GolangKazan, Marketplace Technologies, Ozon.ru, Дремучий лес
 
 - https://habr.com/ru/companies/avito/articles/488658/
 - Отрасли: не найдено
 - Компании: Хабр, Авито
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Машинное обучение
+- Кандидаты компаний: AvitoTech, faiss, Mail.ru, MinIO, PostgreSQL
 
 - https://habr.com/ru/companies/avito/articles/488716/
 - Отрасли: Веб-разработка, digital
 - Компании: Хабр
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: frontend, Web-разработка
+- Кандидаты компаний: AvitoTech, Facebook, Habr, Neuron.Digital, Provectus, Spiral Scout, YouTube, ВКонтакте
 
 - https://habr.com/ru/companies/avito/articles/488936/
 - Отрасли: Machine Learning
 - Компании: Хабр, Авито
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: машинное обучение
+- Кандидаты компаний: AvitoTech, GitHub, Google, Google Colab, iJavascript, Jupyter Notebook, npm, Telegram, TensorFlow, TensorflowJS
 
 - https://habr.com/ru/companies/avito/articles/490984/
 - Отрасли: Дизайн и юзабилити
 - Компании: Хабр, Авито
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Android, дизайн‑система, Разработка мобильных приложений
+- Кандидаты компаний: AvitoTech, Facebook, GitHub, Google, MERA, YouTube, Авито Юнит Speed, ВКонтакте
 
 - https://habr.com/ru/companies/avito/articles/491212/
 - Отрасли: не найдено
 - Компании: Хабр, Авито
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Ноутбуки
+- Кандидаты компаний: Avito, AvitoTech, MacBook
 
 - https://habr.com/ru/companies/avito/articles/491738/
 - Отрасли: Веб-разработка, масштабируемость, Мобильные технологии
 - Компании: Хабр, Авито, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: real-time нотификаций
+- Кандидаты компаний: Avito, AvitoTech, Badoo, GitHub, Mail.Ru, ManyChat, RabbitMQ, Redis, Spot.im
 
 - https://habr.com/ru/companies/avito/articles/491942/
 - Отрасли: недвижимость
 - Компании: Хабр, Авито
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Data Mining, интернет-магазины, мессенджеры, площадка для размещения объявлений
+- Кандидаты компаний: AvitoTech, finn.no, Tesla P40
 
 - https://habr.com/ru/companies/avito/articles/492584/
 - Отрасли: Мобильные технологии, BI, Data science, Рекрутинг и HR, Информационная безопасность
 - Компании: Авито, Хабр, Яндекс
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-индустрия, IT-компании, Категории продукты для частных пользователей
+- Кандидаты компаний: Wildberries, Гитхаб, Хоум Кредит Банк
 
 - https://habr.com/ru/companies/avito/articles/494150/
 - Отрасли: аналитики, Big Data
 - Компании: Авито, Хабр, серверы
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Базы данных
+- Кандидаты компаний: Avito, AvitoTech, ClickHouse, Integros, Timepad, YouTube, Онтико
 
 - https://habr.com/ru/companies/avito/articles/495078/
 - Отрасли: не найдено
 - Компании: Хабр, Авито
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Avito, AvitoTech, Tobii, Tobii Pro X3-120, Tobii Studio
 
 - https://habr.com/ru/companies/avito/articles/496036/
 - Отрасли: не найдено
 - Компании: не найдено
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: медийная реклама
+- Кандидаты компаний: Habr
 
 - https://habr.com/ru/companies/avito/articles/497562/
 - Отрасли: Программное обеспечение, Дизайн и юзабилити, ML, Data science, недвижимости
 - Компании: Хабр, СКБ Контур, iSpring, Авито
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Avito, AvitoTech, Beat, Go Yola, GolangKazan, Google, goway.io, HighLoad++, iSpring Solutions, MongoDB, RedHat, Streadway/amqp, Unity, Zoom, ВКонтакте, Гитхаб, ютуб
 
 - https://habr.com/ru/companies/avito/articles/499458/
 - Отрасли: Дизайн и юзабилити, ML
 - Компании: Хабр, СКБ Контур, iSpring, Авито
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Машинное обучение
+- Кандидаты компаний: AvitoTech Go, Beat, Go Yola, GolangKazan, GOnline, iSpring Solutions, MongoDB, S2 Geometry, TensorFlow, Unity, ВКонтакте
 
 - https://habr.com/ru/companies/avito/articles/500678/
 - Отрасли: аналитики
 - Компании: Хабр, Авито, Яндекс, Далее, серверы, Цифра, Arenadata
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Базы данных
+- Кандидаты компаний: Avito, AvitoTech, ClickHouse, GitHub, Integros, Yandex, «Яндекс.Метрики», Яндекс.Облако
 
 - https://habr.com/ru/companies/avito/articles/501698/
 - Отрасли: недвижимости
 - Компании: Хабр, Авито, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Авто, Личные вещи, мобильных приложений
+- Кандидаты компаний: Apple, AvitoTech, MyFitnessPal
 
 - https://habr.com/ru/companies/avito/articles/502686/
 - Отрасли: PaaS, ETL, аналитики, Дизайн и юзабилити
 - Компании: Авито, Хабр
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Design system, Monitoring, Performance, Search, Базы данных, Микросервисная архитектура
+- Кандидаты компаний: Apple, Avito, AvitoTech, Google, Yandex, Zoom
 
 - https://habr.com/ru/companies/avito/articles/505916/
 - Отрасли: Информационная безопасность, торговли, предлагает, ML
 - Компании: Авито, Хабр, предлагает, быструю
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: банковские услуги, доставка товаров, маркетплейсы, мессенджеры, онлайн‑торговля, платёжные системы
+- Кандидаты компаний: Avito, AvitoTech, Telegram
 
 - https://habr.com/ru/companies/avito/articles/506784/
 - Отрасли: не найдено
