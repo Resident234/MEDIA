@@ -5555,152 +5555,152 @@
 - https://habr.com/ru/companies/avito/articles/716664/
 - Отрасли: Информационная безопасность
 - Компании: Хабр, Авито
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: ИТ, социальные сети
+- Кандидаты компаний: Avito, AvitoTech, Confluence, Google Docs, Habr, Mesto, Telegram, Wikipedia
 
 - https://habr.com/ru/companies/avito/articles/718412/
 - Отрасли: не найдено
 - Компании: Хабр, Авито
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: AvitoTech
 
 - https://habr.com/ru/companies/avito/articles/718552/
 - Отрасли: не найдено
 - Компании: Хабр, Авито
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: AvitoTech, Excel, Jira
 
 - https://habr.com/ru/companies/avito/articles/719710/
 - Отрасли: Оптимизация, ML
 - Компании: Авито, Хабр, быструю
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: доставка, логистика
+- Кандидаты компаний: Avito, AvitoTech, Авито Доставка
 
 - https://habr.com/ru/companies/avito/articles/720880/
 - Отрасли: не найдено
 - Компании: Авито, Хабр, Цифра, Далее, IDX
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Avito, AvitoTech, AvitoTech Go, CEPH, Core Services Авито, Neo4j, PostgreSQL, specbuilder, Sphinx, SQLite, Сервис форм
 
 - https://habr.com/ru/companies/avito/articles/721434/
 - Отрасли: не найдено
 - Компании: Хабр, Авито
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: бэкенд, веб‑сервисы
+- Кандидаты компаний: Avito, AvitoTech, Postman
 
 - https://habr.com/ru/companies/avito/articles/726564/
 - Отрасли: не найдено
 - Компании: Хабр, Авито, серверы
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Data Centers
+- Кандидаты компаний: Apache Kafka, Avito, AvitoTech, Brief, gRPC, Jira, Kafka Federation
 
 - https://habr.com/ru/companies/avito/articles/727168/
 - Отрасли: не найдено
 - Компании: Хабр, Авито, быструю
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: интернет-магазин, мобильные телефоны
+- Кандидаты компаний: AvitoTech
 
 - https://habr.com/ru/companies/avito/articles/732870/
 - Отрасли: Big Data, аналитики, ML, DWH
 - Компании: Хабр, Авито, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Advertising, Analytics, Data Engineering, Data Mining
+- Кандидаты компаний: Apache Arrow, Apache Spark, Avito, AvitoTech, Jupyter, Sber, YARN
 
 - https://habr.com/ru/companies/avito/articles/734430/
 - Отрасли: Рекрутинг и HR
 - Компании: Хабр, Авито, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-индустрии, Управление персоналом
+- Кандидаты компаний: Avito, AvitoTech, Badoo, Lazada, Авито Товаров
 
 - https://habr.com/ru/companies/avito/articles/737598/
 - Отрасли: Веб-разработка
 - Компании: Хабр, Авито, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-индустрии, социальные сети, Управление персоналом
+- Кандидаты компаний: Avito, AvitoTech, LinkedIn, Solvery, Авито Услуг
 
 - https://habr.com/ru/companies/avito/articles/740232/
 - Отрасли: Big Data, аналитики, ML, Оптимизация, Информационная безопасность, DWH
 - Компании: Хабр, Авито, быструю, Space
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Data Mining
+- Кандидаты компаний: Apache Arrow, Apache Spark, Avito, AvitoTech, Jupyter notebook, PyArrow
 
 - https://habr.com/ru/companies/axenix/articles/top/
 - Отрасли: BI, аналитики, DWH, Платформенные сервисы
 - Компании: Axenix (ex-Accenture), Хабр, Далее, Arenadata
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Business Intelligence, автомобильных гигантов, игровых сервисов, облачных услуг, рынок BI, финансовых компаний
+- Кандидаты компаний: Accenture, Apache Kafka, Apache Spark, Apache Superset, Axenix, Dropbox, Greenplum, Instagram, Metabase, Netflix, Oracle, PostgreSQL, Power BI, Prometheus, Qlik, Spotify, Tableau, Teradata, Yandex, Yandex Datalens
 
 - https://habr.com/ru/companies/banki/articles/top/
 - Отрасли: умный дом, финтех
 - Компании: Банки.ру, Хабр, серверы, ТестОпс, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: машинное обучение, финансовый маркетплейс
+- Кандидаты компаний: Keycloak, Obsidian, Postman, Proxmox, React Hook Form, Yup, Zod, Zotero
 
 - https://habr.com/ru/companies/bar/articles/top/
 - Отрасли: Big Data, Оптимизация, Enterprise, Дизайн и юзабилити
 - Компании: Anarchic AI, Хабр, Axiom JDK, быструю
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Artificial Intelligence, Cloud Computing, Open Source, Software Development
+- Кандидаты компаний: AI2, Anthropic, Claude Code, GitLab, GraalVM, IntelliJ IDEA, Jakarta, Javawatch, JetBrains, OpenJDK, Princeton Institute for Advanced Study, Spring
 
 - https://habr.com/ru/companies/bastion/articles/583796/
 - Отрасли: Информационная безопасность, виртуальные
 - Компании: Хабр, Бастион, RDP
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Виртуализация, Корпоративная безопасность, Сетевая безопасность, Сетевые технологии
+- Кандидаты компаний: CentOS, Debian, Docker, MySQL, RHEL, Windows Server
 
 - https://habr.com/ru/companies/bastion/articles/587108/
 - Отрасли: Информационная безопасность, IoT
 - Компании: Хабр, Бастион, Space, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Интернет вещей, Онлайн‑кинотеатры, Операторы IPTV, Производство и разработка электроники
+- Кандидаты компаний: AliExpress, Amlogic S905X, AOSP, Charles, Cisco, Droidlogic A95X, Google, Khadas VIM1, Magisk, Mecool M8S PRO+, ODROID, Raspberry Pi, Ubuntu, XDA
 
 - https://habr.com/ru/companies/bastion/articles/589137/
 - Отрасли: Информационная безопасность
 - Компании: Хабр, Бастион, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Сетевые технологии, Софт
+- Кандидаты компаний: Bastion Security Platform, BSP, Docker, Windows Server 2016
 
 - https://habr.com/ru/companies/bastion/articles/591613/
 - Отрасли: Информационная безопасность, финансовая организация, CRM, ERP, информационной безопасности, финансы
 - Компании: Хабр, Бастион, RDP, OWASP, Далее
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: amass, Bastion-tech, burp suite, censys.io, domaineye.com, GeForce GTX 1050, MSSQL, PowerShellMafia, PowerSploit, PowerUpSQL, PowerView, subfinder, viewdns.info
 
 - https://habr.com/ru/companies/bastion/articles/598769/
 - Отрасли: Информационная безопасность, Программное обеспечение
 - Компании: Хабр, Бастион, RDP
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-инфраструктура, Тестирование IT-систем
+- Кандидаты компаний: Kali Linux, Metasploit, Microsoft, Mimikatz, Nmap, PsExec, Responder, Касперский
 
 - https://habr.com/ru/companies/bastion/articles/650071/
 - Отрасли: Информационная безопасность, информационной безопасности
 - Компании: Хабр, Бастион, Яндекс, СбермегаМаркет, 1С, Гарда
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: банковский сектор, ритейл, сотовые операторы, Хранение данных
+- Кандидаты компаний: Delivery Club, DigitalOcean, Greenplum, Manzana, Marriott, MS SQL, Oracle Database, Гарда БД, Яндекс.Еда
 
 - https://habr.com/ru/companies/bastion/articles/651869/
 - Отрасли: Информационная безопасность, информационной безопасности, digital
 - Компании: Хабр, Бастион, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Компьютерная криминалистика, Мониторинг хостов, Реагирование на инциденты
+- Кандидаты компаний: AChoir, Appliance for Digital Investigation and Analysis (ADIA), APT Hunter, artifactcollector, Autopsy, Azure Log Analytics, CyLR, DFIR ORC, DFIRTrack, DFTimewolf, Digital Forensics Framework, Docker, ElasticSearch, Fastfinder, FastIR Artifacts, Fenrir, Fleetdm, GitHub, GRR Rapid Response, IntelMQ, ir-rescue, IRIS, Kuiper, log2timeline, Logdissect, LogonTracer, Loki, Meerkat, MISP, Orochi, osquery, PhotoRec, POFR, Regipy, RegRipper, RegRippy, SANS Institute, SIFT Workstation, Skadi, Sleuth Kit, Splunk, STIX, StreamAlert, TheHive, Timesketch, UAC, Ubuntu, USBRip, Velociraptor, VirtualBox, VMware, Volatility 3, Wireshark, Xplico, Zentral
 
 - https://habr.com/ru/companies/bastion/articles/655471/
 - Отрасли: Информационная безопасность, облачные сервисы, информационной безопасности, Программное обеспечение, криптографии
 - Компании: Хабр, Бастион, Яндекс
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-инфраструктура, Криптография
+- Кандидаты компаний: Apple, Bastion Secure Cloud (BSC), Citibank, Google, Microsoft, Nitro Software, PostgreSQL, S3 MinIO, Safari
 
 - https://habr.com/ru/companies/bastion/articles/655795/
 - Отрасли: Информационная безопасность, кибербезопасности
 - Компании: Хабр, Бастион, Далее, 1С
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Управление персоналом
+- Кандидаты компаний: GoPhish, PhishKiller, Технотекст 2021
 
 - https://habr.com/ru/companies/bastion/articles/660169/
 - Отрасли: Информационная безопасность, бухгалтерия
 - Компании: Хабр, Бастион
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: социальная инженерия, тестирование на проникновение
+- Кандидаты компаний: Windows
 
 - https://habr.com/ru/companies/bastion/articles/662752/
 - Отрасли: информационной безопасности, кибербезопасности
