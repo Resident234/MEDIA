@@ -13505,152 +13505,152 @@
 - https://habr.com/ru/companies/flowwow/articles/top/
 - Отрасли: банках, SaaS, ML
 - Компании: Flowwow, Хабр, Далее, Яндекс
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: агрегатор цветочных магазинов, акселераторы, доставка цветов, маркетинг, маркетплейс цветов и подарков
+- Кандидаты компаний: Bustourpro, Flowwow.com, n8n, Spotify, Tolstoy Startup Camp, ФРИИ, Яндекс.Старт
 
 - https://habr.com/ru/companies/freelansim/articles/top/
 - Отрасли: финансового, предлагает
 - Компании: Хабр Фриланс, Хабр, Тинькофф, предлагает
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT
+- Кандидаты компаний: Тинькофф Бизнеса, Фрилансим
 
 - https://habr.com/ru/companies/friflex/articles/top/
 - Отрасли: ритейла, предлагает, Дизайн и юзабилити
 - Компании: Friflex, Хабр, предлагает
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: веб‑сервисы, графический дизайн, искусственный интеллект, кроссплатформенная разработка, машинное обучение, мобильные приложения, ритейл
+- Кандидаты компаний: Blender, ChatGPT, Droids On Roids, Figma, Flutter, flutter_map, Gemini, Google, GoogleMaps API, Kotlin Multiplatform, Linux, Linux Mint, Midjourney, Nano Banana, Stack Overflow, Very Good Ventures, Yandex, Yandex Mapkit SDK, yandex_mapkit, Система Быстрых Платежей (СБП)
 
 - https://habr.com/ru/companies/garage8/articles/top/
 - Отрасли: Рекрутинг и HR, Дизайн и юзабилити, ML
 - Компании: Garage Eight, Хабр, быструю, Циан
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: DevOps, IT, Product Design, облачные хранилища
+- Кандидаты компаний: Apple, Apple Design Awards, Big Walk, Cifrovoy rubel, CONFIG26, Figma, Instagram, karpov.courses, KFC, Koto, Mac Mini, Mac Studio, NATS, Nextcloud, Norton Museum of Art, RabbitMQ, Saint Highload++, Schweppes, Siri, Uber, WeMentoring, Women in Tech, WWDC26, Берлинского музея
 
 - https://habr.com/ru/companies/gaz-is/articles/top/
 - Отрасли: Информационная безопасность, информационной безопасности, предлагает, кибербезопасности, аналитики, транспортные
 - Компании: Газинформсервис, Хабр, предлагает
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: военный сектор, транспорт
+- Кандидаты компаний: Ankey ASAP, Jatoba, Offensive Security, SafeERP, SAP
 
 - https://habr.com/ru/companies/gazprombank/articles/562482/
 - Отрасли: не найдено
 - Компании: Хабр, Газпромбанк, Далее
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: BlockHound, Eureka, Hibernate, IBMMQ, JavaMail, MongoDB, Netty, Playtika, PostgreSQL, Reactive Feign, Spring Boot, Spring WebClient, Tomcat, WebFlux
 
 - https://habr.com/ru/companies/gazprombank/articles/654235/
 - Отрасли: не найдено
 - Компании: Хабр, Газпромбанк, Контур, Кошелёк, Далее
-- Кандидаты отраслей: не найдено
+- Кандидаты отраслей: IT-инфраструктура, Платежные системы
 - Кандидаты компаний: не найдено
 
 - https://habr.com/ru/companies/gazprombank/articles/659675/
 - Отрасли: процессинг
 - Компании: Хабр, Газпромбанк
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: MS, Visa
 
 - https://habr.com/ru/companies/gazprombank/articles/667982/
 - Отрасли: финансы, OCR, торговли, виртуальные
 - Компании: Хабр, Газпромбанк
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Банкоматы, Платёжные системы, Топливные компании
+- Кандидаты компаний: American Express, Bank of America, Barclays, Chemical Bank, Diners Club, Farrington Manufacturing, Flatbush, Interbank, Japan Credit Bureau, London Credit Exchange Company, MasterCard, Mobil Oil, VISA, Western Union
 
 - https://habr.com/ru/companies/gazprombank/articles/674298/
 - Отрасли: масштабируемость, финансы
 - Компании: Хабр, Газпромбанк, Далее
-- Кандидаты отраслей: не найдено
+- Кандидаты отраслей: it, финтеха
 - Кандидаты компаний: не найдено
 
 - https://habr.com/ru/companies/gazprombank/articles/678000/
 - Отрасли: виртуальные
 - Компании: Хабр, Газпромбанк, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: банковская сфера, инвестиционный бизнес, ИТ, кредитование, оборонзаказ, онлайн-торговля, розница, строительство
+- Кандидаты компаний: Highload++, Пивотал, Спрингу, Технотекст
 
 - https://habr.com/ru/companies/gazprombank/articles/685864/
 - Отрасли: Программное обеспечение
 - Компании: Хабр, Газпромбанк, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT, банковское IT, розница
+- Кандидаты компаний: Apple, AsyncAPI, Nexus, OpenApi 3.0, Xcode
 
 - https://habr.com/ru/companies/gazprombank/articles/694474/
 - Отрасли: банках, информационной безопасности
 - Компании: Хабр, Газпромбанк, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: банковская отрасль, финансовый сектор
+- Кандидаты компаний: Confluence, Excel, Jenkins, Jira, TeamCity, Word, Центробанк
 
 - https://habr.com/ru/companies/gazprombank/articles/699738/
 - Отрасли: аналитики, предлагает, финансового
 - Компании: Хабр, Газпромбанк, Далее, предлагает
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: банковская сфера
+- Кандидаты компаний: Jira, Zoom, Технотекст
 
 - https://habr.com/ru/companies/gazprombank/articles/702864/
 - Отрасли: процессинг, транспортные, виртуальные, аналитики
 - Компании: Хабр, Газпромбанк, Далее, Кошелёк
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Банковские услуги, Общественный транспорт, Платёжные системы
+- Кандидаты компаний: ClickHouse, GorodPay, Oracle, RabbitMQ, Огонь, Сеть партнёрств, СПЭК, Транспорт Онлайн
 
 - https://habr.com/ru/companies/gazprombank/articles/704246/
 - Отрасли: кибербезопасности, криптографии, информационной безопасности, финансового сектора, промышленные
 - Компании: Хабр, Газпромбанк, Базис
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: кибербезопасность, криптография, машинное обучение, фармакология
+- Кандидаты компаний: Amazon, Cloudflare, Google, GPT-2, GPT-3, IBM, IBM Q System One, Jiuzhang, Jiuzhang 2.0, Microsoft, NIST, Osprey, QApp, USTC, Xanadu, Zuchongzhi
 
 - https://habr.com/ru/companies/gazprombank/articles/705970/
 - Отрасли: Оптимизация
 - Компании: Хабр, Газпромбанк
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: alphaMetrica, Ansible, Elasticsearch, Prometheus
 
 - https://habr.com/ru/companies/gazprombank/articles/707284/
 - Отрасли: ML, Big Data
 - Компании: Хабр, Газпромбанк, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: дата-центры
+- Кандидаты компаний: Liquibase, Nginx
 
 - https://habr.com/ru/companies/gazprombank/articles/710740/
 - Отрасли: не найдено
 - Компании: Хабр, Газпромбанк, Далее
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: .Net Framework, Entity Framework, Entity Framework Core, Microsoft
 
 - https://habr.com/ru/companies/gazprombank/articles/712214/
 - Отрасли: ML, ETL
 - Компании: Хабр, Газпромбанк, Далее
-- Кандидаты отраслей: не найдено
+- Кандидаты отраслей: Машинное обучение, розничный бизнес, Хранение данных
 - Кандидаты компаний: не найдено
 
 - https://habr.com/ru/companies/gazprombank/articles/712384/
 - Отрасли: Домены и хостинг
 - Компании: Хабр, Газпромбанк
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: NoSql, Sql
+- Кандидаты компаний: ElasticSearch, Microsoft, NLog, NuGet, Serilog
 
 - https://habr.com/ru/companies/gazprombank/articles/715190/
 - Отрасли: Информационная безопасность, Программное обеспечение
 - Компании: Хабр, Газпромбанк, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-индустрии
+- Кандидаты компаний: Ansible, AWS, Chef, CNCF, Flux, GCP, Git, GitOps.tech, Helm, Kubernetes, Kustomize, puppet, puppet labs, puppet scm, Terraform, Weaveworks
 
 - https://habr.com/ru/companies/gazprombank/articles/715570/
 - Отрасли: не найдено
 - Компании: Хабр, Газпромбанк, Далее
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Docker, GitLab, Kubernetes
 
 - https://habr.com/ru/companies/gazprombank/articles/717098/
 - Отрасли: предлагает
 - Компании: Хабр, Газпромбанк, предлагает
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: DevOps
+- Кандидаты компаний: Bitnami Sealed Secrets, Flux, Git, Gitlab, Hashicorp Vault, Helm, Kubernetes, Kustomize, Kyverno, Mozilla SOPS, Terraform, WaveWorks
 
 - https://habr.com/ru/companies/gazprombank/articles/722620/
 - Отрасли: Программное обеспечение, Дизайн и юзабилити, аналитики, банках
 - Компании: Хабр, Газпромбанк, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: банковская сфера
+- Кандидаты компаний: DEV, github
 
 - https://habr.com/ru/companies/gazprombank/articles/724072/
 - Отрасли: предлагает, финансовая организация
