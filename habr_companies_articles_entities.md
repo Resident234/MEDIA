@@ -1055,7 +1055,7 @@
 - https://habr.com/ru/companies/agima/articles/421055/
 - Отрасли: Веб-разработка, аналитики
 - Компании: Хабр, AGIMA, Бэклог
-- Кандидаты отраслей: не найдено
+- Кандидаты отраслей: управление проектами, управление разработкой
 - Кандидаты компаний: не найдено
 
 - https://habr.com/ru/companies/agima/articles/422231/
@@ -1073,8 +1073,8 @@
 - https://habr.com/ru/companies/agima/articles/430080/
 - Отрасли: Веб-разработка
 - Компании: 1С, Хабр, AGIMA, серверы, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Программирование
+- Кандидаты компаний: 1C-Bitrix, 1С-Битрикс: Веб-окружение, RabbitMQ
 
 - https://habr.com/ru/companies/agima/articles/458590/
 - Отрасли: не найдено
@@ -1097,8 +1097,8 @@
 - https://habr.com/ru/companies/agima/articles/467873/
 - Отрасли: Рекрутинг и HR, аналитики, информационной безопасности, СМИ, финансового
 - Компании: Хабр, AGIMA, hh.ru, Skillbox, Нетология
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: аутстаффинг, веб- и мобильная разработка, веб-аналитика, мобильная аналитика, хантинг
+- Кандидаты компаний: Brand Analytics, Facebook, grintern, HeadHunter, Instagram, LinkedIn, Telegram, tproger, UXBastards, Uxclubs, vdhl, Webanalytics, YouTube, ВКонтакте, Мой Круг
 
 - https://habr.com/ru/companies/agima/articles/476534/
 - Отрасли: Рекрутинг и HR, риск-менеджмента, масштабируемость
@@ -1115,8 +1115,8 @@
 - https://habr.com/ru/companies/agima/articles/492204/
 - Отрасли: BI, аналитики, e-commerce, масштабируемость, CRM, стриминг
 - Компании: Хабр, AGIMA, Яндекс, быструю, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: страховые компании
+- Кандидаты компаний: Google, Google Analytics, Google Analytics 360, Google Cloud Platform, Microsoft, Power BI, Power BI Service, Яндекс.Метрика
 
 - https://habr.com/ru/companies/agima/articles/523222/
 - Отрасли: не найдено
@@ -1133,8 +1133,8 @@
 - https://habr.com/ru/companies/agima/articles/524654/
 - Отрасли: предлагает
 - Компании: Хабр, AGIMA, предлагает, серверы, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: DevOps, контейнеризация, микросервисная архитектура, микросервисы, мониторинг, облачные платформы
+- Кандидаты компаний: Alertmanager, Bitnami, Docker, Grafana, HAProxy, Helm, kube-state-metrics, Kubernetes, MCS, node-exporter, Prometheus, PushGateway, Redis, redis-exporter, Slack
 
 - https://habr.com/ru/companies/agima/articles/528564/
 - Отрасли: ERP, digital, аналитики, CRM, масштабируемость
