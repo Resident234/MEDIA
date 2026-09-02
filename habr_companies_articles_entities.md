@@ -6011,145 +6011,145 @@
 - https://habr.com/ru/companies/beeline_tech/articles/744798/
 - Отрасли: не найдено
 - Компании: Хабр, билайн
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: дизайн, Дизайн мобильных приложений, мобильные приложения
+- Кандидаты компаний: App Store, Beeline_tech, Google Play, Прививки — личный календарь
 
 - https://habr.com/ru/companies/beeline_tech/articles/746054/
 - Отрасли: масштабируемость
 - Компании: Хабр, билайн
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: высоконагруженные системы, платёжные системы, тестирование IT-систем
+- Кандидаты компаний: Storybook
 
 - https://habr.com/ru/companies/beeline_tech/articles/746940/
 - Отрасли: Программное обеспечение, Веб-разработка, Дизайн и юзабилити, предлагает
 - Компании: Хабр, билайн, Далее, предлагает
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: internet explorer, Лего
 
 - https://habr.com/ru/companies/beeline_tech/articles/746946/
 - Отрасли: ML, Дизайн и юзабилити, предлагает
 - Компании: Хабр, билайн, быструю, предлагает
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Дизайн, Программирование, фронтенд
+- Кандидаты компаний: Vaadin
 
 - https://habr.com/ru/companies/beeline_tech/articles/749316/
 - Отрасли: Поисковые технологии
 - Компании: Хабр, билайн
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT, Гаджеты, Смартфоны
+- Кандидаты компаний: AbiWord, Android, Apple, Archive.org, Clion, Compact Flash, Debian, DEC, Devuan, Dillo, Doom, GCC, HP, HP Jornada 720, HPCFactor, Intel, iPad Air, iPhone, iPhone SE, JLime, Jornada 680, Linux, Mac, marktplaats, Medion, Mini Mozilla, Nederlandse Spoorwegen, Nintendo, OpenTTD, Pocket Paint, Pocket Word, Poco F1, PostmarketOS, Qt Creator, Raspberry Pi, SimCity, Visual Studio, Windows CE
 
 - https://habr.com/ru/companies/beeline_tech/articles/750774/
 - Отрасли: Data science, аналитики, телекома, Оптимизация, ML, BigData
 - Компании: Хабр, билайн
-- Кандидаты отраслей: не найдено
+- Кандидаты отраслей: телеком
 - Кандидаты компаний: не найдено
 
 - https://habr.com/ru/companies/beeline_tech/articles/753810/
 - Отрасли: Machine Learning, ML, Data science
 - Компании: Хабр, билайн, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Data Engineering, DevOps
+- Кандидаты компаний: Apache Oozie, ArgoWorkflow, beeline business, BentoML, Ceph, Cookiecutter, GigaOm, Gitlab, Google, Hadoop, Hive, JupyterHub, JupyterLab, KeyCloak, KFServing, Kubernetes, Microsoft, Mlflow, MlFlow Serving, PySpark, Seldon, Seldon Core, VS Code
 
 - https://habr.com/ru/companies/beeline_tech/articles/755232/
 - Отрасли: финансы, ML
 - Компании: Хабр, билайн
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Finances в IT, IT, онлайн-игры, подписной моделью монетизации, стриминговые сервисы, управление продажами
+- Кандидаты компаний: Билайн ТВ
 
 - https://habr.com/ru/companies/beeline_tech/articles/759508/
 - Отрасли: не найдено
 - Компании: Хабр, билайн, ОК
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: beeline.ru, Beeline_tech
 
 - https://habr.com/ru/companies/beeline_tech/articles/761064/
 - Отрасли: СМИ, медиа, NLP
 - Компании: Хабр, билайн, Яндекс, Бэклог
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Анализ данных, Искусственный интеллект, Машинное обучение
+- Кандидаты компаний: Beeline, Beeline Business, Brand Analytics, Habr, Tadviser, VC.ru, Сколково, СколТех, Яндекс.дзен
 
 - https://habr.com/ru/companies/beeline_tech/articles/767018/
 - Отрасли: аналитики
 - Компании: Хабр, билайн
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-инфраструктура, ITSM, Системное администрирование
+- Кандидаты компаний: ADFS, Beeline_tech, Elastic, ELK, Grafana, Jira, NetCool, OpenDistro, Patrol, Prometheus, Tarantool, Zabbix
 
 - https://habr.com/ru/companies/belayaraduga/articles/553726/
 - Отрасли: предлагает, образование
 - Компании: Хабр, Белая Радуга, предлагает, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: аптека, дентальная индустрия, медицинская диагностика, стоматология, страхование, фармацевтика
+- Кандидаты компаний: Curaprox, DinAl, PresiDENT
 
 - https://habr.com/ru/companies/bercut/articles/761080/
 - Отрасли: аналитики
 - Компании: Хабр, Bercut, Space
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-инфраструктура, виртуализация, Высоконагруженные системы, мобильные сервисы, мониторинг, операторы цифровых услуг, операционные системы, Системное администрирование, СХД
+- Кандидаты компаний: AlertManager, GitHub, Grafana, Karma, Kubernetes, MS Teams, Prometheus, Prometheus‑Operator, prymitive, Telegram, Zulip
 
 - https://habr.com/ru/companies/bercut/articles/761560/
 - Отрасли: не найдено
 - Компании: Хабр, Bercut
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Habr
 
 - https://habr.com/ru/companies/bercut/articles/762254/
 - Отрасли: Платформенные сервисы, Enterprise, Связь и телекоммуникации, DWH
 - Компании: Хабр, Bercut, ПИК
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Data Warehouse, Высоконагруженные системы
+- Кандидаты компаний: API Gateway, ESB, Github, Notification Broker, Open JDK, Platform Core, SA Container, Scheduler, Service Profile Management, SLES, Spring
 
 - https://habr.com/ru/companies/bercut/articles/764352/
 - Отрасли: телекома, промышленные, No code
 - Компании: Хабр, Bercut, быструю, Далее, Контур
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: операторы сотовой связи, рынок телекома
+- Кандидаты компаний: BackOffice, GWT, Postgres, SLES, SmartGWT, Solaris Zone, Sun Sparc, Welcome SMS/Bonvoyage
 
 - https://habr.com/ru/companies/bercut/articles/top/
 - Отрасли: виртуальные
 - Компании: Bercut, Хабр
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: информационные системы, мобильные сервисы, операторы сотовой связи, операторы цифровых услуг
+- Кандидаты компаний: Borland InterBase, Delphi, J2ME, MS Access, MS FoxPro, Oracle, PostgreSQL
 
 - https://habr.com/ru/companies/bft/articles/top/
 - Отрасли: финансы
 - Компании: БФТ-Холдинг, Хабр, Контур, Далее, Госуслуги
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: геоинформационные системы (ГИС), государственные учреждения, ИТ
+- Кандидаты компаний: Apache Camel, Apache Kafka, authz-server, DataMaps, dbt (data build tool), DGS framework, Figma, GitHub, Greenplum, gRPC, Ice, RabbitMQ, Spring Boot, WebFlux, Zipkin, БФТ.Платформа, ЕСИА
 
 - https://habr.com/ru/companies/bimeister/articles/659041/
 - Отрасли: не найдено
 - Компании: Хабр, Bimeister, Далее
-- Кандидаты отраслей: не найдено
+- Кандидаты отраслей: Программирование
 - Кандидаты компаний: не найдено
 
 - https://habr.com/ru/companies/bimeister/articles/659273/
 - Отрасли: не найдено
 - Компании: Хабр, Bimeister, Space, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: веб-разработки
+- Кандидаты компаний: @emotion/css, Angular Material, Chrome dev tools, Lighthouse, React, SASS, Vue
 
 - https://habr.com/ru/companies/bimeister/articles/663048/
 - Отрасли: САПР, машиностроения, Оптимизация, Дизайн и юзабилити
 - Компании: Хабр, Bimeister, Газпром
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: CAD/CAM, IT-инфраструктура, IT-компании, машиностроение
+- Кандидаты компаний: Autodesk, Autodesk Inventor, PennState, Московский Политехнический Университет, технопарк.рф
 
 - https://habr.com/ru/companies/bimeister/articles/665230/
 - Отрасли: не найдено
 - Компании: Хабр, Bimeister
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: NoSQL, графовая база данных, Хранение данных
+- Кандидаты компаний: Docker, Kettle, Neo4j
 
 - https://habr.com/ru/companies/bimeister/articles/671900/
 - Отрасли: Информационная безопасность
 - Компании: Хабр, Bimeister, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: DevOps
+- Кандидаты компаний: Docker, Docker Desktop, Docker Hub, dotnet-sonarscanner, elasticsearch, GitLab, postgresql, SonarQube
 
 - https://habr.com/ru/companies/bimeister/articles/672634/
 - Отрасли: Веб-разработка
 - Компании: Хабр, Bimeister
-- Кандидаты отраслей: не найдено
+- Кандидаты отраслей: реляционных БД
 - Кандидаты компаний: не найдено
 
 - https://habr.com/ru/companies/bimeister/articles/678278/
