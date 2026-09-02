@@ -16356,55 +16356,55 @@
 - Отрасли: BPM
 - Компании: Хабр, Haulmont, Хабр Карьера
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Backoffice UI, CUBA Platform, Jmix, Jmix Studio, Liquibase, React, ReactJS, Spring Boot
 
 - https://habr.com/ru/companies/haulmont/articles/552622/
 - Отрасли: не найдено
 - Компании: Хабр, Haulmont, Хабр Карьера
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Habr
 
 - https://habr.com/ru/companies/haulmont/articles/553124/
 - Отрасли: Low code
 - Компании: Хабр, Haulmont, Хабр Карьера
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: CUBA Platform, Habr, Jmix, JPA Buddy
 
 - https://habr.com/ru/companies/haulmont/articles/554720/
 - Отрасли: не найдено
 - Компании: Хабр, Haulmont, Хабр Карьера
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Программирование
+- Кандидаты компаний: IntelliJ IDEA, JPA Buddy
 
 - https://habr.com/ru/companies/haulmont/articles/555544/
 - Отрасли: не найдено
 - Компании: Хабр, Haulmont, Хабр Карьера
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Flyway, IntelliJ IDEA, JPA Buddy, Sentry
 
 - https://habr.com/ru/companies/haulmont/articles/555902/
 - Отрасли: маркетинге, IoT, хостинг
 - Компании: Хабр, Haulmont, Далее, Хабр Карьера
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: open-source, облачные вычисления, технологическая индустрия
+- Кандидаты компаний: Apple, Microsoft
 
 - https://habr.com/ru/companies/haulmont/articles/563272/
 - Отрасли: не найдено
 - Компании: Хабр, Haulmont, Хабр Карьера
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT
+- Кандидаты компаний: Jmix, PlayStation
 
 - https://habr.com/ru/companies/haulmont/articles/564682/
 - Отрасли: не найдено
 - Компании: Хабр, Haulmont, Хабр Карьера
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Программирование
+- Кандидаты компаний: GitHub, IntelliJ IDEA, JPA Buddy
 
 - https://habr.com/ru/companies/haulmont/articles/568714/
 - Отрасли: не найдено
 - Компании: Хабр, Haulmont, Хабр Карьера
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: искусственный интеллект, программирование, разработка программного обеспечения
+- Кандидаты компаний: Codota, GitHub, Kite, OpenAI, Tabnine
 
 - https://habr.com/ru/companies/haulmont/articles/572574/
 - Отрасли: не найдено
@@ -16415,86 +16415,86 @@
 - https://habr.com/ru/companies/haulmont/articles/575672/
 - Отрасли: Enterprise, Мобильные технологии, BigData, образование
 - Компании: Хабр, Haulmont, Далее, hh.ru, Хабр Карьера
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Back-End, Front-End, Game Dev, IT, IT-индустрия
+- Кандидаты компаний: GitHub, JetBrains, Microsoft, Oracle, Tproger
 
 - https://habr.com/ru/companies/haulmont/articles/577080/
 - Отрасли: не найдено
 - Компании: Хабр, Haulmont, Хабр Карьера
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Программирование
+- Кандидаты компаний: Hibernate, Jetty, Spring Boot, Spring Framework, Tomcat
 
 - https://habr.com/ru/companies/haulmont/articles/577966/
 - Отрасли: Поисковые технологии, Enterprise
 - Компании: Хабр, Haulmont, Хабр Карьера
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Программирование
+- Кандидаты компаний: Advanced Management Console, GraalVM Enterprise, Java Management Service, Java SE, Oracle, Oracle JDK, Oracle Technology Network
 
 - https://habr.com/ru/companies/haulmont/articles/578260/
 - Отрасли: Программное обеспечение, Enterprise
 - Компании: Хабр, Haulmont, Хабр Карьера
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: корпоративная разработка, разработка программного обеспечения
+- Кандидаты компаний: Addison Wesley, HackerNews, Jmix, Oracle
 
 - https://habr.com/ru/companies/haulmont/articles/579386/
 - Отрасли: не найдено
 - Компании: Хабр, Haulmont, N+1, Хабр Карьера
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: энтерпрайз разработка
+- Кандидаты компаний: Hibernate, IntelliJ, JPA Buddy, MySQL, PostgreSQL, Spring
 
 - https://habr.com/ru/companies/haulmont/articles/589775/
 - Отрасли: облачные сервисы, облачных сервисов, ETL, Оптимизация
 - Компании: Хабр, Haulmont, ОК, серверы, Хабр Карьера
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: аналитика данных, облачные вычисления
+- Кандидаты компаний: Citus, Microsoft Azure, PGBouncer, PostgreSQL, Redis, ВОЗ, университет Хопкинса
 
 - https://habr.com/ru/companies/haulmont/articles/591633/
 - Отрасли: Оптимизация
 - Компании: Хабр, Haulmont, Хабр Карьера
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Программирование
+- Кандидаты компаний: Jmix, Oracle, Spring
 
 - https://habr.com/ru/companies/haulmont/articles/647395/
 - Отрасли: BPM, Low code
 - Компании: Хабр, Haulmont, Далее, Хабр Карьера
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT, корпоративное ПО
+- Кандидаты компаний: AWS, CloudControl, CUBA Platform, Flutter, GitLab, Jmix, JPA Buddy, Liquibase, React Buddy, Vaadin, Yandex.Cloud, РФРИТ
 
 - https://habr.com/ru/companies/haulmont/articles/648105/
 - Отрасли: предлагает
 - Компании: Хабр, Haulmont, предлагает, Хабр Карьера
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: программирование, разработка бизнес-приложений, разработка ПО
+- Кандидаты компаний: CUBA Platform, Eclipse Microprofile, Flyway, Helidon, Hibernate, Hibernate Types, IntelliJ IDEA Marketplace, Jakarta EE, Java EE, JetBrains, Jmix, JUGRu Group, Lombok, MapStruct, Micronaut, Quarkus, RedGate, Spring, Spring Data JPA
 
 - https://habr.com/ru/companies/haulmont/articles/653843/
 - Отрасли: провайдер, IoT, Оптимизация
 - Компании: Хабр, Haulmont, Далее, провайдер, Хабр Карьера
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Facebook, Hibernate, JPA Buddy, MySQL, Twitter
 
 - https://habr.com/ru/companies/haulmont/articles/712788/
 - Отрасли: Big Data, Программное обеспечение, аналитики, IoT, образование, BI, ETL, предлагает, видеоаналитики, транспортные, BigData
 - Компании: Хабр, Haulmont, Далее, предлагает, Хабр Карьера
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Oil and Gas Industry, Photography, Railway, Road Transport, Video Surveillance
+- Кандидаты компаний: Apache Kafka, Confluent, CUBA Platform, Grafana, Hadoop Hive, Hazelcast, JMIX, Kafka, PostgreSQL, Prometeus, SpringBoot, Wikipedia, Yandex Clickhouse, Zookeeper, Российский фонд развития информационных технологий, СМАРТС
 
 - https://habr.com/ru/companies/haulmont/articles/723764/
 - Отрасли: Мобильные технологии, ERP, CRM, BPM
 - Компании: Хабр, Haulmont, Хабр Карьера
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: IntelliJ IDEA, Jmix, Studio, Vaadin
 
 - https://habr.com/ru/companies/hexlet/articles/705194/
 - Отрасли: не найдено
 - Компании: Хабр, Хекслет, Skyeng
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: EventLoop, PHP Foundation, PHP Point, Roadrunner, Swoole, YouTube
 
 - https://habr.com/ru/companies/hflabs/articles/top/
 - Отрасли: банках, промышленные, ETL
 - Компании: HFLabs, Хабр, Почта России, МТС
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: B2B, банки, государственные и муниципальные структуры, интернет-магазины, крупный бизнес, службы доставки, страховые, телекомы
+- Кандидаты компаний: HumanFactorLabs, Land Rover, what3words.com, Дадата, КЛАДР, ООН, Подсказки, ФИАС, ФНС, ФСБ
 
 - https://habr.com/ru/companies/hh/articles/151853/
 - Отрасли: Рекрутинг и HR, медиа, Мобильные технологии, ритейла
