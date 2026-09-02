@@ -6455,152 +6455,152 @@
 - https://habr.com/ru/companies/bizone/articles/351122/
 - Отрасли: BI, Информационная безопасность, государственные организации, банках, кибербезопасности, Enterprise
 - Компании: Хабр, BI.ZONE, 1С, Далее, Сбербанк, ВТБ, Space
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: блокчейн
+- Кандидаты компаний: GitHub, Google, ICANN, Namecoin, Palo Alto Networks, Virus Total
 
 - https://habr.com/ru/companies/bizone/articles/359110/
 - Отрасли: BI, Информационная безопасность
 - Компании: Хабр, BI.ZONE, RET
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Apple, Debian, Hyper-V, Intel, macOS, Parallels, Ubuntu, Virtualbox, VMware, Windows
 
 - https://habr.com/ru/companies/bizone/articles/434626/
 - Отрасли: BI, Информационная безопасность, Enterprise
 - Компании: Хабр, BI.ZONE, Далее, 1С, серверы
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Антивирусная защита
+- Кандидаты компаний: Buhtrap, CFF Explorer, ConfuserEx, dnSpy, dotPeek, github.com/0xd4d/de4dot, github.com/cawk/ConfuserEx-Unpacker, IDA Pro, ILSpy, LimeRAT, Microsoft, Mozilla, QEMU, Reflector, VMWare
 
 - https://habr.com/ru/companies/bizone/articles/449686/
 - Отрасли: BI, Информационная безопасность, кибербезопасности, Аппаратное обеспечение
 - Компании: Хабр, BI.ZONE
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Компьютерное железо, Конференции
+- Кандидаты компаний: NVIDIA
 
 - https://habr.com/ru/companies/bizone/articles/453388/
 - Отрасли: BI, кибербезопасности, информационной безопасности
 - Компании: Хабр, BI.ZONE
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-индустрия, кибербезопасность, тестирование IT-систем
+- Кандидаты компаний: CentOS, Docker, Git, Go, Golang, Linux, OFFZONE, PostgreSQL, React, ReactJs, RobotFramework, Selenium, VmWare ESX, WebDriver, Windows
 
 - https://habr.com/ru/companies/bizone/articles/456804/
 - Отрасли: BI, Информационная безопасность
 - Компании: Хабр, BI.ZONE, Кошелёк, 1С, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: банковский сектор, кибербезопасность, криптовалюта
+- Кандидаты компаний: Bitcoin, chain.so, LiveJournal, Namecoin, RTM, Tor
 
 - https://habr.com/ru/companies/bizone/articles/457070/
 - Отрасли: BI, IoT
 - Компании: Хабр, BI.ZONE, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Носимая электроника, практической безопасности, Производство и разработка электроники, Схемотехника, Электроника для начинающих
+- Кандидаты компаний: Flappy Quote, OFFCOIN, OFFZONE
 
 - https://habr.com/ru/companies/bizone/articles/460631/
 - Отрасли: BI, кибербезопасности, IoT
 - Компании: Хабр, BI.ZONE
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IoT‑девайсов, кибербезопасность, Носимая электроника, Производство и разработка электроники, Схемотехника, Электроника для начинающих
+- Кандидаты компаний: Adafruit_SSD1306, Arduino, Blue Pill, Craft.Zone, Eclipse, ESP32, IAR, Keil, OFFCOIN, OFFZONE, STM32Duino, STM32F1, The Supercon Badge, TP4096, WS2812B, Резоните
 
 - https://habr.com/ru/companies/bizone/articles/480092/
 - Отрасли: BI, BPM
 - Компании: Хабр, BI.ZONE, Звук, DSP, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: звуковое оборудование, звукозапись, конференции, телефония
+- Кандидаты компаний: FourierScope, GitHub, go-dsp/fft, HighLoad++
 
 - https://habr.com/ru/companies/bizone/articles/481280/
 - Отрасли: BI, Информационная безопасность
 - Компании: Хабр, BI.ZONE
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: BiZone_team, Compose, CTFZone, CTFZone-2020, DEF CON, DEF CON CTF, Docker, GitHub, GitLab, Google, Grafana, HackerOne, Helm, Kubernetes, OFFZONE, Prometheus, Terraform, ZeroNights
 
 - https://habr.com/ru/companies/bizone/articles/486390/
 - Отрасли: BI, Информационная безопасность
 - Компании: Хабр, BI.ZONE
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: CTFZone, GitHub, libvshadow, libyal
 
 - https://habr.com/ru/companies/bizone/articles/487226/
 - Отрасли: BI, кибербезопасности, Аппаратное обеспечение, DIY
 - Компании: Хабр, BI.ZONE
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: кибербезопасность, Носимая электроника, Производство и разработка электроники, Схемотехника, Электроника для начинающих
+- Кандидаты компаний: CTFZONE, Offcoin, OFFZONE, Shitty Add-On
 
 - https://habr.com/ru/companies/bizone/articles/488180/
 - Отрасли: не найдено
 - Компании: не найдено
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: банковские системы
+- Кандидаты компаний: Habr, Hex-Rays, Imgur, Microsoft, Pastebin
 
 - https://habr.com/ru/companies/bizone/articles/492222/
 - Отрасли: BI, Информационная безопасность
 - Компании: Хабр, BI.ZONE
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: CTFZone, dnSpy, gchq, github.com, Kali Linux, OFFZONE, Swagger UI
 
 - https://habr.com/ru/companies/bizone/articles/493644/
 - Отрасли: BI, торговые, кибербезопасности, DIY, PKI, САПР, Аппаратное обеспечение
 - Компании: Хабр, BI.ZONE, Кошелёк, Контур
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Кибербезопасность, Носимая электроника, Электроника
+- Кандидаты компаний: CTFZone, DEFCON, NRF24L01, OFFCOIN, OFFZONE, pogo-pins, Raspberry PI, Shitty Add-on Connector, STM32F070R6P6, Tinkercad, WS2812B
 
 - https://habr.com/ru/companies/bizone/articles/508324/
 - Отрасли: BI, Информационная безопасность, Программное обеспечение
 - Компании: Хабр, BI.ZONE, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Антивирусная защита, Реверс-инжиниринг
+- Кандидаты компаний: Google, Google Drive, Microsoft, Microsoft Windows
 
 - https://habr.com/ru/companies/bizone/articles/515938/
 - Отрасли: Дизайн и юзабилити, BI, Информационная безопасность, кибербезопасности, виртуальные
 - Компании: Хабр, BI.ZONE, Контур, Далее, серверы
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Кибербезопасность, Криптография
+- Кандидаты компаний: CTFZone, DEF CON
 
 - https://habr.com/ru/companies/bizone/articles/525406/
 - Отрасли: BI, Информационная безопасность
 - Компании: Хабр, BI.ZONE, Далее
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Cyber Polygon
 
 - https://habr.com/ru/companies/bizone/articles/526168/
 - Отрасли: BI, Информационная безопасность
 - Компании: Хабр, BI.ZONE
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Active Directory, GitHub, Kali Linux, Microsoft, Mimikatz, MS-NRPC, Netlogon, Secura, Windows
 
 - https://habr.com/ru/companies/bizone/articles/531712/
 - Отрасли: BI, Информационная безопасность, embedded, Аппаратное обеспечение, Программное обеспечение
 - Компании: Хабр, BI.ZONE, Samsung
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Реверс-инжиниринг
+- Кандидаты компаний: Androguard, Android, Android Developers Blog, Android Gradle, Avast, Google, Google Play, Play Маркет, Walle
 
 - https://habr.com/ru/companies/bizone/articles/543276/
 - Отрасли: BI, Информационная безопасность, Программное обеспечение, криптографии
 - Компании: Хабр, BI.ZONE, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Криптография
+- Кандидаты компаний: MITRE, RSA, ST, STM, X-CUBE-CRYPTOLIB
 
 - https://habr.com/ru/companies/bizone/articles/547586/
 - Отрасли: BI, Информационная безопасность, digital, Медицина и здоровье
 - Компании: Хабр, BI.ZONE, Далее, серверы
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: medical imaging, медицинские технологии, медицинское оборудование
+- Кандидаты компаний: AFL, AFLNet, AISec, dcm2xml, dcmqrscp, DCMTK, Grinder Framework, NVIDIA CLARA, ORTHANC, SimpleITK, xml2dcm
 
 - https://habr.com/ru/companies/bizone/articles/549756/
 - Отрасли: BI, Информационная безопасность, Программное обеспечение
 - Компании: Хабр, BI.ZONE, Далее, серверы
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Антивирусная защита, Реверс-инжиниринг
+- Кандидаты компаний: Dr. Web, Kaspersky, McAfee, Support.com
 
 - https://habr.com/ru/companies/bizone/articles/551228/
 - Отрасли: BI, Информационная безопасность
 - Компании: Хабр, BI.ZONE, серверы
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Системное администрирование, Телефония
+- Кандидаты компаний: DEVCORE, Microsoft
 
 - https://habr.com/ru/companies/bizone/articles/553136/
 - Отрасли: BI, Информационная безопасность, Программное обеспечение
 - Компании: Хабр, BI.ZONE, RDP, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-компания, игорное заведение, образовательные учреждения, фармацевтические компании, финансовый институт
+- Кандидаты компаний: Carbanak, Carbanak Backdoor, Check Point Software Technologies, FIN7, FireEye, Forcepoint, Navigator Group, Zoominfo
 
 - https://habr.com/ru/companies/bizone/articles/559208/
 - Отрасли: BI, Информационная безопасность
