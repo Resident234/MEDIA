@@ -4955,152 +4955,152 @@
 - https://habr.com/ru/companies/avito/articles/506784/
 - Отрасли: не найдено
 - Компании: не найдено
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Облачный провайдер
+- Кандидаты компаний: AvitoTech, Backend United, NGINX, Sentry, Skyeng Math, Timepad, YouTube, МГУ, Яндекс.Облако
 
 - https://habr.com/ru/companies/avito/articles/507202/
 - Отрасли: Big Data, Data science, Электронная коммерция, Machine Learning
 - Компании: Хабр, Авито, Леруа Мерлен, OZON
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-консалтинг, travel, доставка товаров, интернет-магазин
+- Кандидаты компаний: Avito, Avito Доставка, AvitoTech, Emerging Travel Group, Ostrovok.ru, Timepad, YouTube
 
 - https://habr.com/ru/companies/avito/articles/507346/
 - Отрасли: embedded
 - Компании: Хабр, Далее, Авито
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Системное администрирование
+- Кандидаты компаний: Ansible, AvitoTech, Debian GNU/Linux, Git, Nginx, Puppet
 
 - https://habr.com/ru/companies/avito/articles/508730/
 - Отрасли: Информационная безопасность, Программное обеспечение, облачных сервисов
 - Компании: Хабр, Skyeng, Авито, Тинькофф, Яндекс
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Облачный провайдер
+- Кандидаты компаний: Avito, AvitoTech, Backend United, Sentry, Яндекс.Облака
 
 - https://habr.com/ru/companies/avito/articles/509260/
 - Отрасли: Big Data, Data science, Machine Learning
 - Компании: Хабр, Леруа Мерлен, Авито
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: интернет-магазины
+- Кандидаты компаний: Avito, AvitoTech, Data Accelerator, Ostrovok.ru, SWAT
 
 - https://habr.com/ru/companies/avito/articles/509280/
 - Отрасли: PaaS
 - Компании: Хабр, Авито, Далее
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Avito, AvitoTech, Heisenbug, jsonwire-grid, PowerUI, selenium-maper, Test Report System
 
 - https://habr.com/ru/companies/avito/articles/509392/
 - Отрасли: не найдено
 - Компании: Хабр, Авито
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: веб, мобильные приложения
+- Кандидаты компаний: Avito, AvitoTech, Google, Jaeger, Overlooker
 
 - https://habr.com/ru/companies/avito/articles/511860/
 - Отрасли: Программное обеспечение
 - Компании: Хабр, Авито, Яндекс
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: мобильные приложения
+- Кандидаты компаний: Arrow, Avito, AvitoTech, Buck, Clang, CocoaPods, Habr, Lyft, Puppet, Sigma Software, Swift, TeamCity, Timepad, Xcode, YouTube, Фейсбук, Яндекс.Браузер, Яндекс.Карты
 
 - https://habr.com/ru/companies/avito/articles/512146/
 - Отрасли: не найдено
 - Компании: Хабр, Авито, Далее, Яндекс
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: AvitoTech, Redis, Яндекс-карты
 
 - https://habr.com/ru/companies/avito/articles/513008/
 - Отрасли: предлагает, digital, виртуальные
 - Компании: Авито, Хабр, предлагает, быструю
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Ansible, Avito, AvitoTech, Chef, ClickHouse, Docker, Hiera, Kafka, Kubernetes, Puppet, PuppetDB, Puppetlabs, Salt
 
 - https://habr.com/ru/companies/avito/articles/513698/
 - Отрасли: не найдено
 - Компании: Хабр, Авито
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Разработка мобильных приложений
+- Кандидаты компаний: Avito, AvitoTech, DraftKings, Emcee, GitHub, Lyft, TeamCity, Telegram, ВКонтакте
 
 - https://habr.com/ru/companies/avito/articles/516650/
 - Отрасли: предлагает
 - Компании: Хабр, предлагает, Авито, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: мобильные игры, мобильные операционные системы, мобильные приложения, тестирование программного обеспечения
+- Кандидаты компаний: Android Instrumentation Framework, Android SDK, Avito, Avito test runner, AvitoTech, Avokado Project, Cucumber, Espresso, Fork, Google, Hamcrest, JUnit, Kakao, Kaspresso, Marathon, Robotium, Selendroid, Spoon, Ui Automator Viewer, UiAutomator
 
 - https://habr.com/ru/companies/avito/articles/516812/
 - Отрасли: аналитики
 - Компании: Хабр, Авито
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: мобильные приложения
+- Кандидаты компаний: AppStore, artifactory, Avito, AvitoTech, google-play, Jira, Nupokati, Slack, TeamCity
 
 - https://habr.com/ru/companies/avito/articles/518222/
 - Отрасли: процессинг
 - Компании: Хабр, Авито, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: мобильные приложения, рынок мобильных приложений
+- Кандидаты компаний: Avito, AvitoTech, BigQuery, Fabric, Fabricio, Firebase, Firebase-Crashlytics, Google, Google Cloud Functions, Jira, Nupokati, Slack
 
 - https://habr.com/ru/companies/avito/articles/519610/
 - Отрасли: не найдено
 - Компании: Хабр, Авито
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Avito, AvitoTech, pgbouncer, pgx, PostgreSQL
 
 - https://habr.com/ru/companies/avito/articles/522276/
 - Отрасли: Веб-разработка, недвижимость
 - Компании: Хабр, Авито, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Системы управления версиями, Управление разработкой
+- Кандидаты компаний: Avito, AvitoTech, BuyerX, npm
 
 - https://habr.com/ru/companies/avito/articles/523742/
 - Отрасли: не найдено
 - Компании: Авито, Хабр, Skyeng, SENSE, Яндекс
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Arrival, AvitoTech, Intercom, Joom, ManoMano, ProductSense, userinterviews.com, UXlab, UXSSR, Zoom
 
 - https://habr.com/ru/companies/avito/articles/525294/
 - Отрасли: Оптимизация
 - Компании: Хабр, Авито
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Высоконагруженные системы, Доставка, Службы доставки
+- Кандидаты компаний: Avito, AvitoTech, Elasticsearch, Kubernetes, MongoDB, pgbouncer, PostgreSQL, Sphinx
 
 - https://habr.com/ru/companies/avito/articles/525384/
 - Отрасли: аналитики, бухгалтерия
 - Компании: Хабр, 1С
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-индустрии
+- Кандидаты компаний: AvitoTech
 
 - https://habr.com/ru/companies/avito/articles/527400/
 - Отрасли: PaaS, Информационная безопасность
 - Компании: Авито, Хабр, Далее
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Avito, AvitoTech, Bitbucket, GitLab, Grafana, Helm, Kibana, kubectl, Kubernetes, PostgreSQL, Sentry, Vault
 
 - https://habr.com/ru/companies/avito/articles/529806/
 - Отрасли: PaaS
 - Компании: Хабр, Авито
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: AvitoTech, HelpDesk, Jira, Sentry, Slack
 
 - https://habr.com/ru/companies/avito/articles/533620/
 - Отрасли: Дизайн и юзабилити
 - Компании: Хабр, Тинькофф, Авито, Циан
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: UX/UI, Дизайн интерфейсов, краудсорсинг, мобильных приложений, продуктовый дизайн
+- Кандидаты компаний: Avito, AvitoTech, Klecks, Авито Работа
 
 - https://habr.com/ru/companies/avito/articles/533632/
 - Отрасли: не найдено
 - Компании: Авито, Хабр, Сравни
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: AvitoTech, Гитхабе
 
 - https://habr.com/ru/companies/avito/articles/539024/
 - Отрасли: Оптимизация, недвижимость, PaaS
 - Компании: Хабр, Авито, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: транспорт
+- Кандидаты компаний: Avito, AvitoTech
 
 - https://habr.com/ru/companies/avito/articles/539280/
 - Отрасли: Data science
 - Компании: Авито, Хабр, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: доставка
+- Кандидаты компаний: AvitoNet, AvitoTech, Gucci, Libra, Toloka, Камаза
 
 - https://habr.com/ru/companies/avito/articles/540242/
 - Отрасли: аналитики
