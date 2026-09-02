@@ -13955,152 +13955,152 @@
 - https://habr.com/ru/companies/getmatch/articles/645139/
 - Отрасли: не найдено
 - Компании: Хабр, getmatch, ОК
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-индустрия, такси
+- Кандидаты компаний: Free Now, Telegram, Uber, Твиттер
 
 - https://habr.com/ru/companies/getmatch/articles/651893/
 - Отрасли: медицина, образование, недвижимости
 - Компании: Хабр, getmatch, Пятёрочки, МКБ
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT, транспорт
+- Кандидаты компаний: Biedronka, Пятерочка
 
 - https://habr.com/ru/companies/getmatch/articles/657211/
 - Отрасли: медицина, образование
 - Компании: Хабр, getmatch
-- Кандидаты отраслей: не найдено
+- Кандидаты отраслей: IT-эмиграция
 - Кандидаты компаний: не найдено
 
 - https://habr.com/ru/companies/getmatch/articles/658521/
 - Отрасли: предлагает
 - Компании: Хабр, getmatch, предлагает
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: banking, healthcare, IT, real estate
+- Кандидаты компаний: Airbnb, Mastercard, Moderna, Pfizer, Telegram, Visa, МИР, Юнистрим
 
 - https://habr.com/ru/companies/getmatch/articles/660357/
 - Отрасли: медицина, образование
 - Компании: Хабр, getmatch, Арендовать
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT, VR, ИИ, туризм
+- Кандидаты компаний: g-bot, Porsche
 
 - https://habr.com/ru/companies/getmatch/articles/663046/
 - Отрасли: не найдено
 - Компании: Хабр, getmatch
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-эмиграция, доставка еды, криптовалюты, транспорт, туризм
+- Кандидаты компаний: Bank of Georgia, Booking, Glovo, myhome.ge, Telegram, Wolt, Золотая корона, МИР
 
 - https://habr.com/ru/companies/getmatch/articles/665298/
 - Отрасли: Рекрутинг и HR, диджитал, Мобильные технологии
 - Компании: Хабр, getmatch, Далее, hh.ru
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: mobile health
+- Кандидаты компаний: Exness, FutureToday, HeadHunter, LinkedIn, Telegram
 
 - https://habr.com/ru/companies/getmatch/articles/668718/
 - Отрасли: хостинг, телекома
 - Компании: Хабр, getmatch
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-индустрия, интернет-телефония, колл-центры
+- Кандидаты компаний: Bahnhof, Викиликс
 
 - https://habr.com/ru/companies/getmatch/articles/692802/
 - Отрасли: недвижимости, Рекрутинг и HR
 - Компании: Хабр, getmatch
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-индустрии, интернет вещей, сфера услуг
+- Кандидаты компаний: Amazon, Google, Lamoda, Microsoft, Numbeo, Snowflake, Spotify, Zalando
 
 - https://habr.com/ru/companies/getmatch/articles/707854/
 - Отрасли: медицина, образование, Рекрутинг и HR
 - Компании: Хабр, getmatch
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-индустрии, геймдев
+- Кандидаты компаний: jobs.bg, Klarna, LinkedIn, Mail.ru
 
 - https://habr.com/ru/companies/getmatch/articles/710756/
 - Отрасли: образование, медицина, e-commerce
 - Компании: Хабр, getmatch
-- Кандидаты отраслей: не найдено
+- Кандидаты отраслей: IT-индустрия
 - Кандидаты компаний: не найдено
 
 - https://habr.com/ru/companies/getmatch/articles/717530/
 - Отрасли: финтех, банках
 - Компании: Хабр, getmatch
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-индустрия, банки, туризм
+- Кандидаты компаний: Booking
 
 - https://habr.com/ru/companies/getmatch/articles/727380/
 - Отрасли: не найдено
 - Компании: Хабр, getmatch, Яндекс, OZON
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT‑индустрия, банковская отрасль
+- Кандидаты компаний: AIB, Amazon, Bank of Ireland, Daft, EBB, Google, QuantumSoft, Revolut
 
 - https://habr.com/ru/companies/getmatch/articles/top/
 - Отрасли: Рекрутинг и HR
 - Компании: getmatch, Хабр
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT
+- Кандидаты компаний: Boring Company, Cybertruck, DARPA, NASA, SpaceX, Starlink
 
 - https://habr.com/ru/companies/globalsign/articles/347874/
 - Отрасли: Информационная безопасность, digital, Аппаратное обеспечение
 - Компании: Хабр, GlobalSign, t2
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Linux, Open source, встроенные приложения, дата-центры, оборудование для хранения данных, производство микросхем, серверные CPU
+- Кандидаты компаний: Debian, Intel, Linux, mor1kx, OpenPOWER, OpenRISC, OpenRISC 1000, OpenSPARC, Oracle, RISC-V, RISC-V Foundation, SPARC T1, SPARC T2, Sun Microsystems, Western Digital
 
 - https://habr.com/ru/companies/globalsign/articles/348124/
 - Отрасли: Информационная безопасность, информационной безопасности
 - Компании: Хабр, GlobalSign, Positive Technologies
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: интернет-сервисы, криптовалюты, мобильная связь, сотовые сети
+- Кандидаты компаний: Elevate Security, Geektimes, Google, Google Authentificator App, Google Prompt, Habr, NIST, Pew Research Center, Telegram, The Register
 
 - https://habr.com/ru/companies/globalsign/articles/348346/
 - Отрасли: Информационная безопасность
 - Компании: Хабр, GlobalSign
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Системное администрирование
+- Кандидаты компаний: Amazon, Apple, Buypass, Certification Authority/Browser Forum (CA/B Forum), Certinomis, Certum, CFCA, Cisco, CNNIC, Comodo, DigiCert, Disig, Entrust Datacard, GDCA, Google, HARICA, Izenpe, Let’s Encrypt, Logius PKIoverheid, Microsoft, Mozilla, OATI, Opera, Qihoo 360, Quo Vadis, SHECA, SwissSign, SymantecTurkTrust, Trustwave
 
 - https://habr.com/ru/companies/globalsign/articles/348416/
 - Отрасли: Информационная безопасность, информационной безопасности, Аппаратное обеспечение, Программное обеспечение
 - Компании: Хабр, GlobalSign, Звук, Цифра, AMD, DELL, GIGABYTE
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: военные системы, звук, медицинское оборудование, системы связи, системы управления АЭС
+- Кандидаты компаний: Acer, Apple, Asus, Chrome, HP, Intel, Lenovo, OsmocomBB, Raspberry Pi, Sony, System Bus Radio, USENIX Security
 
 - https://habr.com/ru/companies/globalsign/articles/348690/
 - Отрасли: информационной безопасности, Информационная безопасность, кибербезопасности, медиа, Веб-сервисы
 - Компании: Хабр, GlobalSign, Gartner, Яндекс, серверы
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: блокчейн, Интернет вещей, киберпреступность
+- Кандидаты компаний: Amazon Echo, Cybersecurity Ventures, Google Home, HP, Pew Research Center, Statista, Wildcard SSL
 
 - https://habr.com/ru/companies/globalsign/articles/348988/
 - Отрасли: IoT, виртуальные
 - Компании: Хабр, GlobalSign, Samsung
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Децентрализованные сети, Интернет вещей
+- Кандидаты компаний: Amazon, Apple, Apple HomePod, Digi XStick, Github, Google, Let's Encrypt, Mozilla, Mozilla IoT, Mozilla Things Gateway, OpenZWave, Raspberry Pi, Raspberry Pi 3, Things Gateway, W3C
 
 - https://habr.com/ru/companies/globalsign/articles/349428/
 - Отрасли: Информационная безопасность, Веб-разработка
 - Компании: Хабр, GlobalSign, Яндекс
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Браузеры, Криптография
+- Кандидаты компаний: Ameblo, Android, Chrome, Chrome OS, Chromium, Cookpad, Firefox, Google, Google Analytics, Internet Security Research Group, Let's Encrypt, Mac, Mozilla, Rakuten, Windows, Yahoo Japan, Yandex.Metrika
 
 - https://habr.com/ru/companies/globalsign/articles/350048/
 - Отрасли: Информационная безопасность, Веб-разработка, PKI
 - Компании: Хабр, GlobalSign, OWASP
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Банковский сектор, Серверное администрирование, Центры сертификации
+- Кандидаты компаний: acme.sh, ACME4J, EasyHTTPs, Firefox, GetSSL, Hiawatha, IETF, ISRG, LEClient, Let's Encrypt, Net::ACME2, PayPal, PHP dehydrated
 
 - https://habr.com/ru/companies/globalsign/articles/350472/
 - Отрасли: Информационная безопасность, PKI, предлагает
 - Компании: Хабр, GlobalSign, предлагает
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Антивирусная защита
+- Кандидаты компаний: Antichat, Apple, C@T, Comodo, Cybereason, F-Secure, GlobalSign Russia, Insikt Group, JMicron, Marimba, Microsoft, Netscape, Realtek, Recorded Future, Symantec, Thawte
 
 - https://habr.com/ru/companies/globalsign/articles/350994/
 - Отрасли: кибербезопасности, Информационная безопасность, Программное обеспечение, информационной безопасности, IoT, облачные сервисы, PKI
 - Компании: Хабр, GlobalSign
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Кибербезопасность
+- Кандидаты компаний: Twitter
 
 - https://habr.com/ru/companies/globalsign/articles/351174/
 - Отрасли: Информационная безопасность, Программное обеспечение
 - Компании: Хабр, GlobalSign
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: AR и VR, Internet of Things, VR, виртуальная реальность, Интернет вещей, корпоративный сектор, разработка игр
+- Кандидаты компаний: Microsoft, Microsoft Authenticode, Oculus, Oculus Home, Oculus Rift, Oculus Runtime Service, Oculus Store, OculusAppFramework.dll, Windows, Windows 10, Windows 10 build 1607, Windows Defender, Windows Store
 
 - https://habr.com/ru/companies/globalsign/articles/351470/
 - Отрасли: Информационная безопасность
