@@ -73,3 +73,4 @@ OSError: [Errno 8] Exec format error: '/mnt/c/Windows/System32/cmd.exe'
 2026-09-02 19:38:02 watchdog: starting worker (done=173)
 2026-09-02 19:52:29 watchdog: starting worker (done=196)
 processed 198/12038; batch 177/12038
+processed 223/12038; batch 225/12038

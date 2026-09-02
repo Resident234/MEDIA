@@ -196,3 +196,28 @@
 {"url": "https://habr.com/ru/companies/agima/articles/569108/", "status": 200, "candidates": {"industries": ["аутсорс"], "companies": [], "reason": ""}}
 {"url": "https://habr.com/ru/companies/agima/articles/572360/", "status": 200, "candidates": {"industries": ["Социальные сети"], "companies": ["App Store", "AppsFlyer", "cocoapods", "Crashlytics", "Facebook", "Facebook Messenger", "Firebase", "Instagram", "OneLink", "Play Market", "Xcode"], "reason": ""}}
 {"url": "https://habr.com/ru/companies/agima/articles/524654/", "status": 200, "candidates": {"industries": [], "companies": [], "reason": "LLM error: empty content (likely reasoning token exhaustion)"}}
+{"url": "https://habr.com/ru/companies/agima/articles/582788/", "status": 200, "candidates": {"industries": [], "companies": ["1С-Битрикс", "Команда-А"], "reason": ""}}
+{"url": "https://habr.com/ru/companies/agima/articles/573690/", "status": 200, "candidates": {"industries": [], "companies": [], "reason": ""}}
+{"url": "https://habr.com/ru/companies/agima/articles/577056/", "status": 200, "candidates": {"industries": [], "companies": [], "reason": ""}}
+{"url": "https://habr.com/ru/companies/agima/articles/574210/", "status": 200, "candidates": {"industries": ["дизайн"], "companies": [], "reason": ""}}
+{"url": "https://habr.com/ru/companies/agima/articles/584130/", "status": 200, "candidates": {"industries": [], "companies": ["1С-Битрикс", "Axios", "Bitrix", "jQuery", "React.js", "Vue-router", "Vue.js", "Vuex", "Webpack"], "reason": ""}}
+{"url": "https://habr.com/ru/companies/agima/articles/596905/", "status": 200, "candidates": {"industries": ["Графический дизайн"], "companies": ["Google", "Linkedin", "Netflix", "Стим", "Фотошоп"], "reason": ""}}
+{"url": "https://habr.com/ru/companies/agima/articles/578056/", "status": 200, "candidates": {"industries": [], "companies": [], "reason": "LLM error: empty content (likely reasoning token exhaustion)"}}
+{"url": "https://habr.com/ru/companies/agima/articles/575974/", "status": 200, "candidates": {"industries": [], "companies": [], "reason": "LLM error: empty content (likely reasoning token exhaustion)"}}
+{"url": "https://habr.com/ru/companies/agima/articles/598537/", "status": 200, "candidates": {"industries": [], "companies": ["Astana Motors", "BMW", "Chevrolet", "Hyundai", "Mycar", "Mycar Prime", "Mycar.kz", "Авто.ру", "Из рук в руки"], "reason": ""}}
+{"url": "https://habr.com/ru/companies/agima/articles/646641/", "status": 200, "candidates": {"industries": ["IT-инфраструктура", "IT-компании", "интернет-маркетинг", "разработка"], "companies": ["AGIMA Outsource", "AGIMA Partners' Club", "Telegram", "Teletype"], "reason": ""}}
+{"url": "https://habr.com/ru/companies/agima/articles/597733/", "status": 200, "candidates": {"industries": [], "companies": ["Apache Kafka", "Bitrix", "RabbitMQ"], "reason": ""}}
+{"url": "https://habr.com/ru/companies/agima/articles/645285/", "status": 200, "candidates": {"industries": [], "companies": ["Google Forms", "Optimal Workshop", "Skype"], "reason": ""}}
+{"url": "https://habr.com/ru/companies/agima/articles/648273/", "status": 200, "candidates": {"industries": [], "companies": [], "reason": ""}}
+{"url": "https://habr.com/ru/companies/agima/articles/586092/", "status": 200, "candidates": {"industries": [], "companies": [], "reason": "LLM error: empty content (likely reasoning token exhaustion)"}}
+{"url": "https://habr.com/ru/companies/agima/articles/658559/", "status": 200, "candidates": {"industries": ["IT-индустрия", "заказная разработка", "рынок IT"], "companies": ["AGIMA Partners' Club", "AGIMA.Outsource", "HeadHunter", "Ситимобил"], "reason": ""}}
+{"url": "https://habr.com/ru/companies/agima/articles/591435/", "status": 200, "candidates": {"industries": [], "companies": [], "reason": "LLM error: empty content (likely reasoning token exhaustion)"}}
+{"url": "https://habr.com/ru/companies/agima/articles/656929/", "status": 200, "candidates": {"industries": [], "companies": ["Bootstrap"], "reason": ""}}
+{"url": "https://habr.com/ru/companies/agima/articles/659387/", "status": 200, "candidates": {"industries": ["Управление персоналом"], "companies": ["GeekBrains", "Google"], "reason": ""}}
+{"url": "https://habr.com/ru/companies/agima/articles/666600/", "status": 200, "candidates": {"industries": ["PetTech"], "companies": [], "reason": ""}}
+{"url": "https://habr.com/ru/companies/agima/articles/667876/", "status": 200, "candidates": {"industries": ["IT"], "companies": ["Google Translate", "UML Design", "Интегральный дизайн"], "reason": ""}}
+{"url": "https://habr.com/ru/companies/agima/articles/668770/", "status": 200, "candidates": {"industries": ["b2b-продажи", "IT"], "companies": ["1С-Битрикс", "Dadata", "ElasticSearch"], "reason": ""}}
+{"url": "https://habr.com/ru/companies/agima/articles/655961/", "status": 200, "candidates": {"industries": [], "companies": [], "reason": "LLM error: empty content (likely reasoning token exhaustion)"}}
+{"url": "https://habr.com/ru/companies/agima/articles/654981/", "status": 200, "candidates": {"industries": [], "companies": [], "reason": "LLM error: empty content (likely reasoning token exhaustion)"}}
+{"url": "https://habr.com/ru/companies/agima/articles/664480/", "status": 200, "candidates": {"industries": ["IT", "строительство"], "companies": ["Trello", "гугл-таблица"], "reason": ""}}
+{"url": "https://habr.com/ru/companies/agima/articles/589495/", "status": 200, "candidates": {"industries": [], "companies": ["Google", "Google PageSpeed", "Perf Track", "socket.io"], "reason": ""}}
