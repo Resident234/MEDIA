@@ -14555,152 +14555,152 @@
 - https://habr.com/ru/companies/globalsign/articles/464761/
 - Отрасли: DIY, Информационная безопасность, предлагает
 - Компании: Хабр, GlobalSign, предлагает
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: видеонаблюдение, Интернет вещей, Транспорт
+- Кандидаты компаний: ALPR Unconstrained, Darknet/YoloV3, DEF CON, Express, Facenet, GitHub, Google, Google Open Images, Jetson Nano, Jetson Xavier, Keras, Mercedes-Menz, MongoDB, Node.js, Nvidia, Nvidia TensorRT, Pi 4B, Pi Zero W, Surveillance Detection Scout, Tensorflow, Tesla, Tesla Model 3, Tesla Model S, Tesla USB
 
 - https://habr.com/ru/companies/globalsign/articles/464981/
 - Отрасли: Информационная безопасность, предлагает
 - Компании: Хабр, GlobalSign, Далее, предлагает
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Браузеры, Медийная реклама
+- Кандидаты компаний: Apple, Chrome, Do Not Track, Enhanced Tracking Protection, Federal Trade Commission, Firefox, Google, Google Chrome, Intelligent Tracking Prevention, Mozilla, Privacy Sandbox, Safari, The New York Times
 
 - https://habr.com/ru/companies/globalsign/articles/465497/
 - Отрасли: Информационная безопасность, предлагает, информационной безопасности, digital
 - Компании: Хабр, GlobalSign, предлагает
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Серверное администрирование
+- Кандидаты компаний: CurlyTP, Digital Dead Drop, PirateBox
 
 - https://habr.com/ru/companies/globalsign/articles/466911/
 - Отрасли: Информационная безопасность, Веб-разработка
 - Компании: Хабр, GlobalSign
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: анализ данных, Серверное администрирование
+- Кандидаты компаний: hiQ, hiQ Labs, LinkedIn, Microsoft
 
 - https://habr.com/ru/companies/globalsign/articles/467259/
 - Отрасли: криптографии, Информационная безопасность, PKI
 - Компании: Хабр, GlobalSign
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: корпоративный сектор, криптография, серверное администрирование
+- Кандидаты компаний: Active Directory, BadSSL.com, CA/Browser Forum, Chrome, Firefox, Google, Let's Encrypt, Microsoft, Mozilla, OpenSSL
 
 - https://habr.com/ru/companies/globalsign/articles/467539/
 - Отрасли: Связь и телекоммуникации
 - Компании: Хабр, GlobalSign
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: 360, Amazon, Apple, Buypass, CA/Browser Forum (CABF), Camerfirma, Certigna (DHIMYOTIS), certSIGN, Certum (Asseco), CFCA, Chrome, Chunghwa Telecom, Cisco, Comsign, D-TRUST, DarkMatter, Digicert, eMudhra, Entrust Datacard, Firefox, Firmaprofesional, GDCA, GoDaddy, Google, Habr, HARICA, Izenpe, Kamu SM, Let's Encrypt, Logius, Microsoft, Mozilla, Network Solutions, OATI, Opera, PKIoverheid, SECOM, Sectigo (бывший Comodo CA), SecureTrust (бывшая Trustwave), SHECA, SSL.com, SwissSign, TrustCor, TurkTrust, TWCA
 
 - https://habr.com/ru/companies/globalsign/articles/468445/
 - Отрасли: Информационная безопасность, провайдер
 - Компании: Хабр, GlobalSign, провайдер
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: CDN, Браузеры, Криптография
+- Кандидаты компаний: Chrome, Chromium, Cleanbrowsing, Cloudflare, DNS.SB, Firefox, Firefox Nightly, Google, Mozilla, OpenDNS, Quad9
 
 - https://habr.com/ru/companies/globalsign/articles/469449/
 - Отрасли: Информационная безопасность
 - Компании: Хабр, GlobalSign
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Браузеры, Дизайн, Интерфейсы
+- Кандидаты компаний: Bank of America Corporation, CA/Browser Forum, Chrome, Chrome Security UX, Cloudflare, Firefox, Google, Google Safe Browsing, Intuit Inc., mint.com, NSS Labs, Safari, ФБР
 
 - https://habr.com/ru/companies/globalsign/articles/470093/
 - Отрасли: Информационная безопасность, облачные сервисы, PKI, SaaS, Программное обеспечение, масштабируемость, предлагает
 - Компании: Хабр, GlobalSign, серверы, Далее, предлагает
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Серверное администрирование
+- Кандидаты компаний: Aberdeen Group, Active Directory Certificate Services (AD CS), GlobalSign Auto Enrollment Gateway (AEG), Microsoft
 
 - https://habr.com/ru/companies/globalsign/articles/470389/
 - Отрасли: Информационная безопасность
 - Компании: Хабр, GlobalSign
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Браузеры, интернет-провайдеров, мессенджерах, цифровой индустрии
+- Кандидаты компаний: Chrome, Cloudflare, Firefox, Google, Internet Watch Foundation, ISPA-UK, Mozilla, OpenDNS, The Guardian, The Register, Trusted Recursive Resolver, Общество защиты интернета, РКН
 
 - https://habr.com/ru/companies/globalsign/articles/471078/
 - Отрасли: Информационная безопасность, Веб-разработка
 - Компании: Хабр, GlobalSign
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Браузеры
+- Кандидаты компаний: Chrome, Cloudflare, Edge, Firefox, Google, Google Chrome, Lighthouse, Safari, WordPress
 
 - https://habr.com/ru/companies/globalsign/articles/471372/
 - Отрасли: Информационная безопасность, медиа, предлагает, Enterprise, хостинг, PKI
 - Компании: Хабр, GlobalSign, Сбербанк, InfoWatch, предлагает
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: банки, госкомпании
+- Кандидаты компаний: Azure Active Directory (Azure AD), Azure Information Protection, GlobalSign PKI, Habr, Intune, Microsoft, Microsoft Enterprise Mobility + Security (EMS), Skype
 
 - https://habr.com/ru/companies/globalsign/articles/472354/
 - Отрасли: Информационная безопасность, кибербезопасности, информационной безопасности
 - Компании: Хабр, GlobalSign
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Кибербезопасность, Криптография, Облачные приложения, Облачные услуги, социальные сети, Электронная почта
+- Кандидаты компаний: Gmail, Google, GSuite, Microsoft, Proofpoint, Sanmina
 
 - https://habr.com/ru/companies/globalsign/articles/473634/
 - Отрасли: Информационная безопасность, информационной безопасности, провайдер
 - Компании: Хабр, GlobalSign, провайдер, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: DNS‑резолверы, браузеры, интернет‑провайдеры, мобильные ОС
+- Кандидаты компаний: Chrome, Cloudflare, Cloudflare DNS, Comcast, EFF, Firefox, Google, Google Public DNS, IETF, Mozilla, Vice
 
 - https://habr.com/ru/companies/globalsign/articles/474550/
 - Отрасли: Информационная безопасность
 - Компании: Хабр, GlobalSign, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Браузеры
+- Кандидаты компаний: Certainly Something, Certificate Viewer, Chrome, Firefox, Google, Nightly
 
 - https://habr.com/ru/companies/globalsign/articles/475586/
 - Отрасли: Информационная безопасность
 - Компании: Хабр, GlobalSign, Звук, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Браузеры
+- Кандидаты компаний: Airbnb, AudioContext Fingerprint Defender, Chrome, Coinbase, Expedia, Firefox, Hotels.com, Kustomer, NY Times, OpenGenus, Opera, Retail Equation, Riskified, Sift, Tor, Zeta Global
 
 - https://habr.com/ru/companies/globalsign/articles/476186/
 - Отрасли: PKI, Информационная безопасность, облачные сервисы, криптографии
 - Компании: Хабр, GlobalSign
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Серверное администрирование
+- Кандидаты компаний: Ansible, HashiCorp, HashiCorp Vault, Jenkins, Kubernetes, Let's Encrypt, OpenShift, OpenSSL, Pivotal Cloud Foundry, Red Hat, SaltStack, Terraform, Venafi, Venafi Cloud, Venafi Secrets Engine
 
 - https://habr.com/ru/companies/globalsign/articles/477554/
 - Отрасли: финансы, Программное обеспечение
 - Компании: Хабр, GlobalSign
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-инфраструктура, Доменные имена, Финансы в IT
+- Кандидаты компаний: Abry Partners, Domain Name Wire, Donuts, Ethos Capital, ICANN, Internet Commerce Association, Public Interest Registry (PIR), The Internet Society (ISOC), Ай Ти Инвест, РДП.ру, Технологии трафика
 
 - https://habr.com/ru/companies/globalsign/articles/477990/
 - Отрасли: Информационная безопасность
 - Компании: Хабр, GlobalSign, Звук
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Браузеры, Звук
+- Кандидаты компаний: AudioStegano, AudioStego, BitCrypt, Chrome, DeepSound, Edge, Firefox, MP3Stego, QuickStego, quiet, Quiet.js, Safari, Steghide
 
 - https://habr.com/ru/companies/globalsign/articles/479022/
 - Отрасли: Информационная безопасность, торговли, IoT, предлагает, PKI
 - Компании: Samsung, Хабр, GlobalSign, предлагает
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Smart TV, дата‑майнинг, Интернет вещей, контент, маркетинг, реклама, телевидение, торговля данными
+- Кандидаты компаний: Apple, Bose, Bose Connect, FTC, Google, Inscape, IoT Inspector, LG, Nielsen, Princeton University, Samba TV, Samsung 5 Series, Sony, TCL, The Washington Post, Vizio
 
 - https://habr.com/ru/companies/globalsign/articles/480120/
 - Отрасли: криптографии, Информационная безопасность, Оптимизация
 - Компании: Хабр, GlobalSign
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Квантовая криптография, Криптография, Математика
+- Кандидаты компаний: CADO-NFS, IBM, Intel Xeon Gold 6130, RSA, RSA Factoring Challenge, Французского национального института информатики и прикладной математики
 
 - https://habr.com/ru/companies/globalsign/articles/481318/
 - Отрасли: Информационная безопасность, Веб-разработка
 - Компании: Хабр, GlobalSign
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Типографика
+- Кандидаты компаний: Android, GitHub, GitHub Pages, iOS, Messenger, WhatsApp
 
 - https://habr.com/ru/companies/globalsign/articles/483736/
 - Отрасли: Информационная безопасность, Поисковые технологии, предлагает
 - Компании: Хабр, GlobalSign, Яндекс, Далее, предлагает
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Bellingcat, Bing, Cornell Lab, Facebook, FlagID, Google, Google Image Search, Google Translate, Google Фото, Instagram, Merlin Bird ID, Nissan, Nissan Juke, Twitter, Яндекс.Диск, Яндекс.Картинки
 
 - https://habr.com/ru/companies/globalsign/articles/484804/
 - Отрасли: Информационная безопасность, PKI, криптографии, масштабируемость, IoT, предлагает
 - Компании: Хабр, GlobalSign, предлагает
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: DevOps, Интернет вещей, Криптография
+- Кандидаты компаний: Venafi
 
 - https://habr.com/ru/companies/globalsign/articles/487882/
 - Отрасли: Информационная безопасность, предлагает, медиа, PKI
 - Компании: Хабр, GlobalSign, предлагает
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Браузеры, видеореклама
+- Кандидаты компаний: AdBlock Plus, Alphabet, BBC, Brave, Chrome, Chromium, Coalition for Better Ads, Edge, Forbes, Google, Google Chrome, MSN, O'Reilly Media, Opera, Reuters, The New York Times, uBlock Origin, Vivaldi, Yandex, YouTube
 
 - https://habr.com/ru/companies/globalsign/articles/490584/
 - Отрасли: Информационная безопасность, промышленные, IoT
