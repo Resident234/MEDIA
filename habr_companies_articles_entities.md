@@ -12605,74 +12605,74 @@
 - https://habr.com/ru/companies/domclick/articles/658393/
 - Отрасли: не найдено
 - Компании: Хабр, Домклик
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Микросервисы
+- Кандидаты компаний: Docker-compose, Java, Kotlin, MockServer, postgres, rest-assured, serenity-bdd, Spring Boot, spring framework, Testcontainers
 
 - https://habr.com/ru/companies/domclick/articles/662401/
 - Отрасли: не найдено
 - Компании: Хабр, Домклик
-- Кандидаты отраслей: не найдено
+- Кандидаты отраслей: IT‑сообщество, ветеринарный институт, ВУЗ, инклюзивная школа, колледж, психиатрический стационар, университет, школа
 - Кандидаты компаний: не найдено
 
 - https://habr.com/ru/companies/domclick/articles/672546/
 - Отрасли: Программное обеспечение
 - Компании: Хабр, Домклик, Далее
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Docker, MongoDB, Visual Studio Code
 
 - https://habr.com/ru/companies/domclick/articles/673610/
 - Отрасли: не найдено
 - Компании: Хабр, Домклик, DELL, AMD, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: компьютерная техника, ноутбуки, сервисные центры
+- Кандидаты компаний: Dell XPS, fwupd, Ideapad, Intel, Intel Exteme Tuning Utility, Lenovo, ThrottleStop, Windows, XPS
 
 - https://habr.com/ru/companies/domclick/articles/673648/
 - Отрасли: предлагает
 - Компании: Хабр, Домклик, Space, Далее, предлагает
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Nvidia, Smart vision
 
 - https://habr.com/ru/companies/domclick/articles/674194/
 - Отрасли: не найдено
 - Компании: Хабр, Домклик
-- Кандидаты отраслей: не найдено
+- Кандидаты отраслей: Программирование
 - Кандидаты компаний: не найдено
 
 - https://habr.com/ru/companies/domclick/articles/675770/
 - Отрасли: умный дом, IoT
 - Компании: Хабр, Домклик, Samsung, Далее, Контур
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: домашняя автоматизация
+- Кандидаты компаний: Android, Domoticz, HACS, Home Assistant, ioBroker, LocalTuya, Mosquitto, Raspberry Pi, Termux, Texas Instruments, Tuya
 
 - https://habr.com/ru/companies/domclick/articles/677514/
 - Отрасли: предлагает, Дизайн и юзабилити
 - Компании: Хабр, Домклик, предлагает
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Ansible, Docker, GitLab, GitLab CI, Grafana, HashiCorp, Helm, Jenkins, Kubernetes, Molecule, Nginx, Packer, Puppet, Restic, S3, Slack, Terraform, tflint, Vault
 
 - https://habr.com/ru/companies/domclick/articles/682364/
 - Отрасли: провайдер, Информационная безопасность, Enterprise
 - Компании: Хабр, Домклик, провайдер, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: DNS, VPS
+- Кандидаты компаний: Ansible, AWS, Calico, GitHub, GKE, ingress-nginx, Kubernetes, kubernetes-sigs, Kubespray, MetalLb, NGINX, Ubuntu, vmmanager
 
 - https://habr.com/ru/companies/domclick/articles/686568/
 - Отрасли: Веб-разработка, кибербезопасности
 - Компании: Хабр, Домклик
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: кибербезопасность
+- Кандидаты компаний: Apache JMeter, Elasticsearch, ELK-стек, Grafana, Kibana, Logstash, Prometheus, Sentry, SonarQube, Telegram, wrk
 
 - https://habr.com/ru/companies/domclick/articles/687058/
 - Отрасли: не найдено
 - Компании: Хабр, Домклик
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-индустрии
+- Кандидаты компаний: Slack, Telegram
 
 - https://habr.com/ru/companies/domclick/articles/687106/
 - Отрасли: не найдено
 - Компании: Хабр, Домклик
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Docker, MongoDB, Nest, npm
 
 - https://habr.com/ru/companies/domclick/articles/689064/
 - Отрасли: не найдено
@@ -12684,73 +12684,73 @@
 - Отрасли: не найдено
 - Компании: Хабр, Домклик
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: npm, React, ReactDOM, yarn
 
 - https://habr.com/ru/companies/domclick/articles/690058/
 - Отрасли: виртуальные
 - Компании: Хабр, Домклик
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-инфраструктура, Open source
+- Кандидаты компаний: Cisco, FRRouting, Juniper, OPNsense
 
 - https://habr.com/ru/companies/domclick/articles/691240/
 - Отрасли: не найдено
 - Компании: Хабр, Домклик, Далее, Space
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Docker, JIB, Kubernetes, Spring Boot, Spring Boot Admin
 
 - https://habr.com/ru/companies/domclick/articles/692814/
 - Отрасли: не найдено
 - Компании: Хабр, Домклик, Далее
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Ansible, Bazel, dotenv, GitHub, Go, Gradle, HashiCorp, Helm, HOCON, Icinga2, ini, Java, Jenkins, JSON, KotlinScript, Kubernetes, Nginx, Starlark, TeamCity, Terraform, TOML, VSCode, XML, zclconf
 
 - https://habr.com/ru/companies/domclick/articles/699582/
 - Отрасли: Веб-разработка
 - Компании: Хабр, Домклик, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Системы сборки, Тестирование веб-сервисов
+- Кандидаты компаний: @swc/core, @swc/jest, Babel, babel-jest, esbuild, Jest, npm, React, SWC, TypeScript, Vite, yarn
 
 - https://habr.com/ru/companies/domclick/articles/704940/
 - Отрасли: не найдено
 - Компании: Хабр, Домклик
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-инфраструктура, Сетевое оборудование, Сетевые технологии
+- Кандидаты компаний: FRR, FRRouting, Juniper, Juniper MX204, JunOS, OPNsense
 
 - https://habr.com/ru/companies/domclick/articles/706964/
 - Отрасли: не найдено
 - Компании: Хабр, Домклик, Далее
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Docker, MongoDB
 
 - https://habr.com/ru/companies/domclick/articles/709916/
 - Отрасли: не найдено
 - Компании: Хабр, Домклик, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: облачные хранилища
+- Кандидаты компаний: Amazon, Amazon S3, Azure blob storage, Domклик, Microsoft, Microsoft Azure, Rush.js
 
 - https://habr.com/ru/companies/domclick/articles/712392/
 - Отрасли: Рекрутинг и HR
 - Компании: Хабр, Домклик
-- Кандидаты отраслей: не найдено
+- Кандидаты отраслей: ипотека
 - Кандидаты компаний: не найдено
 
 - https://habr.com/ru/companies/domclick/articles/722256/
 - Отрасли: Оптимизация, Веб-разработка
 - Компании: Хабр, Домклик
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Системы сборки
+- Кандидаты компаний: @swc/jest, bundlephobia, ESLint, eslint-config-airbnb, Jest, jest-slow-test-reporter, npm, statoscope, SWC, webpack, webpack-bundle-analyzer
 
 - https://habr.com/ru/companies/domclick/articles/724552/
 - Отрасли: Data science
 - Компании: Хабр, Домклик
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Data Engineering, Машинное обучение
+- Кандидаты компаний: BERT, DeepPavlov, ELMO, Fasttext, GPT-3, H2O, LAMA, roBERTa, SBERT, Sentence Transformer, Господдержка 2020
 
 - https://habr.com/ru/companies/domclick/articles/725164/
 - Отрасли: предлагает, ML
 - Компании: Хабр, Домклик, предлагает, ОК
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: fp-ts, Lodash, Ramda, Sanctuary, Youtube
 
 - https://habr.com/ru/companies/domclick/articles/731926/
 - Отрасли: Программное обеспечение
