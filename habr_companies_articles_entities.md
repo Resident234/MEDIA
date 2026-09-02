@@ -5855,152 +5855,152 @@
 - https://habr.com/ru/companies/bastion/articles/731172/
 - Отрасли: Информационная безопасность, предлагает, виртуальные, CRM, IoT, промышленные
 - Компании: Хабр, Бастион, предлагает, RDP, OWASP, серверы, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Сетевые технологии
+- Кандидаты компаний: AWS, Chameleon, Community Honey Network, Conpot, cowrie, DDoSPot, DecoyMini, DejaVU, Dicompot, Dionaea, Ehoney, Elasticsearch, fapro, gate, Glastopf, glutton, Grafana, GreedyBear, GreyNoise, HellPot, Heralding, HFish, HONEYCOMB, HoneyHash, HoneyHTTPD, HoneyPress, Honeytrap, IVRE, Kafka, Kerberoast, Log4Pot, Masscanned, medusa, MHN, Mimicry, MushMush Foundation, MySQL, OpenCanary, opencanary_web, prickly-pete, Raven Server, Slack, SNARE, Snort, Splunk, SSDP, T-Pot, TANNER, TELNET, udpot
 
 - https://habr.com/ru/companies/bastion/articles/736212/
 - Отрасли: Информационная безопасность, аутсорсинг, аналитики, образование
 - Компании: Хабр, Бастион, Positive Technologies
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-индустрии, Threat Intelligence
+- Кандидаты компаний: Cyber Leadership Institute
 
 - https://habr.com/ru/companies/bastion/articles/738226/
 - Отрасли: Информационная безопасность, IoT, медиа, умный дом
 - Компании: Хабр, Бастион, серверы, Proto, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Интернет вещей
+- Кандидаты компаний: Android, Apktool, Chromecast, DEFCON, Frida, Google, Google Cast, Google Home, Google Home Mini, Google Nest Hub, JADX, mitmproxy, nmap, OkHttp, Xposed
 
 - https://habr.com/ru/companies/bastion/articles/740654/
 - Отрасли: Информационная безопасность, системы видеонаблюдения, виртуальные
 - Компании: Хабр, Бастион, Далее, Яндекс
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: GitHub, Offensive Security, Pastebin
 
 - https://habr.com/ru/companies/bastion/articles/745518/
 - Отрасли: Информационная безопасность, информационной безопасности, кибербезопасности, медиа, предлагает, аналитики, промышленность, Программное обеспечение, IoT, СМИ
 - Компании: Хабр, Бастион, UserGate, Security Vision, OWASP, предлагает, Gartner, SENSE, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-индустрия, Кибербезопасность, Промышленная кибербезопасность
+- Кандидаты компаний: Apple, Avast, AVLEONOV, Castbox, CISA, CISOseries, CovertSwarm, CyberRisk Alliance, CyberWare-X, CyberWire, CYFIRMA, Google, HackerNoon, Infosec, Internet Storm Center, ITSec.ru, Kali OS, LimaCharlie, Microsoft, MITRE, OffSec, Inc., Positive Hack Days, Red Barn, Risky Business, SANS, SC Media, Smashing Security, Sophos, Spotify, Интеллектуальная безопасность
 
 - https://habr.com/ru/companies/beeline_cloud/articles/734164/
 - Отрасли: не найдено
 - Компании: Хабр, Beeline Cloud, Далее, Цифра
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: облачный провайдер
+- Кандидаты компаний: BotFather, GitHub, Telegram, Telegram API, Telegram Bot API
 
 - https://habr.com/ru/companies/beeline_cloud/articles/740184/
 - Отрасли: не найдено
 - Компании: Хабр, Beeline Cloud
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: ASCII-арт, IT, secure cloud provider, Брендинг, Дизайн, Игры, телеграф
+- Кандидаты компаний: 8bit Guy, ASA, Commodore, Dwarf Fortress, IBM, NASA
 
 - https://habr.com/ru/companies/beeline_cloud/articles/742214/
 - Отрасли: предлагает, Поисковые технологии
 - Компании: Хабр, Beeline Cloud, предлагает
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: облачный провайдер
+- Кандидаты компаний: Alembic, Elasticsearch, hunspell, pg_trgm, Postgres, Postgres PRO, PostgreSQL, RUM, Sphinx, SQLAlchemy
 
 - https://habr.com/ru/companies/beeline_cloud/articles/744792/
 - Отрасли: Веб-разработка, Игры и развлечения, медиа, облачных сервисов, Оптимизация
 - Компании: Хабр, Beeline Cloud, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Игры и игровые консоли, Мессенджеры, Метавселенная, Социальные сети
+- Кандидаты компаний: AOL, Azure, Bitmoji, Bitstrips, CNN, Epic Games, Facebook, Fortnite, GitHub, Gorillaz, IBM, LucasArts Entertainment, Meta, Microsoft, Microsoft Mesh, Myspace, NASA, Reuters, Second Life, Snap, Snapchat, Sun Microsystems, Yahoo! Avatars, ВКонтакте
 
 - https://habr.com/ru/companies/beeline_cloud/articles/746720/
 - Отрасли: BI, Big Data, аналитики, финансового сектора, CRM, предлагает, ETL, облачных сервисов, Информационная безопасность
 - Компании: Хабр, Beeline Cloud, 1С, Далее, Visiology, предлагает
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: госкомпании, крупный бизнес, малый бизнес, министерства, рынок BI, средний бизнес, стриминговые сервисы, финансовый сектор, энергетический холдинг
+- Кандидаты компаний: Apache Superset, Beeline Cloud Big Data, Cloud BI, DataLens, PostgreSQL, SQLAlchemy
 
 - https://habr.com/ru/companies/beeline_cloud/articles/749580/
 - Отрасли: предлагает
 - Компании: Хабр, Beeline Cloud, предлагает
-- Кандидаты отраслей: не найдено
+- Кандидаты отраслей: облачный провайдер
 - Кандидаты компаний: не найдено
 
 - https://habr.com/ru/companies/beeline_cloud/articles/756486/
 - Отрасли: PaaS
 - Компании: Хабр, Beeline Cloud
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: DevOps, IT‑индустрии, облачная инфраструктура, облачные провайдеры
+- Кандидаты компаний: Just me and Opensource, Rancher, Unsplash.com
 
 - https://habr.com/ru/companies/beeline_cloud/articles/762280/
 - Отрасли: не найдено
 - Компании: Хабр, Beeline Cloud, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: интернет-магазин
+- Кандидаты компаний: Base Cloud DevOps
 
 - https://habr.com/ru/companies/beeline_tech/articles/719426/
 - Отрасли: OLAP, аналитики, масштабируемость, виртуальные, Оптимизация
 - Компании: Хабр, билайн, быструю, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Базы данных, Высоконагруженные системы, Хранение данных
+- Кандидаты компаний: Apache Kafka, Apache Spark, beeline tech, Clickhouse, Hadoop, MongoDB, MsSQL, Oracle, PostgreSQL
 
 - https://habr.com/ru/companies/beeline_tech/articles/722520/
 - Отрасли: Информационная безопасность, кибербезопасности
 - Компании: Хабр, билайн, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Искусственный интеллект, кибербезопасность, Машинное обучение
+- Кандидаты компаний: Microsoft, OpenAI, text-davinci-003
 
 - https://habr.com/ru/companies/beeline_tech/articles/723348/
 - Отрасли: Enterprise, Оптимизация
 - Компании: Хабр, билайн
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: телеком
+- Кандидаты компаний: argo-cd, gatsby, GitHub, HolyJS 2023 Spring, loadable, nextjs, Node.JS, React, React-18, react-loadable, react-universal-component, ReactFlight, ReactJS, webpack-module-federation, WMF
 
 - https://habr.com/ru/companies/beeline_tech/articles/724952/
 - Отрасли: аналитики, Big Data, образование
 - Компании: Хабр, билайн
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: call‑центр, IT, IT‑индустрии, геоаналитика, сотовой связи
+- Кандидаты компаний: Access, Excel, Qlik, VBA, Windows, Youtube, Гуглу
 
 - https://habr.com/ru/companies/beeline_tech/articles/726614/
 - Отрасли: Big Data, IoT, городской инфраструктуры, банках, аналитики, Программное обеспечение
 - Компании: Хабр, билайн, ВТБ, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: FMCG, IIoT, банки, Геоинформационные сервисы, девелопмент, коммерческая сфера, мониторинг окружающей среды, ритейл, сельское хозяйство, социальная сфера, транспортная сфера, туризм
+- Кандидаты компаний: Apache Sedona, Apache Software Foundation, Apache Spark, beeline tech, ESRI, Geospark
 
 - https://habr.com/ru/companies/beeline_tech/articles/727088/
 - Отрасли: не найдено
 - Компании: Хабр, билайн
-- Кандидаты отраслей: не найдено
+- Кандидаты отраслей: IT-индустрии, Управление персоналом, Управление проектами
 - Кандидаты компаний: не найдено
 
 - https://habr.com/ru/companies/beeline_tech/articles/729504/
 - Отрасли: не найдено
 - Компании: Хабр, билайн
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-инфраструктура
+- Кандидаты компаний: Telegram, Zabbix
 
 - https://habr.com/ru/companies/beeline_tech/articles/731706/
 - Отрасли: СМИ, предлагает
 - Компании: Хабр, билайн, предлагает
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT, беспилотные автомобили, коммерческие авиалайнеры, поездах, программирование, сфера разработки ПО
+- Кандидаты компаний: Beeline_tech, www.python-gui-builder.com
 
 - https://habr.com/ru/companies/beeline_tech/articles/734382/
 - Отрасли: финтех, Рекрутинг и HR
 - Компании: Хабр, билайн, Бэклог
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-индустрии, R&D, бигдата
+- Кандидаты компаний: Beeline_tech
 
 - https://habr.com/ru/companies/beeline_tech/articles/735156/
 - Отрасли: аналитики, BI, телекоммуникаций, ML
 - Компании: Хабр, билайн, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: B2C, розничного бизнеса, телеcomмуникаций
+- Кандидаты компаний: Beeline_tech
 
 - https://habr.com/ru/companies/beeline_tech/articles/739104/
 - Отрасли: не найдено
 - Компании: Хабр, билайн, Samsung, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-индустрии, встроенные системы, мобильная разработка, разработка для Android, тестирование мобильных приложений
+- Кандидаты компаний: Android Studio, Beeline_tech, Excel, Google, Google Playstore, iPhone, MacBook, PowerPoint
 
 - https://habr.com/ru/companies/beeline_tech/articles/741824/
 - Отрасли: не найдено
 - Компании: Хабр, билайн, Далее
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Apache Avro, Apache Log4j, Apache Spark, Beeline_tech, Hortonworks
 
 - https://habr.com/ru/companies/beeline_tech/articles/743292/
 - Отрасли: Big Data, BigData
