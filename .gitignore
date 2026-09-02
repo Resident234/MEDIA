@@ -1,0 +1,6 @@
+# Local caches and secrets
+.candidate-cache/
+.env
+.idea/
+.junie/
+.qodo/

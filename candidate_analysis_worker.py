@@ -3,7 +3,9 @@ from __future__ import annotations
 import argparse
 import csv
 import json
+import os
 import re
+import subprocess
 import time
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from pathlib import Path
@@ -15,7 +17,9 @@ from openai import OpenAI
 
 UA = "Mozilla/5.0 (compatible; HabrCompaniesCandidateResearch/1.0)"
 URL_RE = re.compile(r"<https?://[^>]+>")
-MODEL = "gpt-5-mini"
+MODEL = "z-ai/glm-5.3-free"
+BASE_URL = "https://api.tokenrouter.com/v1"
+JSON_FENCE_RE = re.compile(r"^```(?:json)?\s*|\s*```$", re.MULTILINE)
 
 
 def norm(text: str) -> str:
@@ -96,9 +100,22 @@ def load_known_records(path: Path) -> dict[str, tuple[str, str]]:
     return records
 
 
+def parse_json_content(content: str) -> dict:
+    text = content.strip()
+    if text.startswith("```"):
+        text = JSON_FENCE_RE.sub("", text).strip()
+    try:
+        return json.loads(text)
+    except json.JSONDecodeError:
+        match = re.search(r"\{.*\}", text, re.DOTALL)
+        if match:
+            return json.loads(match.group(0))
+        raise
+
+
 def ask_candidates(client: OpenAI, article: dict, known_industries: list[str], known_companies: list[str]) -> dict:
     text = article.get("text", "")
-    excerpt = text[:18000]
+    excerpt = text[:9000]
     if not excerpt:
         return {"industries": [], "companies": [], "reason": "article text unavailable"}
     schema = {
@@ -111,27 +128,19 @@ def ask_candidates(client: OpenAI, article: dict, known_industries: list[str], k
         "required": ["industries", "companies", "reason"],
         "additionalProperties": False,
     }
-    prompt = f"""Проанализируй текст статьи Habr и найди КАНДИДАТОВ на новые отрасли и компании.
-
-Известные отрасли из CSV:
-{', '.join(known_industries)}
-
-Известные компании из CSV:
-{', '.join(known_companies)}
+    prompt = f"""Проанализируй текст статьи Habr и перечисли ВСЕ упомянутые в нём отрасли и компании.
 
 Правила:
-1. Верни только явно упомянутые в тексте статьи сущности, а не догадки по теме статьи.
-2. В candidates industries включай устойчивые названия отраслей, сфер или рынков; не включай технологии, библиотеки, должности и общие слова вроде «разработка».
-3. В candidates companies включай организации, бренды, продукты или сервисы, которые выглядят как названия компаний/организаций.
-4. Исключи сущности, совпадающие с известными значениями CSV с учётом регистра, Ё/Е, кавычек и очевидных падежных форм.
-5. Не включай авторов, пользователей, города и страны, если это не организация.
-6. Сохрани написание так, как оно дано в статье; убери только лишние кавычки и пробелы.
-7. Если достоверных кандидатов нет, верни пустые массивы.
+1. industries — только устойчивые названия отраслей, сфер деятельности или рынков, явно упомянутые в тексте (не технологии, не языки программирования, не общие слова вроде «разработка»).
+2. companies — организации, бренды, продукты или сервисы, явно упомянутые в тексте и выглядящие как названия компаний. Включай также дочерние продукты и сервисы известных компаний.
+3. Не включай имена авторов, пользователей, города и страны, если это не организация.
+4. Сохрани написание так, как оно дано в статье; убери только лишние кавычки и пробелы.
+5. Если в тексте нет ни одной отрасли/компании, верни пустые массивы.
 
 Статья: {article.get('title', '')}
 Текст:
 {excerpt}"""
-    for attempt in range(3):
+    for attempt in range(4):
         try:
             response = client.chat.completions.create(
                 model=MODEL,
@@ -140,17 +149,23 @@ def ask_candidates(client: OpenAI, article: dict, known_industries: list[str], k
                     {"role": "user", "content": prompt},
                 ],
                 response_format={"type": "json_schema", "json_schema": {"name": "candidates", "strict": True, "schema": schema}},
-                max_completion_tokens=1200,
+                max_completion_tokens=4000,
+                timeout=300,
+                extra_body={"reasoning_effort": "low"},
             )
-            data = json.loads(response.choices[0].message.content)
+            choice = response.choices[0]
+            content = choice.message.content or ""
+            if not content.strip():
+                raise ValueError("empty content (likely reasoning token exhaustion)")
+            data = parse_json_content(content)
             return {
                 "industries": sorted(set(x.strip() for x in data.get("industries", []) if x.strip()), key=norm),
                 "companies": sorted(set(x.strip() for x in data.get("companies", []) if x.strip()), key=norm),
                 "reason": data.get("reason", ""),
             }
         except Exception as exc:
-            if attempt == 2:
-                return {"industries": [], "companies": [], "reason": f"LLM error: {exc}"}
+            if attempt == 3:
+                return {"industries": [], "companies": [], "reason": f"LLM error: {exc}"[:500]}
             time.sleep(2 * (attempt + 1))
     return {"industries": [], "companies": [], "reason": "unknown error"}
 
@@ -174,6 +189,18 @@ def write_report(path: Path, urls: list[str], known_records: dict[str, tuple[str
             fh.write(f"- Кандидаты компаний: {', '.join(companies)}\n\n")
 
 
+def git_commit_push(root: Path, message: str) -> bool:
+    try:
+        env = dict(os.environ)
+        subprocess.run(["git", "add", "-A"], cwd=root, check=True, env=env, capture_output=True)
+        subprocess.run(["git", "commit", "-m", message], cwd=root, check=True, env=env, capture_output=True)
+        result = subprocess.run(["git", "push", "origin", "master"], cwd=root, check=True, env=env, capture_output=True)
+        return True
+    except subprocess.CalledProcessError as exc:
+        print(f"git error: {exc.stderr.decode(errors='replace')[:300] if exc.stderr else exc}", flush=True)
+        return False
+
+
 def main() -> None:
     parser = argparse.ArgumentParser()
     parser.add_argument("--root", type=Path, default=Path(__file__).parent)
@@ -181,6 +208,7 @@ def main() -> None:
     parser.add_argument("--batch-size", type=int, default=25)
     parser.add_argument("--start", type=int, default=0)
     parser.add_argument("--count", type=int, default=0)
+    parser.add_argument("--max-batches", type=int, default=0)
     args = parser.parse_args()
     root = args.root
     urls = parse_urls(root / "habr_companies_bookmarks.md")
@@ -196,7 +224,15 @@ def main() -> None:
     report_path = root / "habr_companies_articles_entities.md"
     known_records = load_known_records(root / "habr_companies_articles_entities_known.md")
     results = load_results(state_path)
-    client = OpenAI()
+
+    api_key = os.environ.get("TOKENROUTER_API_KEY", "")
+    if not api_key and (root / ".env").exists():
+        for line in (root / ".env").read_text(encoding="utf-8").splitlines():
+            if line.startswith("TOKENROUTER_API_KEY="):
+                api_key = line.split("=", 1)[1].strip()
+    client = OpenAI(api_key=api_key, base_url=BASE_URL)
+
+    done_batches = 0
     for start in range(0, len(target_urls), args.batch_size):
         batch = [url for url in target_urls[start:start + args.batch_size] if url not in results]
         if not batch:
@@ -223,6 +259,11 @@ def main() -> None:
         write_report(report_path, urls, known_records, results)
         processed = sum(1 for url in urls if url in results)
         print(f"processed {processed}/{len(urls)}; batch {args.start + start + len(batch)}/{args.start + len(target_urls)}", flush=True)
+        git_commit_push(root, f"progress: candidate analysis articles {args.start + start + 1}-{args.start + start + len(batch)} of {len(urls)}")
+        done_batches += 1
+        if args.max_batches and done_batches >= args.max_batches:
+            print(f"stopping after {done_batches} batches (max-batches)", flush=True)
+            break
 
 
 if __name__ == "__main__":
