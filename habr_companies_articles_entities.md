@@ -11555,152 +11555,152 @@
 - https://habr.com/ru/companies/dcmiran/articles/693842/
 - Отрасли: Программное обеспечение, Аппаратное обеспечение, виртуальные
 - Компании: Хабр, Дата-центр «Миран», RET, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Data center, Game development
+- Кандидаты компаний: Data-центр «Миран», Proton, Steam Deck, Valve, Wine
 
 - https://habr.com/ru/companies/dcmiran/articles/699024/
 - Отрасли: Оптимизация
 - Компании: Хабр, Дата-центр «Миран»
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Высоконагруженные системы, Дата-центры, Интернет, Сетевые технологии, Системное администрирование
+- Кандидаты компаний: Google, Стэнфордского университета
 
 - https://habr.com/ru/companies/dcmiran/articles/705474/
 - Отрасли: не найдено
 - Компании: Хабр, Дата-центр «Миран»
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Data_center, Обработка изображений, Сжатие данных
+- Кандидаты компаний: Altair 8800, Apple, Commodore, Compaq Portable, Hewlett Packard 2100, MS‑DOS, Playboy, Visual 1050, ZX Spectrum
 
 - https://habr.com/ru/companies/dcmiran/articles/711684/
 - Отрасли: медиа
 - Компании: Хабр, Дата-центр «Миран»
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Data center
+- Кандидаты компаний: Acrylic, Cortana, Data_center_MIRAN, Media Player, Metro UI, Mica, Microsoft, Miran, miran.ru, MMC, NT 4.0, ODBC Data Sources, Project Monarch, Remote Desktop Connection, Sun Valley, Windows 10, Windows 11, Windows 2000, Windows 3.1, Windows 7, Windows 8, Windows 8.1, Windows 95, Windows Defender, Windows Installer, Windows Media Player, Windows Recovery Environment, Windows Vista, Windows XP, WinUI, WinUI 3, winver
 
 - https://habr.com/ru/companies/dcmiran/articles/726696/
 - Отрасли: виртуальные
 - Компании: Хабр, Дата-центр «Миран», DELL
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Computer hardware, Data center, Desktop computers, Processors
+- Кандидаты компаний: Apple, Arch Linux, Asahi Linux, AWS, Fedora Linux, Flatpak, FreeBSD, Gimp, GitHub, GNOME, Inkscape, k3s, KDE, Kubernetes, LibreOffice, Mac Mini, Mac Studio, NextCloud, QEMU, SuperTuxKart, Visual Studio Code, VLC, YouTube, Миран
 
 - https://habr.com/ru/companies/deepfoundation/articles/top/
 - Отрасли: CRM, предлагает
 - Компании: Deep.Foundation, Хабр, предлагает
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: architecture, construction, electronics
+- Кандидаты компаний: 1c, chatgpt, Deep backend, Deep.Case, Telegram
 
 - https://habr.com/ru/companies/deiteriylab/articles/top/
 - Отрасли: Информационная безопасность, информационной безопасности
 - Компании: Deiteriy Lab, Хабр
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: application security, microservices architecture, monitoring, penetration testing, web security
+- Кандидаты компаний: Active Directory Certificate Services, Burp Suite, Exchange, gRPC, Keycloak, Metasploit, OFFZONE, Param Miner, PetitPotam, Practical Security Village, protocol buffers, prototbuf-magic, Rosa Khutor, Turbo Intruder, Zabbix
 
 - https://habr.com/ru/companies/digdes/articles/top/
 - Отрасли: digital, Дизайн и юзабилити, виртуальные, диджитал, образование
 - Компании: Digital Design, Хабр, серверы, Space
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: банковский сектор, виртуализация, документооборот, ИТ, коммуникационные сети, операционные системы, транспорт, юридические услуги
+- Кандидаты компаний: .NET Framework, Adobe Fireworks, Alpine Linux, CentOS, Debian, Hyper-V, MS SQL Server, poppler, PostgreSQL, Qt, Sailfish OS, SharePoint 2010, Ubuntu, VMware, VMware vSphere, Xen Server, Аврора
 
 - https://habr.com/ru/companies/digital_tatarstan/articles/top/
 - Отрасли: digital, робототехника
 - Компании: Команда Цифровой Трансформации Татарстана, Хабр, Voximplant
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT, автоматизация, информационных технологий, искусственный интеллект, коллцентра, связи, цифровой трансформации, электротехника
+- Кандидаты компаний: ASUS, Cisco, Cisco Packet Tracer, CloudD, DeepPavlov, GitHub, GNS3, Kazan Digital Week, LXQt, Todoist, Trello, Ubuntu, VMware Workstation, ГАУ «ИТ-парк», Казанский техникум информационных технологий и связи, Международный центр компетенций Казанского техникума ИТ и связи, Министерство цифрового развития Татарстана, Центр цифровой трансформации Республики Татарстан
 
 - https://habr.com/ru/companies/digitalleague/articles/top/
 - Отрасли: информационной безопасности, аналитики, Программное обеспечение, Big Data, BI, CRM
 - Компании: Лига Цифровой Экономики, Хабр, Яндекс
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: ИТ, машинное обучение, облачные решения
+- Кандидаты компаний: Apache Cassandra, ChatGPT, ClickHouse, Elasticsearch, Jira, nginx, Oracle, PostgreSQL, ФСТЭК России
 
 - https://habr.com/ru/companies/digitalrightscenter/articles/329050/
 - Отрасли: digital, телекоммуникаций, виртуальные
 - Компании: Хабр, Digital Rights Center, серверы
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT, благотворительность, законодательство, права человека, правоприменение, социальные сети, цифровые технологии
+- Кандидаты компаний: Facebook, TOR, Генассамблея ООН, Европейский союз, Европейский суд справедливости, ЕСПЧ, Комитет министров Совета Европы, немецкая Пиратская партия, немецкий Федеральный Суд, Совет Европы, Совет по правам человека ООН, федеральное правительство
 
 - https://habr.com/ru/companies/digitalrightscenter/articles/329520/
 - Отрасли: digital, операторы связи, информационной безопасности, медиа
 - Компании: Хабр, Digital Rights Center, Яндекс, Далее, серверы
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT, интернет-ресурсы, информационное общество, информационные ресурсы, мессенджеры, социальные сети
+- Кандидаты компаний: Facebook, Google Plus, Instagram, Mail.Ru, YouTube, ВКотакте, Одноклассники, Роскомнадзор, ФСБ, Хабрахабр
 
 - https://habr.com/ru/companies/digitalrightscenter/articles/330978/
 - Отрасли: digital, виртуальные, Веб-сервисы, предлагает, медиа, операторы связи, Программное обеспечение
 - Компании: Хабр, Digital Rights Center, Ростелеком, РосКомСвобода, предлагает
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT, интернет, правоприменение, связь
+- Кандидаты компаний: Анапский городской суд, Железнодорожный суд Красноярска, Калининский районный суд Уфы, Кировский районный суд Саратова, Минкомсвязи, Октябрьский районный суд Ставрополя, Роскомнадзор, Ульяновский районный суд Ульяновской области, Учалинский районный суд Уфы
 
 - https://habr.com/ru/companies/digitalrightscenter/articles/464785/
 - Отрасли: digital, финансы
 - Компании: билайн, Хабр, Digital Rights Center
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: адвокатская деятельность, коллекторские услуги, оператор связи, Сотовая связь, Финансы в IT, цифрового права, юридические услуги
+- Кандидаты компаний: Yota, Вымпелком, Филанко
 
 - https://habr.com/ru/companies/docdoc/articles/top/
 - Отрасли: MedTech
 - Компании: СберЗдоровье, Хабр
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: медтех
+- Кандидаты компаний: Chrome, DocDoc.ru, OpenAPI
 
 - https://habr.com/ru/companies/documentat/articles/top/
 - Отрасли: не найдено
 - Компании: documentat.io, Хабр
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT, кибербезопасность, техническая документация
+- Кандидаты компаний: ChatGPT 4, Confluence
 
 - https://habr.com/ru/companies/dododev/articles/top/
 - Отрасли: Рекрутинг и HR
 - Компании: Dodo Engineering, Хабр, Додо, ПИК, Далее, Цифра
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Artificial Intelligence, Food industry, Human Resources, IT, Restaurant
+- Кандидаты компаний: Apple, ChatGPT, Dodo IS, Dodo Pizza, Habr, Realm
 
 - https://habr.com/ru/companies/domclick/articles/494416/
 - Отрасли: недвижимости, digital
 - Компании: Хабр, Домклик, Сбербанк
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Classified объектов недвижимости, IT-компании, безопасные расчеты, гарантия сделки, ипотека, неипотечная сделка, омниканальная ипотека, оценка недвижимости, регистрация сделки
+- Кандидаты компаний: Agile Home, DomClick.ru, МФЦ, ООО «Центр недвижимости от Сбербанка», ПАО «Сбербанк», Росреестр
 
 - https://habr.com/ru/companies/domclick/articles/495204/
 - Отрасли: Рекрутинг и HR, хостинг, недвижимости, Data science, ML, OCR, NLP, кибербезопасности
 - Компании: Хабр, Домклик, Gartner, Бэклог
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT
+- Кандидаты компаний: DomClick, Google, Habr, PageSpeed Insights
 
 - https://habr.com/ru/companies/domclick/articles/495450/
 - Отрасли: не найдено
 - Компании: Хабр, Домклик, Далее
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: CoreDNS, Freecodecamp.org, Goland, habr.com, Kubespray, NodeLocal DNS, rakyll.org, Southbridge
 
 - https://habr.com/ru/companies/domclick/articles/496288/
 - Отрасли: недвижимости, Data science
 - Компании: Хабр, Домклик
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT
+- Кандидаты компаний: Android Studio, Google, Intellij IDEA, JetBrains, Kotlin, Kotlin for Data science, Kotlin MPP, Kotlin/JS, Kotlin/JVM, Kotlin/Native, Oracle Corp, Sun Microsystems
 
 - https://habr.com/ru/companies/domclick/articles/498018/
 - Отрасли: аналитики, ETL
 - Компании: Хабр, Домклик
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Data Engineering, Микросервисная архитектура
+- Кандидаты компаний: MongoDB, MySQL, Postgres, PostgreSQL
 
 - https://habr.com/ru/companies/domclick/articles/499820/
 - Отрасли: аналитики
 - Компании: Хабр, Домклик, KTS, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: аналитика, мобильные приложения
+- Кандидаты компаний: Android Studio, AppMetrica, Firebase, Gradle, IntelliJ IDEA, Jetbrains
 
 - https://habr.com/ru/companies/domclick/articles/500646/
 - Отрасли: не найдено
 - Компании: Хабр, Домклик, Далее
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: IntelliJ IDEA, Sun Microsystems
 
 - https://habr.com/ru/companies/domclick/articles/500978/
 - Отрасли: не найдено
 - Компании: Хабр, Домклик
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Мессенджеры
+- Кандидаты компаний: pika, RabbitMQ
 
 - https://habr.com/ru/companies/domclick/articles/501122/
 - Отрасли: не найдено
