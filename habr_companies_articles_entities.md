@@ -15305,80 +15305,80 @@
 - https://habr.com/ru/companies/globalsign/articles/727890/
 - Отрасли: Информационная безопасность, PKI
 - Компании: Хабр, GlobalSign
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Криптография, Хостинг кода
+- Кандидаты компаний: Github, OpenSSH
 
 - https://habr.com/ru/companies/globalsign/articles/728964/
 - Отрасли: Информационная безопасность, криптографии
 - Компании: Хабр, GlobalSign
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-стандарты, Инженерный совет Интернета, Криптография, Мессенджеры
+- Кандидаты компаний: Cisco, IETF, Matrix, MLS++, Mozilla, OpenMLS, RingCentral, Signal, Webex, Wickr, Wire
 
 - https://habr.com/ru/companies/globalsign/articles/730462/
 - Отрасли: Информационная безопасность, провайдер, криптографии
 - Компании: Хабр, GlobalSign, провайдер
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Браузеры, Криптография, Почтовые провайдеры
+- Кандидаты компаний: MailNews, Mozilla, Netscape, Signal
 
 - https://habr.com/ru/companies/globalsign/articles/732340/
 - Отрасли: криптографии
 - Компании: Хабр, GlobalSign, AMD
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-индустрии
+- Кандидаты компаний: Adobe, Apryse, Foxit, Google Docs, IETF, ISO, ISO/IEC, PDF Association, W3С, МСЭ-Т
 
 - https://habr.com/ru/companies/globalsign/articles/733126/
 - Отрасли: Информационная безопасность, digital
 - Компании: Хабр, GlobalSign, DELL
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Антивирусная защита
+- Кандидаты компаний: ASRock, Asustek, Lenovo, Microsoft, Symantec, VirusTotal
 
 - https://habr.com/ru/companies/globalsign/articles/735578/
 - Отрасли: Информационная безопасность, информационной безопасности
 - Компании: Хабр, GlobalSign, Сбер, Яндекс
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Браузеры, Операционные системы, Софт, Удостоверяющие центры
+- Кандидаты компаний: Apple, Chrome, Firefox, GitHub, Google, Linux, Measurement Systems, Microsoft, Mozilla, Packet Forensics, TrustCor, TrustCor Systems, Washington Post, Минцифры РФ, Центробанк, Яндекс Браузер
 
 - https://habr.com/ru/companies/globalsign/articles/736584/
 - Отрасли: Информационная безопасность
 - Компании: Хабр, GlobalSign
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Видеоплатформы, Обработка изображений, Работа с видео, Сжатие данных
+- Кандидаты компаний: Adobe Flash, Android, Firefox, iOS, VLC, YouTube
 
 - https://habr.com/ru/companies/globalsign/articles/737694/
 - Отрасли: Информационная безопасность, Веб-разработка
 - Компании: Хабр, GlobalSign, Цифра
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-стандарты, банков
+- Кандидаты компаний: Apple, Apple ID, Google, Microsoft, NIST, Национальный институт стандартов и технологий США (NIST)
 
 - https://habr.com/ru/companies/globalsign/articles/738138/
 - Отрасли: Информационная безопасность, торговые
 - Компании: Хабр, GlobalSign
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Браузеры, мессенджерах, регистраторы, электронная почта
+- Кандидаты компаний: Bing, Centralized Zone Data Service, Chromium, EC2, GitHub, Google, Google Registry, ICANN, kubernetes, Python Flask
 
 - https://habr.com/ru/companies/globalsign/articles/743752/
 - Отрасли: Информационная безопасность
 - Компании: Хабр, GlobalSign, Samsung
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Криптография, Обработка изображений, Работа с видео
+- Кандидаты компаний: Cryptology ePrint Archive, iPhone 13, iPhone 13 Pro Max, Logitech, Logitech Z120, Samsung Galaxy S8, университет им. Бен-Гуриона
 
 - https://habr.com/ru/companies/globalsign/articles/745376/
 - Отрасли: Информационная безопасность, Веб-разработка, криптографии
 - Компании: Хабр, GlobalSign
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-стандарты, Браузеры
+- Кандидаты компаний: Android, Apple, Apple iCloud, Chrome, Cloud, FIDO Alliance, Google, Microsoft, WebAuthn, Workspace
 
 - https://habr.com/ru/companies/globalsign/articles/746560/
 - Отрасли: Информационная безопасность, e-commerce, предлагает, биометрия
 - Компании: Хабр, GlobalSign, предлагает
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: онлайн‑платежи, платёжных услуг, финансовых операций, финансовых транзакций, электронной коммерции
+- Кандидаты компаний: Chrome, Edge, EMVCo, FIDO Alliance, Google, Google Passkeys, Microsoft, Stripe, W3C, Web Payment Security Interest Group
 
 - https://habr.com/ru/companies/glowbyte/articles/492944/
 - Отрасли: стриминг, Big Data, Консалтинг и поддержка, ETL, BigData
 - Компании: Хабр, GlowByte, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Banking
+- Кандидаты компаний: Apache, Confluent, GlowByte Big Data, GlowByte Consulting, Hadoop, HBase, Kafka, Kafka Streams, KSQL, Oracle, Oracle Golden Gate, RocksDB, SAS, SAS RTDM, Zookeeper
 
 - https://habr.com/ru/companies/glowbyte/articles/514514/
 - Отрасли: Big Data, Advanced Analytics, ML, Оптимизация, CRM
@@ -15389,7 +15389,7 @@
 - https://habr.com/ru/companies/glowbyte/articles/515940/
 - Отрасли: DWH, ETL, аналитики
 - Компании: Хабр, GlowByte, Далее, Авито
-- Кандидаты отраслей: не найдено
+- Кандидаты отраслей: банкинг, маркетинг, телеком
 - Кандидаты компаний: не найдено
 
 - https://habr.com/ru/companies/glowbyte/articles/519382/
@@ -15419,8 +15419,8 @@
 - https://habr.com/ru/companies/glowbyte/articles/534610/
 - Отрасли: ML, риск-менеджмента, Data science, Machine Learning
 - Компании: Хабр, GlowByte, быструю, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: кредитные карты, кредитные линии, кредитный риск-менеджмент, потребительский кредит, револьверный кредит
+- Кандидаты компаний: Habr
 
 - https://habr.com/ru/companies/glowbyte/articles/538682/
 - Отрасли: IoT, облачные сервисы, ML
@@ -15431,26 +15431,26 @@
 - https://habr.com/ru/companies/glowbyte/articles/542940/
 - Отрасли: финансы, Data science, Machine Learning
 - Компании: Хабр, GlowByte, Далее, N+1, IDX
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: аналитика данных, статистика
+- Кандидаты компаний: Росстат
 
 - https://habr.com/ru/companies/glowbyte/articles/554834/
 - Отрасли: Big Data, Data science, CRM, Enterprise, информационной безопасности, ETL, аналитики, BI, Информационная безопасность, Оптимизация, BigData
 - Компании: Хабр, GlowByte, Газпромбанк, Контур, Далее, Цифра, серверы
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: аналитические хранилища данных, банковская деятельность, интеграция данных, обработка данных, финансовые услуги
+- Кандидаты компаний: Cloudera, HPE, K8S, SAP, SAS
 
 - https://habr.com/ru/companies/glowbyte/articles/559400/
 - Отрасли: не найдено
 - Компании: Хабр, GlowByte, Далее
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Edge Impulse
 
 - https://habr.com/ru/companies/glowbyte/articles/565766/
 - Отрасли: ML, Machine Learning, Big Data, Data science, аналитики
 - Компании: Хабр, GlowByte, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-инфраструктура, MLOps
+- Кандидаты компаний: Airflow, Cloudera, DVC, GitLab, IBM, JupyterHub, Kubeflow, MLFlow
 
 - https://habr.com/ru/companies/glowbyte/articles/569970/
 - Отрасли: Advanced Analytics, финансового сектора, ML, риск-менеджмента, Data science, Machine Learning
