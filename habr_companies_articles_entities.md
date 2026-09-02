@@ -1367,8 +1367,8 @@
 - https://habr.com/ru/companies/agima/articles/677976/
 - Отрасли: Рекрутинг и HR
 - Компании: Хабр, AGIMA, Яндекс
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-индустрия, Благотворительность, Гемблинг, Дизайн мобильных приложений
+- Кандидаты компаний: Behance, FB, Агима, Гугл, Из рук в руки, Кока-кол, Марвел, Сбертех
 
 - https://habr.com/ru/companies/agima/articles/679136/
 - Отрасли: аналитики, BI, ML
@@ -1391,8 +1391,8 @@
 - https://habr.com/ru/companies/agima/articles/681656/
 - Отрасли: digital, финансового
 - Компании: Хабр, AGIMA, red_mad_robot
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: веб-продакшен, заказная разработка, импортозамещение, медиапространство, производство промышленной мебели
+- Кандидаты компаний: AGIMA Partners' Club, AGIMA Partners' Weekend, AGIMA.AI, AppStore, Articul Group, Grape, ITECH, Вконтакте, Гринсайт, Студия Олега Чулакова, Телеграм
 
 - https://habr.com/ru/companies/agima/articles/681860/
 - Отрасли: аналитики, предлагает, Оптимизация
@@ -1422,7 +1422,7 @@
 - Отрасли: Big Data, аналитики, CRM, ETL, SaaS
 - Компании: Хабр, AGIMA, Яндекс, Далее
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: DBT, GitHub, Google, Google Analytics, Google BigQuery, Meltano, Microsoft Azure, Prefect, Singer, Яндекс.Директ
 
 - https://habr.com/ru/companies/agima/articles/688286/
 - Отрасли: не найдено
@@ -1439,14 +1439,14 @@
 - https://habr.com/ru/companies/agima/articles/692032/
 - Отрасли: Дизайн и юзабилити
 - Компании: Хабр, AGIMA
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: дизайн
+- Кандидаты компаний: AGIMA.design, Excel, Numbers, Paratype, Медиум
 
 - https://habr.com/ru/companies/agima/articles/693874/
 - Отрасли: аналитики, BI, DWH
 - Компании: Хабр, AGIMA, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Self-service-аналитика, Бизнес-аналитика, Веб-аналитика, Визуализация данных, Доставка, Логистика, Продуктовая аналитика, Склады, Финсервисы
+- Кандидаты компаний: AppsFlyer, BigQuery, Firebase, Google Analytics, Meltano, Metabase
 
 - https://habr.com/ru/companies/agima/articles/695582/
 - Отрасли: не найдено
@@ -1457,8 +1457,8 @@
 - https://habr.com/ru/companies/agima/articles/696836/
 - Отрасли: предлагает, ML, процессинг
 - Компании: Хабр, AGIMA, предлагает, Далее, Proto, Тензор
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: анализ данных, искусственный интеллект, машинное обучение, разработка мобильных приложений
+- Кандидаты компаний: AutoFlip, Epoch8, Google, KNIFT, Mediapipe, Netron, Objectron, Protobuf, TensorFlow
 
 - https://habr.com/ru/companies/agima/articles/699902/
 - Отрасли: предлагает
@@ -1469,8 +1469,8 @@
 - https://habr.com/ru/companies/agima/articles/702338/
 - Отрасли: не найдено
 - Компании: Хабр, AGIMA, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: разработки ПО, сетевой безопасности
+- Кандидаты компаний: Amazon ECS, Apache Mesos, Calico, Consul, Istio, Linkerd, OpenShift
 
 - https://habr.com/ru/companies/agima/articles/706312/
 - Отрасли: финтех, аналитики
