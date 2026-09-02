@@ -15455,146 +15455,146 @@
 - https://habr.com/ru/companies/glowbyte/articles/569970/
 - Отрасли: Advanced Analytics, финансового сектора, ML, риск-менеджмента, Data science, Machine Learning
 - Компании: Хабр, GlowByte, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: ритейл, телеком, финансовый сектор
+- Кандидаты компаний: Advanced Analytics GlowByte, Центральный банк
 
 - https://habr.com/ru/companies/glowbyte/articles/581458/
 - Отрасли: ML, Advanced Analytics, предлагает, аналитики
 - Компании: Хабр, GlowByte, Далее, предлагает
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: машинное обучение
+- Кандидаты компаний: DVC, Pandas, Tecton
 
 - https://habr.com/ru/companies/glowbyte/articles/586134/
 - Отрасли: ML, информационной безопасности, виртуальные, IoT
 - Компании: Хабр, GlowByte, Далее, Бэклог
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: ModelOps, банковская сфера, виртуализация, машинное обучение
+- Кандидаты компаний: Aifrlow, Argo, AWS, Azure, GCP, Google, Hopsworks, Hyper-V, IBM, Jupyter, Katib, Kubeflow, Kubernetes, OKD, OpenShift, Oracle Linux, SAS
 
 - https://habr.com/ru/companies/glowbyte/articles/594183/
 - Отрасли: Консалтинг и поддержка, финансового, ML, аналитики
 - Компании: Хабр, GlowByte, Далее, Авито
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: GlowByte Consulting, Statisticshowto
 
 - https://habr.com/ru/companies/glowbyte/articles/594221/
 - Отрасли: Advanced Analytics, Data science, ML, Оптимизация, NLP, банках, AML, предлагает
 - Компании: Хабр, GlowByte, Газпромбанк, предлагает
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Банковское дело, Биология, Логистика, Реклама, Социальные сети, Социология
+- Кандидаты компаний: Airflow, Dask, GlowByte Advanced Analytics, igraph, Neo4j, NetworkX, Одноклассники
 
 - https://habr.com/ru/companies/glowbyte/articles/598601/
 - Отрасли: Advanced Analytics, консалтинг, банках, аналитики, финансах
 - Компании: Хабр, GlowByte, Звук, Яндекс
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Банки, Издательское дело, Ритейл, Телеком
+- Кандидаты компаний: Advanced Analytics, ApplePodcasts, Arxive, Medium, NoML Community, Spotify, Дайте данных, Норм
 
 - https://habr.com/ru/companies/glowbyte/articles/646093/
 - Отрасли: аналитики, ML, риск-менеджмента, Data science, Оптимизация
 - Компании: Хабр, GlowByte, Далее
-- Кандидаты отраслей: не найдено
+- Кандидаты отраслей: Банковское дело, Кредитование, Риск-менеджмент
 - Кандидаты компаний: не найдено
 
 - https://habr.com/ru/companies/glowbyte/articles/655725/
 - Отрасли: DWH, Оптимизация
 - Компании: Хабр, GlowByte, Далее, быструю
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: DWH (Data Warehouse), банковские/финансовые операции, потоковая аналитика
+- Кандидаты компаний: Apache
 
 - https://habr.com/ru/companies/glowbyte/articles/657037/
 - Отрасли: BI, предлагает, CRM, аналитики, Программное обеспечение
 - Компании: Хабр, GlowByte, предлагает, РЖД
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: BI-рынок, enterprise BI, IT-инфраструктура
+- Кандидаты компаний: Power BI, Qlik, Tableau
 
 - https://habr.com/ru/companies/glowbyte/articles/658583/
 - Отрасли: BI, SaaS
 - Компании: Хабр, GlowByte
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Визуализация данных
+- Кандидаты компаний: FanRuan, FineBI, Tableau, Tableau Desktop
 
 - https://habr.com/ru/companies/glowbyte/articles/661417/
 - Отрасли: BI, Big Data, Рекрутинг и HR, CRM, аналитики
 - Компании: Хабр, GlowByte, Далее, Самолет
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Аналитика мобильных приложений, Машинное обучение
+- Кандидаты компаний: ClickHouse, Easy Report, Power BI, Qlik, Sapience, Slack, Tableau, Telegram, Viber, Zoom
 
 - https://habr.com/ru/companies/glowbyte/articles/664698/
 - Отрасли: Big Data, процессинг, ETL, CRM, аналитики, BigData
 - Компании: Хабр, GlowByte
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: банковский сектор, финансовые услуги
+- Кандидаты компаний: Cloudera, Vertica
 
 - https://habr.com/ru/companies/glowbyte/articles/667834/
 - Отрасли: ETL
 - Компании: Хабр, GlowByte, Далее, Arenadata
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Insurance
+- Кандидаты компаний: Apache, Cloudera, HortonWorks
 
 - https://habr.com/ru/companies/glowbyte/articles/675696/
 - Отрасли: CRM
 - Компании: Хабр, GlowByte, Далее
-- Кандидаты отраслей: не найдено
+- Кандидаты отраслей: ритейл
 - Кандидаты компаний: не найдено
 
 - https://habr.com/ru/companies/glowbyte/articles/678326/
 - Отрасли: Big Data, BI, BigData
 - Компании: Хабр, GlowByte
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: банковская отрасль
+- Кандидаты компаний: GlowByte Big Data
 
 - https://habr.com/ru/companies/glowbyte/articles/679890/
 - Отрасли: CRM, Big Data, Мобильные технологии, аналитики, BI, Data science
 - Компании: Хабр, GlowByte, Mindbox
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: автоматизация маркетинга, бизнес, клиентская аналитика, маркетинг, средний бизнес
+- Кандидаты компаний: Adobe, Altcraft, Apache Unomi, Bloomreach, CleverData, Konnektu, Loymax, Manzana, Sailplay, Salesforce
 
 - https://habr.com/ru/companies/glowbyte/articles/680680/
 - Отрасли: CRM, BI
 - Компании: Хабр, GlowByte
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: маркетинг
+- Кандидаты компаний: Habr, Jira, Red Hat
 
 - https://habr.com/ru/companies/glowbyte/articles/681772/
 - Отрасли: Big Data, Advanced Analytics, ML, аналитики, Machine Learning, Data science
 - Компании: Хабр, GlowByte
-- Кандидаты отраслей: не найдено
+- Кандидаты отраслей: Data Mining, Машинное обучение
 - Кандидаты компаний: не найдено
 
 - https://habr.com/ru/companies/glowbyte/articles/685426/
 - Отрасли: digital, Enterprise, OLAP, аналитики, ETL, CRM, BigData
 - Компании: Хабр, GlowByte, Контур
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: MarTech, Retail
+- Кандидаты компаний: GreenPlum, MS SQL, Oracle, PostgreSQL, SAS
 
 - https://habr.com/ru/companies/glowbyte/articles/686398/
 - Отрасли: Advanced Analytics, ML, аналитики
 - Компании: Хабр, GlowByte, МТС, Далее
-- Кандидаты отраслей: не найдено
+- Кандидаты отраслей: Causal Inference, Data Mining, Машинное обучение, причинно-следственный анализ
 - Кандидаты компаний: не найдено
 
 - https://habr.com/ru/companies/glowbyte/articles/686836/
 - Отрасли: SaaS
 - Компании: Хабр, GlowByte
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT, ритейл
+- Кандидаты компаний: Google, Jira
 
 - https://habr.com/ru/companies/glowbyte/articles/689774/
 - Отрасли: IoT, Big Data, финтех, AML, аналитики, ML
 - Компании: GlowByte, Хабр
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IIoT, производство
+- Кандидаты компаний: Talys, Фотофактура
 
 - https://habr.com/ru/companies/glowbyte/articles/691264/
 - Отрасли: CRM, предлагает, маркетинге, digital
 - Компании: Хабр, GlowByte, предлагает
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: банковская отрасль, розничная торговля
+- Кандидаты компаний: Visa Gold
 
 - https://habr.com/ru/companies/glowbyte/articles/692426/
 - Отрасли: CRM, Enterprise, облачные сервисы, аналитики, Оптимизация, BI, Advanced Analytics, Аппаратное обеспечение
 - Компании: Хабр, GlowByte
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: банки, ритейл, розничная торговля, телеком
+- Кандидаты компаний: Bloomreach, EVAM, Exponea, HCL, IBM, Salesforce, SAP, SAS, Teradata, Россельхозбанк
 
 - https://habr.com/ru/companies/glowbyte/articles/695352/
 - Отрасли: Информационная безопасность
