@@ -10656,151 +10656,151 @@
 - Отрасли: не найдено
 - Компании: Хабр, CUSTIS
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: GitHub, Maven Central
 
 - https://habr.com/ru/companies/custis/articles/246875/
 - Отрасли: не найдено
 - Компании: Хабр, CUSTIS, серверы
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Doit.im, Evernote, IKEA, MyLifeOrganized, OBI, Outlook, Wikipedia, Wunderlist, Ашан
 
 - https://habr.com/ru/companies/custis/articles/248649/
 - Отрасли: Информационная безопасность, Веб-разработка, Enterprise
 - Компании: Хабр, CUSTIS
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Axiomatics, Boeing, Cisco Enterprise Policy Manager, IBM Tivoli Security Policy Manager, NIST, Oracle WebLogic, PayPal, WSO2
 
 - https://habr.com/ru/companies/custis/articles/258861/
 - Отрасли: Информационная безопасность, Веб-разработка, предлагает
 - Компании: Хабр, CUSTIS, Далее, предлагает
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: OASIS
 
 - https://habr.com/ru/companies/custis/articles/262605/
 - Отрасли: Enterprise, OLAP
 - Компании: Хабр, CUSTIS, Далее, ОК
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Ansible, Centos, Enterprise DB Migration Toolkit, MS SQL, MySQL, Ora2Pg, Oracle, Oracle Database 11g Enterprise Edition, Oracle Golden Gate, Oracle instant client, OTN, Postgres 9.4, PostgreSQL
 
 - https://habr.com/ru/companies/custis/articles/265785/
 - Отрасли: Веб-разработка, Enterprise, Big Data, аналитики, масштабируемость, банках
 - Компании: Хабр, CUSTIS
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Fast Data, High Performance, HighLoad, in-memory database, NoSQL
+- Кандидаты компаний: Microsoft, Oracle, SAP HANA, VoltDB, Хабрахабр
 
 - https://habr.com/ru/companies/custis/articles/267923/
 - Отрасли: Поисковые технологии, предлагает
 - Компании: Хабр, CUSTIS, Далее, Программный Продукт, предлагает
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Apache, beyondgrep.com, DocFetcher, Greenshot, OpenGrok, ReSharper, ShareX, StackOverflow, Visual Studio
 
 - https://habr.com/ru/companies/custis/articles/268057/
 - Отрасли: Enterprise, образование
 - Компании: CUSTIS, Хабр, Программный Продукт
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT
+- Кандидаты компаний: Slideshare, Vimeo, Visual Studio, ВКонтакте
 
 - https://habr.com/ru/companies/custis/articles/313284/
 - Отрасли: не найдено
 - Компании: Хабр, CUSTIS, Далее
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: GitHub
 
 - https://habr.com/ru/companies/custis/articles/313690/
 - Отрасли: не найдено
 - Компании: Хабр, CUSTIS, Далее
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Entity Framework Core, GitHub, Microsoft, NHibernate, Oracle, Oracle Database, SQL Server
 
 - https://habr.com/ru/companies/custis/articles/332018/
 - Отрасли: аналитики, Enterprise, Дизайн и юзабилити
 - Компании: CUSTIS, Хабр, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Автоматизация, Бизнес‑процессы, Информационные системы
+- Кандидаты компаний: Archi, Bugzilla, Enterprise Architect, Visio, Wiki
 
 - https://habr.com/ru/companies/custis/articles/333634/
 - Отрасли: Рекрутинг и HR, Machine Learning, диджитал, DIY
 - Компании: Хабр, CUSTIS, OZON
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: банковские микросервисы, благотворительные проекты, социальные проекты
+- Кандидаты компаний: IDEA, RabbitMQ, Telegram, Visual Studio
 
 - https://habr.com/ru/companies/custis/articles/427603/
 - Отрасли: Программное обеспечение, Дизайн и юзабилити
 - Компании: Хабр, CUSTIS, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-систем, веб-сервисов, интернет-магазина
+- Кандидаты компаний: H2, Hibernate, JUnit, Mockito, Spring
 
 - https://habr.com/ru/companies/custis/articles/433136/
 - Отрасли: промышленные, Информационная безопасность
 - Компании: Хабр, CUSTIS, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: банковская отрасль, бухгалтерский учет, информационные системы, логистика, управление базами данных
+- Кандидаты компаний: .NET, C#, Clojure, Oracle Database, SQL Server, System.Transactions, WCF
 
 - https://habr.com/ru/companies/custis/articles/460291/
 - Отрасли: масштабируемость
 - Компании: Хабр, CUSTIS, N+1
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Высоконагруженные системы
+- Кандидаты компаний: Keycloak
 
 - https://habr.com/ru/companies/custis/articles/463471/
 - Отрасли: горнодобывающей промышленности, предлагает, аналитики
 - Компании: Хабр, CUSTIS, серверы, Далее, предлагает
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: информационных технологий
+- Кандидаты компаний: featureflag.tech
 
 - https://habr.com/ru/companies/custis/articles/467919/
 - Отрасли: масштабируемость
 - Компании: Хабр, CUSTIS, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Высоконагруженные системы
+- Кандидаты компаний: Habr
 
 - https://habr.com/ru/companies/custis/articles/472446/
 - Отрасли: не найдено
 - Компании: Хабр, CUSTIS
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Color Themes, GitHub, Habr, IntelliJ IDEA
 
 - https://habr.com/ru/companies/custis/articles/494278/
 - Отрасли: не найдено
 - Компании: Хабр, CUSTIS
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: AmazonAurora, EF Core, GitHub, Liquibase, MariaDB, Microsoft, MS SQL, MySQL, NuGet, Oracle, StackOverflow, Teradata
 
 - https://habr.com/ru/companies/custis/articles/502030/
 - Отрасли: Веб-сервисы, Рекрутинг и HR, Enterprise, embedded
 - Компании: Хабр, CUSTIS, Space, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: розничная торговля
+- Кандидаты компаний: Oracle, ORDS
 
 - https://habr.com/ru/companies/custis/articles/516290/
 - Отрасли: предлагает
 - Компании: Хабр, CUSTIS, Далее, предлагает
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Angular, NgRx, RxJS
 
 - https://habr.com/ru/companies/custis/articles/543156/
 - Отрасли: не найдено
 - Компании: Хабр, CUSTIS, RDP, Далее, серверы
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-инфраструктура
+- Кандидаты компаний: GitHub, IIS, Kibana, Microsoft, Microsoft.Diagnostics.Runtime, Process Explorer, ProcInsp, Prometheus, WinDbg
 
 - https://habr.com/ru/companies/custis/articles/557540/
 - Отрасли: Программное обеспечение
 - Компании: Хабр, CUSTIS, Space, Далее, Hewlett-Packard
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-инфраструктура
+- Кандидаты компаний: BitBucket, GitHub, GitLab, Jenkins, Mail.ru, TeamCity, Travis CI
 
 - https://habr.com/ru/companies/custis/articles/568032/
 - Отрасли: не найдено
 - Компании: Хабр, CUSTIS, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: автоматизация торговых сетей, банков, банковские продукты
+- Кандидаты компаний: Hibernate, Luxoft, Oracle, РДТЕХ, Технотекст
 
 - https://habr.com/ru/companies/custis/articles/594113/
 - Отрасли: не найдено
 - Компании: Хабр, CUSTIS, серверы
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: ритейл
+- Кандидаты компаний: Ceph, GitLab, JUnit, nUnit, OpenNebula, Oracle, utPLSQL, xUnit
 
 - https://habr.com/ru/companies/custis/articles/662005/
 - Отрасли: не найдено
