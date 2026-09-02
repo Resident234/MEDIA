@@ -194,10 +194,12 @@ def git_commit_push(root: Path, message: str) -> bool:
         env = dict(os.environ)
         subprocess.run(["git", "add", "-A"], cwd=root, check=True, env=env, capture_output=True)
         subprocess.run(["git", "commit", "-m", message], cwd=root, check=True, env=env, capture_output=True)
-        result = subprocess.run(["git", "push", "origin", "master"], cwd=root, check=True, env=env, capture_output=True)
+        win_root = str(root).replace("/mnt/h", "H:").replace("/mnt/c", "C:").replace("/mnt/d", "D:")
+        cmd = f"cd /d {win_root} && git push origin master"
+        subprocess.run(["/mnt/c/Windows/System32/cmd.exe", "/c", cmd], check=True, env=env, capture_output=True, text=True)
         return True
     except subprocess.CalledProcessError as exc:
-        print(f"git error: {exc.stderr.decode(errors='replace')[:300] if exc.stderr else exc}", flush=True)
+        print(f"git error: {exc.stderr[:300] if isinstance(exc.stderr, str) else (exc.stderr.decode(errors='replace')[:300] if exc.stderr else exc)}", flush=True)
         return False
 
 

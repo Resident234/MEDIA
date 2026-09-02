@@ -47,3 +47,10 @@ To add an exception for this directory, call:
 	git config --global --add safe.directory /mnt/h/s/Work_MEDIA
 
 processed 148/12038; batch 150/12038
+git error: fatal: could not read Username for 'https://github.com': No such device or address
+
+2026-09-02 19:14:09 watchdog: starting worker (done=164)
+2026-09-02 19:25:03 watchdog: starting worker (done=172)
+2026-09-02 19:27:03 watchdog: starting worker (done=172)
+2026-09-02 19:31:16 watchdog: starting worker (done=172)
+processed 173/12038; batch 151/12038
