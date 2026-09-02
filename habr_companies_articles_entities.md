@@ -155,152 +155,152 @@
 - https://habr.com/ru/companies/2gis/articles/229097/
 - Отрасли: не найдено
 - Компании: Хабр, 2ГИС
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: браузеры, карты
+- Кандидаты компаний: GitHub, Google Chrome, Leaflet
 
 - https://habr.com/ru/companies/2gis/articles/234947/
 - Отрасли: Enterprise
 - Компании: Хабр, 2ГИС, ОК
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: ui, Usability, ux, внутренние продукты, карты, роутинг
+- Кандидаты компаний: Fiji, JOSM, ДГПП, Этажи
 
 - https://habr.com/ru/companies/2gis/articles/236133/
 - Отрасли: ETL, Веб-разработка, аналитики, OLAP, Enterprise
 - Компании: 2ГИС, Хабр, Далее
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Columnstore index, Deltastore, iPhone, Microsoft SQL Server, MS SQL Server, SQL Server 2012, SQL Server 2014, Sql Server Analysis Services, Sql Server Integration Services
 
 - https://habr.com/ru/companies/2gis/articles/244179/
 - Отрасли: не найдено
 - Компании: 2ГИС, Хабр, Самолет
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Геоинформационные сервисы
+- Кандидаты компаний: ACDSee, Android, BlackBerry, Google Chrome, iOS, Makeup, Nero, OS X, Qt WebKit, Slot, Ubuntu, Winamp, Windows, Windows Phone
 
 - https://habr.com/ru/companies/2gis/articles/246557/
 - Отрасли: не найдено
 - Компании: Хабр, 2ГИС, Далее
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Chrome DevTools, CPU Profiler, DevTools, FrontTalks, Google Chrome, Slot, Timeline, UglifyJS
 
 - https://habr.com/ru/companies/2gis/articles/246831/
 - Отрасли: Веб-разработка
 - Компании: Хабр, 2ГИС, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Dom-тест, вёрстка, Тестирование веб-сервисов
+- Кандидаты компаний: Web Standards Days
 
 - https://habr.com/ru/companies/2gis/articles/251283/
 - Отрасли: Веб-разработка
 - Компании: Хабр, 2ГИС
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: BattleGIS, Browserify, DevTools Хрома, Google, Mail, Meteor, n, Node.js, PIXI, Socket.io
 
 - https://habr.com/ru/companies/2gis/articles/253375/
 - Отрасли: Мобильные технологии
 - Компании: Хабр, 2ГИС
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: backend, frontend, growth hacking, Веб-дизайн, дизайн, тестирование, управление продуктами, управление проектами
+- Кандидаты компаний: AngularJS, Badoo, Banki.ru, CodeFest, CoreOS, Jsquery, Phalcon, Stack Overflow, Экспоцентре
 
 - https://habr.com/ru/companies/2gis/articles/254105/
 - Отрасли: Веб-разработка, Оптимизация, медиа
 - Компании: Хабр, 2ГИС, Далее
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: 5pm, Browserify, chokidar, CodeFest, FastShell, FireShell, fmp, GitHub, gulpjs, Headstart JS App Starter, HTML5 Boilerplate, INIT, IPhone 3GS','IPhone 4','livereload, Node.js, npm, TARS, W3C, Web Starter Kit, webpack, yeoman-генератор
 
 - https://habr.com/ru/companies/2gis/articles/255817/
 - Отрасли: Веб-разработка
 - Компании: 2ГИС, Хабр
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Open source, SEO, test automation
+- Кандидаты компаний: Android, Chokidar, gulp, Handlebars, html5shiv, iOS","Windows Phone","Blackberry","WPF","WinForms, Jade, JSON, LESS, MakeUp, OS X, SCSS, Selenium, Slot, Stylus, TARS, Ubuntu, Windows, Winium, Гитхабе
 
 - https://habr.com/ru/companies/2gis/articles/259335/
 - Отрасли: предлагает
 - Компании: 2ГИС, Хабр, предлагает
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Геоинформационные сервисы, мобильные приложения
+- Кандидаты компаний: Android, Angle, Caliburn.Micro, DirectX, DynamicDataContext, Internet Exporer, iOS, Json.Net, Linux, Marketplace, MVVM Light, OpenGL, OS X, Prism, SharpSerializer, Silverlight, Universal Application, Windows, Windows Phone, XamlReader
 
 - https://habr.com/ru/companies/2gis/articles/260671/
 - Отрасли: Веб-разработка
 - Компании: 2ГИС, Хабр
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: 2ГИС Open Source, 2ГИС.Технологии, CocoaHeads Moscow, CodeFest, DUMP, Mobius
 
 - https://habr.com/ru/companies/2gis/articles/262143/
 - Отрасли: Веб-разработка
 - Компании: Хабр, 2ГИС
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Arduino, DevDay, React, Slot, Vue.js, YouTube, НГС, Фейсбуке
 
 - https://habr.com/ru/companies/2gis/articles/263157/
 - Отрасли: DIY
 - Компании: Хабр, 2ГИС
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: desktop-приложений, Open source, Спортивное программирование, Тестирование IT-систем
+- Кандидаты компаний: Cruciatus, IKEA, Jenkins, powershell-скрипт, PyCharm, Resharper, Selenium, Testing Dojo, Visual Studio, Windows 8, Winium.Desktop, Гитхабе
 
 - https://habr.com/ru/companies/2gis/articles/263347/
 - Отрасли: Веб-разработка, Мобильные технологии
 - Компании: Хабр, 2ГИС, RDP
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Open source, Тестирование IT-систем
+- Кандидаты компаний: AppVeyor, Autologon, Cruciatus, github, Inspect, Json Wire Protocol (JSWP), Selenium, Selenium Python Bindings, Selenium-Grid, System Center App Controller, UIAVerify, UISpy, VisualStudio, VNC, WebDriver, Winium, Winium.Desktop
 
 - https://habr.com/ru/companies/2gis/articles/266753/
 - Отрасли: Поисковые технологии, Веб-разработка, Мобильные технологии
 - Компании: Хабр, 2ГИС
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: iOS, Windows Phone
 
 - https://habr.com/ru/companies/2gis/articles/269743/
 - Отрасли: Веб-разработка
 - Компании: Хабр, 2ГИС
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Babel, browserify, Cordova, FrontTalks, github, gitter, gulp, gulp-grunt, npm, PostCSS, TARS, TARS-CLI, tars-email, webpack, yeoman
 
 - https://habr.com/ru/companies/2gis/articles/271217/
 - Отрасли: Мобильные технологии
 - Компании: Хабр, 2ГИС, ОК
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Windows Phone
+- Кандидаты компаний: appium, Badoo, CodedUI, Expensify, Salesforce.com, Selenium Grid","Json Wire Protocol","MS Acessability API","vmmaster","Visual Studio Premium, Selenium WebDriver, Windows Phone Driver, windowsphonedriver, WindowsPhoneTestFramework, Winium, Winium for Desktop, Winium for Store Apps, Winium.Cruciatus, Winium.Desktop, Winium.StoreApps, Winium.StoreApps.CodedUi, Winium.StoreApps.InnerServer, WinphoneDrvier, Гитхабе
 
 - https://habr.com/ru/companies/2gis/articles/272715/
 - Отрасли: Big Data, Оптимизация
 - Компании: Хабр, 2ГИС
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: веб-дизайн, мобильная разработка, продуктовый дизайн, тестирование, управление продуктами, управление проектами
+- Кандидаты компаний: CodeFest
 
 - https://habr.com/ru/companies/2gis/articles/273735/
 - Отрасли: Веб-разработка
 - Компании: Хабр, 2ГИС, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: 3D-графикой, геймдеве
+- Кандидаты компаний: caniuse.com, Chrome, Firefox DevTools, glMatrix, Kronos Group, Shader Editor, WebGL-Inspector
 
 - https://habr.com/ru/companies/2gis/articles/275489/
 - Отрасли: Веб-разработка
 - Компании: Хабр, 2ГИС
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: ProgressPathControl, VS, Windows Phone
 
 - https://habr.com/ru/companies/2gis/articles/276837/
 - Отрасли: не найдено
 - Компании: 2ГИС, Хабр
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Геоинформационные сервисы
+- Кандидаты компаний: Android, Google Play, iOS
 
 - https://habr.com/ru/companies/2gis/articles/278431/
 - Отрасли: Веб-разработка, медиа
 - Компании: 2ГИС, Хабр
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT, маркетинга, медиа и бизнеса, предпринимательства, стартап-тусовки, урбанистики
+- Кандидаты компаний: Slack, Trello, Веломаршруты городов, Видео-маршруты, Следующая станция, Электронного города
 
 - https://habr.com/ru/companies/2gis/articles/278449/
 - Отрасли: не найдено
 - Компании: Хабр, 2ГИС
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Веб-дизайн, дизайн, мобильная разработка, тестирование, управление продуктами, управление проектами
+- Кандидаты компаний: Appium, CocoaPods, CodeFest, Dev2Dev, Dropbox, Go, Google, MariaDB, MySQL, PostCSS, PostgreSQL, Project Rider, PyNsk, Realm, Spotify, вконтактике, инстаграм`,`ютьюбе`,`1500 касок`,`Экспоцентре, твитерке, фейсбуки, Флампа
 
 - https://habr.com/ru/companies/2gis/articles/282207/
 - Отрасли: Веб-разработка, торговые
 - Компании: Хабр, 2ГИС
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: 3D-навигация, indoor-навигация, веб-картографии
+- Кандидаты компаний: 2gl, Doom II, Fallout 2, Google Maps, Mapbox GL, rbush, Theme Hospital, three.js, Дубай Молла, ТЦ Золотой Вавилон, ТЦ Мега Химки, Этажи
 
 - https://habr.com/ru/companies/2gis/articles/301078/
 - Отрасли: Веб-разработка
