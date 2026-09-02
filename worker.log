@@ -77,3 +77,5 @@ processed 223/12038; batch 225/12038
 processed 248/12038; batch 250/12038
 processed 273/12038; batch 275/12038
 processed 298/12038; batch 300/12038
+2026-09-02 22:15:32 watchdog: starting worker (done=322)
+processed 323/12038; batch 301/12038

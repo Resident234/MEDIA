@@ -17,8 +17,9 @@ from openai import OpenAI
 
 UA = "Mozilla/5.0 (compatible; HabrCompaniesCandidateResearch/1.0)"
 URL_RE = re.compile(r"<https?://[^>]+>")
-MODEL = "z-ai/glm-5.3-free"
-BASE_URL = "https://api.tokenrouter.com/v1"
+MODEL = os.environ.get("HABR_MODEL", "auto")
+BASE_URL = os.environ.get("HABR_BASE_URL", "http://172.22.160.1:31416/v1")
+API_KEY = os.environ.get("HABR_API_KEY", "freellmapi-c50ce86439ddb286b2815f9973fe2c0788ac1f66d6b966e7")
 JSON_FENCE_RE = re.compile(r"^```(?:json)?\s*|\s*```$", re.MULTILINE)
 
 
@@ -151,7 +152,6 @@ def ask_candidates(client: OpenAI, article: dict, known_industries: list[str], k
                 response_format={"type": "json_schema", "json_schema": {"name": "candidates", "strict": True, "schema": schema}},
                 max_completion_tokens=4000,
                 timeout=300,
-                extra_body={"reasoning_effort": "low"},
             )
             choice = response.choices[0]
             content = choice.message.content or ""
@@ -232,6 +232,8 @@ def main() -> None:
         for line in (root / ".env").read_text(encoding="utf-8").splitlines():
             if line.startswith("TOKENROUTER_API_KEY="):
                 api_key = line.split("=", 1)[1].strip()
+    if not api_key:
+        api_key = API_KEY
     client = OpenAI(api_key=api_key, base_url=BASE_URL)
 
     done_batches = 0
