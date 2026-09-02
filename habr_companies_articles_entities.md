@@ -5705,152 +5705,152 @@
 - https://habr.com/ru/companies/bastion/articles/662752/
 - Отрасли: информационной безопасности, кибербезопасности
 - Компании: Хабр, Бастион
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT, государственные информационные системы, коммерческие компании, муниципальные организации
+- Кандидаты компаний: бюро специальных технических мероприятий, Генеральной прокуратуры, полиция, Прокуратура РФ, РКН, Роскомнадзор, ФСБ, ФСТЭК
 
 - https://habr.com/ru/companies/bastion/articles/666076/
 - Отрасли: ML, Информационная безопасность, недвижимость, информационной безопасности, кибербезопасности, криптографии
 - Компании: Хабр, Бастион
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Искусственный интеллект, Кибербезопасность, Машинное обучение
+- Кандидаты компаний: Google, Google Play, Microsoft, MITRE, Twitter, VirusTotal, Европейское агентство по кибербезопасности, Институт информатики Макса Планка, Национальный институт стандартов и технологий США
 
 - https://habr.com/ru/companies/bastion/articles/668630/
 - Отрасли: Информационная безопасность, промышленные, Программное обеспечение, промышленность
 - Компании: Хабр, Бастион, Далее
-- Кандидаты отраслей: не найдено
+- Кандидаты отраслей: IT-инфраструктура, добыча нефти, Защита критической инфраструктуры, нефтяные заводы, перегонка нефти, производство бензина, производство серы, промышленная инфраструктура
 - Кандидаты компаний: не найдено
 
 - https://habr.com/ru/companies/bastion/articles/669500/
 - Отрасли: Информационная безопасность, виртуальные
 - Компании: Хабр, Бастион, Арендовать, Самоката, 1С, Бэклог
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-компании, Интернет вещей, Кикшеринг, Транспорт
+- Кандидаты компаний: .Net, RabbitMQ, Юрент
 
 - https://habr.com/ru/companies/bastion/articles/673550/
 - Отрасли: Информационная безопасность
 - Компании: Хабр, Бастион, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Сетевые технологии, Сотовая связь, Телеком
+- Кандидаты компаний: GSM Association, GSMA
 
 - https://habr.com/ru/companies/bastion/articles/676310/
 - Отрасли: Информационная безопасность, информационной безопасности, Программное обеспечение, кибербезопасности, предлагает
 - Компании: Хабр, Бастион, RET, предлагает
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Цифровая криминалистика
+- Кандидаты компаний: 4n4lDetector, angr, Any Run, Argus-SAF, Binary Analysis Platform, Binary ninja, Binwalk, BlackArch, capa, CAPE, CFF Explorer, Cuckoo Sandbox, cutter, CyberChef, de4dot, Diaphora, diStorm, FileScan.IO, FindYara, FLARE, FLARE VM, Flare-vm, Ghidra, IDA, IDR, Indetectables Toolkit, InQuest Labs, Intezer, JSDetox, Kali Linux, LIEF, Malsub, Malwareconfig, Manalyze, Manalyzer, Microsoft, MobileAudit, MobSF, Obfuscation Detection, Open Office, Opswat, PE-bear, Pev, Pharos, PortEx, Qu1cksc0pe, Quark-Engine, Qubes OS, Radare2, REMnux, ret-sync, RiskInDroid, Rizin, Sandbox.pikker, Triage, Tsurugi Linux, Ubuntu, Unpacme, Un{i}packer, VirusTotal, Vivisect, Volatility, XLMMacroDeobfuscator, YARA, Yoroi
 
 - https://habr.com/ru/companies/bastion/articles/678802/
 - Отрасли: Информационная безопасность, хостинг, провайдер, бухгалтерия, информационной безопасности
 - Компании: Хабр, Бастион, OWASP, провайдер, 1С
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: финансовых компаний
+- Кандидаты компаний: Gatekeeper, Keycloak, Metasploit, OpenSSH
 
 - https://habr.com/ru/companies/bastion/articles/680820/
 - Отрасли: Информационная безопасность, информационной безопасности
 - Компании: Хабр, Бастион, Далее, серверы
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Сетевые технологии
+- Кандидаты компаний: Bastion Security Platform, Canary, Cymmetria, Fidelis, Honeypot Manager Кода безопасности, Illusive Networks, MazeRunner, TrapX, Xello, Хакер
 
 - https://habr.com/ru/companies/bastion/articles/683940/
 - Отрасли: Информационная безопасность, госсектора, кибербезопасности, Программное обеспечение, Дизайн и юзабилити, информационной безопасности
 - Компании: Хабр, Бастион, YADRO
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: операционных систем, Софт
+- Кандидаты компаний: Astra Linux, BadUSB, Qubes OS, VirtualBox, VMware, Windows, XOAR, РусБИТех-Астра, ЯДРО
 
 - https://habr.com/ru/companies/bastion/articles/686464/
 - Отрасли: Информационная безопасность, Веб-разработка
 - Компании: Хабр, Бастион, OWASP
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Доставка, Интернет-магазин, Онлайн-школа, Разработка мобильных приложений, Социальная сеть
+- Кандидаты компаний: AuthMatrix, Authorize, BURP Suite, habr.com, HackerOne
 
 - https://habr.com/ru/companies/bastion/articles/688972/
 - Отрасли: Информационная безопасность, Поисковые технологии, Рекрутинг и HR, IoT, digital
 - Компании: Хабр, Бастион, Далее, серверы, OWASP
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: OSINT, журналистика, интернет вещей, компьютерная криминалистика, маркетинг
+- Кандидаты компаний: Answerthepublic, Ask, ATSCAN SCANNER, Aware OSINT Tools, Baidu, Bing, Blackbird, Bug Bounty Helper, Carrot 2, CheckUserNames, Dailymotion, Datasploit, Dogpile, DorkScout, Dorksearch, DuckDuckGo, Ecosia, Exalead, Fagan Finder, Fast Google Dorks Scan, GHunt, Google, Google Hacking Database, Grawler, h8mail, have i been pwned?, haveibeenpwned.com, Holehe OSINT, Hopain Tools, Hunter, Imgur, Infoga, Instagram, Instant Username Search, IntelligenceX, Inteltechniques, Isearchfrom, iZito, Maigret, Mailcat, Maltego Community Edition, Marple, Metaosint, Mojeek, Moriarty, Mr.Holmes, Namecheckr, NExfil, oxDork, pagodo, Parsijoo, peekyou, Phomber, PhoneInfoga, pwnedOrNot, Query-Server, Querytool, Quora, Recon-ng, ReconSpider, Sherlock, Shodan, SiteDorks, Skymem, sn0int, Snoop Project, Snusbase, Social Analyzer, SpiderFoot, SPY, Synapsint, ThatsThem, theHarvester, Twitter, User Searcher, UserFinder, usersearch, WhatBreach, whatsmyname, YaCy, Yahoo, Yandex, Youtube, zapmeta
 
 - https://habr.com/ru/companies/bastion/articles/691354/
 - Отрасли: Информационная безопасность, облачные сервисы, информационной безопасности, ML, хостинг
 - Компании: Хабр, Бастион, Яндекс, Далее, Доктор Веб, VK, серверы
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Антивирусная защита, Корпоративный сектор, Облачные хранилища
+- Кандидаты компаний: Acronis, Amazon, Amazon Drive, APT Collection, Box, Dropbox, FIN13, Fortinet, Google, Google Drive, iCloud, Kimsuky, Mail.ru, Mega, Microsoft, OneDrive, Proton Drive, SonicWall, VirusTotal, vx-underground, Яндекс Диск
 
 - https://habr.com/ru/companies/bastion/articles/693716/
 - Отрасли: Информационная безопасность, IoT, информационной безопасности
 - Компании: Хабр, Бастион, QIWI, OWASP, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT
+- Кандидаты компаний: Bugcrowd, Google, HackerOne, Jira, Zendesk
 
 - https://habr.com/ru/companies/bastion/articles/696710/
 - Отрасли: Информационная безопасность, Enterprise
 - Компании: Хабр, Бастион, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT, Управление проектами
+- Кандидаты компаний: SANS
 
 - https://habr.com/ru/companies/bastion/articles/699168/
 - Отрасли: Информационная безопасность, Оптимизация
 - Компании: Хабр, Бастион, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Браузеры, операционная система
+- Кандидаты компаний: Apple, Chakra, Chrome, Chromium, Edge, Firefox, Google, Google Chrome, Internet Explorer, JavaScriptCore, Microsoft, Mozilla, Safari, SpiderMonkey, V8, Windows
 
 - https://habr.com/ru/companies/bastion/articles/701520/
 - Отрасли: Информационная безопасность, предлагает, информационной безопасности, кибербезопасности
 - Компании: Хабр, Бастион, предлагает, OWASP
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: OSINT, Threat intelligence, цифровой криминалистики
+- Кандидаты компаний: AvTokyo, BackBox, Black Hat Asia Arsenal, BlackArch, BolgenOS, Boxstarter, Burp Suite, Chocolatey, CommandoVM, CSI LINUX, Debian, Docker, FakeNet-NG, Fedora, Fedora Security Lab, Fierce, FLARE, FLARE VM, FLOSS, Gentoo Linux, Juice Shop, Kali Linux, Maltego, Mandiant, MyGet, OSINT VM, Parallels, Parrot, Parrot Security Edition, Pentoo, Raspberry Pi, REMnux, SamuraiWTF, SANS, SIFT Workstation, Subsystem for Linux, ThreatPursuit VM, Trace Labs, Tsurugi Linux, Ubuntu, VcXsrv, VirtualBox, VMware, w3af, XFCE
 
 - https://habr.com/ru/companies/bastion/articles/704848/
 - Отрасли: Информационная безопасность, IAAS, информационной безопасности, SaaS, Программное обеспечение, Рекрутинг и HR, аналитики, кибербезопасности
 - Компании: Хабр, Бастион, Далее, Gartner
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Кибербезопасность, Телемедицина
+- Кандидаты компаний: Brighttalk, Cybrary, Dark Reading, Google Cloud, Microsoft Azure, The Hacker News, Threat Post, Роскомнадзор
 
 - https://habr.com/ru/companies/bastion/articles/706322/
 - Отрасли: Информационная безопасность, Оптимизация, Дизайн и юзабилити, виртуальные
 - Компании: Хабр, Бастион, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Браузеры
+- Кандидаты компаний: Bastion, Blink, Chrome, Chromium, Process Monitor, Skia, V8
 
 - https://habr.com/ru/companies/bastion/articles/706884/
 - Отрасли: Информационная безопасность, Программное обеспечение, информационной безопасности
 - Компании: Хабр, Бастион, OWASP, QIWI
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Apache, Microsoft, Mitre, National Vulnerability Database, Open Web Application Security Project, Vulners, ФСТЭК
 
 - https://habr.com/ru/companies/bastion/articles/711064/
 - Отрасли: Информационная безопасность, криптографии, предлагает
 - Компании: Хабр, Бастион, Криптонит, t2, предлагает, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Криптография, Мобильные устройства, Облачные хранилища, Операционные системы, Смартфоны
+- Кандидаты компаний: Android, Apple, BitLocker, Cloaker, cryptofs, cryptolib, cryptolib-swift, Cryptomator, cryptomator-objc-cryptor, Cure53, Duplicati, FileVault, FreeBSD, GnuPG, golang.org/x/crypto, Hat.sh, iOS, iPhone, KeePass Password Safe, libsodium, Linux, LUKS, macOS, NaCl SecretBox, Picocrypt, Plan9, Raspberry Pi, RClone, SharpAESCrypt, siv-mode, Solaris, VeraCrypt, Windows
 
 - https://habr.com/ru/companies/bastion/articles/713600/
 - Отрасли: Информационная безопасность, CRM, Enterprise
 - Компании: Хабр, Бастион, 1С
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-инфраструктура, Корпоративные сети, Тестирование IT-систем
+- Кандидаты компаний: Citrix, NMAP, Rubeus, ServiceDesk, Касперский
 
 - https://habr.com/ru/companies/bastion/articles/716640/
 - Отрасли: Информационная безопасность, Оптимизация
 - Компании: Хабр, Бастион, Proto, Далее, RET
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Браузеры
+- Кандидаты компаний: Bastion, BlackHat 2018, Chrome, Exodus, Google, Google Chrome, Hack2Win, Ignition, Phrack, SecuriTeam Secure Disclosure Beyond Security, Sparkplug, SSD Advisory, TurboFan, V8
 
 - https://habr.com/ru/companies/bastion/articles/721986/
 - Отрасли: Информационная безопасность, аналитики, виртуальные
 - Компании: Хабр, Бастион, VK
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Децентрализованные сети, Социальные сети
+- Кандидаты компаний: ACHE Crawler, Adobe, Discord, fastfire/deepdarkCTI, josh0xA/darkdump, Kaspersky, megadose/OnionSearch, Norton, s-rah/onionscan, Telegram, Twitter
 
 - https://habr.com/ru/companies/bastion/articles/724082/
 - Отрасли: Информационная безопасность, кибербезопасности, Программное обеспечение, Аппаратное обеспечение, металлургии, Дизайн и юзабилити, digital
 - Компании: Хабр, Бастион, Далее, RET, быструю
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: интегральные схемы, кибербезопасность, микроэлектроника, полупроводники
+- Кандидаты компаний: Horst Görtz Institute for Semiconductor Security, Klayout
 
 - https://habr.com/ru/companies/bastion/articles/724966/
 - Отрасли: Информационная безопасность, PKI
 - Компании: Хабр, Бастион
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Active Directory, Active Directory Certificate Services, AD CS, AD DS, Certify, Certutil.exe, Facebook, Institute For Cyber Risk, Microsoft AD, Microsoft Windows Server, mimikatz, PowerShell, PowerView, Rubeus, Twitter, ZDI, Zero Day Initiative
 
 - https://habr.com/ru/companies/bastion/articles/731172/
 - Отрасли: Информационная безопасность, предлагает, виртуальные, CRM, IoT, промышленные
