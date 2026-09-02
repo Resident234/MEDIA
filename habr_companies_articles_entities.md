@@ -7355,122 +7355,122 @@
 - https://habr.com/ru/companies/contentai/articles/122325/
 - Отрасли: Аппаратное обеспечение, Информационная безопасность
 - Компании: Хабр, Content AI
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: защита данных
+- Кандидаты компаний: ABBYY, ABBYY FineReader Engine, FR Engine, HP, HP ProLiant DL160 G6, SECURIT, Zgate
 
 - https://habr.com/ru/companies/contentai/articles/122500/
 - Отрасли: OCR
 - Компании: Хабр, Content AI, Далее
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: ABBYY, ABBYY FotoTranslate, Android, Apple, iOS, iPhone, iPhone 3G, iPhone 3GS, iPhone 4, iPod touch, Lingvo, Lingvo Dictionaries, Symbian
 
 - https://habr.com/ru/companies/contentai/articles/123168/
 - Отрасли: OCR
 - Компании: Хабр, Content AI
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: ABBYY, ABBYY FineReader, ABBYY FineReader 10 Professional Edition
 
 - https://habr.com/ru/companies/contentai/articles/123518/
 - Отрасли: СМИ
 - Компании: Хабр, Content AI, Далее, Яндекс
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: искусственный интеллект, компьютерная лингвистика, корпусная лингвистика, машинный перевод, обработка естественного языка, распознавание образов, распознавание речи, синтез речи
+- Кандидаты компаний: ABBYY, ABBYY Compreno, ABBYY FineReader, ABBYY Lingvo, ассоциация Искусственного Интеллекта, Диалог, институт лингвистики РГГУ, институт проблем информатики РАН, институт проблем передачи информации РАН, МГУ им. М.В. Ломоносова, Российский Фонд Фундаментальных Исследований
 
 - https://habr.com/ru/companies/contentai/articles/124597/
 - Отрасли: CRM
 - Компании: Хабр, Content AI
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: банки, больницы, миграционные службы, перевод по телефону, полиция, службы по ликвидации чрезвычайных ситуаций, страховые компании, суды, юридические компании
+- Кандидаты компаний: ABBYY, ABBYY Language Services, ABBYY ruPhone, Лондонская королевская больница
 
 - https://habr.com/ru/companies/contentai/articles/125347/
 - Отрасли: Веб-разработка
 - Компании: Хабр, Content AI
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: ABBYY
 
 - https://habr.com/ru/companies/contentai/articles/125708/
 - Отрасли: embedded, виртуальные, DIY
 - Компании: Хабр, Content AI
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: embedded platforms
+- Кандидаты компаний: Fedora, SUSE
 
 - https://habr.com/ru/companies/contentai/articles/125851/
 - Отрасли: не найдено
 - Компании: Хабр, Content AI, Сбербанк, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: банковская отрасль
+- Кандидаты компаний: ABBYY, ABBYY FlexiCapture, ABBYY FlexiLayout Studio, ABBYY FormDesigner, Habr, Raiffeisen BANK, ОАО «СБЕРБАНК РОССИИ», Станция сканирования
 
 - https://habr.com/ru/companies/contentai/articles/127259/
 - Отрасли: Информационная безопасность
 - Компании: Хабр, Content AI, Далее
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: codepad.org, Win32 API, Windows
 
 - https://habr.com/ru/companies/contentai/articles/128104/
 - Отрасли: OCR
 - Компании: Хабр, Content AI
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: архивы, библиотеки, музеи
+- Кандидаты компаний: ABBYY, ABBYY FineReader XIX, ABBYY FineReader XIX Engine OCR, ABBYY Recognition Server, MediaUniverse, METAe, Zeutschel OK 300 Hybrid Colour, Департамент музеев Малайзии, Еврокомиссия, Национальная библиотека Литвы, Эстонская национальная библиотека
 
 - https://habr.com/ru/companies/contentai/articles/128584/
 - Отрасли: не найдено
 - Компании: Хабр, Content AI
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: налоговые декларации
+- Кандидаты компаний: ABBYY, ABBYY FlexiCapture Engine, Intuit, SnapTax
 
 - https://habr.com/ru/companies/contentai/articles/129485/
 - Отрасли: не найдено
 - Компании: Хабр, Content AI, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: полиграфические комплексы, система потокового ввода данных
+- Кандидаты компаний: ABBYY, ABBYY FlexiCapture, ABBYY FlexiLayout Studio, ABBYY FormDesigner, MS Visio, MS Word, Paint
 
 - https://habr.com/ru/companies/contentai/articles/130459/
 - Отрасли: не найдено
 - Компании: Хабр, Content AI, Далее, Сбербанк
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: ABBYY, ABBYY FlexiCapture, ABBYY FlexiLayout Studio, Raiffeisenbank, ОАО «СБЕРБАНК РОССИИ»
 
 - https://habr.com/ru/companies/contentai/articles/131413/
 - Отрасли: не найдено
 - Компании: Хабр, Content AI
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: автозаправочных станций, аптеках, кинотеатре, книжном магазине, ресторанах, такси
+- Кандидаты компаний: ABBYY Lingvo
 
 - https://habr.com/ru/companies/contentai/articles/131713/
 - Отрасли: не найдено
 - Компании: Хабр, Content AI
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: gcc-4.3.4, ideone.com, IIS, Visual C++ 10, Windows
 
 - https://habr.com/ru/companies/contentai/articles/133624/
 - Отрасли: OCR
 - Компании: Хабр, Content AI
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: cloud services
+- Кандидаты компаний: ABBYY, ABBYY Cloud OCR SDK, ABBYY FineReader Engine, GitHub, ocrsdk.com, Windows Azure
 
 - https://habr.com/ru/companies/contentai/articles/134651/
 - Отрасли: OCR
 - Компании: Хабр, Content AI
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: библиотек, неправительственная общественная организация, образовательных институтов, оцифровка архивов, университетов
+- Кандидаты компаний: ABBYY, ABBYY Recognition Server, ePrints Soton, Goobi Production Workflow, JISC, Joint Information Systems Committee, Library Digitisation Unit, Southampton University, библиотека Хартли, Винчестерская школа искусств
 
 - https://habr.com/ru/companies/contentai/articles/134934/
 - Отрасли: Мобильные технологии
 - Компании: Хабр, Content AI
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: мобильные приложения, электронные книги
+- Кандидаты компаний: ABBYY, Android Market, Lingvo
 
 - https://habr.com/ru/companies/contentai/articles/136506/
 - Отрасли: Мобильные технологии, OCR
 - Компании: Хабр, Content AI
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: ABBYY, ABBYY Labs, ABBYY Mobile OCR Engine for Windows
 
 - https://habr.com/ru/companies/contentai/articles/136909/
 - Отрасли: не найдено
 - Компании: Хабр, Content AI
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: static code analysis
+- Кандидаты компаний: abbyy.ru, Visual C++
 
 - https://habr.com/ru/companies/contentai/articles/137912/
 - Отрасли: не найдено
@@ -7482,25 +7482,25 @@
 - Отрасли: OCR, облачные сервисы, облачных сервисов, провайдер, виртуальные
 - Компании: Хабр, Content AI, Яндекс, Далее, провайдер
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: ABBYY, ABBYY Cloud OCR SDK, FineReader Engine, Stack Exchange, Stack Overflow, Windows Azure, Яндекс.Почта
 
 - https://habr.com/ru/companies/contentai/articles/141967/
 - Отрасли: Веб-разработка
 - Компании: Хабр, Content AI
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: управление проектами
+- Кандидаты компаний: ABBYY
 
 - https://habr.com/ru/companies/contentai/articles/142595/
 - Отрасли: не найдено
 - Компании: Хабр, Content AI
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: boost::noncopyable, www.abbyy.ru/vacancy
 
 - https://habr.com/ru/companies/contentai/articles/144001/
 - Отрасли: OCR
 - Компании: Хабр, Content AI, Яндекс
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: аккумуляторы, гаджеты, детские товары, доставка, интернет‑шоппинг, одежда, почтовая связь, радиодетали, спортивная одежда, электроника
+- Кандидаты компаний: Aliexpress, betrachtung, brando, buyincoins, chainreactioncycles, chinavasion, Clove, computeruniverse, dealexcel, DealExtreme (DX), DIHALT, dinodirect, dsd_corp, eBay, ebaytoday, english.gmarket.co.kr, eu.nkon.nl, FineReader, Gmarket, Handtec, hotmid.com, kidoh.de, lightinthebox, Meest.us, miniinthebox, pandawill, ProfitBid, Screenshot Reader, Shipito, startfitness.co.uk, sunsky-online, taydaelectronics, ThinkGeek, tinydeal, TrackChecker, trueneutral, Webmoney, Яндекс.Деньги
 
 - https://habr.com/ru/companies/contentai/articles/144859/
 - Отрасли: Веб-разработка
