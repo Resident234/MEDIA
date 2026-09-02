@@ -11405,152 +11405,152 @@
 - https://habr.com/ru/companies/dcmiran/articles/564478/
 - Отрасли: DIY, Программное обеспечение
 - Компании: Хабр, Дата-центр «Миран»
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Сотовая связь
+- Кандидаты компаний: Huawei, Intel, Kamailio, LibreCellular, LimeRFE, LimeSDR, Mini Precision GPS, NGI Zero, Ofcom Shared Access, Open5GS, Qualcomm, SBX, srsRAN, sysmoQMOD, USRP N210
 
 - https://habr.com/ru/companies/dcmiran/articles/566734/
 - Отрасли: аналитики
 - Компании: Хабр, Дата-центр «Миран»
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Дата-центр, Компьютерная архитектура, Микросервисные архитектуры, Образовательные цели, Операционные системы, Распределённые вычислительные среды, Системное программирование
+- Кандидаты компаний: Barrelfish, Bash, Bell Labs, BolgenOS, ClamAV, Debian, Fuchsia, GNOME, GRUB, Minix, MIPS, Plan 9, Qt4, RedLeaf, REX, RISC‑V, Ubuntu, Unikraft, Unix, Winix, WRAMP
 
 - https://habr.com/ru/companies/dcmiran/articles/567928/
 - Отрасли: не найдено
 - Компании: Хабр, Дата-центр «Миран», Цифра, AMD
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Data center, Процессоры, Электроника
+- Кандидаты компаний: Amazon, ark.intel, i9-10900X, i9-10980XE, i9-11900K, i9-9900K, i9-9980XE, Intel, Intel Alder Lake, Intel-10980XE, TSMC, Videocardz, Wikichip
 
 - https://habr.com/ru/companies/dcmiran/articles/574140/
 - Отрасли: DIY
 - Компании: Хабр, Дата-центр «Миран», Контур
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Data center, Полупроводники, Химия, Электроника
+- Кандидаты компаний: eBay, Filmtronics, Intel, sam.zeloof.xyz
 
 - https://habr.com/ru/companies/dcmiran/articles/576290/
 - Отрасли: Информационная безопасность, информационной безопасности
 - Компании: Хабр, Дата-центр «Миран»
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT, компьютерная безопасность
+- Кандидаты компаний: Apple, Chrome, Data_center_MIRAN, Facebook, Google, iPhone, Linux, Microsoft, Novalpina Capital, NSO Group, Pegasus, Washington Post
 
 - https://habr.com/ru/companies/dcmiran/articles/578300/
 - Отрасли: Оптимизация
 - Компании: Хабр, Дата-центр «Миран»
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Data center, Высоконагруженные системы, Клиентская оптимизация, Математическая оптимизация, Облачные вычисления, Тестирование IT-систем
+- Кандидаты компаний: Intel, OpenJDK, OptaPlanner, Red Hat, RHEL, Temurin
 
 - https://habr.com/ru/companies/dcmiran/articles/579310/
 - Отрасли: DIY
 - Компании: Хабр, Дата-центр «Миран»
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Data center, Mobile communication, Remote work, Satellite internet
+- Кандидаты компаний: Alfa, Data_center_MIRAN, eBay, ESXi, Gitpod, Huawei, Intel NUC, Miran.ru, Nighthawk, Nokia, Optus, RIPE Atlas, Speedify, Starlink, Telstra, UniFi, Vodafone
 
 - https://habr.com/ru/companies/dcmiran/articles/582710/
 - Отрасли: Аппаратное обеспечение, медиа
 - Компании: Хабр, Дата-центр «Миран», Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Компьютерное железо, Накопители, Настольные компьютеры, Серверное администрирование
+- Кандидаты компаний: Backblaze, Miran
 
 - https://habr.com/ru/companies/dcmiran/articles/584458/
 - Отрасли: облачные сервисы
 - Компании: Хабр, Дата-центр «Миран»
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Настройка Linux, Системное администрирование, Хранение данных
+- Кандидаты компаний: Netflix, Sun Microsystems
 
 - https://habr.com/ru/companies/dcmiran/articles/584692/
 - Отрасли: Информационная безопасность, ML
 - Компании: Хабр, Дата-центр «Миран», Далее, быструю, N+1
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Дата‑центр, Криптография
+- Кандидаты компаний: GitHub, Wikipedia, Дата‑центр «Миран»
 
 - https://habr.com/ru/companies/dcmiran/articles/591785/
 - Отрасли: не найдено
 - Компании: Хабр, Дата-центр «Миран», серверы
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Дата-центр, Игры и игровые консоли, Системное администрирование, Хранение данных
+- Кандидаты компаний: Apache Kafka, Factorio
 
 - https://habr.com/ru/companies/dcmiran/articles/598011/
 - Отрасли: не найдено
 - Компании: Хабр, Дата-центр «Миран», Звук
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Data-центр, Бэкенд, Инженерные системы, Контейнерные перевозки, Маркетинг, Поддержка клиентов, Продажи
+- Кандидаты компаний: Data‑центр «Миран», Eloqua, HubSpot, Maersk, Marketo, Pardot, Salesforce, Tableau, Zapier
 
 - https://habr.com/ru/companies/dcmiran/articles/654643/
 - Отрасли: хостинг, Программное обеспечение
 - Компании: Хабр, Дата-центр «Миран»
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Data center, IT-систем
+- Кандидаты компаний: Github, Gitlab, Microsoft, OSI, Raccoon APK Downloader, SourceForge
 
 - https://habr.com/ru/companies/dcmiran/articles/662866/
 - Отрасли: ML, САПР, AI/ML, Дизайн и юзабилити
 - Компании: Хабр, Дата-центр «Миран»
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: EDA, дизайн микросхем, микроэлектроника, Производство и разработка электроники, производство микросхем
+- Кандидаты компаний: Cadence Cerebrus Intelligent Chip Explorer, Cadence Design Systems, Miran.ru, NVCell, Nvidia, Nvidia Developer Program, PrefixRL, Synopsys
 
 - https://habr.com/ru/companies/dcmiran/articles/663950/
 - Отрасли: Программное обеспечение
 - Компании: Хабр, Дата-центр «Миран», Цифра
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Инженерные системы, Системное программирование
+- Кандидаты компаний: Glamorous Toolkit, IEEE Transactions on Software Engineering, Moldable Development Environment
 
 - https://habr.com/ru/companies/dcmiran/articles/666258/
 - Отрасли: предлагает
 - Компании: Хабр, Дата-центр «Миран», предлагает
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Data center
+- Кандидаты компаний: Data_center_MIRAN, Debian, Debian GNU/Linux, Fedora Linux, FreeDOS, Hewlett Packard, HP, HP ZBook 17.8 G8, Iceweasel, QEMU, Syslinux, Ubuntu, Webconverger, Windows 11
 
 - https://habr.com/ru/companies/dcmiran/articles/666386/
 - Отрасли: Информационная безопасность, информационной безопасности
 - Компании: Хабр, Дата-центр «Миран»
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Amazon, General Service Administration, GSA, militarycac.com, Saicoo, Saicootech.com, Virustotal
 
 - https://habr.com/ru/companies/dcmiran/articles/668208/
 - Отрасли: не найдено
 - Компании: Хабр, Дата-центр «Миран», быструю, DELL
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Дата-центр, Машинное обучение, Медицинская диагностика, Обработка изображений, Онкология, Радиологические науки, Радиотерапия, Физика, Ядерная инженерия
+- Кандидаты компаний: Amazon, Bruker, Bruker Photon III, eBay, Exp Deal Hotel, Firefox, GitHub, K-Meleon, Mozilla, Neuralrad, Newegg, Nvidia, PCHome, Siemens, Sourceforge.net, V2EX, Миран, Мичиганский университет, Нанкинский университет, Техасский университет, Университет Барселоны, Флоридский университет, Фуданьский университет
 
 - https://habr.com/ru/companies/dcmiran/articles/675618/
 - Отрасли: Информационная безопасность, Поисковые технологии, Веб-разработка
 - Компании: Хабр, Дата-центр «Миран», Далее
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Bing, Bingbot, Data-центр «Миран», Google Recaptcha, lobste.rs, Microsoft, Outlook, Wikileaks
 
 - https://habr.com/ru/companies/dcmiran/articles/675680/
 - Отрасли: IoT
 - Компании: Хабр, Дата-центр «Миран», AMD, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: дата-центр, компьютерное железо, микроэлектроника, полупроводниковый рынок, производство микросхем, электроника
+- Кандидаты компаний: Apple, ASML, Nvidia, SMIC, TSMC, UMC
 
 - https://habr.com/ru/companies/dcmiran/articles/678852/
 - Отрасли: предлагает
 - Компании: Хабр, Дата-центр «Миран», предлагает, быструю
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Браузеры, Дата-центр, Расширения для браузеров
+- Кандидаты компаний: AdBlock, Chromium, Data_center_MIRAN, Disconnect, DuckDuckGo, DuckDuckGo Privacy Essentials, Facebook Container, Firefox, Google, Google Chrome, Google Container, HTTPS Everywhere, Internet Explorer, miran.ru, Mozilla, Multi-Account Container, Privacy Badger, Privacy Possum, uBlock Origin
 
 - https://habr.com/ru/companies/dcmiran/articles/679610/
 - Отрасли: хостинг
 - Компании: Хабр, Дата-центр «Миран»
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: DevOps, дата-центр, колокейшн, настройка Linux, серверное администрирование, системное администрирование
+- Кандидаты компаний: Apache 2, debbugs, Debian, Debian ELTS, Debian LTS, dpkg, Exim MTA, Freexian, Intel, Mailman, miran.ru, Pentium, PuTTY, SAUCE, userv, Windows, Кембриджского университета, Миран
 
 - https://habr.com/ru/companies/dcmiran/articles/679786/
 - Отрасли: не найдено
 - Компании: Хабр, Дата-центр «Миран», Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Data center, IT, Open source
+- Кандидаты компаний: Acorn, Cinnamon, Debian, Devuan, KDE, LXDE, MATE, Microsoft, Mint, NeXT, Red Hat, Sun Solaris, SUSE, Ubuntu, Xfce, Ximian
 
 - https://habr.com/ru/companies/dcmiran/articles/685294/
 - Отрасли: хостинг, предлагает, Веб-сервисы, облачные сервисы, провайдер, виртуальные, облачных сервисов, Домены и хостинг
 - Компании: Хабр, Дата-центр «Миран», AMD, предлагает, Арендовать, DELL, серверы, провайдер
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Дата-центр, Серверное администрирование, Суперкомпьютеры
+- Кандидаты компаний: AWS, Backblaze, Hacker News, Hetzner, Microsoft Azure, OVHCloud, Seagate
 
 - https://habr.com/ru/companies/dcmiran/articles/690148/
 - Отрасли: не найдено
 - Компании: Хабр, Дата-центр «Миран», Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Дата-центр
+- Кандидаты компаний: Excel, Google, Google Sheets, INFOLUST, Matlab, Microsoft, Office 365, Power Query, Миран
 
 - https://habr.com/ru/companies/dcmiran/articles/693842/
 - Отрасли: Программное обеспечение, Аппаратное обеспечение, виртуальные
