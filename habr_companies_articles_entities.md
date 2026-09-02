@@ -12156,151 +12156,151 @@
 - Отрасли: Информационная безопасность
 - Компании: Хабр, Домклик
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: «Согласий»
 
 - https://habr.com/ru/companies/domclick/articles/539086/
 - Отрасли: Веб-разработка, аналитики, Информационная безопасность, Мобильные технологии
 - Компании: Хабр, Домклик
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Управление разработкой
+- Кандидаты компаний: chrome-launcher, Circle CI, GitHub, GitLab CI, Google Cloudbuild, Jenkins, license-checker, Lighthouse, Node Security Project, npm, Puppeteer, Travis CI, webpack
 
 - https://habr.com/ru/companies/domclick/articles/541906/
 - Отрасли: недвижимости, аналитики
 - Компании: Хабр, Домклик
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: ипотечные кредиты
+- Кандидаты компаний: Sbergile, Спасибо от Сбербанка
 
 - https://habr.com/ru/companies/domclick/articles/542122/
 - Отрасли: не найдено
 - Компании: Хабр, Домклик, Space
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: NetApp, ONTAP, Zabbix
 
 - https://habr.com/ru/companies/domclick/articles/542264/
 - Отрасли: не найдено
 - Компании: Хабр, Домклик, Далее, Яндекс, Бэклог
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Chaos Engineering, DevOps, IT-инфраструктура, Системное администрирование, Тестирование IT-систем, хаос-инженерия
+- Кандидаты компаний: Amazon, Apache JMeter, AWS, Chaos Mesh, Chaos Monkey, Gatling, JMeter, Kube DOOM, KubeInvaders, Kubernetes, Litmus Chaos, Netflix, Postgres, S3, stress-ng, tc, The Grinder, Яндекс.Танк
 
 - https://habr.com/ru/companies/domclick/articles/545014/
 - Отрасли: Веб-разработка, Оптимизация
 - Компании: Хабр, Домклик
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Bit, Github, Google, InsaleLab
 
 - https://habr.com/ru/companies/domclick/articles/545282/
 - Отрасли: виртуальные, SaaS, IAAS
 - Компании: Хабр, Домклик, Gartner
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: DevOps, IT Operations, облачные вычисления, Системное администрирование
+- Кандидаты компаний: Deloitte
 
 - https://habr.com/ru/companies/domclick/articles/545540/
 - Отрасли: CRM, ERP
 - Компании: Хабр, Домклик, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: интернет-магазин
+- Кандидаты компаний: Borland, Borland Developer Studio
 
 - https://habr.com/ru/companies/domclick/articles/546008/
 - Отрасли: CRM
 - Компании: Хабр, Домклик, Далее, IDX
-- Кандидаты отраслей: не найдено
+- Кандидаты отраслей: ипотечное кредитование
 - Кандидаты компаний: не найдено
 
 - https://habr.com/ru/companies/domclick/articles/546910/
 - Отрасли: CRM, Информационная безопасность, предлагает
 - Компании: Хабр, Домклик, Далее, предлагает
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: ипотечное кредитование, мониторинг
+- Кандидаты компаний: ankane/pghero, Docker, PGHero
 
 - https://habr.com/ru/companies/domclick/articles/546922/
 - Отрасли: Информационная безопасность, предлагает
 - Компании: Хабр, Домклик, предлагает
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: DevOps
+- Кандидаты компаний: Alpine, Distroless, docker.io/library/image-ubuntu, gcr.io/distroless/static-debian10, golang:1.15, gosu, OpenShift, quay.io/sysdig/secure-inline-scan:2, su-exec, sudo, sysdig, ubuntu:xenial-20210114
 
 - https://habr.com/ru/companies/domclick/articles/547150/
 - Отрасли: не найдено
 - Компании: Хабр, Домклик, Далее
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Arch Linux, Debian, Habr, Microsoft, VirtualBox
 
 - https://habr.com/ru/companies/domclick/articles/547258/
 - Отрасли: предлагает
 - Компании: Хабр, Домклик, предлагает
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Машинное обучение
+- Кандидаты компаний: Github
 
 - https://habr.com/ru/companies/domclick/articles/548450/
 - Отрасли: не найдено
 - Компании: Хабр, Домклик, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Базы данных
+- Кандидаты компаний: Grafana, okmeter, PGBouncer, Zabbix
 
 - https://habr.com/ru/companies/domclick/articles/548610/
 - Отрасли: не найдено
 - Компании: Хабр, Домклик
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Docker, FastAPI, HAProxy, Kubernetes, Nginx, NGINX PLUS, Postman, uvicorn
 
 - https://habr.com/ru/companies/domclick/articles/549098/
 - Отрасли: Оптимизация
 - Компании: Хабр, Домклик, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: веб‑аналитика, веб‑сервис
+- Кандидаты компаний: Chrome, Chrome DevTools, CrUX, Google, Google Search Console, Lighthouse, Lighthouse CI, Page Speed Insides, web.dev
 
 - https://habr.com/ru/companies/domclick/articles/549548/
 - Отрасли: недвижимости
 - Компании: Хабр, Домклик, быструю, Бэклог
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: CDN, DevOps, DNS, дата‑центры, провайдеры связи, служба безопасности
+- Кандидаты компаний: Confluence, ELK, kubectl, Kubernetes, RabbitMQ
 
 - https://habr.com/ru/companies/domclick/articles/550034/
 - Отрасли: ML, предлагает
 - Компании: Хабр, Домклик, предлагает
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-индустрии, индустрия разработки веб-приложений, фронтенд-экосистема
+- Кандидаты компаний: [type anything].js, Angular, AngularJS, Backbone.js, GraphQL, Jasmine, Jest, Marrionete.js, Mocha, Prototype.js, React, ReactJS, Redux, State of JS, Svelte, TypeScript, Vue, VueJS
 
 - https://habr.com/ru/companies/domclick/articles/551332/
 - Отрасли: Программное обеспечение, виртуальные
 - Компании: Хабр, Домклик, серверы
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Docker, Docker Hub, FastAPI, HAProxy, Kubernetes, Minikube, Nginx, Postman
 
 - https://habr.com/ru/companies/domclick/articles/552170/
 - Отрасли: не найдено
 - Компании: Хабр, Домклик, Далее
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Debian, grub4dos, Microsoft, VirtualBox, Windows
 
 - https://habr.com/ru/companies/domclick/articles/552930/
 - Отрасли: не найдено
 - Компании: Хабр, Домклик, N+1
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Django, go-pg, PostgreSQL, PyCharm, SQLAlchemy
 
 - https://habr.com/ru/companies/domclick/articles/555228/
 - Отрасли: не найдено
 - Компании: Хабр, Домклик
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Driver.js, Intro.js, popper, React-joyride, Shepherd
 
 - https://habr.com/ru/companies/domclick/articles/557638/
 - Отрасли: не найдено
 - Компании: Хабр, Домклик
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Django ORM, Gino, Peewee, ponyORM, SQLAlchemy, SQLAlchemy Core, SQLAlchemy ORM, tortoise-orm
 
 - https://habr.com/ru/companies/domclick/articles/558876/
 - Отрасли: предлагает
 - Компании: Хабр, Домклик, предлагает
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: авиация, геодезия, картография, моревая навигация, реляционная база данных
+- Кандидаты компаний: Google, Hibernate, Hibernate Spatial, PostGIS, PostgreSQL
 
 - https://habr.com/ru/companies/domclick/articles/560104/
 - Отрасли: Веб-разработка, кибербезопасности
 - Компании: Хабр, Домклик, Звук
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: gazeta.ru, Kafka, Kubernetes, nag.ru, ngs24.ru, RabbitMQ, Skilltracker
 
 - https://habr.com/ru/companies/domclick/articles/560514/
 - Отрасли: кибербезопасности, аналитики
