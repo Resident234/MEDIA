@@ -3605,152 +3605,152 @@
 - https://habr.com/ru/companies/aliexpress_russia/articles/top/
 - Отрасли: Программное обеспечение, Machine Learning, Мобильные технологии
 - Компании: AliExpress CIS, Хабр
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: маркетплейс
+- Кандидаты компаний: AliExpress, AliExpress Order Management System, AliExpress Россия, AliTech, Ansible, Fusion, Google, Google Firebase, Grafana, Knowledge Engineering, PostgreSQL, XCRemoteCache
 
 - https://habr.com/ru/companies/amnezia/articles/top/
 - Отрасли: Программное обеспечение, медиа, хостинг
 - Компании: Amnezia VPN, Хабр, серверы
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Internet, IT, Open source software, VPN services
+- Кандидаты компаний: Amnezia, AmneziaFree, AmneziaVPN, AmneziaWG, Cloak, DemHack, Google, Habr, Instagram, OpenVPN, PrivacyAccelerator, Telegram, WireGuard, XRay, Теплица социальных технологий
 
 - https://habr.com/ru/companies/amvera/articles/691288/
 - Отрасли: не найдено
 - Компании: Хабр, Amvera, Далее, Звук
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: распознавание речи, системы распознавания речи
+- Кандидаты компаний: Amvera Speech, iPhone, Kaldi, Telegram, ООО "Клэрити"
 
 - https://habr.com/ru/companies/amvera/articles/691416/
 - Отрасли: облачные сервисы, медицина
 - Компании: Хабр, Amvera, серверы
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Искусственный интеллект, Транспорт
+- Кандидаты компаний: Amvera Speech, AmVeraSpeechBot, Telegram
 
 - https://habr.com/ru/companies/amvera/articles/692296/
 - Отрасли: не найдено
 - Компании: Хабр, Amvera
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: ЖД отрасли, железнодорожной сферы, железнодорожных грузоперевозок, металлургический комбинат
+- Кандидаты компаний: Amvera Speech, Google
 
 - https://habr.com/ru/companies/amvera/articles/693546/
 - Отрасли: не найдено
 - Компании: Хабр, Amvera, Контур, Яндекс, Тинькофф
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: банковский сектор, распознавание речи
+- Кандидаты компаний: Amvera Speech, AmVeraSpeechBot, ЦРТ
 
 - https://habr.com/ru/companies/amvera/articles/697698/
 - Отрасли: облачные сервисы, виртуальные, PaaS, образование, хостинг, масштабируемость, облачных сервисов
 - Компании: Хабр, Amvera, серверы
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Бизнес-модели, Облачные вычисления, ЦОДы
+- Кандидаты компаний: AWS, Docker, Heroku, MongoDB, MS Azure, OpenStack
 
 - https://habr.com/ru/companies/amvera/articles/699058/
 - Отрасли: NLP, ML
 - Компании: Хабр, Amvera
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: AC/DC, ruBERT
 
 - https://habr.com/ru/companies/amvera/articles/700620/
 - Отрасли: хостинг, облачные сервисы
 - Компании: Хабр, Amvera, Арендовать
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: DevOps, Программирование
+- Кандидаты компаний: Heroku, nginx, Postman
 
 - https://habr.com/ru/companies/amvera/articles/702424/
 - Отрасли: не найдено
 - Компании: Хабр, Amvera, Звук
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Искусственный интеллект, Математика, Машинное обучение, Семантические сети
+- Кандидаты компаний: BERT, GPT3, Kaggle
 
 - https://habr.com/ru/companies/amvera/articles/706716/
 - Отрасли: не найдено
 - Компании: Хабр, Amvera
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: АЗС
+- Кандидаты компаний: Amvera Cloud, Amvera Speech, AmVeraSpeechBot, Nanosemantica, Salutbot, Sber, Tinkoff, ЦРТ
 
 - https://habr.com/ru/companies/amvera/articles/715588/
 - Отрасли: не найдено
 - Компании: Хабр, Amvera, Яндекс, Тинькофф, VK
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: банки, облачное распознавание речи
+- Кандидаты компаний: Amvera Speech, AmVeraSpeechBot, ЦРТ
 
 - https://habr.com/ru/companies/amvera/articles/731590/
 - Отрасли: не найдено
 - Компании: Хабр, Amvera
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-инфраструктура, IT-сервисы, SIEM системы, контейнерное облако, хостинг IT-приложений
+- Кандидаты компаний: Amvera Cloud, Crible, Elastic, Heroku, Splunk
 
 - https://habr.com/ru/companies/amvera/articles/733010/
 - Отрасли: хостинг
 - Компании: Хабр, Amvera, Яндекс, Сбер, VK
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: VPS хостинги, облачные провайдеры
+- Кандидаты компаний: Amvera Cloud, App Engine, Discord, Google Cloud Platform, Heroku, Pythonanywhere, Telegram
 
 - https://habr.com/ru/companies/amvera/articles/736264/
 - Отрасли: СМИ
 - Компании: Хабр, Amvera
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-инфраструктура
+- Кандидаты компаний: Amazon, Amvera Cloud, CoreDNS, ELK, etcd, Grafana, Jager, Netflix
 
 - https://habr.com/ru/companies/amvera/articles/738554/
 - Отрасли: хостинг, облачные сервисы
 - Компании: Хабр, Amvera, Далее, Selectel, Яндекс
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: облака, хостинг docker контейнеров
+- Кандидаты компаний: Amazon, Amazon ECS, Amvera Cloud, AWS, Azure, DigitalOcean, Elastic Beanstalk, GCP, Google App Engine, Google Cloud, Heroku
 
 - https://habr.com/ru/companies/amvera/articles/739710/
 - Отрасли: хостинг, хостинг-провайдеров
 - Компании: Хабр, Amvera, ПИК
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: корпоративный сегмент
+- Кандидаты компаний: Amazon, Amvera Cloud, AWS, AWS Elastic Beanstalk, DigitalOcean, GCP, GitHub, Google, Google App Engine, Heroku, Jenkins, Kubernetes, Salesforce, VMware, Y Combinator
 
 - https://habr.com/ru/companies/amvera/articles/741126/
 - Отрасли: хостинг
 - Компании: Хабр, Amvera
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: VPS хостинг, облака
+- Кандидаты компаний: Amvera Cloud, App Platform, AWS, AWS Elastic Beanstalk, Clever Cloud, DigitalOcean, Engine Yard, GCP, Google App Engine, Heroku
 
 - https://habr.com/ru/companies/amvera/articles/741146/
 - Отрасли: не найдено
 - Компании: Хабр, Amvera, Арендовать
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: DevOps, IT-инфраструктура, облачные услуги
+- Кандидаты компаний: Amvera Cloud, Elastic, Fluentd, Grafana, Grafana Loki, Heroku, Jaeger, Logstash, MongoDB, Open Search, OpenTelemetry, PagerDuty, Prometheus, Sentry, VictoriaMetrics
 
 - https://habr.com/ru/companies/amvera/articles/742164/
 - Отрасли: облачные сервисы, провайдер
 - Компании: Хабр, Amvera, провайдер
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: VPS
+- Кандидаты компаний: BotFather, python-telegram-bot, Telegram
 
 - https://habr.com/ru/companies/amvera/articles/742354/
 - Отрасли: предлагает
 - Компании: Хабр, Amvera, предлагает, Арендовать
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT, рынок OS, рынок браузеров, рынок измерительного оборудования, рынок микроскопов, рынок облачных услуг, рынок поисковых систем, рынок процессоров, рынок серверного оборудования
+- Кандидаты компаний: Adobe, Android, Apple, ChatGPT, Chrome, Google, Heroku, Huawei, Intel, ISO, Microsoft, Netscape, OpenAI, Oracle, Sun Microsystems, Xerox
 
 - https://habr.com/ru/companies/angarasecurity/articles/580078/
 - Отрасли: Информационная безопасность, предлагает, Дизайн и юзабилити, Enterprise
 - Компании: Хабр, Angara Security, предлагает, ОК, Далее, RET
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-индустрии
+- Кандидаты компаний: DAFT, ESC, GitBook, MS SQL Server, Offensive Security, PsExec, Sysinternals
 
 - https://habr.com/ru/companies/angarasecurity/articles/595071/
 - Отрасли: Информационная безопасность, информационной безопасности
 - Компании: Хабр, Angara Security
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-безопасность, анализ защищенности веб-приложений, багбаунти, веб-безопасность, пентест, прикладная IT-безопасность
+- Кандидаты компаний: Apache (через упоминание .htaccess), BurpSuite, exploit-db.com, Offensive Security
 
 - https://habr.com/ru/companies/angarasecurity/articles/661341/
 - Отрасли: Информационная безопасность, Enterprise
 - Компании: Хабр, Angara Security, Далее, RDP
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: тестирование на проникновение
+- Кандидаты компаний: Kaspersky, Kaspersky Endpoint Security, lsassy, Microsoft, Mimikatz, MITRE, MITRE ATT&CK, PowerSploit, ProcDump, Pypykatz, Windows Sysinternals
 
 - https://habr.com/ru/companies/angarasecurity/articles/670500/
 - Отрасли: Информационная безопасность, IoT, виртуальные
 - Компании: Хабр, Angara Security, VK, ОК, Далее, Positive Technologies, OWASP, InfoWatch
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: b2b, Веб-приложения, Переносимые устройства, Смартфоны
+- Кандидаты компаний: Amazon, eBay, Mattermost, Saleforce, Salt Security, Slack, Xiaomi
 
 - https://habr.com/ru/companies/angarasecurity/articles/679592/
 - Отрасли: Информационная безопасность, Программное обеспечение, криптографии
