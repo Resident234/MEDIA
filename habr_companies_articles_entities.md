@@ -6606,55 +6606,55 @@
 - Отрасли: BI, Информационная безопасность
 - Компании: Хабр, BI.ZONE, Далее
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: BurpSuite, Exchange Control Panel (ECP), Exchange Management Shell, Exchange Web Services, IIS, Microsoft, MS Exchange, MSExchange Management, Outlook Web Access, PowerShell, Sysmon, Windows, ysoserial
 
 - https://habr.com/ru/companies/bizone/articles/560308/
 - Отрасли: BI, Информационная безопасность, кибербезопасности, ML, Программное обеспечение
 - Компании: Хабр, BI.ZONE, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: кибербезопасность, Криптография
+- Кандидаты компаний: CISA, Kaspersky, Microsoft
 
 - https://habr.com/ru/companies/bizone/articles/570312/
 - Отрасли: BI, Информационная безопасность, кибербезопасности
 - Компании: Хабр, BI.ZONE, Далее, быструю
-- Кандидаты отраслей: не найдено
+- Кандидаты отраслей: кибербезопасность
 - Кандидаты компаний: не найдено
 
 - https://habr.com/ru/companies/bizone/articles/570534/
 - Отрасли: BI, Информационная безопасность, Оптимизация
 - Компании: Хабр, BI.ZONE, Далее
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: AFL, AFL++, AFLFast, LLVM, MOpt, Википедия
 
 - https://habr.com/ru/companies/bizone/articles/571512/
 - Отрасли: BI, Информационная безопасность, финансового, хостинг-провайдеров
 - Компании: Хабр, BI.ZONE, Далее, MARS, ПИК
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Adidas, airbus.com, BMW, Boeing, cloudflare.com, Giorgio Armani, Gmail.com, Hotmail.com, ICANN, Mail.ru, mailhostbox.com, MonoVM, netlify.app, orderbox-dns.com, Outlook.com, ProtonMail.com, Yahoo.com, Yandex.ru
 
 - https://habr.com/ru/companies/bizone/articles/572128/
 - Отрасли: BI, Информационная безопасность, облачные сервисы, аналитики, медицина, промышленность
 - Компании: Хабр, BI.ZONE
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: AlienVault OTX, BI.ZONE ThreatVision, Blackbook, Blocklist.de, CERT-PA, Cisco Talos, DigitalSide, Emerging Threats, Feodo Tracker, FIRST, GitHub, Google, Institute for Cybersecurity and Engineering, MalwareBazaar, OpenPhish, Phishtank, URLhaus, VirusTotal
 
 - https://habr.com/ru/companies/bizone/articles/595473/
 - Отрасли: BI, Информационная безопасность
 - Компании: Хабр, BI.ZONE
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: веб-приложения, облачный сервис
+- Кандидаты компаний: BI.ZONE WAF, GitHub
 
 - https://habr.com/ru/companies/bizone/articles/651613/
 - Отрасли: BI, Информационная безопасность, IoT, кибербезопасности, торговые
 - Компании: Хабр, BI.ZONE
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Производство и разработка электроники, Схемотехника
+- Кандидаты компаний: J-Link, J-Link BASE, J-Link EDU, J-Link PLUS, J-Link PRO, NXP, SEGGER
 
 - https://habr.com/ru/companies/bizone/articles/656675/
 - Отрасли: BI, Информационная безопасность, кибербезопасности
 - Компании: Хабр, BI.ZONE, Proto, PVS-Studio
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: кибербезопасность
+- Кандидаты компаний: AFL, American Fuzzy Lop, GitHub, Masscan, nmap, Redis, unicornscan
 
 - https://habr.com/ru/companies/bizone/articles/663540/
 - Отрасли: BI
@@ -6665,92 +6665,92 @@
 - https://habr.com/ru/companies/bizone/articles/670684/
 - Отрасли: BI, САПР, кибербезопасности
 - Компании: Хабр, BI.ZONE
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: кибербезопасность, носимая электроника, схемотехника, электроника для начинающих
+- Кандидаты компаний: ALLPCB, Altium 365 Viewer, CircuitStudio, DEF CON, DipTrace, EasyEDA, Inkscape, JLCPCB, KiCAD, OFFZONE, PCBWay, Резонит
 
 - https://habr.com/ru/companies/bizone/articles/700418/
 - Отрасли: BI, Информационная безопасность, предлагает
 - Компании: Хабр, BI.ZONE, VK, предлагает
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: bug bounty, Фриланс
+- Кандидаты компаний: BI.ZONE Bug Bounty, Bugcrowd, HackerOne, PayPal, Консоль
 
 - https://habr.com/ru/companies/bizone/articles/700948/
 - Отрасли: BI, Информационная безопасность, кибербезопасности
 - Компании: Хабр, BI.ZONE, серверы
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Confluence, Jira, Microsoft, Microsoft Exchange, Mullvad, Proton Mail
 
 - https://habr.com/ru/companies/bizone/articles/706606/
 - Отрасли: BI, Информационная безопасность, диджитал, СМИ, аналитики, хостинг, провайдер, ML
 - Компании: Хабр, BI.ZONE, провайдер
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Диджитал‑сфера
+- Кандидаты компаний: BI.ZONE Brand Protection, ICANN, oplata3ds, phish-detector, Technical Center of Internet, timeweb.com, whitehole
 
 - https://habr.com/ru/companies/bizone/articles/727692/
 - Отрасли: BI, Информационная безопасность, Программное обеспечение, кибербезопасности
 - Компании: Хабр, BI.ZONE, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: киберразведка, онлайн-банкинг
+- Кандидаты компаний: BI.ZONE Secure DNS, BI.ZONE TDR, Buhtrap, DarkWatchman, Discord, Microsoft, Microsoft Excel, Microsoft Windows, PowerShell, Watch Wolf
 
 - https://habr.com/ru/companies/bizone/articles/732656/
 - Отрасли: BI, Информационная безопасность, хостинг, CRM, провайдер, виртуальные
 - Компании: BI.ZONE, Хабр, серверы, 1С, Ispmanager, провайдер
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT‑компании
+- Кандидаты компаний: 1С‑Битрикс, BI.ZONE Sensors, BI.ZONE WAF, DumpForums
 
 - https://habr.com/ru/companies/bizone/articles/736044/
 - Отрасли: BI, Информационная безопасность
 - Компании: Хабр, BI.ZONE, серверы, Далее, Proto
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: логистика, ресурсодобывающие компании
+- Кандидаты компаний: Bitrix, Confluence, Express, Node.JS, Sneaking Leprechaun, Webmin
 
 - https://habr.com/ru/companies/bizone/articles/736790/
 - Отрасли: BI, Информационная безопасность
 - Компании: Хабр, BI.ZONE, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Киберразведка
+- Кандидаты компаний: BI.ZONE CESP, BI.ZONE TDR, Brave, Chrome, Chromium, Comodo, Discord, Edge, Epic Privacy, GitHub, Hyper-V, Iridium, Microsoft Office, Minecraft, Opera, Opera GX, PowerShell, QEMU, Roblox, Slimjet, UR Browser, VirtualBox, Vivaldi, VMware, Windows, Windows Defender, Yandex
 
 - https://habr.com/ru/companies/bizone/articles/740410/
 - Отрасли: BI, Информационная безопасность, Программное обеспечение, кибербезопасности
 - Компании: Хабр, BI.ZONE, Далее, серверы
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: атомный энергопромышленный комплекс, критическая инфраструктура, ОПК
+- Кандидаты компаний: Microsoft Word, UltraVNC, VirusTotal, ФСТЭК России
 
 - https://habr.com/ru/companies/bothub/articles/top/
 - Отрасли: Дизайн и юзабилити
 - Компании: BotHub, Хабр, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: искусственный интеллект, фондовый рынок
+- Кандидаты компаний: Bloomberg, DeepSeek, DeepSeek-r1, DeepSeek-v2, Financial Times, NASA, Nvidia, OpenAI, Superalignment
 
 - https://habr.com/ru/companies/bringo/articles/top/
 - Отрасли: Связь и телекоммуникации
 - Компании: Bringo Group Limited, Хабр
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: мессенджеры
+- Кандидаты компаний: WeChat, WhatsApp
 
 - https://habr.com/ru/companies/broadcast/articles/501158/
 - Отрасли: не найдено
 - Компании: Хабр, Broadcasts Group
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Android
+- Кандидаты компаний: Android Broadcast, Android Studio, Telegram
 
 - https://habr.com/ru/companies/broadcast/articles/542662/
 - Отрасли: не найдено
 - Компании: Хабр, Broadcasts Group
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Android development
+- Кандидаты компаний: Android Broadcast, Docker, GitHub, Google, Google Play, JetBrains, Kaspersky, Kotlin Broadcast, Qodana, TeamCity
 
 - https://habr.com/ru/companies/broadcast/articles/560302/
 - Отрасли: медиа, Дизайн и юзабилити
 - Компании: Хабр, Broadcasts Group
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: смартфоны
+- Кандидаты компаний: Android Broadcast, Google, Pixel, Telegram, YouTube, Технотекст
 
 - https://habr.com/ru/companies/broadcast/articles/576146/
 - Отрасли: Enterprise
 - Компании: Хабр, Broadcasts Group, Space
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Android, Android development, Backend development, Mobile applications
+- Кандидаты компаний: Android, Android Broadcast, Android Lint, Android Studio, Apple, Checkstyle, Detekt, Docker, EditorConfig, Error Prone, Findbugs, GitHub, Google, IDEA, ktlint, LeakCanary, Pinterest, PMD, Qodana, RxJava, Rxlint, SonarQube, TeamCity
 
 - https://habr.com/ru/companies/broadcast/articles/576364/
 - Отрасли: не найдено
