@@ -13055,152 +13055,152 @@
 - https://habr.com/ru/companies/edgecenter/articles/top/
 - Отрасли: стриминг, здравоохранение, предлагает
 - Компании: EdgeЦентр, Хабр, предлагает, VK, серверы
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: CDN, DDoS‑защита, IT‑рынок, видеоконтент, киберзащита, коммунальное хозяйство, критическая информационная инфраструктура, наука, облачные решения, онлайн‑обучение, связь, спортивные мероприятия, транспорт, финансовый сектор, энергетика
+- Кандидаты компаний: Cloudflare, Forbes, linkmeup, Microsoft, OctoDNS, Openstack, Terraform
 
 - https://habr.com/ru/companies/eppie/articles/top/
 - Отрасли: не найдено
 - Компании: Eppie, Хабр
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: cryptocurrency, email, peer-to-peer networking
+- Кандидаты компаний: Bitcoin, GitHub, Habr, Proton, ProtonMail
 
 - https://habr.com/ru/companies/etmc_exponenta/articles/top/
 - Отрасли: облачных сервисов, торговые, промышленные, digital, Мобильные технологии
 - Компании: ЦИТМ Экспонента, Хабр, Самолет
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Авиация, Беспроводная связь, Видеонаблюдение, Измерительная техника, Микроэлектроника, Пожарная безопасность, Профессиональная цифровая радиосвязь, Радиофизика, Релейная защита, Спектроскопия, Энергетика
+- Кандидаты компаний: Engee, MATLAB, Simulink, Технотекст
 
 - https://habr.com/ru/companies/evateam/articles/top/
 - Отрасли: СМИ, Рекрутинг и HR, аналитики
 - Компании: EvaTeam, Хабр, Самолет, Яндекс, Сбер, VK, Контур
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: авиация, информационные технологии, связи
+- Кандидаты компаний: Atlassian, Atlassian Community Moscow, Confluence, draw.io, EvaProject, EvaServiceDesk, EvaWiki, GitHub, GitLab, Jira, Jira Service Management, REHAU, Sber, Scriptrunner, Tempo, Yandex
 
 - https://habr.com/ru/companies/evraz/articles/top/
 - Отрасли: ML, Data science, Оптимизация, видеоаналитики
 - Компании: Евраз, Хабр, Яндекс, МТС
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT, геймдев, горно-металлургия, сталь
+- Кандидаты компаний: MTS, Telegram, ЕВРАЗ ЗСМК, ЕВРАЗ НТМК, ЕвразТехника ИС, НТМК, Яндекс.Такси
 
 - https://habr.com/ru/companies/f_a_c_c_t/articles/146954/
 - Отрасли: Информационная безопасность, ERP
 - Компании: Хабр, F6, Далее, RDP
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Checkpoint, Checkpoint Abra, FileZilla server, Group-IB, Internet Explorer, Notepad, OllyDbg, Portable Apps, Remote Desktop Connection, WinRar
 
 - https://habr.com/ru/companies/f_a_c_c_t/articles/147145/
 - Отрасли: Информационная безопасность, СМИ, предлагает, BI
 - Компании: Хабр, F6, предлагает
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Business intelligence, Competitive intelligence, Data Mining, OSINT, Predictive engineering
+- Кандидаты компаний: AMZN, Apple, CHK, F6 Data Mining, GOOG, MSFT, Recorded Future
 
 - https://habr.com/ru/companies/f_a_c_c_t/articles/151041/
 - Отрасли: Информационная безопасность
 - Компании: Хабр, F6
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: api.heroku.com, facebook.com, freechess.org, gmail.com, google.com, news.ycombinator.com, twitter.com
 
 - https://habr.com/ru/companies/f_a_c_c_t/articles/250627/
 - Отрасли: Информационная безопасность, финансового, Программное обеспечение, хостинг, медиа, информационной безопасности
 - Компании: Хабр, F6, RDP, Далее, ВТБ, серверы, Яндекс, QIWI
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: банки, ритейл, финансовые учреждения, электронные платежные системы
+- Кандидаты компаний: Ammy Admin, Anunak, Cain & Abel, Carbanak, Carberp, iFOBS, Linux, Lotus, MBR Eraser, Microsoft Windows, Mimikatz, MS Exchange, Netsh, RDPdoor, rl.ammyy.com, SoftPerfect Network Scanner, SSHD-бэкдор, Team Viewer
 
 - https://habr.com/ru/companies/f_a_c_c_t/articles/252963/
 - Отрасли: Информационная безопасность, криптографии
 - Компании: Хабр, F6
-- Кандидаты отраслей: не найдено
+- Кандидаты отраслей: криптовалюты
 - Кандидаты компаний: не найдено
 
 - https://habr.com/ru/companies/f_a_c_c_t/articles/323996/
 - Отрасли: Информационная безопасность, Программное обеспечение, банках, информационной безопасности
 - Компании: Хабр, F6, серверы, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Платежные системы
+- Кандидаты компаний: Cobalt Strike, First Bank, Group-IB, Intel, Metasploit, Microsoft, Sun, Virus Total, Wincor Nixdorf, Европейского центрального банка
 
 - https://habr.com/ru/companies/f_a_c_c_t/articles/341812/
 - Отрасли: Информационная безопасность, финансы, кибербезопасности, финансового сектора, промышленные, финансового, процессинг
 - Компании: Хабр, F6, Цифра, Далее, серверы
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-инфраструктура, Банковская сфера, Кибербезопасность, Критическая инфраструктура, нефтегазовый сектор, Финансовый сектор
+- Кандидаты компаний: Anunak, Black Energy 3, Cobalt, Equation Group, Group-IB, Interpol, M.E.Doc, NotPetya, Siemens, SWIFT, Threat Intelligence, WannaCry
 
 - https://habr.com/ru/companies/f_a_c_c_t/articles/416453/
 - Отрасли: Информационная безопасность, финансового, аналитики, банках
 - Компании: Хабр, F6, Цифра, серверы, Gartner, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: антифрод, дистанционное банковское обслуживание, криптовалюта, мобильный банкинг, Платежные системы, рынок банковских Android-троянов
+- Кандидаты компаний: Apple Pay, Google Pay, Group-IB, Lurk, Ranbayas, Secure Bank Group-IB, VNC, Банки на ладони, МВД России, Управление «К» МВД России
 
 - https://habr.com/ru/companies/f_a_c_c_t/articles/418189/
 - Отрасли: Информационная безопасность, ML, Программное обеспечение, информационной безопасности
 - Компании: Хабр, F6, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Реверс-инжиниринг
+- Кандидаты компаний: ADP, Amazon, American Express, Bank of America, BB&T Bank, Capital One, Cashanalyzer, Central Bank, Charles Schwab, Chase, CIBC, Citibank, Comerica, Discover Bank, Dridex, E-Trade, eBanking, Emotet, Frost Cash Manager, GootKit, GOZI, Group-IB, Group-IB Threat Intelligence, Halifax, HSBC, Huntington, IBM, IBM X-Force, IcedID, IDA Pro, IncrediMail, JPMorgan Chase, KeyBank, Lloyds Bank, M&T Bank, OnePass, Outlook, PNC Online Banking, Poco Systems Inc, Post Oak Bank, Python, RBC, Regions, RimArts, Synovus, TD Bank, Td Commercial Banking, The Bat!, Trickbot, U.S. Bank, Union Bank of California, USAA, Verizon Wireless, VirWoX, VNC, Wells Fargo, Windows Live Mail, Windows Mail
 
 - https://habr.com/ru/companies/f_a_c_c_t/articles/420269/
 - Отрасли: Data science, Информационная безопасность, финансового, промышленные, информационной безопасности, аналитики, BigData
 - Компании: Хабр, F6, Сбербанк, Альфа-Банк, Далее, Gartner, IDC, Forrester
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: авиакомпании, Алгоритмы, банки, госучреждения, интернет-магазины, Математика, Машинное обучение, производители удобрений и нефтехимии, промышленные предприятия, финансовые учреждения
+- Кандидаты компаний: Group-IB, Сбербанк Онлайн
 
 - https://habr.com/ru/companies/f_a_c_c_t/articles/422529/
 - Отрасли: Информационная безопасность, информационной безопасности, Мобильные технологии
 - Компании: Хабр, F6, OWASP
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: киберпреступления, мобильные приложения, мошенничество, Разработка мобильных приложений, Тестирование мобильных приложений
+- Кандидаты компаний: Group-IB, МГТУ им.Баумана, НОЦ ИУ-8
 
 - https://habr.com/ru/companies/f_a_c_c_t/articles/432256/
 - Отрасли: Информационная безопасность, Программное обеспечение, Data science, BigData
 - Компании: Хабр, F6, ПИК, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: банки, платёжные системы, промышленные компании, транспортные компании, финансовые учреждения
+- Кандидаты компаний: 14.rospotrebnadzor.ru, 22.rospotrebnadzor.ru, 33.rospotrebnadzor.ru, 37.rospotrebnadzor.ru, 38.rospotrebnadzor.ru, 39.rospotrebnadzor.ru, 42.rospotrebnadzor.ru, 47.rospotrebnadzor.ru, 89.fsin.su, engels-edu.ru, enis.gosnadzor.ru, ESET, fbuz29.rospotrebnadzor.ru, fcao.ru, fguz-volgograd.ru, Google Chrome, gov39.local, Group-IB, Group-IB Threat Intelligence, Internet Explorer, mcx-samara.ru, minsoc-buryatia.ru, minsoc26.ru, minzdravsakhalin.ru, mosoblsud.ru, Mozilla Firefox, namecha.in, prokuratura.omsk.ru, rcro.tomsk.ru, rostrud.ru, rpn.gov.ru, zdrav.spb.ru, zsib.gosnadzor.ru
 
 - https://habr.com/ru/companies/f_a_c_c_t/articles/446948/
 - Отрасли: Информационная безопасность, e-commerce, финтех, Мобильные технологии, Аппаратное обеспечение, Программное обеспечение
 - Компании: Хабр, F6, Gett, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: банковский сектор, криптовалюты, маркетплейсы, мессенджеры, онлайн-магазины
+- Кандидаты компаний: AndyBot, Bank of America, Bank of Scotland, Bitcoin Wallet, BitPay, Capital One, Coinbase, Cryptopay, eBay, FTT, Gett Taxi, Google, Google Protect, Group-IB, Gustuff, Gustuff Bot, J.P.Morgan, PayPal, PNC Bank, Revolut, Skype, TD Bank, Walmart, Wells Fargo, Western Union, WhatsApp
 
 - https://habr.com/ru/companies/f_a_c_c_t/articles/447592/
 - Отрасли: Информационная безопасность, медиа, Мобильные технологии, информационной безопасности
 - Компании: Хабр, F6
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT, Исследования и прогнозы в IT, компьютерной криминалистики, мобильных приложений
+- Кандидаты компаний: Android, Group-IB, iOS, WhatsApp, Windows
 
 - https://habr.com/ru/companies/f_a_c_c_t/articles/449100/
 - Отрасли: Информационная безопасность, Программное обеспечение
 - Компании: Хабр, F6
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: AccessData, FTK Imager, Group-IB, Microsoft, Remote Utilities, TeamViewer, VirusTotal
 
 - https://habr.com/ru/companies/f_a_c_c_t/articles/451792/
 - Отрасли: Информационная безопасность, CRM, аналитики, Электронная коммерция, Программное обеспечение
 - Компании: Хабр, F6, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: авиакомпании, банки, дистрибьюторы билетов, интернет-магазины, платежные системы
+- Кандидаты компаний: Adyen, ANZ eGate, apitstatus.com, asianfoodgracer.com, Authorize.Net, Bigcommerce, billgetstatus.com, Braintree, British Airways, Cardsave, Chase Paymentech, cloudodesc.com, CyberSource, DataCash, eWAY Rapid, FILA, First Data Global Gateway, Group-IB, gtmproc.com, Habr, LinkPoint, livecheckpay.com, livegetpay.com, Magento, maxstatics.com, mediapack.info, Moneris, mxcounter.com, PayPal, PsiGate, Realex, Sage Pay, Shopify, Stripe, Threat Intelligence Group-IB, Ticketmaster, USAePay, Verisign
 
 - https://habr.com/ru/companies/f_a_c_c_t/articles/452540/
 - Отрасли: Информационная безопасность, информационной безопасности
 - Компании: Хабр, F6, «Лаборатория Касперского»
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: военная электроника, военные организации, оборонные компании, образовательные организации, правительственные организации, телекоммуникационные компании, финансовые организации, энергетические компании
+- Кандидаты компаний: ASELSAN A.Ş, Emirates National Oil, Etihad Airways, FireEye, Google, Green Leakers, Group-IB, Habr, Iranian Nasr Institute, Koç Bilgi ve Savunma Teknolojileri A.Ş, Koç Savunma, MTN Irancell, MuddyWater, OilRig, ReaQta, Tubitak Bilgem, Twitter, YouTube
 
 - https://habr.com/ru/companies/f_a_c_c_t/articles/454672/
 - Отрасли: Информационная безопасность, Программное обеспечение, предлагает, информационной безопасности, виртуальные, кибербезопасности, digital, Аппаратное обеспечение
 - Компании: Хабр, F6, предлагает, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: компьютерная криминалистика, мобильная криминалистика
+- Кандидаты компаний: Belkasoft, Belkasoft Evidence Center, Cellebrite, Cellebrite UFED Touch 2, CRU, Group-IB, Magnet AXIOM, Magnet Forensics, Micro Systemation, MSAB, MSAB XRY, MSAB XRY Field, MSAB XRY Kiosk, Rusolut, Tableau, Tableau T35U, UFED 4PC, UFED Physical Analyzer, Wiebitech Forensic UltraDock v5
 
 - https://habr.com/ru/companies/f_a_c_c_t/articles/456652/
 - Отрасли: Информационная безопасность
 - Компании: Хабр, F6
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: компьютерная безопасность, компьютерная криминалистика
+- Кандидаты компаний: Autopsy, AXIOM, Belkasoft, Belkasoft Evidence Center, DB Browser for SQLite, firefly studios, Group-IB, Habr, Magnet AXIOM Examiner, Magnet Forensics, Microsoft, Mimikatz, NirSoft, Plaso, sendspace.com, TeamViewer, WxTCmd
 
 - https://habr.com/ru/companies/f_a_c_c_t/articles/457592/
 - Отрасли: Информационная безопасность, СМИ, Программное обеспечение
 - Компании: Хабр, F6
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: авиакомпаний, автодилеров, антивирусные средства защиты, криптовалюта, онлайн‑реклама, Реверс-инжиниринг
+- Кандидаты компаний: Belkasoft Evidence Center, ESEDatabaseView, flypool.org, Group-IB, JLECmd, mat.tradetoolsfx.com, Microsoft, Microsoft Edge, MITRE ATT&CK, PaloAlto Networks, ZCash
 
 - https://habr.com/ru/companies/f_a_c_c_t/articles/460461/
 - Отрасли: Информационная безопасность, кибербезопасности, информационной безопасности
