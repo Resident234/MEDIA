@@ -305,152 +305,152 @@
 - https://habr.com/ru/companies/2gis/articles/301078/
 - Отрасли: Веб-разработка
 - Компании: 2ГИС, Хабр, М.Видео
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: урбанистика
+- Кандидаты компаний: Арме, ФРИИ
 
 - https://habr.com/ru/companies/2gis/articles/302374/
 - Отрасли: Веб-разработка
 - Компании: Хабр, 2ГИС, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: open source
+- Кандидаты компаний: Browser-sync, ESLint, github, gitter, Gulp, Jade, JSCS, JSHint, NodeJS, npm, PostCSS, Rollup, Slack, TARS, TARS-CLI, tars-email, Telegram, UglifyJS, webpack
 
 - https://habr.com/ru/companies/2gis/articles/302606/
 - Отрасли: не найдено
 - Компании: Хабр, 2ГИС, Далее, RET
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: gis, Геоинформационные сервисы
+- Кандидаты компаний: 2MASS, DataEast, gnuplot, HAVERSINE, HEALPix, HEASARC, HTM, OSM, PGSPHERE, POSTGIS, Postgres, Q3C, Swift, UNIT VECTOR, XMM
 
 - https://habr.com/ru/companies/2gis/articles/306166/
 - Отрасли: Веб-разработка, Информационная безопасность
 - Компании: Хабр, 2ГИС, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Системы управления версиями
+- Кандидаты компаний: facebook, Gitfiti, Github, Github Commit Whitespace, Github News Feed Filter, gitignore, Hub, Linguist, linux, neovim, React, Slack, tars, гитхаб
 
 - https://habr.com/ru/companies/2gis/articles/308500/
 - Отрасли: не найдено
 - Компании: 2ГИС, Хабр, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Геоинформационные сервисы
+- Кандидаты компаний: Android, AppStore, Windows Store, ГИБДД
 
 - https://habr.com/ru/companies/2gis/articles/312514/
 - Отрасли: Веб-разработка, аналитики
 - Компании: 2ГИС, Хабр
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: b2c-мессенджер, BaaS (Backend as a Service), Геоинформационные сервисы, Мессенджеры
+- Кандидаты компаний: backendless.com, caniuse.com, Deis, Docker, ejabberd, Erlang (FreeBS упомянуто как FreeBS) — как написано в тексте: FreeBS), Facebook Messenger, Gitlab-CI, Line, PostgeSQL, quickblox.com, RabbitMQ, React, Redis, Redux, sendbird.com, Slack, Telegram, Viber, WhatsApp
 
 - https://habr.com/ru/companies/2gis/articles/323050/
 - Отрасли: не найдено
 - Компании: Хабр, 2ГИС, Далее, ОК, быструю
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Геоинформационные сервисы
+- Кандидаты компаний: App Groups, Apple, AppStore, SQLite, Xcode, дженкинсе
 
 - https://habr.com/ru/companies/2gis/articles/326638/
 - Отрасли: не найдено
 - Компании: Хабр, 2ГИС, ОК
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Геоинформационные сервисы
+- Кандидаты компаний: OSM, StreetMap USA
 
 - https://habr.com/ru/companies/2gis/articles/329128/
 - Отрасли: Веб-разработка, Оптимизация
 - Компании: Хабр, 2ГИС, Далее
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Beaver, Catbee, ElasticSearch, GELF, gelf-php, GitHub, Go, Graylog Extended Log Format, Kibana, Logstash, Lua, MongoDB, Nginx, PHP, PostgreSQL, Prometheus, Redis, SoundCloud, Yii, Сomposer
 
 - https://habr.com/ru/companies/2gis/articles/333016/
 - Отрасли: Мобильные технологии
 - Компании: 2ГИС, Хабр, Яндекс
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: мобильные браузеры, мобильные устройства, мобильный веб, мобильный интернет
+- Кандидаты компаний: Android Browser, github, Google, JavaScript, Makeup, Preact, React, Redux, TypeScript, Монлайн
 
 - https://habr.com/ru/companies/2gis/articles/334156/
 - Отрасли: Мобильные технологии
 - Компании: Хабр, 2ГИС
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: DevDay, devday.ru
 
 - https://habr.com/ru/companies/2gis/articles/338680/
 - Отрасли: Оптимизация, медиа, IoT
 - Компании: Хабр, 2ГИС
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: конференции, социальные сети, фронтенд
+- Кандидаты компаний: Aviasales, CodeFest, Condé Nast, FrontFest, Microsoft, Red Pineapple Media, Shooting Arena, Spotify, The Paciello Group, Twitter, инстаграм, твитерке, фейсбуке, Экспоцентр
 
 - https://habr.com/ru/companies/2gis/articles/339212/
 - Отрасли: не найдено
 - Компании: Хабр, 2ГИС
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Booking.com, Frontender Magazine, FrontFest, FrontFest.Mix, HTML Academy, IDE WebStorm, JetBrains, Web Standards, Блог компании CodeFest, дизайн-бюро Артёма Горбунова, студия Артемия Лебедева
 
 - https://habr.com/ru/companies/2gis/articles/339708/
 - Отрасли: Веб-разработка, Оптимизация
 - Компании: Хабр, 2ГИС
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: доступность сайтов, оптимизация изображений, фронтенд
+- Кандидаты компаний: CodeFest, FrontFest, HTML Academy, Moscow Frontend Conference, moscowcss, open.spotify.com, Smashing Magazine, Spotify, VYORSTKA, W3C HTML and SVG, инстаграм, твитерке, фейсбуке
 
 - https://habr.com/ru/companies/2gis/articles/340156/
 - Отрасли: Оптимизация, Веб-разработка, IoT
 - Компании: Хабр, 2ГИС, Wrike
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Aviasales.ru, Booking, Booking.com, FrontFest, FrontFest.JS, Microsoft, Opera, Блог компании CodeFest JavaScript, Злых Марсиан, инстаграм, твитерке, фейсбуке
 
 - https://habr.com/ru/companies/2gis/articles/340440/
 - Отрасли: Веб-разработка, образование, Оптимизация
 - Компании: Хабр, 2ГИС, Яндекс
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: компьютерные игры, музыка, поисковики
+- Кандидаты компаний: Apple Music, Browserstack, CodeFest, Facebook, FrontFest, Google, Google Play Music, Microsoft, Spotify, ZEIT, Яндекс.Музыка
 
 - https://habr.com/ru/companies/2gis/articles/340794/
 - Отрасли: Веб-разработка, Программное обеспечение
 - Компании: Хабр, 2ГИС, Звук
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Angular, AngularJS, Apache Cordova, Canvas, Demoscene, Docker」「Go」「Spotify」「CodeFest, Electron, FrontFest, Haibrid, Impossible Road, Ionic, Microsoft, Node.js, Opera Software, PWA, React Native, SASS, Web Audio API, Wolfenstein, Институте Макса Планка
 
 - https://habr.com/ru/companies/2gis/articles/340986/
 - Отрасли: Веб-разработка, рекрутинг, образование, Оптимизация
 - Компании: Хабр, 2ГИС, Далее
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: ChakraCore, Code & Art, CodeFest, Flightradar, FrontFest, Google, IBM, Miscrosoft, RON, SPB Frontend, V8, главред
 
 - https://habr.com/ru/companies/2gis/articles/341352/
 - Отрасли: Веб-разработка, образование
 - Компании: Хабр, 2ГИС
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: CodeFest, Fire Eagle, FrontFest, Kap, Now, Poetica, Spotify, Twitter, Yahoo, Zeit, ZEIT
 
 - https://habr.com/ru/companies/2gis/articles/341508/
 - Отрасли: Оптимизация
 - Компании: Хабр, 2ГИС, Далее, серверы
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: картография
+- Кандидаты компаний: DirectX, EPSG:3395 – WGS84 / World Mercator, Fiji, GDI+, Microsoft SQL Server, MSSQL 2016, PostgreSQL
 
 - https://habr.com/ru/companies/2gis/articles/341512/
 - Отрасли: Веб-разработка, SaaS
 - Компании: Хабр, 2ГИС, Wrike, Яндекс
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: фронтенд
+- Кандидаты компаний: AnyBar, CodeFest, Cognician, DataScript, Fira Code, FrontFest, FrontFest.Kvartirniki, realm.io, Rum, TU Delft, Врачи без границ, Твиттере
 
 - https://habr.com/ru/companies/2gis/articles/341892/
 - Отрасли: Веб-разработка
 - Компании: Хабр, 2ГИС
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: frontend, IT
+- Кандидаты компаний: Angular.js, Booking.com','Spotify','твиттере','слак','FrontFest','ZEIT Day, Docker, github, hpm, Hyper, Kap, Meteor.js, MongoDB, Mongoose, Next.js, node.js, now, Now, now.js, npm, pkg, React, socket.io, ZEIT
 
 - https://habr.com/ru/companies/2gis/articles/342588/
 - Отрасли: Мобильные технологии, Machine Learning
 - Компании: Хабр, 2ГИС
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: AMS (Advertising Management System), DevDay, devday.ru
 
 - https://habr.com/ru/companies/2gis/articles/343628/
 - Отрасли: не найдено
 - Компании: Хабр, 2ГИС
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: DevDay, ERM, meetup, Youtube
 
 - https://habr.com/ru/companies/2gis/articles/343924/
 - Отрасли: не найдено
 - Компании: 2ГИС, Хабр, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Открытые данные
+- Кандидаты компаний: App Store, Fiji, Google Play, Минтранс/Дептранс
 
 - https://habr.com/ru/companies/2gis/articles/344196/
 - Отрасли: не найдено
