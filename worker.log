@@ -54,3 +54,22 @@ git error: fatal: could not read Username for 'https://github.com': No such devi
 2026-09-02 19:27:03 watchdog: starting worker (done=172)
 2026-09-02 19:31:16 watchdog: starting worker (done=172)
 processed 173/12038; batch 151/12038
+Traceback (most recent call last):
+  File "/mnt/h/s/Work_MEDIA/candidate_analysis_worker.py", line 272, in <module>
+    main()
+  File "/mnt/h/s/Work_MEDIA/candidate_analysis_worker.py", line 264, in main
+    git_commit_push(root, f"progress: candidate analysis articles {args.start + start + 1}-{args.start + start + len(batch)} of {len(urls)}")
+  File "/mnt/h/s/Work_MEDIA/candidate_analysis_worker.py", line 199, in git_commit_push
+    subprocess.run(["/mnt/c/Windows/System32/cmd.exe", "/c", cmd], check=True, env=env, capture_output=True, text=True)
+  File "/usr/lib/python3.12/subprocess.py", line 548, in run
+    with Popen(*popenargs, **kwargs) as process:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/subprocess.py", line 1026, in __init__
+    self._execute_child(args, executable, preexec_fn, close_fds,
+  File "/usr/lib/python3.12/subprocess.py", line 1955, in _execute_child
+    raise child_exception_type(errno_num, err_msg, err_filename)
+OSError: [Errno 8] Exec format error: '/mnt/c/Windows/System32/cmd.exe'
+2026-09-02 19:37:31 watchdog: worker exited, restart in 30s
+2026-09-02 19:38:02 watchdog: starting worker (done=173)
+2026-09-02 19:52:29 watchdog: starting worker (done=196)
+processed 198/12038; batch 177/12038
