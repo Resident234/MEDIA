@@ -13655,152 +13655,152 @@
 - https://habr.com/ru/companies/gazprombank/articles/724072/
 - Отрасли: предлагает, финансовая организация
 - Компании: Хабр, Газпромбанк, предлагает, Далее, Бэклог
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: ИТ
+- Кандидаты компаний: ЦБ
 
 - https://habr.com/ru/companies/gazprombank/articles/725664/
 - Отрасли: Рекрутинг и HR
 - Компании: Хабр, Газпромбанк, Далее, Базис
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-индустрия
+- Кандидаты компаний: Apple
 
 - https://habr.com/ru/companies/gazprombank/articles/725992/
 - Отрасли: предлагает
 - Компании: Хабр, Газпромбанк, Далее, предлагает
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Bower, Browserify, Google, jQuery, Node.JS, NPM, React, Webpack
 
 - https://habr.com/ru/companies/gazprombank/articles/727220/
 - Отрасли: не найдено
 - Компании: Хабр, Газпромбанк, ОК
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-индустрии
+- Кандидаты компаний: teamcity
 
 - https://habr.com/ru/companies/gazprombank/articles/735790/
 - Отрасли: Аппаратное обеспечение, Программное обеспечение
 - Компании: Хабр, Газпромбанк, Базис, серверы, Space, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: DevOps, Системное администрирование, Управление проектами
+- Кандидаты компаний: Docker, Firefox, HP, Podman, PulseAudio, Raspberry Pi, Ubuntu
 
 - https://habr.com/ru/companies/gazprombank/articles/738444/
 - Отрасли: аналитики
 - Компании: Хабр, Газпромбанк
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Базы данных, Тестирование IT-систем
+- Кандидаты компаний: MS SQL Server, PostgreSQL, Transact-SQL
 
 - https://habr.com/ru/companies/gazprombank/articles/740456/
 - Отрасли: не найдено
 - Компании: Хабр, Газпромбанк, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: государственные сервисы, розничный кредит
+- Кандидаты компаний: Node.js, ПФР
 
 - https://habr.com/ru/companies/gazprombank/articles/742618/
 - Отрасли: не найдено
 - Компании: Хабр, Газпромбанк, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: банковский
+- Кандидаты компаний: Habr, IBM, IBM MQ, Kafka
 
 - https://habr.com/ru/companies/gazprombank/articles/749440/
 - Отрасли: Рекрутинг и HR, образование
 - Компании: Хабр, Газпромбанк, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: банк, добывающих производствах, розницу
+- Кандидаты компаний: DVAMM
 
 - https://habr.com/ru/companies/gazprombank/articles/750428/
 - Отрасли: IAAS, облачные сервисы, провайдер, PaaS, Программное обеспечение, SaaS, масштабируемость
 - Компании: Хабр, Газпромбанк, Selectel, КРОК, Timeweb Cloud, провайдер, Мегафон
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-инфраструктура, Облачные вычисления, Облачные провайдеры
+- Кандидаты компаний: Amazon, Amazon S3, Amazon SQS, AWS, Citrix, Elastic Compute Cloud (EC2), Gitlab, Google Cloud, Megafon Cloud, Microsoft Azure, OpenStack, OpenStack Compute (nova), T1 Cloud, Yandex Cloud, КРОК Облачные сервисы
 
 - https://habr.com/ru/companies/gazprombank/articles/751978/
 - Отрасли: Natural Language Processing, ML
 - Компании: Хабр, Газпромбанк, Далее, Цифра
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: DVAMM, Google Research
 
 - https://habr.com/ru/companies/gazprombank/articles/753622/
 - Отрасли: Информационная безопасность, провайдер
 - Компании: Хабр, Газпромбанк, Raft, провайдер
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-инфраструктура, Системное администрирование
+- Кандидаты компаний: Consul, ETCD, Hashicorp, Kubernetes, Redis
 
 - https://habr.com/ru/companies/gazprombank/articles/758118/
 - Отрасли: промышленность, торговые, торговли
 - Компании: Хабр, Газпромбанк
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: банки, средиземноморская торговля, текстильная промышленность
+- Кандидаты компаний: SWIFT, Банк Медичи
 
 - https://habr.com/ru/companies/gazprombank/articles/759562/
 - Отрасли: информационной безопасности, ETL
 - Компании: Хабр, Газпромбанк
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT, больших данных
+- Кандидаты компаний: Apache Airflow, Kubernetes, SAMBA
 
 - https://habr.com/ru/companies/gazprombank/articles/762512/
 - Отрасли: финансы, финтех, промышленность, финансового сектора
 - Компании: Хабр, Газпромбанк, Samsung
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: банковская система, индустрия услуг, мобильный банкинг, телекоммуникационные компании, финансовые услуги, финансовый сектор
+- Кандидаты компаний: Airtime, Equity Bank, M-Pesa, Safaricom, Vodafone, Департамент международного развития Великобритании, Министерство финансов, Национальное казначейство, ООН, Центральный банк Кении
 
 - https://habr.com/ru/companies/gazprombank/articles/764028/
 - Отрасли: ML, Big Data, Data science, Machine Learning, аналитики
 - Компании: Хабр, Газпромбанк, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Data Engineering, Data Quality as a Service, Банковский сектор, Машинное обучение
+- Кандидаты компаний: Apache Hadoop, Apache Superset, Cloudera Impala, Deepchecks, Great Expectations, Pandas Profiling, Scikit‑learn, SQL‑Server, TensorFlow Data Validation, Ydata_quality
 
 - https://habr.com/ru/companies/getmatch/articles/517758/
 - Отрасли: аутсорсинг, недвижимости, Информационная безопасность
 - Компании: Хабр, getmatch, Яндекс, Арендовать
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-индустрии, рынок недвижимости, рынок труда
+- Кандидаты компаний: Amazon, Booking.com, Facebook, g_jobbot, Microsoft, Skype, Telegram, Uber, Одноклассники
 
 - https://habr.com/ru/companies/getmatch/articles/517934/
 - Отрасли: недвижимости, Программное обеспечение, образование, Рекрутинг и HR
 - Компании: Хабр, getmatch
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-индустрия, рынок IT, рынок мобильных устройств, рынок персональных компьютеров
+- Кандидаты компаний: 51job.com, Baixing, chinajobsdaily.com, Craigslist, Glassdoor, hiredchina.com, Intel Corporation, InterShanghai, kanzhun.com, lagou.com, laowaicareer.com, liepin.com, Mercer, SmartShanghai, Telegram, Tripbest.ru, UCWeb, WeChat, zhaopin.com, zhipin.com, ziroom
 
 - https://habr.com/ru/companies/getmatch/articles/518640/
 - Отрасли: Рекрутинг и HR, медицина, недвижимость, Программное обеспечение
 - Компании: Хабр, getmatch, Арендовать
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-индустрии, IT-эмиграция
+- Кандидаты компаний: Airbnb, LinkedIn, Telegram, Vodafone
 
 - https://habr.com/ru/companies/getmatch/articles/518792/
 - Отрасли: digital, Электронная коммерция, Программное обеспечение, предлагает, недвижимость, недвижимости, транспортные, медицина
 - Компании: Хабр, getmatch, FUJITSU, предлагает, Авито
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: digital health, gaming, IT-индустрия, IT-сфера, игровая индустрия, маркетинг, стартапы, туризм
+- Кандидаты компаний: Adzuna, Blockchain Talent Lab, Dealroom, Dutch Startup Jobs, FDI Intelligence, Glassdoor, I Amsterdam, LinkedIn, Mercer, Netflix, Nintendo, OECD, Oracle, Scaleup Jobs, StartupAmsterdam, Tesla, The FrontEnd Lab, TNW Tech, Uber
 
 - https://habr.com/ru/companies/getmatch/articles/518932/
 - Отрасли: Программное обеспечение, недвижимость, Рекрутинг и HR
 - Компании: Хабр, getmatch
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-индустрия, финансовые сервисы
+- Кандидаты компаний: Booking.com, DynamoDB, g_jobbot, Google Cloud Spanner, Indeed.de, Mail.Ru, Money Hub, Monster, Realtime API, Telegram, Uber, Xing.com, Yelp
 
 - https://habr.com/ru/companies/getmatch/articles/519806/
 - Отрасли: Программное обеспечение, digital, предлагает, недвижимости, недвижимость
 - Компании: Хабр, getmatch, предлагает, Арендовать
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: dating, digital health, E-grocery/food delivery, electric and electronic engineering, gaming, IT-сфера, tech-индустрии, здравоохранения, ИИ, программного обеспечения, стартапов, финансов
+- Кандидаты компаний: Amazon Web Service, avecoder, Dealroom, FDI Intelligence, g_jobbot, Global Entrepreneurship Network, Startup Genome, Tech Nation, Telegram, TNW Tech
 
 - https://habr.com/ru/companies/getmatch/articles/522826/
 - Отрасли: Программное обеспечение, образование, BI, Machine Learning, недвижимость, медицина
 - Компании: Хабр, getmatch, Цифра
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT, банковский
+- Кандидаты компаний: Accenture, g_jobbot, Microstrategy, Telegram, Veeam Software
 
 - https://habr.com/ru/companies/getmatch/articles/535822/
 - Отрасли: Рекрутинг и HR, диджитал, Программное обеспечение, транспортные, Поисковые технологии, медицина
 - Компании: Хабр, getmatch
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT
+- Кандидаты компаний: A-касса, Bank-id, Eriсsson, g_jobbot, Glassdoor, King, Klarna, LinkedIn, Minecraft, Mojang, Numbeo, Skatteverket, Skype, Spotify
 
 - https://habr.com/ru/companies/getmatch/articles/543006/
 - Отрасли: образование, медицина, Поисковые технологии, аналитики, недвижимость, Игры и развлечения, Мобильные технологии
 - Компании: Хабр, getmatch, Арендовать, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT, банковское кредитование
+- Кандидаты компаний: A-касса, AWS, blocket.se, Ericsson, g_jobbot, Glassdoor, Habr, HSBC, King, Klarna, Mojang, Sony-Ericsson, Spotify, Telegram
 
 - https://habr.com/ru/companies/getmatch/articles/545754/
 - Отрасли: образование, медицина, торговые
