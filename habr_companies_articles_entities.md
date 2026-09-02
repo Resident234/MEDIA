@@ -906,7 +906,7 @@
 - Отрасли: Мобильные технологии
 - Компании: Хабр, 2ГИС
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Android Broadcast, Qt, StackOverflow, Telegram, Tesla, Zoom, Аврора
 
 - https://habr.com/ru/companies/2gis/articles/748696/
 - Отрасли: не найдено
@@ -923,8 +923,8 @@
 - https://habr.com/ru/companies/2gis/articles/top/page10/
 - Отрасли: аналитики
 - Компании: 2ГИС, Хабр
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: GPU-аналитика, Open Source, автоматизация тестирования, городская навигация, функциональное тестирование
+- Кандидаты компаний: .NET, 2GIS PRO, AvalonDock, Catel, CodeFest, Cruciatus, DevDay, FrontFest, Microsoft, Newman, Postman, Selenium WebDriver, Spotify, Windows, Windows Phone, WinForms, WPF, Технотекст, Фламп
 
 - https://habr.com/ru/companies/3rdman/articles/703684/
 - Отрасли: Игры и развлечения, предлагает, Информационная безопасность, Программное обеспечение
@@ -941,8 +941,8 @@
 - https://habr.com/ru/companies/3rdman/articles/712168/
 - Отрасли: не найдено
 - Компании: Хабр, Third Man, АТОМ, Самолет
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Авиация, Автомобильные гаджеты, Автопром, Наземная техника, Нейротехнические технологии, Транспорт
+- Кандидаты компаний: BB, Grand Turismo, Li 9, Model S, Panhard, Panhard-Levassor, Peugeot, Peugeot Inception, Tesla, Алиса
 
 - https://habr.com/ru/companies/3rdman/articles/713900/
 - Отрасли: DIY, Программное обеспечение, медиа, digital, Аппаратное обеспечение, облачные сервисы, провайдер, облачных сервисов
@@ -971,8 +971,8 @@
 - https://habr.com/ru/companies/3rdman/articles/727916/
 - Отрасли: медиа, предлагает, хостинг, умный дом
 - Компании: Хабр, Third Man, предлагает
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-инфраструктура, Хранение данных
+- Кандидаты компаний: Armbian, BookStack, Confluence, Draw.IO, Emby, Evernote, Gitea, Gitlab, Joplin, Kodi, NextCloud, OMV, OwnCloud, PhotopPrism, Plex, Portainer, Raspberry Pi, Tahoe, Telegram
 
 - https://habr.com/ru/companies/3rdman/articles/729862/
 - Отрасли: не найдено
@@ -983,20 +983,20 @@
 - https://habr.com/ru/companies/3rdman/articles/730606/
 - Отрасли: DIY
 - Компании: Хабр, Third Man, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: DIY или Сделай сам, Wearable Textile, Производство и разработка электроники, Схемотехника
+- Кандидаты компаний: Azoteq, IQS572, MSP430, Playstation, Raspberry Pi, RP2040, Sinclair, TI
 
 - https://habr.com/ru/companies/3rdman/articles/746178/
 - Отрасли: предлагает
 - Компании: Хабр, Third Man, предлагает, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-инфраструктура, Тестирование IT-систем, Хранение данных
+- Кандидаты компаний: Debian, fio, LUKS, OMV, openmediavault, openmediavault-ftp, openmediavault-luksencryption, openmediavault-usbbackup, proftpd, ProFTPD Server, RSync, Shaitan, VirtualBox, VirtualBox 7.0.6, Windows 11, WinSCP, Докере
 
 - https://habr.com/ru/companies/aerodisk/articles/top/
 - Отрасли: не найдено
 - Компании: АЭРОДИСК, Хабр
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: информационные технологии
+- Кандидаты компаний: AERODISK, AERODISK Engine, AERODISK vAIR, ARDFS, Intel Xeon, Open vAIR, АИСТ, АЭРОДИСК Machine-V, Аэродиск Восток, МЦСТ, НОРСИ-ТРАНС
 
 - https://habr.com/ru/companies/agima/articles/182974/
 - Отрасли: аналитики, Мобильные технологии
@@ -1037,14 +1037,14 @@
 - https://habr.com/ru/companies/agima/articles/339216/
 - Отрасли: Рекрутинг и HR, аналитики, образование, Программное обеспечение, Электронная коммерция, Мобильные технологии, digital
 - Компании: Хабр, AGIMA
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-индустрия, ИТ-услуги, реальный сектор, рынковая аналитика
+- Кандидаты компаний: Google, Google Analytics, OpenCart, Oracle, Uber, Wordpress
 
 - https://habr.com/ru/companies/agima/articles/340580/
 - Отрасли: Информационная безопасность, Мобильные технологии
 - Компании: Хабр, AGIMA, Далее, RET
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Разработка мобильных приложений
+- Кандидаты компаний: КриптоПро
 
 - https://habr.com/ru/companies/agima/articles/344430/
 - Отрасли: e-commerce, телекоммуникации, финансового
