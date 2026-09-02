@@ -1674,61 +1674,61 @@
 - Отрасли: Generative AI
 - Компании: AIRI, Хабр
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: DeepSeek, Fusion Brain, Google, Google Colab, Habr, OpenAI, Optimal Cognitive Core, Институт AIRI, Институт искусственного интеллекта и цифровых наук НИУ ВШЭ, НИУ ВШЭ, Сколтех
 
 - https://habr.com/ru/companies/akbarsdigital/articles/top/
 - Отрасли: не найдено
 - Компании: не найдено
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Habr
 
 - https://habr.com/ru/companies/aktiv-company/articles/134890/
 - Отрасли: Информационная безопасность, Программное обеспечение
 - Компании: Хабр, «Актив»
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Eclipse, OpenSSL, Актив, Рутокен Плагин, Рутокен ЭЦП
 
 - https://habr.com/ru/companies/aktiv-company/articles/135599/
 - Отрасли: Информационная безопасность, криптографии
 - Компании: Хабр, «Актив», Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: интернет-банкинг
+- Кандидаты компаний: Mozilla FireFox Portable Edition, openssl, sTunnel, Windows, Актив, Банк России, Рутокен, Рутокен PINPad, Рутокен Плагин, Рутокен ЭЦП, Рутокен ЭЦП Flash
 
 - https://habr.com/ru/companies/aktiv-company/articles/137306/
 - Отрасли: Информационная безопасность
 - Компании: Хабр, «Актив», Proto
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: OpenSC, OpenVPN, Ubuntu, Windows 7, XCA, Актив, Рутокен ЭЦП
 
 - https://habr.com/ru/companies/aktiv-company/articles/138641/
 - Отрасли: не найдено
 - Компании: Хабр, «Актив», Далее
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Guardant, Guardant API, Guardant Armor, Guardant Monolith, Guardant Online, Актив
 
 - https://habr.com/ru/companies/aktiv-company/articles/139183/
 - Отрасли: не найдено
 - Компании: Хабр, «Актив», RDP
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Cryptonit, FreeBSD, Mac OS X, Microsoft Windows, Mozilla FireFox, Mozilla Thunderbird, OpenSC, OpenSSL, OpenVPN, PAM, Putty, rdesktop, sTunnel, XCA, Актив, Рутокен, Рутокен ЭЦП
 
 - https://habr.com/ru/companies/aktiv-company/articles/140572/
 - Отрасли: Информационная безопасность, embedded
 - Компании: Хабр, «Актив», Далее, ОК
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Актив, Рутокен WEB
 
 - https://habr.com/ru/companies/aktiv-company/articles/144700/
 - Отрасли: Информационная безопасность, криптографии
 - Компании: Хабр, «Актив»
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Astra Linux, Java PAM, Linux-PAM, Mac OS X, OpenPAM, pam_p11, Red Hat Linux, Sun, Ubuntu, Актив, Рутокен, Рутокен S, Рутокен ЭЦП, ФСТЭК
 
 - https://habr.com/ru/companies/aktiv-company/articles/165887/
 - Отрасли: Информационная безопасность, PKI
 - Компании: Хабр, «Актив»
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: ДБО
+- Кандидаты компаний: Актив, Демо-банк, Рутокен PINPad, Рутокен WEB, Рутокен WEB PKI Edition, Рутокен ЭЦП
 
 - https://habr.com/ru/companies/aktiv-company/articles/170829/
 - Отрасли: Информационная безопасность, виртуальные
@@ -1745,8 +1745,8 @@
 - https://habr.com/ru/companies/aktiv-company/articles/185248/
 - Отрасли: Информационная безопасность, предлагает, информационной безопасности, Веб-сервисы, криптографии
 - Компании: Хабр, «Актив», предлагает
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-индустрия
+- Кандидаты компаний: Amazon, Dropbox, FIDO, Google, LinkedIn, Paypal, Twitter, Актив
 
 - https://habr.com/ru/companies/aktiv-company/articles/191866/
 - Отрасли: Информационная безопасность, криптографии, предлагает
@@ -1776,7 +1776,7 @@
 - Отрасли: Информационная безопасность, криптографии, электронное правительство
 - Компании: Хабр, «Актив», Госуслуги, СКБ Контур
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Актив, Рутокен Плагин, Рутокен ЭЦП
 
 - https://habr.com/ru/companies/aktiv-company/articles/220889/
 - Отрасли: криптографии, Информационная безопасность, PKI
@@ -1793,14 +1793,14 @@
 - https://habr.com/ru/companies/aktiv-company/articles/242603/
 - Отрасли: Информационная безопасность, PKI, криптографии, провайдер
 - Компании: Хабр, «Актив», СКБ Контур, провайдер
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Криптография
+- Кандидаты компаний: aToken, BouncyCastle, Chromium, DiPost, Java, Microsoft Lync 2010, Microsoft Office Forms Server 2007, Microsoft SharePoint 2010, Microsoft XPS Viewer, Microsoft.NET, Mozilla FireFox, Mozilla ThunderBird, MS.Silverlight, R-Альфа, sign.me, Sun Java 2 Virtual Machine, Актив, КриптоFox, КриптоПро CSP, КриптоПро DSS, КриптоПро. NET, Лисси, Рутокен WEB, Фактор ТС
 
 - https://habr.com/ru/companies/aktiv-company/articles/246861/
 - Отрасли: Информационная безопасность
 - Компании: Хабр, «Актив», Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Криптография
+- Кандидаты компаний: CryptoPro, Актив, Рутокен PINPad, Рутокен WEB, Рутокен Плагин, Рутокен ЭЦП
 
 - https://habr.com/ru/companies/aktiv-company/articles/247911/
 - Отрасли: Информационная безопасность, PKI
