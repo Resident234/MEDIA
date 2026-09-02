@@ -9905,151 +9905,151 @@
 - https://habr.com/ru/companies/croc/articles/472750/
 - Отрасли: Электронная коммерция, PaaS, промышленность
 - Компании: Хабр, КРОК, Контур, ПИК
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-инфраструктура, облачные провайдеры, розничная торговля
+- Кандидаты компаний: Artifactory, CentOS, cloud foundation, CloudForms, ElasticSearch, Fluentd, Jenkins, JFrog Xray, Kibana, Kubernetes, OKD, OpenShift, OpenStack, Red Hat, Red Hat Atomic, Red Hat CoreOS, RedHat, RHEL, VMware
 
 - https://habr.com/ru/companies/croc/articles/474714/
 - Отрасли: ритейла, digital
 - Компании: Хабр, КРОК
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: ритейл, розница
+- Кандидаты компаний: Amazon, Walmart
 
 - https://habr.com/ru/companies/croc/articles/474790/
 - Отрасли: не найдено
 - Компании: Хабр, КРОК, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: банковский сектор, индустрия 4.0, ИТ
+- Кандидаты компаний: Макдональдс, Сколково
 
 - https://habr.com/ru/companies/croc/articles/475736/
 - Отрасли: не найдено
 - Компании: Хабр, КРОК, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: авиационные услуги, твердые бытовые отходы, управление отходами, экологический мониторинг
+- Кандидаты компаний: DJI, DJI LightBridge 2, DJI Matrice 600, LMC, LMC G2 DL, SPH Engineering, UGCS, Главный государственный санитарный врач РФ, Коллегия Госстроя РФ, Министерство строительства РФ, Пергам, Пергам-Инжиниринг, Росприроднадзор
 
 - https://habr.com/ru/companies/croc/articles/477832/
 - Отрасли: СМИ, информационной безопасности, DIY, медиа
 - Компании: Хабр, КРОК, Звук
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-индустрии, мобильные телефоны, социальные сети
+- Кандидаты компаний: Arduino, Facebook, Gmail, Google, Instagram, Mikrotik, Skype, Slack, Telegram
 
 - https://habr.com/ru/companies/croc/articles/480620/
 - Отрасли: аналитики, виртуальные, Enterprise, бухгалтерия, телекома
 - Компании: Хабр, КРОК, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-инфраструктура, Облачные приложения, Серверное администрирование, Сетевые технологии, Системное администрирование
+- Кандидаты компаний: Aggregation Services Router (ASR), Cisco, Cisco IOS XE SD-WAN, Cisco vEdge, Cloud Services Platform (CSP), Cloud Services Router (CSR), Enterprise Network Compute System (ENCS), Integrated Services Router (ISR), Office365, Smart Account, Unified Computing System (UCS), Viptela, vManage, VMware
 
 - https://habr.com/ru/companies/croc/articles/481836/
 - Отрасли: облачные сервисы, ETL, IAAS, PaaS, SaaS, Мобильные технологии, аналитики
 - Компании: Хабр, КРОК, серверы
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: большие данные, интернет вещей, логистика, мультимедийные системы, управление проектами, хранение данных
+- Кандидаты компаний: Alexa, Amazon, AWS Key Management Service, DynamoDB, Key In-Car, KROK, Oracle, Redshift, Snowball, Snowball Truck
 
 - https://habr.com/ru/companies/croc/articles/481902/
 - Отрасли: аналитики, Оптимизация
 - Компании: Хабр, КРОК, Далее, ПИК
-- Кандидаты отраслей: не найдено
+- Кандидаты отраслей: IT-инфраструктура, оптовый рынок, рынок мощности, ТЭЦ, электроэнергетика
 - Кандидаты компаний: не найдено
 
 - https://habr.com/ru/companies/croc/articles/485896/
 - Отрасли: облачные сервисы, SaaS, Big Data, виртуальные, Enterprise
 - Компании: Хабр, КРОК, Далее, Arenadata
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-инфраструктура, Хранение данных
+- Кандидаты компаний: ADCM, ArenadataDB, BigQuery, Greenplum, Redshift, S3, Snowflake, Вертика, Оракла, Постгресса, Сап Хана, Террадата, Экзадата
 
 - https://habr.com/ru/companies/croc/articles/492616/
 - Отрасли: облачные сервисы, Информационная безопасность
 - Компании: Хабр, КРОК, Слёрм, Далее, серверы
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-инфраструктура, Виртуализация, Хранение данных
+- Кандидаты компаний: Alibaba Cloud, Ansible, AWS, CentOS 7, Chef, Docker, GCP, Hashicorp, Kubeadm, Kubernetes, OpenStack, Packer, Puppet, SaltStack, Southbridge, Terraform, Vagrant, VirtualBox, Облако КРОК
 
 - https://habr.com/ru/companies/croc/articles/496594/
 - Отрасли: Игры и развлечения, Информационная безопасность, Программное обеспечение, Enterprise, Дизайн и юзабилити, Мобильные технологии, IoT, Оптимизация, Machine Learning
 - Компании: Хабр, КРОК
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Databases, Front-End Development, Gaming, Programming Languages, Базы данных
+- Кандидаты компаний: Adminer, AnySQL Maestro, Aqua Data Studio, awesome-lint, ClickHouse, Database .net, DataGrip, DBeaver, dbForge Studio for MySQL, dbForge Studio for Oracle, dbForge Studio for PostgreSQL, dbForge Studio for SQL Server, dbKoda, DbVisualizer, generator-awesome-list, GitHub, HeidiSQL, HouseOps, IBExpert, JackDB, JetBrains, MySQL Workbench, Navicat, npm, OmniDB, Oracle SQL Developer, pgAdmin, pgAdmin3, Pgweb, phpLiteAdmin, phpMyAdmin, PL/SQL Developer, PostgreSQL Maestro, psequel, Toad, Toad Edge, TOra, travis ci, Valentina Studio, Zabbix
 
 - https://habr.com/ru/companies/croc/articles/497780/
 - Отрасли: Рекрутинг и HR, образование
 - Компании: Хабр, КРОК
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-инфраструктура, IT-эмиграция, Сетевые технологии, Системное администрирование
+- Кандидаты компаний: Cisco, KROK
 
 - https://habr.com/ru/companies/croc/articles/498552/
 - Отрасли: не найдено
 - Компании: Хабр, КРОК, Далее, Звук
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: ИТ, программного обеспечения, удалёнка, Управление проектами, управление разработкой
+- Кандидаты компаний: Miro, Trello, Zoom, Джиру
 
 - https://habr.com/ru/companies/croc/articles/499620/
 - Отрасли: SaaS
 - Компании: Хабр, КРОК, Directum
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: банковское обслуживание, гражданская авиация, оборонный комплекс
+- Кандидаты компаний: LawCroc, Майкрософт
 
 - https://habr.com/ru/companies/croc/articles/501864/
 - Отрасли: NLP
 - Компании: Хабр, КРОК
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: FMCG, банки, ИТ-компании, стартапы, управление персоналом
+- Кандидаты компаний: Infobot, Telegram, Yandex Speech Kit
 
 - https://habr.com/ru/companies/croc/articles/502580/
 - Отрасли: не найдено
 - Компании: Хабр, КРОК, Далее, ОК
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: nginx, Роспатент
 
 - https://habr.com/ru/companies/croc/articles/502920/
 - Отрасли: облачные сервисы, виртуальные
 - Компании: 1С, Хабр, КРОК, серверы
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-инфраструктура, Виртуализация
+- Кандидаты компаний: 1С 8.3.10.2580, CentOS, Gilev.ru, Intel, Intel Xeon E5-2690 v2, Intel Xeon Gold 6244, Intel Xeon Gold 6254, PostgreSQL, RuVDS, Windows Server 2016
 
 - https://habr.com/ru/companies/croc/articles/504122/
 - Отрасли: SaaS, промышленные, digital
 - Компании: Хабр, КРОК
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: FMCG, IT-инфраструктура, логистика, ритейл
+- Кандидаты компаний: UgCS
 
 - https://habr.com/ru/companies/croc/articles/506968/
 - Отрасли: облачные сервисы, провайдер, Enterprise, виртуальные
 - Компании: Хабр, КРОК, провайдер, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Хранение данных
+- Кандидаты компаний: CentOS, NBench, Unsplash, VMware, КРОК IT-инфраструктура
 
 - https://habr.com/ru/companies/croc/articles/507314/
 - Отрасли: ML, Machine Learning, Computer Vision
 - Компании: Хабр, КРОК, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Data analysis, Data processing, IT
+- Кандидаты компаний: Amazon S3, Azure Blob Storage, COCO, GitHub, Google, Google Cloud Storage, Keras, Kubeflow, MLflow, MSSQL, MySQL, PostgreSQL, SageMaker, SQLite, Trains, Ubuntu
 
 - https://habr.com/ru/companies/croc/articles/507810/
 - Отрасли: не найдено
 - Компании: Хабр, КРОК
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: учётные системы
+- Кандидаты компаний: DevOops, Eclipse, Joker, JPoint, JUG.MSK, jXFW, KROK, Lombok, Spring, Spring Boot, Spring Initializr, Xtend, Xtend IDE, xtend-maven-plugin, Xtext
 
 - https://habr.com/ru/companies/croc/articles/508328/
 - Отрасли: промышленность, digital, ритейла, видеоаналитики, IoT, аналитики, Data science, ML, Machine Learning
 - Компании: Хабр, КРОК, IDC, X5 Retail Group, Газпромнефть
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Индустрия 4.0, Интернет вещей, ритейл
+- Кандидаты компаний: Digital Leader, FB, PwC, Росэнергоатом, Сибур
 
 - https://habr.com/ru/companies/croc/articles/508692/
 - Отрасли: виртуальные, образование, недвижимости, Enterprise, промышленность, нефтегазовая отрасль
 - Компании: Хабр, КРОК, Газпром, Росатом, «Норникель», Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT, VR/AR-рынок, XR-разработка, игровая индустрия, индустриальный сектор, инженерно-консалтинговый сектор, музеи и достопримечательности, нефтехимическая отрасль, рекламный сектор
+- Кандидаты компаний: Autodesk Maya, Saudi Aramco, Tadviser, Unity 3D, Газпром нефть, КРОК AR и VR, КРОК Иммерсивные технологии, Мособлгаз, Сибур
 
 - https://habr.com/ru/companies/croc/articles/508750/
 - Отрасли: предлагает, Оптимизация
 - Компании: Хабр, КРОК, Далее, предлагает
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-инфраструктура, SD-WAN, видеоконференцсвязь
+- Кандидаты компаний: Avi Networks, Citrix, SAP, VeloCloud, VMware, Роспотребнадзор, Ютуб
 
 - https://habr.com/ru/companies/croc/articles/516706/
 - Отрасли: аутсорсинг, финансах, торговли
 - Компании: Хабр, КРОК
-- Кандидаты отраслей: не найдено
+- Кандидаты отраслей: IT-инфраструктура, Вычислительные системы, Дата-центры, Производство, Сервисные организации, Системное администрирование
 - Кандидаты компаний: не найдено
 
 - https://habr.com/ru/companies/croc/articles/517874/
