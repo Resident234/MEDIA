@@ -455,86 +455,86 @@
 - https://habr.com/ru/companies/2gis/articles/344196/
 - Отрасли: не найдено
 - Компании: Хабр, 2ГИС
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Конференции, Программирование
+- Кандидаты компаний: Akka Streams, DevDay, devday.ru
 
 - https://habr.com/ru/companies/2gis/articles/345464/
 - Отрасли: не найдено
 - Компании: Хабр, 2ГИС
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Конференции, Программирование, Функциональное программирование
+- Кандидаты компаний: CodeFest, DevDay, Juspay Technologies, Youtube, техно2гис
 
 - https://habr.com/ru/companies/2gis/articles/345552/
 - Отрасли: Оптимизация, Веб-разработка, Мобильные технологии, медиа, embedded
 - Компании: Хабр, 2ГИС
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Chrome/Opera, Desktop Safari, Firefox, IE10+, Mobile Safari
 
 - https://habr.com/ru/companies/2gis/articles/346794/
 - Отрасли: не найдено
 - Компании: Хабр, 2ГИС
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: DevOps, IT-инфраструктура, Управление разработкой
+- Кандидаты компаний: Deis, Deis Workflow, Docker, Git, Heroku, Heroku buildpack, Jira, Kubernetes, Mattermost, OpenStack, Postgres, PostgreSQL, Rabbit, Slack, Status Board, скайп
 
 - https://habr.com/ru/companies/2gis/articles/348510/
 - Отрасли: не найдено
 - Компании: Хабр, 2ГИС
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Advertising Management System (AMS), Amazon S3, Apache Kafka, Docker, ELK, GitHub, GitLab, Kubernetes, Prometheus, Reactive Extensions (Rx), Rx.NET, VStore
 
 - https://habr.com/ru/companies/2gis/articles/349446/
 - Отрасли: не найдено
 - Компании: Хабр, 2ГИС
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Конференции, Программирование
+- Кандидаты компаний: DevDay, devday.ru, Kaspersky Lab
 
 - https://habr.com/ru/companies/2gis/articles/350034/
 - Отрасли: Оптимизация, Веб-разработка, CRM
 - Компании: Хабр, 2ГИС
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: CODEдейства, Edge, express, express.js, IE, Safari, Tinder, Tproger, web-push
 
 - https://habr.com/ru/companies/2gis/articles/351860/
 - Отрасли: Информационная безопасность, Мобильные технологии, Enterprise, провайдер
 - Компании: Хабр, 2ГИС, серверы, провайдер
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Active Directory, Active Directory Federation Services (ADFS), Auth0, Azure Active Directory B2C, Azure AD, DevDayApi, Facebook, Google+, Identity Experience Framework, Microsoft, Office 365, YouLa
 
 - https://habr.com/ru/companies/2gis/articles/353262/
 - Отрасли: не найдено
 - Компании: Хабр, 2ГИС, Positive Technologies
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Angular, AngularJS, devday.ru, JS DevDay, Magora Systems, React, React Native, Titanium, Аppcelerator Titanium
 
 - https://habr.com/ru/companies/2gis/articles/354248/
 - Отрасли: провайдер
 - Компании: Хабр, 2ГИС, Space, провайдер
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: CDN, объектное хранилище, хранилище изображений
+- Кандидаты компаний: Ceph, FileKeeper, PG HA, Photo, PostgreSQL, Recycler, Resizer, S3, Дорожные события
 
 - https://habr.com/ru/companies/2gis/articles/358148/
 - Отрасли: Веб-разработка
 - Компании: Хабр, 2ГИС
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Локализация продуктов, Программирование
+- Кандидаты компаний: IE, Юникода, داماك العقارية, دبي مارينا مول
 
 - https://habr.com/ru/companies/2gis/articles/358632/
 - Отрасли: не найдено
 - Компании: Хабр, 2ГИС, Positive Technologies
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: meet up, Конференции, Программирование, техно-ивенты
+- Кандидаты компаний: Angular, AngularJS, DevDay, Golden Pass, Magora Systems, React Native, service worker, techno2gis.ru, web push, YouTube, Аppcelerator Titanium, Техно2ГИС
 
 - https://habr.com/ru/companies/2gis/articles/366089/
 - Отрасли: не найдено
 - Компании: Хабр, 2ГИС
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: базы данных, городской информационный сервис, краудсорсинг, Разработка мобильных приложений
+- Кандидаты компаний: Android, SQLite
 
 - https://habr.com/ru/companies/2gis/articles/414041/
 - Отрасли: Enterprise
 - Компании: Хабр, 2ГИС, Далее, ПИК
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: аптеки, бани, барбершопы, мягкая мебель, новогодние подарки, СТО, строительство, сферы услуг, товары народного потребления, цветы, шиномонтаж, шины
+- Кандидаты компаний: ФСС
 
 - https://habr.com/ru/companies/2gis/articles/415263/
 - Отрасли: не найдено
@@ -545,62 +545,62 @@
 - https://habr.com/ru/companies/2gis/articles/416635/
 - Отрасли: Веб-разработка, провайдер
 - Компании: Хабр, 2ГИС, провайдер, Яндекс
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: локализация, Локализация продуктов
+- Кандидаты компаний: airbnb, aphrodite, bidi-css-js, css-flip, cssjanus, firefox, Google, jss-rtl, postcss-logical, postcss-rtl, rtl-css-js, RTLCSS, storybook, styled-components, Twitter, webpack-rtl-plugin, Wikimedia, Телеграме
 
 - https://habr.com/ru/companies/2gis/articles/417231/
 - Отрасли: не найдено
 - Компании: Хабр, 2ГИС, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: корпоративная культура, корпоративный мерч, печать на ткани, производство мерча, прямая цифровая печать на ткани, шелкография
+- Кандидаты компаний: 2gift, Википедии, МФК Сан Сити, Слаке
 
 - https://habr.com/ru/companies/2gis/articles/419671/
 - Отрасли: Оптимизация
 - Компании: Хабр, 2ГИС
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: qa, qa automation, Проектирование API, Тестирование IT-систем, Тестирование веб-сервисов
+- Кандидаты компаний: PostgreSQL-9.4
 
 - https://habr.com/ru/companies/2gis/articles/422325/
 - Отрасли: не найдено
 - Компании: Хабр, 2ГИС
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Конференции, Проектирование API, Тестирование IT-систем, Тестирование веб-сервисов
+- Кандидаты компаний: DevDay, devday.ru, Diffy, Karate, Newman, Noveo, Postman
 
 - https://habr.com/ru/companies/2gis/articles/422935/
 - Отрасли: не найдено
 - Компании: 2ГИС, Хабр, Яндекс, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Геоинформационные сервисы, Носимая электроника
+- Кандидаты компаний: Apple, Apple Watch, DemoWatch, Google Maps, Maps.Me, Rolex, StackOverflow, Waze, Яндекс.Карт, Яндекс.Навигатор
 
 - https://habr.com/ru/companies/2gis/articles/425283/
 - Отрасли: Веб-разработка
 - Компании: Хабр, 2ГИС
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Анализ и проектирование систем, Локализация продуктов
+- Кандидаты компаний: CrowdIn, Fiji, Kafka, RabitMQ
 
 - https://habr.com/ru/companies/2gis/articles/425761/
 - Отрасли: не найдено
 - Компании: Хабр, 2ГИС
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: QA, Проектирование API, Тестирование IT-систем, Тестирование веб-сервисов
+- Кандидаты компаний: DevDay, Diffy, Karate, Newman, Postman, techno2gis.ru, YouTube, Техно2ГИС
 
 - https://habr.com/ru/companies/2gis/articles/427653/
 - Отрасли: embedded
 - Компании: Хабр, 2ГИС
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: вёрстка рассылки, Интерфейсы, электронные письма
+- Кандидаты компаний: AMP HTML Email, Android, Apple Mail, emailmonks.com, Gmail, Google, Hotmail, i.imgur.com, Internet Explorer, iOS Mail, Litmus, Microsoft, MS Word, Outlook, Trident, WorldCast, твиттера
 
 - https://habr.com/ru/companies/2gis/articles/429772/
 - Отрасли: медиа, Мобильные технологии, аналитики
 - Компании: Хабр, 2ГИС, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: email-маркетинг, email-рассылки, инструменты для верстки рассылок, инструменты для тестирования email, фреймворки для email-рассылок
+- Кандидаты компаний: Atom, Cerberus, Email On Acid, Foundation for Emails, Foundation for Sites, Handlebars, Ink, Inky, Litmus, Mailjet, MJML, mjmlio/mjml, Mosaico, Panini, Responsive Email Framework, SASS','PreviewMyEmail','InboxInspector','DirectMail','Putsmail','PilotMailer','Gmail','Gmail для Android','Outlook','Foundation CLI, Stripo, Sublime Text, Visual Studio Code, ZURB
 
 - https://habr.com/ru/companies/2gis/articles/431052/
 - Отрасли: не найдено
 - Компании: Хабр, 2ГИС
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-компании, Конференции, Программирование
+- Кандидаты компаний: DevDay, devday.ru, Frontend DevDay
 
 - https://habr.com/ru/companies/2gis/articles/431300/
 - Отрасли: Рекрутинг и HR
