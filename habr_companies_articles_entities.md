@@ -1517,8 +1517,8 @@
 - https://habr.com/ru/companies/agima/articles/715206/
 - Отрасли: digital
 - Компании: Хабр, AGIMA, Яндекс
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Digital-продукты, Разработка мобильных приложений, Ритейл
+- Кандидаты компаний: AGConnect, AppGallery, AppGalleryConnect, AppStoreConnect, Firebase, Google, Google Play, Google Play Services, HMS, Huawei, OneSignal
 
 - https://habr.com/ru/companies/agima/articles/718008/
 - Отрасли: не найдено
@@ -1559,8 +1559,8 @@
 - https://habr.com/ru/companies/agima/articles/722568/
 - Отрасли: не найдено
 - Компании: Хабр, AGIMA
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Разработка мобильных приложений
+- Кандидаты компаний: Axios, TypeScript, Vue, VueJS
 
 - https://habr.com/ru/companies/agima/articles/725290/
 - Отрасли: не найдено
@@ -1613,14 +1613,14 @@
 - https://habr.com/ru/companies/agima/articles/745806/
 - Отрасли: облачные сервисы, Информационная безопасность, предлагает, Enterprise
 - Компании: Хабр, AGIMA, предлагает, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: информационные технологии, разработка программного обеспечения
+- Кандидаты компаний: Calico, Cilium, Istio, Kube-router, Strapi, Weaveworks
 
 - https://habr.com/ru/companies/agima/articles/747330/
 - Отрасли: диджитал
 - Компании: Хабр, AGIMA
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT, разработка
+- Кандидаты компаний: GitHub Copilot, PlayStation 4, чат GPT
 
 - https://habr.com/ru/companies/agima/articles/748742/
 - Отрасли: Рекрутинг и HR, предлагает, ML
@@ -1649,8 +1649,8 @@
 - https://habr.com/ru/companies/airi/articles/747038/
 - Отрасли: не найдено
 - Компании: Хабр, AIRI
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: искусственный интеллект, компьютерное зрение, машинное обучение, обработка изображений
+- Кандидаты компаний: Colab, YouTube, ВШЭ
 
 - https://habr.com/ru/companies/airi/articles/747626/
 - Отрасли: Big Data
