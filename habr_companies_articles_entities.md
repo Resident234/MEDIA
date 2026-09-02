@@ -3455,152 +3455,152 @@
 - https://habr.com/ru/companies/alfa/articles/744880/
 - Отрасли: digital, Рекрутинг и HR, аналитики
 - Компании: Хабр, Альфа-Банк, Яндекс, Сбер, МТС, Кошелёк, Альфа-Банка, Далее, Хабр Карьера
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: BigTech, интернет-банкинг, финансовые технологии, эквайринг
+- Кандидаты компаний: Alfa Pay, Android, AppStore, iOS, iPhone, Mastercard, Visa, Альфа Digital, Альфа Мобайл, ВК, Дзынь, МИР, НСПК, Озон, Тиньков
 
 - https://habr.com/ru/companies/alfa/articles/745776/
 - Отрасли: аналитики, ML, digital
 - Компании: Хабр, Альфа-Банк, Далее, Альфа-Банка, Хабр Карьера
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT, Анализ и проектирование систем, Подготовка технической документации, Статистика в IT
+- Кандидаты компаний: Alfa Analyze IT Meetup, Alfa Digital, AnalyzeIT, Artifactory, Bitbucket, Confluence, Jenkins
 
 - https://habr.com/ru/companies/alfa/articles/745854/
 - Отрасли: ML, digital
 - Компании: Хабр, Альфа-Банк, Далее, Хабр Карьера
-- Кандидаты отраслей: не найдено
+- Кандидаты отраслей: IT-систем, веб-сервисов
 - Кандидаты компаний: не найдено
 
 - https://habr.com/ru/companies/alfa/articles/747742/
 - Отрасли: аналитики, Big Data, ML, digital
 - Компании: Хабр, Альфа-Банк, Альфа-Банка, Хабр Карьера
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: B2B
+- Кандидаты компаний: Альфа
 
 - https://habr.com/ru/companies/alfa/articles/748754/
 - Отрасли: Data science, digital, Рекрутинг и HR, ML
 - Компании: Хабр, Альфа-Банк, Альфа-Банка, SENSE, Хабр Карьера
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Growth Hacking, IT-рекрутмент, Java-разработка, MLOps, Банковская сфера, Мобильная разработка, Тестирование, Фронтенд-разработка
+- Кандидаты компаний: Alfa Awards, Alfa Campus, Alfa Research Center, CX World Awards, Sense Machine, Альфа-Мобайл, Подлодка
 
 - https://habr.com/ru/companies/alfa/articles/748824/
 - Отрасли: Big Data, финансового, Data science, Advanced Analytics, NLP, ML, digital
 - Компании: Хабр, Альфа-Банк, Далее, Альфа-Банка, Хабр Карьера
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: кредитный скоринг
+- Кандидаты компаний: American Express, Kaggle
 
 - https://habr.com/ru/companies/alfa/articles/749890/
 - Отрасли: провайдер, аналитики, ML, digital
 - Компании: Хабр, Альфа-Банк, провайдер, Далее, серверы, Альфа-Банка, Хабр Карьера
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Банковская отрасль
+- Кандидаты компаний: Postman
 
 - https://habr.com/ru/companies/alfa/articles/750348/
 - Отрасли: ML, digital
 - Компании: Хабр, Альфа-Банк, Далее, RET, Хабр Карьера
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: LLVM
 
 - https://habr.com/ru/companies/alfa/articles/750844/
 - Отрасли: Рекрутинг и HR, ML, digital
 - Компании: Хабр, Альфа-Банк, Далее, Альфа-Банка, Хабр Карьера
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-индустрии
+- Кандидаты компаний: Jira, Технотекст
 
 - https://habr.com/ru/companies/alfa/articles/752048/
 - Отрасли: Рекрутинг и HR, ML, digital
 - Компании: Хабр, Альфа-Банк, Альфа-Банка, Хабр Карьера
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-индустрия
+- Кандидаты компаний: Zoom
 
 - https://habr.com/ru/companies/alfa/articles/752068/
 - Отрасли: аналитики, ML, digital
 - Компании: Хабр, Альфа-Банк, Бэклог, Альфа-Банка, Хабр Карьера
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Аналитика мобильных приложений, Разработка мобильных приложений
+- Кандидаты компаний: Альфа Мобайлу, ГИБДД, ЖКУ Москвы, Ростелекома, суперсета
 
 - https://habr.com/ru/companies/alfa/articles/752168/
 - Отрасли: финтех, Рекрутинг и HR, диджитал
 - Компании: Хабр, Альфа-Банк, Хабр Карьера
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT, коллекшн
+- Кандидаты компаний: Alfa Campus, Habr, Miro, SwiftBook, Telegram
 
 - https://habr.com/ru/companies/alfa/articles/753036/
 - Отрасли: ML, digital
 - Компании: Хабр, Альфа-Банк, Далее, Хабр Карьера
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-индустрия, интерпрайз
+- Кандидаты компаний: Alfa LevelUp Day
 
 - https://habr.com/ru/companies/alfa/articles/top/page12/
 - Отрасли: информационной безопасности, ML, Рекрутинг и HR, Machine Learning, Data science, Производство мультимедиа-контента
 - Компании: Альфа-Банк, Хабр, Альфа-Банка, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: виртуальной реальности, компьютерные игры, мобильной разработки, мобильный банк, модели машинного обучения, финансовой сфере
+- Кандидаты компаний: AirFlow, Appium, Habr, Markswebb, Selenoid, Spark, Threagile, Альфа‑Банк, Технотекст, ТИНОИД
 
 - https://habr.com/ru/companies/alfastrah/articles/top/
 - Отрасли: ERP, BI, ETL
 - Компании: АльфаСтрахование, Хабр, Kaiten, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Data Engineering, авторизация, обработка больших данных, регрессионное тестирование, страхование, электронный документооборот
+- Кандидаты компаний: Active Directory, Apache Airflow, Apache Spark, Atlassian Confluence, ELK, HikariPool, Jira, Jupyter Notebook, KeyCloak, Livy, Mattermost, PostgreSQL, RoadRunner, SAP ERP, Slack, Spring Reactor
 
 - https://habr.com/ru/companies/aliexpress_russia/articles/552382/
 - Отрасли: e-commerce, предлагает, Machine Learning, Электронная коммерция
 - Компании: Хабр, AliExpress CIS, Мегафон, предлагает
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Alibaba, AliExpress, Mail.Ru Group, РФПИ
 
 - https://habr.com/ru/companies/aliexpress_russia/articles/563290/
 - Отрасли: e-commerce, аналитики, предлагает, стриминг, Электронная коммерция
 - Компании: Хабр, AliExpress CIS, Сбер, предлагает, Далее, VK
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: e‑commerce, localization, marketplace, online retail
+- Кандидаты компаний: Alibaba, AliExpress, App Store, GitLab, Google Play, Plaza, Sber ID, Taobao, Tmall, Trendyol
 
 - https://habr.com/ru/companies/aliexpress_russia/articles/572722/
 - Отрасли: Big Data, ML, Электронная коммерция, торговли, Machine Learning
 - Компании: Хабр, AliExpress CIS, 1С, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Анализ и проектирование систем, маркетплейс, Машинное обучение
+- Кандидаты компаний: AliExpress, AliExpress Assistant, AliExpress Россия, AliExpress_Russia, Ecwid, Excel, Битрикс
 
 - https://habr.com/ru/companies/aliexpress_russia/articles/653311/
 - Отрасли: Мобильные технологии, Оптимизация
 - Компании: Хабр, AliExpress CIS, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: мобильные приложения
+- Кандидаты компаний: AliExpress, Gitlab-CI, Google, Grafana, Spotify
 
 - https://habr.com/ru/companies/aliexpress_russia/articles/658387/
 - Отрасли: ML
 - Компании: Хабр, AliExpress CIS, OZON, Яндекс
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Маркетплейс, Машинное обучение
+- Кандидаты компаний: AliExpress, AliExpress Россия, AliTech, YouTube, Яндекс.Маркет
 
 - https://habr.com/ru/companies/aliexpress_russia/articles/662055/
 - Отрасли: Мобильные технологии, SaaS
 - Компании: Хабр, AliExpress CIS, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: DevOps, IT-инфраструктура, мобильные приложения
+- Кандидаты компаний: AliExpress, ansible, Apple, brew, CocoaPods, confluence, Fastlane, git, Gitlab, Hashicorp Vault, Java, jenv, MacOS, puppet, pyenv, Python, rbenv, Ruby, terraform, Xcode, Xcode Command-Line Tools
 
 - https://habr.com/ru/companies/aliexpress_russia/articles/670320/
 - Отрасли: Оптимизация
 - Компании: Хабр, AliExpress CIS, серверы, Далее, N+1, RET
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: логистика
+- Кандидаты компаний: .NET, AliExpress, C#, Cassandra, CRC16, DJB2, Elastic, FNV-1, FNV-1a, LoseLose, MongoDB, Murmur2, Murmur3, MySQL, PG FDW, PostgreSQL, SDBM, smhasher, xxHash
 
 - https://habr.com/ru/companies/aliexpress_russia/articles/682688/
 - Отрасли: не найдено
 - Компании: Хабр, AliExpress CIS, Далее
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: AliExpress, Firebase, GitHub, Google
 
 - https://habr.com/ru/companies/aliexpress_russia/articles/686672/
 - Отрасли: Big Data, ML, BigData, Machine Learning
 - Компании: Хабр, AliExpress CIS, Далее, Яндекс
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: маркетплейс, Машинное обучение
+- Кандидаты компаний: AliExpress, kaggle, TrashPred, Yandex.Толока
 
 - https://habr.com/ru/companies/aliexpress_russia/articles/694226/
 - Отрасли: Программное обеспечение, виртуальные, Enterprise, предлагает
 - Компании: Хабр, AliExpress CIS, предлагает
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: AliExpress, AliExpress Россия, BenchmarkDotNet, Dragonfly, Facebook, KeyDb, Memcached, Redis, Redis Enterprise
 
 - https://habr.com/ru/companies/aliexpress_russia/articles/top/
 - Отрасли: Программное обеспечение, Machine Learning, Мобильные технологии
