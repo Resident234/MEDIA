@@ -10355,152 +10355,152 @@
 - https://habr.com/ru/companies/croc/articles/576998/
 - Отрасли: не найдено
 - Компании: Хабр, КРОК
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-инфраструктура, Виртуализация, Системное администрирование
+- Кандидаты компаний: Telegram, VMware, VMware Tanzu, ВКонтакте
 
 - https://habr.com/ru/companies/croc/articles/578948/
 - Отрасли: не найдено
 - Компании: Хабр, КРОК, быструю, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT‑инфраструктура
+- Кандидаты компаний: DEC, EMC, EVA, Hitachi, HP, IBM, Lenovo, Sun, Symmetrix, VNX, VNX1
 
 - https://habr.com/ru/companies/croc/articles/579158/
 - Отрасли: диджитал, e-commerce, аналитики, CRM
 - Компании: Хабр, КРОК
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: b2b, b2c, IT, интернет-маркетинг, Космический туризм, Транспортный документооборот, ЦОДы, Электронный документооборот
+- Кандидаты компаний: Facebook, Instagram, Linkedin, ВКонтакте, Кибербанк 2077
 
 - https://habr.com/ru/companies/croc/articles/580590/
 - Отрасли: SaaS, аналитики
 - Компании: Хабр, КРОК, AutoFAQ, Яндекс
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: диалоговые системы, машинное обучение, чат-бот
+- Кандидаты компаний: Amazon, Amazon Mechanical Turk, AutoFAQ.ai, Cognigy, CROC, DeepPavlov, GitHub, Google, Google Dialogflow, Heriot-Watt University, IBM, IBM Watson Assistant, Microsoft, Microsoft LUIS, RASA, Yandex, Yandex.Толока
 
 - https://habr.com/ru/companies/croc/articles/582072/
 - Отрасли: умный дом
 - Компании: Хабр, КРОК, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: BIM, BIM‑моделирование, инженерные практики, инженерные системы, мультимедийные системы, проектирование, строительство
+- Кандидаты компаний: ADSK, Autodesk, BIM2B, Dynamo, Excel, Revit
 
 - https://habr.com/ru/companies/croc/articles/582784/
 - Отрасли: аналитики, облачные сервисы, Информационная безопасность, Платформенные сервисы
 - Компании: Хабр, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Серверное администрирование, Управление проектами, Хранение данных
+- Кандидаты компаний: NetApp, NetApp StorageGrid, Oracle, Oracle ZFS-2, S3, Swift
 
 - https://habr.com/ru/companies/croc/articles/583360/
 - Отрасли: Big Data, BI, ML, информационной безопасности, масштабируемость, металлургия
 - Компании: Хабр, КРОК
-- Кандидаты отраслей: не найдено
+- Кандидаты отраслей: ИТ-компания, нефтегазовое производство, производственные компании
 - Кандидаты компаний: не найдено
 
 - https://habr.com/ru/companies/croc/articles/586040/
 - Отрасли: не найдено
 - Компании: Хабр, КРОК
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: взрывозащищённое производство, логистика, производство, фармацевтика
+- Кандидаты компаний: NETSCOUT, nGenius One, nGenius Pulse, Niagara Networks
 
 - https://habr.com/ru/companies/croc/articles/586828/
 - Отрасли: образование
 - Компании: Хабр, КРОК
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT
+- Кандидаты компаний: Facebook, Альфе, Бете, Гамме, Дельта, МГУ
 
 - https://habr.com/ru/companies/croc/articles/593031/
 - Отрасли: Аппаратное обеспечение, Enterprise, медиа, RPA, CRM, Low code, предлагает, digital
 - Компании: Хабр, КРОК, Сбер, AutoFAQ, Мегафон, Ростелеком, предлагает
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: малый и средний бизнес, производство кухонь под ключ
+- Кандидаты компаний: Defender, Intel, Intel Core i5, Intel Hardware Shield, Intel vPro, Windows 10
 
 - https://habr.com/ru/companies/croc/articles/597475/
 - Отрасли: Enterprise, промышленные, системы видеонаблюдения, IoT
 - Компании: Хабр, КРОК, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: агрокомбинат, агрохолдинг, интернет-провайдер
+- Кандидаты компаний: Huawei, Керхер
 
 - https://habr.com/ru/companies/croc/articles/651391/
 - Отрасли: предлагает, digital, Machine Learning
 - Компании: Хабр, КРОК, предлагает
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Интернет‑маркетинг, Туризм, Экология
+- Кандидаты компаний: GitHub, Instagram, WildHack, Кроноцкий заповедник, Медиалогия, Политехнический музей, Технологический институт Карлсруэ
 
 - https://habr.com/ru/companies/croc/articles/652329/
 - Отрасли: облачные сервисы, виртуальные, провайдер, IAAS
 - Компании: Хабр, КРОК, DELL, Далее, серверы, быструю, провайдер
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Облачные вычисления, Сетевые технологии
+- Кандидаты компаний: Brain4Net, Ceph, Cisco, Cumulus Linux, Dell EMC PowerFlex, Extreme Networks, FiberTrade, Mellanox, MongoDB, NVIDIA, RunSDN
 
 - https://habr.com/ru/companies/croc/articles/652979/
 - Отрасли: виртуальные, Аппаратное обеспечение, Оптимизация, Enterprise, аналитики, IAAS, медиа
 - Компании: Хабр, КРОК, серверы, DELL, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: банковский сектор, полупроводники
+- Кандидаты компаний: HPE, HPE SAF, Live Optics, Microsoft, RVTools, VMware
 
 - https://habr.com/ru/companies/croc/articles/656135/
 - Отрасли: аутсорсинг, торговли, ритейла
 - Компании: Хабр, КРОК, серверы, Далее
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Active Directory, BIND, BlueSpice, Collabora Online Development Edition, CUPS, Foreman, FreeIPA, isc-dhcp-server, Jitsi Meet, Kopano, Microsoft, NextCloud, NextCloud Office, Nginx, OnlyOffice, OpenVPN, Puppet, Samba, SambaDC, SharePoint, Ubuntu, X2GO, Zabbix, Коммерсантъ
 
 - https://habr.com/ru/companies/croc/articles/656783/
 - Отрасли: виртуальные
 - Компании: Хабр, КРОК, Далее, серверы, 1С
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: виртуализация, облачные ресурсы, почтовая система, сетевые сервисы, Системное администрирование, служба каталогов
+- Кандидаты компаний: Active Directory, bugzilla.samba.org, CentOS, Debian, Hyper-V, isc-dhcp-server, MS Exchange, OpenVPN, Proxmox, Proxmox Virtual Environment (PVE), SambaDC, Ubuntu, Windows Server 2008, Windows Server 2012 R2, Zimbra
 
 - https://habr.com/ru/companies/croc/articles/661131/
 - Отрасли: не найдено
 - Компании: Хабр, КРОК
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: облачная инфраструктура
+- Кандидаты компаний: CROC, Croc Code, Dex, Keycloak, Telegram, YouTube, ВКонтакте
 
 - https://habr.com/ru/companies/croc/articles/667196/
 - Отрасли: digital, Производство мультимедиа-контента
 - Компании: Хабр, КРОК, Далее, Space
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Digital Signage, Видеоконференцсвязь
+- Кандидаты компаний: Cisco, Lightware, Mersive, Tandberg
 
 - https://habr.com/ru/companies/croc/articles/674268/
 - Отрасли: провайдер, предлагает
 - Компании: Хабр, КРОК, провайдер, предлагает
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: интернет‑провайдер, ретейлер, сетевые технологии
+- Кандидаты компаний: Cisco, IETF, Juniper, Linux, Microsoft Windows, Mikrotik, vMX, vSRX, Технотекст
 
 - https://habr.com/ru/companies/croc/articles/675512/
 - Отрасли: телекоммуникаций, PKI
 - Компании: Хабр, КРОК
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: передача данных, Сетевое оборудование, Сетевые технологии
+- Кандидаты компаний: Cisco, Maipu Communication Technology Co., Ltd.
 
 - https://habr.com/ru/companies/croc/articles/680844/
 - Отрасли: не найдено
 - Компании: Хабр, КРОК
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Сетевое оборудование, Сетевые технологии, Центры обработки данных
+- Кандидаты компаний: Cisco, Maipu, Maipu Communication Technology
 
 - https://habr.com/ru/companies/croc/articles/685276/
 - Отрасли: не найдено
 - Компании: Хабр, КРОК, Контур, серверы
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-инфраструктура, Инженерная инфраструктура, Инженерные системы
+- Кандидаты компаний: Emerson, КАМАЗ, Росавтодор
 
 - https://habr.com/ru/companies/croc/articles/687164/
 - Отрасли: Enterprise, Программное обеспечение, предлагает, виртуальные, медиа
 - Компании: Хабр, КРОК, Gartner, предлагает, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Enterprise Backup and Recovery, IT‑систем, виртуализация, защита данных, облачные среды, резервное копирование, хранилища
+- Кандидаты компаний: AIX, CentOS, Citrix, Citrix Hypervisor, Citrix XenServer, H3C, H3C CAS, H3C UIS, Huawei, Huawei FusionCompute, IBM, Microsoft, Microsoft Exchange, Microsoft Hyper‑V Server, MS SQL Server, MySQL, OpenStack, Oracle, Oracle Database, Oracle Linux, Oracle Linux Virtualization Manager, oVirt, PostgreSQL, Red Hat, RHV, Sangfor, Sangfor HCI, SAP, Veeam Backup, Vinchin, Vinchin Technologies, VMware, VMware ESXi, VMware vCenter, XCP‑ng, zVirt
 
 - https://habr.com/ru/companies/croc/articles/691816/
 - Отрасли: ML
 - Компании: КРОК, Хабр, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-инфраструктура, облако, пропускная система, ЦОД
+- Кандидаты компаний: Deeppavlov
 
 - https://habr.com/ru/companies/croc/articles/692744/
 - Отрасли: предлагает
 - Компании: Хабр, КРОК, предлагает
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Сетевое оборудование, Сетевые технологии, ЦОД
+- Кандидаты компаний: Arista, Cisco, Cisco Nexus, KROK, Maipu
 
 - https://habr.com/ru/companies/croc/articles/696024/
 - Отрасли: не найдено
