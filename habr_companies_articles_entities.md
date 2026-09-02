@@ -3756,151 +3756,151 @@
 - Отрасли: Информационная безопасность, Программное обеспечение, криптографии
 - Компании: Хабр, Angara Security
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Cobalt Strike, dumperт, Empires, Impacket, Lazagne, LSASS, Metasploit, Mimikatz, nanodump, PowerSploit, Procdump, Process Explorer, Pwdump, RedTeam, Sigma, Sysinternals, Sysmon, Windows DLL Host, Windows Task Manager
 
 - https://habr.com/ru/companies/angarasecurity/articles/680138/
 - Отрасли: Информационная безопасность
 - Компании: Хабр, Angara Security, Далее
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: CrackMapExec, GitHub, Hack The Box, Impacket, Powermad, PowerShellMafia, PowerSploit, PowerView, Rubeus, SharpCollection
 
 - https://habr.com/ru/companies/angarasecurity/articles/683384/
 - Отрасли: Enterprise, Информационная безопасность
 - Компании: Хабр, Angara Security, RDP
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Android, iOS, Linux, MacOS, Windows
 
 - https://habr.com/ru/companies/angarasecurity/articles/699826/
 - Отрасли: Информационная безопасность, Оптимизация
 - Компании: Хабр, Angara Security, серверы, Далее
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Kaspersky Anti Targeted Attack (KATA) Platform, Kaspersky Endpoint Agent, Kaspersky Endpoint Detection and Response (KEDR), KATA, KEA, KSC
 
 - https://habr.com/ru/companies/angarasecurity/articles/720694/
 - Отрасли: Информационная безопасность, ML
 - Компании: Хабр, Angara Security, серверы, Positive Technologies
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: DevOps
+- Кандидаты компаний: Confluence, Haval, Jira, Mercedes, Nginx, Splunk, W3Techs, Windows XP
 
 - https://habr.com/ru/companies/angarasecurity/articles/751858/
 - Отрасли: Информационная безопасность, ML, информационной безопасности
 - Компании: Хабр, Angara Security, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: автомобильная промышленность, финансовая сфера
+- Кандидаты компаний: Angara SOC, AngaraSecurity, Empire, MITRE, Nishang, PowerSploit, TensorFlow
 
 - https://habr.com/ru/companies/angarasecurity/articles/753378/
 - Отрасли: Информационная безопасность, digital, кибербезопасности, образование, информационной безопасности, BI
 - Компании: Хабр, Angara Security, BI.ZONE, Positive Technologies
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-индустрия, кибербезопасность, Цифровая криминалистика
+- Кандидаты компаний: 13Cubed, Crowdstrike, DFIRScience, Mandiant, OFFZONE, PHD, Red Canary, SANS Digital Forensics and Incident Response, Sentinel Labs, The DFIR Report, This Week In 4N6, Trend Micro, Trusted Sec, Алтайский технический университет, Твиттер, Центр киберустойчивости Angara SOC
 
 - https://habr.com/ru/companies/angarasecurity/articles/756500/
 - Отрасли: Информационная безопасность, кибербезопасности
 - Компании: Хабр, Angara Security
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Кибербезопасность, Компьютерная криминалистика
+- Кандидаты компаний: BRIMOR Labs, Velocidex, WithSecure Labs
 
 - https://habr.com/ru/companies/angarasecurity/articles/767124/
 - Отрасли: Информационная безопасность
 - Компании: Хабр, Angara Security, Positive Technologies, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-инфраструктура, Кибербезопасность
+- Кандидаты компаний: Angara SOC, Debian, RedHat, The Sleuth Kit
 
 - https://habr.com/ru/companies/antiplagiat/articles/top/
 - Отрасли: NLP, медиа
 - Компании: «Антиплагиат», Хабр
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: облачные провайдеры
+- Кандидаты компаний: AWS, MCS, nikonsmallworld.com, YC, Антиплагиат, ИТ-Град
 
 - https://habr.com/ru/companies/arcadia/articles/top/
 - Отрасли: консалтинг, Рекрутинг и HR, хостинг, ETL
 - Компании: Arcadia, Хабр
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: CMS, DevOps, IPTV, IT‑консалтинг, QA, SmartTV, веб‑разработка, заказная разработка, мобильная разработка, музыкальный телеканал, телевидение
+- Кандидаты компаний: Amazon, Apple, Drupal, Gitlab, Outlook, WordPress
 
 - https://habr.com/ru/companies/astralinux/articles/top/
 - Отрасли: Оптимизация, PKI, Поисковые технологии
 - Компании: Группа Астра, Хабр
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: службы каталогов, управление базами данных
+- Кандидаты компаний: ALD Pro, Ansible, Astra Linux, Astra Linux Special Edition, AWX, BloodHound, BloodHound Legacy, FreeIPA, GitFlic, IPAHound, K2Tex, Locust, MS Active Directory, MS Office, Postgres, PT SWARM, Reuters, SANE, Windows, Астра, ГК «Астра», ФСТЭК России
 
 - https://habr.com/ru/companies/auriga/articles/top/
 - Отрасли: Рекрутинг и HR
 - Компании: Аурига, Хабр, Далее, СИГМА, ПИК
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: автопилотируемые устройства, машинное обучение, медицинские устройства, мобильные устройства, навигационные системы, серверные решения
+- Кандидаты компаний: .Net Core, Atmega, Attiny, CMSIS, Eclipse, GitHub, Habr, HackRF, HAL, libopencm3, MS-DOS, PostgreSQL, Simics, SPL, STM32, STMCube, Windows, Xeon, Колибри ОС
 
 - https://habr.com/ru/companies/avito/articles/321796/
 - Отрасли: Data science, Мобильные технологии, Оптимизация
 - Компании: Хабр
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Контекстная реклама, Машинное обучение, Модерация контента, Обработка данных, Онлайн‑классифайды, Поиск
+- Кандидаты компаний: Avito, AvitoTech, BackendConf, boosters, DevConf, kaggle, machinelearning.ru, MongoDB, PostgreSQL, PostgreSQLRussia, Python Data Science, Redis, Sphinx, SphinxSearch, Tarantool, Vertica, Yandex
 
 - https://habr.com/ru/companies/avito/articles/322384/
 - Отрасли: не найдено
 - Компании: Хабр
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Avito, AvitoTech Go, Badoo, Dropbox, FB, GitHub, GolangShow, meetup.com, Telegram, YouTube, Zenhotels
 
 - https://habr.com/ru/companies/avito/articles/322510/
 - Отрасли: Big Data, ETL
 - Компании: Хабр, Авито
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Avito, AvitoTech, Teachable, Vertica
 
 - https://habr.com/ru/companies/avito/articles/323514/
 - Отрасли: медиа
 - Компании: Хабр
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: BaaS, Разработка мобильных приложений
+- Кандидаты компаний: Apple, Avito, AvitoTech, CocoaHeads, FB, GitHub, Parse, Telegram, Twitter
 
 - https://habr.com/ru/companies/avito/articles/323900/
 - Отрасли: не найдено
 - Компании: Хабр
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Визуализация данных, Высоконагруженные системы, Программирование
+- Кандидаты компаний: AvitoTech, Brubeck, GitHub, Grafana, Graphite, PGXN
 
 - https://habr.com/ru/companies/avito/articles/324508/
 - Отрасли: Data science, Machine Learning
 - Компании: Хабр, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: контекстная реклама
+- Кандидаты компаний: Avito, AvitoTech, GitHub, Telegram, ВКонтакте
 
 - https://habr.com/ru/companies/avito/articles/325026/
 - Отрасли: недвижимости
 - Компании: Хабр
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-инфраструктура, Виртуализация
+- Кандидаты компаний: Avito, AvitoTech, Facebook, GitHub, Telegram
 
 - https://habr.com/ru/companies/avito/articles/325632/
 - Отрасли: не найдено
 - Компании: Хабр, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Satellite Imagery
+- Кандидаты компаний: Avito, AvitoTech, Dstl, Kaggle
 
 - https://habr.com/ru/companies/avito/articles/326524/
 - Отрасли: Веб-разработка
 - Компании: Хабр, Далее
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Avito, AvitoTech, Badoo, GitHub, HeadHunter, IPONWEB, LiveJournal, Mail.ru, Moscow.js, npm, Timepad, tutu.ru, W3C, Zeeng
 
 - https://habr.com/ru/companies/avito/articles/326774/
 - Отрасли: медиа
 - Компании: Хабр, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: мобильных приложений
+- Кандидаты компаний: Apple, Avito, AvitoTech, Github
 
 - https://habr.com/ru/companies/avito/articles/327486/
 - Отрасли: медиа
 - Компании: Хабр, Далее
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: AvitoTech
 
 - https://habr.com/ru/companies/avito/articles/328720/
 - Отрасли: IoT
 - Компании: Хабр, Samsung
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Виртуальная реальность (VR), Домашняя Wi‑Fi сеть, Дополненная реальность (AR), Интернет вещей (IoT), Компьютерное зрение, Мобильные устройства, Операционные системы, Смарт‑колонки, Смарт‑часы
+- Кандидаты компаний: Allo, Amazon, Android, Android Auto, Android Oreo, Android Studio, Android Wear, Asus, Avito, AvitoTech, Daydream, Duo, Echo, Fuchsia, Google, Google Assistant, Google ATAP, Google Home, Google I/O, Google OnHub, Google Spotlight Stories, HTC Vive, Intel, Lenovo, Magenta, Nexus, Oculus Rift, Pixel, Project Ara, Project Tango, Reddit, Samsung Gear, Twitter
 
 - https://habr.com/ru/companies/avito/articles/328778/
 - Отрасли: Оптимизация
