@@ -1805,8 +1805,8 @@
 - https://habr.com/ru/companies/aktiv-company/articles/247911/
 - Отрасли: Информационная безопасность, PKI
 - Компании: Хабр, «Актив», Госуслуги, ВТБ
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Госуслуги, Дистанционное банковское обслуживание, Криптография, Системы корпоративного электронного документооборота, Электронные торги
+- Кандидаты компаний: Google Chrome, IE, MS Crypto API, nginx, NSS, openssl, PHP-PKI-Core, pkcs11_gost, PKI-Core, stunnel, swig, Актив, Рутокен ЭЦП, Рутокен ЭЦП Flash
 
 - https://habr.com/ru/companies/aktiv-company/articles/249723/
 - Отрасли: Информационная безопасность, PKI
@@ -1829,8 +1829,8 @@
 - https://habr.com/ru/companies/aktiv-company/articles/323170/
 - Отрасли: Информационная безопасность, информационной безопасности
 - Компании: Хабр, «Актив», Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Криптография
+- Кандидаты компаний: Aktiv Rutoken ECP, Alt Linux, CRYPTO-PRO LLC, Rosa Crypto Tool, ROSA Fresh GNOME R8, ROSA Linux, Trusted eSign, Ubuntu Linux, Актив, КриптоПро, КриптоПро CSP, Рутокен ЭЦП 2.0
 
 - https://habr.com/ru/companies/aktiv-company/articles/327232/
 - Отрасли: Информационная безопасность, финансового, PKI
@@ -1866,7 +1866,7 @@
 - Отрасли: Консалтинг и поддержка, Enterprise, предлагает, PKI, Программное обеспечение, SaaS
 - Компании: Хабр, «Актив», hh.ru, билайн, предлагает, Далее
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: apple, Check Point, Cisco, J'son & Partners Consulting, Juniper, Microsoft, Актив, Гартнер, Рутокен VPN, Рутокен ЭЦП
 
 - https://habr.com/ru/companies/aktiv-company/articles/332494/
 - Отрасли: Информационная безопасность, Оптимизация
@@ -1878,7 +1878,7 @@
 - Отрасли: не найдено
 - Компании: «Актив», Хабр
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: BookIT Room Scheduling Solution, CUE touchONE, Evoko Room Manager, Kiosk Mode Browser, Lenovo, MS Exchange Server, MS SQL, Outlook, SCHEDULLA, Windows Server, Актив
 
 - https://habr.com/ru/companies/aktiv-company/articles/335532/
 - Отрасли: Информационная безопасность, информационной безопасности, предлагает, PKI
@@ -1914,7 +1914,7 @@
 - Отрасли: Информационная безопасность, бухгалтерия, PKI
 - Компании: Хабр, «Актив», Яндекс
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Chrome, Deloitte, Firefox, Google, Safari, Windows, Актив, Рутокен
 
 - https://habr.com/ru/companies/aktiv-company/articles/436926/
 - Отрасли: Информационная безопасность, Программное обеспечение, информационной безопасности, бухгалтерия, Аппаратное обеспечение
@@ -1932,7 +1932,7 @@
 - Отрасли: предлагает
 - Компании: Хабр, «Актив», предлагает, Далее
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Borland C++, C/C++ for Visual Studio Code, ccls, Chromium, Clang, clang-format, CMake, CMake Tools, cquery, Docker, Easy C++ projects, Eclipse, GCC, GDB, GitHub, GitLens, LLDB, Microsoft, MinGW/Cygwin, MSVC, PDB, ripgrep, Sublime Text, Todo Tree, Vim, Visual Studio, Visual Studio Code, Актив
 
 - https://habr.com/ru/companies/aktiv-company/articles/449442/
 - Отрасли: Информационная безопасность, e-commerce, криптографии
@@ -1943,14 +1943,14 @@
 - https://habr.com/ru/companies/aktiv-company/articles/452146/
 - Отрасли: Информационная безопасность, e-commerce, PKI, Рекрутинг и HR
 - Компании: Хабр, «Актив», Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Исследования и прогнозы в IT, Платформы управления идентификацией предприятия, Управление e-commerce, Управление продуктом
+- Кандидаты компаний: AD, Feitian, FIDO, Google, Javelin Strategy & Research, Linux, Mac OS X, Microsoft Certification Server, One Span, Windows, Yubico, Актив, Рутокен Плагин, Рутокен ЭЦП PKI
 
 - https://habr.com/ru/companies/aktiv-company/articles/452924/
 - Отрасли: Информационная безопасность, облачные сервисы
 - Компании: Хабр, «Актив»
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Исследования и прогнозы в IT, Криптография
+- Кандидаты компаний: Advanced Protection, Chrome, Chrome Password Checkup, Google, Linux, MacOS, New York University, University of California, Windows, Актив, Корпорация Google
 
 - https://habr.com/ru/companies/aktiv-company/articles/457886/
 - Отрасли: Информационная безопасность, PKI, предлагает
