@@ -13805,152 +13805,152 @@
 - https://habr.com/ru/companies/getmatch/articles/545754/
 - Отрасли: образование, медицина, торговые
 - Компании: Хабр, getmatch, Лаборатория Касперского, Samsung, Самолет, Кошелёк
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: HFT, IT-индустрии, банков, робототехники, транспорт
+- Кандидаты компаний: Acronis, Autodesk, Bosch, ByteDance, GoJek, Grab, Lazada, LeetCode, LinkedIn, Motional, Tencent, Ubisoft
 
 - https://habr.com/ru/companies/getmatch/articles/547028/
 - Отрасли: образование, Информационная безопасность, недвижимости, недвижимость
 - Компании: Хабр, getmatch, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-индустрии, Дайвинг, Мотивационные программы
+- Кандидаты компаний: custojusto.pt, LoyaltyGems, olx.pt, Softline, Sunrise, ВТБ24, РБК
 
 - https://habr.com/ru/companies/getmatch/articles/548060/
 - Отрасли: образование, недвижимость
 - Компании: Хабр, getmatch, 1С, Арендовать
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-индустрии, автоматизация финансов, бухгалтерское программное обеспечение, сельское хозяйство
+- Кандидаты компаний: Google, Райс
 
 - https://habr.com/ru/companies/getmatch/articles/549134/
 - Отрасли: e-commerce, Data science, аналитики, ML, Рекрутинг и HR
 - Компании: Хабр, getmatch, Авито
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT, банковский сектор, видеохостинг, консюмерские приложения, платёжные системы, продовольственный сектор
+- Кандидаты компаний: AliBaba, g_jobbot, Nintendo, PayPay, PayTM, Quora, Rakuten, SoftBank, Sumitomo Group, Yahoo, Yahoo Shopping, Yahoo! Japan
 
 - https://habr.com/ru/companies/getmatch/articles/549752/
 - Отрасли: недвижимости, недвижимость, медицина, образование
 - Компании: Хабр, getmatch
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT, туризм, урбанизм, экология
+- Кандидаты компаний: Airbnb, Aviasales, Booking, Dotproperty, Facebook, g_jobbot, Hipflat, Seopult, Telegram
 
 - https://habr.com/ru/companies/getmatch/articles/550588/
 - Отрасли: ERP, CRM, Программное обеспечение, недвижимости, образование
 - Компании: Хабр, getmatch, 1С, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT
+- Кандидаты компаний: AirBnB, Airbnb, Amazon, Apple, Buymie, Byumie, Facebook, Google, TileStyle, Скайпу
 
 - https://habr.com/ru/companies/getmatch/articles/551066/
 - Отрасли: медиа, недвижимости, медицина, образование
 - Компании: Хабр, getmatch
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT‑индустрия, продукты питания, стартапы, телевидение, туризм, фриланс
+- Кандидаты компаний: AT&T, g_jobbot, Microsoft, Telegram
 
 - https://habr.com/ru/companies/getmatch/articles/553078/
 - Отрасли: медицина, недвижимости, недвижимость
 - Компании: Хабр, getmatch, Арендовать
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT
+- Кандидаты компаний: g_jobbot, Telegram
 
 - https://habr.com/ru/companies/getmatch/articles/557120/
 - Отрасли: Рекрутинг и HR, недвижимость
 - Компании: Хабр, getmatch, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: e‑commerce, IT-индустрия, биржевой брокер, высшее образование, пивоварение, пивоваренная отрасль, продукты питания, разработка программного обеспечения, ресторанный бизнес, туризм, финансовый рынок
+- Кандидаты компаний: Bernard, Glogster, Habr, Instagram, Moscow Exchange, Pilsner Urquell, SAP, Seznam, Shopify, Shoptet, Tilda, Yandex, Велькопоповицкий Козел, Карлов университет, ММВБ, НГТУ, Новосибирский государственный университет, Резаное, ФПМИ Новосибирского государственного университета
 
 - https://habr.com/ru/companies/getmatch/articles/557992/
 - Отрасли: не найдено
 - Компании: Хабр, getmatch
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-индустрия, геймдев
+- Кандидаты компаний: Alawar, g_jobbot, LinkedIn, Redhill Games, Slack, Telegram, Unreal
 
 - https://habr.com/ru/companies/getmatch/articles/558390/
 - Отрасли: медиа, медицина
 - Компании: Хабр, getmatch
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT, IT-эмиграция, банки, развлечения, реклама, страховые компании, Урбанизм, Экология
+- Кандидаты компаний: Telegram, YouTube
 
 - https://habr.com/ru/companies/getmatch/articles/559134/
 - Отрасли: медицина
 - Компании: Хабр, getmatch, Яндекс
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT‑индустрия, интернет‑торговля, розничная торговля, туризм
+- Кандидаты компаний: 7‑eleven, Alibaba, Zoom, Авиасейлс, Озон, Яндекс.Маркет
 
 - https://habr.com/ru/companies/getmatch/articles/561708/
 - Отрасли: образование, здравоохранение
 - Компании: Хабр, getmatch
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-индустрия
+- Кандидаты компаний: GitHub, Google, Jira, Linkedin, Microsoft, Oracle, Praca.pl, Slack
 
 - https://habr.com/ru/companies/getmatch/articles/562368/
 - Отрасли: медицина
 - Компании: Хабр, getmatch, Пятёрочки
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-индустрия, телеком-индустрия
+- Кандидаты компаний: Biedronka, Booking.com, g_jobbot, Huawei, NFZ, Nokia, Technicolor
 
 - https://habr.com/ru/companies/getmatch/articles/565638/
 - Отрасли: образование, Big Data, медицина
 - Компании: Хабр, getmatch, GlowByte, Сбер, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT, банковская отрасль, интерактивная реклама, развлечения, урбанизм
+- Кандидаты компаний: Israel Experience, LinkedIn, SAS, ВМК МГУ, ВШЭ, Маса, МВД, Министерство алии и интеграции, Таглит, Ульпан
 
 - https://habr.com/ru/companies/getmatch/articles/567544/
 - Отрасли: образование
 - Компании: Хабр, getmatch, MARS
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-индустрия, геймдев
+- Кандидаты компаний: Airbnb, ANAF, BMW, BMW X5, Bombastic Brothers, Fairy Farm, Game Garden, Gamedev Jobs, Gamedev Studios, Island Village, LinkedIn, Mail.ru, Moonvale, Nutaku publishing, Towards Mars, Волшебная ферма, МВД, Челси
 
 - https://habr.com/ru/companies/getmatch/articles/570480/
 - Отрасли: медицина, недвижимость, Data science
 - Компании: Хабр, getmatch
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-индустрии, социальное страхование, спорт, туризм
+- Кандидаты компаний: Amazon, Bumble, Glassdoor, Glovo, Kiwi, N26, Skyscanner, Декатлоне
 
 - https://habr.com/ru/companies/getmatch/articles/572570/
 - Отрасли: медицина, Data science
 - Компании: Хабр, getmatch
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT
+- Кандидаты компаний: Booking.com, Condé Nast, Monzo
 
 - https://habr.com/ru/companies/getmatch/articles/576294/
 - Отрасли: финтех, медицина
 - Компании: Хабр, getmatch, серверы
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-индустрии, IT-инфраструктура, дизайн микроконтроллеров, дизайн чипов, жилье, производство микроконтроллеров, транспорт
+- Кандидаты компаний: Chrome OS, Facebook, Google, MediaTek, Tinder, TSMC
 
 - https://habr.com/ru/companies/getmatch/articles/577338/
 - Отрасли: Дизайн и юзабилити
 - Компании: Хабр, getmatch, ОК
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT, IT-эмиграция, Здоровье, Урбанизм
+- Кандидаты компаний: airbnb, Border force, Karma
 
 - https://habr.com/ru/companies/getmatch/articles/578610/
 - Отрасли: финтех, образование
 - Компании: Хабр, getmatch
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT, финансовый сектор
+- Кандидаты компаний: Alibaba, Amazon, Angellist, Apple, Facebook, Google, jobsDB, LinkedIn, Microsoft, Scentbird
 
 - https://habr.com/ru/companies/getmatch/articles/580428/
 - Отрасли: CRM, ERP
 - Компании: Хабр, getmatch, Яндекс
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-безопасности, IT-индустрии, облачные решения, строительство, урбанизм
+- Кандидаты компаний: Jobs.cz, MPSV, Qt, Чешское консульство
 
 - https://habr.com/ru/companies/getmatch/articles/595605/
 - Отрасли: недвижимость
 - Компании: Хабр, getmatch, ОК, Цифра
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-индустрия
+- Кандидаты компаний: busticket4.me, Messenger, Viber, WhatsApp
 
 - https://habr.com/ru/companies/getmatch/articles/596683/
 - Отрасли: недвижимость, медицина
 - Компании: Хабр, getmatch, Арендовать, Яндекс
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT, такси
+- Кандидаты компаний: Amazon, Bolt, HeadHunter, Linkedln, ss.lv, Twitter, Uber
 
 - https://habr.com/ru/companies/getmatch/articles/597073/
 - Отрасли: финтех, образование
 - Компании: Хабр, getmatch
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT, дизайн чипов, крипта, производство микроконтроллеров, стартапы
+- Кандидаты компаний: MediaTek, TSMC
 
 - https://habr.com/ru/companies/getmatch/articles/645139/
 - Отрасли: не найдено
