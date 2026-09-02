@@ -7055,152 +7055,152 @@
 - https://habr.com/ru/companies/cleverpumpkin/articles/675372/
 - Отрасли: не найдено
 - Компании: Хабр, CleverPumpkin
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: мобильные приложения
+- Кандидаты компаний: Firebase Performance, YouTrack
 
 - https://habr.com/ru/companies/cleverpumpkin/articles/681804/
 - Отрасли: не найдено
 - Компании: Хабр, CleverPumpkin, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Android, Разработка мобильных приложений
+- Кандидаты компаний: Firebase, Google
 
 - https://habr.com/ru/companies/cleverpumpkin/articles/685374/
 - Отрасли: предлагает
 - Компании: Хабр, CleverPumpkin, предлагает, VStack
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Apple
 
 - https://habr.com/ru/companies/cleverpumpkin/articles/689022/
 - Отрасли: медиа
 - Компании: Хабр, CleverPumpkin
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: мобильные приложения, мультимедиа
+- Кандидаты компаний: Android Auto, AndroidX Media, AndroidX media, AndroidX media2, ExoPlayer, Google, Jetpack Media3, Kassir.ru
 
 - https://habr.com/ru/companies/cleverpumpkin/articles/694092/
 - Отрасли: Дизайн и юзабилити
 - Компании: Хабр, CleverPumpkin
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: мобильные приложения, мобильные устройства, операционная система, планшеты, смартфоны
+- Кандидаты компаний: Chrome, Google, Google Play Store, Google-карты, macOS, Material Design, material.io, SAU app, Windows, YouTube
 
 - https://habr.com/ru/companies/cleverpumpkin/articles/701700/
 - Отрасли: Мобильные технологии
 - Компании: Хабр, CleverPumpkin, Samsung, Далее, ОК
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Разработка мобильных приложений, Тестирование IT-систем
+- Кандидаты компаний: Android, Charles, Charles Proxy, iOS, iPhone, MacBook, MacOS, Safari, Xiaomi
 
 - https://habr.com/ru/companies/cleverpumpkin/articles/703188/
 - Отрасли: не найдено
 - Компании: Хабр, CleverPumpkin, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Разработка мобильных приложений, Тестирование IT-систем
+- Кандидаты компаний: Charles
 
 - https://habr.com/ru/companies/cleverpumpkin/articles/706898/
 - Отрасли: не найдено
 - Компании: Хабр, CleverPumpkin, VStack
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Apple
 
 - https://habr.com/ru/companies/cleverpumpkin/articles/729548/
 - Отрасли: медиа, Программное обеспечение, Аппаратное обеспечение
 - Компании: Хабр, CleverPumpkin, Звук, Далее, RET
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Видеоконференцсвязь, цифровое телевидение
+- Кандидаты компаний: Dater, FFMpeg, FFMpegKit, VLC
 
 - https://habr.com/ru/companies/cleverpumpkin/articles/733038/
 - Отрасли: предлагает
 - Компании: Хабр, CleverPumpkin, предлагает, Далее, Базис
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Apple, iCloud, Kodeco, objc.io
 
 - https://habr.com/ru/companies/cleverpumpkin/articles/738584/
 - Отрасли: e-commerce, финтех, медиа
 - Компании: Хабр, CleverPumpkin
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: дейтинговый сервис, интернет-магазин, мессенджеры, соцсети
+- Кандидаты компаний: 42Matters, Apple, Apple App Store
 
 - https://habr.com/ru/companies/cleverpumpkin/articles/740480/
 - Отрасли: не найдено
 - Компании: Хабр, CleverPumpkin
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: communication, gaming, health
+- Кандидаты компаний: AirDrop, AirPods Pro, Apple, Apple Health, Apple UltraFusion, AppleTV, BLE, CallKit, Continuity, Control Center, Death Stranding: Director's Cut, FaceTime, HealthKit, iOS, iPad, iPadOS, iPhone, Journal, Live Voicemail, M2, M2 Max, M2 Ultra, Mac, Mac Studio, MacBook Air 15, macOS 14, MacPro, Memories, Messages, Phone, Presenter Overlay, Sonoma, Telegram, tvOS, Vision Pro, watchOS, Webex, WhatsApp, Zoom
 
 - https://habr.com/ru/companies/cleverpumpkin/articles/743952/
 - Отрасли: не найдено
 - Компании: Хабр, CleverPumpkin, серверы
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: App Store, AppGallery, Google Play, RuStore, мобильные приложения
+- Кандидаты компаний: App Store, AppGallery, Apple, Google, Google Play, Kassir.ru, Moneon, RuStore, Sensor Tower, Sports.ru, Yandex
 
 - https://habr.com/ru/companies/cleverpumpkin/articles/744414/
 - Отрасли: не найдено
 - Компании: Хабр, CleverPumpkin, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: iOS development
+- Кандидаты компаний: Excel, FireStore, Photoshop, XCode
 
 - https://habr.com/ru/companies/cleverpumpkin/articles/746050/
 - Отрасли: не найдено
 - Компании: Хабр, CleverPumpkin, ОК, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: iOS, Программирование, Разработка мобильных приложений
+- Кандидаты компаний: Apple, POEditor, Xcode
 
 - https://habr.com/ru/companies/click/articles/top/
 - Отрасли: Оптимизация, маркетинге, e-commerce, аналитики
 - Компании: Click.ru, Хабр, Яндекс
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: интернет‑магазины, интернет‑маркетинг, мессенджеры, фотостоки
+- Кандидаты компаний: Facebook, Google, Grafana, McKinsey&Company, Promopult, Telegram, Wordpress, WP, Zed SEO, Яндекс.Вордстат
 
 - https://habr.com/ru/companies/cloud_mts/articles/top/
 - Отрасли: не найдено
 - Компании: не найдено
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Медийная реклама, Образовательные программы, Стартапам, Техническая поддержка
+- Кандидаты компаний: Habr
 
 - https://habr.com/ru/companies/cloud_ru/articles/top/
 - Отрасли: провайдер, облачных сервисов, AI-технологий, облачные сервисы, медиа, DIY, торговые, ML
 - Компании: Cloud.ru, провайдер, Хабр, Лемана Тех, Яндекс, Звук
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: гибридных облачных решений, домашнее облако, квантовые вычисления, облачных IT-услуг
+- Кандидаты компаний: GoCloud, Google Drive, Immich, Kubernetes, Nextcloud, Pulumi, Raspberry Pi, Solaris 2.6, Sun SPARCstation 5, Яндекс.Диск
 
 - https://habr.com/ru/companies/comptek/articles/353870/
 - Отрасли: телекома, консалтинг, аналитики, облачных сервисов, Мобильные технологии, IoT, Консалтинг и поддержка, недвижимости, операторы связи, телекоммуникаций, Big Data, предлагает, финансового сектора, банках, финансы
 - Компании: Хабр, CompTek, ГК ЛАНИТ, IDC, Gartner, Ростелеком, Мегафон, РТК-ЦОД, VEON, МТС, предлагает, билайн
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT, OTT (Over The Top), видеоконтент, Интернет вещей, контентные услуги, корпоративные облачные сервисы, мобильная связь, сотовая связь, теле­коммуникационная отрасль, фиксированная телефония, цифровые сервисы
+- Кандидаты компаний: Cisco, EY, GSMA, Informa, OVUM, YouTube, ТМТ-Консалтинг
 
 - https://habr.com/ru/companies/contentai/articles/100278/
 - Отрасли: Программное обеспечение
 - Компании: Хабр, Content AI
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: патентное право, юридические услуги
+- Кандидаты компаний: ABBYY
 
 - https://habr.com/ru/companies/contentai/articles/100791/
 - Отрасли: не найдено
 - Компании: Хабр, Content AI
-- Кандидаты отраслей: не найдено
+- Кандидаты отраслей: IT-бизнес, патентное право, юридические услуги
 - Кандидаты компаний: не найдено
 
 - https://habr.com/ru/companies/contentai/articles/101560/
 - Отрасли: не найдено
 - Компании: Хабр, Content AI
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: ABBYY, Microsoft
 
 - https://habr.com/ru/companies/contentai/articles/102518/
 - Отрасли: медиа
 - Компании: Хабр, Content AI
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: ABBYY, ADmitMac, Apple, Diffiss, Mac OS X, MacBook Pro, Mail.app, Microsoft, Outlook, Samba, Snow Leopard
 
 - https://habr.com/ru/companies/contentai/articles/103447/
 - Отрасли: Оптимизация
 - Компании: Хабр, Content AI, AMD
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: ABBYY, ABBYY FineReader Engine, FineReader Engine, gcc, gcc 4.2.4, gcc 4.4.4, Intel, Intel C++ Compiler, Intel Core2 Duo, Linux, oprofiler, povray, Source Code Highlighter
 
 - https://habr.com/ru/companies/contentai/articles/104083/
 - Отрасли: не найдено
 - Компании: Хабр, Content AI
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Asian Language Pack, Google Pinyin, MiTAC, Sogou Pinyin, Windows, Ремингтон, Шуангэ
 
 - https://habr.com/ru/companies/contentai/articles/104378/
 - Отрасли: OCR
