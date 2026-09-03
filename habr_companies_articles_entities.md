@@ -22205,152 +22205,152 @@
 - https://habr.com/ru/companies/kaspersky/articles/321164/
 - Отрасли: Информационная безопасность
 - Компании: Хабр, «Лаборатория Касперского», Хабр Карьера
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Кибербезопасность
+- Кандидаты компаний: Chrome, Facebook, Firefox, National Health Service, Netgear, The Register, Trustwave, YubiKey
 
 - https://habr.com/ru/companies/kaspersky/articles/321526/
 - Отрасли: Информационная безопасность, облачные сервисы
 - Компании: Хабр, «Лаборатория Касперского», ОК, Хабр Карьера
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: производство, системы водоснабжения, энергетика
+- Кандидаты компаний: ArsTechnica, Facebook, G Suite, GitHub, Google, Google Apps, Honeywell, Microsoft, Microsoft Edge, SANS Institute, Windows, Windows 10, Windows 2012, Windows 2016
 
 - https://habr.com/ru/companies/kaspersky/articles/321926/
 - Отрасли: Информационная безопасность, IoT, информационной безопасности, криптографии
 - Компании: Хабр, «Лаборатория Касперского», Цифра, Хабр Карьера
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: интернет вещей, криптография
+- Кандидаты компаний: Android, Google, Google Play, Microsoft, RSA, Windows
 
 - https://habr.com/ru/companies/kaspersky/articles/322536/
 - Отрасли: Информационная безопасность, криптографии, СМИ, IoT
 - Компании: Хабр, «Лаборатория Касперского», серверы, Хабр Карьера
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IoT-устройства
+- Кандидаты компаний: Amazon, Chrome, CWI Institute, GitHub, Google, MS SQL, TP-Link
 
 - https://habr.com/ru/companies/kaspersky/articles/322914/
 - Отрасли: Информационная безопасность, IoT, аналитики, СМИ
 - Компании: Хабр, «Лаборатория Касперского», Далее, Хабр Карьера
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: банкинг, детские игрушки, доставка контента, защита от DDoS-атак, поисковые системы
+- Кандидаты компаний: Cloudflare, Cloudpets, Google, Spiral Toys, Yahoo!
 
 - https://habr.com/ru/companies/kaspersky/articles/323116/
 - Отрасли: Информационная безопасность, аналитики
 - Компании: Хабр, «Лаборатория Касперского», Хабр Карьера
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Реверс-инжиниринг
+- Кандидаты компаний: CoLaboratory, Hex-Rays, IDA Pro, Kaspersky Lab
 
 - https://habr.com/ru/companies/kaspersky/articles/323578/
 - Отрасли: Информационная безопасность, аналитики
 - Компании: Хабр, «Лаборатория Касперского», Хабр Карьера
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: нефтяные компании
+- Кандидаты компаний: Kaspersky Lab, RasGas, Saudi Aramco
 
 - https://habr.com/ru/companies/kaspersky/articles/323652/
 - Отрасли: Информационная безопасность, предлагает
 - Компании: Хабр, «Лаборатория Касперского», Далее, предлагает, Хабр Карьера
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Eeast-Ee Security, Google, Google Speech Recognition, McAfee, Microsoft, Microsoft Word, NextGen Gallery, PowerShell, ReCaptcha, Talos Intelligence, Wordpress
 
 - https://habr.com/ru/companies/kaspersky/articles/324234/
 - Отрасли: Информационная безопасность, информационной безопасности, кибербезопасности
 - Компании: Хабр, «Лаборатория Касперского», Samsung, Хабр Карьера
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: кибербезопасность, криптография, мессенджеры, т telecommunications, технологии
+- Кандидаты компаний: FBI, Google, Google Chrome, Google Nexus 5, Google Nexus 5X, Lenovo, Samsung Galaxy S7, Signal, Telegram, Xiaomi
 
 - https://habr.com/ru/companies/kaspersky/articles/324820/
 - Отрасли: Информационная безопасность
 - Компании: Хабр, «Лаборатория Касперского», Хабр Карьера
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Adobe Flash, Adobe Reader, Kaspersky_Lab, Microsoft, Microsoft Edge, Qihoo’s 360 Security, Threatpost, US-CERT, VMware, Windows
 
 - https://habr.com/ru/companies/kaspersky/articles/325190/
 - Отрасли: не найдено
 - Компании: Хабр, «Лаборатория Касперского», Хабр Карьера
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Kaspersky Lab, Kaspersky_Lab, RuHaskell, Telegram, TouchOSC, ВКонтакте
 
 - https://habr.com/ru/companies/kaspersky/articles/325380/
 - Отрасли: Информационная безопасность
 - Компании: Хабр, «Лаборатория Касперского», Хабр Карьера
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: разведслужба
+- Кандидаты компаний: Apple, Google, iPhone, iTunes, SAP, SAP GUI, WikiLeaks, Университета Беркли
 
 - https://habr.com/ru/companies/kaspersky/articles/325972/
 - Отрасли: Информационная безопасность, аналитики, банках, информационной безопасности
 - Компании: Хабр, «Лаборатория Касперского», Далее, RDP, Звук, Хабр Карьера
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: интернета вещей
+- Кандидаты компаний: ATMitch, Exchange, Kaspersky_Lab, Let’s Encrypt, Metasploit, Meterpeter, Mimikatz, Mirai, RedX-796
 
 - https://habr.com/ru/companies/kaspersky/articles/326366/
 - Отрасли: Информационная безопасность, Игры и развлечения, медиа, аналитики, банках, финансового
 - Компании: Хабр, «Лаборатория Касперского», RDP, Далее, Лаборатория Касперского, Хабр Карьера
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: банки, казино, криптовалютные сервисы, межбанковские переводы, строительные материалы, финансовый софт
+- Кандидаты компаний: Adobe, Adobe Flash, Bluenoroff, Enigma Protector, Internet Explorer, MS Windows, Novetta, Sony Entertainment, SWIFT
 
 - https://habr.com/ru/companies/kaspersky/articles/326554/
 - Отрасли: Информационная безопасность, информационной безопасности
 - Компании: Хабр, «Лаборатория Касперского», Хабр Карьера
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-аутсорсинг
+- Кандидаты компаний: Android, Comsecuris, HiSilicon Balong, HiSilicon Technologies, Honor, Huawei, Huawei H60 Linux, Kirin, Microsoft, Microsoft Office, Microsoft Office 2010, Microsoft Office 2016, Microsoft Word, OpenLTE, Rand Corporation, Swisscom AG, VirusTotal, VxWorks
 
 - https://habr.com/ru/companies/kaspersky/articles/327124/
 - Отрасли: Информационная безопасность, торговли, провайдер, IoT
 - Компании: Хабр, «Лаборатория Касперского», провайдер, Хабр Карьера
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: интернет-магазинах, межбанковские денежные переводы
+- Кандидаты компаний: DefenseCode, EastNets Service Bureau, Equation, GReAT, Huawei, Lamoda, Lazarus, Magento, Philips, Shadow Brokers, Threatpost, Vimeo, Wikileaks, Wordpress, АНБ, Ашан
 
 - https://habr.com/ru/companies/kaspersky/articles/328100/
 - Отрасли: Информационная безопасность
 - Компании: Хабр, «Лаборатория Касперского», ОК, Самолет, Хабр Карьера
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Apple, AppStore, Check Point, Intel, Intel Core, Intel Management Engine, OS X, SemiAccurate, Threatpost, Verizon Enterpise
 
 - https://habr.com/ru/companies/kaspersky/articles/328500/
 - Отрасли: не найдено
 - Компании: Хабр, «Лаборатория Касперского», Хабр Карьера
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Криптография
+- Кандидаты компаний: MaidSafe, RustCrypto, Telegram, ВКонтакте, Сколтех
 
 - https://habr.com/ru/companies/kaspersky/articles/328540/
 - Отрасли: Информационная безопасность, хостинг
 - Компании: Хабр, «Лаборатория Касперского», Хабр Карьера
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Exchange, Gmail, Google, Google Docs, Google OAUTH, Google Project Zero, HandBrake, IIS, Microsoft, Microsoft Malware Protection Engine, OSX/Dok, Proton, VFSI, Windows 10, Windows 8, Windows 8.1, Windows Defender, Windows Server 2016
 
 - https://habr.com/ru/companies/kaspersky/articles/329098/
 - Отрасли: Информационная безопасность, информационной безопасности, Мобильные технологии
 - Компании: Хабр, «Лаборатория Касперского», Хабр Карьера
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Chrome, Conexant, DefenseCode, Google Chrome, HP, HP Elite x2, HP EliteBook, HP EliteBook Folio, HP ProBook, HP ZBook, ModZero, Office 365, Office Online, OneDrive, Outlook.com, RiskSense, Skype, Xbox Live
 
 - https://habr.com/ru/companies/kaspersky/articles/329332/
 - Отрасли: Информационная безопасность, криптографии
 - Компании: Хабр, «Лаборатория Касперского», Далее, Хабр Карьера
-- Кандидаты отраслей: не найдено
+- Кандидаты отраслей: Биокриптография, Криптография
 - Кандидаты компаний: не найдено
 
 - https://habr.com/ru/companies/kaspersky/articles/329570/
 - Отрасли: Информационная безопасность, IoT, Программное обеспечение
 - Компании: Хабр, «Лаборатория Касперского», Хабр Карьера
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: медицинская техника, медицинское оборудование
+- Кандидаты компаний: Bayer, Check Point Software, Heimdal Security, Kaspersky_Lab, Kodi, Norton Commander, Popcorn Time, QuarksLab, ShadowBrokers, Siemens, Stremio, VLC, Windows XP
 
 - https://habr.com/ru/companies/kaspersky/articles/330626/
 - Отрасли: Информационная безопасность, информационной безопасности
 - Компании: Хабр, «Лаборатория Касперского», Хабр Карьера
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: биг даты, Маркетинг
+- Кандидаты компаний: CheckPoint, DoublePulsar, EternalBlue, Find-1575, Fireball, Google, Metasploit, Pandemic, Rafotech, RiskSense, WannaCry, WikiLeaks, Windows 10, Windows 7, Windows Server 2003, Windows Server 2008 R2, Windows XP, Yahoo, АНБ, ЦРУ
 
 - https://habr.com/ru/companies/kaspersky/articles/331094/
 - Отрасли: Информационная безопасность
 - Компании: Хабр, «Лаборатория Касперского», Кошелёк, Хабр Карьера
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: рынок троянцев-вымогателей
+- Кандидаты компаний: Facebook, Fortinet, Microsoft, Yahoo
 
 - https://habr.com/ru/companies/kaspersky/articles/331524/
 - Отрасли: Информационная безопасность
 - Компании: Хабр, «Лаборатория Касперского», Кошелёк, Хабр Карьера
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: 3Com, Apache, Beijaflore, D-Link, Intel, Lazarus, Linksys, Metallica, Nokia, Panet Tec, Project Zero, Qualys, Rendition InfoSec, Ubuntu, Wikileaks, ЦРУ
 
 - https://habr.com/ru/companies/kaspersky/articles/332050/
 - Отрасли: Информационная безопасность
