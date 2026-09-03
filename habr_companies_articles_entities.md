@@ -16955,62 +16955,62 @@
 - https://habr.com/ru/companies/hh/articles/499770/
 - Отрасли: ML
 - Компании: Хабр, hh.ru
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT
+- Кандидаты компаний: codeforce, hackerrank, leetcode, Школа программистов hh.ru
 
 - https://habr.com/ru/companies/hh/articles/502802/
 - Отрасли: не найдено
 - Компании: Хабр, hh.ru, Цифра
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-индустрия, интернет, Информационные технологии, Программирование и разработка, телеком
+- Кандидаты компаний: Android, GitHub, Telegram
 
 - https://habr.com/ru/companies/hh/articles/507048/
 - Отрасли: не найдено
 - Компании: Хабр, hh.ru, Далее, Сравни, ОК
-- Кандидаты отраслей: не найдено
+- Кандидаты отраслей: Разработка мобильных приложений, Тестирование мобильных приложений
 - Кандидаты компаний: не найдено
 
 - https://habr.com/ru/companies/hh/articles/510104/
 - Отрасли: Рекрутинг и HR
 - Компании: Хабр, hh.ru, Яндекс, Далее, ОК
-- Кандидаты отраслей: не найдено
+- Кандидаты отраслей: IT-индустрия
 - Кандидаты компаний: не найдено
 
 - https://habr.com/ru/companies/hh/articles/511636/
 - Отрасли: не найдено
 - Компании: Хабр, hh.ru, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Разработка мобильных приложений
+- Кандидаты компаний: Apple, NeXT, Sourcery
 
 - https://habr.com/ru/companies/hh/articles/513940/
 - Отрасли: Оптимизация, Веб-разработка, Мобильные технологии, аналитики
 - Компании: Хабр, hh.ru, MARS
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: клиентская оптимизация
+- Кандидаты компаний: Amazon, Instagram, Walmart, youtube, РИТ++
 
 - https://habr.com/ru/companies/hh/articles/514810/
 - Отрасли: Big Data, аналитики, ML, Оптимизация
 - Компании: Хабр, hh.ru, Яндекс
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT
+- Кандидаты компаний: Apache Lucene, date-fns, Docker, Final-Form, GitHub, Google, Hibernate, Jersey, Kafka, Less, Material-UI-Kit, MSSQL Server, nuts-and-bolts (NaB), PostgreSQL, React Final Form, Redux, Яндекс.Танк
 
 - https://habr.com/ru/companies/hh/articles/515524/
 - Отрасли: аналитики
 - Компании: Хабр, hh.ru, ОК, Далее, 1С
-- Кандидаты отраслей: не найдено
+- Кандидаты отраслей: интернет, Информационные технологии, телеком
 - Кандидаты компаний: не найдено
 
 - https://habr.com/ru/companies/hh/articles/518332/
 - Отрасли: не найдено
 - Компании: Хабр, hh.ru
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: разработка мобильных приложений
+- Кандидаты компаний: Android Academy, Android Studio, Architecture Components, Google, Google Issue Tracker, Jetpack, Medium, NavigationAdvancedSample
 
 - https://habr.com/ru/companies/hh/articles/519162/
 - Отрасли: не найдено
 - Компании: Хабр, hh.ru
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: разработка мобильных приложений
+- Кандидаты компаний: Google
 
 - https://habr.com/ru/companies/hh/articles/519474/
 - Отрасли: Оптимизация, аналитики, Мобильные технологии
@@ -17021,86 +17021,86 @@
 - https://habr.com/ru/companies/hh/articles/520198/
 - Отрасли: предлагает
 - Компании: Хабр, hh.ru, ОК, предлагает
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Разработка мобильных приложений
+- Кандидаты компаний: Android, BottomNavigationView, CompanyDetailsFragment, CompanyFragment, NavController, Navigation Component, Safe Args, Splash, VacancyFragmentDirections, ViewPager
 
 - https://habr.com/ru/companies/hh/articles/523248/
 - Отрасли: Рекрутинг и HR, Мобильные технологии, предлагает, Enterprise, embedded
 - Компании: Хабр, hh.ru, предлагает, Яндекс, Сбербанк, Сбер, Тинькофф, ВТБ, IBS
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: интернет, информационные технологии, ИТ, рынок труда, телеком
+- Кандидаты компаний: 2GIS, Aliexpress, fb, habr.com, hh, JetBrains, Joom, Mail.ru, Revolut, Работа.ру
 
 - https://habr.com/ru/companies/hh/articles/524666/
 - Отрасли: не найдено
 - Компании: hh.ru, Хабр
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: CheckUp
 
 - https://habr.com/ru/companies/hh/articles/529948/
 - Отрасли: Мобильные технологии
 - Компании: Хабр, hh.ru, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Android, Разработка мобильных приложений
+- Кандидаты компаний: Android Studio, FreeMarker, Geminio, Google, HeadHunter, IDEA, Kotlin, Toothpick
 
 - https://habr.com/ru/companies/hh/articles/534692/
 - Отрасли: предлагает
 - Компании: Хабр, hh.ru, Далее, предлагает
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: мобильных приложений
+- Кандидаты компаний: Android, Badoo, hh, MVICore, Reaktive, RxJava
 
 - https://habr.com/ru/companies/hh/articles/535534/
 - Отрасли: Дизайн и юзабилити
 - Компании: Хабр, hh.ru
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Android Studio, Google, Material Design, Navigation Component
 
 - https://habr.com/ru/companies/hh/articles/536906/
 - Отрасли: не найдено
 - Компании: Хабр, hh.ru, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Высоконагруженные системы
+- Кандидаты компаний: Docker, okmeter, OpenJDK
 
 - https://habr.com/ru/companies/hh/articles/546856/
 - Отрасли: не найдено
 - Компании: Хабр, hh.ru, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: разработка мобильных приложений
+- Кандидаты компаний: MemoryDumper
 
 - https://habr.com/ru/companies/hh/articles/552288/
 - Отрасли: не найдено
 - Компании: hh.ru, Хабр, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: медийная реклама, программматик-реклама
+- Кандидаты компаний: DFP, GAM, Google, Google Ad Manager, Google Publisher Tags, GPT, okmeter
 
 - https://habr.com/ru/companies/hh/articles/556692/
 - Отрасли: HR-TECH, Рекрутинг и HR
 - Компании: hh.ru, Хабр
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT, recruitment
+- Кандидаты компаний: HeadHunter Group, jobs.tut.by, rabota.by, RAБOTA.TUT.BY, TUT.BY, Парк Высоких Технологий
 
 - https://habr.com/ru/companies/hh/articles/561606/
 - Отрасли: Рекрутинг и HR, CRM
 - Компании: Хабр, hh.ru, Цифра
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-индустрии, рекрутмента
+- Кандидаты компаний: Talantix
 
 - https://habr.com/ru/companies/hh/articles/564988/
 - Отрасли: предлагает
 - Компании: Хабр, hh.ru, Далее, предлагает
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Разработка мобильных приложений
+- Кандидаты компаний: Carthage, CocoaPods, SnapKit, Struct, Swift Package Manager, SwiftGen, Tuist, Xcake, Xcode, XcodeGen
 
 - https://habr.com/ru/companies/hh/articles/566450/
 - Отрасли: аналитики
 - Компании: Хабр, hh.ru
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Разработка мобильных приложений
+- Кандидаты компаний: Dagger 2, Toothpick
 
 - https://habr.com/ru/companies/hh/articles/567908/
 - Отрасли: не найдено
 - Компании: Хабр, hh.ru, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: мобильных приложений, поиск работы
+- Кандидаты компаний: Figma, Fugen, hh, Hilt, Jetpack Compose, material-components-android, navigation component, Sketch, Swift UI, Zeplin
 
 - https://habr.com/ru/companies/hh/articles/570110/
 - Отрасли: Оптимизация, телекома
