@@ -47255,152 +47255,152 @@
 - https://habr.com/ru/companies/sberdevices/articles/570286/
 - Отрасли: умный дом
 - Компании: Хабр, SberDevices
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Гаджеты, Голосовые интерфейсы, Производство и разработка электроники
+- Кандидаты компаний: Amlogic, Ampak, SberBox, SberBox Top, SberPortal
 
 - https://habr.com/ru/companies/sberdevices/articles/571362/
 - Отрасли: не найдено
 - Компании: Хабр, SberDevices, Звук
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Гаджеты, Периферия, Электроника для начинающих, Энергия и элементы питания
+- Кандидаты компаний: Apple, CY4500 EZ-PD, SberPortal, USB Power Delivery
 
 - https://habr.com/ru/companies/sberdevices/articles/573628/
 - Отрасли: умный дом, DIY, IoT, Аппаратное обеспечение
 - Компании: Хабр, SberDevices, Сбер
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Arduino, Blynk, SmartApp Code, Салют
 
 - https://habr.com/ru/companies/sberdevices/articles/574250/
 - Отрасли: не найдено
 - Компании: не найдено
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: искусственный интеллект, машинное обучение, онлайн-банкинг, распознавание голоса, распознавание лиц, умные домашние устройства
+- Кандидаты компаний: SberBox Top, SberPortal, VisionLabs
 
 - https://habr.com/ru/companies/sberdevices/articles/574892/
 - Отрасли: Computer Vision, аналитики, ML
 - Компании: Хабр, SberDevices, Okko, OZON, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: B2B, видеоаналитика, искусственный интеллект, кинематограф, компьютерное зрение, машинное обучение, телевидение
+- Кандидаты компаний: DeLorean, DMC-12, Lamoda, Layer, Layer Computer Vision Platform, SberBox, Tesla, YouTube, Две сосны, Друзья, Одинокая сосна, Пибоди
 
 - https://habr.com/ru/companies/sberdevices/articles/589969/
 - Отрасли: Natural Language Processing, виртуальные, NLP
 - Компании: Хабр, SberDevices, Далее, Сбер, Сбербанк
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Голосовые интерфейсы, Искусственный интеллект, Машинное обучение
+- Кандидаты компаний: Habr, Hugging Face, NLP, ruGPT-3, Sber, SberDevices RnD NLP, SBERT, Афина, Джой, Салют
 
 - https://habr.com/ru/companies/sberdevices/articles/591441/
 - Отрасли: не найдено
 - Компании: не найдено
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Датасет, Звук, Искусственный интеллект, Машинное обучение, Музыка, Нотная последовательность, Саунд-дизайн, Цифровая звуковая рабочая станция
+- Кандидаты компаний: DAW, Google, JukeBox, MuseNet, Music Transformer, OpenAI, Performer, Pop Music Transformer, Remi, Transformer XL, VST, Yating Music
 
 - https://habr.com/ru/companies/sberdevices/articles/596103/
 - Отрасли: Natural Language Processing, провайдер
 - Компании: Хабр, SberDevices, Далее, провайдер
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Искусственный интеллект, Машинное обучение
+- Кандидаты компаний: ruGPT-3, ruPrompts
 
 - https://habr.com/ru/companies/sberdevices/articles/597553/
 - Отрасли: ML
 - Компании: Хабр, SberDevices, Далее, Space
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: базы данных, ИИ, разработка, языки запросов
+- Кандидаты компаний: ANTLR, ANTLR4, Drools, Gradle, Hibernate, Java, JavaScript, Salut, SQL, SQL SELECT
 
 - https://habr.com/ru/companies/sberdevices/articles/647071/
 - Отрасли: умный дом
 - Компании: Хабр, SberDevices, Звук, Сбер, серверы
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Product Development, R&D, UX-исследования, Виртуальные ассистенты, Гаджеты, Дизайн, Производство и разработка электроники, Управление проектами
+- Кандидаты компаний: notAnotherOne, NTP, SberBox Time, SberPortal, YouTube, Салют
 
 - https://habr.com/ru/companies/sberdevices/articles/658149/
 - Отрасли: виртуальные
 - Компании: Хабр, SberDevices, Сбербанк
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Монетизация IT-систем, Монетизация веб-сервисов, Монетизация мобильных приложений
+- Кандидаты компаний: Assistant Client, Salute JS, Sber, SmartApp Code, SmartApp Framework, SmartApp Studio, Салют, Сбербанк Онлайн
 
 - https://habr.com/ru/companies/sberdevices/articles/658575/
 - Отрасли: медиа
 - Компании: Хабр, SberDevices, Звук
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Голосовые интерфейсы, Контент и копирайтинг, Управление медиа
+- Кандидаты компаний: SmartSpeech, Салют
 
 - https://habr.com/ru/companies/sberdevices/articles/660717/
 - Отрасли: Natural Language Processing, NLP
 - Компании: Хабр, SberDevices, ОК, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Искусственный интеллект, Машинное обучение
+- Кандидаты компаний: GPT-3, ruGPT, ruGPT-3, ruPrompts, ruT5, T5
 
 - https://habr.com/ru/companies/sberdevices/articles/662195/
 - Отрасли: Natural Language Processing, NLP, ML, предлагает, Поисковые технологии
 - Компании: Хабр, SberDevices, Space, Далее, предлагает
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Open source, Генеративные языковые модели, Искусственный интеллект, Машинное обучение
+- Кандидаты компаний: BART, BERT, DeepSpeed, GPT-2, GPT-3, Huggingface, HuggingFace, HuggingFace Transformers, mBart, MC4, Megatron-LM, mGPT, mGPT 13B, mGPT XL, ML Space SberCloud, mT5, Multilingual Colossal Cleaned Common Crawl, NVidia, ruGPT-3, SberCloud, T5, НИУ ВШЭ
 
 - https://habr.com/ru/companies/sberdevices/articles/663424/
 - Отрасли: умный дом, СМИ, медиа
 - Компании: Хабр, SberDevices
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: SmartTV, видеоигры, интернет-магазины, облачные игры, онлайн-кинотеатры, умные телевизоры
+- Кандидаты компаний: Android TV, Salют, Salют ТВ, Sber, SberPlay, SmartMarket, StarOS
 
 - https://habr.com/ru/companies/sberdevices/articles/666420/
 - Отрасли: Natural Language Processing, аналитики, ML, медиа, NLP
 - Компании: Хабр, SberDevices, Space
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Искусственный интеллект, Машинное обучение
+- Кандидаты компаний: AI-Services, BERTscore, BLEU, GusevGazeta, mbart, MLSUM, ROUGE, ruCLIP, ruDALL-E, ruGPT-3, ruGPT3, ruT5, SberCloud, SberCloud ML Space, XLSum
 
 - https://habr.com/ru/companies/sberdevices/articles/667106/
 - Отрасли: Natural Language Processing, NLP, медиа, ML
 - Компании: Хабр, SberDevices, Space
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Искусственный интеллект, Машинное обучение
+- Кандидаты компаний: AI Services, Bertscore, BERTscore, Bleu, cointegrated, cointegrated/rut5-base-multitask, Helsinki-NLP, Helsinki-NLP/opus-mt-en-ru, Hugging Face, LABSE, Opus-mt-en-ru, Paraphraser Plus, roberta-large, Roberta-large, Rouge-L, ruGPT3, russian_paraphrases, ruT5, ruT5-large, SberCloud ML Space
 
 - https://habr.com/ru/companies/sberdevices/articles/667582/
 - Отрасли: Natural Language Processing
 - Компании: Хабр, SberDevices, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Python, Искусственный интеллект, Машинное обучение
+- Кандидаты компаний: DeepSpeed, GPT-3, Hugging Face, Individuum, ruDALL-e, ruGPT-3, Tesla V100, The Guardian, Википедия
 
 - https://habr.com/ru/companies/sberdevices/articles/670588/
 - Отрасли: не найдено
 - Компании: Хабр, SberDevices, Proto, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: AR/VR, Metaverse, Web3, XR, виртуальная реальность, голосовые интерфейсы, дополненная реальность, метавселенные, распознавание речи, синтез речи
+- Кандидаты компаний: Forbes, gRPC.io, Oculus Quest 2, Salut, SmartSpeech, Unity
 
 - https://habr.com/ru/companies/sberdevices/articles/671614/
 - Отрасли: ML, Computer Vision, Data science, Machine Learning
 - Компании: Хабр, SberDevices, Яндекс, Далее, Space
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Data Mining, Искусственный интеллект, краудсорсинг, Машинное обучение, Обработка изображений
+- Кандидаты компаний: ABC Elementary, Creative Commons Corporation, HaGRID, Hand Gesture Recognition Image Dataset, Youtube, Яндекс.Толока
 
 - https://habr.com/ru/companies/sberdevices/articles/684228/
 - Отрасли: Natural Language Processing, NLP
 - Компании: Хабр, SberDevices, Далее, Звук, Тензор, Сбер
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: голосовые интерфейсы, искусственный интеллект, машинное обучение
+- Кандидаты компаний: Bobrosoft, SberBox Time, SberBox Top, SberPortal, SmartSpeech, Салют, Хочу не могу
 
 - https://habr.com/ru/companies/sberdevices/articles/702358/
 - Отрасли: NLP
 - Компании: Хабр, SberDevices, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: вестерны, детективы, игровая индустрия, искусственный интеллект, литературное творчество, машинное обучение, сказки, ужасы, фантастика, фэнтези
+- Кандидаты компаний: AI Dungeon, AI Journey, GPT-3, Hugging Face, NLP-команда SberDevices, ruGPT-3, Sber, Toloka
 
 - https://habr.com/ru/companies/sberdevices/articles/706846/
 - Отрасли: Natural Language Processing, NLP
 - Компании: Хабр, SberDevices
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: искусственный интеллект, машинное обучение, обработка естественного языка
+- Кандидаты компаний: BLOOM, ChatGPT, CIS LMU Munich, CrossFit, EMNLP, FewCLUE, FewNLU, FLEX, GPT-3, Huawei Noah’s Ark Lab, HuggingFace, mGPT, RuCoS', 'MuSeRC', 'DaNetQA, Russian SuperGLUE, RuTransform, SberQuAD, TAPE, XGLM, НИУ ВШЭ
 
 - https://habr.com/ru/companies/sberdevices/articles/707138/
 - Отрасли: виртуальные, digital
 - Компании: Хабр, SberDevices, Звук, Сбербанк
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: звук, искусственный интеллект, машинное обучение
+- Кандидаты компаний: BERT, CLIP, DALL-E 2, DALL·E 2, Imagen, Midjourney, MS-COCO, OpenAI, Sber, Stable Diffusion, Vision Transformer, YouTube, Салют, Сбербанк Онлайн
 
 - https://habr.com/ru/companies/sberdevices/articles/715468/
 - Отрасли: не найдено
 - Компании: Хабр, SberDevices
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: виртуальные ассистенты, колл-центры, краудсорсинг, подкасты, распознавание эмоций, речевые технологии, речевые устройства
+- Кандидаты компаний: CMU-MOSEI, EMO-DB, Golos, IEMOCAP, MURCO, Salute, SaluteSpeech Insights, Sber, YouTube
 
 - https://habr.com/ru/companies/sberdevices/articles/716108/
 - Отрасли: умный дом, Дизайн и юзабилити
