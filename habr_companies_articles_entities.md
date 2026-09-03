@@ -30606,109 +30606,109 @@
 - Отрасли: Оптимизация, Big Data, ETL
 - Компании: Хабр, Neoflex, t2, Хабр Карьера
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Apache Spark, Hadoop, Informatica, MSSQL, Oracle
 
 - https://habr.com/ru/companies/neoflex/articles/417911/
 - Отрасли: Дизайн и юзабилити, аналитики
 - Компании: Хабр, Neoflex, Gett, Яндекс, Далее, Хабр Карьера
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT, мобильная разработка
+- Кандидаты компаний: Apple, AppStore, Cydia, Levi Strauss, Localytics, Tesla, Uber, Яндекс.Такси
 
 - https://habr.com/ru/companies/neoflex/articles/425315/
 - Отрасли: предлагает
 - Компании: Хабр, Neoflex, предлагает, Далее, Хабр Карьера
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: разработка программного обеспечения
+- Кандидаты компаний: Allure Reports, GitHub, GitLab, Jenkins, Jira, Sonatype Nexus, Telegram
 
 - https://habr.com/ru/companies/neoflex/articles/428912/
 - Отрасли: Мобильные технологии
 - Компании: Хабр, Neoflex, Далее, Хабр Карьера
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Разработка мобильных приложений
+- Кандидаты компаний: Android, Android SDK, Android Studio, AVD Manager, Google, gradle, Intel, JavaSE, NodeJS, npm, Oreo, Python2, React Native, React Native CLI
 
 - https://habr.com/ru/companies/neoflex/articles/498200/
 - Отрасли: предлагает, Big Data, ETL, BI, DWH, Программное обеспечение
 - Компании: Хабр, Neoflex, предлагает, Далее, серверы, Хабр Карьера
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: банковская отрасль, регуляторная отчетность, финансовый рынок
+- Кандидаты компаний: Datagram, Hadoop, HDFS, Hortonworks, IBM InfoSphere DataStage, Informatica, LDAP, Neoflex Reporting, Neoflex Reporting Big Data Edition, Oracle, Oracle Apex, Oracle Appliance, Spark, МБ, Национальный Клиринговый Центр, НКЦ
 
 - https://habr.com/ru/companies/neoflex/articles/515986/
 - Отрасли: IAAS, SaaS, PaaS
 - Компании: Хабр, Neoflex, серверы, Арендовать, Далее, Хабр Карьера
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-инфраструктура
+- Кандидаты компаний: Amazon, Ansible, Chef, Kubernetes, Open Stack, Openshift, vSphere, Неофлекс
 
 - https://habr.com/ru/companies/neoflex/articles/524080/
 - Отрасли: Big Data, BigData
 - Компании: Хабр, Neoflex, Далее, Хабр Карьера
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Apache, Hadoop, Hive, Impala, Neoflex Big Data Solutions, Spark, Неофлекс
 
 - https://habr.com/ru/companies/neoflex/articles/533340/
 - Отрасли: Big Data, ETL, предлагает
 - Компании: Хабр, Neoflex, предлагает, Далее, Хабр Карьера
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Apache, Hive, Hue, Impala, Neoflex Datagram, Oozie
 
 - https://habr.com/ru/companies/neoflex/articles/567930/
 - Отрасли: Big Data, DWH, ETL, финтех, аналитики
 - Компании: Хабр, Neoflex, Далее, Хабр Карьера
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: аналитика, банковская сфера, потоковая обработка данных, распределенные системы, событийно-ориентированная архитектура, фрод-мониторинг
+- Кандидаты компаний: Apache Flink, Debezium, ELK, Habr, Kafka, Manning, MySQL, PostgreSQL, Sqoop, YouTube
 
 - https://habr.com/ru/companies/neoflex/articles/578654/
 - Отрасли: Оптимизация, Big Data, BigData
 - Компании: Хабр, Neoflex, Далее, t2, Хабр Карьера
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Data Engineering, Хранение данных
+- Кандидаты компаний: Apache, HDFS, MapReduce, Spark, Spark History, Spark SQL, Yarn
 
 - https://habr.com/ru/companies/neoflex/articles/586056/
 - Отрасли: не найдено
 - Компании: Хабр, Neoflex, быструю, Хабр Карьера
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT
+- Кандидаты компаний: Apache, Google, Hadoop, Oracle, Snappy, Spark
 
 - https://habr.com/ru/companies/neoflex/articles/593769/
 - Отрасли: ETL, аналитики, Big Data
 - Компании: Хабр, Neoflex, Программный Продукт, Хабр Карьера
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: ИТ рынок, ПО
+- Кандидаты компаний: Apache Incubator, Apache Kafka, Box, Cisco, Confluent Inc., Elasticsearch, Fortune 100, Goldman Sachs, Hadoop, Intuit, Kafka, ksqlDB, LinkedIn, Target
 
 - https://habr.com/ru/companies/neoflex/articles/654267/
 - Отрасли: не найдено
 - Компании: Хабр, Neoflex, Далее, Хабр Карьера
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT, банковский сектор, финансовый сектор, хранение данных
+- Кандидаты компаний: GitHub, Kenny Bastani, Movie DBMS, Neo4j, Neo4j Desktop, neo4j-contrib, Twitter
 
 - https://habr.com/ru/companies/neoflex/articles/660161/
 - Отрасли: Big Data, BI, Рекрутинг и HR, ETL
 - Компании: Хабр, Neoflex, Хабр Карьера
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-индустрия, дата-инжиниринг, Управление персоналом
+- Кандидаты компаний: Big Data Solutions, Cognos BI, Cognos TM1, IBM DB2, Oracle
 
 - https://habr.com/ru/companies/neoflex/articles/682582/
 - Отрасли: Big Data, предлагает, масштабируемость, ETL, OLAP, аналитики
 - Компании: Хабр, Neoflex, предлагает, Далее, быструю, Хабр Карьера
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: OLTP, большие данные, ИТ, потоковая обработка данных, хранилища данных
+- Кандидаты компаний: Grafana, Kafka, ksqIDB, KsqlDB, MySQL, Schema Registry, Азбука
 
 - https://habr.com/ru/companies/neoflex/articles/692154/
 - Отрасли: Big Data, ETL, процессинг, аналитики
 - Компании: Хабр, Neoflex, Далее, Хабр Карьера
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Apache, Apache NiFi, Grafana, Prometheus
 
 - https://habr.com/ru/companies/neoflex/articles/719496/
 - Отрасли: предлагает, Computer Vision
 - Компании: Хабр, Neoflex, предлагает, IDX, Далее, Хабр Карьера
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: искусственный интеллект, машинное обучение
+- Кандидаты компаний: Adam, MNIST, NeurIPS, NumPy, PyTorch, torchvision, tqdm
 
 - https://habr.com/ru/companies/neoflex/articles/722584/
 - Отрасли: Machine Learning, предлагает, Игры и развлечения, Data science
 - Компании: Хабр, Neoflex, предлагает, Хабр Карьера
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Искусственный интеллект, Машинное обучение, Нейронные сети, Обзор, Чат-боты
+- Кандидаты компаний: ChatGPT, Curie, Davinci, EleutherAI, GPT, GPT-J, GPT-J-8bit, Hugging Face, LLaMA, LLaMA-13B, LLaMA-7B, Meta, OpenAI
 
 - https://habr.com/ru/companies/netcracker/articles/277433/
 - Отрасли: не найдено
@@ -30720,37 +30720,37 @@
 - Отрасли: Рекрутинг и HR
 - Компании: Хабр, Нетология, 1С
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Битрикс, ИМ
 
 - https://habr.com/ru/companies/netologyru/articles/324618/
 - Отрасли: Big Data, Информационная безопасность, BigData
 - Компании: Хабр, Нетология
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Криптография, Мессенджеры
+- Кандидаты компаний: Bitcoin, Github, PGP, ProtonMail, Tutanota, Википедия
 
 - https://habr.com/ru/companies/netologyru/articles/324788/
 - Отрасли: не найдено
 - Компании: Хабр, Нетология
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: frontend development
+- Кандидаты компаний: Netology, Reddit
 
 - https://habr.com/ru/companies/netologyru/articles/324970/
 - Отрасли: предлагает, медиа, Мобильные технологии
 - Компании: Хабр, Нетология, предлагает
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: маркетинг
+- Кандидаты компаний: Gmail, Gmail app, iOS Mail, iPhone, Outlook, Sendsay, WordPress
 
 - https://habr.com/ru/companies/netologyru/articles/325162/
 - Отрасли: не найдено
 - Компании: Хабр, Нетология
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Hanami, OOП, ROM, Ruby, Ruby on Rails
+- Кандидаты компаний: Elixir, Evrone, Gemfile, Moscow.rb, Phoenix
 
 - https://habr.com/ru/companies/netologyru/articles/325706/
 - Отрасли: Дизайн и юзабилити
 - Компании: Хабр, Нетология
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: бизнес, графический дизайн, компьютерная анимация, работа с видео, реклама
+- Кандидаты компаний: Adobe After Effects, App Store, Joah Spearman, Kurzgesagt, Localeur
 
 - https://habr.com/ru/companies/netologyru/articles/326728/
 - Отрасли: Дизайн и юзабилити, предлагает
