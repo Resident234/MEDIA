@@ -137,14 +137,14 @@
 - https://habr.com/ru/companies/2gis/articles/220337/
 - Отрасли: не найдено
 - Компании: Хабр, 2ГИС
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: картография, разработка программного обеспечения, тестирование программного обеспечения
+- Кандидаты компаний: AvalonDock, Catel, CodedUI, Cruciatus, GitHub, Microsoft, Ranorex, Visual Studio, White
 
 - https://habr.com/ru/companies/2gis/articles/225807/
 - Отрасли: Веб-разработка, SaaS
 - Компании: Хабр, 2ГИС, быструю
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: 2GIS, 2GIS for browsers, 2gis.ru, Google, Google Chrome, Google Places, Kango Extensions, Mozilla Firefox, Safari
 
 - https://habr.com/ru/companies/2gis/articles/228125/
 - Отрасли: масштабируемость
@@ -2537,8 +2537,8 @@
 - https://habr.com/ru/companies/alfa/articles/441292/
 - Отрасли: финтех, финансы, BigData
 - Компании: Хабр, Альфа-Банк, Далее, Хабр Карьера
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: мобильные платежи, операторы платежных систем, сотовая связь, финансовая грамотность, финансовые институты, финансовые пирамиды, финансовые технологии
+- Кандидаты компаний: G20, Всемирный банк, Госдума, Минфин, ОЭСР, Связной-Евросеть, ЦБ, Центробанк
 
 - https://habr.com/ru/companies/alfa/articles/441674/
 - Отрасли: Веб-разработка, Дизайн и юзабилити
@@ -16499,8 +16499,8 @@
 - https://habr.com/ru/companies/hh/articles/151853/
 - Отрасли: Рекрутинг и HR, медиа, Мобильные технологии, ритейла
 - Компании: Хабр, hh.ru
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: HR-брендинг, IT, дизайн, кадровые агентства, маркетинг, продажи, производство телефонов, разработка ПО, рекрутмент, ритейл, фотографии
+- Кандидаты компаний: Bridge Program, LinkedIn, Mobile World Congress, Nokia, Pinterest, Taleo, Twitter
 
 - https://habr.com/ru/companies/hh/articles/156803/
 - Отрасли: не найдено
@@ -18185,8 +18185,8 @@
 - https://habr.com/ru/companies/icl_services/articles/534296/
 - Отрасли: Оптимизация, образование, Поисковые технологии
 - Компании: Хабр, ГК ICL, AMD, IDX, 1С, Яндекс
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: высоконагруженные системы, компьютерное железо, процессоры
+- Кандидаты компаний: Allwinner, ARM, Atom, Celeron, Core i7, Crystal Mark, EntityFX, Geekbench, Habr, Intel, LCC, Orange Pi, Pentium, Qualcomm, Transmeta, X86-64, Xiaomi, Эльбрус
 
 - https://habr.com/ru/companies/icl_services/articles/537938/
 - Отрасли: ML, Computer Vision
@@ -28919,8 +28919,8 @@
 - https://habr.com/ru/companies/mvideo/articles/566084/
 - Отрасли: робототехника, Рекрутинг и HR
 - Компании: Хабр, М.Видео-Эльдорадо, М.Видео
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: AR и VR, информационные технологии
+- Кандидаты компаний: DJI, Drone Ecozone, Запорожец Heritage, Красивые дети в красивом мире
 
 - https://habr.com/ru/companies/mvideo/articles/566660/
 - Отрасли: провайдер
@@ -31259,8 +31259,8 @@
 - https://habr.com/ru/companies/netologyru/articles/576396/
 - Отрасли: DIY, аналитики, Data science
 - Компании: Хабр, Нетология
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT, взрослый спорт, визуализация данных, молодёжный спорт, облачные технологии, статистика, фармацевтическая отрасль, футбол, юношеский спорт
+- Кандидаты компаний: Amazon, Google, Microsoft Azure, Tableau, Yandex.Cloud, Манчестер Сити, Национальная лига, Премьер-лига, Футбол в цифрах
 
 - https://habr.com/ru/companies/netologyru/articles/576942/
 - Отрасли: предлагает
@@ -31307,8 +31307,8 @@
 - https://habr.com/ru/companies/netologyru/articles/590117/
 - Отрасли: ERP, CRM, аналитики, Data science, промышленность, кибербезопасности, финтех, облачных сервисов, ML, медицина, Generative AI, BI
 - Компании: Gartner, Хабр, Нетология, Домклик, SberDevices
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-сектор, банковский сектор, ритейл, сфера ИБ, тяжёлая промышленность
+- Кандидаты компаний: Amazon Web Services, GCP, Microsoft Azure, Vivid Money, Сбермаркет
 
 - https://habr.com/ru/companies/netologyru/articles/590365/
 - Отрасли: Рекрутинг и HR
@@ -31541,8 +31541,8 @@
 - https://habr.com/ru/companies/netologyru/articles/688880/
 - Отрасли: не найдено
 - Компании: Хабр, Нетология
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Карьера в IT-индустрии, Управление персоналом, Управление проектами, Учебный процесс в IT
+- Кандидаты компаний: blognetology
 
 - https://habr.com/ru/companies/netologyru/articles/689688/
 - Отрасли: CRM, аналитики
@@ -32087,8 +32087,8 @@
 - https://habr.com/ru/companies/odnoklassniki/articles/353006/
 - Отрасли: торговли
 - Компании: Хабр, ОК, Хабр Карьера
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT
+- Кандидаты компаний: Java, JPoint, Одноклассники, Центр Международной Торговли
 
 - https://habr.com/ru/companies/odnoklassniki/articles/412709/
 - Отрасли: Big Data, Machine Learning, аутсорсинг, онлайн-курсы, Data science, ML, аналитики
@@ -33239,8 +33239,8 @@
 - https://habr.com/ru/companies/onlinepatent/articles/730174/
 - Отрасли: металлургии, металлургия, Программное обеспечение, энергетики, аналитики
 - Компании: Хабр, Online patent
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: авиационная промышленность, горное дело, добыча редкоземельных элементов, космическая промышленность, масс-спектрометрия, материаловедение, машиностроение, медицинские технологии, применение редкоземельных элементов, химия, электрохимия
+- Кандидаты компаний: Академия наук, Институт высокотемпературной электрохимии УрО РАН, Институт геологии и минералогии СО РАН, Институт металлоорганической химии им. Г.А. Разуваева, Институт металлургии и материаловедения им. А.А. Байкова, Институт металлургии УрО РАН, Институт химии ДВО РАН, Институт химии твердого тела УрО РАН, Курчатовский институт, Московский инженерно-физический институт, Московский институт стали и сплавов, Национальный исследовательский Нижегородский государственный университет им. Н.И. Лобачевского, ООО «Научно-производственная фирма «ЛЮМ», ООО «Объединенная Компания РУСАЛ Инженерно-технологический центр»",, Российский химико-технологический университет им. Д.И. Менделеева, Санкт-Петербургский горный университет, Уральский федеральный университет имени Б.Н. Ельцина, ФИПС, Фонд перспективных исследований
 
 - https://habr.com/ru/companies/onlinepatent/articles/730782/
 - Отрасли: предлагает, аналитики
@@ -33713,8 +33713,8 @@
 - https://habr.com/ru/companies/pixonic/articles/327442/
 - Отрасли: Оптимизация
 - Компании: Хабр, Pixonic, Базис, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: разработка игр, разработка мобильных приложений
+- Кандидаты компаний: NVidia, Post Processing Stack, Unity, War Robots
 
 - https://habr.com/ru/companies/pixonic/articles/330224/
 - Отрасли: аналитики
@@ -34295,8 +34295,8 @@
 - https://habr.com/ru/companies/pixonic/articles/518142/
 - Отрасли: не найдено
 - Компании: Хабр, Pixonic
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Игры и игровые консоли, Разработка игр
+- Кандидаты компаний: Canon, Canon Proxima, ClearBlue, DOOM, Equate, Game Boy, Holtek, IBM, iPod Mini, Minecraft, Reddit, The Elder Scrolls: Skyrim, Twitter, Windows, Windows 95, Windows XP
 
 - https://habr.com/ru/companies/pixonic/articles/519300/
 - Отрасли: Поисковые технологии
@@ -38082,7 +38082,7 @@
 - Отрасли: Информационная безопасность, digital
 - Компании: Хабр, Positive Technologies
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: 0daysober, Active Directory, AR.Drone, Defcon, Digital October, eindbazen, freebsd, HackerDom, HackQuest, int3pids, LDAP, Leet More, Microsoft, PHDays, Positive Hack Days, PPP, ptsecurity, Tachikoma
 
 - https://habr.com/ru/companies/pt/articles/146094/
 - Отрасли: Информационная безопасность, промышленные
@@ -38165,8 +38165,8 @@
 - https://habr.com/ru/companies/pt/articles/150373/
 - Отрасли: не найдено
 - Компании: Хабр, Positive Technologies
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT, кибербезопасность, разработка игр
+- Кандидаты компаний: Google, Google Chrome, Google Doodles, Habr, ptsecurity, Spelunky
 
 - https://habr.com/ru/companies/pt/articles/151270/
 - Отрасли: Веб-разработка, Программное обеспечение, информационной безопасности
@@ -38345,8 +38345,8 @@
 - https://habr.com/ru/companies/pt/articles/184450/
 - Отрасли: Информационная безопасность, Рекрутинг и HR, Связь и телекоммуникации
 - Компании: Хабр, Positive Technologies, VK, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: анализ защищенности веб-приложений, железнодорожный транспорт, оценка осведомленности, пентестинг, разработка веб-приложений, социальная инженерия, страхование
+- Кандидаты компаний: Advanced Archive Password Recovery, AXFR, Choo-choo PWN, DBOINTEGRA, Elcomsoft, Gmail, Godzilla Nursery Laboratory, Google, Google Mail, Habr, ICQ, Kaspersky Security for Internet Gateway Russian Edition, LinkedIn, msn.com, PHDays, ptsecurity, Tokio Marine & Nichido Fire Insurance, Мой мир
 
 - https://habr.com/ru/companies/pt/articles/186310/
 - Отрасли: Информационная безопасность, информационной безопасности, криптографии
@@ -46259,8 +46259,8 @@
 - https://habr.com/ru/companies/sberbank/articles/540392/
 - Отрасли: робототехника, IoT, Machine Learning, Программное обеспечение
 - Компании: Хабр, Сбер, Яндекс
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-индустрия, автоматизация, беспилотный транспорт, военная робототехника, космическая робототехника, логистика, нефтяная промышленность, сельское хозяйство, экстренные службы
+- Кандидаты компаний: Amazon, Boston Dynamics, Cognitive Pilot, ETH Zurich, Fetch Robotics, Ghost robotics, Google, IFR, Locus Robotics, NASA, Robonaut, SberAutoTech, SberDigitalAuto, Skydio, Spot, Unitree, Waymo, Сбер Карьера, Школа 21
 
 - https://habr.com/ru/companies/sberbank/articles/547036/
 - Отрасли: СМИ, digital
@@ -52163,8 +52163,8 @@
 - https://habr.com/ru/companies/skillfactory/articles/599135/
 - Отрасли: DIY, Программное обеспечение, Data science, Machine Learning, Веб-разработка
 - Компании: Хабр, Skillfactory
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: CNC, DIY или Сделай сам, ЧПУ, Электроника
+- Кандидаты компаний: A4988, Arduino, Arduino CNC Shield V3 GRBL, Arduino Uno, Arduino UNO R3, CNCShield, Combo Arduino, CoreXY, CoreXZ, Engraver Master, Gcodetools, GRBL, GT2, Habr, Inkscape, JLCPCB, NEMA 17, tkCNC Editor, Universal Gcode Platform (UGS)
 
 - https://habr.com/ru/companies/skillfactory/articles/599341/
 - Отрасли: Data science, Machine Learning, Веб-разработка, Оптимизация
@@ -52427,8 +52427,8 @@
 - https://habr.com/ru/companies/skillfactory/articles/676890/
 - Отрасли: Data science
 - Компании: Хабр, Skillfactory, АТОМ
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: астрономия, научно-популярное, физика
+- Кандидаты компаний: Asimmetrie, Coastal Systems Group, GSFC, Habr, INFN, NASA, Solar Dynamics Observatory, Wikimedia Commons, Обсерватория солнечной динамики НАСА, Океанографический институт Вудс-Хоул
 
 - https://habr.com/ru/companies/skillfactory/articles/677402/
 - Отрасли: Data science

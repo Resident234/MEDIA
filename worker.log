@@ -3667,3 +3667,32 @@ processed 11973/12038; batch 11975/12038
 processed 11998/12038; batch 12000/12038
 processed 12023/12038; batch 12025/12038
 processed 12036/12038; batch 12038/12038
+2026-09-03 12:02:18 watchdog: worker exited, restart in 30s
+2026-09-03 12:02:48 watchdog: starting worker (done=12036)
+2026-09-03 12:02:50 watchdog: worker exited, restart in 30s
+2026-09-03 12:03:21 watchdog: starting worker (done=12036)
+2026-09-03 12:03:22 watchdog: worker exited, restart in 30s
+2026-09-03 12:03:53 watchdog: starting worker (done=12036)
+2026-09-03 12:03:56 watchdog: worker exited, restart in 30s
+2026-09-03 12:04:26 watchdog: starting worker (done=12036)
+2026-09-03 12:04:29 watchdog: worker exited, restart in 30s
+2026-09-03 12:05:00 watchdog: starting worker (done=12036)
+2026-09-03 12:05:02 watchdog: worker exited, restart in 30s
+2026-09-03 12:05:32 watchdog: starting worker (done=12036)
+2026-09-03 12:05:35 watchdog: worker exited, restart in 30s
+2026-09-03 12:06:05 watchdog: starting worker (done=12036)
+2026-09-03 12:06:07 watchdog: worker exited, restart in 30s
+2026-09-03 12:06:37 watchdog: starting worker (done=12036)
+2026-09-03 12:06:39 watchdog: worker exited, restart in 30s
+2026-09-03 12:07:09 watchdog: starting worker (done=12036)
+2026-09-03 12:07:12 watchdog: worker exited, restart in 30s
+2026-09-03 12:07:42 watchdog: starting worker (done=12036)
+2026-09-03 12:07:44 watchdog: worker exited, restart in 30s
+2026-09-03 12:08:14 watchdog: starting worker (done=12036)
+2026-09-03 12:08:17 watchdog: worker exited, restart in 30s
+2026-09-03 12:08:47 watchdog: starting worker (done=12036)
+2026-09-03 12:08:50 watchdog: worker exited, restart in 30s
+2026-09-03 12:09:20 watchdog: starting worker (done=12036)
+2026-09-03 12:09:24 watchdog: worker exited, restart in 30s
+2026-09-03 12:09:54 watchdog: starting worker (done=12036)
+2026-09-03 12:09:56 watchdog: worker exited, restart in 30s
