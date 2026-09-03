@@ -25506,151 +25506,151 @@
 - Отрасли: не найдено
 - Компании: Хабр, LampTest
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Aneng, Elementary, Gauss, Instrument Systems, Robiton, Suntek, Uprtek, Viso, Штиль
 
 - https://habr.com/ru/companies/lamptest/articles/427459/
 - Отрасли: не найдено
 - Компании: Хабр, LampTest
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Castorama, Diall, GW Instek, Instrument Systems, Lamptest.ru, Suntek, Uprtek, Штиль
 
 - https://habr.com/ru/companies/lamptest/articles/429644/
 - Отрасли: не найдено
 - Компании: Хабр, LampTest
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: освещение, светодиодные лампы
+- Кандидаты компаний: IKEA, Lamptest.ru
 
 - https://habr.com/ru/companies/lamptest/articles/444288/
 - Отрасли: не найдено
 - Компании: LampTest, Хабр, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Гаджеты, мобильные приложения, светодиодные лампы
+- Кандидаты компаний: Lamptest.ru
 
 - https://habr.com/ru/companies/lamptest/articles/447686/
 - Отрасли: не найдено
 - Компании: Хабр, LampTest
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: LED, Гаджеты, светодиодные лампы, Энергия и элементы питания
+- Кандидаты компаний: habr.com, Lamptest.ru, Ильич
 
 - https://habr.com/ru/companies/lamptest/articles/458856/
 - Отрасли: не найдено
 - Компании: Хабр, LampTest, Вкусвилл, Леруа Мерлен
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Энергия и элементы питания
+- Кандидаты компаний: Castorama, CMI, Diall, Duracell, Duracell Turbo Max, Duracell Ultra Power, Energizer, Energizer Maximum, FixPrice, Flarx, GP, GP Super, IKEA, Lexman, Metro, Mirex, OBI, Sonnen, Varta Longlife, Атак, Ашан, Дикси
 
 - https://habr.com/ru/companies/lamptest/articles/460301/
 - Отрасли: не найдено
 - Компании: Хабр, LampTest
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Гаджеты, освещение
+- Кандидаты компаний: GW Instek, Instrument Systems, Uniel Profi, Uprtek
 
 - https://habr.com/ru/companies/lamptest/articles/461091/
 - Отрасли: не найдено
 - Компании: Хабр, LampTest
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Camelion, Instrument Systems, Lamptest-1, Robiton, Suntek, Uprtek, Штиль
 
 - https://habr.com/ru/companies/lamptest/articles/466381/
 - Отрасли: не найдено
 - Компании: Хабр, LampTest
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Гаджеты
+- Кандидаты компаний: GW Instek, Instrument Systems, lamptest.ru, Robiton, Эра
 
 - https://habr.com/ru/companies/lamptest/articles/469209/
 - Отрасли: не найдено
 - Компании: Хабр, LampTest
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: LED-лампы, Гаджеты, светодиодные лампочки, светодиодные лампы
+- Кандидаты компаний: Google, Habr, Lamptest.ru, Philips
 
 - https://habr.com/ru/companies/lamptest/articles/469809/
 - Отрасли: не найдено
 - Компании: Хабр, LampTest
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Habr, IKEA, Instrument Systems, Lamptest.ru, Robiton, Suntek, Uprtek, Наносвет, Штиль Инстаб
 
 - https://habr.com/ru/companies/lamptest/articles/476878/
 - Отрасли: не найдено
 - Компании: Хабр, LampTest
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Гаджеты, освещение, светодиодные лампы
+- Кандидаты компаний: GP, Instrument Systems, Lamptest.ru, Robiton, Suntek, Uprtek, Штиль
 
 - https://habr.com/ru/companies/lamptest/articles/487332/
 - Отрасли: не найдено
 - Компании: Хабр, LampTest
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: LED-лампы, светодиодные лампы
+- Кандидаты компаний: Ergolux, Instrument Systems, Robiton, Suntek, Uprtek, Штиль
 
 - https://habr.com/ru/companies/lamptest/articles/488278/
 - Отрасли: не найдено
 - Компании: Хабр, LampTest
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: LED lighting
+- Кандидаты компаний: Archilaight, Instrument Systems, METRO Cash and Carry, Remez, Robiton, Seoul Semiconductor, Suntek, Uprtek, Wildberries, Штиль Инстаб
 
 - https://habr.com/ru/companies/lamptest/articles/498656/
 - Отрасли: не найдено
 - Компании: Хабр, LampTest
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Энергия и элементы питания
+- Кандидаты компаний: Camelion, Ergolux, Kodak, madrobots, Videx, Ашан, Трофи, Эра
 
 - https://habr.com/ru/companies/lamptest/articles/510988/
 - Отрасли: не найдено
 - Компании: Хабр, LampTest, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Батарейки, Гаджеты, Энергия и элементы питания
+- Кандидаты компаний: Aliexpress, FixPrice, FLARX, GP Super, ROBİTON, ROBİTON Ecocharger AK02
 
 - https://habr.com/ru/companies/lamptest/articles/511794/
 - Отрасли: Веб-разработка
 - Компании: LampTest, Хабр
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: LED, освещение, светодиодные лампы
+- Кандидаты компаний: Lamptest.ru, Правительство России
 
 - https://habr.com/ru/companies/lamptest/articles/513838/
 - Отрасли: не найдено
 - Компании: Хабр, LampTest, FUJITSU
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Энергия и элементы питания
+- Кандидаты компаний: Eneloop, Habr, IKEA, Lexman
 
 - https://habr.com/ru/companies/lamptest/articles/518320/
 - Отрасли: умный дом
 - Компании: Хабр, LampTest, Яндекс
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: LED
+- Кандидаты компаний: Amazon, Amazon Alexa, Gauss, Google, Google Home, IFTTT, Wiz, WiZ
 
 - https://habr.com/ru/companies/lamptest/articles/524362/
 - Отрасли: умный дом
 - Компании: Хабр, LampTest
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: LED-лампы, светодиодные лампы
+- Кандидаты компаний: IKEA, Lamptest.ru, LEDARE, MI Gateway 2, MI Gateway 3, MI Home, TRÅDFRI, Xiaomi
 
 - https://habr.com/ru/companies/lamptest/articles/525496/
 - Отрасли: не найдено
 - Компании: Хабр, LampTest
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: освещение
+- Кандидаты компаний: Instrument Systems, Lamptest-1, Robiton, Suntek, Toshiba, Uprtek, Штиль
 
 - https://habr.com/ru/companies/lamptest/articles/526356/
 - Отрасли: не найдено
 - Компании: Хабр, LampTest, Леруа Мерлен
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Батарейки, Энергия и элементы питания
+- Кандидаты компаний: A-Зет, Ansmann, aro, Auchan, Duracell, EBD-USB+, Energizer, Ergolux, GP, Lexman, Panasonic, Robiton, Toshiba, Varta, Varta Energy, Videx, Ашан, Источник Бэттерис, Метро, Юнити Евразия, Яростанмаш
 
 - https://habr.com/ru/companies/lamptest/articles/534500/
 - Отрасли: умный дом
 - Компании: Хабр, LampTest, Яндекс
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Гаджеты, светодиодное освещение
+- Кандидаты компаний: Amazon Alexa, Gauss, Gauss Smart Light, Google Home, Habr, IFTTT, WiZ, Яндекс.Алиса
 
 - https://habr.com/ru/companies/lamptest/articles/547730/
 - Отрасли: не найдено
 - Компании: Хабр, LampTest, Леруа Мерлен
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Гаджеты
+- Кандидаты компаний: Lamptest.ru, Navigator NLL-A60-15-230-2.7K-E27, Navigator NLL-A60-15-230-4K-E27
 
 - https://habr.com/ru/companies/lamptest/articles/548322/
 - Отрасли: не найдено
 - Компании: Хабр, LampTest
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Гаджеты
+- Кандидаты компаний: IKEA, Mysku, Navigator, OSRAM, Дзене, ЖЖ, Пикабу, Старт, Эра
 
 - https://habr.com/ru/companies/lamptest/articles/554466/
 - Отрасли: умный дом, IoT
