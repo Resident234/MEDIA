@@ -71706,55 +71706,55 @@
 - Отрасли: не найдено
 - Компании: Хабр, VK, Далее, Хабр Карьера
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: cgrep, clang-query, gogrep, NoVerify, phpgrep, PhpStorm, ВКонтакте
 
 - https://habr.com/ru/company/vk/blog/478336/
 - Отрасли: не найдено
 - Компании: Хабр, VK, Space, Хабр Карьера
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT, Высоконагруженные системы
+- Кандидаты компаний: Alibaba, apcu, Baidu, Docker, Fedora, Habr, Joe Watkins, MacBookPro, MessagePack, msgpack, pcov, PECL, phpdbg, pthreads, rybakit, SQL, Tarantool, uopz
 
 - https://habr.com/ru/company/vk/blog/484336/
 - Отрасли: Веб-разработка
 - Компании: Хабр, VK, Хабр Карьера
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Symfony
 
 - https://habr.com/ru/company/vk/blog/485124/
 - Отрасли: не найдено
 - Компании: Хабр, VK, Далее, Хабр Карьера
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Behat, Flysystem, PHPUnit
 
 - https://habr.com/ru/company/vk/blog/508254/
 - Отрасли: не найдено
 - Компании: Хабр, VK, Хабр Карьера
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Cypress, PostgreSQL
 
 - https://habr.com/ru/company/vk/blog/508376/
 - Отрасли: не найдено
 - Компании: Хабр, VK, Хабр Карьера
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Elasticsearch, Laravel, LiipFunctionalTestBundle, MySQL, PHPUnit, SQLite, Symfony
 
 - https://habr.com/ru/company/vk/blog/515778/
 - Отрасли: Веб-разработка
 - Компании: Хабр, VK, Хабр Карьера
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Anti-CSRF, Blade, codeception, Composer, Cypress, Docker, Laravel, Nginx, PHPDocker, phpdotenv, PHPMailer, PHPUnit, Pimple, Smarty, Symfony, Twig
 
 - https://habr.com/ru/company/vk/blog/525614/
 - Отрасли: Веб-разработка
 - Компании: Хабр, VK, Хабр Карьера
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Laravel, ReactPHP
 
 - https://habr.com/ru/company/vk/blog/527420/
 - Отрасли: не найдено
 - Компании: Хабр, VK, Далее, ОК, Хабр Карьера
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: ClickHouse, GitHub, ВКонтакте
 
 - https://habr.com/ru/company/vk/blog/538052/
 - Отрасли: не найдено
@@ -71766,91 +71766,91 @@
 - Отрасли: Оптимизация
 - Компании: Хабр, VK, Далее, Хабр Карьера
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: KPHP, MessagePack, msgpack.org, msgpack.php, PECL, ramsey/uuid, symfony/uid, zlib
 
 - https://habr.com/ru/company/vk/blog/572424/
 - Отрасли: не найдено
 - Компании: Хабр, VK, Далее, Хабр Карьера
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Разработка игр
+- Кандидаты компаний: composer, Docker, KPHP, kphpunit, ktest, packagist, PHPUnit, ВК
 
 - https://habr.com/ru/company/Voximplant/blog/303780/
 - Отрасли: Веб-разработка, предлагает, Оптимизация
 - Компании: Хабр, Voximplant, предлагает, Далее
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Wingolog
 
 - https://habr.com/ru/company/vyshtech/blog/432180/
 - Отрасли: Информационная безопасность, Machine Learning, хостинг, IoT, криптографии
 - Компании: Хабр
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-индустрия, Системное программирование
+- Кандидаты компаний: Apple, BitBucket, CyberEd, Facebook, GitHub, GitLab, Google, HackerU, Microsoft, React Native, SourceForge, TensorFlow, Visual Studio Code, Министерство обороны США
 
 - https://habr.com/ru/company/wargaming/blog/221035/
 - Отрасли: Веб-разработка, промышленность
 - Компании: Хабр, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: научные расчёты
+- Кандидаты компаний: ex-Wargaming
 
 - https://habr.com/ru/company/wrike/blog/346684/
 - Отрасли: не найдено
 - Компании: Хабр, Wrike, Далее
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: benchmarksgame
 
 - https://habr.com/ru/company/wunderfund/blog/275043/
 - Отрасли: Мобильные технологии
 - Компании: Хабр, Wunder Fund, Звук
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Shazam, Sony
 
 - https://habr.com/ru/company/xakep/blog/
 - Отрасли: кибербезопасности, информационной безопасности, предлагает
 - Компании: Журнал Хакер, Хабр, предлагает, Аэрофлот, Альфа-Банка
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: кибербезопасность
+- Кандидаты компаний: Amazon, Apple, Assist, Asus, avito.ru, BreachForums, ChatGPT, Cloudflare, Cobalt Strike, DALL-E 2, DJI, Flipper Zero, Genesis, GitHub, GoDaddy, Google, GTA Online, IDA, Intel, JBL, Kali Purple, Keenetic, KeePass, Kiwi Farms, leroymerlin.ru, Microsoft, MSI, pochta.ru, Reddit, rt.ru, Tor, Twitter, Valve, WhatsApp, Xakep.ru, Z-Library, Минцифры, Роскомнадзор, Хабрахабр
 
 - https://habr.com/ru/company/yandex/blog/
 - Отрасли: OCR, ML
 - Компании: Яндекс, Хабр, YDB, ИТМО, Бэклог, Звук
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: arXiv, GitHub, PereStruct, RuntimeCloud, Yandex AI Studio, Yandex Browser Root Certificate Program, Yandex Vision OCR, YDB Go SDK, Алиса, Календарь, Телемост, Яндекс 360, Яндекс Браузер, Яндекс Почта, Яндекс Трекер
 
 - https://habr.com/ru/company/yandex/blog/169415/
 - Отрасли: Веб-разработка
 - Компании: Яндекс, Хабр
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Internet Explorer, Яндекс.Почта
 
 - https://habr.com/ru/company/yandex/blog/181219/
 - Отрасли: предлагает, Computer Vision
 - Компании: Яндекс, Хабр, Звук, ПИК, предлагает
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: поисковые компании
+- Кандидаты компаний: Echoprint, Яндекс Звук, Яндекс.Музыка, Яндекс.Поиск
 
 - https://habr.com/ru/company/zadarma/blog/550362/
 - Отрасли: CRM, ERP
 - Компании: Хабр
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Системы связи
+- Кандидаты компаний: asterisk, Github, Zadarma, Вектор
 
 - https://habr.com/ru/company/zfort/blog/
 - Отрасли: не найдено
 - Компании: Хабр
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Codeception, CodeIgniter, HHVM, Laravel, Laravel Nova, Packagist, PhpStorm, Yii, Zend Framework, Zfort Group
 
 - https://habr.com/ru/company/zfort/blog/275293/
 - Отрасли: Веб-разработка, Оптимизация
 - Компании: Хабр
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Blackfire, Box, Clojure, Drupal, Guzzle, Laravel, Libsodium, Lumen, MongoDB, OpenSSL, Pagekit, PHAP, PHPUnit, PlacePhant, PrestaShop, Redmine, SensioLabs, Silex, Symfony, Varnish, Wunderlist, Yii, Yii2, Yiimine, Zend Expressive, Zend Framework, Zfort Group
 
 - https://habr.com/ru/company/zfort/blog/278137/
 - Отрасли: Веб-разработка, e-commerce
 - Компании: Хабр
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: CodeIgniter, Composer, Diffbot, ElasticSearch, Gentoo, Github, JBZoo, Laravel, NGINX, PHPDocker.io, phpqatools.org, phpthinktank, Prophecy, puphpet.com, Slim, Symfony, Teh Playground!, thephpleague, vesnateam, WellCommerce, Yii, Zend, Zend Framework, Zfort Group
 
 - https://habr.com/ru/company/zfort/blog/279167/
 - Отрасли: Веб-разработка, Оптимизация
