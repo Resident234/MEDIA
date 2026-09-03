@@ -18455,152 +18455,152 @@
 - https://habr.com/ru/companies/ipmatika/articles/671982/
 - Отрасли: Оптимизация, Рекрутинг и HR, CRM, аналитики, Программное обеспечение
 - Компании: Хабр, АйПиМатика
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-инфраструктура, Удалённая работа
+- Кандидаты компаний: Deloitte, Gallup, Google
 
 - https://habr.com/ru/companies/ipmatika/articles/684612/
 - Отрасли: предлагает
 - Компании: Хабр, АйПиМатика, предлагает
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IP-телефония, IT-инфраструктура, сетевая инфраструктура, Системное администрирование
+- Кандидаты компаний: 7‑Zip, MS Excel, MS Windows, Notepad++, Yealink, Yealink Phonebook Generations Tool, Yealink SIP‑T46U
 
 - https://habr.com/ru/companies/ipmatika/articles/694706/
 - Отрасли: не найдено
 - Компании: Хабр, АйПиМатика
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: ip-телефония, IT-инфраструктура, Системное администрирование
+- Кандидаты компаний: Github, HFS, Rejetto, Yealink
 
 - https://habr.com/ru/companies/ipmatika/articles/697730/
 - Отрасли: Мобильные технологии
 - Компании: Хабр, АйПиМатика
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IP-телефония, IT-инфраструктура, Системное администрирование
+- Кандидаты компаний: Notepad ++, Yealink
 
 - https://habr.com/ru/companies/ipmatika/articles/699156/
 - Отрасли: Enterprise
 - Компании: Хабр, АйПиМатика
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IP-телефония, IT-инфраструктура, Системное администрирование
+- Кандидаты компаний: Linkus, Yeastar
 
 - https://habr.com/ru/companies/ipmatika/articles/704344/
 - Отрасли: не найдено
 - Компании: Хабр, АйПиМатика, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: ip-атс, IP-телефония, IT-инфраструктура, Системное администрирование
+- Кандидаты компаний: console.cloud.google.com, Contacts API, Contacts People API, contacts.google.com, GMS, Google, Google API Library, Google Cloud, Google Settings, Google Контакты, OAuth client ID, OAuth consent screen, opengapps.org, Play Store, Yealink
 
 - https://habr.com/ru/companies/ipmatika/articles/706640/
 - Отрасли: не найдено
 - Компании: Хабр, АйПиМатика, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-инфраструктура
+- Кандидаты компаний: 3CX, Facebook, Fanvil, WhatsApp, Yealink
 
 - https://habr.com/ru/companies/ipmatika/articles/716476/
 - Отрасли: не найдено
 - Компании: Хабр, АйПиМатика, Цифра, ОК
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IP-телефония, IT-инфраструктура, Системное администрирование
+- Кандидаты компаний: Wireshark, Yealink
 
 - https://habr.com/ru/companies/ipmatika/articles/723754/
 - Отрасли: не найдено
 - Компании: Хабр, АйПиМатика
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: ip-телефония, IT-инфраструктура, Системное администрирование
+- Кандидаты компаний: Wireshark, YDMP, Yealink, YMCS
 
 - https://habr.com/ru/companies/ipmatika/articles/725830/
 - Отрасли: не найдено
 - Компании: Хабр, АйПиМатика, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-инфраструктура, Сетевое оборудование, Системное администрирование
+- Кандидаты компаний: Notepad++, TFTPD64, Wireshark, Yealink
 
 - https://habr.com/ru/companies/ipmatika/articles/737494/
 - Отрасли: не найдено
 - Компании: Хабр, АйПиМатика, Звук
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Гаджеты, Звук
+- Кандидаты компаний: Audacity, Behringer, BM800, Fanvil, Fanvil CS30, VT, VT CS61ENC-A, Yealink, Yealink CP700, Yealink CP900, YouTube
 
 - https://habr.com/ru/companies/ipmatika/articles/739796/
 - Отрасли: предлагает
 - Компании: Хабр, АйПиМатика, предлагает
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IP-телефония, IT-инфраструктура, VoIP, Системное администрирование
+- Кандидаты компаний: YDMP, Yealink, YMCS
 
 - https://habr.com/ru/companies/ipmatika/articles/741638/
 - Отрасли: телекоммуникаций
 - Компании: Хабр, АйПиМатика, Далее, ОК
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-инфраструктура, Системное администрирование, теле­коммуникаций
+- Кандидаты компаний: Habr, Yeastar
 
 - https://habr.com/ru/companies/ipmatika/articles/743828/
 - Отрасли: не найдено
 - Компании: Хабр, АйПиМатика
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IP‑АТС, IT-инфраструктура, Системное администрирование
+- Кандидаты компаний: Yealink, Yeastar
 
 - https://habr.com/ru/companies/ispmanager/articles/top/
 - Отрасли: Поисковые технологии, Программное обеспечение, умный дом
 - Компании: Ispmanager, Хабр, Самолет, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: веб‑дизайн, компьютерные технологии
+- Кандидаты компаний: 86Box, Amazon, Apple, Apple HomeKit, Apple Newton, Cisco Systems, D‑Link, GitHub, Google, Home Assistant, iMac G3, Macintosh SE 30, Microsoft, MikeRoweSoft.com, Sony, Veeam Software
 
 - https://habr.com/ru/companies/ispsystem/articles/144198/
 - Отрасли: Программное обеспечение
 - Компании: Хабр, ISPsystem
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: FreeBSD, gcc, gdb, gdbserver, Linux
 
 - https://habr.com/ru/companies/ispsystem/articles/209790/
 - Отрасли: не найдено
 - Компании: Хабр, ISPsystem
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: виртуализация, построение облака, хостинг виртуальных машин, хранилища данных
+- Кандидаты компаний: Adaptec, ASR3405, Centos, Ceph, Ceph FS, Ceph RADOS block device, DIR, EPEL, Fedora Project, fio, Intel, iSCSI, LVM, NFS, Qcow2, QEMU, RAW, RBD, VMmanager
 
 - https://habr.com/ru/companies/ispsystem/articles/306888/
 - Отрасли: Связь и телекоммуникации, DIY
 - Компании: Хабр, ISPsystem
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Биллинговые системы, доменные регистраторы, платёжные системы, СМС-шлюз, сотовый оператор
+- Кандидаты компаний: BILLmanager, cpanel, paypal, privatbank, Q-telecom, thesslstore, webnames, СМС-центр
 
 - https://habr.com/ru/companies/ispsystem/articles/308992/
 - Отрасли: e-commerce, хостинг, СМИ
 - Компании: Хабр, ISPsystem, Ispmanager, Альфа-Банка
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT, блоги, стартапы, хостинг-провайдеры
+- Кандидаты компаний: Comodo, Google, Let’s Encrypt, RapidSSL, Symantec, Thawte
 
 - https://habr.com/ru/companies/ispsystem/articles/309282/
 - Отрасли: виртуальные, хостинг
 - Компании: Хабр, ISPsystem
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: биллинговые системы, виртуальные дата-центры, облачные ресурсы, облачные услуги
+- Кандидаты компаний: BILLmanager, CentOS, CloudLITE, DataLine, vCloud Director, VMware, VMware vCloud
 
 - https://habr.com/ru/companies/ispsystem/articles/313066/
 - Отрасли: хостинг, виртуальные, Enterprise
 - Компании: Хабр, ISPsystem, серверы, AMD, N+1, FirstVDS
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-инфраструктура, Виртуализация, Серверное администрирование
+- Кандидаты компаний: DRBD, Google, Heartbeat, Hyper‑V, Intel, ISPsystеm, Kemari, Micro Checkpointing, Openstack, oVirt, Pacemaker, Proxmox VE, QEMU, Red Hat, Red Hat Enterprise Virtualization, Remus, Stratus, vmgu.ru, VMmanager Cloud, VMware, VMware vCenter Server, vSphere, Windows Server Failover Clustering, Xen, XenServer
 
 - https://habr.com/ru/companies/ispsystem/articles/314886/
 - Отрасли: хостинг, аналитики
 - Компании: Хабр, ISPsystem, Ispmanager, Далее, RET
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: аутсорсинг техподдержки, виртуальный хостинг
+- Кандидаты компаний: BILLmanager, COREmanager, DCImanager, ISPlicense, TicketManager, VMmanager
 
 - https://habr.com/ru/companies/ispsystem/articles/354420/
 - Отрасли: Информационная безопасность
 - Компании: Ispmanager, Хабр, ISPsystem
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Интернет-безопасность, Криптография
+- Кандидаты компаний: GitHub, Internet Security Research Group, Let’s Encrypt, OpenSSL
 
 - https://habr.com/ru/companies/ispsystem/articles/358696/
 - Отрасли: Веб-разработка, Оптимизация
 - Компании: Хабр, ISPsystem
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: BILLmanager, GitHub, Google
 
 - https://habr.com/ru/companies/ispsystem/articles/359156/
 - Отрасли: хостинг, хостинг-провайдеров, виртуальные, провайдер
 - Компании: Хабр, ISPsystem, Программный Продукт, провайдер, Ispmanager
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Axure, BILLmanager, BILLmanager 5, BILLmanager 6, Youtrack
 
 - https://habr.com/ru/companies/ispsystem/articles/413429/
 - Отрасли: Информационная безопасность, криптографии
