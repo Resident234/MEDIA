@@ -47405,152 +47405,152 @@
 - https://habr.com/ru/companies/sberdevices/articles/716108/
 - Отрасли: умный дом, Дизайн и юзабилити
 - Компании: Хабр, SberDevices, Звук, Магнит
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Гаджеты, Звук
+- Кандидаты компаний: Apple, Bang & Olufsen, Beosound 1, BOSE, BOSE 300, BOSE 500, HomePod, SberBoom, SberBoom Mini, SberBox Time, SberPortal, Sonos, Sonos One, Салют
 
 - https://habr.com/ru/companies/sberdevices/articles/718096/
 - Отрасли: ML
 - Компании: Хабр, SberDevices, Звук
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: голосовые интерфейсы, звук, искусственный интеллект, машинное обучение
+- Кандидаты компаний: Fastspeech, q-taco, Tacotron 2, WaveNet
 
 - https://habr.com/ru/companies/sberdevices/articles/730088/
 - Отрасли: Natural Language Processing, NLP
 - Компании: SberDevices, Хабр
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: искусственный интеллект, машинное обучение
+- Кандидаты компаний: ChatGPT, Google, Google Brain, HF, Hugging Face, Nvidia, OpenAI, Кристофари Neo
 
 - https://habr.com/ru/companies/sberdevices/articles/731794/
 - Отрасли: виртуальные, Computer Vision, Machine Learning
 - Компании: Хабр, SberDevices, Далее, Яндекс
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Видеоконференции, Виртуальная реальность, Дополненная реальность, Искусственный интеллект, Краудсорсинг, Машинное обучение, Обработка изображений, Редактирование фотографий
+- Кандидаты компаний: ABC Elementary, Adobe Lightroom, Photoshop, SberJazz, Yandex.Toloka
 
 - https://habr.com/ru/companies/sbermarket/articles/504224/
 - Отрасли: e-commerce, Оптимизация, аналитики, хостинг, провайдер
 - Компании: Хабр, Купер, серверы, провайдер, Хабр Карьера
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-инфраструктура, Высоконагруженные системы
+- Кандидаты компаний: MySQL, Octopus, СберМаркет, ФНС
 
 - https://habr.com/ru/companies/sbermarket/articles/507814/
 - Отрасли: Big Data, e-commerce, Data science, предлагает, ML
 - Компании: Хабр, Купер, Яндекс, предлагает, Хабр Карьера
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: eGrocery, Marketplace efficiency, онлайн-ритейл, ритейл
+- Кандидаты компаний: Amazon, Delivery Club, Instacart, Instamart, Shopper App, Target, Wallmart, Перекресток, СберМаркет, Ситимобил, Утконос
 
 - https://habr.com/ru/companies/sbermarket/articles/537198/
 - Отрасли: Big Data, e-commerce, предлагает
 - Компании: Хабр, Купер, предлагает, Хабр Карьера
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: разработка под e-commerce, ритейл, управление продуктом
+- Кандидаты компаний: Python, СберМаркет
 
 - https://habr.com/ru/companies/sbermarket/articles/552174/
 - Отрасли: e-commerce, информационной безопасности
 - Компании: Хабр, Купер, Далее, Бэклог, Хабр Карьера
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: доставка товаров, курьерская доставка, мобильная разработка, онлайн-торговля, управление продуктом
+- Кандидаты компаний: СберМаркет
 
 - https://habr.com/ru/companies/sbermarket/articles/581720/
 - Отрасли: Мобильные технологии, e-commerce
 - Компании: Хабр, Купер, серверы, Хабр Карьера
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: eGrocery, разработка мобильных приложений
+- Кандидаты компаний: Apple, Google, Instamart, СберМаркет
 
 - https://habr.com/ru/companies/sbermarket/articles/586304/
 - Отрасли: Веб-разработка, предлагает
 - Компании: Хабр, Купер, ОК, предлагает, Хабр Карьера
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-индустрия, ИТ
+- Кандидаты компаний: YouTube, СберМаркет
 
 - https://habr.com/ru/companies/sbermarket/articles/592819/
 - Отрасли: Веб-разработка, Программное обеспечение
 - Компании: Хабр, Купер, Хабр Карьера
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Shopify, Toptal, Umbrellio, СберМаркет
 
 - https://habr.com/ru/companies/sbermarket/articles/596581/
 - Отрасли: не найдено
 - Компании: Хабр, Купер, VK, Хабр Карьера
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: разработка мобильных приложений
+- Кандидаты компаний: Facebook, GitHub, React Native Meetup, SberMarket Tech, Telegram, YouTube, СберМаркет
 
 - https://habr.com/ru/companies/sbermarket/articles/645661/
 - Отрасли: e-commerce, PaaS
 - Компании: Хабр, Купер, VK, Хабр Карьера
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: автомобильное производство, ИТ
+- Кандидаты компаний: Porsche, Toyota, СберМаркет
 
 - https://habr.com/ru/companies/sbermarket/articles/645771/
 - Отрасли: образование, Электронная коммерция
 - Компании: Хабр, Купер, Хабр Карьера
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: управление персоналом, управление проектами
+- Кандидаты компаний: AIPM, Axelos, PMO Global Alliance, PMOfficers, ProctorU, Udemy, СберМаркет
 
 - https://habr.com/ru/companies/sbermarket/articles/647937/
 - Отрасли: не найдено
 - Компании: Хабр, Купер, Далее, VK, Хабр Карьера
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-индустрия
+- Кандидаты компаний: HeadHunter, hh, Telegram, СберМаркет
 
 - https://habr.com/ru/companies/sbermarket/articles/648085/
 - Отрасли: e-commerce
 - Компании: Хабр, Купер, Хабр Карьера
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: ритейл, розница
+- Кандидаты компаний: Instamart, СберБанк Онлайн, СберМаркет
 
 - https://habr.com/ru/companies/sbermarket/articles/652683/
 - Отрасли: e-commerce
 - Компании: Хабр, Купер, VK, Хабр Карьера
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Разработка мобильных приложений
+- Кандидаты компаний: Google, СберМаркет
 
 - https://habr.com/ru/companies/sbermarket/articles/654321/
 - Отрасли: e-commerce, CRM, медиа, стриминг
 - Компании: Хабр, Купер, VK, Хабр Карьера
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: авиационная отрасль, ИТ, киноиндустрия, социальные сети
+- Кандидаты компаний: British Airlines, British Airways, CNN, Microsoft, Netflix, Telegram, Times, United Airlines, YouTube
 
 - https://habr.com/ru/companies/sbermarket/articles/654323/
 - Отрасли: e-commerce, Big Data, аналитики, виртуальные, торговые, AI-технологий
 - Компании: Хабр, Купер, Цифра, Just AI, Почта России, VK, Хабр Карьера
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Банковский сектор, Игры, Логистика, Общественное питание, Продовольственный ритейл, Ритейл, Розничная торговля, Фармацевтика, Финансовые услуги, Цветочный бизнес
+- Кандидаты компаний: Amazon, Amazon Prime, American Express, Bank of America, Data Base, Data Insight, Fortune 1000, JP Morgan Chase, Mastercard, McDonalds, McKinsey & Company, PricewaterhouseCoopers, Prime Air, Sanofi, Siri, Starbucks, VISA, Voicebot Research 2021 этот год. Just AI. Alibaba Group Holdings. IKEA. L'Oreal. Lamoda. Nike. Fortnite. Tech-команда., Walmart, СберМаркет
 
 - https://habr.com/ru/companies/sbermarket/articles/654339/
 - Отрасли: e-commerce
 - Компании: Хабр, Купер, VK, Хабр Карьера
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: СберМаркет
 
 - https://habr.com/ru/companies/sbermarket/articles/654869/
 - Отрасли: Big Data, e-commerce, аналитики, digital, fashion, Оптимизация, ML, Поисковые технологии
 - Компании: Хабр, Купер, Хабр Карьера
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: food retail, fresh retail, доставка, логистика, розничная торговля
+- Кандидаты компаний: Alibaba, Alibaba Group, Meituan, Zalando, СберМаркет
 
 - https://habr.com/ru/companies/sbermarket/articles/659013/
 - Отрасли: Информационная безопасность, e-commerce
 - Компании: Хабр, Купер, Далее, VK, Хабр Карьера
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Тестирование мобильных приложений
+- Кандидаты компаний: Android, apk_api_key_extractor, ApkUrlGrep, CheckKarlMarx, DefectDojo, DockerHub, GitHub, Google, iOS, MobSF, mobsfscan, TeamCity, СберМаркет
 
 - https://habr.com/ru/companies/sbermarket/articles/662467/
 - Отрасли: Информационная безопасность, информационной безопасности, e-commerce
 - Компании: Хабр, Купер, Далее, VK, Хабр Карьера
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Разработка мобильных приложений, Тестирование мобильных приложений
+- Кандидаты компаний: API Gateway, Grafana, Kafka, Postman, Shopper App, Shopper Backend, Slack, SSO, СберМаркет
 
 - https://habr.com/ru/companies/sbermarket/articles/663370/
 - Отрасли: e-commerce
 - Компании: Хабр, Купер, VK, Хабр Карьера
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: дизайн, дизайн мобильных приложений, управление персоналом, управление проектами
+- Кандидаты компаний: Fellow, Figma, Telegram, TikTok, СберМаркет, Толока
 
 - https://habr.com/ru/companies/sbermarket/articles/665260/
 - Отрасли: Веб-разработка, e-commerce
 - Компании: Хабр, Купер, VK, Хабр Карьера
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-системы
+- Кандидаты компаний: Geosins, MSW, Гугл, СберМаркет
 
 - https://habr.com/ru/companies/sbermarket/articles/665512/
 - Отрасли: e-commerce
