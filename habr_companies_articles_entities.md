@@ -57605,152 +57605,152 @@
 - https://habr.com/ru/companies/tinkoff/articles/252907/
 - Отрасли: DWH, ETL
 - Компании: Хабр, Т-Банк, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT, банковская сфера, мониторинг систем
+- Кандидаты компаний: Attunity, Carbon, Duet, ETL, Grafana, Graphite, Greenplum, InfluxDB, Munin, MySQL, Nagios, OpenTSDB, Oracle, RedHat, Whisper, Yandex, Zabbix
 
 - https://habr.com/ru/companies/tinkoff/articles/259173/
 - Отрасли: ETL, Big Data, DWH, аналитики
 - Компании: Хабр, Т-Банк, Тинькофф, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT, банковская сфера, интернет-реклама, финансовые услуги
+- Кандидаты компаний: Apache Flume, Cloudera, Greenplum, Hadoop, Hortonworks, IBM Biginsights, Informatica, Informatica Big Data Edition, Informatica Platform, Informatica PowerCenter, MapR, PivotalHD, tinkoff.ru, Тинькофф Банк
 
 - https://habr.com/ru/companies/tinkoff/articles/260707/
 - Отрасли: не найдено
 - Компании: Хабр, Т-Банк
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: мобильная разработка, финансовые услуги
+- Кандидаты компаний: com.google.code.gson, com.googlecode.jarjar, Gradle JarJar Plugin, GSON, HTC, JarJar, jcenter, Maven Central, OkHttp, ru.tinkoff.gradle, Мобильный Банк
 
 - https://habr.com/ru/companies/tinkoff/articles/267015/
 - Отрасли: Аппаратное обеспечение, Программное обеспечение
 - Компании: Хабр, Т-Банк, Space
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: BDC Scheme, Bigloo, BiT, BiwaScheme, Bus Scheme, Chez Scheme, chibi-scheme, Chicken, community.schemewiki.org, CPSCM, Elk, Foment, Gambit, Gauche, Guile, Heist, HScheme, Husk Scheme, IronScheme
 
 - https://habr.com/ru/companies/tinkoff/articles/267113/
 - Отрасли: не найдено
 - Компании: Хабр, Т-Банк
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: IronScheme
 
 - https://habr.com/ru/companies/tinkoff/articles/267119/
 - Отрасли: не найдено
 - Компании: Хабр, Т-Банк, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT, банковская сфера
+- Кандидаты компаний: Console, IronScheme, Oracle, OracleCommand, OracleConnection, OracleDataReader, OracleParameterCollection, System.Data, System.Data.OracleClient, System.IO, System.Threading, System.Web, Timer
 
 - https://habr.com/ru/companies/tinkoff/articles/267733/
 - Отрасли: Big Data, DWH, ETL, Enterprise
 - Компании: Хабр, Т-Банк, N+1, Далее, DELL
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: банковская сфера
+- Кандидаты компаний: Greenplum, Greenplum DB, PostgreSQL
 
 - https://habr.com/ru/companies/tinkoff/articles/270373/
 - Отрасли: DWH, ETL, BI, Big Data, Enterprise, промышленные
 - Компании: Хабр, Т-Банк, Тинькофф, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-инфраструктура, банковская сфера, метаданные, финансовые услуги, хранилища данных
+- Кандидаты компаний: 360eyes, Bill Inmon, Greenplum, Informatica, Informatica Big Data Edition, Informatica Metadata Manager, Oracle, SAP, SAP Business Objects, SAS, SAS Data Integration Studio, Тинькофф Банк
 
 - https://habr.com/ru/companies/tinkoff/articles/278073/
 - Отрасли: не найдено
 - Компании: Хабр, Т-Банк, Тинькофф, Контур
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: банковская сфера, оцифровка документов, электронный документооборот
+- Кандидаты компаний: aforgenet, Тинькофф банк
 
 - https://habr.com/ru/companies/tinkoff/articles/279361/
 - Отрасли: не найдено
 - Компании: Хабр, Т-Банк
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: AcrobatReader, Adobe, GhostScript, GhostScriptNet, Microsoft
 
 - https://habr.com/ru/companies/tinkoff/articles/280640/
 - Отрасли: не найдено
 - Компании: Хабр, Т-Банк
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Methanum
 
 - https://habr.com/ru/companies/tinkoff/articles/281196/
 - Отрасли: DWH, Big Data, ETL
 - Компании: Хабр, Т-Банк, Тинькофф, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: банковская сфера, финансовый сектор
+- Кандидаты компаний: gphdfs, gpload, Greenplum, Hadoop, Hive, Informatica, Informatica Big Data Edition, MapReduce, MySQL, Oracle, PWX for Greenplum, SAS, SAS Access Interface to Hadoop, SAS Data Integration Studio, SQL Server, Sqoop, Тинькофф Банк
 
 - https://habr.com/ru/companies/tinkoff/articles/283278/
 - Отрасли: не найдено
 - Компании: Хабр, Т-Банк, Hewlett-Packard
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT, печать документов
+- Кандидаты компаний: GhostScript, HP, HP-UX, JetAsm, Microsoft, WinHex
 
 - https://habr.com/ru/companies/tinkoff/articles/302062/
 - Отрасли: не найдено
 - Компании: Хабр, Т-Банк
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT, банковская сфера
+- Кандидаты компаний: Ghostscript, Ghostscript.NET, HP, Microsoft
 
 - https://habr.com/ru/companies/tinkoff/articles/302670/
 - Отрасли: DWH, Оптимизация
 - Компании: Хабр, Т-Банк, Тинькофф, Контур
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT, банковская сфера, тестирование IT-систем, хранилища данных
+- Кандидаты компаний: Attunity Replicate, CDH, Cloudera, Data Quality Daemon, Grafana, Greenplum, Hadoop, Oracle, SAS, SAS Data Integration Studio, Авторелиз, Тинькофф Банк
 
 - https://habr.com/ru/companies/tinkoff/articles/303580/
 - Отрасли: Веб-разработка, Оптимизация
 - Компании: Хабр, Т-Банк, Кошелёк, Тинькофф, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: банковская сфера, платёжные услуги, финансовые услуги, финансовый сектор
+- Кандидаты компаний: Airbnb, Facebook, Phantom.js, Tinkoff.ru, Yahoo, Тинькофф Мобильный Кошелек
 
 - https://habr.com/ru/companies/tinkoff/articles/304234/
 - Отрасли: Дизайн и юзабилити
 - Компании: Хабр, Т-Банк, Тинькофф, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT, авиаперевозки, гостеприимство, дизайн, навигационные услуги, разработка программного обеспечения, технологии, финансовые услуги
+- Кандидаты компаний: Airbnb, Apple, Apple Store, Aviasales, developer.apple.com, MapBox, Microsoft, Office, Outlook, Parties for WWDC, Scholarships, Telegram, Tinkoff Bank, Union Square, WWDC, Xamarin, XCode, Рамблер, Тинькофф Банк
 
 - https://habr.com/ru/companies/tinkoff/articles/304576/
 - Отрасли: не найдено
 - Компании: Хабр, Т-Банк
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: банковская сфера, информационные технологии
+- Кандидаты компаний: ADO, ApEx, Microsoft Excel, MS Access
 
 - https://habr.com/ru/companies/tinkoff/articles/309316/
 - Отрасли: не найдено
 - Компании: Хабр, Т-Банк, Тинькофф
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: банковское дело, бизнес, интернет-банкинг
+- Кандидаты компаний: Тинькофф Банк
 
 - https://habr.com/ru/companies/tinkoff/articles/310562/
 - Отрасли: Аппаратное обеспечение, медиа, Рекрутинг и HR
 - Компании: Хабр, Т-Банк, FUJITSU, Space
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: банковская деятельность
+- Кандидаты компаний: Microsoft
 
 - https://habr.com/ru/companies/tinkoff/articles/310620/
 - Отрасли: Big Data, DWH, BI, масштабируемость, аналитики, ETL
 - Компании: Хабр, Т-Банк, Тинькофф, быструю, t2, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: аналитика, банковская сфера, большие данные, ИТ
+- Кандидаты компаний: Apache, Badoo, Cloudera, Exasol, Greenplum, MySQL, PostgreSQL, SAP, Yandex, Тинькофф Банк
 
 - https://habr.com/ru/companies/tinkoff/articles/312196/
 - Отрасли: не найдено
 - Компании: Хабр, Т-Банк, Далее
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Google, Habr
 
 - https://habr.com/ru/companies/tinkoff/articles/312968/
 - Отрасли: не найдено
 - Компании: Хабр, Т-Банк, Далее
-- Кандидаты отраслей: не найдено
+- Кандидаты отраслей: банковская сфера
 - Кандидаты компаний: не найдено
 
 - https://habr.com/ru/companies/tinkoff/articles/315786/
 - Отрасли: не найдено
 - Компании: Хабр, Т-Банк, Далее
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Rabbit MQ, Spring
 
 - https://habr.com/ru/companies/tinkoff/articles/317254/
 - Отрасли: Enterprise
 - Компании: Хабр, Т-Банк
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-инфраструктура
+- Кандидаты компаний: Docker, Instana, Sonartype Nexus
 
 - https://habr.com/ru/companies/tinkoff/articles/317742/
 - Отрасли: не найдено
