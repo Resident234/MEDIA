@@ -33755,152 +33755,152 @@
 - https://habr.com/ru/companies/pixonic/articles/340168/
 - Отрасли: не найдено
 - Компании: Хабр, Pixonic, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: DevOps, IT, системное администрирование
+- Кандидаты компаний: Elasticsearch, FreeIPA, Graylog2, MongoDB, openLDAP
 
 - https://habr.com/ru/companies/pixonic/articles/341274/
 - Отрасли: не найдено
 - Компании: Хабр, Pixonic
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: CentOS, Cerebro, Elasticsearch, Gmail, Graylog, Graylog Collector Sidecar, Graylog2, HAproxy, HP, Intel, Keepalived, Mongod, MongoDB, NXLog
 
 - https://habr.com/ru/companies/pixonic/articles/343306/
 - Отрасли: Мобильные технологии
 - Компании: Хабр, Pixonic, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Разработка игр, Разработка мобильных приложений
+- Кандидаты компаний: Photon Cloud Server, Unity, Walking War Robots, War Robots
 
 - https://habr.com/ru/companies/pixonic/articles/343820/
 - Отрасли: Мобильные технологии
 - Компании: Хабр, Pixonic, Proto
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: разработка игр
+- Кандидаты компаний: Photon, SourceTree, TeamCity, Unity
 
 - https://habr.com/ru/companies/pixonic/articles/346374/
 - Отрасли: Дизайн и юзабилити
 - Компании: Хабр, Pixonic, серверы
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: мобильные игры, разработка игр, серверное администрирование
+- Кандидаты компаний: AppMetr, Cassandra, Parallels, Photon Chat, Photon Cloud, Photon Server SDK, tomcat, Walking War Robots, War Robots
 
 - https://habr.com/ru/companies/pixonic/articles/347782/
 - Отрасли: Рекрутинг и HR, образование, предлагает
 - Компании: Хабр, Pixonic, предлагает
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-рынок, мобильная разработка, финансовая сфера
+- Кандидаты компаний: Acorn Archimedes, AngularJS, Apple II, Backbone.js, Commodore 64, HackerRank, Node.js, React, Stack Overflow, Tesco, TRS-80, YouTube
 
 - https://habr.com/ru/companies/pixonic/articles/348060/
 - Отрасли: транспортные, Оптимизация
 - Компании: Хабр, Pixonic
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-инфраструктура, мобильные игры, рекламный рынок, социальные сети
+- Кандидаты компаний: Android, Ansible, Cassandra, Google Play, hazelcast, iOS, nginx, Puppet, tomcat, War Robots
 
 - https://habr.com/ru/companies/pixonic/articles/348516/
 - Отрасли: не найдено
 - Компании: Хабр, Pixonic
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: дизайн игр, мобильные игры, продвижение игр, разработка игр, социальные игры
+- Кандидаты компаний: Diablo, PixJam, PS4, THUNDERGODZ, Tony Hawk's Pro Skater
 
 - https://habr.com/ru/companies/pixonic/articles/349616/
 - Отрасли: не найдено
 - Компании: Хабр, Pixonic
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT
+- Кандидаты компаний: apiclient, G Suite, Google, Google API, Google Drive, google-api-python-client, Google-аналитика, httplib2, Jira, oauth2client, pyopenssl, Python, Slack
 
 - https://habr.com/ru/companies/pixonic/articles/351184/
 - Отрасли: не найдено
 - Компании: Хабр, Pixonic
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Разработка игр, Разработка мобильных приложений
+- Кандидаты компаний: App Store, Apple, BitBucket, iOS, iPhone X, Unity, War Robots, Xcode
 
 - https://habr.com/ru/companies/pixonic/articles/352184/
 - Отрасли: аналитики, предлагает
 - Компании: Хабр, Pixonic, Далее, предлагает
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: DevOps, IT-инфраструктура, Серверное администрирование, Системное администрирование
+- Кандидаты компаний: Ansible, Ansible Tower, AWX, Centos, Docker, FreeIPA, GitHub, Kubernetes, ManageIQ, MemCached, OpenShift, Ovirt, Postgres, RabbitMQ, Red Hat, Red Hat Cloud Forms, Red Hat Identify Managment, RHEV, War Robots
 
 - https://habr.com/ru/companies/pixonic/articles/353088/
 - Отрасли: не найдено
 - Компании: Хабр, Pixonic
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Разработка игр, Разработка мобильных приложений
+- Кандидаты компаний: Unity
 
 - https://habr.com/ru/companies/pixonic/articles/353444/
 - Отрасли: Дизайн и юзабилити
 - Компании: Хабр, Pixonic, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Разработка игр, Разработка мобильных приложений
+- Кандидаты компаний: Android, Habr, Newtonsoft, Unity
 
 - https://habr.com/ru/companies/pixonic/articles/354336/
 - Отрасли: Оптимизация, Мобильные технологии
 - Компании: Хабр, Pixonic
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Разработка игр, Разработка мобильных приложений
+- Кандидаты компаний: Habr, Low Level Photon Network, LZ4, Photon, Protocol Buffers
 
 - https://habr.com/ru/companies/pixonic/articles/359008/
 - Отрасли: аналитики, Оптимизация, Мобильные технологии
 - Компании: Хабр, Pixonic
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: игровая индустрия, мобильные игры, разработка игр
+- Кандидаты компаний: AppMetr, FMOD, Helpshift, IoC+, Json.net, Lunar Console, Photon, StrangeIoC, TeamCity, Unity
 
 - https://habr.com/ru/companies/pixonic/articles/359451/
 - Отрасли: IoT, ML, digital, Мобильные технологии
 - Компании: Хабр, Pixonic, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: мобильные игры, Разработка игр, Разработка мобильных приложений
+- Кандидаты компаний: Android Studio, Android Things, Asus, Codelabs, Duolingo, Firebase, Google, Google Pixel, Google Play, Unity
 
 - https://habr.com/ru/companies/pixonic/articles/413729/
 - Отрасли: Оптимизация, Мобильные технологии
 - Компании: Хабр, Pixonic, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Разработка игр
+- Кандидаты компаний: Unity
 
 - https://habr.com/ru/companies/pixonic/articles/414921/
 - Отрасли: аналитики
 - Компании: Хабр, Pixonic
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Аналитика мобильных приложений, Разработка игр, Управление продуктом
+- Кандидаты компаний: Apache, AppMetr
 
 - https://habr.com/ru/companies/pixonic/articles/415959/
 - Отрасли: Мобильные технологии
 - Компании: Хабр, Pixonic
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: игровая индустрия
+- Кандидаты компаний: ECS, game state interpolation buffer size, Habr, HRTT, HRTT + input buffer size, input buffer size, RTT, RTT+input buffer size, RTT+input buffer size + game state interpolation buffer size, Unity
 
 - https://habr.com/ru/companies/pixonic/articles/417441/
 - Отрасли: не найдено
 - Компании: Хабр, Pixonic
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: разработка игр, разработка мобильных приложений
+- Кандидаты компаний: Hangar Client API, War Robots
 
 - https://habr.com/ru/companies/pixonic/articles/420019/
 - Отрасли: масштабируемость, хостинг, Оптимизация
 - Компании: Хабр, Pixonic
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: игровая индустрия
+- Кандидаты компаний: Photon, Unity
 
 - https://habr.com/ru/companies/pixonic/articles/420419/
 - Отрасли: Дизайн и юзабилити
 - Компании: Хабр, Pixonic
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: игры
+- Кандидаты компаний: SplitMetrics
 
 - https://habr.com/ru/companies/pixonic/articles/420789/
 - Отрасли: Оптимизация, Программное обеспечение
 - Компании: Хабр, Pixonic
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Разработка игр, Распределённые системы, Серверная оптимизация
+- Кандидаты компаний: 1C Game Studios, ALICE Platform, BIT.GAMES, DevGAMM, PanzerDog, Sperasoft, Unity
 
 - https://habr.com/ru/companies/pixonic/articles/422183/
 - Отрасли: медиа
 - Компании: Хабр, Pixonic
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: автомобильная промышленность, информационные технологии
+- Кандидаты компаний: Mail.ru, Тройка
 
 - https://habr.com/ru/companies/pixonic/articles/424267/
 - Отрасли: Мобильные технологии
 - Компании: Хабр, Pixonic
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Разработка игр, Разработка мобильных приложений
+- Кандидаты компаний: Unity
 
 - https://habr.com/ru/companies/pixonic/articles/424777/
 - Отрасли: Программное обеспечение
