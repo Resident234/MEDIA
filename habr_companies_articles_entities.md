@@ -67355,152 +67355,152 @@
 - https://habr.com/ru/companies/Zextras/articles/418781/
 - Отрасли: Информационная безопасность, информационной безопасности
 - Компании: Хабр, Zextras
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: криптография
+- Кандидаты компаний: OpenPGP, OpenPGP-Zimlet, Zextras Suite, Zimbra, Zimbra Collaboration Suite
 
 - https://habr.com/ru/companies/Zextras/articles/419513/
 - Отрасли: информационной безопасности
 - Компании: Хабр, Zextras
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Zextras Suite, Zimbra, Zimbra Collaboration Suite, Zimbra Creative Suite 8.8.9
 
 - https://habr.com/ru/companies/Zextras/articles/421389/
 - Отрасли: Информационная безопасность, информационной безопасности, SaaS
 - Компании: Хабр, Zextras
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT, системное администрирование
+- Кандидаты компаний: Zextras Admin, Zextras Suite, Zimbra, Zimbra Open-Source Edition, zimbra.server.com
 
 - https://habr.com/ru/companies/Zextras/articles/422261/
 - Отрасли: не найдено
 - Компании: Zextras, Хабр
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: ИТ, хранение данных
+- Кандидаты компаний: Libre Office, MS Office, Zextras Powerstore, Zextras Suite, Zimbra
 
 - https://habr.com/ru/companies/Zextras/articles/422815/
 - Отрасли: Программное обеспечение
 - Компании: Zextras, Хабр
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT, рынок IT, системы автоматизации
+- Кандидаты компаний: RedHat, RedHat Forum Russia, Zextras Suite, Zimbra, Zimbra Open-Source Edition, Министерство обороны США, ФСТЭК
 
 - https://habr.com/ru/companies/Zextras/articles/425195/
 - Отрасли: Информационная безопасность
 - Компании: Хабр, Zextras, Далее
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Amavis, ClamAV, Postfix, Postgrey, SpamAssassin, ZCS, Zextras Suite, Zimbra, Zimbra Collaboration Suite
 
 - https://habr.com/ru/companies/Zextras/articles/425679/
 - Отрасли: Информационная безопасность, Мобильные технологии
 - Компании: Хабр, Zextras, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Системное администрирование
+- Кандидаты компаний: MS Exchange, MS Outlook, Zextras Mobile, Zextras Suite, Zimbra, Zimbra Collaboration Suite, Zimbra Collaboration Suite Open-Source Edition
 
 - https://habr.com/ru/companies/Zextras/articles/426563/
 - Отрасли: Мобильные технологии
 - Компании: Хабр, Zextras
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Linux, MS Office 365, Outlook, Outlook 2016, Outlook 2019, Zextras Mobile, Zextras Suite, Zimbra, Zimbra Collaboration Suite
 
 - https://habr.com/ru/companies/Zextras/articles/427729/
 - Отрасли: Информационная безопасность, информационной безопасности
 - Компании: Хабр, Zextras, серверы
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Amavis, ClamAV, memcached, MySQL, nginx, OpenDKIM, Postfix, SASL, SpamAssassin, Zextras Suite, Zimbra, Zimbra Collaboration Suite
 
 - https://habr.com/ru/companies/Zextras/articles/428574/
 - Отрасли: SaaS
 - Компании: Zextras, Хабр
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: корпоративное общение
+- Кандидаты компаний: IE8, XMPP, Zextras Chat, Zextras Suite, Zimbra, Zimbra Collaboration Suite
 
 - https://habr.com/ru/companies/Zextras/articles/429568/
 - Отрасли: не найдено
 - Компании: Zextras, Хабр
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: ИТ
+- Кандидаты компаний: rsync, ZCS, Zextras Backup, Zextras Suite, Zimbra, Zimbra Collaboration Suite, Zimbra Collaboration Suite Open-Source Edition
 
 - https://habr.com/ru/companies/Zextras/articles/431098/
 - Отрасли: не найдено
 - Компании: Хабр, Zextras
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: аварийное восстановление, виртуализация, ИТ, резервное копирование
+- Кандидаты компаний: Linux, rsync, Ubuntu, ZCS, Zextras Backup, Zextras Suite, Zimbra, Zimbra Collaboration Suite
 
 - https://habr.com/ru/companies/Zextras/articles/432146/
 - Отрасли: СМИ, SaaS, Мобильные технологии
 - Компании: Хабр, Zextras, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-инфраструктура, госсектор, импортозамещение
+- Кандидаты компаний: Microsoft, Microsoft Exchange, Microsoft Outlook, MS Exchange, ZCS Migration Wizard, Zextras Mobile, Zextras Suite, Zimbra, Zimbra Collaboration Suite, Zimbra Collaboration Suite Open-Source Edition
 
 - https://habr.com/ru/companies/Zextras/articles/432782/
 - Отрасли: SaaS, провайдер
 - Компании: Хабр, Zextras, провайдер, Space, серверы
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Amavis, LDAP, Mail Transfer Agent, MTA, Nginx, Postfix, Zimbra, Zimbra Collaboration Suite, Zimbra LDAP, Zimbra Mailbox, Zimbra Proxy, zimbra-apache, zimbra-core, zimbra-dnscache, zimbra-ldap, zimbra-logger, zimbra-mta, zimbra-snmp, zimbra-store
 
 - https://habr.com/ru/companies/Zextras/articles/433152/
 - Отрасли: SaaS
 - Компании: Хабр, Zextras
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-инфраструктура
+- Кандидаты компаний: Zextras Backup, Zextras Suite, Zimbra, Zimbra Collaboration Suite, Zimbra Open-Source Edition
 
 - https://habr.com/ru/companies/Zextras/articles/434164/
 - Отрасли: не найдено
 - Компании: Хабр, Zextras
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT, электронная почта
+- Кандидаты компаний: IBM Notes/Domino, imapsync, LDAP, MS Exchange, MS Windows, ZCS Migration Wizard for Lotus Domino, Zextras Suite, Zimbra, Zimbra Collaboration Server Migration Wizard for Lotus Domino, Zimbra Collaboration Suite, Zimbra Wiki
 
 - https://habr.com/ru/companies/Zextras/articles/434530/
 - Отрасли: не найдено
 - Компании: Хабр, Zextras
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Zextras Suite, Zimbra, Zimbra Collaboration Suite Open-Source Edition
 
 - https://habr.com/ru/companies/Zextras/articles/436304/
 - Отрасли: Информационная безопасность, информационной безопасности, предлагает
 - Компании: Хабр, Zextras, предлагает
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Amavis, ClamAV, MS Excel, OpenDKIM, SpamAssassin, Spoofing and Phishing Alert Zimlet, Zextras Suite, Zimbra Collaboration Suite
 
 - https://habr.com/ru/companies/Zextras/articles/436990/
 - Отрасли: Enterprise, SaaS
 - Компании: Zextras, Хабр
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: SaaS-провайдеры
+- Кандидаты компаний: ROSA Enterprise Linux Desktop (RELD), ROSA Enterprise Linux Server (RELS), ROSA Virtualization, Zextras Suite, Zimbra, Zimbra Collaboration Suite, Zimbra Open-Source Edition, НТЦ ИТ РОСА, РОСА, РОСА КОБАЛЬТ рабочая станция, РОСА КОБАЛЬТ сервер
 
 - https://habr.com/ru/companies/Zextras/articles/437056/
 - Отрасли: SaaS
 - Компании: Zextras, Хабр, РЕД СОФТ, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: SaaS-провайдеры
+- Кандидаты компаний: Zextras Suite, Zimbra, Zimbra Collaboration Suite, РЕД ОС, РОСА, ФСТЭК
 
 - https://habr.com/ru/companies/Zextras/articles/437240/
 - Отрасли: не найдено
 - Компании: Хабр, Zextras
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Active Directory, Microsoft, ZCS, Zextras Suite, Zimbra, Zimbra Collaboration Suite, Zimbra OSE
 
 - https://habr.com/ru/companies/Zextras/articles/440412/
 - Отрасли: Мобильные технологии
 - Компании: Хабр, Zextras, серверы
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: ИТ, системное администрирование, электронная почта
+- Кандидаты компаний: Active Directory, Microsoft, MS Exchange, MS Outlook, Postfix, ZCS Migration Wizard, Zextras Mobile, Zextras Suite, Zimbra, Zimbra Collaboration Suite
 
 - https://habr.com/ru/companies/Zextras/articles/441280/
 - Отрасли: не найдено
 - Компании: Хабр, Zextras
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: MS Exchange, Zextras Chat, Zextras Suite, Zimbra, Zimbra Collaboration Suite
 
 - https://habr.com/ru/companies/Zextras/articles/442536/
 - Отрасли: торговые
 - Компании: Хабр, Zextras, Яндекс
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: ISP, торговые сети
+- Кандидаты компаний: gmail, Zextras Suite, Zimbra, Zimbra Collaboration Suite, яндекс-почта
 
 - https://habr.com/ru/companies/Zextras/articles/443260/
 - Отрасли: не найдено
 - Компании: Хабр, Zextras
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: IBM Notes/Domino, MS Exchange, ZCS Migration Wizard for Lotus Domino, Zextras Suite, Zimbra, Zimbra Collaboration Suite
 
 - https://habr.com/ru/companies/Zextras/articles/445206/
 - Отрасли: информационной безопасности, SaaS
