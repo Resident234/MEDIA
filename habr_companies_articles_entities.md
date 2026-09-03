@@ -25355,152 +25355,152 @@
 - https://habr.com/ru/companies/lamoda/articles/707816/
 - Отрасли: не найдено
 - Компании: Хабр, Lamoda Tech, Авито
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Аналитика мобильных приложений, Математика, Статистика в IT, Управление продуктом
+- Кандидаты компаний: GitHub, Lamoda
 
 - https://habr.com/ru/companies/lamoda/articles/722506/
 - Отрасли: e-commerce, аналитики
 - Компании: Хабр, Lamoda Tech, Бэклог, Далее
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Confluence, Lamoda, Spotify
 
 - https://habr.com/ru/companies/lamoda/articles/728034/
 - Отрасли: не найдено
 - Компании: Хабр, Lamoda Tech
-- Кандидаты отраслей: не найдено
+- Кандидаты отраслей: IT, мобильные приложения
 - Кандидаты компаний: не найдено
 
 - https://habr.com/ru/companies/lamoda/articles/728920/
 - Отрасли: не найдено
 - Компании: Хабр, Lamoda Tech
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Cookiecutter, Docker, go-swagger, Gonkey, Grafana, Kafka, PostgreSQL, Scratch
 
 - https://habr.com/ru/companies/lamoda/articles/731542/
 - Отрасли: ML, Big Data, e-commerce
 - Компании: Хабр, Lamoda Tech, Далее
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: ElasticSearch, Lamoda
 
 - https://habr.com/ru/companies/lamoda/articles/734446/
 - Отрасли: Дизайн и юзабилити
 - Компании: Хабр, Lamoda Tech, Бэклог
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-компании, маркировка товаров, облачные кассы, склады
+- Кандидаты компаний: GitHub, Gonkey, Jira, АТОЛ
 
 - https://habr.com/ru/companies/lamoda/articles/741888/
 - Отрасли: e-commerce
 - Компании: Хабр, Lamoda Tech, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-индустрия
+- Кандидаты компаний: Lamoda, Ситилинк
 
 - https://habr.com/ru/companies/lamoda/articles/746140/
 - Отрасли: e-commerce, Big Data, Machine Learning, digital, аналитики, Мобильные технологии, ML, PaaS, маркетинге
 - Компании: Lamoda Tech, Хабр, ОК, Арендовать, 1С
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-индустрии, красота, лайфстайл, мода, ритейл
+- Кандидаты компаний: App Gallery, Google, Huawei, Lamoda, LM Express, Postman, Similarweb
 
 - https://habr.com/ru/companies/lamptest/articles/365733/
 - Отрасли: умный дом, Поисковые технологии
 - Компании: Хабр, LampTest
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Гаджеты, Компьютерное железо, светодиодное освещение
+- Кандидаты компаний: IKEA, LEDARE, Viso LightSpion, Люпин
 
 - https://habr.com/ru/companies/lamptest/articles/383801/
 - Отрасли: умный дом
 - Компании: Хабр, LampTest
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: гаджеты, компьютерное железо, светодиодное освещение
+- Кандидаты компаний: GE, lamptest.ru, Navigator, Osram, Philips, Viso LightSpion, Люпин
 
 - https://habr.com/ru/companies/lamptest/articles/384115/
 - Отрасли: умный дом
 - Компании: Хабр, LampTest
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Гаджеты, интернет-магазины, Компьютерное железо, светодиодное освещение
+- Кандидаты компаний: Gauss, Gauss-online, lamptest.ru, Viso LightSpion, Люпин
 
 - https://habr.com/ru/companies/lamptest/articles/386123/
 - Отрасли: не найдено
 - Компании: Хабр, LampTest, FUJITSU
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Гаджеты, интернет-магазины, оптовая компания, розничная торговля, Энергия и элементы питания
+- Кандидаты компаний: Ansmann, Battery Team, BTY, Camelion, Energizer, Energizer PreCharged, GP, HobbyKing, IKEA, IKEA LADDA, IMEDION, JAPCELL, Kosmos, La Crosse, Lamptest.ru, Maha Powerex, Navigator, Navigator 2100, Panasonic, Panasonic Eneloop, Panasonic Eneloop Lite, Panasonic Eneloop Pro, PKCELL, Robiton, ru.nkon.nl, Turnigy, Varta, Источник Бэттэрис, Энергосистемы и Технологии
 
 - https://habr.com/ru/companies/lamptest/articles/387435/
 - Отрасли: не найдено
 - Компании: Хабр, LampTest, Леруа Мерлен
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: гипермаркеты, интернет-магазины, светодиодное освещение
+- Кандидаты компаний: Camelion, Osram, Philips, REV, Supra, Viso LightSpion, Vitoone, Wolta, Ашан, Космос, Люпин, Эра
 
 - https://habr.com/ru/companies/lamptest/articles/387617/
 - Отрасли: не найдено
 - Компании: Леруа Мерлен, Хабр, LampTest
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: светодиодное освещение
+- Кандидаты компаний: Bellight, lamptest.ru, Lexman, Osram, Uniel, Viso LightSpion, Volpe, Wolta, Wolta LED Simple, Ашан, Люпин
 
 - https://habr.com/ru/companies/lamptest/articles/392637/
 - Отрасли: не найдено
 - Компании: Хабр, LampTest, Звук
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: гаджеты, компьютерное железо, светодиодное освещение
+- Кандидаты компаний: IKEA, Rainbow EcoDim, RYET, Viso LightSpion, Люпин
 
 - https://habr.com/ru/companies/lamptest/articles/396627/
 - Отрасли: не найдено
 - Компании: Хабр, LampTest, FUJITSU
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Гаджеты, Компьютерное железо, Энергия и элементы питания
+- Кандидаты компаний: accutest.ru, batterytest.ru, Eneloop, IKEA, LADDA, Panasonic, ru.nkon.nl, Sanyo, ВИННИНГЕ, СТОРХОГЕН
 
 - https://habr.com/ru/companies/lamptest/articles/399571/
 - Отрасли: не найдено
 - Компании: Хабр, LampTest
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Индустрия светодиодных ламп
+- Кандидаты компаний: ASD, Camelion, Feron, Gauss, Ikea, Jazzway, Navigator, OSRAM, Philips, REV, Smartbuy, Uniel, X-Flash, Лисма, Наносвет, Эра
 
 - https://habr.com/ru/companies/lamptest/articles/403865/
 - Отрасли: не найдено
 - Компании: Хабр, LampTest
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: гипермаркеты, светодиодные лампы
+- Кандидаты компаний: Auchan, LiveJournal, Robiton PM-2, Uprtek MK350D, Viso Light Spion
 
 - https://habr.com/ru/companies/lamptest/articles/404477/
 - Отрасли: не найдено
 - Компании: Хабр, LampTest
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Гаджеты, Компьютерное железо, товары для дома
+- Кандидаты компаний: GX53, IKEA, Instrument Systems, LED1433X9, LEDARE, Robiton, RYET, Uprtek, Viso Light Spion
 
 - https://habr.com/ru/companies/lamptest/articles/405445/
 - Отрасли: не найдено
 - Компании: Хабр, LampTest
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Гаджеты, Компьютерное железо, освещение
+- Кандидаты компаний: Aliexpress, Instrument Systems, MiHome, Robiton, Uprtek, Viso Light Spion, Xiaomi, Yeelight
 
 - https://habr.com/ru/companies/lamptest/articles/407709/
 - Отрасли: не найдено
 - Компании: Хабр, LampTest
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: освещение, продуктовые магазины
+- Кандидаты компаний: Aneng, OSRAM, Philips, Robiton, Suntek, Uprtek, Viso Light Spion, Дикси, Штиль
 
 - https://habr.com/ru/companies/lamptest/articles/409611/
 - Отрасли: не найдено
 - Компании: Хабр, LampTest
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: гаджеты, освещение, светодиодные лампы
+- Кандидаты компаний: Bauhaus, EGLO, GLOBO, OBI, Osram, OSRAM, PHILIPS, Philips, Saturn
 
 - https://habr.com/ru/companies/lamptest/articles/409931/
 - Отрасли: не найдено
 - Компании: Пятёрочки, Хабр, LampTest
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: розничная торговля
+- Кандидаты компаний: Aneng AN8001, FixPrice, Lamptest-1, Philips, Robiton PM-2, Suntek TDGC2-0.5, Uprtek MK350D, Viso Light Spion, Дикси, Окей, Пятёрочка, Штиль Инстаб 500
 
 - https://habr.com/ru/companies/lamptest/articles/410675/
 - Отрасли: не найдено
 - Компании: Хабр, LampTest
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Гаджеты, светодиодное освещение
+- Кандидаты компаний: Robiton, SWG, Uprtek, VILLY, Viso Light Spion, Гранит
 
 - https://habr.com/ru/companies/lamptest/articles/412467/
 - Отрасли: не найдено
 - Компании: Хабр, LampTest, Звук
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: рынок светодиодных ламп, светодиодное освещение
+- Кандидаты компаний: Aneng, IKEA, Instrument Systems, OSRAM, Robiton, Suntek, Uprtek, Viso Light, Штиль Инстаб
 
 - https://habr.com/ru/companies/lamptest/articles/418319/
 - Отрасли: не найдено
