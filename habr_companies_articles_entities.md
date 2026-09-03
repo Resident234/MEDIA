@@ -21455,104 +21455,104 @@
 - https://habr.com/ru/companies/k2tech/articles/743592/
 - Отрасли: Информационная безопасность
 - Компании: Хабр, К2Тех, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: web-приложения
+- Кандидаты компаний: BurpSuite, Docker, Docker Hub, Juice Shop, K2Тех, nginx, SolidWall
 
 - https://habr.com/ru/companies/k2tech/articles/746496/
 - Отрасли: Программное обеспечение, ERP, CRM, Enterprise, предлагает, аналитики, BPM, консалтинг
 - Компании: Хабр, К2Тех, NAUMEN, SimpleOne, Ростелеком, предлагает, Цифра, Яндекс
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Help Desk Software, ITSM, IT‑инфраструктура, Service Desk, автоматизация бизнес‑процессов, омниканальная коммуникация, службы поддержки, Управление проектами
+- Кандидаты компаний: Comindware, ELMA, ESMP, Naumen Service Desk Pro, RockIT Manager, vsDesk, ИнфраМенеджер, Юздеск
 
 - https://habr.com/ru/companies/k2tech/articles/747108/
 - Отрасли: облачных сервисов, Enterprise, медиа
 - Компании: Хабр, К2Тех, серверы, YADRO, Гравитон, Samsung, 1С, Минпромторга
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-инфраструктура, Компьютерное железо, радиоэлектронная промышленность, Серверное администрирование, хранилище данных
+- Кандидаты компаний: AMI, Aquarius AQC624CF, AQUARIUS T50 D224CF R52, ASPEED, ASPEED AST2500, Astra Linux, HPE, Intel, MegaRAID, MegaRAID 9361-24i, Microsoft, Microsoft Windows Server 2008 R2, Microsoft Windows Server 2012, Microsoft Windows Server 2016-2019, numaBIOS, RedHat, RedHat Enterprise Linux Server 7.x, SUSE, SUSE Enterprise Linux Server 12.x, Ubuntu, Ubuntu 16.04 LTS, VMware, VMware vSphere (ESXi) 6.7, Аквариус, Аквариус Старт, Альт, Альт 8, РЕД ОС (Муром 7.2)
 
 - https://habr.com/ru/companies/k2tech/articles/748894/
 - Отрасли: Информационная безопасность, провайдер, Enterprise, хостинг, ритейла
 - Компании: Хабр, К2Тех, Далее, провайдер, DDoS-Guard
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: ISP, IT‑инфраструктура, MSSP, банки, интернет‑провайдеры, сетевое оборудование, сетевые технологии
+- Кандидаты компаний: MITIGATOR
 
 - https://habr.com/ru/companies/k2tech/articles/751702/
 - Отрасли: Информационная безопасность, Enterprise, Программное обеспечение, Мобильные технологии, предлагает
 - Компании: Хабр, К2Тех, Госуслуги, предлагает
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: гостевая авторизация, Сетевые технологии, Системное администрирование
+- Кандидаты компаний: Aruba, Astra Linux, Avaya, Cisco, Cisco ISE, ClearPass, Debian, DECK.Auth, Fan ID, FreeIPA, GIS Efros ACS/DO, HPE, Huawei, Huawei NCE-Campus, K2Тех, MS AD, MS CA, Netams, Quality of Wireless, Ruckus, Ubuntu, WNAM, СОРМ
 
 - https://habr.com/ru/companies/k2tech/articles/top/
 - Отрасли: Платформенные сервисы, PaaS
 - Компании: К2Тех, Хабр, МойОфис, Orion soft
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: aviation, cloud services, digital production, energy, finance, industrial automation, IT, manufacturing, network technologies, video conferencing
+- Кандидаты компаний: AIX, Alpine, Aruba, CentOS, Cisco, K2, K2 Cloud, K2Тех, Solaris, Ubuntu
 
 - https://habr.com/ru/companies/kaiten/articles/top/
 - Отрасли: торговые, Программное обеспечение, телек, торговли
 - Компании: Kaiten, Хабр, VK, КРОК, Wrike, AGIMA, Далее, Цифра
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT, VPS, веб-хостинг, видеопродакшен, доменных имен, контактные пасты, корпоративный мерч, косметика, лазера, логистика, медицинские гели, среды для УЗИ, ЭКГ, ЭЭГ
+- Кандидаты компаний: Atlassian, Aviasales, Epic Games, Microsoft, Notion, Reebok, REG.RU, Uniko, Гельтека, Кайтен, Касперский, Минцифры, НИИ «Медполимер», ОККО, Самарский университет, Сколково
 
 - https://habr.com/ru/companies/karuna/articles/552944/
 - Отрасли: не найдено
 - Компании: Хабр, Karuna
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Stack Overflow
 
 - https://habr.com/ru/companies/karuna/articles/555270/
 - Отрасли: не найдено
 - Компании: Хабр, Karuna
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT, marketing
+- Кандидаты компаний: Facebook, GitHub, Google, Habr
 
 - https://habr.com/ru/companies/karuna/articles/556842/
 - Отрасли: не найдено
 - Компании: Хабр, Karuna, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: QA, Тестирование веб-сервисов
+- Кандидаты компаний: cloudflare, gitlab, helm, Kubernetes, vault
 
 - https://habr.com/ru/companies/karuna/articles/563018/
 - Отрасли: не найдено
 - Компании: Хабр, Karuna, Далее, Цифра
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Базы данных
+- Кандидаты компаний: Docker, ip4r, nginx, PostgreSQL
 
 - https://habr.com/ru/companies/karuna/articles/564736/
 - Отрасли: не найдено
 - Компании: Хабр, Karuna
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: mint, Tesla
 
 - https://habr.com/ru/companies/karuna/articles/565466/
 - Отрасли: Веб-разработка
 - Компании: Хабр, Karuna
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Web-разработка, Программирование
+- Кандидаты компаний: Grafana, Karuna Go, Kibana, okmeter, pg_stat_statements, PostgreSQL, Prometheus, грейлог
 
 - https://habr.com/ru/companies/karuna/articles/568240/
 - Отрасли: Информационная безопасность
 - Компании: Хабр, Karuna, Далее
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: gh-ost, golang, MySQL, postgres, PostgreSQL, pt-online-schema-change
 
 - https://habr.com/ru/companies/karuna/articles/574420/
 - Отрасли: Дизайн и юзабилити, Enterprise, ML, аналитики
 - Компании: Хабр, Karuna, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: государственные сервисы
+- Кандидаты компаний: Postman, TFS
 
 - https://habr.com/ru/companies/karuna/articles/576016/
 - Отрасли: не найдено
 - Компании: Хабр, Karuna, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Database
+- Кандидаты компаний: PostgreSQL, psql, Rails, Ruby on Rails
 
 - https://habr.com/ru/companies/karuna/articles/582808/
 - Отрасли: не найдено
 - Компании: Хабр, Karuna
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: интернет-магазин
+- Кандидаты компаний: Docker, Kafka, MongoDB, PostgreSQL, wurstmeister, Zookeeper
 
 - https://habr.com/ru/companies/karuna/articles/587002/
 - Отрасли: предлагает
@@ -21563,44 +21563,44 @@
 - https://habr.com/ru/companies/karuna/articles/588448/
 - Отрасли: не найдено
 - Компании: Хабр, Karuna, быструю, Далее, Space
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: телефония, фронтенд
+- Кандидаты компаний: Angular, Angular CLI, Google, Node.js, npm, webpack, yarn
 
 - https://habr.com/ru/companies/karuna/articles/591685/
 - Отрасли: не найдено
 - Компании: Хабр, Karuna
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Android, Разработка мобильных приложений
+- Кандидаты компаний: Android Gradle plugin, Dropbox, Firebase Performance, Gradle, IntelliJ IDEA, JaCoCo, JetBrains
 
 - https://habr.com/ru/companies/karuna/articles/595815/
 - Отрасли: не найдено
 - Компании: Хабр, Karuna
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Habr, ng-packagr
 
 - https://habr.com/ru/companies/karuna/articles/647797/
 - Отрасли: предлагает
 - Компании: Хабр, Karuna, Далее, предлагает
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: контейнеризации приложений, облачные услуги, система оркестровки
+- Кандидаты компаний: Amazon AWS, Cisco, Docker, Docker-compose, gcloud, GitHub, Google, Minikube, Nginx, Proxmox, Snap
 
 - https://habr.com/ru/companies/karuna/articles/650835/
 - Отрасли: Связь и телекоммуникации, предлагает
 - Компании: Хабр, Karuna, предлагает
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT, web development
+- Кандидаты компаний: Ecto, Elixir, Erlang, ExUnit, Habr, minitest, Open Telecom Platform, Phoenix, Ruby, Ruby on Rails, VS Code
 
 - https://habr.com/ru/companies/karuna/articles/665344/
 - Отрасли: IoT, хостинг
 - Компании: Хабр, Karuna, Proto
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT, криптовалюты
+- Кандидаты компаний: Chia, CoinMarketCap, github.com, Heroku, Karuna Go, Postgres, RUVDS, Signum, Telegram, Каруна
 
 - https://habr.com/ru/companies/karuna/articles/670388/
 - Отрасли: аналитики
 - Компании: Хабр, Karuna, Далее, Space
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Базы данных, Мониторинг
+- Кандидаты компаний: dataegret, GitHub, pgcompacttable, PostgreSQL
 
 - https://habr.com/ru/companies/karuna/articles/674730/
 - Отрасли: Веб-разработка
