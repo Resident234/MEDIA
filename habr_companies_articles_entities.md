@@ -57156,151 +57156,151 @@
 - Отрасли: не найдено
 - Компании: не найдено
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Elektron1, Habr
 
 - https://habr.com/ru/companies/timeweb/articles/706422/
 - Отрасли: DIY
 - Компании: Хабр, Timeweb Cloud, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: компьютерная индустрия
+- Кандидаты компаний: DEC, IBM, LK201 Keyboard Interface, xlat, ДВК, Квант, Электроника
 
 - https://habr.com/ru/companies/timeweb/articles/707040/
 - Отрасли: DIY, финансы, Программное обеспечение
 - Компании: Хабр, Timeweb Cloud, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: DIY или Сделай сам, печатные платы, электроника
+- Кандидаты компаний: LPKF, ProtoMat
 
 - https://habr.com/ru/companies/timeweb/articles/707300/
 - Отрасли: DIY, промышленность
 - Компании: Хабр, Timeweb Cloud, Самолет, АТОМ, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: авиация, атомная промышленность, транспорт, энергия и элементы питания
+- Кандидаты компаний: Convair, Department of Defense, GE Beetle, General Electric, ЗСУ М42 Duster, КБ «Антонова», КБ «Мясищева», КБ «Туполева»
 
 - https://habr.com/ru/companies/timeweb/articles/707712/
 - Отрасли: не найдено
 - Компании: Хабр, Timeweb Cloud
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: IBM, MS-DOS, Sinclair
 
 - https://habr.com/ru/companies/timeweb/articles/707808/
 - Отрасли: DIY, Дизайн и юзабилити
 - Компании: Хабр, Timeweb Cloud, Контур
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: производство электроники, силовая электроника, электроника
+- Кандидаты компаний: Altium Designer
 
 - https://habr.com/ru/companies/timeweb/articles/708614/
 - Отрасли: Мобильные технологии
 - Компании: Хабр, Timeweb Cloud, AMD, DELL
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: гаджеты, компьютерное железо, ноутбуки, ретроспектива
+- Кандидаты компаний: ASUS, Compal Electronics, Crusoe TM5800, Cyrix, Digma, Elitegroup, FIC, HP, IBM, Intel, iRu, MSI, RoverBook, Toshiba, TransMeta Corporation, VIA, МЦСТ, Эльбрус
 
 - https://habr.com/ru/companies/timeweb/articles/708804/
 - Отрасли: Мобильные технологии
 - Компании: Хабр, Timeweb Cloud, Далее, Samsung
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: DECT, GSM, TDMA, TETRA, Сотовая связь, Стандарты связи
+- Кандидаты компаний: C113, C115, C118, C123, C155, CalypsoBTS, CH340G, CP2102, FT232, FTDI, MAX232, Motorola, OpenBSC, OsmoBTS, Osmocom, Osmocom NITB, OsmocomBB, OsmoNITB, Silicon Labs, TI Calypso
 
 - https://habr.com/ru/companies/timeweb/articles/709074/
 - Отрасли: не найдено
 - Компании: Хабр, Timeweb Cloud
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: алгоритмы, верстка, информатика, книгоиздательство, компьютерные технологии, музыкальное искусство, научная периодика, программирование, религиозные исследования, спортивные технологии, языки программирования
+- Кандидаты компаний: CBS, Chinese Journal of Computer Science and Technology, IBM, Newsweek, Stenfordsky universitet, Ziegler Candy, Эддисон-Уэсли
 
 - https://habr.com/ru/companies/timeweb/articles/709134/
 - Отрасли: не найдено
 - Компании: Хабр, Timeweb Cloud, ОК, Звук, Мегафон
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: электроника
+- Кандидаты компаний: Habr, Тексис
 
 - https://habr.com/ru/companies/timeweb/articles/709184/
 - Отрасли: DIY, Дизайн и юзабилити
 - Компании: Хабр, Timeweb Cloud, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: производство и разработка электроники
+- Кандидаты компаний: Infineon, International Rectifier, TI
 
 - https://habr.com/ru/companies/timeweb/articles/709240/
 - Отрасли: OCR
 - Компании: Хабр, Timeweb Cloud
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: почтовая служба
+- Кандидаты компаний: GoPro, Siemens, USPS, Министерство Финансов, Почтовая служба США
 
 - https://habr.com/ru/companies/timeweb/articles/710228/
 - Отрасли: не найдено
 - Компании: не найдено
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Habr
 
 - https://habr.com/ru/companies/timeweb/articles/710596/
 - Отрасли: не найдено
 - Компании: Хабр, Timeweb Cloud, Дом.ру, Далее, Магнит
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: электронных систем контроля доступа
+- Кандидаты компаний: Beward, Cyfral, Eltis, Laskomex, Raikmann, Texas Instruments, Интерсвязи, Метаком, Факториал
 
 - https://habr.com/ru/companies/timeweb/articles/710962/
 - Отрасли: Аппаратное обеспечение
 - Компании: Хабр, Timeweb Cloud, Далее
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Apple, DreamCheeky, eBay, SnoopyPro, VMware
 
 - https://habr.com/ru/companies/timeweb/articles/711204/
 - Отрасли: не найдено
 - Компании: Хабр, Timeweb Cloud
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Cherry MX, DEC, Wyse
 
 - https://habr.com/ru/companies/timeweb/articles/711288/
 - Отрасли: не найдено
 - Компании: Хабр, Timeweb Cloud, Звук, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Дизайн игр, Разработка игр
+- Кандидаты компаний: GameDEVils, GitHub, Heroes Might and Magic III, Heroes of Might and Magic III: The Shadow of Death, Substack, Telegram, Герои Меча и Магии III
 
 - https://habr.com/ru/companies/timeweb/articles/712448/
 - Отрасли: провайдер
 - Компании: Хабр, Timeweb Cloud, Звук, Далее, DSP, провайдер, Яндекс, VK
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Банковский сектор, Безопасность, Системы связи, Финансовые услуги
+- Кандидаты компаний: Acorp, Intel, Linksys, Panasonic, TI, U.S. Robotics, Zyxel
 
 - https://habr.com/ru/companies/timeweb/articles/713220/
 - Отрасли: не найдено
 - Компании: Хабр, Timeweb Cloud
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: производство ламп, производство офисной техники, производство принтеров
+- Кандидаты компаний: General Electric, HP, KYOCERA, Osram, Pantum, Philips, Phoebus, Seiko Epson Corporation, Xerox
 
 - https://habr.com/ru/companies/timeweb/articles/714040/
 - Отрасли: промышленность
 - Компании: Хабр, Timeweb Cloud
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: астрономия, биология, инженерное дело, навигация, сельскохозяйственные расчеты, строительные расчеты, химия, экономические расчеты
+- Кандидаты компаний: ZX Spectrum 48K, Б3-34, МК-52, МК-54, МК-61, Моделист-Конструктор, Техника Молодежи, Электроника, Юный Техник
 
 - https://habr.com/ru/companies/timeweb/articles/714500/
 - Отрасли: DIY
 - Компании: Хабр, Timeweb Cloud, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: автомобильная промышленность, электроника
+- Кандидаты компаний: Arduino, Arduino Leonardo, AtMega32U4, Bluepill, Habr, QMK, QMK MSYS, Robotron, Robotron 1715, stm32f103c8, thingiverse.com, U880, Z80, Zilog, алиэкспресс, ГДР
 
 - https://habr.com/ru/companies/timeweb/articles/714894/
 - Отрасли: промышленные, промышленность
 - Компании: Хабр, Timeweb Cloud
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT, колл-центры, пейринг, персональные компьютеры, производство калькуляторов
+- Кандидаты компаний: Algorithms, Inc, IBM, Wang Laboratories
 
 - https://habr.com/ru/companies/timeweb/articles/716198/
 - Отрасли: промышленность
 - Компании: Хабр, Timeweb Cloud
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: химическая промышленность
+- Кандидаты компаний: Bioshock, Neufeldt & Kuhnke
 
 - https://habr.com/ru/companies/timeweb/articles/716236/
 - Отрасли: банках, Программное обеспечение, криптографии
 - Компании: Хабр, Timeweb Cloud, QIWI, Далее, RET
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: банки, платежные системы
+- Кандидаты компаний: Alps Electric, ARM, GSM, Ingenico, SAGEM, Sagemcom, Арком
 
 - https://habr.com/ru/companies/timeweb/articles/716494/
 - Отрасли: digital
 - Компании: AMD, Хабр, Timeweb Cloud, быструю, GIGABYTE, Звук, Selectel, VK
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT, производство материнских плат, производство процессоров
+- Кандидаты компаний: Digital, Intel, NexGen, Rambus, VIA
 
 - https://habr.com/ru/companies/timeweb/articles/716662/
 - Отрасли: не найдено
