@@ -57305,104 +57305,104 @@
 - https://habr.com/ru/companies/timeweb/articles/716662/
 - Отрасли: не найдено
 - Компании: Хабр, Timeweb Cloud, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: встраиваемые системы, промышленный сектор
+- Кандидаты компаний: DiskOnChip, DOS, EEPROM SST 29EE512, IBM, Linux, M-Systems, Micros WS4, QNX, SST, TrueFFS, Windows 2000, Windows CE
 
 - https://habr.com/ru/companies/timeweb/articles/716866/
 - Отрасли: не найдено
 - Компании: Хабр, Timeweb Cloud
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: автогонки, геймдев индустрия, Дизайн игр, Игры и игровые консоли, История IT, Разработка игр
+- Кандидаты компаний: 3DO, Apple II, Domino's, Electronic Arts, GameDEVils, GDC, Heroes of Might and Magic, Heroes of Might and Magic III, HoMM3, King’s Bounty, Might and Magic, NASA-pro Racing, New World Computing, NWC, PC Gamer, Substack, Taco Bell, Warhammer, Утиные истории
 
 - https://habr.com/ru/companies/timeweb/articles/717608/
 - Отрасли: не найдено
 - Компании: Хабр, Timeweb Cloud, ОК
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: вычислительные центры, издательская деятельность, компьютерные технологии, научные организации
+- Кандидаты компаний: Dartmouth College, General Electric, Habr, Royal McBee, Teletype, Timeweb, Калифорнийский университет в Лос-Анджелесе, Принстонский университет, школа Лейксайд
 
 - https://habr.com/ru/companies/timeweb/articles/717718/
 - Отрасли: не найдено
 - Компании: не найдено
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Habr
 
 - https://habr.com/ru/companies/timeweb/articles/717808/
 - Отрасли: не найдено
 - Компании: Хабр, Timeweb Cloud, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT, гаджеты, электронные книги, электронные переводчики
+- Кандидаты компаний: 4shared.com, Android, Apple, Casio, eBookMan, eBookMan Desktop Manager, Ectaco, Franklin, Google, Habr, Microsoft, Microsoft Reader, Palm, Partner B-3, PV-S450, SC 5000, VeriFone, WP, Yahoo
 
 - https://habr.com/ru/companies/timeweb/articles/717956/
 - Отрасли: медиа
 - Компании: Хабр, Timeweb Cloud, Сбер, Тинькофф, билайн, Samsung, МТС
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-индустрия, мессенджеры, мобильные устройства, онлайн-банкинг, полупроводниковая промышленность, социальные сети, финансовые услуги, электроника
+- Кандидаты компаний: AliExpress, Barum, Exynos, Foresee, Hynix, Kirin, MediaTek, Megafon, MTK, Qualcomm, Sber, Spreadtrum, Telegram, UniSoc, Альфа, Билайн Смартсмартфоны на Ali до 4.000 рублей. То же железо, разве что могут сделать в дизайне свежего флагмана с большим дисплеем неплохого качества. Xgody Y20, ВКонтакте
 
 - https://habr.com/ru/companies/timeweb/articles/718514/
 - Отрасли: не найдено
 - Компании: Хабр, Timeweb Cloud, Звук, Space
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: компьютерная индустрия, рынок ПК
+- Кандидаты компаний: Amstrad CPC, Apple, Apple II, Atari, Commodore, Commodore C64, Commodore PET, Commodore VIC-20, Habr, IBM, IBM PC, Science of Cambridge, Science of Cambridge Ltd, Sinclair, Sinclair ZX Spectrum, Texas Instruments, Timex, Timex Sinclair, TRS-80
 
 - https://habr.com/ru/companies/timeweb/articles/718910/
 - Отрасли: не найдено
 - Компании: не найдено
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Habr, Habr Career
 
 - https://habr.com/ru/companies/timeweb/articles/719202/
 - Отрасли: DIY
 - Компании: Хабр, Timeweb Cloud, ПИК, 1С
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: ночные клубы, производство электроники, развлекательная индустрия, схемотехника, электроника для начинающих
+- Кандидаты компаний: Winamp
 
 - https://habr.com/ru/companies/timeweb/articles/719634/
 - Отрасли: не найдено
 - Компании: Хабр, Timeweb Cloud, Контур
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Дизайн игр, Игры и игровые консоли, Разработка игр
+- Кандидаты компаний: GameDEVils, Google Play, Substack
 
 - https://habr.com/ru/companies/timeweb/articles/720388/
 - Отрасли: медиа
 - Компании: Хабр, Timeweb Cloud, Samsung, Авито, Звук, DSP
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT, мобильные устройства, онлайн-торговля, электроника
+- Кандидаты компаний: AliExpress, Apple, Aviто, ColorOS, crDroid, EMUI, Habr, Huawei, iPhone, Lenovo, MediaTek, MIUI, MTKImgTool, OneUI, Oppo, TouchWiz, Xperia, ZTE
 
 - https://habr.com/ru/companies/timeweb/articles/720722/
 - Отрасли: не найдено
 - Компании: Хабр, Timeweb Cloud
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT
+- Кандидаты компаний: Android, Apple, Apple II Plus, FAR Group, FAR Manager, FreeBSD, Linux, macOS, Microsoft Windows, MS-DOS, RAR, Roshal ARchiver, UnRAR, Windows, Windows 95, Windows NT, WinRAR, Агат, Радио–86РК
 
 - https://habr.com/ru/companies/timeweb/articles/722774/
 - Отрасли: DIY, виртуальные
 - Компании: Хабр, Timeweb Cloud, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Программирование микроконтроллеров, Производство и разработка электроники, Электроника для начинающих
+- Кандидаты компаний: 24С128, 74НС595, Arduino, Arduino IDE, Arduino UNO, Arlight, ATmega328, FT232, HD44780, ISIS Proteus, Proteus
 
 - https://habr.com/ru/companies/timeweb/articles/723600/
 - Отрасли: Веб-разработка, digital
 - Компании: Хабр, Timeweb Cloud, Бастион
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: интернет-торговля, трейдинг
+- Кандидаты компаний: GitHub, Habr, more_itertools, Postgres, VKontakte
 
 - https://habr.com/ru/companies/timeweb/articles/724158/
 - Отрасли: Мобильные технологии
 - Компании: Хабр, Timeweb Cloud, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: GameDev, Гаджеты, Игры и игровые консоли, Облачный хостинг, Ретрокомпьютинг
+- Кандидаты компаний: Blackberry, Cacko Linux, DOOM, Gentoo, Nokia, OpenBSD, pdaXrom, prBoom, QUAKE, Sharp, Zaurus
 
 - https://habr.com/ru/companies/timeweb/articles/724308/
 - Отрасли: embedded
 - Компании: Хабр, Timeweb Cloud, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: схемотехника, торговля, электроника
+- Кандидаты компаний: Arduino, Epson, Hypercom, Seiko, VeriFone, Атол, Феликс-02К, Феликс-РК
 
 - https://habr.com/ru/companies/timeweb/articles/724628/
 - Отрасли: не найдено
 - Компании: Хабр, Timeweb Cloud, FUJITSU, Звук, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: компьютерное железо, хранение данных
+- Кандидаты компаний: Adaptec, ASC-19160, DynaMO, ext3, FAT32, GigaMO, IDE, iOmega, ISO 9660, LS-120, Mitsubishi, SCSI, Sony, SuperDisk, Windows XP, ZIP
 
 - https://habr.com/ru/companies/timeweb/articles/725136/
 - Отрасли: не найдено
@@ -57413,38 +57413,38 @@
 - https://habr.com/ru/companies/timeweb/articles/725334/
 - Отрасли: не найдено
 - Компании: Хабр, Timeweb Cloud
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: 3D-графика, Научно-популярное
+- Кандидаты компаний: DeepL, Instagram, Patreon, Telegram, TikTok, WikiHow, Wikipedia
 
 - https://habr.com/ru/companies/timeweb/articles/725376/
 - Отрасли: Игры и развлечения, СМИ, Программное обеспечение, медиа
 - Компании: Хабр, Timeweb Cloud, Галактика
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: игры и игровые консоли, разработка игр
+- Кандидаты компаний: Activision, Blizzard, Davidson & Associates, Havas, Interplay, Silicon & Synapse, Vivendi, Westwood Studios
 
 - https://habr.com/ru/companies/timeweb/articles/726086/
 - Отрасли: Информационная безопасность, стриминг
 - Компании: Хабр, Timeweb Cloud, Сбер, VK, Samsung
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: мобильные приложения, разработка мобильных приложений
+- Кандидаты компаний: Android, Google, YouTube
 
 - https://habr.com/ru/companies/timeweb/articles/727722/
 - Отрасли: не найдено
 - Компании: не найдено
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT
+- Кандидаты компаний: Habr
 
 - https://habr.com/ru/companies/timeweb/articles/727918/
 - Отрасли: embedded
 - Компании: Хабр, Timeweb Cloud, Далее
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: GitHub, qemu
 
 - https://habr.com/ru/companies/timeweb/articles/top/
 - Отрасли: DIY, СМИ
 - Компании: Timeweb Cloud, Хабр, серверы
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT, архивация данных, геймдизайн, разработка игр, системы контроля доступа, электроника
+- Кандидаты компаний: FAR Manager, Fly, GameDEVils, Google, Heroes of Might and Magic III, OsmocomBB, Substack, Telegram, WinRAR
 
 - https://habr.com/ru/companies/tinkoff/articles/135123/
 - Отрасли: не найдено
