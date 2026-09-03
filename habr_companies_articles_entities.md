@@ -30456,151 +30456,151 @@
 - Отрасли: не найдено
 - Компании: Хабр, МойОфис
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Cloudflare, Jira, Meteor.js, mongoDB, Node.js, OAuth, Qt, React, Remix, ServiceWorker, StackOverflow, SvelteKit, The State of JS, YouTube
 
 - https://habr.com/ru/companies/ncloudtech/articles/691902/
 - Отрасли: не найдено
 - Компании: Хабр, МойОфис
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: шахматы
+- Кандидаты компаний: Habr, Lichess, myoffice_ru, Netflix, Perl, PLA, Python, Raspberry Pi, Sockfish, Stockfish, TPU, TRRS
 
 - https://habr.com/ru/companies/ncloudtech/articles/694284/
 - Отрасли: не найдено
 - Компании: Хабр, МойОфис, Далее
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Технотекст
 
 - https://habr.com/ru/companies/ncloudtech/articles/694728/
 - Отрасли: не найдено
 - Компании: Хабр, МойОфис
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Calm, Cassandra, MongoDB, myoffice_ru, MySQL, SQLite, SQLite3
 
 - https://habr.com/ru/companies/ncloudtech/articles/699536/
 - Отрасли: Программное обеспечение
 - Компании: Хабр, МойОфис, Proto
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: разработка программного обеспечения, системное администрирование
+- Кандидаты компаний: BIND, Docker, domaincontrol.com, Habr, Internet Systems Consortium, ISC, kodegeek.com, secureserver.net
 
 - https://habr.com/ru/companies/ncloudtech/articles/702252/
 - Отрасли: Machine Learning, ML, процессинг
 - Компании: Хабр, МойОфис, Далее
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: 3D Warehouse, AI, AI Journey, BIM/CAD, C++, Computer Science, DeepPano, Go, GPU, Habr, machine learning, ML, ModelNet10, Python, SketchUp
 
 - https://habr.com/ru/companies/ncloudtech/articles/707096/
 - Отрасли: ERP, CRM
 - Компании: Хабр, МойОфис
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-индустрия
+- Кандидаты компаний: DEV, myoffice_ru, Reddit
 
 - https://habr.com/ru/companies/ncloudtech/articles/709872/
 - Отрасли: Программное обеспечение
 - Компании: Хабр, МойОфис, ПИК
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT, машиностроение, программная инженерия, разработка видеоигр
+- Кандидаты компаний: Business Roundtable, CDC, Center for Disease Control and Prevention, Empirical Software Engineering, FSE, Gamasutra, Habr, ICSM, IEEE, Institute of Labor Economics, myoffice_ru, National Institute for Occupational Safety and Health, Neuropsychiatric Disease and Treatment, Patient Safety and Quality: An Evidence-Based Handbook for Nurses, PeerJ
 
 - https://habr.com/ru/companies/ncloudtech/articles/711070/
 - Отрасли: аутсорсинг
 - Компании: Хабр, МойОфис
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT, авиакомпания, кино и мультипликация
+- Кандидаты компаний: Apple, Disney Animation, Linux, Minix, Parts Unlimited, Pixar Animation, Southwest Airlines
 
 - https://habr.com/ru/companies/ncloudtech/articles/713028/
 - Отрасли: Поисковые технологии
 - Компании: Хабр, МойОфис
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT, Программирование
+- Кандидаты компаний: Apollo, B3ta, GitHub, Google, Koa, MakeEmoji, Monzo, Next.js, npm, Ronseal, Sentry, Slack, Stack Overflow
 
 - https://habr.com/ru/companies/ncloudtech/articles/721538/
 - Отрасли: Оптимизация, виртуальные, Data science, digital, предлагает
 - Компании: Хабр, МойОфис, AMD, предлагает
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT, корпоративные системы, рынок железа, системы хранения данных, хранение данных, электронная почта
+- Кандидаты компаний: Dispersed Object Store, DOS, JCMit, Mailion, Saint Highload, Singularity, Wikibon, Онтико
 
 - https://habr.com/ru/companies/ncloudtech/articles/722396/
 - Отрасли: медиа
 - Компании: Хабр, МойОфис
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT, коммерческие организации, корпоративные коммуникации
+- Кандидаты компаний: AngularJS, Backbone, C#, Google, JavaScript, jQuery, Mailion, Mailion. Сертифицированный, Nx, PHP, Polymer, React, TypeScript, Vue, webpack, ФСТЭК России
 
 - https://habr.com/ru/companies/ncloudtech/articles/727210/
 - Отрасли: Рекрутинг и HR
 - Компании: Хабр, МойОфис, Skillbox
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-индустрия, Управление персоналом
+- Кандидаты компаний: 4brain, Academy DTEK, GeekBrains, Harvard Business Review, Hays, Psychologies, TEDxPokrovkaSt, VC.ru, Лайфхакер, РБК, Теории и практики
 
 - https://habr.com/ru/companies/ncloudtech/articles/730142/
 - Отрасли: масштабируемость
 - Компании: Хабр, МойОфис, Proto, Далее, Самолет
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Мессенджеры
+- Кандидаты компаний: Mailion, Rocket.Chat, Squadus
 
 - https://habr.com/ru/companies/ncloudtech/articles/731734/
 - Отрасли: Оптимизация, медиа
 - Компании: Хабр, МойОфис, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: софт
+- Кандидаты компаний: Blaze, Figma, Fuselage, Habr, IntersectionObserver, jQuery, Mailion, Meteor.JS, MUI, React, ReactJS, Rocket.Chat, RocketChat Fuselage, Squadus, Storybook, TypeScript
 
 - https://habr.com/ru/companies/ncloudtech/articles/733012/
 - Отрасли: Оптимизация
 - Компании: Хабр, МойОфис
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: информатика, программирование
+- Кандидаты компаний: Ruby on Rails
 
 - https://habr.com/ru/companies/ncloudtech/articles/735816/
 - Отрасли: Дизайн и юзабилити
 - Компании: Хабр, МойОфис, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: деловые коммуникации, корпоративный сектор
+- Кандидаты компаний: Fuselage, Microsoft Teams, MUI, Rocket.Chat, Squadus
 
 - https://habr.com/ru/companies/ncloudtech/articles/738828/
 - Отрасли: не найдено
 - Компании: Хабр, МойОфис
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Разработка мобильных приложений
+- Кандидаты компаний: CocoaPods, DoubleConversion, Firebase, FirebaseCore, FirebaseCoreInternal, Flipper, Giphy, GiphyUISDK, Glog, hermes-engine, Nozbe, npm, OpenSSL-Universal, React Native, simdjson, Squadus, Xcode, Yarn, Yoga
 
 - https://habr.com/ru/companies/ncloudtech/articles/741920/
 - Отрасли: не найдено
 - Компании: Хабр, МойОфис
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-рынок, Управление персоналом
+- Кандидаты компаний: Aon Hewitt, Gallup, Harris Poll, Interact, Quantum Workplace, Willis Towers Watson
 
 - https://habr.com/ru/companies/ncloudtech/articles/743930/
 - Отрасли: промышленные, предлагает, Оптимизация
 - Компании: Хабр, МойОфис, Далее, предлагает
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: C#, clang, gcc, Java, Linux
 
 - https://habr.com/ru/companies/ncloudtech/articles/746550/
 - Отрасли: Оптимизация
 - Компании: Хабр, МойОфис
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-компании, Управление проектами
+- Кандидаты компаний: GitHub, myoffice_ru, Shopify
 
 - https://habr.com/ru/companies/ncloudtech/articles/749302/
 - Отрасли: Поисковые технологии, промышленные
 - Компании: Хабр, МойОфис
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: прикладная лингвистика
+- Кандидаты компаний: Ashmanov, Microsoft, Microsoft Word, Presto!, Агама, ИнформЭлектро, Лексикон, Ортодок, ОРФО, Пропись
 
 - https://habr.com/ru/companies/ncloudtech/articles/753562/
 - Отрасли: ML, промышленные, виртуальные
 - Компании: Хабр, МойОфис
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT, бизнес-сфера, наука о данных, научные вычисления, финансовый сектор
+- Кандидаты компаний: CODASYL, IBM, Matlab, myoffice_ru, numpy, pandas, Министерство обороны
 
 - https://habr.com/ru/companies/neoflex/articles/358208/
 - Отрасли: ERP, масштабируемость, транспортные
 - Компании: Хабр, Neoflex, 1С, Хабр Карьера
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: логистика, транспортная отрасль
+- Кандидаты компаний: Alfresco, Alfresco 4, Alfresco 5, Alfresco Community Edition, Alfresco Share, Apache FTPServer, CMIS, FTP, Java, JavaScript, Lucene, MS SQL Server, Postgresql, REST API, SOLR, Zabbix, Zbar
 
 - https://habr.com/ru/companies/neoflex/articles/413149/
 - Отрасли: Big Data, BI, Data science, ETL, виртуальные
 - Компании: Хабр, Neoflex, Хабр Карьера
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Apache Hadoop, Apache Zeppelin, Cloudera, Cloudera CDH, Cloudera Manager Server, Jupyter, MySQL, Neoflex Datagram, Oracle, Oracle Big Data Appliance, Oracle JDK, PostgreSQL, RHEL, SpagoBI, Sun
 
 - https://habr.com/ru/companies/neoflex/articles/417103/
 - Отрасли: Оптимизация, Big Data, ETL
