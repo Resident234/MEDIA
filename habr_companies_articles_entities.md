@@ -34355,152 +34355,152 @@
 - https://habr.com/ru/companies/pixonic/articles/529066/
 - Отрасли: Оптимизация
 - Компании: Хабр, Pixonic
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Игры и игровые консоли, Разработка игр
+- Кандидаты компаний: Roblox
 
 - https://habr.com/ru/companies/pixonic/articles/530198/
 - Отрасли: не найдено
 - Компании: Хабр, Pixonic, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Дизайн игр, Игры и игровые консоли, Разработка игр
+- Кандидаты компаний: Adobe Photoshop, Adobe XD, Dino Squad, Figma, Sketch
 
 - https://habr.com/ru/companies/pixonic/articles/530906/
 - Отрасли: предлагает
 - Компании: AMD, Хабр, Pixonic, предлагает
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: игровая индустрия, разработка игр
+- Кандидаты компаний: AMD FidelityFX Denoiser, DirectX, Exor Studios, GPUOpen, Nvidia, PlayStation, Radeon RX 6000, Schmetterling Engine 2.0, The Riftbreaker, Xbox
 
 - https://habr.com/ru/companies/pixonic/articles/532496/
 - Отрасли: провайдер
 - Компании: Хабр, Pixonic, провайдер
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Игры и игровые консоли, Разработка игр, Разработка мобильных приложений
+- Кандидаты компаний: GitHub, GMS, Google Play, HMS, Huawei, Huawei AppGallery, Unity
 
 - https://habr.com/ru/companies/pixonic/articles/533448/
 - Отрасли: Оптимизация
 - Компании: Хабр, Pixonic, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Разработка игр
+- Кандидаты компаний: Habr, Unity
 
 - https://habr.com/ru/companies/pixonic/articles/534928/
 - Отрасли: не найдено
 - Компании: Хабр, Pixonic, Звук
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Дизайн игр, Игры и игровые консоли, Разработка игр
+- Кандидаты компаний: War Robots
 
 - https://habr.com/ru/companies/pixonic/articles/536146/
 - Отрасли: предлагает, транспортные, финансы
 - Компании: Хабр, Pixonic, Далее, предлагает
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Дизайн игр, Разработка игр
+- Кандидаты компаний: Habr, Mario Kart, Overwatch
 
 - https://habr.com/ru/companies/pixonic/articles/537314/
 - Отрасли: не найдено
 - Компании: Хабр, Pixonic, Space
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: дизайн игр, разработка игр
+- Кандидаты компаний: Chromebook, Game Off Game Jam, Github, Habr, Itch.IO, Kenney.nl, MoonGun, Space Invaders, Unity, Unity 3D, WebGL
 
 - https://habr.com/ru/companies/pixonic/articles/537854/
 - Отрасли: не найдено
 - Компании: Хабр, Pixonic
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: 3D-графика, Компьютерная анимация
+- Кандидаты компаний: Clang, Embree, GCC, Gonzales, Google Cloud, Google Compute Engine, Hyperion, IRIX, LLVM, macOS, MIPSPro, Optix, OSPRay, PBRT, Renderman, Ubuntu Linux, Visual Studio, Walt Disney Animation Studios, Xcode
 
 - https://habr.com/ru/companies/pixonic/articles/539250/
 - Отрасли: не найдено
 - Компании: Хабр, Pixonic, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Дизайн игр, Игры и игровые консоли, Разработка игр
+- Кандидаты компаний: War Robots
 
 - https://habr.com/ru/companies/pixonic/articles/540544/
 - Отрасли: не найдено
 - Компании: Хабр, Pixonic
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Игры и игровые консоли, Разработка игр
+- Кандидаты компаний: Amiga, Amstrad CPC 464, Atari ST, C64, Croteam, Habr, Sega Genesis, Serious Sam, Serious Sam 2, Sonic The Hedgehog, ZX Spectrum, Серьезный Сэм 3
 
 - https://habr.com/ru/companies/pixonic/articles/541622/
 - Отрасли: не найдено
 - Компании: Хабр, Pixonic
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Компьютерное железо, Разработка игр
+- Кандидаты компаний: Apple, Arnold, Autodesk, Blender Benchmark, ChameleonRT, CineBench, DirectX, Disney, Embree, Hyperion, LuxMark, Mac Mini, MacBook Air, MacBook Pro, OptiX, Pixar, Renderman, Vulkan, Weta Digital Manuka
 
 - https://habr.com/ru/companies/pixonic/articles/543054/
 - Отрасли: СМИ
 - Компании: Хабр, Pixonic
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Дизайн игр, Игры и игровые консоли, Разработка игр
+- Кандидаты компаний: Apple, Ars Technica, Blizzard, Blizzard North, Blizzard South, CES, Diablo, Dungeons & Dragons, Habr, Justice League Task Force, Might and Magic, MUD, Rogue-like Rogue NetHack Moria Umoria Angband NHL '94, Sega, Sega Genesis, Super Nintendo, Ultima, Warcraft, Wizardry
 
 - https://habr.com/ru/companies/pixonic/articles/544250/
 - Отрасли: не найдено
 - Компании: Хабр, Pixonic, быструю
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Дизайн игр, Игры и игровые консоли, Разработка игр
+- Кандидаты компаний: Google Sheets, MS Excel
 
 - https://habr.com/ru/companies/pixonic/articles/545676/
 - Отрасли: Поисковые технологии, предлагает
 - Компании: AMD, Хабр, Pixonic, Samsung, Далее, предлагает
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Компьютерное железо, Разработка игр
+- Кандидаты компаний: GCN, GeForce, GTX, Instinct, Navi, NVIDIA, Pascal, PCI Express, Radeon, TSMC, Vega
 
 - https://habr.com/ru/companies/pixonic/articles/546328/
 - Отрасли: не найдено
 - Компании: Хабр, Pixonic, t2
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: 3D-графика, компьютерная графика, разработка игр
+- Кандидаты компаний: Habr, matplotlib, NumPy
 
 - https://habr.com/ru/companies/pixonic/articles/548728/
 - Отрасли: предлагает
 - Компании: Хабр, Pixonic, предлагает, Программный Продукт, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Разработка игр
+- Кандидаты компаний: Unreal Engine
 
 - https://habr.com/ru/companies/pixonic/articles/550336/
 - Отрасли: не найдено
 - Компании: Хабр, Pixonic
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: гейм-дизайн, мобильные игры, мультиплеерные шутеры, разработка игр
+- Кандидаты компаний: War Robots, Weyland, Титаны
 
 - https://habr.com/ru/companies/pixonic/articles/550764/
 - Отрасли: не найдено
 - Компании: Хабр, Pixonic, Space
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: 3D-графика, Игры и игровые консоли, Разработка игр
+- Кандидаты компаний: Dino Squad, NVIDIA, Unity, War Robots
 
 - https://habr.com/ru/companies/pixonic/articles/552532/
 - Отрасли: Оптимизация
 - Компании: Хабр, Pixonic
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Дизайн игр, Игры и игровые консоли, Разработка игр, Управление проектами
+- Кандидаты компаний: App Store, Google Play
 
 - https://habr.com/ru/companies/pixonic/articles/553732/
 - Отрасли: не найдено
 - Компании: Хабр, Pixonic
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: игровая индустрия, разработка игр
+- Кандидаты компаний: Bethesda, Evolution X, IDA Pro, Microsoft, Modern Vintage Gamer, Xbox, Xbox Neighborhood
 
 - https://habr.com/ru/companies/pixonic/articles/554848/
 - Отрасли: не найдено
 - Компании: Хабр, Pixonic, Звук
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Игры и игровые консоли, Разработка игр
+- Кандидаты компаний: Ars Technica, Eidos, Looking Glass Studios, Thief: The Dark Project
 
 - https://habr.com/ru/companies/pixonic/articles/555364/
 - Отрасли: не найдено
 - Компании: Хабр, Pixonic, AMD, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: 3D-графика, Разработка игр
+- Кандидаты компаний: NVIDIA, Silicon Graphics
 
 - https://habr.com/ru/companies/pixonic/articles/557724/
 - Отрасли: не найдено
 - Компании: Хабр, Pixonic
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: игровые консоли, игры
+- Кандидаты компаний: Unity
 
 - https://habr.com/ru/companies/pixonic/articles/558602/
 - Отрасли: промышленные
 - Компании: Хабр, Pixonic, GIGABYTE, AMD, быструю
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Компьютерное железо, Настольные компьютеры
+- Кандидаты компаний: Asus, Intel, Wikipedia
 
 - https://habr.com/ru/companies/pixonic/articles/559780/
 - Отрасли: провайдер, Домены и хостинг, виртуальные
