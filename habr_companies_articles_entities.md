@@ -42155,152 +42155,152 @@
 - https://habr.com/ru/companies/regionsoft/articles/324502/
 - Отрасли: CRM, ERP, Программное обеспечение, SaaS
 - Компании: Хабр, RegionSoft
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: CRM-системы, ERP-системы, Бизнес-процессы, Коммерция, Управление продажами
+- Кандидаты компаний: Axelus, RegionSoft CRM
 
 - https://habr.com/ru/companies/regionsoft/articles/325946/
 - Отрасли: CRM, ERP, Программное обеспечение, ритейла, промышленные, медицина, Enterprise, финансы, торговые, финансового, торговли, OLAP, аналитики, SaaS, IoT, банках
 - Компании: Хабр, RegionSoft, 1С
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: B2B, B2C, CRM-системы, ERP-системы, IT, бизнес-автоматизация, ритейл, социальные CRM, страхование, туризм
+- Кандидаты компаний: ACT!, Autodex, Axelus, Caricatura.ru, Clipodex, Conductor Software, Contact Software International, IBM, Memex, Punchodex, Rolodex, Sage, Sage ACT!, Sage CRM, SalesLogix, Swivodex, Symantec Corporation, Wheeldex, Zephyr American
 
 - https://habr.com/ru/companies/regionsoft/articles/327430/
 - Отрасли: CRM, онлайн-курсы, виртуальные, SaaS
 - Компании: Хабр, RegionSoft, 1С
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-индустрия, Управление персоналом, Управление проектами
+- Кандидаты компаний: Google, Intel, RegionSoft CRM, RegionSoft Developer Studio, Sugar CRM, VisionMobile
 
 - https://habr.com/ru/companies/regionsoft/articles/328172/
 - Отрасли: масштабируемость, CRM, Мобильные технологии, медиа
 - Компании: Хабр, RegionSoft, Звук, Цифра
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-инфраструктура, связь, сетевые технологии
+- Кандидаты компаний: AOL, AT&T, Autodesk, Axelus, ICQ, Internet Explorer, MagicJack, Microsoft, NetMeeting, VocalTec, YMAX
 
 - https://habr.com/ru/companies/regionsoft/articles/329986/
 - Отрасли: CRM, ERP, предлагает
 - Компании: Хабр, RegionSoft, 1С, предлагает
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT, бизнес, делопроизводство, корпоративное ПО
+- Кандидаты компаний: Axelus, CRM-системы, ERP-системы, MS Excel, MS Word, Rolodex, VBA, Visual Basic for Application, СУБД
 
 - https://habr.com/ru/companies/regionsoft/articles/330858/
 - Отрасли: CRM, ERP, IoT, Программное обеспечение, ритейла, аналитики, BI, Big Data, банках, SaaS
 - Компании: Хабр, RegionSoft, Яндекс, 1С
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: CRM-системы, ERP-системы, В2В, В2С, Интернет вещей, Управление продажами, Управление проектами
+- Кандидаты компаний: Axelus, RegionSoft CRM
 
 - https://habr.com/ru/companies/regionsoft/articles/331416/
 - Отрасли: CRM, ERP, финансы, недвижимость, OLAP, аналитики, SaaS
 - Компании: Хабр, RegionSoft, Цифра
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: CRM-системы, ERP-системы, IP-телефония, ИТ, мобильный интернет, рынок CRM, рынок мороженого и воды, рынок сотовой связи, сфера услуг, Управление продажами, Управление проектами
+- Кандидаты компаний: Android, Apple, Axelus, Blackberry, ClickFox, Google, Inside CRM, Microsoft, Nokia, RegionSoft CRM, Tech News World, VAS, АнтиАОН
 
 - https://habr.com/ru/companies/regionsoft/articles/332800/
 - Отрасли: образование, CRM, телекома, SaaS, Оптимизация
 - Компании: Хабр, RegionSoft, Базис
-- Кандидаты отраслей: не найдено
+- Кандидаты отраслей: IT-индустрия, телеком
 - Кандидаты компаний: не найдено
 
 - https://habr.com/ru/companies/regionsoft/articles/334298/
 - Отрасли: CRM, Machine Learning, финансах, облачных сервисов, IoT
 - Компании: Хабр, RegionSoft, Газпром, 1С, серверы
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: ИТ, корпоративная ИТ-инфраструктура, малый бизнес, микро-бизнес, средний бизнес
+- Кандидаты компаний: Apple, Axelus, Biztechmagazine.com, Cat-tube.ru, Mac, MacBook, OБЭП, Parallels, Petya, Splogosapiens.lj.ru, WannaCry, Windows
 
 - https://habr.com/ru/companies/regionsoft/articles/335336/
 - Отрасли: CRM, ERP, Рекрутинг и HR, SaaS, Программное обеспечение, масштабируемость, информационной безопасности
 - Компании: Хабр, RegionSoft, 1С, ОК
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: B2B, CRM-системы, ERP-системы, ИТ-инфраструктура, Управление проектами
+- Кандидаты компаний: Axelus, SaaS, SAM, vc.ru
 
 - https://habr.com/ru/companies/regionsoft/articles/336746/
 - Отрасли: CRM, ERP, Программное обеспечение, консалтинг, SaaS, недвижимости
 - Компании: Хабр, RegionSoft, 1С, Яндекс, Программный Продукт, ОК
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: CRM-системы, ERP-системы, ИТ-инфраструктура, Управление проектами, Управление разработкой
+- Кандидаты компаний: Axelus, FL.ru, Kwork, Regionsoft Developer Studio, РегионСофт, Формула 1, Фрилансим
 
 - https://habr.com/ru/companies/regionsoft/articles/337778/
 - Отрасли: CRM, аналитики, бухгалтерия, Рекрутинг и HR
 - Компании: Хабр, RegionSoft, 1С, ОК, серверы
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: CRM-системы, SMM, интернет-маркетинг, контент-менеджмент, продакт-менеджмент, разработка ПО, телемаркетинг, техническая поддержка, финансовые услуги
+- Кандидаты компаний: Candy Crush, Java, JavaScript, Penta_Club, Playstation, RegionSoft Developer Studio, Toggl, Toggl.com
 
 - https://habr.com/ru/companies/regionsoft/articles/338326/
 - Отрасли: CRM, ERP, SaaS
 - Компании: Хабр, RegionSoft, Forrester, ОК
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: CRM-системы, ERP-системы, IP-телефония, VoIP, СМБ, Управление персоналом, Управление проектами
+- Кандидаты компаний: Axelus, Facebook, Jira, RegionSoft CRM
 
 - https://habr.com/ru/companies/regionsoft/articles/338664/
 - Отрасли: CRM, образование, NLP, Natural Language Processing
 - Компании: Хабр, RegionSoft, 1С
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: биржевое дело, ИТ-сфера, коммерческая служба, наука, разработка программного обеспечения, рынок ценных бумаг, технический анализ, финансовая математика, финансовый менеджмент
+- Кандидаты компаний: ММВБ, Московская биржа, РегионСофт
 
 - https://habr.com/ru/companies/regionsoft/articles/338918/
 - Отрасли: CRM, ERP, BI, OLAP, SaaS, Enterprise, финансы, BPM, виртуальные, Программное обеспечение
 - Компании: Хабр, RegionSoft, 1С, билайн, Сбербанк
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT, бизнес-софт, биллинг, интернет-торговля, маркетинг, платёжные системы, телемаркетинг, управление проектами
+- Кандидаты компаний: Axelus, Habr, Jira, RegionSoft CRM, Salesforce
 
 - https://habr.com/ru/companies/regionsoft/articles/339284/
 - Отрасли: CRM, образование
 - Компании: Хабр, RegionSoft
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT, производство, реклама, ритейл
+- Кандидаты компаний: Avito, Axelus, Badoo, Google, Мой круг, Хедхантер
 
 - https://habr.com/ru/companies/regionsoft/articles/342270/
 - Отрасли: CRM, ERP, предлагает, банках, операторы связи, digital, аналитики
 - Компании: Хабр, RegionSoft, предлагает, Цифра, Forrester
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: CRM-системы, ERP-системы, IT-инфраструктура, банковское дело, интернет-торговля, логистика, мессенджеры, перевозки, социальные сети, техническая поддержка, Управление проектами
+- Кандидаты компаний: Facebook, Forrester Research, Google, Instagram, Superoffice, Telegram, Twitter, Корсары, РегионСофт
 
 - https://habr.com/ru/companies/regionsoft/articles/343632/
 - Отрасли: CRM, ERP, SaaS, Программное обеспечение, Enterprise, виртуальные
 - Компании: Хабр, RegionSoft, Gartner, Forrester, RDP, 1С, Цифра
-- Кандидаты отраслей: не найдено
+- Кандидаты отраслей: CRM-системы, ERP-системы, IT-инфраструктура, S+S
 - Кандидаты компаний: не найдено
 
 - https://habr.com/ru/companies/regionsoft/articles/344546/
 - Отрасли: CRM, ERP, финансы, Рекрутинг и HR, BPM, медиа
 - Компании: Хабр, RegionSoft
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: RegionSoft CRM
 
 - https://habr.com/ru/companies/regionsoft/articles/345230/
 - Отрасли: CRM, Enterprise, ERP, медиа
 - Компании: Хабр, RegionSoft
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: оптовая торговля, производство, рекламные агентства, ритейл, розничная торговля, сфера услуг, телевидение и радио, торговля
+- Кандидаты компаний: Microsoft, Иль де Ботэ, Л’Этуаль
 
 - https://habr.com/ru/companies/regionsoft/articles/345728/
 - Отрасли: CRM, ERP, Рекрутинг и HR
 - Компании: Хабр, RegionSoft, Яндекс, Цифра
-- Кандидаты отраслей: не найдено
+- Кандидаты отраслей: IT-индустрия
 - Кандидаты компаний: не найдено
 
 - https://habr.com/ru/companies/regionsoft/articles/346694/
 - Отрасли: CRM, ERP, BPM, Программное обеспечение, BI, бухгалтерия
 - Компании: Хабр, RegionSoft, ОК, Gartner
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT, Управление персоналом, Управление проектами
+- Кандидаты компаний: Android, iOS
 
 - https://habr.com/ru/companies/regionsoft/articles/348404/
 - Отрасли: CRM, ERP, предлагает, SaaS, Enterprise, аналитики
 - Компании: Хабр, RegionSoft, предлагает, 1С
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: CRM-системы, ERP-системы, Анализ и проектирование систем, Бизнес-модели
+- Кандидаты компаний: MS SQL, RegionSoft CRM
 
 - https://habr.com/ru/companies/regionsoft/articles/348724/
 - Отрасли: Программное обеспечение, CRM
 - Компании: Хабр, RegionSoft
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-стандарты, Open Source, Бизнес, Деловой мир, Интернет, Информационные технологии, Проприетарное ПО, Свободное ПО, Телефония, Терминология IT, Управление телефонией
+- Кандидаты компаний: Forbes, Fossmint.com, Free Software Foundation, GitHub, Google, Linux Foundation, Microsoft, Netscape Communications Corporation, Open Source Initiative (OSI), SugarCRM, Unipress
 
 - https://habr.com/ru/companies/regionsoft/articles/348980/
 - Отрасли: CRM, страховании, маркетинге, предлагает, ритейла, медиа, торговли, Оптимизация, Рекрутинг и HR, недвижимости
 - Компании: Хабр, RegionSoft, Gartner, предлагает, Цифра
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: банковская, производство, розничная торговля, страхование
+- Кандидаты компаний: ConvergeHub, Dorm Room Fund, ITCoolUnion, Microsoft, Trilliant Health, VCWiz
 
 - https://habr.com/ru/companies/regionsoft/articles/350082/
 - Отрасли: CRM
