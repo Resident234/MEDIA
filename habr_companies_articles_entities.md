@@ -19805,152 +19805,152 @@
 - https://habr.com/ru/companies/itsumma/articles/334148/
 - Отрасли: Информационная безопасность
 - Компании: Хабр, ITSumma, серверы, Хабр Карьера
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Authentication, Cloud computing, DevOps, Open Source, Security management, Серверное администрирование, Системное администрирование
+- Кандидаты компаний: Ansible, AWS, CentOS, Debian, GitHub, Google Authenticator, Telegram, Ubuntu, Yubikey, Zabbix
 
 - https://habr.com/ru/companies/itsumma/articles/334884/
 - Отрасли: не найдено
 - Компании: Самолет, Хабр, ITSumma, Контур, Далее, Хабр Карьера
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: авиация
+- Кандидаты компаний: Badoo, First VDS, GitHub, Telegram, ВКонтакте, СКБ «Контур»
 
 - https://habr.com/ru/companies/itsumma/articles/335446/
 - Отрасли: не найдено
 - Компании: Хабр, ITSumma, Битрикс24, Хабр Карьера
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: интернет-магазины, Системное администрирование
+- Кандидаты компаний: Bitrix24, Habr, Isolate, Skype, Telegram
 
 - https://habr.com/ru/companies/itsumma/articles/335686/
 - Отрасли: Информационная безопасность
 - Компании: Хабр, ITSumma, Хабр Карьера
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Server administration, System administration
+- Кандидаты компаний: GitHub, Google Authenticator, Isolate, Redis
 
 - https://habr.com/ru/companies/itsumma/articles/335922/
 - Отрасли: не найдено
 - Компании: ITSumma, Хабр, Хабр Карьера
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: DevOps, IT, Server administration, System administration
+- Кандидаты компаний: Facebook, WordPress
 
 - https://habr.com/ru/companies/itsumma/articles/336214/
 - Отрасли: digital
 - Компании: Хабр, ITSumma, CarPrice, Битрикс24, 1С, Хабр Карьера
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-инфраструктура, веб-проекты, серверное администрирование, системное администрирование, техподдержка
+- Кандидаты компаний: 1С-Битрикс, Badoo, Booking.com, Deworkacy, Digital October, Parallels, Uptime.community, Ревизиума
 
 - https://habr.com/ru/companies/itsumma/articles/336398/
 - Отрасли: не найдено
 - Компании: Хабр, ITSumma, Хабр Карьера
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: кораблестроение, управление проектами
+- Кандидаты компаний: Monitorama, Threat Stack
 
 - https://habr.com/ru/companies/itsumma/articles/336754/
 - Отрасли: не найдено
 - Компании: Хабр, ITSumma, Хабр Карьера
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Базы данных, Интернет‑магазины, Инфраструктура, Мониторинг, Серверное администрирование, Системное администрирование, Хранение данных
+- Кандидаты компаний: Bitrix, Gitlab, innobackupex, MongoDB, PostgreSQL, Redis, S3, s3cmd, Xtrabackup
 
 - https://habr.com/ru/companies/itsumma/articles/336938/
 - Отрасли: не найдено
 - Компании: Хабр, ITSumma, Хабр Карьера
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-бизнес, IT-индустрии, дата-центр, игровая индустрия, мыльные оперы, производство гитар, стартап
+- Кандидаты компаний: Angry Birds, Fender, makemebabies.com, Mashable, Microsoft, Rovio
 
 - https://habr.com/ru/companies/itsumma/articles/337346/
 - Отрасли: не найдено
 - Компании: Хабр, ITSumma, серверы, 1С, Proto, Хабр Карьера
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Серверное администрирование, Системное администрирование
+- Кандидаты компаний: 1С-Битрикс, Apache, CentOS, GitHub, Laravel, Nginx, Nginx Application Platform, Nginx Unit, Nginx, Inc., NginxConf, Ubuntu, uWSGI
 
 - https://habr.com/ru/companies/itsumma/articles/338432/
 - Отрасли: не найдено
 - Компании: Хабр, ITSumma, CarPrice, Битрикс24, Хабр Карьера
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: авиация, ИТ
+- Кандидаты компаний: Badoo, Code&Supply, Deworkacy, GitHub, Telegram, uptime.community, uptime.events, ВКонтакте, Ревизиум
 
 - https://habr.com/ru/companies/itsumma/articles/338506/
 - Отрасли: СМИ, хостинг
 - Компании: Хабр, ITSumma, Тотальный диктант, 1С, Яндекс, Хабр Карьера
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT‑инфраструктура, облачный хостинг, Серверное администрирование, Системное администрирование
+- Кандидаты компаний: 1С‑Битрикс, RIA Новости, Stepik, Uptime day, Атлас, Битриксоид, Сервионика, Фонд «Тотальный диктант», Яндекс.Танком
 
 - https://habr.com/ru/companies/itsumma/articles/341194/
 - Отрасли: не найдено
 - Компании: Хабр, ITSumma, Хабр Карьера
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-инфраструктура, интернет-магазины, Серверное администрирование, Системное админстрирование, техническая поддержка
+- Кандидаты компаний: flashcache, MySQL, Uptime, xtrabackup
 
 - https://habr.com/ru/companies/itsumma/articles/341598/
 - Отрасли: не найдено
 - Компании: Хабр, ITSumma, Space, t2, Яндекс, Далее, Хабр Карьера
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: anomaly.io, Clickhouse, GitHub, Google, grokstream.com, GTX1080, Nvidia, Tensorflow
 
 - https://habr.com/ru/companies/itsumma/articles/342212/
 - Отрасли: не найдено
 - Компании: Хабр, ITSumma, Хабр Карьера
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Управление персоналом, Управление проектами, Управление разработкой
+- Кандидаты компаний: Хайлоад
 
 - https://habr.com/ru/companies/itsumma/articles/345976/
 - Отрасли: Веб-разработка
 - Компании: Хабр, ITSumma, Хабр Карьера
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: DevOps, Системное администрирование
+- Кандидаты компаний: CloudNativeCon, CNCF, Docker, Docker Captains, Docker Swarm, Docker UI, Dockercon, dockercon EU 17, dockercon17, GitHub, Goldman Sachs, Greylock Partners, Insight Venture, KubeCon, KubeCon + CloudNativeCon North America, Kubernetes, Kubernetes UI, Microsoft, Moby, Oracle, Packer, Sequoia Capital, Uber, Vagrant, VirtualBox
 
 - https://habr.com/ru/companies/itsumma/articles/350200/
 - Отрасли: аналитики
 - Компании: Хабр, ITSumma, Далее, 1С, Хабр Карьера
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: интернет-магазины, логистика, мониторинг
+- Кандидаты компаний: 1С-Битрикс, Dripstat, ELK, Grafana, Graylog, IpGeoBase, Jaeger, New Relic, Open Trace, Prometheus, Zabbix
 
 - https://habr.com/ru/companies/itsumma/articles/415933/
 - Отрасли: IoT
 - Компании: Хабр, ITSumma, Далее, Хабр Карьера
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IIoT, информационных технологий, операционных технологий
+- Кандидаты компаний: Apache, Apache MiNiFi, Apache NiFi, GitHub, HBase, HDFS, Kafka, MiNiFi C2, Mosquitto, Raspberry Pi, S3
 
 - https://habr.com/ru/companies/itsumma/articles/416291/
 - Отрасли: DIY, процессинг, IoT, предлагает, аналитики
 - Компании: Хабр, ITSumma, предлагает, Хабр Карьера
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: добыча, индустриальный интернет вещей, логистика, производство
+- Кандидаты компаний: Apache NiFi, Asmodat ESP LUA Loader, BMP280, Debian, Eagle, Eclipse Mosquitto, ESP-07, ESP8266, LD1117, LM2576, NodeMCU, nodemcu-build.com, terminalbpp
 
 - https://habr.com/ru/companies/itsumma/articles/416629/
 - Отрасли: Big Data, BigData, масштабируемость, предлагает, Электронная коммерция, IoT
 - Компании: Хабр, ITSumma, предлагает, Далее, Хабр Карьера
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IIoT, Industrial Internet of Things, Высоконагруженные системы, Мессенджеры
+- Кандидаты компаний: Apache, Apache Kafka, Facebook, Google, RabbitMQ
 
 - https://habr.com/ru/companies/itsumma/articles/417323/
 - Отрасли: хостинг, Домены и хостинг
 - Компании: Хабр, ITSumma, Selectel, Битрикс24, Хабр Карьера
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: API-сервисы, B2B решения, payment-gateway, SMS, интернет-магазин, облачный хостинг, Системное администрирование, службы доставки
+- Кандидаты компаний: Amazon Web Services, AWS, cloud4y, cloudmouse, Stack Overflow, Telegram, uptime.community
 
 - https://habr.com/ru/companies/itsumma/articles/418389/
 - Отрасли: Big Data, Программное обеспечение
 - Компании: Хабр, ITSumma, Хабр Карьера
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Высоконагруженные системы, корпоративные системы, Мессенджеры, социальные сети
+- Кандидаты компаний: Apache, Kafka, MSMQ, RabbitMQ, Software Engineering Daily
 
 - https://habr.com/ru/companies/itsumma/articles/435662/
 - Отрасли: провайдер, облачных сервисов
 - Компании: Хабр, ITSumma, Далее, провайдер, Хабр Карьера
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: DevOps, IT-инфраструктура, Анализ и проектирование систем, Системное администрирование
+- Кандидаты компаний: Google
 
 - https://habr.com/ru/companies/itsumma/articles/436416/
 - Отрасли: Программное обеспечение
 - Компании: Хабр, ITSumma, Хабр Карьера
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: NoSQL, Базы данных, Системное администрирование
+- Кандидаты компаний: Amazon, AWS, AWS RDS, Composer, Content API, Dynamo, Mongo DB, OpsManager, Postgres, PostgreSQL, Stack Overflow, The Guardian
 
 - https://habr.com/ru/companies/itsumma/articles/437446/
 - Отрасли: Big Data
 - Компании: Хабр, ITSumma, Хабр Карьера
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Высоконагруженные системы, Мессенджеры
+- Кандидаты компаний: Apache Kafka, Kafka Streams, RabbitMQ
 
 - https://habr.com/ru/companies/itsumma/articles/438240/
 - Отрасли: облачные сервисы, хостинг, предлагает
