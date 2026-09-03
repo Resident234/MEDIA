@@ -25955,152 +25955,152 @@
 - https://habr.com/ru/companies/lanit/articles/359088/
 - Отрасли: масштабируемость
 - Компании: Хабр, ГК ЛАНИТ, Далее, Звук, серверы
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: информационные системы, строительство
+- Кандидаты компаний: LANCAD, ИНСИСТЕМС
 
 - https://habr.com/ru/companies/lanit/articles/413137/
 - Отрасли: аналитики, ML, Machine Learning
 - Компании: Хабр, ГК ЛАНИТ
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: аналитика данных, машинное обучение, обработка больших данных, хранилище данных
+- Кандидаты компаний: Apache, Apache Mahout, Apache Spark, CleverDATA, facebook fastText, Flask, Habr, Hadoop, HDFS, NumPy, scikit-learn, Spark ML, TensorFlow, xgboost
 
 - https://habr.com/ru/companies/lanit/articles/413141/
 - Отрасли: Machine Learning
 - Компании: Хабр, ГК ЛАНИТ, Далее, MARS
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: больших объёмов данных, машинное обучение, распределенных систем
+- Кандидаты компаний: Akka, akka-http, akka-streams, Apache Spark
 
 - https://habr.com/ru/companies/lanit/articles/415433/
 - Отрасли: аналитики, промышленные
 - Компании: Хабр, ГК ЛАНИТ, Далее, Самолет, Базис
-- Кандидаты отраслей: не найдено
+- Кандидаты отраслей: авиация, ЖКХ, информационные технологии, нефтегазовый сектор
 - Кандидаты компаний: не найдено
 
 - https://habr.com/ru/companies/lanit/articles/415967/
 - Отрасли: виртуальные
 - Компании: Хабр, ГК ЛАНИТ, DELL
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Облачные вычисления, Сервис-провайдеры, Хранение данных, Центры обработки данных
+- Кандидаты компаний: AFF, All Flash FAS (AFF), Cisco, E серия, EF, EMC, Fabric Interconnect, FlexPod SF, InfiniBox F2230, Infinidat, NetApp, NetApp HCI, RackSpace, Radian RMS-200, SF19210, SF4805, SolidFire, Онлант
 
 - https://habr.com/ru/companies/lanit/articles/416813/
 - Отрасли: Enterprise, ETL, промышленные, BI
 - Компании: Хабр, ГК ЛАНИТ, ОК, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Базы данных, Облачная инфраструктура, Системы хранения данных
+- Кандидаты компаний: AWS, Azure, Delphix, Delphix JetStream, IBM, IBM DB2, MS SQL, Oracle, Oracle EBS, Oracle Enterprise Manager, PostgreSQL, SAP, SAP ASE, SAP HANA, Solaris, VmWare
 
 - https://habr.com/ru/companies/lanit/articles/420499/
 - Отрасли: Big Data, медиа
 - Компании: Хабр, ГК ЛАНИТ, OZON, Яндекс, Далее, Space
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: видео, изображения, интернет-магазин, маркетинг, музыка, новости, онлайн-маркетинг
+- Кандидаты компаний: 500px, Amazon, Arxiv.org, CleverDATA, Last.fm, Linkedin, LonelyPlanet, McKinsey, MovieLens, Netflix, Pandora, Surfingbird, TripAdvisor, YouTube, Яндекс.Дзен
 
 - https://habr.com/ru/companies/lanit/articles/421401/
 - Отрасли: Big Data, торговли, Оптимизация
 - Компании: Хабр, ГК ЛАНИТ, Тензор
-- Кандидаты отраслей: не найдено
+- Кандидаты отраслей: Data Mining, Машинное обучение, онлайн бизнес, рекомендательные системы
 - Кандидаты компаний: не найдено
 
 - https://habr.com/ru/companies/lanit/articles/422811/
 - Отрасли: ERP, BPM
 - Компании: Хабр, ГК ЛАНИТ, IDC, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-услуг, государственные закупки, закупки, облачные вычисления, транспорт, финансовый сектор
+- Кандидаты компаний: Ariba, Ariba Network, Ariba P2P, Ariba Sourcing, Ariba Spend Visibility, Ariba Supplier Management, SAP, SAP Ariba, SAP Ariba Contract Management, SAP Ariba Network, ЛАНИТ, НОРБИТ
 
 - https://habr.com/ru/companies/lanit/articles/423645/
 - Отрасли: хостинг-провайдеров, информационной безопасности, Enterprise
 - Компании: Хабр, ГК ЛАНИТ, серверы, ПИК, Samsung
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: ИТ-инфраструктура, спортивной арены, футбол
+- Кандидаты компаний: Cisco, Cisco Systems, FIFA, Fortinet, HPE, Raspberry Pi
 
 - https://habr.com/ru/companies/lanit/articles/427273/
 - Отрасли: Data science, ML
 - Компании: Хабр, ГК ЛАНИТ, Open Data Science
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: букмекеры, футбол
+- Кандидаты компаний: CatBoost, Coursera, FIFA, UEFA, Yandex, Гугл, НОРБИТ
 
 - https://habr.com/ru/companies/lanit/articles/428467/
 - Отрасли: предлагает
 - Компании: Хабр, ГК ЛАНИТ, серверы, предлагает
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-инфраструктура, инженерная инфраструктура, инженерные системы, система мониторинга, система хранения данных, теле​коммуникационная система, центр обработки данных
+- Кандидаты компаний: Acti-9 SmartLink, Aegis DCIM, APC, CONTEG, NetBotz, PowerLogic, RAMOS, Schneider Electric, Splunk, StruxureWare Data center Expert, ZelioLogic, ЛАНИТ-Интеграция
 
 - https://habr.com/ru/companies/lanit/articles/429260/
 - Отрасли: хостинг, Machine Learning, информационной безопасности
 - Компании: Хабр, ГК ЛАНИТ, серверы, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Виртуализация, Системное администрирование
+- Кандидаты компаний: Beats 5.0, ElastAlert, Elastic Stack, Elasticsearch, Filebeat, Firehol, Grafana, IBM, JIRA, Kibana, log-courier, Logstash, logstash-forwarder-java, Metricbeat, netdata, NXLog, Packetbeat, python-beaver, WebSphere Application Server, X-Pack, Yelp, Zabbix, Онланта
 
 - https://habr.com/ru/companies/lanit/articles/432654/
 - Отрасли: хостинг, аутсорсинг, провайдер, Связь и телекоммуникации, информационной безопасности
 - Компании: Хабр, ГК ЛАНИТ, провайдер
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT‑аутсорсинг, IT‑инфраструктура, Дата‑центры, Колокейшн (co‑location), Облачные услуги, Телекоммуникационные услуги, Хранение данных
+- Кандидаты компаний: Computrols, Golden Telecom, IBM, IXcellerate, OnCloud.ru, passportmagazine.ru, ROL, Russian DC Awards, Sumitomo Corp., Uptime Institute, ГК ЛАНИТ Хостинг, Онланта
 
 - https://habr.com/ru/companies/lanit/articles/438774/
 - Отрасли: BigData, Информационная безопасность
 - Компании: Хабр, ГК ЛАНИТ
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-инфраструктура, IT-компании, Большие данные, Кино, Маркетинг, Полиграфия, Футбол, Центры обработки данных
+- Кандидаты компаний: CleverDATA, EasyGrow, ЛАНИТ, ЛАНИТ-Интеграция
 
 - https://habr.com/ru/companies/lanit/articles/439546/
 - Отрасли: NLP, Natural Language Processing, облачные сервисы
 - Компании: Хабр, ГК ЛАНИТ, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Искусственный интеллект, Машинное обучение
+- Кандидаты компаний: Ableton, Artezio, BachBot, bachbot.com, beat blender, Google, Habr, latent loops, Magenta, music21, MusicVAE, TensorFlow
 
 - https://habr.com/ru/companies/lanit/articles/441284/
 - Отрасли: Оптимизация, BI, ETL
 - Компании: Хабр, ГК ЛАНИТ, Далее, ПИК
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: гипермаркет, государственные информационные системы, розничная торговля
+- Кандидаты компаний: New Century Global Center, Компартия Китая, ЛАНИТ
 
 - https://habr.com/ru/companies/lanit/articles/441340/
 - Отрасли: Программное обеспечение, информационной безопасности
 - Компании: Хабр, ГК ЛАНИТ, серверы, Samsung
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: видеотехника, музеи, научные исследования, реставрация
+- Кандидаты компаний: Artec, Canon, DJI, FARO, Google Maps, United 3D Labs, ЛАНИТ-Интеграция
 
 - https://habr.com/ru/companies/lanit/articles/445182/
 - Отрасли: DIY, CRM
 - Компании: Хабр, ГК ЛАНИТ
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT
+- Кандидаты компаний: App Store, ClosedXML, Dynamics CRM, Excel, Google Play, GoogleDrive, IFTTT, json2csharp.com, Microsoft, Newtonsoft.Json, OneDrive, Outlook, НОРБИТ, Федеральная налоговая служба, ФНС
 
 - https://habr.com/ru/companies/lanit/articles/445970/
 - Отрасли: не найдено
 - Компании: Хабр, ГК ЛАНИТ, Space, Далее, Сбербанк
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-инфраструктура, строительство
+- Кандидаты компаний: Autodesk, JP Reis, ИНСИСТЕМС, ЛАНИТ, ЛАНИТ-Интеграция
 
 - https://habr.com/ru/companies/lanit/articles/447190/
 - Отрасли: Оптимизация, Big Data, Data science
 - Компании: Хабр, ГК ЛАНИТ, IDX
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Medium, The Prognostics and Health Management Society (PHM Society)
 
 - https://habr.com/ru/companies/lanit/articles/447580/
 - Отрасли: Информационная безопасность, информационной безопасности, Big Data, Machine Learning, аналитики, Рекрутинг и HR, digital
 - Компании: Хабр, ГК ЛАНИТ, Далее, R-Vision
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Антивирусная защита
+- Кандидаты компаний: buhtrap, CCleaner, GitHub, M.E.Doc, PEAR, ЛАНИТ-Интеграция
 
 - https://habr.com/ru/companies/lanit/articles/448168/
 - Отрасли: СМИ, образование
 - Компании: Хабр, ГК ЛАНИТ
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-индустрия, IT-рынок, инновационные компании
+- Кандидаты компаний: Impact Hub, Государственный университет Альдо Моро, ЛАНИТ-ТЕРКОМ, Национальное агентство по внешним инвестициям и развитию предпринимательства, Политехнический университет, Хаб
 
 - https://habr.com/ru/companies/lanit/articles/451630/
 - Отрасли: Производство мультимедиа-контента, IoT
 - Компании: Хабр, ГК ЛАНИТ, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-услуги, высоконагруженные системы, онлайн-банкинг, системный мониторинг
+- Кандидаты компаний: Dynatrace, ELK Stack, OneAgent, Prometheus, Zabbix, ЛАНИТ-Интеграция
 
 - https://habr.com/ru/companies/lanit/articles/453618/
 - Отрасли: Enterprise, CRM, digital
 - Компании: Хабр, ГК ЛАНИТ, Бэклог, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: R&D, ИТ-рынок, медицинские услуги, мелкооптовая торговля, облачные провайдеры, управляющая компания
+- Кандидаты компаний: LANBIX, ЛАНИТ-Интеграции
 
 - https://habr.com/ru/companies/lanit/articles/454972/
 - Отрасли: диджитал, digital, облачных сервисов, финансового
