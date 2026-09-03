@@ -36455,152 +36455,152 @@
 - https://habr.com/ru/companies/productivity_inside/articles/338450/
 - Отрасли: транспортные, предлагает
 - Компании: Хабр, InlyIT, предлагает
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Интернет-маркетинг
+- Кандидаты компаний: AngelList, App Store, Facebook, Google Play, Instagram, Medium, Product Hunt, Thunderclap, Twitter, YouTube
 
 - https://habr.com/ru/companies/productivity_inside/articles/338592/
 - Отрасли: IoT, Machine Learning
 - Компании: Хабр, InlyIT, Контур, Skyeng, Яндекс
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: AI, глубокое обучение, машинное обучение, мобильная экономика, мобильные рынки, мобильный рынок, разработка игр, разработка мобильных приложений
+- Кандидаты компаний: Android Dev Подкаст, App Store, ARKit, AStA, AudioKit, Basecamp 3, Cloud Functions in Firebase Firebase Android Things Realm ObjectBox Room Oreo Android Studio Java 8 GeekUniversity Skyeng API Unity SDK ABBYY Яндекс.Такси СберТех Apple Watch Series 3 Blackberry Appsee Dmexco 4C Designgo.io NotchKit Magic Sudoku, FCM, GitHub, Google Play, HTC, IKEA, iPhone X, Kotlin, LibGDX, RendererRecyclerViewAdapter, Sephora, Steam, Travis CI
 
 - https://habr.com/ru/companies/productivity_inside/articles/338982/
 - Отрасли: торговли, предлагает
 - Компании: Хабр, InlyIT, предлагает
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: антиспамерские продукты, аптечные сети, медицинские услуги, музыкальные приложения, разработка мобильных приложений, торговля бинарными опционами, торговля людьми
+- Кандидаты компаний: App Store, Apple, Apple Development Program, Apple Music, ARKit, Camera API, Face ID, JavaScript Core, LocalAuthentication, Photo API, WebKit
 
 - https://habr.com/ru/companies/productivity_inside/articles/339082/
 - Отрасли: маркетинге, IoT, Data science
 - Компании: Хабр, InlyIT
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: AI, Progressive Web App, UX дизайн, аналитика, машинное обучение, мобильная типографика, мобильный маркетинг, монетизация, Разработка игр, Разработка мобильных приложений
+- Кандидаты компаний: Adaptive Table Layout CSV-библиотека Adaptive Table Layout CSV-библиотека Adaptive Table Layout CSV-библиотека Adaptive Table Layout, App Store, Apple, ARKit, Badoo, Detect.Location, Game Center, Google Play, Kotlin, LifetimeTracker, LLDB, Model-View-Intent, openssl, Podlodka, React Native, Reamp, Stack AR, Swift, Xcode 9
 
 - https://habr.com/ru/companies/productivity_inside/articles/339280/
 - Отрасли: не найдено
 - Компании: Хабр, InlyIT
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: криптовалюта, платежные системы
+- Кандидаты компаний: cURL, Flask, Habr, HashCash, Postman, PyCharm, Python, Requests
 
 - https://habr.com/ru/companies/productivity_inside/articles/339608/
 - Отрасли: Мобильные технологии, Enterprise, IoT
 - Компании: Хабр, InlyIT, Звук, Samsung, QIWI, Smart Engines, ИТМО
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: глубинное обучение, дополненная реальность, искусственный интеллект, мобильный маркетинг, монетизация мобильных приложений, отслеживание животных, разработка HTML5 игр, разработка игр, разработка мобильных приложений, разработка приложений дополненной реальности
+- Кандидаты компаний: Apple, Edge, Google, HP, iTunes, Microsoft, Minecraft, Mixpanel, Omega-R Гоголь.Начало, Samsung HMD Odyssey, Snapchat, Toys R Us, Uber, Windows 10 Mobile, Windows Mixed Reality, Xamarin University, Yandex
 
 - https://habr.com/ru/companies/productivity_inside/articles/340138/
 - Отрасли: Мобильные технологии, Поисковые технологии, торговли, IoT
 - Компании: Хабр, InlyIT, Яндекс, VK, Gett
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Аналитика, маркетинг и монетизация, Разработка игр, Разработка мобильных приложений, Устройства, IoT, AI
+- Кандидаты компаний: Airbnb, Amazon, App Annie, Apple, AppMetrica, Dreamz Studio, Google, Kakao, Microsoft, Nekki, Nokia, NVIDIA, Oculus, Spotify, Trello, Wargaming, Алиса
 
 - https://habr.com/ru/companies/productivity_inside/articles/340410/
 - Отрасли: не найдено
 - Компании: Хабр, InlyIT, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Визуализация данных, Программирование, Разработка игр
+- Кандидаты компаний: Blueprint, Google Blockly, Playmaker, Unity, Unreal Blueprint, Unreal Engine, VAX
 
 - https://habr.com/ru/companies/productivity_inside/articles/340676/
 - Отрасли: Мобильные технологии, IoT
 - Компании: Хабр, InlyIT
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Android, iOS, Аналитика, маркетинг и монетизация, Разработка, Разработка игр, Разработка мобильных приложений, Устройства, IoT, AI
+- Кандидаты компаний: Amazon, Apple, Facebook, Garmin, Google, High-Tech Bridge, InVision, Ultimate Guitar, Unity, Vine, WhatsApp, ЦСКА
 
 - https://habr.com/ru/companies/productivity_inside/articles/341206/
 - Отрасли: Machine Learning, IoT
 - Компании: Хабр, InlyIT
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: виртуальная реальность, дополненная реальность, компьютерное зрение, маркетинг, машинное обучение, мобильная аналитика, монетизация, нейротехнологии, разработка игр, разработка мобильных приложений
+- Кандидаты компаний: Android, Android Studio, App Store, Apple, Apple Watch, GDG DevFest Ukraine, Gmail, Google, Google Maps SDK, Gradle, Huawei, Huawei AppStore, iOS, iPhone X, Pay with Google, Room, serviceManager”, “Unity”,, Shazam, Snipt
 
 - https://habr.com/ru/companies/productivity_inside/articles/341436/
 - Отрасли: финтех, криптографии
 - Компании: Хабр, InlyIT, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Автономность, блокчейн, Валюты, венчурные инвестиции, Займы, Инструменты для разработчиков, Интернет с пользователским контролем, Коммерция, Криптография, Страхование, Управление инвестициями
+- Кандидаты компаний: Bitcoin, Blockstack, Ethereum, Mattereum, NuCypher, Truebit, ZeppelinOS
 
 - https://habr.com/ru/companies/productivity_inside/articles/341712/
 - Отрасли: Мобильные технологии, аналитики, IoT
 - Компании: Хабр, InlyIT
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: AI, аналитика, виртуальная реальность, маркетинг, мобильные игры, мобильные приложения, монетизация
+- Кандидаты компаний: App in the Air, Apple, CCP Games, Cocos2d-x, Firebase, Friendz, GameAnalytics, GDG Gorky, Google, Pebble, Razer, Sensor Tower, Unity, СберТех
 
 - https://habr.com/ru/companies/productivity_inside/articles/341914/
 - Отрасли: медиа, предлагает
 - Компании: Хабр, InlyIT, предлагает, Контур, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Веб-дизайн, Графический дизайн, Дизайн мобильных приложений, Интерфейсы, Перевод
+- Кандидаты компаний: Apple, Crispin Porter and Bogusky, Microsoft, razorfish, Unbounce
 
 - https://habr.com/ru/companies/productivity_inside/articles/342104/
 - Отрасли: Дизайн и юзабилити, Программное обеспечение, Machine Learning, Рекрутинг и HR
 - Компании: Хабр, InlyIT, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-индустрия
+- Кандидаты компаний: Airbnb, Cassandra, Facebook, Geeksforgeeks, Google, Groupon, Hackerrank, Hbase, Leetcode, LinkedIn, Lintcode, Salesforce Einstein, Spark MLlib, XGBoost
 
 - https://habr.com/ru/companies/productivity_inside/articles/342198/
 - Отрасли: Оптимизация, IoT
 - Компании: Хабр, InlyIT
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: AI, аналитика, маркетинг, мобильный рынок, монетизация, разработка игр, разработка мобильных приложений
+- Кандидаты компаний: Apple, Avito, Badoo, FunCorp, Google, Mail.Ru Group, Netflix, Pusher, Snapchat, Uber, Unity
 
 - https://habr.com/ru/companies/productivity_inside/articles/342600/
 - Отрасли: Дизайн и юзабилити
 - Компании: Хабр, InlyIT, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT
+- Кандидаты компаний: Bootstrap, CDNJS, Composer, Facebook, Froala Design Blocks, GitHub, Google+, LinkedIn, NPM, NuGet, PyPi, RubyGems, shields.io, Twitter
 
 - https://habr.com/ru/companies/productivity_inside/articles/342702/
 - Отрасли: ML, Оптимизация, IoT, Программное обеспечение, Мобильные технологии
 - Компании: Хабр, InlyIT, PVS-Studio, Яндекс, VK
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: AI, геймдев, искусственный интеллект, маркетинг мобильных приложений, мобильная разработка, мобильные приложения, онлайн-знакомства, разработка игр
+- Кандидаты компаний: App Annie, Apple, Avito, Google, Mercari, Microsoft, myTarget, SAP, SuperJob, Tapjoy, TheTool, Tinder, ИСП РАН, НИУ ВШЭ, Одноклассники, Сколково
 
 - https://habr.com/ru/companies/productivity_inside/articles/343224/
 - Отрасли: Мобильные технологии, Оптимизация, IoT
 - Компании: Хабр, InlyIT, CarPrice
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: AI, eSport, UX-дизайн, геймдев, геосервисы, маркетинг мобильных приложений, машинное обучение, мобильные игры, мобильные интерфейсы, разработка игр, разработка мобильных приложений
+- Кандидаты компаний: Android Dev Подкаст, App Store, Apple, Chronology, Dagger 2, FunctionalTableData, Google, Google Play, Google Play Referrer API, iOS Conference SG, Iphone X, RxPM, Sports Illustrated, Unity, Vrvana, Xamarin, ФРИИ
 
 - https://habr.com/ru/companies/productivity_inside/articles/344134/
 - Отрасли: Программное обеспечение, digital, Игры и развлечения
 - Компании: Хабр, InlyIT, Space
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: игровая индустрия, издательство игр, разработка игр
+- Кандидаты компаний: Amplitude Studio, Electronic Arts, Gearbox Software, Rebel Boat Rocker, Steam, Team 17 Digital Limited, Ubisoft
 
 - https://habr.com/ru/companies/productivity_inside/articles/344330/
 - Отрасли: IoT, Аппаратное обеспечение
 - Компании: Хабр, InlyIT, Тинькофф
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: индустрия программного обеспечения, Разработка игр, Разработка мобильных приложений
+- Кандидаты компаний: Amazon, Amazon Echo Show, App Store, Apple, Avito, Facebook, Facebook Instant Games, Google, Google Maps, HomeKit, Oracle Open World 2017: анонсы «Автономного AI», Qualcomm, Qualcomm Snapdragon 845, Shazam, Udacity, Xiaomi, Xiaomi Mi Game Center, Тинькофф банка
 
 - https://habr.com/ru/companies/productivity_inside/articles/344494/
 - Отрасли: финансы, финансового, банках
 - Компании: Хабр, InlyIT
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Криптография, Платежные системы, Финансы в IT
+- Кандидаты компаний: CNBC, Mt.Gox, The Economist, The Guardian, Роллс-Ройс, Феррари
 
 - https://habr.com/ru/companies/productivity_inside/articles/344900/
 - Отрасли: Мобильные технологии, виртуальные, BI, IoT
 - Компании: Хабр, InlyIT, Яндекс
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: ACT, UX-дизайн, дейтинг, ИИ, индустрия программного обеспечения, машинное обучение, нейронные сети, разработка игр, разработка мобильных приложений, распознавание документов
+- Кандидаты компаний: Android, App Store, Apple, ARKit, Avito, CoreLocation, Ease, Facebook, Firebase Realtime Database, Google Assistant, JitPack Timber Music Player in Material Design Project Tango Google Maps Clustering SegmentedButton Daggraph Dagger 2 Kotlin Mobile Vision API ConstraintLayout ConstraintSet Google Maps Android API Quantum Development Kit AWS re:Invent 2017 SmartEngines Arduino Azure IBM Tesla Deeplearning4j Spark Hadoop Chromecast Amazon Slide Oculus Rift Corona SDK Castle Windsor NHibernate Ionic API ASOdesk Яндекс.Погода Яндекс Школа разработки интерфейсов БВШД, Microsoft, Podlodka, Pusher, Shazam, Snapchat, Turi Create, Twitter, Twitter Kit
 
 - https://habr.com/ru/companies/productivity_inside/articles/345422/
 - Отрасли: Оптимизация, Дизайн и юзабилити, Big Data, IoT
 - Компании: Хабр, InlyIT, Яндекс
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: аналитика, гейм-дизайн, искусственный интеллект, личный и общественный транспорт, маркетинг мобильных приложений, машинное обучение, мобильный UX-дизайн, монетизация, разработка игр, разработка мобильных приложений, реклама в приложениях
+- Кандидаты компаний: Alibaba, AliExpress, Android Studio, App Store, Apple, Corona Labs, Corona Native for Windows 10 and macOS 2017.3333 Beta Release Notes | Corona Labs ForumCorona Native for Windows 10 and macOS 2017.3333 Beta Release Notes | Corona Labs ForumCorona Native for Windows 10 and,, Eliot, Facebook, Google Play Store, HQ Trivia, iMessage, Product Hunt, Raiffeisen.ru, Redmadrobot, TensorFlow, weMessage, Яндекс.Такси
 
 - https://habr.com/ru/companies/productivity_inside/articles/345586/
 - Отрасли: Оптимизация, Программное обеспечение, медиа, маркетинге, Игры и развлечения, торговли, торговые
 - Компании: Хабр, InlyIT, ПИК, Кошелёк, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: игровая индустрия, киберспортивная область, продвижение игр, разработка игр, управление проектами, управление сообществом
+- Кандидаты компаний: Amplitude Software, CD Projekt RED, CDPR, Crusader Kings 2, Cyberpunk 2077, Doom, Europa Universalis, Gwent, Hearts of Iron, id Software, Paradox Development Studio, Paradox Interactive, Quake, Stellaris, Tom Clancy’s The Division, Twitch, Ubisoft, VGX, Watch Dogs
 
 - https://habr.com/ru/companies/productivity_inside/articles/345768/
 - Отрасли: предлагает
 - Компании: Хабр, InlyIT, предлагает, Звук, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: разработка мобильных приложений
+- Кандидаты компаний: Apple, AppStore, Habr, Music Topia, Sound Editor, Virtuoso Piano, Voicy Helium, Vox, X Djing
 
 - https://habr.com/ru/companies/productivity_inside/articles/346484/
 - Отрасли: e-commerce, предлагает, медиа, образование
