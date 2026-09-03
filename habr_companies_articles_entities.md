@@ -28355,152 +28355,152 @@
 - https://habr.com/ru/companies/mvideo/articles/378515/
 - Отрасли: не найдено
 - Компании: Samsung, Хабр, М.Видео-Эльдорадо, Звук, М.Видео
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: компьютерное железо, мониторы и ТВ, мультимедиа
+- Кандидаты компаний: DVI, Easy Setting Box, Ergotron, MacBook Pro, Thunderbolt
 
 - https://habr.com/ru/companies/mvideo/articles/379031/
 - Отрасли: digital
 - Компании: Хабр, М.Видео-Эльдорадо, DELL, Звук, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: потребительская электроника
+- Кандидаты компаний: Apple, Intel
 
 - https://habr.com/ru/companies/mvideo/articles/379975/
 - Отрасли: Программное обеспечение
 - Компании: Хабр, М.Видео-Эльдорадо, Звук, ОК
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Игры и игровые консоли, Компьютерное железо, Периферия
+- Кандидаты компаний: Cherry, Logitech, Razer
 
 - https://habr.com/ru/companies/mvideo/articles/380085/
 - Отрасли: Программное обеспечение
 - Компании: Хабр, М.Видео-Эльдорадо
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: гаджеты, игры и игровые консоли, периферия
+- Кандидаты компаний: A4Tech, Daedalus Apex, Lapka, LG, LG G Watch R, Logitech, Logitech Gaming Software, Logitech MX, Philips, Razer, Razer Abyssus Essential, Razer DeathAdder, Razer Deathstalker, Razer Naga, Roccat, Roccat Tyon Black
 
 - https://habr.com/ru/companies/mvideo/articles/381245/
 - Отрасли: digital
 - Компании: М.Видео, Хабр, М.Видео-Эльдорадо, Samsung, Звук
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Digital-индустрия, Фитнеса
+- Кандидаты компаний: Asus, DJI, Google, LG, Oculus, Parrot, Philips, PSN, Razer, Sony, SteelSeries, XBox
 
 - https://habr.com/ru/companies/mvideo/articles/381765/
 - Отрасли: не найдено
 - Компании: Хабр, М.Видео-Эльдорадо, Цифра, Звук
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Гаджеты, Компьютерное железо, Периферия
+- Кандидаты компаний: Logitech
 
 - https://habr.com/ru/companies/mvideo/articles/382307/
 - Отрасли: не найдено
 - Компании: Хабр, М.Видео-Эльдорадо
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Гаджеты, Игры и игровые консоли, Периферия
+- Кандидаты компаний: Daedalus Apex, DeathAdder, Deathstalker, Geektimes, Logitech, M.Видео-Эльдорадо, Mad Catz, MMO TE, Naga, OMRON, Philips, R.A.T., R.A.T. TE, Razer, Roccat, SteelSeries, Tyon Black, Unreal Tournament
 
 - https://habr.com/ru/companies/mvideo/articles/382487/
 - Отрасли: не найдено
 - Компании: Хабр, М.Видео-Эльдорадо, Цифра
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Видеотехника, Мультикоптеры, Радиоуправляемые летательные аппараты, Транспорт, Фототехника
+- Кандидаты компаний: Android, DJI, DJI Inspire One, DJI Phantom 2, DJI Phantom 2 Vision, DJI Phantom 3, DJI Phantom 3 Advanced, DJI Phantom 3 Professional, DJI Pilot, GPS, iOS, Sony, Sony EXMOR, ГЛОНАСС
 
 - https://habr.com/ru/companies/mvideo/articles/382577/
 - Отрасли: не найдено
 - Компании: Хабр, М.Видео-Эльдорадо, Звук, Кошелёк
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Игры и игровые консоли, Компьютерное железо, Периферия
+- Кандидаты компаний: Cyborg, Mad Catz
 
 - https://habr.com/ru/companies/mvideo/articles/385117/
 - Отрасли: не найдено
 - Компании: Хабр, М.Видео-Эльдорадо
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: видеотехника, гаджеты
+- Кандидаты компаний: Adobe, Apple, DJI, DJI GO, Exmor R CMOS, Geektimes, GoPro, HERO, Inspire, iPhone, Nikon, Phantom, Ronin, S1000, Sony, YouTube, Zenmuse
 
 - https://habr.com/ru/companies/mvideo/articles/385343/
 - Отрасли: не найдено
 - Компании: Хабр, М.Видео-Эльдорадо, AMD
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-компании, Компьютерное железо, Настольные компьютеры, Периферия
+- Кандидаты компаний: Apple, Intel
 
 - https://habr.com/ru/companies/mvideo/articles/385603/
 - Отрасли: провайдер
 - Компании: Хабр, М.Видео-Эльдорадо, провайдер, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-инфраструктура, мобильная связь, сетевое оборудование, цифровое телевидение
+- Кандидаты компаний: Archer C2, IEEE, speedtest.net, TP-Link
 
 - https://habr.com/ru/companies/mvideo/articles/385655/
 - Отрасли: Консалтинг и поддержка
 - Компании: Хабр, М.Видео-Эльдорадо, Samsung
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: автомобилестроение, высокотехнологичная область производства, гаджеты, медицинская отрасль, мобильные устройства, оборонная отрасль, смартфоны, энергия и элементы питания
+- Кандидаты компаний: Apple, Google, HTC, IKEA, iOS, iPhone, Lightning, Market Intelligence & Consulting Institute, MIC, Microsoft, Nexus, Nokia, Reddit, Sony, USB Type-C, Wireless Power Consortium, WPC Qi Standard Association (WPC) Qi Standard Association (WPC), Qi, PMA (Power Matters Alliance), A4WP (Alliance for Wireless Power), Rezence, MediaTek, LG, Qualcomm, Starbucks, MWC 2015, MT3188, Qualcomm Halo, YotaPhone
 
 - https://habr.com/ru/companies/mvideo/articles/385717/
 - Отрасли: не найдено
 - Компании: Хабр, М.Видео-Эльдорадо
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: автомобилестроение, гаджеты, игры и игровые консоли, периферия, станкостроение
+- Кандидаты компаний: ADNS-9800, Cobra M5, Kaihua Electronics, Keddr, Logitech, Mad Catz, Microsoft, Philips, PNW3310, Poseidon Z, Razer, Roccat, RockBand, Steelseries, TTesports, WarThunder, Игромир
 
 - https://habr.com/ru/companies/mvideo/articles/385859/
 - Отрасли: не найдено
 - Компании: Хабр, М.Видео-Эльдорадо, Samsung
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: кинематограф, кино- и тв-формат, компьютерная техника
+- Кандидаты компаний: AOC, Delphi, LG, Pascal, Skype, Ubisoft, Windows
 
 - https://habr.com/ru/companies/mvideo/articles/386203/
 - Отрасли: не найдено
 - Компании: Хабр, М.Видео-Эльдорадо, Samsung, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Компьютерное железо, Мониторы и ТВ
+- Кандидаты компаний: 3DNews, LG, MaxxAudio, Skype, YouTube
 
 - https://habr.com/ru/companies/mvideo/articles/386471/
 - Отрасли: не найдено
 - Компании: Хабр, М.Видео-Эльдорадо, Samsung, SENSE
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: рынок дисплеев, рынок телевизоров
+- Кандидаты компаний: Kodak, LG, Panasonic
 
 - https://habr.com/ru/companies/mvideo/articles/389803/
 - Отрасли: не найдено
 - Компании: Хабр, М.Видео-Эльдорадо, LampTest, М.Видео
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: освещение, Энергия и элементы питания
+- Кандидаты компаний: Losev Light
 
 - https://habr.com/ru/companies/mvideo/articles/391189/
 - Отрасли: умный дом, предлагает
 - Компании: Хабр, М.Видео-Эльдорадо, предлагает
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Рынок погодных станций
+- Кандидаты компаний: Apple, Lapka, Netatmo
 
 - https://habr.com/ru/companies/mvideo/articles/391193/
 - Отрасли: не найдено
 - Компании: Хабр, М.Видео-Эльдорадо
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: action-камеры, видеосъёмка, индустрия дронов, фотография
+- Кандидаты компаний: DJI, Geektimes, GoPro, Inspire 1, Phantom, The Verge
 
 - https://habr.com/ru/companies/mvideo/articles/392429/
 - Отрасли: digital
 - Компании: Хабр, М.Видео-Эльдорадо, Samsung
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: игровая индустрия, компьютерное железо, настольные компьютеры
+- Кандидаты компаний: 3D Mark, Call Of Duty Black Ops 3, Cinebench, Dying Light, FSP, GeForce, GTA V, Intel, M.Видео-Эльдорадо, MSI, Nightblade MI, NVIDIA, PC Mark, Realtek, Transcend, Western Digital
 
 - https://habr.com/ru/companies/mvideo/articles/392473/
 - Отрасли: промышленность
 - Компании: Хабр, М.Видео-Эльдорадо, Samsung
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: автомобильная промышленность, мобильная индустрия, мобильные инновации
+- Кандидаты компаний: Apple, Corning, Ford, Ford GT, Google, Gorilla Glass, Huawei, iPhone, Lenovo, LG, LG Nexus 5X, Nexus 6P, Samsung Galaxy S6 edge, Samsung Galaxy S6 Edge, Sony
 
 - https://habr.com/ru/companies/mvideo/articles/392901/
 - Отрасли: не найдено
 - Компании: Хабр, М.Видео-Эльдорадо, быструю
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Гаджеты, Смартфоны
+- Кандидаты компаний: AliExpress, Habr, Honor, Huawei, Instagram, Lenovo, Mediatek
 
 - https://habr.com/ru/companies/mvideo/articles/393385/
 - Отрасли: медиа, digital
 - Компании: Хабр, М.Видео-Эльдорадо, Далее, Samsung
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: гаджеты, накопители, работа с видео, софт
+- Кандидаты компаний: Android, ASUS, Digital Living Network Alliance, FreeBSD, Home media server, iOS, Keenetic Ultra, KODI, Mac, mvideo, nPlayer for iOS / iPadOS / iPhoneOS / iPodOS / Apple TVOS / watchOS / macOS / tvOS / CarPlay / iMessage / iCloud / iTunes / App Store / iPhone / iPad / iPod touch / Apple Watch / Apple TV / MacBook / iMac / Mac mini / Mac Pro / AirPods / Beats / HomePod / AirPort / Time Capsule / Apple Pencil / Magic Keyboard / Magic Mouse / Magic Trackpad / Siri / FaceTime / iMovie / GarageBand / Pages / Numbers / Keynote / Safari / Mail / Calendar / Contacts / Reminders / Notes / Maps / Photos / Camera / Wallet / Health / News / Stocks / Voice Memos / Weather / Clock / Calculator / Compass / Tips / Find My / Shortcuts / Screen Time / Books / Podcasts / TV / Music / Fitness+ / Arcade / Freeform / Files / Measure / Magnifier / Translate / Bedtime / Breathe / Walkie-Talkie / Noise / Cycle Tracking / Sleep / Mindfulness / Apple Cash / Apple Card / Apple Pay / Apple Music / Apple TV+ / Apple Arcade / Apple Fitness+ / Apple News+ / Apple One / iCloud+ / Apple ProRAW / Apple ProRes / Apple Silicon / M1 / M2 / A12 Bionic / A13 Bionic / A14 Bionic / A15 Bionic / A16 Bionic / A17 Pro, OpenWRT, PLEX, Unix, VLC, Wiki, Windows, XBMC, ZyXEL
 
 - https://habr.com/ru/companies/mvideo/articles/393679/
 - Отрасли: не найдено
 - Компании: Хабр, М.Видео-Эльдорадо, Linx, Samsung
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Игры и игровые консоли, Компьютерное железо, Настольные компьютеры
+- Кандидаты компаний: ASUS, CPU-Z, GeForce, GTA V, Intel, MATSHITA, MSI, NVIDIA, Realtek, Toshiba
 
 - https://habr.com/ru/companies/mvideo/articles/393755/
 - Отрасли: медиа, Дизайн и юзабилити, предлагает
