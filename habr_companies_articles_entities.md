@@ -63305,152 +63305,152 @@
 - https://habr.com/ru/companies/vstack/articles/749950/
 - Отрасли: телекоммуникации
 - Компании: Хабр, VStack, ПИК
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: астрономия, дендрохронология, научно-популярная деятельность, телеграфная связь, физика, химия, ядерная физика
+- Кандидаты компаний: Nature, San Francisco Herald, Science, The New York Times, The Rocky Mountain News, Университет Аризоны, Университет Нагоя
 
 - https://habr.com/ru/companies/vstack/articles/750156/
 - Отрасли: предлагает, IoT, DIY
 - Компании: Хабр, VStack, предлагает, Space
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: гаджеты, компьютерное железо
+- Кандидаты компаний: AndImgTool, Android, Debian, Fedora, GPRS, linaro, Linaro, MediaTek, MTK, Orange Pi, Ubuntu, Ubuntu 18.04
 
 - https://habr.com/ru/companies/vstack/articles/751932/
 - Отрасли: не найдено
 - Компании: Хабр, VStack
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: искусственный интеллект, машинное обучение
+- Кандидаты компаний: ChatGPT, Fortune, GPT-3.5, GPT-4, OpenAI, YCombinator, Принстонский университет, Стэнфорд, Стэнфордский университет
 
 - https://habr.com/ru/companies/vstack/articles/752514/
 - Отрасли: не найдено
 - Компании: Хабр, VStack
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: астрономия, вычислительная техника, математика, морская навигация, промышленная революция
+- Кандидаты компаний: Аналитическое общество, Кембриджский университет, Королевское астрономическое общество, Морской справочник, Тринити-колледж
 
 - https://habr.com/ru/companies/vstack/articles/753102/
 - Отрасли: образование, робототехника
 - Компании: Хабр, VStack, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: археология, геология, глубоководные погружения, добыча полезных ископаемых, зоология, исследование морского дна, коммерческие глубоководные погружения, океанология, поисково-спасательные работы, сейсмология, туризм
+- Кандидаты компаний: JAMSTEC, Newtsuit, OceanGate, Pisces III, USS Thresher, ВМС США, МИР, Национальное управление океанических и атмосферных исследований, Смитсоновский институт, Титан, Триест, Триест-2, Элвин, Японское агентство геолого-морских наук и технологий
 
 - https://habr.com/ru/companies/vstack/articles/754734/
 - Отрасли: аналитики
 - Компании: Хабр, VStack, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT, игровая индустрия, индустрия видеоигр, индустрия игр в аниме-стиле, мобильные игры, цифровые развлечения
+- Кандидаты компаний: Bethesda, Blizzard, ChatGPT, Crypko, DeepMind, DetectiveGPT, Dota 2, EA, Epic Games, Gala Sports, Genshin Impact, Honkai: Star Rail", "Fate/Grand Order", "AI Works", "Stable Diffusion", "Midjourney", "Google, Horizon Forbidden West, OpenAI, Preferred Networks, Sony, Starcraft II, The Last of Us Part II, Vaudeville
 
 - https://habr.com/ru/companies/vstack/articles/754746/
 - Отрасли: Аппаратное обеспечение
 - Компании: Хабр, VStack
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: история IT, компьютерное железо, научно-популярное, ретроспектива, старое железо
+- Кандидаты компаний: Atlas 1, Colossus, CSAW, DSIR, EDSAC, Ferranti Atlas, Ferranti Ltd., Ferranti Mercury, LEO, Metropolitan-Vickers, MOS, NRDC, Task 13, Telecommunications Research Establishment, TRE, UNIVAC, Z4, Манчестерский университет, Массачусетский технологический институт
 
 - https://habr.com/ru/companies/vstack/articles/756590/
 - Отрасли: e-commerce, предлагает, торговли
 - Компании: Хабр, VStack, предлагает
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: интернет-торговля, розничная торговля, социальная коммерция
+- Кандидаты компаний: Alibaba, Amazon, App Store, Brands Meet Creators, Douyin, Google Play, Inspire, Instagram, Kardashians, Taobao, Taobao Live, Tesla, TikTok, Twitter-X, Xiaohongshu
 
 - https://habr.com/ru/companies/vstack/articles/758884/
 - Отрасли: не найдено
 - Компании: Хабр, VStack
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: математика, научно-популярное, теория чисел
+- Кандидаты компаний: EDSAC, Mark I, Telegram, Математика не для всех
 
 - https://habr.com/ru/companies/vstack/articles/758998/
 - Отрасли: Программное обеспечение, Enterprise
 - Компании: Хабр, VStack, Surf, МТС, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT, аэрокосмическая отрасль, военная отрасль, исследования и разработки, коммерческая электронная почта
+- Кандидаты компаний: ARPANET, Bendix G-15, DARPA, IBM, IBM 7044, MCI, MCI Communications, MCI Mail, NASA, New York Times, Quiktran, Rocketdyne, SAGE, Tele-2, Telenet, Калифорнийский университет Лос-Анджелеса, Стэнфордский университет
 
 - https://habr.com/ru/companies/vstack/articles/759786/
 - Отрасли: не найдено
 - Компании: Хабр, VStack, Магнит
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: автоматика, военная техника, компьютерная техника, машиностроение, радио, судостроение, телевидение, телефония, электроника, электротехника, энергетика
+- Кандидаты компаний: Bell Labs, General Electric, Habr, ВМС США
 
 - https://habr.com/ru/companies/vstack/articles/760328/
 - Отрасли: Enterprise
 - Компании: Хабр, VStack
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-компании, Игры и игровые консоли, История IT, Продвижение игр, социальные сети, цифровая дистрибуция игр
+- Кандидаты компаний: Activision, Arcanum, Blizzard, Counter-Strike, CS 1.6, Flipside.com, Game Developers Conference, Half-Life, Havas, Sierra Games, Star Trek, Steam, Team Fortress, Valve, Vivendi, Vivendi Games, WON, WON2, World Opponent Network
 
 - https://habr.com/ru/companies/vstack/articles/760442/
 - Отрасли: масштабируемость, виртуальные, Enterprise
 - Компании: VStack, Хабр, N+1
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-инфраструктура, Виртуализация, Хранение данных
+- Кандидаты компаний: vStack SDS
 
 - https://habr.com/ru/companies/vtb/articles/top/
 - Отрасли: Machine Learning, ML, финтех, Big Data, финансового, операторы связи, Data science, CRM
 - Компании: ВТБ, Хабр, Далее, Arenadata
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT, геоаналитика, машинное обучение, финансовая сфера
+- Кандидаты компаний: Arendata Hadoop, chatbotsmagazine.com, Cloudera, Cloudera Hadoop Distribution, D-Link, Generation S, Hadoop, ora2pg, Oracle, Oracle Big Data Appliance, PostgreSQL, QueryGrid, Teradata, Банк Москвы, ВТБ24, МФТИ
 
 - https://habr.com/ru/companies/web3_tech/articles/559358/
 - Отрасли: Информационная безопасность, Enterprise, криптографии, Оптимизация
 - Компании: Хабр, Web3 Tech, N+1
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: банковская сфера, децентрализованные сети, корпоративный сектор, криптография, распределённые системы
+- Кандидаты компаний: Habr, Waves Enterprise, WE.Vote, Кэппл, Тубель
 
 - https://habr.com/ru/companies/web3_tech/articles/645841/
 - Отрасли: Enterprise, криптографии, финтех
 - Компании: Хабр, Web3 Tech, Альфа-Банка
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-инфраструктура, государственные проекты, децентрализованные сети, проверка подлинности продукта, распределённые системы, рынок криптовалют, цепи поставок, цифровые финансовые активы, энтерпрайз-сектор
+- Кандидаты компаний: Ethereum, Hyperledger Fabric, Waves Enterprise, Райффайзенбанк, система федерального дистанционного электронного голосования
 
 - https://habr.com/ru/companies/web3_tech/articles/664624/
 - Отрасли: недвижимости
 - Компании: Хабр, Web3 Tech, Raft
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: блокчейн, децентрализованные сети, кадастровый реестр, энтерпрайз-блокчейн
+- Кандидаты компаний: Bitcoin, blockchain.com
 
 - https://habr.com/ru/companies/web3_tech/articles/666894/
 - Отрасли: не найдено
 - Компании: Госуслуги, Хабр, Web3 Tech, VK
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Google, WE.Vote, ЕСИА, КриптоПро
 
 - https://habr.com/ru/companies/web3_tech/articles/674086/
 - Отрасли: Enterprise
 - Компании: Хабр, Web3 Tech, Далее
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Docker Hub, Docker Registry, Waves Enterprise
 
 - https://habr.com/ru/companies/web3_tech/articles/678062/
 - Отрасли: Enterprise
 - Компании: Хабр, Web3 Tech, Далее
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Ethereum, Github, Hazelcast, Hyperledger, Redis, Waves Enterprise
 
 - https://habr.com/ru/companies/web3_tech/articles/690364/
 - Отрасли: Enterprise, криптографии, PKI
 - Компании: Web3 Tech, Хабр, Далее, Raft
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: государственная поддержка, малый и средний бизнес
+- Кандидаты компаний: Docker, Ethereum, Grafana, Hedera, Hyperledger Fabric, InfluxDB, NEAR, Raritet.io, Solana, Waves, Waves Enterprise, WE.Vote, Федеральная налоговая служба России
 
 - https://habr.com/ru/companies/web3_tech/articles/700626/
 - Отрасли: Enterprise, финансы, финансах, торговли
 - Компании: Хабр, Web3 Tech, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Финансы в IT, фондовые рынки
+- Кандидаты компаний: Binance, Habr, Swop.fi, Uniswap, Waves Enterprise
 
 - https://habr.com/ru/companies/web3_tech/articles/711816/
 - Отрасли: Инфраструктурные сервисы
 - Компании: Хабр, Web3 Tech, Далее, Бэклог
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Grafana, Kafka, Micrometer, nginx
 
 - https://habr.com/ru/companies/web3_tech/articles/761112/
 - Отрасли: PKI, криптографии, Аппаратное обеспечение, Информационная безопасность
 - Компании: Хабр, Web3 Tech
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Конфидент
 
 - https://habr.com/ru/companies/web3_tech/articles/764114/
 - Отрасли: криптографии, финтех
 - Компании: Хабр, Web3 Tech
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: логистика, финансовая, экономика
+- Кандидаты компаний: Bitcoin, Docker, Ethereum, Конфидент
 
 - https://habr.com/ru/companies/whoosh/articles/705708/
 - Отрасли: IoT, embedded, Программное обеспечение, Рекрутинг и HR, аналитики
