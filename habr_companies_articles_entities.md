@@ -71105,152 +71105,152 @@
 - https://habr.com/ru/company/skyeng/blog/514674/
 - Отрасли: Веб-разработка
 - Компании: Хабр, Skyeng, серверы, iSpring, ИТМО
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT
+- Кандидаты компаний: Amorev, AWS Lambda, Drupal, Gearman, GolangConf, GolangShow, Google, Habr, PHP Russia, RabbitMQ, StyleCI, Symcode, WordPress, Yii, YouTube, Пятиминутка PHP
 
 - https://habr.com/ru/company/skyeng/blog/516950/
 - Отрасли: Веб-разработка
 - Компании: Хабр, Skyeng, ОК, Space
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Composer, DriftPHP, GitHub, Go! AOP, Google, Laravel, Lithium, PHP AOP, PHP Russia, ReactPHP, Symfony, Xerox
 
 - https://habr.com/ru/company/skyeng/blog/520564/
 - Отрасли: Веб-разработка, CRM, Информационная безопасность
 - Компании: Хабр, Skyeng, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: туризм
+- Кандидаты компаний: CRM-1, GitHub, OAuth, PHP-сообщество Татарстана, Symfony, Yii, Youtube, Пых
 
 - https://habr.com/ru/company/skyeng/blog/520714/
 - Отрасли: Веб-разработка
 - Компании: Хабр, Skyeng
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: ИТ
+- Кандидаты компаний: Redis, YellowRockets
 
 - https://habr.com/ru/company/skyeng/blog/521324/
 - Отрасли: Веб-разработка
 - Компании: Хабр, Skyeng, ОК, Далее, быструю
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT, разработка программного обеспечения
+- Кандидаты компаний: Badoo, Habr, Memcached, PHPUnit, Между скобок
 
 - https://habr.com/ru/company/skyeng/blog/524252/
 - Отрасли: Веб-разработка, медиа
 - Компании: Хабр, Skyeng
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: JetBrains, Lifehacker, PHPRussia, Simtech Development, WordPress
 
 - https://habr.com/ru/company/skyeng/blog/525060/
 - Отрасли: Веб-разработка, Enterprise
 - Компании: Хабр, Skyeng, ОК, серверы, Далее
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Linux, Symfony, Ubuntu, ZeBrains
 
 - https://habr.com/ru/company/skyeng/blog/526146/
 - Отрасли: Веб-разработка, масштабируемость
 - Компании: Хабр, Skyeng
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-индустрия
+- Кандидаты компаний: ZeBrains, Битрикс, вордпресс, джумла
 
 - https://habr.com/ru/company/skyeng/blog/527156/
 - Отрасли: предлагает, стриминг
 - Компании: Хабр, Skyeng, Звук, предлагает
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-индустрия
+- Кандидаты компаний: Google Chrome, Hangouts, OBS, Streamyard, Youtube, телеграм
 
 - https://habr.com/ru/company/skyeng/blog/529350/
 - Отрасли: Веб-разработка
 - Компании: Хабр, Skyeng, ОК
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Happy Inc., Phan, PHPStan, Psalm
 
 - https://habr.com/ru/company/skyeng/blog/531676/
 - Отрасли: Веб-разработка
 - Компании: Хабр, Skyeng, Voximplant, Далее
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: gRPC.io, PDS, PDS2
 
 - https://habr.com/ru/company/skyeng/blog/531768/
 - Отрасли: Веб-разработка, CRM
 - Компании: Хабр, Skyeng, Далее, ОК
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Habr
 
 - https://habr.com/ru/company/skyeng/blog/531858/
 - Отрасли: Веб-разработка, маркетинге
 - Компании: Хабр, Skyeng, ОК, Далее
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Beats, Elasticsearch, Filebeat, Grafana, Jaeger, Jira, Kibana, New Relic, NGINX, Sentry
 
 - https://habr.com/ru/company/skyeng/blog/532146/
 - Отрасли: не найдено
 - Компании: Хабр, Skyeng, Далее
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: GraalVM, Swoole
 
 - https://habr.com/ru/company/skyeng/blog/534152/
 - Отрасли: Веб-разработка
 - Компании: Хабр, Skyeng, ОК
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: BotHelp.io, PHP Russia, PHP-Дайджест, Radon, SpiralScout, Symfony, ютубе
 
 - https://habr.com/ru/company/skyeng/blog/534758/
 - Отрасли: Веб-разработка
 - Компании: Хабр, Skyeng, Хекслет
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT
+- Кандидаты компаний: Badoo, JetBrains, Lamoda, Онтико
 
 - https://habr.com/ru/company/skyeng/blog/542070/
 - Отрасли: Веб-разработка
 - Компании: Хабр, Skyeng, ОК
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Doctrine, ElisDN, GitHub, JetBrains, Laminas, Laravel Orchid, ManyChat, PHP Point, PHPclub, PhpStorm, PHPUnit, ReactPHP, RoadRunner, SpiralScout, Swoole, Symfony, Temporal.io, Yii
 
 - https://habr.com/ru/company/skyeng/blog/543794/
 - Отрасли: Веб-разработка, ML
 - Компании: Хабр, Skyeng
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Amp, GitHub, PHP Digest, ReactPHP, Reddit, Swoole, swow, Workerman
 
 - https://habr.com/ru/company/skyeng/blog/544180/
 - Отрасли: Веб-разработка, Программное обеспечение, Дизайн и юзабилити
 - Компании: Хабр, Skyeng
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT
+- Кандидаты компаний: Badoo, Lingualeo, ВК, твиттер, телеграм
 
 - https://habr.com/ru/company/skyeng/blog/545058/
 - Отрасли: CRM
 - Компании: Хабр, Skyeng, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: онлайн-преподавание
+- Кандидаты компаний: Google Meet, Symfony, Tramway, TRM, Мегаплан
 
 - https://habr.com/ru/company/skyeng/blog/546314/
 - Отрасли: Веб-разработка
 - Компании: Хабр, Skyeng, Цифра
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Райффайзенбанк
 
 - https://habr.com/ru/company/skyeng/blog/553128/
 - Отрасли: Веб-разработка, Информационная безопасность
 - Компании: Хабр, Skyeng
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Happy Inc., Skysmart, Unity
 
 - https://habr.com/ru/company/skyeng/blog/554706/
 - Отрасли: Веб-разработка
 - Компании: Хабр, Skyeng, VK, iSpring
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Codeception, Facebook, FindMyKids, Gitlab, HHVM, JetBrains, Laravel Idea, PhpStorm, ВКонтакте
 
 - https://habr.com/ru/company/skyeng/blog/560842/
 - Отрасли: Веб-разработка
 - Компании: Хабр, Skyeng
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: AWS, Google, Sentry
 
 - https://habr.com/ru/company/skyeng/blog/666626/
 - Отрасли: Программное обеспечение, Дизайн и юзабилити
 - Компании: Хабр, Skyeng, Далее, OTUS, Skillbox
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT
+- Кандидаты компаний: Amazon, GitHub, JetBrains, LaravelCasts, LaravelDaily, Symfony, SymfonyCasts
 
 - https://habr.com/ru/company/smi2/blog/314558/
 - Отрасли: Big Data, СМИ, масштабируемость, аналитики, OLAP
