@@ -66906,97 +66906,97 @@
 - Отрасли: аналитики, предлагает, Рекрутинг и HR
 - Компании: Хабр, ЮMoney, Яндекс, Бэклог, Далее, предлагает
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Magic: The Gathering, Spotify, Яндекс.Деньги
 
 - https://habr.com/ru/companies/yoomoney/articles/487444/
 - Отрасли: e-commerce, финансы, маркетинге, предлагает, CRM
 - Компании: Хабр, ЮMoney, Яндекс, предлагает
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: дизайн, инфобизнес, ИТ, маркетинг, Платежные системы, Финансы в IT
+- Кандидаты компаний: Instagram, Я.Кассы, Яндекс.Деньги, Яндекс.Касса
 
 - https://habr.com/ru/companies/yoomoney/articles/488376/
 - Отрасли: не найдено
 - Компании: Хабр, ЮMoney
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: TED, Амедиатека, Телеграм
 
 - https://habr.com/ru/companies/yoomoney/articles/488754/
 - Отрасли: Оптимизация
 - Компании: Хабр, ЮMoney, Яндекс
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: ИТ
+- Кандидаты компаний: Bitbucket, Jenkins, Jira, Nexus, size-limit, Slack, Telegram, Яндекс.Деньги
 
 - https://habr.com/ru/companies/yoomoney/articles/490954/
 - Отрасли: e-commerce
 - Компании: Яндекс, Хабр, ЮMoney, Samsung, Сбербанк
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: магазины одежды и обуви, строительство и проектирование
+- Кандидаты компаний: Apple, Apple Pay, eMarketer, Google Pay, Mastercard, Mir Pay, Samsung Pay, Statista, Visa, Сбербанк Онлайн, Яндекс.Деньги, Яндекс.Касса
 
 - https://habr.com/ru/companies/yoomoney/articles/492272/
 - Отрасли: не найдено
 - Компании: Хабр, ЮMoney
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: AndroidStudio
 
 - https://habr.com/ru/companies/yoomoney/articles/498750/
 - Отрасли: e-commerce, финансы
 - Компании: Хабр, ЮMoney, Яндекс, OZON, Кошелёк, Сбербанк
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Финансы в IT
+- Кандидаты компаний: Amazon, Apple Pay, Google Pay, Mastercard, Netflix, PwC, Statista, Visa, Сбербанк Онлайн, Яндекс.Деньги, Яндекс.Касса
 
 - https://habr.com/ru/companies/yoomoney/articles/500904/
 - Отрасли: финансы, процессинг
 - Компании: Хабр, ЮMoney, Яндекс
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: платежные системы, платежный рынок
+- Кандидаты компаний: Adyen, Alibaba, Amazon, Apple, Baidu, Bunq, Facebook, Google, GoPay, Innopay, iZettle, N26, PayPal, Revolut, SEPA, SWIFT GPI, Tencent, Яндекс.Деньги
 
 - https://habr.com/ru/companies/yoomoney/articles/502014/
 - Отрасли: не найдено
 - Компании: Хабр, ЮMoney, Яндекс
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT
+- Кандидаты компаний: Ридус, ФНС, Яндекс.Касса
 
 - https://habr.com/ru/companies/yoomoney/articles/503926/
 - Отрасли: финансы, предлагает
 - Компании: Хабр, ЮMoney, предлагает, Кошелёк
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: коммерция
+- Кандидаты компаний: Alibaba, Alipay, Amazon, Apple, Baidu, BankID, BAT, Facebook, GAFA, Google, Libra, OK, PayPal, Payu, Reward Cards, Tencent, Venmo
 
 - https://habr.com/ru/companies/yoomoney/articles/504930/
 - Отрасли: Big Data, Data science, ETL, Информационная безопасность, DWH, ML, e-commerce
 - Компании: Хабр, ЮMoney, Яндекс, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-индустрия
+- Кандидаты компаний: Kafka, Moira, Яндекс.Деньги
 
 - https://habr.com/ru/companies/yoomoney/articles/505790/
 - Отрасли: не найдено
 - Компании: Яндекс, Хабр, ЮMoney, Альфа-Банка, Альфа-Банк
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: GitHub, Telegram, WidgetRunner, Zoom, ВКонтакте, Яндекс.Деньги, Яндекс.Кассы
 
 - https://habr.com/ru/companies/yoomoney/articles/509206/
 - Отрасли: e-commerce, финансы, BI
 - Компании: Хабр, ЮMoney, Яндекс, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: онлайн-коммерция, Платежные системы, Финансы в IT
+- Кандидаты компаний: Amazon, Apple Pay, Google Pay, Mastercard, Netflix, Visa, Wallet, Яндекс.Касса
 
 - https://habr.com/ru/companies/yoomoney/articles/509752/
 - Отрасли: не найдено
 - Компании: Хабр, ЮMoney, Яндекс, Альфа-Банк
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: BugsBusters 2020, Grafana, Jenkins, Jira, Microsoft, SpecFlow, Яндекс.Деньги, Яндекс.Кассы
 
 - https://habr.com/ru/companies/yoomoney/articles/513166/
 - Отрасли: не найдено
 - Компании: Хабр, ЮMoney, Яндекс
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Ситимобил, Яндекс.Деньги
 
 - https://habr.com/ru/companies/yoomoney/articles/513722/
 - Отрасли: аналитики, аутсорсинг, Мобильные технологии, Оптимизация
 - Компании: Хабр, ЮMoney, Авито, Яндекс, Альфа-Банк, Далее, ОК
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Revolut, Ситимобил, Яндекс.Деньги
 
 - https://habr.com/ru/companies/yoomoney/articles/514172/
 - Отрасли: не найдено
@@ -67007,50 +67007,50 @@
 - https://habr.com/ru/companies/yoomoney/articles/521372/
 - Отрасли: BI, процессинг
 - Компании: Хабр, ЮMoney, ОК, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: транспорт
+- Кандидаты компаний: Autorun, ClickView, Google Data Studio, Google Sheets, Grafana, Graphite, Jenkins, Jira, Locker, Pinger, PostgreSQL, StatsD, Telegraf
 
 - https://habr.com/ru/companies/yoomoney/articles/525142/
 - Отрасли: аналитики, финтех, финансы
 - Компании: Хабр, ЮMoney, Кошелёк, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Платежные системы
+- Кандидаты компаний: yookassa.ru, yoomoney.ru, yooteam.ru, Касса, Штрафы
 
 - https://habr.com/ru/companies/yoomoney/articles/531376/
 - Отрасли: финансового, финтех
 - Компании: Хабр, ЮMoney
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Платежные системы
+- Кандидаты компаний: ЮKassa
 
 - https://habr.com/ru/companies/yoomoney/articles/532344/
 - Отрасли: e-commerce, финансы, финансового, CRM, OCR, предлагает, банках
 - Компании: Хабр, ЮMoney, 1С, dBrain, предлагает, QIWI
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Платежные системы, Финансы в IT
+- Кандидаты компаний: DaData, WebMoney, Диадок, Касса, СПАРК, ЮKassa
 
 - https://habr.com/ru/companies/yoomoney/articles/532510/
 - Отрасли: финансового
 - Компании: Хабр, ЮMoney
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: финансового сервиса
+- Кандидаты компаний: GitHub, Modernizer, Telegram, ВКонтакте, ЮMoneyDay, юмани
 
 - https://habr.com/ru/companies/yoomoney/articles/533186/
 - Отрасли: финансового
 - Компании: Хабр, ЮMoney
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: платежный сервис, финансовый сервис
+- Кандидаты компаний: GitHub, Telegram, ВКонтакте, юмани
 
 - https://habr.com/ru/companies/yoomoney/articles/533834/
 - Отрасли: ML, Data science, BI, финансового
 - Компании: Хабр, ЮMoney
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: финансовый сервис
+- Кандидаты компаний: Apache Kafka, JenkinsFile, Kibana, Librdkafka, logstash, Opendistro-perfomance-analyzer, Rsyslog, Translog, Юмани
 
 - https://habr.com/ru/companies/yoomoney/articles/534302/
 - Отрасли: финансового
 - Компании: Бэклог, Хабр, ЮMoney
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: финансовый сервис
+- Кандидаты компаний: GitHub, Telegram, ВКонтакте, ЮMoneyDay, юмани
 
 - https://habr.com/ru/companies/yoomoney/articles/534780/
 - Отрасли: финансового
