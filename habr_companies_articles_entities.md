@@ -65406,151 +65406,151 @@
 - Отрасли: не найдено
 - Компании: Хабр, Журнал Хакер, AMD
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Android, AOSP, GCC, GNU, HPN, Kubuntu, make, OpenSSH, pmake, Rsync, SSH, Ubuntu, XakepRU, Хакер
 
 - https://habr.com/ru/companies/xakep/articles/212127/
 - Отрасли: не найдено
 - Компании: Хабр, Журнал Хакер, Самолет
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT, авиация, антивирусная индустрия, файлообмен
+- Кандидаты компаний: Apple, Apple II, Apple Writer, Autodesk, McAfee, Megaupload, NASA, Netscape, XakepRU, Xerox PARC
 
 - https://habr.com/ru/companies/xakep/articles/212147/
 - Отрасли: масштабируемость, Big Data, виртуальные
 - Компании: Хабр, Журнал Хакер, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: storage-системы, аналитика, венчурный фонд, индустрия швейцарских часов, секвенирование ДНК, системы резервирования данных, системы хранения данных, технологии виртуализации
+- Кандидаты компаний: Acronis, Acumatica, ASP Linux, Casio, Ernst & Young, nginx, Parallels, Runa Capital, SWSoft, XakepRU
 
 - https://habr.com/ru/companies/xakep/articles/225249/
 - Отрасли: предлагает
 - Компании: Хабр, Журнал Хакер, предлагает, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: визуализация данных
+- Кандидаты компаний: Dashing, Git, GitHub, Heroku, Heroku Toolbelt, Ruby, Shopify, Sinatra, XakepRU, Yandex
 
 - https://habr.com/ru/companies/xakep/articles/231813/
 - Отрасли: масштабируемость
 - Компании: Хабр, Журнал Хакер, RET
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: антивирусное ПО, кибербезопасность, отладка, реверс-инжиниринг
+- Кандидаты компаний: Bochs, IDA, Intel, Microsoft, PaiMei, Pin, QEMU, XakepRU
 
 - https://habr.com/ru/companies/xakep/articles/231825/
 - Отрасли: медиа
 - Компании: Хабр, Журнал Хакер, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT, встраиваемые системы, электроника
+- Кандидаты компаний: Android, ARM, Debian Linux, GeneralPlus, Intel, Linux, Lua, NAND, OpenPlatform, Pluto, QEMU, vold, Win95 FAT32, XakepRU
 
 - https://habr.com/ru/companies/xakep/articles/232207/
 - Отрасли: Информационная безопасность
 - Компании: Хабр, Журнал Хакер, Далее
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: ChiWriter, CVE, Intel, Microsoft, Norton Commander, NTVDM.EXE, Quattro Pro, Windows, XakepRU
 
 - https://habr.com/ru/companies/xakep/articles/235629/
 - Отрасли: не найдено
 - Компании: Хабр, Журнал Хакер, Яндекс, Далее, ИТМО
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT, спортивное программирование
+- Кандидаты компаний: ACM ICPC, Codeforces, Google, Google Code Jam, petr-mitrichev.blogspot.ru, TopCoder, XakepRU, Высшая школа экономики, МГУ, Физтех
 
 - https://habr.com/ru/companies/xakep/articles/242699/
 - Отрасли: облачных сервисов, AML
 - Компании: Хабр, Журнал Хакер
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-безопасность, виртуализация
+- Кандидаты компаний: ACPI tool, AIDA64, ERNW, GitHub, Hyper-V, Linux Integration Services, LIS, Microsoft, MSDN, S3, S3 Trio, VMware, VMware Workstation, WinDBG, Windows Server, XakepRU
 
 - https://habr.com/ru/companies/xakep/articles/244145/
 - Отрасли: digital, хостинг-провайдеров, CRM, PaaS, виртуальные, хостинг, Домены и хостинг
 - Компании: Хабр, Журнал Хакер, Далее, DELL, серверы
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: CRM-системы, IT-инфраструктура, облачные технологии, разработка программного обеспечения
+- Кандидаты компаний: Amazon, Amazon AWS, Boulder, boulder.me, CloudStack, Digital Ocean, Eucalyptus, GitHub, Google, Meetup.com, Microsoft, New York City TechStars, New York Tech Meetup, OpenStack, SuperMicro, TechStars, XakepRU
 
 - https://habr.com/ru/companies/xakep/articles/244383/
 - Отрасли: Информационная безопасность
 - Компании: Хабр, Журнал Хакер, Цифра, Hurricane Electric, RDP, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: интернет
+- Кандидаты компаний: RIPE NCC, scapy, THC, THC-hydra, THC-IPV6, XakepRU
 
 - https://habr.com/ru/companies/xakep/articles/244467/
 - Отрасли: Информационная безопасность, embedded
 - Компании: Хабр, Журнал Хакер, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Ненормальное программирование
+- Кандидаты компаний: Accelerated C# 2010, Code complete, dotPeek, GOF, Google Chrome, ICQ, JetBrains, Microsoft, Productivity Power Tools 2013, Resharper, Skype, Stack Overflow, Stevie McConnell, Trey Nash, UFR Stealer, Visual Studio, XakepRU
 
 - https://habr.com/ru/companies/xakep/articles/244477/
 - Отрасли: Веб-разработка, предлагает, embedded
 - Компании: Хабр, Журнал Хакер, предлагает, Space, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT
+- Кандидаты компаний: Eclipse, Firebug, GlassFish Server, Google, GWT, IntelliJ IDEA, Jetty, Metro, NetBeans, Oracle WebLogic, Reindeer, Tomcat, Vaadin, Valo, XakepRU
 
 - https://habr.com/ru/companies/xakep/articles/244485/
 - Отрасли: Big Data, Информационная безопасность, digital, информационной безопасности
 - Компании: Хабр, Журнал Хакер
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Facebook, I2P, Tor
 
 - https://habr.com/ru/companies/xakep/articles/247273/
 - Отрасли: облачных сервисов, виртуальные, Программное обеспечение
 - Компании: Хабр, Журнал Хакер, Далее
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: dvd.xakep.ru, Hyper-V, icsvc, KERNELBASE, Microsoft, ntdll, OSRLoader, SendIOCTL, Sitent, Visual Studio, vmbkmcl, VMBus, vmbuspipe, XakepRU
 
 - https://habr.com/ru/companies/xakep/articles/253997/
 - Отрасли: Информационная безопасность, Мобильные технологии, медиа
 - Компании: Хабр, Журнал Хакер
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: iOS
+- Кандидаты компаний: Apple, iCloud, Xcode
 
 - https://habr.com/ru/companies/xakep/articles/254003/
 - Отрасли: Информационная безопасность, предлагает
 - Компании: Хабр, Журнал Хакер, Далее, предлагает
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: авиация, государственные учреждения, киноиндустрия, транспорт
+- Кандидаты компаний: Google
 
 - https://habr.com/ru/companies/xakep/articles/254119/
 - Отрасли: Веб-разработка, CRM, предлагает
 - Компании: Хабр, Журнал Хакер, предлагает
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: массовое производство
+- Кандидаты компаний: Chrome, Excel, Fanurio, Google Calendar, Outlook, Simple Time Track, TimeEdition, Timely, Toggl
 
 - https://habr.com/ru/companies/xakep/articles/254127/
 - Отрасли: Мобильные технологии, Программное обеспечение
 - Компании: Хабр, Журнал Хакер, Далее, серверы, VK
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Amazon, Instapaper, Pythonista, Tasker, Twitter
 
 - https://habr.com/ru/companies/xakep/articles/254129/
 - Отрасли: Информационная безопасность, медиа, digital
 - Компании: Хабр, Журнал Хакер, VK, РЖД
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Геоинформационные сервисы
+- Кандидаты компаний: Facebook, Flickr, Foursquare, Google+, Instagram, jelled.com, Kali Linux, LinkedIn, Twitter, Wigle
 
 - https://habr.com/ru/companies/xakep/articles/254991/
 - Отрасли: Программное обеспечение, digital, САПР
 - Компании: Хабр, Журнал Хакер, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: игровая индустрия, искусство, цифровая археология
+- Кандидаты компаний: Amiga, Apple, Blondie, Broderbund, Carnegie Mellon University, GitHub, Software Preservation Society, The Internet Archive, Ubisoft
 
 - https://habr.com/ru/companies/xakep/articles/256659/
 - Отрасли: Информационная безопасность
 - Компании: Хабр, Журнал Хакер, Далее
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Cisco, XakepRU
 
 - https://habr.com/ru/companies/xakep/articles/256661/
 - Отрасли: Информационная безопасность, СМИ
 - Компании: Хабр, Журнал Хакер, Далее, Самолет
-- Кандидаты отраслей: не найдено
+- Кандидаты отраслей: автомобильная промышленность
 - Кандидаты компаний: не найдено
 
 - https://habr.com/ru/companies/xakep/articles/256663/
 - Отрасли: Информационная безопасность, ERP, digital
 - Компании: Хабр, Журнал Хакер, Далее, серверы, Digital Security
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Metasploit, Microsoft, Oracle, SAP
 
 - https://habr.com/ru/companies/xakep/articles/256665/
 - Отрасли: Информационная безопасность, digital
 - Компании: Хабр, Журнал Хакер, Далее, RDP, Digital Security
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: GitHub, Google, MariaDB, Metasploit, MySQL, Nmap, Shodan, sqlmap
 
 - https://habr.com/ru/companies/xakep/articles/256667/
 - Отрасли: Информационная безопасность, digital
