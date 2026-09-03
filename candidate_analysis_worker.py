@@ -52,7 +52,10 @@ def fetch_text(url: str, cache_dir: Path) -> dict:
     key = re.sub(r"[^A-Za-z0-9_.-]", "_", urlparse(url).path.strip("/") or "root")
     path = cache_dir / f"{key}.json"
     if path.exists():
-        return json.loads(path.read_text(encoding="utf-8"))
+        try:
+            return json.loads(path.read_text(encoding="utf-8"))
+        except (json.JSONDecodeError, OSError):
+            path.unlink(missing_ok=True)
     last_error = ""
     for attempt in range(3):
         try:
