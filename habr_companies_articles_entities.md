@@ -36005,26 +36005,26 @@
 - https://habr.com/ru/companies/productivity_inside/articles/320376/
 - Отрасли: не найдено
 - Компании: Хабр, InlyIT
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Графический дизайн, Дизайн мобильных приложений, Интерфейсы, Локализация, Услуги перевода
+- Кандидаты компаний: Dropbox, Google, IBM
 
 - https://habr.com/ru/companies/productivity_inside/articles/320640/
 - Отрасли: предлагает
 - Компании: Хабр, InlyIT, предлагает, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Разработка мобильных приложений
+- Кандидаты компаний: Apple, Buffer, Dropbox, Ecler Studios, Facebook, GitHub, Google, GoogleDevelopers, iCloud, Instagram, InstagramEngineering, Ray Wenderlich, realm.io, Square
 
 - https://habr.com/ru/companies/productivity_inside/articles/320964/
 - Отрасли: СМИ, медиа
 - Компании: Хабр, InlyIT
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: B2B, потребительские рынки, развитие бизнеса, развитие стартапа, стартапы
+- Кандидаты компаний: Google, Medium, Oyster
 
 - https://habr.com/ru/companies/productivity_inside/articles/321094/
 - Отрасли: маркетинге
 - Компании: Хабр, InlyIT, Цифра
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: маркетинг, полупроводников
+- Кандидаты компаний: Basecamp, Carnegie Mellon University, Cornell University, Journal of Consumer Psychology, McKinsey, MIT, Uber, Стэнфорда
 
 - https://habr.com/ru/companies/productivity_inside/articles/321244/
 - Отрасли: не найдено
@@ -36036,79 +36036,79 @@
 - Отрасли: предлагает, аналитики
 - Компании: Хабр, InlyIT, Далее, предлагает
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Algolia, Facebook, Foursquare, GitHub, Gmail(,, Goodreads, Google, Hacker News, Mailchimp, Medium, OpenStreetMap, Product Hunt, Reddit, Sendgrid, Slack, Slashbot, Tweetdeck, Twitter, Unsplash
 
 - https://habr.com/ru/companies/productivity_inside/articles/321566/
 - Отрасли: Игры и развлечения, Дизайн и юзабилити, Мобильные технологии, образование
 - Компании: Хабр, InlyIT
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT, сельское хозяйство
+- Кандидаты компаний: Facebook, Moqups, PlayStation Vue, Sketch, Sony Network Entertainment, Whatsapp
 
 - https://habr.com/ru/companies/productivity_inside/articles/321684/
 - Отрасли: не найдено
 - Компании: Хабр, InlyIT
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Freelance
+- Кандидаты компаний: freeCodeCamp, Mozilla Developer Network, Wikipedia Viewer
 
 - https://habr.com/ru/companies/productivity_inside/articles/321804/
 - Отрасли: не найдено
 - Компании: Хабр, InlyIT, Далее
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: github, Smashing Magazine
 
 - https://habr.com/ru/companies/productivity_inside/articles/321968/
 - Отрасли: не найдено
 - Компании: Хабр, InlyIT, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT, космическая индустрия, научные исследования, разработка программного обеспечения, социальные медиа
+- Кандидаты компаний: #100DaysOfCode, Accidental Haiku, botwiki, Cloud9 IDE, DroidScott, Earthquake Robot, Heroku, Mashape, Node.JS, poem.exe, ScottDevTweets, Twisst ISS bot, Twitter
 
 - https://habr.com/ru/companies/productivity_inside/articles/322068/
 - Отрасли: хостинг, digital
 - Компании: Хабр, InlyIT, Surf, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT
+- Кандидаты компаний: atspace.com, DigitalOcean, Dojo, GitHub, Lets Encrypt, Magic Seaweed, Namecheap, Nomad List, Product Hunt, Railsware, World Weather API
 
 - https://habr.com/ru/companies/productivity_inside/articles/322216/
 - Отрасли: не найдено
 - Компании: Хабр, InlyIT, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: разработка мобильных приложений
+- Кандидаты компаний: Android, CSS Flexbox, iOS, Jasonette, LinearLayout, RecyclerView, Storyboards, TextView, UICollectionView, UILabel, UIStackView, UITableView, UITableViewCells, XML
 
 - https://habr.com/ru/companies/productivity_inside/articles/322286/
 - Отрасли: образование, Программное обеспечение
 - Компании: Хабр, InlyIT, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: компьютерное программирование, разработка, юриспруденция
+- Кандидаты компаний: Anki, AnkiMobile, AnkiWeb, AppStore, CDBaby, Google, SuperMemo
 
 - https://habr.com/ru/companies/productivity_inside/articles/322390/
 - Отрасли: Мобильные технологии, Дизайн и юзабилити
 - Компании: Хабр, InlyIT
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Android-SwitchIcon, ArcNavigationView, Ason, AwesomeBar, Boxing, Bridge, CameraFragment, Chuck, CoordinatorTabLayout, CounterFab, excelPanel, FadingTextView, Horizontal Calendar, Lottie, ObjectBox, PreviewSeekBar, ShimmerRecyclerView, Store, StyleableToast, Toasty
 
 - https://habr.com/ru/companies/productivity_inside/articles/322694/
 - Отрасли: хостинг, медиа
 - Компании: Хабр, InlyIT
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: non-profit, open source, social impact
+- Кандидаты компаний: Code Climate, flask-base, GitHub, Givology, Hack4Impact, Heroku, Juvenile Law Center, Kiva, OSET, React-Router, Webpack
 
 - https://habr.com/ru/companies/productivity_inside/articles/323060/
 - Отрасли: Веб-разработка, Дизайн и юзабилити, медиа
 - Компании: Хабр, InlyIT, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: веб-дизайн, развитие стартапа, управление продажами, управление продуктом, фриланс
+- Кандидаты компаний: Bootstrap, Bootstrap Expo, Creative Tim, Designer News, eWebDesign, Facebook, Get Shit Done Kit, Get Shit Done Kit PRO, Github, GSDK, Hacker News, Product Hunt, Reddit, Sacha Grief, Sidebar.io, Starbucks, Twitter
 
 - https://habr.com/ru/companies/productivity_inside/articles/323320/
 - Отрасли: Программное обеспечение
 - Компании: Хабр, InlyIT
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-индустрия, программное обеспечение с открытым исходным кодом
+- Кандидаты компаний: .NET, .NET Foundation, cvs, GitHub, Linux Foundation, Mercurial, Microsoft, Red Hat, Redux, Subversion, TypeScript
 
 - https://habr.com/ru/companies/productivity_inside/articles/323522/
 - Отрасли: медиа
 - Компании: Хабр, InlyIT, Далее, AMD, t2
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: dev-books.com, GOODRAM, GOODRAM C40 120Gb, Lifehacker.com, Stack Exchange, Stack Overflow
 
 - https://habr.com/ru/companies/productivity_inside/articles/323766/
 - Отрасли: не найдено
@@ -36119,38 +36119,38 @@
 - https://habr.com/ru/companies/productivity_inside/articles/323864/
 - Отрасли: Информационная безопасность
 - Компании: Хабр, InlyIT
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Information security
+- Кандидаты компаний: Discourse, Google, NSIT, XKCD
 
 - https://habr.com/ru/companies/productivity_inside/articles/324088/
 - Отрасли: Дизайн и юзабилити
 - Компании: Хабр, InlyIT
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Graphic-design, Translation, Usability, Web-design
+- Кандидаты компаний: Amazon, Google, Habr, IMDB, YouTube
 
 - https://habr.com/ru/companies/productivity_inside/articles/324180/
 - Отрасли: предлагает, Веб-разработка, хостинг, Дизайн и юзабилити
 - Компании: Хабр, InlyIT, предлагает, серверы
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT
+- Кандидаты компаний: CodeAcademy, Fog Creek, GitHub, Glitch, Gomix, Google, Hour of Code, Medium, Netflix, Phaser, Slack, Twitter
 
 - https://habr.com/ru/companies/productivity_inside/articles/324258/
 - Отрасли: не найдено
 - Компании: Хабр, InlyIT
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT, дизайн продуктов
+- Кандидаты компаний: DoorDash, Google, Kiva, LinkedIn, Pivotal Labs, Stack Overflow
 
 - https://habr.com/ru/companies/productivity_inside/articles/324380/
 - Отрасли: не найдено
 - Компании: Хабр, InlyIT, Далее, Бэклог
-- Кандидаты отраслей: не найдено
+- Кандидаты отраслей: развитие стартапа, управление продуктом, управление проектами
 - Кандидаты компаний: не найдено
 
 - https://habr.com/ru/companies/productivity_inside/articles/324774/
 - Отрасли: Дизайн и юзабилити
 - Компании: Хабр, InlyIT, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT, веб-дизайн, графический дизайн, дизайн мобильных приложений
+- Кандидаты компаний: Bantam, Intercom, Marvel, Material Design, Modulz, Shopify
 
 - https://habr.com/ru/companies/productivity_inside/articles/325054/
 - Отрасли: Дизайн и юзабилити, предлагает, медиа
