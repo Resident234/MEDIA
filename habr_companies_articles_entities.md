@@ -21305,152 +21305,152 @@
 - https://habr.com/ru/companies/jetinfosystems/articles/463037/
 - Отрасли: не найдено
 - Компании: Хабр, Инфосистемы Джет, Space
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-индустрии
+- Кандидаты компаний: Coursera
 
 - https://habr.com/ru/companies/jetinfosystems/articles/463639/
 - Отрасли: Информационная безопасность
 - Компании: Хабр, Инфосистемы Джет, Далее
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Apple, CSIRT 14, GitHub, Hexway, TrueCaller, WIRED
 
 - https://habr.com/ru/companies/jetinfosystems/articles/469651/
 - Отрасли: Информационная безопасность
 - Компании: Хабр, Инфосистемы Джет
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: SIM‑карты, Мобильная безопасность, Мобильные устройства
+- Кандидаты компаний: Ginno Security Lab, Kaspersky, Security Research Lab Berlin, Short Message Service Centre (SMSC), SIM toolkit, SmartTrust, Wireless Internet Browser (WIB)
 
 - https://habr.com/ru/companies/jetinfosystems/articles/489234/
 - Отрасли: Информационная безопасность, информационной безопасности, СМИ
 - Компании: Хабр, Инфосистемы Джет
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: бизнес, ИТ
+- Кандидаты компаний: Технотекст
 
 - https://habr.com/ru/companies/jetinfosystems/articles/498884/
 - Отрасли: Информационная безопасность, информационной безопасности, Рекрутинг и HR
 - Компании: Хабр, Инфосистемы Джет, N+1
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT‑инфраструктура, банковская отрасль, информационные системы
+- Кандидаты компаний: Технотекст
 
 - https://habr.com/ru/companies/jetinfosystems/articles/505740/
 - Отрасли: Информационная безопасность, Домены и хостинг, Enterprise, предлагает
 - Компании: Хабр, Инфосистемы Джет, Далее, предлагает
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Google, Hack The Box, stackoverflow
 
 - https://habr.com/ru/companies/jetinfosystems/articles/551626/
 - Отрасли: Информационная безопасность, информационной безопасности
 - Компании: Хабр, Инфосистемы Джет
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: гражданское право, уголовное право
+- Кандидаты компаний: Технотекст
 
 - https://habr.com/ru/companies/jetinfosystems/articles/589697/
 - Отрасли: образование, онлайн-курсы, госсектора, информационной безопасности
 - Компании: Хабр, Инфосистемы Джет, Самолет
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-индустрия, IT-рынок, медицинская клиника
+- Кандидаты компаний: Airbnb, Austin Health, Citrix, IELTS, Microsoft
 
 - https://habr.com/ru/companies/jetinfosystems/articles/684618/
 - Отрасли: предлагает, OLAP
 - Компании: Хабр, Инфосистемы Джет, ОК, предлагает, 1С, серверы
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Базы данных, ИТ-инфраструктура
+- Кандидаты компаний: Ispirer, JetHabr, MS SQL, ora2pg, Oracle, PostgreSQL
 
 - https://habr.com/ru/companies/jetinfosystems/articles/688304/
 - Отрасли: Программное обеспечение, финансы, Enterprise
 - Компании: Хабр, Инфосистемы Джет, серверы, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT‑индустрия, IT‑инфраструктура, китайский рынок, розница, телекомоператоры
+- Кандидаты компаний: Hyper‑V, JetHabr, Nutanix, oVirt, VMware, Гугл
 
 - https://habr.com/ru/companies/jetinfosystems/articles/699940/
 - Отрасли: не найдено
 - Компании: Хабр, Инфосистемы Джет, ОК, Далее
-- Кандидаты отраслей: не найдено
+- Кандидаты отраслей: ИТ
 - Кандидаты компаний: не найдено
 
 - https://habr.com/ru/companies/jetinfosystems/articles/702852/
 - Отрасли: CRM, аналитики
 - Компании: Хабр, Инфосистемы Джет, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-индустрии, банковской отрасли, кредитование, финансовый сектор
+- Кандидаты компаний: AБС, SWIFT
 
 - https://habr.com/ru/companies/jetinfosystems/articles/713284/
 - Отрасли: Информационная безопасность, информационной безопасности
 - Компании: Хабр, Инфосистемы Джет, Далее, серверы
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Dropbox, Firefox, Google, Google Chrome, Internet Explorer, Metasploit, Microsoft, Microsoft Edge, Mimikatz, Mozilla, Outlook, Process Hacker, Skype, Windows Mail
 
 - https://habr.com/ru/companies/jetinfosystems/articles/727170/
 - Отрасли: Поисковые технологии, образование
 - Компании: Хабр, Инфосистемы Джет
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Алгоритмы, Анатомия, Аудио, Генеалогия, Геоданные, Геометрия, Дата и время, Землетрясение, Игры со словами, Кино, Курсы валют, Лингвистика, Математическое функции, Музыка, Покемоны, Построение графиков, Пояснения к коду, Разложение на множители, Решение уравнений, Системы счисления, Современная модель работы человека и ИИ
+- Кандидаты компаний: ChatGPT, JetHabr, OpenAI, Wolfram, Wolfram Language, Wolfram|Alpha, Wolfram‑блокнот
 
 - https://habr.com/ru/companies/jetinfosystems/articles/top/page3/
 - Отрасли: Enterprise, ML, информационной безопасности
 - Компании: Инфосистемы Джет, Хабр, М.Видео
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: VDI, информационные технологии, кибербезопасность, логистика, машинное обучение, ритейл, транспорт
+- Кандидаты компаний: Backtrack, Exim, hashcat, Jet CSIRT, Kali Linux, MacOS Mojave, Metasploit, OpenSSH, SUN Microsystems, Taft’у Три погоды, VMware, Джет, Утконос
 
 - https://habr.com/ru/companies/joydev/articles/top/
 - Отрасли: предлагает
 - Компании: Joy Dev, Хабр, предлагает, Яндекс
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: картографические сервисы, кассовое оборудование, мобильная разработка, мобильные приложения, платёжные сервисы, сканеры
+- Кандидаты компаний: ChatGPT, Google, Jetpack Compose, Kotlin, Mertech, OpenAI, Prodamus, RuStore, Yandex, Yandex MapKit
 
 - https://habr.com/ru/companies/jugru/articles/599963/
 - Отрасли: гейминг, IoT, ML, Мобильные технологии
 - Компании: Хабр, JUG Ru Group, Broadcasts Group, Surf, Samsung, AMD
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IoT‑устройства, облачные устройства, облачный гейминг, складные устройства, смартфоны
+- Кандидаты компаний: Android 12L, Android Broadcast, Apple, Galaxy Fold, Google, Google Duo, Google Stadia, iPhone, Jetpack Window Manager, Microsoft, Motorola, Nokia, Project Ara, Siemens, Surface Duo, Telegram, YotaPhone, YouTube
 
 - https://habr.com/ru/companies/jugru/articles/683656/
 - Отрасли: Дизайн и юзабилити
 - Компании: Хабр, JUG Ru Group, Кошелёк, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Разработка мобильных приложений
+- Кандидаты компаний: Jetpack Compose, Mobius
 
 - https://habr.com/ru/companies/jugru/articles/top/
 - Отрасли: Программное обеспечение, Веб-сервисы, Enterprise, медиа
 - Компании: JUG Ru Group, Хабр, Далее, Звук
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT‑отрасль, браузерные игры, веб‑сервисы, компьютеры, конференции, мобильные приложения, операционные системы
+- Кандидаты компаний: ACM, EFF, GitHub, Habr, HolyJS, IntelliJ IDEA, Internet Hall of Fame, JetBrains, MacArthur Foundation, Slack, Telegram, The Next Web, Tinkoff.ru, Twitter, UniPro, Минкомсвязи
 
 - https://habr.com/ru/companies/just_ai/articles/top/
 - Отрасли: NLP, digital, ритейла, телекома, Игры и развлечения, аналитики
 - Компании: Just AI, Хабр, VK, Яндекс, Смешариков, МТС, Кошелёк, Voximplant
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: виртуальные голосовые помощники, геймдев, голосовые ассистенты, искусственный интеллект, разговорный AI, ритейл, телеком, умные колонки
+- Кандидаты компаний: Aimylogic, Canalys, ClickHouse, Digital Intelligence, Google, HeadHunter, Huawei, iPavlov, Jay Guard, Juniper Research, Mail.ru, OpenAI, Strategy Analytics, Академия больших данных MADE, Маруси, Наносемантика, Яндекс Диалоги
 
 - https://habr.com/ru/companies/k2tech/articles/737564/
 - Отрасли: Enterprise, предлагает, Программное обеспечение
 - Компании: Хабр, К2Тех, DELL, РЖД, предлагает
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-инфраструктура, банки, телекоммуникационное оборудование, Хранение данных, ЦОД
+- Кандидаты компаний: HPE, Huawei, Intel, K2Тех, Maipu, VMware
 
 - https://habr.com/ru/companies/k2tech/articles/738310/
 - Отрасли: Информационная безопасность, информационной безопасности
 - Компании: Хабр, К2Тех
-- Кандидаты отраслей: не найдено
+- Кандидаты отраслей: IT-инфраструктура, Security Operation Center, антивирусная защита
 - Кандидаты компаний: не найдено
 
 - https://habr.com/ru/companies/k2tech/articles/741778/
 - Отрасли: не найдено
 - Компании: Хабр, К2Тех
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: беспроводные сети, сетевое оборудование
+- Кандидаты компаний: Cisco, DCN, DCWS-6028(R2), Eltex, Habr, HPE-Aruba, Huawei, IEEE, Maipu, Maipu Cloud IAP300-826-PTE, Qtech, QTECH, QWO-420-AC-CPE, QWO-880E, QWP-88, Ruckus, Teams, Telegram, WA2600-815-PE, WhatsApp, WL8200-X10, WL8200-XIT2, WL8200-XT2, WL8200-XW2, WNC6600-2000-AC, WOP-12AC, Zoom
 
 - https://habr.com/ru/companies/k2tech/articles/741980/
 - Отрасли: Enterprise, информационной безопасности, BI
 - Компании: Хабр, К2Тех, Газинформсервис, РЕД СОФТ, Orion soft, 1С, Arenadata, Далее, Visiology
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-компании, Базы данных, гос/федеральные органы, промышленные предприятия
+- Кандидаты компаний: Arenadata PG, Jatoba, Microsoft, Microsoft SQL Server, Oracle, Oracle Database, Postgres Pro, PostgreSQL, ProximaDB, Квант, Квант-Гибрид, Ред БД, Ред Виртуализация, Ред ОС, ФСТЭК
 
 - https://habr.com/ru/companies/k2tech/articles/742600/
 - Отрасли: Информационная безопасность, Enterprise, Дизайн и юзабилити
 - Компании: Хабр, К2Тех, Далее, Газинформсервис
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Enterprise‑сегмент, Network Access Control, Сетевые технологии, Системное администрирование, Телеком‑оборудование
+- Кандидаты компаний: Astra Linux, Astra Linux Common Edition, Astra Linux Special Edition, Cisco, Cisco ISE, GIS, GIS Efros ACS, HPE Aruba ClearPass, Huawei iMaster NCE‑Campus, Jatoba, K2Тех, Maipu, Maipu AAS, Microsoft, Microsoft Active Directory, Microsoft Certification Authority, Netams, Netams WNAM, PostgreSQL
 
 - https://habr.com/ru/companies/k2tech/articles/743592/
 - Отрасли: Информационная безопасность
