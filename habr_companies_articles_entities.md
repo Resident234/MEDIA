@@ -69755,152 +69755,152 @@
 - https://habr.com/ru/company/JetBrains/blog/281046/
 - Отрасли: аналитики
 - Компании: Хабр
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: code review
+- Кандидаты компаний: GitHub, JetBrains, TeamCity, Upsource
 
 - https://habr.com/ru/company/JetBrains/blog/305688/
 - Отрасли: Веб-разработка
 - Компании: Хабр, Space
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: All Products, Angular 2, Angular CLI, DataGrip, FiraCode, Git, JetBrains, Joomla!, Mercurial, PhpStorm, PHPUnit, TypeScript, WebStorm, Xdebug
 
 - https://habr.com/ru/company/JetBrains/blog/313524/
 - Отрасли: не найдено
 - Компании: Хабр
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Composer, IntelliJ IDEA, JetBrains, Upsource
 
 - https://habr.com/ru/company/JetBrains/blog/343474/
 - Отрасли: Веб-разработка, предлагает, провайдер
 - Компании: Хабр, предлагает, провайдер
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Программирование
+- Кандидаты компаний: All Products pack, Codeception, Composer, DataGrip, ESLint, Jest, JetBrains, PHPSpec, PhpStorm, PHPUnit, Postman, Toolbox App, TSLint, Twig, TypeScript, Vue.js, WebStorm
 
 - https://habr.com/ru/company/JetBrains/blog/430878/
 - Отрасли: Веб-разработка
 - Компании: Хабр
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Behat, CakePHP, Codeception, DataGrip, Doctrine, Drupal, GitHub, JetBrains, Joomla!, Magento, MediaWiki, PHPSpec, Symfony, WebStorm, WordPress, Yii
 
 - https://habr.com/ru/company/JetBrains/blog/445976/
 - Отрасли: Веб-разработка
 - Компании: Хабр
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Docker, JetBrains, Laravel, MDN, PHP CS Fixer, PHP_CodeSniffer, PhpStorm, Symfony, Toolbox App, WebStorm, Xdebug
 
 - https://habr.com/ru/company/JetBrains/blog/461449/
 - Отрасли: Веб-разработка, предлагает
 - Компании: Хабр, предлагает
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Docker, Docker-compose, JetBrains, PhpStorm, Toolbox App, Vagrant
 
 - https://habr.com/ru/company/JetBrains/blog/478030/
 - Отрасли: Веб-разработка
 - Компании: Хабр
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Docker, JetBrains, MongoDB, Vagrant
 
 - https://habr.com/ru/company/JetBrains/blog/497358/
 - Отрасли: Веб-разработка, ML, Machine Learning
 - Компании: Хабр, F6
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: JetBrains, Laravel IDE Helper, packagist.org, PhpStorm, Symfony, Toolbox App
 
 - https://habr.com/ru/company/JetBrains/blog/513250/
 - Отрасли: Веб-разработка, предлагает
 - Компании: Хабр, t2, предлагает
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Composer, Docker, doctrine/orm, Drupal, GitHub, JetBrains, Laravel, Packagist, PhpStorm, Satis, Symfony, Vagrant, WP-CLI
 
 - https://habr.com/ru/company/JetBrains/blog/531828/
 - Отрасли: Веб-разработка
 - Компании: Хабр, Далее, F6
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: cURL, Git, Guzzle, JetBrains, Laravel, Mermaid.js, MongoDB, PHPStan, PhpStorm, Psalm, Symfony, Tailwind CSS, Xdebug
 
 - https://habr.com/ru/company/JetBrains/blog/552310/
 - Отрасли: Веб-разработка, предлагает
 - Компании: Хабр, предлагает, F6
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Code With Me, Docker, Drupal, GitHub, JetBrains, Laravel, PhpStorm, Symfony, Toolbox App
 
 - https://habr.com/ru/company/JetBrains/blog/571962/
 - Отрасли: Веб-разработка, предлагает
 - Компании: Хабр, t2, предлагает
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Doctrine, JetBrains, PHPStan, PhpStorm, Psalm, Toolbox App
 
 - https://habr.com/ru/company/jugru/blog/
 - Отрасли: ML, Информационная безопасность
 - Компании: JUG Ru Group, Хабр, Далее, SM Lab, Спортмастер, VK, Сбербанк, SberDevices
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: web3
+- Кандидаты компаний: Ethereum, Google Pixel, Heisenbug, HolyJS, iPhone, JPoint, Mobius, Old-Hard, PiterPy, Solana, sysconf, TON, VK Видео, YouTube, СберБанк Онлайн
 
 - https://habr.com/ru/company/jugru/profile/
 - Отрасли: ML, Информационная безопасность
 - Компании: JUG Ru Group, Хабр, Далее, SM Lab, Спортмастер, VK, Сбербанк, SberDevices
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: web3, блокчейн-проект
+- Кандидаты компаний: Ethereum, Google Pixel, Heisenbug, HolyJS, iPhone, JPoint, Mobius, MS-DOS, Old-Hard, PiterPy, Playwright, Solana, sysconf, TechRadar, TON, VK Видео, YouTube, СберБанк Онлайн
 
 - https://habr.com/ru/company/kolesa/blog/349412/
 - Отрасли: виртуальные, Мобильные технологии
 - Компании: Хабр, серверы
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: bamboo, debugbar, docker, Kolesa Group, krisha.kz, Phalcon, Redis, twig
 
 - https://habr.com/ru/company/kolesa/blog/353286/
 - Отрасли: Веб-разработка, аналитики
 - Компании: Хабр, Авито
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Avito, Badoo, Kolesa Group, PHPStorm, YouTube, Колёса, Крыша, Маркет
 
 - https://habr.com/ru/company/kolesa/blog/429782/
 - Отрасли: Мобильные технологии
 - Компании: Хабр
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: bamboo, codeception, docker, http-api-mock, Kolesa Group, mysql
 
 - https://habr.com/ru/company/lamoda/blog/452136/
 - Отрасли: не найдено
 - Компании: Хабр, Lamoda Tech, ОК, Далее
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Badoo, Codeception, Lamoda
 
 - https://habr.com/ru/company/lamoda/blog/455571/
 - Отрасли: не найдено
 - Компании: Хабр, Lamoda Tech, Далее
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Doctrine, PostgreSQL, Symfony
 
 - https://habr.com/ru/company/lamoda/blog/466039/
 - Отрасли: e-commerce
 - Компании: Хабр, Lamoda Tech
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: AWS S3, GitHub, Lamoda, Payture, Payture InPay, АТОЛ Онлайн, Информационной Системой Маркировки и Прослеживаемости, ИС МП
 
 - https://habr.com/ru/company/lamoda/blog/541728/
 - Отрасли: не найдено
 - Компании: Хабр, Lamoda Tech
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Bamboo, Confluence, Gonkey, Lamoda, Redis
 
 - https://habr.com/ru/company/lanit/blog/431638/
 - Отрасли: Информационная безопасность, информационной безопасности, консалтинг, криптографии
 - Компании: Хабр, ГК ЛАНИТ, Positive Technologies
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-индустрия, ИТ-бизнес
+- Кандидаты компаний: ЛАНИТ, ЛАНИТ-Интеграция
 
 - https://habr.com/ru/company/leader-id/blog/539696/
 - Отрасли: Веб-разработка
 - Компании: Хабр, Leader-ID
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: WordPress
 
 - https://habr.com/ru/company/livetyping/blog/310340/
 - Отрасли: масштабируемость
 - Компании: Хабр
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Apache, AWS S3, Composer, Dropbox, FlySystem, Glide, Hermitage, Intervention, nginx, Yii2, Лайв Тайпинг
 
 - https://habr.com/ru/company/luxoft/blog/428962/
 - Отрасли: не найдено
