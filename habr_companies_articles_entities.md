@@ -26555,152 +26555,152 @@
 - https://habr.com/ru/companies/lanit/articles/581052/
 - Отрасли: ML, NLP
 - Компании: Хабр, ГК ЛАНИТ, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Большие данные, Искусственный интеллект, Машинное обучение
+- Кандидаты компаний: Hugging Face, transformers, википедии, ЛАНИТ
 
 - https://habr.com/ru/companies/lanit/articles/584012/
 - Отрасли: облачные сервисы, облачных сервисов, Мобильные технологии, информационной безопасности, Оптимизация, BI
 - Компании: Хабр, ГК ЛАНИТ, VK, серверы, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: информационные технологии, облачные провайдеры, сеть фастфуда
+- Кандидаты компаний: AWS Migration Services, Azure Migration Tools, Cisco CSR, Google Migration Services, HPE, Hystax, Mail.ru Cloud Solutions, Microsoft Hyper-V, Mobile Iron, System Center Virtual Machine Manager, Velostrata, VK Cloud Solutions, VMware, ЛАНИТ-Интеграция
 
 - https://habr.com/ru/companies/lanit/articles/586306/
 - Отрасли: процессинг, виртуальные, предлагает
 - Компании: Хабр, ГК ЛАНИТ, Далее, предлагает, серверы
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-инфраструктура, Сетевое оборудование, Хранение данных
+- Кандидаты компаний: Huawei, Huawei Dorado, Huawei Hyper Smart, Huawei UltraPath, Онланта
 
 - https://habr.com/ru/companies/lanit/articles/588508/
 - Отрасли: медицина, SaaS, Мобильные технологии
 - Компании: Хабр, ГК ЛАНИТ, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: биотехнологии, ведение беременности, генетическая медицина, клиническая генетика, онкология, персональная медицина, психиатрия
+- Кандидаты компаний: 100000 Genomes, 100000 геномов, 100K Wellness Pioneer Project, Artezio, ClinVar, DECIPHER, Genomics England, The Human Genome Project
 
 - https://habr.com/ru/companies/lanit/articles/589799/
 - Отрасли: Data science, СМИ
 - Компании: Хабр, ГК ЛАНИТ, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Искусственный интеллект, Машинное обучение
+- Кандидаты компаний: Eugene Goostman, OpenCog, Альпина Паблишер, ЛАНИТ
 
 - https://habr.com/ru/companies/lanit/articles/590727/
 - Отрасли: BPM, Дизайн и юзабилити
 - Компании: Хабр, ГК ЛАНИТ, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-инфраструктура, Бизнес-модели, Управление проектами
+- Кандидаты компаний: Camunda Platform, Flyway, Liquibase, Pega Platform, ЛАНИТ — Би Пи Эм
 
 - https://habr.com/ru/companies/lanit/articles/593867/
 - Отрасли: не найдено
 - Компании: Хабр, ГК ЛАНИТ
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: маркетинг, управление проектами
+- Кандидаты компаний: Virgin Group
 
 - https://habr.com/ru/companies/lanit/articles/594759/
 - Отрасли: Big Data, e-commerce, Natural Language Processing, ML, NLP, образование, BigData
 - Компании: Хабр, ГК ЛАНИТ, билайн, Контур
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT, онлайн-кинотеатра
+- Кандидаты компаний: CleverData, Facebook, Google, Ассоциация больших данных, Билайн ТВ, ЛАНИТ
 
 - https://habr.com/ru/companies/lanit/articles/598591/
 - Отрасли: не найдено
 - Компании: Хабр, ГК ЛАНИТ
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: индустрия программного обеспечения, Управление продуктом, Управление проектами
+- Кандидаты компаний: IEEE, Lockheed, PMI, reqcenter.pro, Standish Group, YouTube
 
 - https://habr.com/ru/companies/lanit/articles/599945/
 - Отрасли: облачные сервисы, IAAS, PaaS, виртуальные, Оптимизация
 - Компании: Хабр, ГК ЛАНИТ, Программный Продукт, N+1
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-инфраструктура, публичные облака, публичных облачных провайдеров, ЦОД
+- Кандидаты компаний: Amazon, ЛАНИТ-Интеграция
 
 - https://habr.com/ru/companies/lanit/articles/648395/
 - Отрасли: не найдено
 - Компании: Хабр, ГК ЛАНИТ
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Enterprise Content Management, Information Technology, Telecommunications
+- Кандидаты компаний: DocsHouse, Tele2
 
 - https://habr.com/ru/companies/lanit/articles/650079/
 - Отрасли: медицина
 - Компании: Хабр, ГК ЛАНИТ, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Здоровье, Маркетинг данных, Онлайн‑аптеки, Реклама, Телемедицина, Фармацевтика
+- Кандидаты компаний: Artezio, CleverData, Google, SlickJump
 
 - https://habr.com/ru/companies/lanit/articles/651705/
 - Отрасли: BPM, банках, предлагает, финтех, здравоохранение, Enterprise, Оптимизация, embedded, масштабируемость, digital
 - Компании: Хабр, ГК ЛАНИТ, Сбербанк, ВТБ, Альфа-Банк, предлагает, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT‑инфраструктура, банковский сектор, корпоративный IT, производство, страхование
+- Кандидаты компаний: Camunda, Camunda Cawemo, Camunda Modeler, Camunda Optimize, LANIT BPM, Pega, Pega Agile Studio, Pega DevOps, Pega Express, Альфа‑Банк
 
 - https://habr.com/ru/companies/lanit/articles/653409/
 - Отрасли: Игры и развлечения, Дизайн и юзабилити, виртуальные
 - Компании: Хабр, ГК ЛАНИТ, Далее, Северсталь
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: AR и VR, b2b‑сектор, акселераторы, маркетинг, рекламные кампании, стартапы
+- Кандидаты компаний: Google, TED, КИЗМЕТ, Конфиндустрия
 
 - https://habr.com/ru/companies/lanit/articles/654259/
 - Отрасли: Программное обеспечение, ETL, аналитики
 - Компании: Хабр, ГК ЛАНИТ
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-систем, крупный бизнес, системы управления базами данных
+- Кандидаты компаний: Amazon Kinesis, Apache Avro, Apache Kafka, Apache Kafka Connect, Apache Pulsar, Debezium, Elasticsearch, Google Cloud Pub/Sub, Infinispan, Informatica Power Center, Ispirer MnMTK, Kettle Spoon, Microsoft, Microsoft SQL, MS SQL Server Integration Services, MySQL, ora2pg, Oracle, Oracle Golden Gate, Pentaho Data Integration, PostgreSQL, TAdviser, Talend, Консист Бизнес Групп
 
 - https://habr.com/ru/companies/lanit/articles/655933/
 - Отрасли: Natural Language Processing, Machine Learning, ML, NLP
 - Компании: Хабр, ГК ЛАНИТ, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Обработка естественного языка
+- Кандидаты компаний: Habr
 
 - https://habr.com/ru/companies/lanit/articles/656805/
 - Отрасли: BPM
 - Компании: Хабр, ГК ЛАНИТ, ВТБ, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-инфраструктура
+- Кандидаты компаний: ChainedKafkaTransactionManager, ChainedTransactionManager, Debezium, Kafka, Kafka Connect, PostgreSQL, Spring, Spring for Apache Kafka, Альфа-Банке
 
 - https://habr.com/ru/companies/lanit/articles/657265/
 - Отрасли: не найдено
 - Компании: Хабр, ГК ЛАНИТ
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT, социальные явления, экономика
+- Кандидаты компаний: Коллегия картографов, Манн, Иванов и Фербер
 
 - https://habr.com/ru/companies/lanit/articles/657303/
 - Отрасли: DIY
 - Компании: Хабр, ГК ЛАНИТ, Далее, VK
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Транспорт, Управление проектами, Энергия и элементы питания
+- Кандидаты компаний: BAMOCAR-PG-D3-700-400, Bauman Racing Team, Emrax 228, OptimumLap, Siemens, Siemens NX, Simcenter Amesim, Teamcenter
 
 - https://habr.com/ru/companies/lanit/articles/660895/
 - Отрасли: предлагает
 - Компании: Хабр, ГК ЛАНИТ, предлагает
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Artezio, GitHub, Google, Heroku, oclif
 
 - https://habr.com/ru/companies/lanit/articles/662720/
 - Отрасли: Big Data, аналитики
 - Компании: Хабр, ГК ЛАНИТ, Яндекс, VK, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Веб-аналитика, Интернет-маркетинг, Российский рекламно-аналитический рынок
+- Кандидаты компаний: CleverDATA, CleverDATA CDP, CleverDATA Tag Manager, ClickHouse, DataLens, Google, Google Tag Manager, Яндекс.Метрика, Яндекс.Облако
 
 - https://habr.com/ru/companies/lanit/articles/662748/
 - Отрасли: образование, DIY
 - Компании: Хабр, ГК ЛАНИТ
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: автомобилестроение
+- Кандидаты компаний: Bauman Racing Team, BRT, ЛАНИТ, МГТУ им. Баумана, Формула Студент
 
 - https://habr.com/ru/companies/lanit/articles/665592/
 - Отрасли: Оптимизация, металлургии, Программное обеспечение, Аппаратное обеспечение
 - Компании: Хабр, ГК ЛАНИТ
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: черная металлургия
+- Кандидаты компаний: Datana, Google Chrome
 
 - https://habr.com/ru/companies/lanit/articles/667928/
 - Отрасли: криптографии, Оптимизация, облачных сервисов, энергетики, транспортные, медицина, Программное обеспечение, здравоохранение
 - Компании: Хабр, ГК ЛАНИТ, FUJITSU
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Высоконагруженные системы, Квантовые вычисления, Квантовые технологии, рынок квантовых компьютеров, Суперкомпьютеры
+- Кандидаты компаний: Amazon, Archer, Artezio, Atos, D-Wave, Delft Circuit, Eagle, Google, Hitachi, Honeywell, IBM, IBM Quantum System One, IBM Quantum System Two, Intel, IonQ, NEC, Nvidia, PsiQuantum, Quantum Circuits Inc., Quantum Computing Inc., Quantum Numbers Corporation, Quemix, Rigetti, Toshiba, Turing Inc., Xanadu
 
 - https://habr.com/ru/companies/lanit/articles/670374/
 - Отрасли: образование, Рекрутинг и HR, промышленность, Информационная безопасность, информационной безопасности
 - Компании: Хабр, ГК ЛАНИТ, hh.ru, Самолет, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-индустрии, автоматизированная система управления образовательным процессом, высшем учебном заведении, информационных технологий, образования, программного обеспечения, профессионального образования, система дистанционного обучения
+- Кандидаты компаний: JIRA, LANIT, Microsoft, Microsoft SQL Server, Moodle, Skype, YouTube, Технотекст
 
 - https://habr.com/ru/companies/lanit/articles/672404/
 - Отрасли: государственные организации, торговые, Программное обеспечение
