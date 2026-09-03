@@ -70506,127 +70506,127 @@
 - Отрасли: Веб-разработка
 - Компании: Хабр, Конференции Олега Бунина (Онтико), Далее
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Chrome, Composer, Maven, npm, Институт Макса Планка, Онтико
 
 - https://habr.com/ru/company/oleg-bunin/blog/505172/
 - Отрасли: Веб-разработка
 - Компании: Хабр, Конференции Олега Бунина (Онтико), Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-стандарты
+- Кандидаты компаний: Laravel, PHP Russia, Symfony, Yii
 
 - https://habr.com/ru/company/oleg-bunin/blog/519080/
 - Отрасли: не найдено
 - Компании: Хабр, Конференции Олега Бунина (Онтико), Далее
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: behat-code-coverage, PCOV, php-code-coverage, PHPDBG, PHPUnit, Xdebug, Онтико
 
 - https://habr.com/ru/company/oleg-bunin/blog/529054/
 - Отрасли: Веб-разработка
 - Компании: Хабр, Skyeng, Конференции Олега Бунина (Онтико)
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: PHP Point, PHP Russia, PhpStorm, RnD Tech, Symfony, Онтико
 
 - https://habr.com/ru/company/oleg-bunin/blog/546316/
 - Отрасли: Веб-разработка, Мобильные технологии
 - Компании: Хабр, Конференции Олега Бунина (Онтико), Skyeng, Далее
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Codeception, NewRelic, Онтико
 
 - https://habr.com/ru/company/oleg-bunin/blog/548494/
 - Отрасли: Информационная безопасность, Веб-разработка, информационной безопасности, кибербезопасности, BI, предлагает, Программное обеспечение
 - Компании: Хабр, Конференции Олега Бунина (Онтико), BI.ZONE, предлагает, OWASP, Яндекс, VK, Positive Technologies
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: кибербезопасность
+- Кандидаты компаний: Drupal, Positive Hack Days, ZeroNights, Онтико
 
 - https://habr.com/ru/company/oleg-bunin/blog/548500/
 - Отрасли: Веб-разработка, e-commerce, медиа, Enterprise, Дизайн и юзабилити
 - Компании: Хабр, Конференции Олега Бунина (Онтико), VK
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Akka, Axon, Buick, Cadillac, Chevrolet, Ford, General Motors, NServiceBus, Oldsmobile, Onliner, Pontiac, Symfony, Онтико
 
 - https://habr.com/ru/company/oleg-bunin/blog/548508/
 - Отрасли: не найдено
 - Компании: Хабр, Конференции Олега Бунина (Онтико), Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: аутсорс
+- Кандидаты компаний: Api-Platform, Badoo, Box, Doctrine, doctrine/collections, GitHub, Humbug, Infection, Itransition, Medium, ocramius/proxy-manager, OpenCollective, Patreon, PHP-CS-Fixer, roave/better-reflection, Symfony, WebMozart/Assert, yiisoft, Онтико
 
 - https://habr.com/ru/company/oleg-bunin/blog/560782/
 - Отрасли: Дизайн и юзабилити, Оптимизация
 - Компании: Хабр, Конференции Олега Бунина (Онтико), Авито, Яндекс
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: экономика
+- Кандидаты компаний: Apple, Google, Mail.ru, Symfony, Онтико, Фонд содействия инновациями
 
 - https://habr.com/ru/company/oleg-bunin/blog/560784/
 - Отрасли: Веб-разработка, BPM
 - Компании: Хабр, Конференции Олега Бунина (Онтико), Далее, Авито, Skyeng
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Badoo, Beer PHP, Lamoda, SpiralScout LLC, Superjob, Temporal, ВК, ВКонтакте, Онтико
 
 - https://habr.com/ru/company/oleg-bunin/blog/560788/
 - Отрасли: не найдено
 - Компании: Хабр, Конференции Олега Бунина (Онтико), ОК, Далее
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: CPython, gcc, HHVM, PyPy, Онтико
 
 - https://habr.com/ru/company/oleg-bunin/blog/563534/
 - Отрасли: Программное обеспечение, банках
 - Компании: Хабр, Конференции Олега Бунина (Онтико)
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: автоматизация складской логистики, банкинг
+- Кандидаты компаний: ARM, Perforce, Symfony, Turck Software, WordPress, Zend, Онтико
 
 - https://habr.com/ru/company/openstat/blog/212211/
 - Отрасли: хостинг
 - Компании: Хабр, серверы
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Apache, bbPress, CommuniGatePro, DataPalm, DLEForum, exBB, FireBird, FlashBB, IdeaWebServer, iKonBoard, IPB, lighttpd, LiteSpeed, Microsoft IIS, Microsoft SQL Server, MSSQL, MyBB.ru, MyBulletinBoard, MySQL, NetNames, nginx, openresty, Openstat, Oracle, phpBB, podium, Postgres, PunBB, QRATOR, SMF, SQLite, stokesit, UseBB, uServ, Vanilla, vBulletin, WR-Forum, XenForo, YaBB, YetAnotherForumNET
 
 - https://habr.com/ru/company/otus/blog/345082/
 - Отрасли: ML, Machine Learning
 - Компании: Хабр, OTUS
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: авиакомпании
+- Кандидаты компаний: Kaggle.io, PHP-ML, Spark, TensorFlow, твиттер
 
 - https://habr.com/ru/company/otus/blog/353500/
 - Отрасли: Дизайн и юзабилити, Мобильные технологии
 - Компании: Хабр, OTUS
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: онлайн-доставка еды
+- Кандидаты компаний: Laravel
 
 - https://habr.com/ru/company/otus/blog/417653/
 - Отрасли: не найдено
 - Компании: Хабр, OTUS
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Telegram, ВКонтакте
 
 - https://habr.com/ru/company/otus/blog/439222/
 - Отрасли: CRM, Enterprise, IoT
 - Компании: Хабр, OTUS
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Google, Nginx, NGINX Conf 2018, NGINX Open Source, NGINX Plus, Salesforce
 
 - https://habr.com/ru/company/otus/blog/460683/
 - Отрасли: предлагает
 - Компании: Хабр, OTUS, предлагает
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: банк
+- Кандидаты компаний: GitHub, Laravel Event Projector, Spatie
 
 - https://habr.com/ru/company/otus/blog/463117/
 - Отрасли: хостинг
 - Компании: Хабр, OTUS
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: composer, Laravel
 
 - https://habr.com/ru/company/otus/blog/464253/
 - Отрасли: не найдено
 - Компании: Хабр, OTUS
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Carbon, Chronos, PHPStan
 
 - https://habr.com/ru/company/otus/blog/474754/
 - Отрасли: Информационная безопасность
 - Компании: Хабр, OTUS
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: разведка
+- Кандидаты компаний: AWS, AWS Lambda, Cambridge Analytica, Facebook, Google, Yahoo Voice, Агентство национальной безопасности США, Люксембургский университет
 
 - https://habr.com/ru/company/otus/blog/475874/
 - Отрасли: Информационная безопасность
@@ -70638,19 +70638,19 @@
 - Отрасли: IAAS, PaaS, Домены и хостинг, SaaS, провайдер, Информационная безопасность
 - Компании: Хабр, OTUS, Далее, провайдер
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Amazon, AWS, AWS Lambda, Docker Engine, Office 365, Tilda, Westwing Russia
 
 - https://habr.com/ru/company/otus/blog/484048/
 - Отрасли: не найдено
 - Компании: Хабр, OTUS, VK, Цифра, Space
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: математика, научные исследования
+- Кандидаты компаний: nginx, rambler, Telegram, UNIX
 
 - https://habr.com/ru/company/otus/blog/507982/
 - Отрасли: Программное обеспечение
 - Компании: Хабр, OTUS
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: AWS Elastic Beanstalk, Docker, github.com, nginx, PhpStorm, Xdebug
 
 - https://habr.com/ru/company/otus/blog/508424/
 - Отрасли: Информационная безопасность
