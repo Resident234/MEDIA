@@ -63455,152 +63455,152 @@
 - https://habr.com/ru/companies/whoosh/articles/705708/
 - Отрасли: IoT, embedded, Программное обеспечение, Рекрутинг и HR, аналитики
 - Компании: Whoosh, Хабр, Самоката
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: микромобильность, Транспорт
+- Кандидаты компаний: Ninebot, OKAI, Xiaomi, YouDrive Lite, ДелиСамокат
 
 - https://habr.com/ru/companies/whoosh/articles/707176/
 - Отрасли: embedded, IoT, Computer Vision
 - Компании: Хабр, Whoosh, Самоката, Далее, ПИК
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: кикшеринг, Транспорт
+- Кандидаты компаний: Tekscan
 
 - https://habr.com/ru/companies/whoosh/articles/720194/
 - Отрасли: Big Data, Machine Learning, ML
 - Компании: Whoosh, Хабр
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: каршеринг, микромобильность
+- Кандидаты компаний: Microsoft, Самокат
 
 - https://habr.com/ru/companies/whoosh/articles/728926/
 - Отрасли: масштабируемость, ETL
 - Компании: Хабр, Whoosh, Далее, 1С
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Amazon Web Services, API Gateway, AWS, AWS Lambda, CloudWatch, Grafana, Kafka, Lambda Insights, SQS, XRAY
 
 - https://habr.com/ru/companies/whoosh/articles/734332/
 - Отрасли: IoT, Аппаратное обеспечение, digital
 - Компании: Хабр, Whoosh, Звук, Самоката, ОК
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: акустика, электротранспорт
+- Кандидаты компаний: Murata, STM32, TDK, Xiaomi
 
 - https://habr.com/ru/companies/whoosh/articles/765628/
 - Отрасли: Оптимизация, IoT
 - Компании: Хабр, Whoosh, VStack, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Интернет вещей, Кикшеринг
+- Кандидаты компаний: chatGPT, Google
 
 - https://habr.com/ru/companies/wirenboard/articles/372163/
 - Отрасли: DIY, умный дом
 - Компании: Wiren Board, Хабр
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Интернет вещей
+- Кандидаты компаний: EEMB, Freescale, Mediatek, NXP, Olinuxino Micro, Sigmatel, Меркурий
 
 - https://habr.com/ru/companies/wirenboard/articles/393043/
 - Отрасли: DIY, умный дом
 - Компании: Wiren Board, Хабр, Звук
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Интернет вещей
+- Кандидаты компаний: Github, Raspberry Pi, ИВТМ, Меркурий, Милур
 
 - https://habr.com/ru/companies/wirenboard/articles/394375/
 - Отрасли: DIY, умный дом
 - Компании: Wiren Board, Хабр, ПИК
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Интернет вещей
+- Кандидаты компаний: Wiren Board 5
 
 - https://habr.com/ru/companies/wirenboard/articles/414411/
 - Отрасли: DIY, умный дом, IoT
 - Компании: Wiren Board, Хабр
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Интернет вещей
+- Кандидаты компаний: Amazon, Google, NXP, Raspberry Pi
 
 - https://habr.com/ru/companies/wirenboard/articles/416091/
 - Отрасли: DIY, умный дом, IoT
 - Компании: Хабр, Wiren Board
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Интернет вещей
+- Кандидаты компаний: ABB, Belden, IKEA, Legrand, Mikrotik, Raspberry, Siemens, UNI-T, Микроарт, Овен
 
 - https://habr.com/ru/companies/wirenboard/articles/417093/
 - Отрасли: DIY, умный дом
 - Компании: Хабр, Wiren Board
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Интернет вещей
+- Кандидаты компаний: Mean Well
 
 - https://habr.com/ru/companies/wirenboard/articles/420831/
 - Отрасли: DIY, умный дом, CRM, IoT
 - Компании: Хабр, Wiren Board, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: майнинг, мониторинг нефтяных вышек
+- Кандидаты компаний: Aliexpress, Bitrix24, itead, Nextion
 
 - https://habr.com/ru/companies/wirenboard/articles/421689/
 - Отрасли: DIY, умный дом, IoT
 - Компании: Хабр, Wiren Board
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Интернет вещей
+- Кандидаты компаний: Grafana, Influxdb, Ubuntu, Zabbix
 
 - https://habr.com/ru/companies/wirenboard/articles/422197/
 - Отрасли: DIY, робототехника
 - Компании: Хабр, Wiren Board
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Электроника
+- Кандидаты компаний: Hantek, Hongfa, икеевских
 
 - https://habr.com/ru/companies/wirenboard/articles/423523/
 - Отрасли: DIY, робототехника
 - Компании: Хабр, Wiren Board
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Электроника
+- Кандидаты компаний: AOSONG, Sensirion, Winsen
 
 - https://habr.com/ru/companies/wirenboard/articles/689098/
 - Отрасли: умный дом, DIY
 - Компании: Wiren Board, Хабр, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Интернет вещей
+- Кандидаты компаний: Node-RED
 
 - https://habr.com/ru/companies/wirenboard/articles/689826/
 - Отрасли: умный дом, DIY
 - Компании: Wiren Board, Хабр
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Интернет вещей
+- Кандидаты компаний: Node-RED
 
 - https://habr.com/ru/companies/wirenboard/articles/692754/
 - Отрасли: умный дом, DIY, Программное обеспечение, Аппаратное обеспечение
 - Компании: Хабр, Wiren Board, Цифра, Яндекс
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Интернет вещей
+- Кандидаты компаний: Node-RED, Sprut.hub, Sprut.stick, Алиса, Маруся, Сири, Телеграм
 
 - https://habr.com/ru/companies/wirenboard/articles/695752/
 - Отрасли: умный дом, DIY
 - Компании: Хабр, Wiren Board
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Сельское хозяйство
+- Кандидаты компаний: Grodan, Home Assistant, LedFarm.by, OpenHAB, Raspberry Pi, РУП Институт овощеводства
 
 - https://habr.com/ru/companies/wirenboard/articles/699352/
 - Отрасли: умный дом, DIY, САПР
 - Компании: Хабр, Wiren Board, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Интернет вещей
+- Кандидаты компаний: Arduino, Excel, Google Docs, Google Формы, Intelligent House, Node-RED, Sprut.Hub
 
 - https://habr.com/ru/companies/wirenboard/articles/702444/
 - Отрасли: умный дом, DIY
 - Компании: Хабр, Wiren Board
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Интернет вещей
+- Кандидаты компаний: Telegram, КОРФ
 
 - https://habr.com/ru/companies/wirenboard/articles/702874/
 - Отрасли: умный дом, финансы
 - Компании: Хабр, Wiren Board, Контур, Яндекс, Сбер
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Интернет вещей
+- Кандидаты компаний: ABB, Apple HomeKit, Arlight, Intesis, Mitshubishi, Oventrop, Siemens, WAGO, Рекота
 
 - https://habr.com/ru/companies/wirenboard/articles/705052/
 - Отрасли: умный дом, промышленные, недвижимость, Программное обеспечение
 - Компании: Хабр, Wiren Board
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: гостиничный бизнес
+- Кандидаты компаний: Haier, Vertical Boutique, Vertical Hotel, Алиса, Государственная Третьяковская галерея, Проптех, Рекота
 
 - https://habr.com/ru/companies/wirenboard/articles/705900/
 - Отрасли: умный дом, DIY, предлагает
 - Компании: Хабр, Wiren Board, Далее, предлагает
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Интернет вещей
+- Кандидаты компаний: КОРФ
 
 - https://habr.com/ru/companies/wirenboard/articles/707678/
 - Отрасли: умный дом, облачные сервисы, провайдер, масштабируемость, IoT, Big Data, DIY, облачных сервисов
