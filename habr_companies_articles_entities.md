@@ -71856,151 +71856,151 @@
 - Отрасли: Веб-разработка, Оптимизация
 - Компании: Хабр
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Badoo, Composer, daylerees/scientist”, “erusev/base”, “Tolerance/Tolerance”, “jakubkulhan/bunny”, “RabbitMQ”, “ReactPHP”, “wsdl2phpgenerator/wsdl2phpgenerator”, “Php Inspections (EA Extended)”, “Symfony”, “KonstantinKuklin/AsseticStaticGzipBundle”, “JMS Serializer”, “LiipImagineBundle”, “FOSRestBundle”, “SonataAdminBundle”, “Yii”, “Yii 2.0”, “Laravel”, “Lumen”, “Attendize/Attendize”, “JSON Web Token”, “Hacker News”, “Облако@mail.ru”, “mail.ru”, “WordPress”, “Varnish”, “XtraDB”, “Drupal”, “PHP Roundtable”, “PHP-FIG”, “SDCast”, “PHP 7, domnikl/statsd-php, FastRoute, gabordemooij/redbean, IcecaveStudios/archer, JetBrains, kamranahmedse/smasher, paragonie/constant_time_encoding, Peachpie Compiler, PHP, PHPixie, PHPixie/Image, PhpStorm, statsd, thephpleague/glide, thephpleague/route, Xdebug, Zfort Group
 
 - https://habr.com/ru/company/zfort/blog/280278/
 - Отрасли: Веб-разработка, предлагает, хостинг
 - Компании: Хабр, предлагает
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT
+- Кандидаты компаний: Codeception, Composer, Fakerino/Fakerino, GitHub, JetBrains, Laravel, Laravel TestTools, League, Let's Encrypt, Lumen, MySQL, Packagist, Phalcon, PHP UK Conference, PhpStorm, RabbitMQ, Symfony, Yii, Yii 2.0, Zfort Group
 
 - https://habr.com/ru/company/zfort/blog/281306/
 - Отрасли: Веб-разработка
 - Компании: Хабр
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT
+- Кандидаты компаний: azuyalabs, Behat, Composer, Corveda, Deployer, FriendsOfPHP, phpconsole, phpconsole.com, PHPSandbox, Sismo, Symfony CMF, Symfony Foundation/Symfony Project (Symfony CLI, Symfony Web, Symfony Command Bus, SonataAdminBundle, SonataAdminBundle: создание объекта из List View (часть 2))),, Ubuntu, VersionPress, versionpress, WordPress, yasumi, Yii, Yii2, Zfort Group
 
 - https://habr.com/ru/company/zfort/blog/282331/
 - Отрасли: Веб-разработка, предлагает, Оптимизация
 - Компании: Хабр, предлагает
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Corollarium/cachearium, Drupal, DusanKasan/Knapsack”, “leroy-merlin-br/mongolid”, “sebastianbergmann/phploc”, “jmespath/jmespath.php”, “ramsey/uuid”, “Yii”, “yeesoft/yii2-yee-cms”, “zeeshanu/dingo-project-managment”, “hyn/multi-tenant”, “InfyOmLabs/laravel-generator”, “Mahmoudz/Hello-API”, “ElasticSearch”, “Logstash”, “Twig”, “Gettext”, “Magento”, “PHP UK Conference”, “Microsoft Project Oxford”, “Telegram Bot API”, “PHPixie”, “Zend Expressive”, “PhpStorm”, “PHP Roundtable”, “PHP Annotated Monthly”, “SDCast”, “Composer”, “PHPUnit”, “breakthenet/HackMe-SQL-Injection-Challenges”, “ZF3, Hack, Laravel, lavary/crunz, league/oauth2-server, nikic/PHP-Parser, paragonie/csp-builder, php-pm, PHPMessageBus/messagebus, ReactPHP, SerafimArts/Properties, simplepie/simplepie, Symfony, teamtnt/tntsearch, tightenco/jigsaw, WordPress, Zend, Zfort Group
 
 - https://habr.com/ru/company/zfort/blog/300832/
 - Отрасли: Веб-разработка
 - Компании: Хабр, RET
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Badoo, Bolt, Doctrine, Go! AOP Framework, Guzzle, Hack, ImageMagick, IntelliJ, JetBrains, Laravel, nginx Yii2-redis-rbac yii2-sharding yii2-coordinator Laravel spatie-custom/blender laravel/valet Caddy Dnsmasq ngrok Zend Framework ZF3 HippyVM JPHP Tagua VM Peachpie OPcache Drupal Bitrix Facebook Messenger WordPress, PHP Community Driven Standards, PHP-FIG, PHP_CodeSniffer, PhpStorm, Propel, SonataAdminBundle, Symfony, Yii, Zfort Group
 
 - https://habr.com/ru/company/zfort/blog/302104/
 - Отрасли: Веб-разработка
 - Компании: Хабр, ТАСС
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Codeception, Gulp, Laravel, MongoDB, MySQL, Packagist, PHPixie, PhpStorm, Redis, Relay, Silex, Slim, StackPHP, Sublime, Symfony, Vim, Vue.js, WordPress, Yii, Zfort Group
 
 - https://habr.com/ru/company/zfort/blog/303130/
 - Отрасли: Веб-разработка
 - Компании: Хабр
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Behance, Bitbucket, Bower, Composer, Docker, Elasticsearch, Fitbit, Jenkins, Kibana, Logstash, Nextcloud, NPM, Packagist, Paragon Initiative, Phalcon, Slack, StackOverflow, Twitter, WordPress, Zfort Group
 
 - https://habr.com/ru/company/zfort/blog/305808/
 - Отрасли: Веб-разработка, ML
 - Компании: Хабр
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Bacon, bitExpert, Codeception, dunglas, franzose, gabrielbull, GitaminHQ, GitHub, heiglandreas, JakubOnderka, layershifter, Opulence, paragonie, PhpStorm, PiPHP, PyroCMS, rinvex, simplesamlphp, Zend, Zfort Group
 
 - https://habr.com/ru/company/zfort/blog/306828/
 - Отрасли: Веб-разработка, масштабируемость
 - Компании: Хабр
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Caddy, DevConf, Google, Joomla, Laravel, Microsoft, MS Excel, Phalcon, PornHub, Rails, Ruby, Slack, Solr, Sulu CMS, Symfony, Wordpress, Yii, Zend, Zfort Group
 
 - https://habr.com/ru/company/zfort/blog/307718/
 - Отрасли: Веб-разработка
 - Компании: Хабр
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: BlaBlaCar, Nexmo, Zfort Group
 
 - https://habr.com/ru/company/zfort/blog/308702/
 - Отрасли: Веб-разработка, Информационная безопасность
 - Компании: Хабр
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: AMQP, Beanstalkd, Doctrine, Drupal, Gitter.im, Google Cloud Platform, HipChat, Joomla, Monolog, Phalcon, PornHub, PostgreSQL, Pushover, Redis, SwiftMailer, Telegram, Trello, WordPress, Zend, Zfort Group
 
 - https://habr.com/ru/company/zfort/blog/309710/
 - Отрасли: Веб-разработка
 - Компании: Хабр
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: ClamAV, Etsy, Facebook, Stack Overflow, Twitter, Zfort Group
 
 - https://habr.com/ru/company/zfort/blog/310982/
 - Отрасли: Веб-разработка
 - Компании: Хабр, Space
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: cydrobolt, Gurukami, Jasig, Laravel, phplang, ProxyManager, rinvex, sabre, Skyscanner, solarissmoke, Stack Overflow, Symfony, ulabox, walkor, webmozart, willdurand, Yii, zeeshanu, Zend, Zfort Group
 
 - https://habr.com/ru/company/zfort/blog/312144/
 - Отрасли: Веб-разработка, Веб-сервисы
 - Компании: Хабр
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: 3v4l, Asterisk, Aura, AWS Lambda, Codewars, DigitalOcean, Elasticsearch, GitHub, MySQL, nginx, PhpStorm, Sequel Pro, Stash, Zfort Group
 
 - https://habr.com/ru/company/zfort/blog/313974/
 - Отрасли: Веб-разработка, Мобильные технологии
 - Компании: Хабр
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Видеохостинг
+- Кандидаты компаний: Chevereto, CleverStyle, Dailymotion.com, Doctrine, HHVM, Jaytaph, Laravel, Lullabot, OpenSSL, Phalcon, PHPUnit, ScriptFUSION, Slack, Symfony, Vimeo, WordCamp Europe, Yii, YouTube, Zend Framework, Zfort Group
 
 - https://habr.com/ru/company/zfort/blog/315178/
 - Отрасли: Веб-разработка, e-commerce
 - Компании: Хабр
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Amazon, AWS, Behat, Blackfire.io, ClickHouse, Docker, Google, Iron MQ, Laravel, MySQL, Nginx, PrestaShop, RabbitMQ, Symfony, Tumblr, WordPress, Yii, Zfort Group
 
 - https://habr.com/ru/company/zfort/blog/316254/
 - Отрасли: Веб-разработка, CRM, Оптимизация
 - Компании: Хабр
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: CleverStyle Framework, Composer, Laravel, Laravel Forge, Nginx, packagist.org, PHPixie, PhpStorm, Redis, Symfony, Wordpress, Yii, Zfort Group
 
 - https://habr.com/ru/company/zfort/blog/317366/
 - Отрасли: Веб-разработка
 - Компании: Хабр
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Amazon S3, AWS CodeBuild, Facebook Messenger, HipChat, Slack, Stack Overflow, Symfony, Telegram, Vimeo, WordPress, Zfort Group
 
 - https://habr.com/ru/company/zfort/blog/318410/
 - Отрасли: Веб-разработка, SaaS, Оптимизация
 - Компании: Хабр
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: AWS Elastic Beanstalk, Badoo, ClickHouse, Dailymotion, Etsy, Instagram, packagist.com, PHP-FIG, PhpStorm, Tumblr, WordPress.com, Zend, Zfort Group
 
 - https://habr.com/ru/company/zfort/blog/319580/
 - Отрасли: Веб-разработка
 - Компании: Хабр
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Arduino, Cake, Composer, Docker, Drupal, Gmail, Guzzle, IntelliJ IDEA, jQuery, Laravel, PHP Asynchronous Interoperability Group, PHPixie Cache, PHPMailer, PhpStorm, PrestaShop, RabbitMQ, Redis, Slim, SwiftMailer, Swoole, Symfony, Twig, Twitter, WordPress, Workerman, Xdebug, Yii, Zend, Zfort Group
 
 - https://habr.com/ru/company/zfort/blog/320756/
 - Отрасли: Веб-разработка
 - Компании: Хабр
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: AWS, flyimg.io, Google, Laravel, Microsoft, PHPixie, Pinba, Symfony, WordPress, Yii, Zend, Zfort Group
 
 - https://habr.com/ru/company/zfort/blog/321672/
 - Отрасли: Веб-разработка, e-commerce
 - Компании: Хабр, VK
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: 3v4l.org, AWS Elastic Beanstalk, ExpressionEngine, GitHub, Google, Instapaper, Laravel, LiveStreet, Maxmind, OLX, PhpStorm, Pocket, preprocess.io, RabbitMQ, Readability, Reddit, Symfony, Tarantool, Viber, wallabag, WordPress, Yii, Zfort Group
 
 - https://habr.com/ru/company/zfort/blog/322648/
 - Отрасли: Веб-разработка, ML
 - Компании: Хабр
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Amazon s3, Avito, Dropbox, Facebook, Laravel, PhpStorm, PrestaShop, Sylius, Symfony, Yii, Zend, Zfort Group, ВКонтакте
 
 - https://habr.com/ru/company/zfort/blog/323750/
 - Отрасли: Веб-разработка, Enterprise, Оптимизация
 - Компании: Хабр
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Composer, Disqus, Docker, ElasticSearch, Faker, Firefox, FirePhp, Google Spreadsheets, HHVM, JetBrains, Laravel, Laravel Forge, Laravel Homestead, Magento, MongoDB, Pastebin, Peachpie, PHP Censor, Php Inspections, PhpSpec, PHPStan, PhpStorm, PHPUnit, Prophecy, Slack, Symfony, Tarantool, Twilio, WordPress, Yii, Zend Expressive, Zfort Group
 
 - https://habr.com/ru/company/zfort/blog/324892/
 - Отрасли: Веб-разработка, Оптимизация
 - Компании: Хабр
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: автоматизация маркетинга
+- Кандидаты компаний: Airship, AngularJS, Beanstalk, Composer, Deployer, Doctrine DBAL, Gearman, Google App Engine, Google Cloud, Google Container Engine, Hack, Laravel, Magento 2, mautic, Microsoft Face API, Payum, Phalcon, Php Inspections, PHPStan, PhpStorm, PHPUnit, RabbitMQ, Ratchet, React(js), Redis, Siler, Symfony, WordPress, Yii, Zfort Group
 
 - https://habr.com/ru/company/zfort/blog/326036/
 - Отрасли: Веб-разработка, e-commerce
