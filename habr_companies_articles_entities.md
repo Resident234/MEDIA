@@ -63756,61 +63756,61 @@
 - Отрасли: NLP, Natural Language Processing
 - Компании: Хабр, Wunder Fund, Далее
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Google, Google Brain
 
 - https://habr.com/ru/companies/wunderfund/articles/320482/
 - Отрасли: Оптимизация, Machine Learning, Data science
 - Компании: Хабр, Wunder Fund, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: анализ данных, высокочастотная алготорговля, высокочастотная торговля, машинное обучение, машинный перевод, размещение рекламы
+- Кандидаты компаний: wunderfund.io
 
 - https://habr.com/ru/companies/wunderfund/articles/322094/
 - Отрасли: не найдено
 - Компании: Хабр, Wunder Fund, AMD
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Xbox 360
 
 - https://habr.com/ru/companies/wunderfund/articles/322496/
 - Отрасли: не найдено
 - Компании: Хабр, Wunder Fund, IDX, быструю
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Google, Mintomic
 
 - https://habr.com/ru/companies/wunderfund/articles/324060/
 - Отрасли: не найдено
 - Компании: Хабр, Wunder Fund
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: GitHub
 
 - https://habr.com/ru/companies/wunderfund/articles/325036/
 - Отрасли: не найдено
 - Компании: Хабр, Wunder Fund
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: биоинформатика
+- Кандидаты компаний: Google, Google Code Search, libdivsufsort, livegrep, PCRE, RE2
 
 - https://habr.com/ru/companies/wunderfund/articles/325634/
 - Отрасли: не найдено
 - Компании: Хабр, Wunder Fund
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: высокочастотная алготорговля
+- Кандидаты компаний: appveyor, Celero, CMake, github, Google Benchmark, Hayai, Nonius, Visual Studio
 
 - https://habr.com/ru/companies/wunderfund/articles/326750/
 - Отрасли: embedded, Оптимизация, Machine Learning
 - Компании: Хабр, Wunder Fund, Samsung, IDX
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: компьютерное зрение
+- Кандидаты компаний: scipy, sklearn
 
 - https://habr.com/ru/companies/wunderfund/articles/328404/
 - Отрасли: не найдено
 - Компании: Хабр, Wunder Fund
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: CPython, Django, Instagram, msgpack, uWSGI
 
 - https://habr.com/ru/companies/wunderfund/articles/330194/
 - Отрасли: Natural Language Processing, NLP, Оптимизация, Machine Learning
 - Компании: Хабр, Wunder Fund, Далее
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Alexa, Cortana, GloVe, Siri, Word2Vec
 
 - https://habr.com/ru/companies/wunderfund/articles/330814/
 - Отрасли: Big Data, BI
@@ -63828,12 +63828,12 @@
 - Отрасли: Machine Learning
 - Компании: Хабр, Wunder Fund, Далее
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: ImageNet, OpenAI
 
 - https://habr.com/ru/companies/wunderfund/articles/335614/
 - Отрасли: Оптимизация, Machine Learning
 - Компании: Хабр, Wunder Fund, Далее
-- Кандидаты отраслей: не найдено
+- Кандидаты отраслей: исследования операций, финансовая инженерия
 - Кандидаты компаний: не найдено
 
 - https://habr.com/ru/companies/wunderfund/articles/580230/
@@ -63852,55 +63852,55 @@
 - Отрасли: не найдено
 - Компании: Хабр, Wunder Fund
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Clang-12, GCC-11, Википедии
 
 - https://habr.com/ru/companies/wunderfund/articles/582004/
 - Отрасли: не найдено
 - Компании: Хабр, Wunder Fund, Далее
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Blockman, Bracket Highlighter, Bracket Lens, Bracket Pair Colorizer, Bracket Pair Colorizer 2, Monaco Editor, Rainbow Brackets, Subtle Match Brackets, TypeScript, Visual Studio, Visual Studio Code, VS Code for the Web, VS Code Marketplace, VSCode
 
 - https://habr.com/ru/companies/wunderfund/articles/586360/
 - Отрасли: не найдено
 - Компании: Хабр, Wunder Fund, Далее
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: CPython
 
 - https://habr.com/ru/companies/wunderfund/articles/586778/
 - Отрасли: Веб-разработка, Data science, масштабируемость, виртуальные
 - Компании: Хабр, Wunder Fund, Далее, серверы
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Docker
 
 - https://habr.com/ru/companies/wunderfund/articles/589367/
 - Отрасли: не найдено
 - Компании: Хабр, Wunder Fund, Далее, RET
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: CPython
 
 - https://habr.com/ru/companies/wunderfund/articles/590651/
 - Отрасли: ML, Natural Language Processing, NLP, Machine Learning
 - Компании: Хабр, Wunder Fund
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: обработка естественных языков
+- Кандидаты компаний: Keras, Pandas, TensorFlow, XGBoost
 
 - https://habr.com/ru/companies/wunderfund/articles/592231/
 - Отрасли: не найдено
 - Компании: Хабр, Wunder Fund, Тензор, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: прокат фильмов
+- Кандидаты компаний: PyTorch
 
 - https://habr.com/ru/companies/wunderfund/articles/593713/
 - Отрасли: не найдено
 - Компании: Хабр, Wunder Fund, Тензор, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: машинное обучение
+- Кандидаты компаний: Habr, IMDb, PyTorch
 
 - https://habr.com/ru/companies/wunderfund/articles/594333/
 - Отрасли: не найдено
 - Компании: Хабр, Wunder Fund, t2
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: BERT, BooksCorpus, GPT, GPT-2, PyTorch, WordPiece
 
 - https://habr.com/ru/companies/wunderfund/articles/597113/
 - Отрасли: Оптимизация
