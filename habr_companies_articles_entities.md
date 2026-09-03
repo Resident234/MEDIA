@@ -18005,152 +18005,152 @@
 - https://habr.com/ru/companies/icl_services/articles/290564/
 - Отрасли: аутсорсинг
 - Компании: Хабр, ГК ICL
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: ИТ-аутсорсинг, ИТ-консалтинг, ИТ-проекты, ИТ-услуги, эксплуатация ИТ
+- Кандидаты компаний: ICL Services, International Association of Outsourcing Professionals
 
 - https://habr.com/ru/companies/icl_services/articles/294032/
 - Отрасли: Рекрутинг и HR
 - Компании: Хабр, ГК ICL
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: HR‑области, ИТ, маркетинг
+- Кандидаты компаний: ICL Services, PRINCE2®
 
 - https://habr.com/ru/companies/icl_services/articles/301554/
 - Отрасли: Аппаратное обеспечение, Информационная безопасность
 - Компании: Хабр, ГК ICL, серверы, Далее, Proto
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: bellintegrator.com, CentOS, FreeIPA, libvirt, LXC, OpenSSH, OpenVPN
 
 - https://habr.com/ru/companies/icl_services/articles/302344/
 - Отрасли: IAAS
 - Компании: Хабр, ГК ICL, ОК
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Azure DHCP, Azure Load Balancer, Failover Cluster Manager, Internal Load Balancer, Microsoft, Microsoft Azure, Microsoft Azure IaaS, Microsoft Windows, PowerShell
 
 - https://habr.com/ru/companies/icl_services/articles/303646/
 - Отрасли: аутсорсинг
 - Компании: Хабр, ГК ICL, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: it-аутсорсинг
+- Кандидаты компаний: BizTalk Server, BizTalk Server 2010, BizTalk Server 2010 Developer Edition, BTSTask, ICLServices, Microsoft, Microsoft BizTalk Server, Microsoft SQL Server, MSDN, Windows, ГК ICL .NET
 
 - https://habr.com/ru/companies/icl_services/articles/312512/
 - Отрасли: аутсорсинг
 - Компании: Хабр, ГК ICL, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-аутсорсинг
+- Кандидаты компаний: .NET, BizTalk Server, BizTalk Server Pipeline Component Wizard, codeplex, ICLServices, Microsoft, MS BizTalk Server 2010, MSDN, Visual Studio, Visual Studio 2010, Windows
 
 - https://habr.com/ru/companies/icl_services/articles/318084/
 - Отрасли: Дизайн и юзабилити, Программное обеспечение, Enterprise
 - Компании: Хабр, ГК ICL
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: сфера программного обеспечения
+- Кандидаты компаний: Docker, ICLServices
 
 - https://habr.com/ru/companies/icl_services/articles/321758/
 - Отрасли: Enterprise, Мобильные технологии
 - Компании: Хабр, ГК ICL
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-инфраструктура, Серверное администрирование, Системное администрирование
+- Кандидаты компаний: Facebook, Google, JBoss, JBoss Core Services Collection, Keybloak, Keycloak, Microsoft Active Directory, mod_auth_mellon, PicketLink, Red Hat, Red Hat Cloud Suite, Red Hat Enterprise Linux, Red Hat JBoss Enterprise Application Platform, Red Hat JBoss Fuse, Red Hat Mobile Application Platform, Red Hat OpenShift Container Platform, Red Hat OpenStack Platform, Red Hat Satellite, RHEL Identity Management, Twitter
 
 - https://habr.com/ru/companies/icl_services/articles/324718/
 - Отрасли: Программное обеспечение
 - Компании: Хабр, ГК ICL, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Системное программирование
+- Кандидаты компаний: ICLServices, Microsoft
 
 - https://habr.com/ru/companies/icl_services/articles/328316/
 - Отрасли: Информационная безопасность, SaaS
 - Компании: Хабр, ГК ICL, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-инфраструктура, Web Security Gateway, Сетевые технологии, Системное администрирование
+- Кандидаты компаний: Chrome, Cisco, Cisco WSA (IronPort), findproxyforurl.com, Firefox, github, home.thorsen.pm, IE11, jsperf.com, Zscaler
 
 - https://habr.com/ru/companies/icl_services/articles/329556/
 - Отрасли: Программное обеспечение, IAAS, виртуальные, digital, предлагает, Информационная безопасность
 - Компании: Хабр, ГК ICL, серверы, Далее, предлагает
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: DevOps, Виртуализация, Инфраструктура как услуга, Облачная инфраструктура, Облачные вычисления, Системное администрирование, Центры обработки данных
+- Кандидаты компаний: Amazon, Ansible, Ansible Galaxy, Azure, CentOS, CloudStack, Digital Ocean, Docker, GitHub, Google Cloud, Heat, ICL, ICLServices, JBoss, Kubernetes, Libvirt, OpenStack, oVirt, pip, Puppet, Python, Red Hat, RHEL, RHV, virtualenvwrapper, VMware, vSphere
 
 - https://habr.com/ru/companies/icl_services/articles/333526/
 - Отрасли: предлагает
 - Компании: Хабр, ГК ICL, предлагает
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: виртуализация сетей, программно-определяемые сети
+- Кандидаты компаний: ICL, ICLServices, Linux Foundation, NetVirt, Open vSwitch, OpenDaylight, OpenStack, OpenStack Neutron, OpenStack Overcloud, Red Hat, Red Hat OpenStack Platform, Red Hat OpenStack Platform Director
 
 - https://habr.com/ru/companies/icl_services/articles/335256/
 - Отрасли: не найдено
 - Компании: Хабр, ГК ICL
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-инфраструктура, NAS, Системное администрирование, Хранение данных
+- Кандидаты компаний: NetApp, SecureShare
 
 - https://habr.com/ru/companies/icl_services/articles/335620/
 - Отрасли: не найдено
 - Компании: Хабр, ГК ICL
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Системное программирование
+- Кандидаты компаний: ICLServices, MSDN
 
 - https://habr.com/ru/companies/icl_services/articles/336872/
 - Отрасли: Программное обеспечение
 - Компании: Хабр, ГК ICL
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: ITSM, IT‑службы, мониторинг
+- Кандидаты компаний: Citrix, eBay, ICLServices, Microsoft, MS SCCM, ServiceNow
 
 - https://habr.com/ru/companies/icl_services/articles/337468/
 - Отрасли: Программное обеспечение
 - Компании: Хабр, ГК ICL
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Help Desk Software, IT, ITSM, Service Desk
+- Кандидаты компаний: Citrix, ICLServices, MID-server ServiceNow, MS SCCM, Service Now, ServiceNow
 
 - https://habr.com/ru/companies/icl_services/articles/352196/
 - Отрасли: Программное обеспечение, BPM, предлагает, Enterprise, CRM
 - Компании: Хабр, ГК ICL, NAUMEN, предлагает
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: help desk software, IT services, ITSM, service desk
+- Кандидаты компаний: Bpm`online, Crystal report, ITSM Center, Naumen SD, Omninet, Omnitracker, OTRS, ГК ICL Help Desk Software
 
 - https://habr.com/ru/companies/icl_services/articles/353040/
 - Отрасли: Рекрутинг и HR, предлагает
 - Компании: Хабр, ГК ICL, Далее, предлагает
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: информационные технологии, ИТ‑сфера, разработка программного обеспечения, ритейл, сервис‑провайдер, цифровая экономика
+- Кандидаты компаний: Australian computer society, ICL Services, SFIA, Минтруд России
 
 - https://habr.com/ru/companies/icl_services/articles/425129/
 - Отрасли: виртуальные, CRM, Информационная безопасность, Программное обеспечение, PKI
 - Компании: Хабр, ГК ICL, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-инфраструктура, Виртуализация, Системное администрирование
+- Кандидаты компаний: Microsoft, Microsoft SQL Server 2016, ServiceNow
 
 - https://habr.com/ru/companies/icl_services/articles/429062/
 - Отрасли: не найдено
 - Компании: Хабр, ГК ICL, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IPTV, Сетевые технологии, Системное администрирование
+- Кандидаты компаний: VLC, Wireshark
 
 - https://habr.com/ru/companies/icl_services/articles/443398/
 - Отрасли: ERP, Оптимизация
 - Компании: Хабр, ГК ICL
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-инфраструктура, промышленные предприятия
+- Кандидаты компаний: Excel
 
 - https://habr.com/ru/companies/icl_services/articles/444200/
 - Отрасли: Оптимизация
 - Компании: Хабр, ГК ICL, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-компании, Высоконагруженные системы
+- Кандидаты компаний: Всемирный экономический форум
 
 - https://habr.com/ru/companies/icl_services/articles/447178/
 - Отрасли: информационной безопасности, RPA, Data science, CRM
 - Компании: Хабр, ГК ICL
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: data mining, бюджетирование, закупки, ИТ-аутсорсинг
+- Кандидаты компаний: Pikabu, ГК ICL Data Mining
 
 - https://habr.com/ru/companies/icl_services/articles/458648/
 - Отрасли: Информационная безопасность
 - Компании: Хабр, ГК ICL, Далее
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Amazon EC2, Amazon ECR, Amazon ECS, Amazon RDS, Amazon Web Services, AWS Systems Manager Parameter Store, awslabs, Bamboo, CentOS, Docker, GitHub, Grails, IAM, openjdk, PostgreSQL
 
 - https://habr.com/ru/companies/icl_services/articles/477502/
 - Отрасли: виртуальные
 - Компании: Хабр, ГК ICL
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-компании, IT-услуг, ИТ-инфраструктуры
+- Кандидаты компаний: IBM, ICL Services, MIT Sloan Management Review, SharePoint, Teams
 
 - https://habr.com/ru/companies/icl_services/articles/487752/
 - Отрасли: Оптимизация, масштабируемость
