@@ -18155,32 +18155,32 @@
 - https://habr.com/ru/companies/icl_services/articles/487752/
 - Отрасли: Оптимизация, масштабируемость
 - Компании: Хабр, ГК ICL, FUJITSU, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-инфраструктура, IT-компании, Mid-Range, инфраструктура хранения данных, системы хранения данных
+- Кандидаты компаний: Eternus, Eternus DX600, Eternus DX90, FAS, Fujitsu Eternus DX100, IBM, IBM Storwize V7000U, NetApp, NetApp FAS2620, QNAP, Storwize, Synology
 
 - https://habr.com/ru/companies/icl_services/articles/501588/
 - Отрасли: медиа
 - Компании: Хабр, ГК ICL, AMD, Далее, Samsung
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: встраиваемые устройства, Высоконагруженные системы, Компьютерное железо, маршрутизаторы, медиа проигрыватели, мобильные телефоны, одноплатные компьютеры, планшеты, суперкомпьютеры
+- Кандидаты компаний: Allwinner, Alpine, AMD A6-3650, Amlogic, ARM Limited, Atom, AWS, Baikal, BFK, Broadcom, Core 2 Duo, Core i3, Core i7, EEMBC, Elbrus, EntityFX, Intel, MIPS Computer Systems, Odroid, Orange Pi, Pentium, Raspberry PI, VIA, Xeon, Zhaoxin
 
 - https://habr.com/ru/companies/icl_services/articles/508850/
 - Отрасли: не найдено
 - Компании: Хабр, ГК ICL, Звук
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Разработка игр
+- Кандидаты компаний: Flash, Habr, LaserAge, Macromedia
 
 - https://habr.com/ru/companies/icl_services/articles/514504/
 - Отрасли: Enterprise, масштабируемость, хостинг, Информационная безопасность
 - Компании: Хабр, ГК ICL
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Reporting services, Web development
+- Кандидаты компаний: AutoFac, EntityFX, ICL, log4Net, Microsoft, Microsoft.Extensions.DependencyInjection, Microsoft.Extensions.Logging, Mono, NetCore, NetFramework, NetStandard, NLog, NuGet, Portatibility Analyzer, Serilog, SQL Server Reporting Services, StackOverflow, Unity, Visual Studio
 
 - https://habr.com/ru/companies/icl_services/articles/533498/
 - Отрасли: IoT, аналитики, облачные сервисы, облачных сервисов
 - Компании: Хабр, ГК ICL
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IoT-устройств, IT-инфраструктура, Open source, Интерфейсы
+- Кандидаты компаний: .NET, Atom, Audio-Technica, CircuitPython, Cypress, GitHub, GitHub Sponsors, Google Cloud, ICLServices, InfluxDB, Jenkins, M3O, Matomo, Micro, Razer, Simple Icons, Supabase, WeeChat
 
 - https://habr.com/ru/companies/icl_services/articles/534296/
 - Отрасли: Оптимизация, образование, Поисковые технологии
@@ -18191,116 +18191,116 @@
 - https://habr.com/ru/companies/icl_services/articles/537938/
 - Отрасли: ML, Computer Vision
 - Компании: Хабр, ГК ICL
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: производство деталей
+- Кандидаты компаний: Blender, ICL Services
 
 - https://habr.com/ru/companies/icl_services/articles/548896/
 - Отрасли: не найдено
 - Компании: Хабр, ГК ICL
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT, IT-индустрии, японский рынок
+- Кандидаты компаний: Microsoft
 
 - https://habr.com/ru/companies/icl_services/articles/558564/
 - Отрасли: не найдено
 - Компании: Хабр, ГК ICL
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Высоконагруженные системы, Компьютерное железо
+- Кандидаты компаний: ARM, Blender, Core i7-2600, EntityFX, Firefox, GitHub, Intel, Octane, SPEC, SPEC 2006, Байкал-М, МЦСТ, Эльбрус, Эльбрус-8С, Эльбрус-8СВ
 
 - https://habr.com/ru/companies/icl_services/articles/569976/
 - Отрасли: Аппаратное обеспечение
 - Компании: Хабр, ГК ICL, Далее, AMD
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Высоконагруженные системы
+- Кандидаты компаний: Habr, Loongson, Telegram
 
 - https://habr.com/ru/companies/icl_services/articles/596211/
 - Отрасли: Дизайн и юзабилити
 - Компании: Хабр, ГК ICL, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-компании, программирование
+- Кандидаты компаний: Arduino, Facebook, GitHub, ICLServices, Meta
 
 - https://habr.com/ru/companies/icl_services/articles/648219/
 - Отрасли: не найдено
 - Компании: Хабр, ГК ICL, 1С
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Компьютерное железо, Процессоры, Суперкомпьютеры
+- Кандидаты компаний: Apple, Baikal, EntityFX, GitHub, Huawei, Intel, MCST, Технотекст
 
 - https://habr.com/ru/companies/icl_services/articles/653831/
 - Отрасли: не найдено
 - Компании: Хабр, ГК ICL
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Удалённая работа, Управление проектами
+- Кандидаты компаний: Jobvite, Kahoot, ГК ICL Agile
 
 - https://habr.com/ru/companies/icl_services/articles/663228/
 - Отрасли: SaaS, виртуальные, транспортные, торговые, государственный сектор, образование, аутсорсинг, телекоммуникации, промышленность
 - Компании: Хабр, ГК ICL, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-услуг, видеоплатформа, ИКТ-отрасль, мобильные приложения, онлайн-сервисы, программного обеспечения, сервис-букинги, сервисы заказа такси, социальные сети
+- Кандидаты компаний: APARAT, Apple, Facebook, Filimo, Google, Google Play, OFAC, Telegram, Twitter, Vetus Systems
 
 - https://habr.com/ru/companies/icl_services/articles/668742/
 - Отрасли: аналитики
 - Компании: Хабр, ГК ICL, Программный Продукт, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT
+- Кандидаты компаний: Google, Habr
 
 - https://habr.com/ru/companies/icl_services/articles/675336/
 - Отрасли: Информационная безопасность, информационной безопасности, Программное обеспечение
 - Компании: Хабр, ГК ICL, Positive Technologies
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-инфраструктура, Анализ и проектирование систем
+- Кандидаты компаний: 360 Total Security, Apache, Log4j, Paramiko, PT NAD, PT Network Attack Discovery
 
 - https://habr.com/ru/companies/icl_services/articles/677122/
 - Отрасли: видеоаналитики, медиа, Программное обеспечение, ML, Machine Learning
 - Компании: Хабр, ГК ICL
-- Кандидаты отраслей: не найдено
+- Кандидаты отраслей: видеонаналитика, критическая инфраструктура, транспортная инфраструктура
 - Кандидаты компаний: не найдено
 
 - https://habr.com/ru/companies/icl_services/articles/695484/
 - Отрасли: IoT, Аппаратное обеспечение
 - Компании: Хабр, ГК ICL, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Высоконагруженные системы
+- Кандидаты компаний: ARM, HiSilicon, Huawei, Kunpeng 920, Байкал‑S
 
 - https://habr.com/ru/companies/icl_services/articles/701424/
 - Отрасли: Информационная безопасность, финансы, информационной безопасности
 - Компании: Хабр, ГК ICL, UserGate, Ideco, Infotecs, серверы
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: cybersec-рынка, IT-инфраструктура, IT-эмиграция, СЗИ
+- Кандидаты компаний: Check Point, Cisco, ClamAV, Diamond VPN/FW, Dionis DPS, Ideco UTM, Kaspersky, Suricata, ViPNet, ViPNet Coordinator, xFirewall 5, Континент 4
 
 - https://habr.com/ru/companies/icl_services/articles/719610/
 - Отрасли: Enterprise
 - Компании: Хабр, ГК ICL, FUJITSU
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Computer hardware, Processors
+- Кандидаты компаний: GitHub, MCST, Oracle, SUN, Sun Microsystems, МЦСТ
 
 - https://habr.com/ru/companies/icl_services/articles/735468/
 - Отрасли: не найдено
 - Компании: Хабр, ГК ICL, SimpleOne, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-инфраструктура, ITSM, Управление проектами
+- Кандидаты компаний: OTRS, Telegram, VsDesk, Zabbix
 
 - https://habr.com/ru/companies/icl_services/articles/740212/
 - Отрасли: Информационная безопасность, виртуальные, аналитики
 - Компании: UserGate, Ideco, Хабр, ГК ICL, Цифра
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT
+- Кандидаты компаний: Checkpoint, DNSmasq, Greenbone, ICL, Macromedia, Minishare, OpenVAS, Sangfor
 
 - https://habr.com/ru/companies/icl_services/articles/741188/
 - Отрасли: Аппаратное обеспечение
 - Компании: Хабр, ГК ICL, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Высоконагруженные системы, Процессоры
+- Кандидаты компаний: EntityFX, Habr, Loongson
 
 - https://habr.com/ru/companies/infotecs_official/articles/698876/
 - Отрасли: Информационная безопасность, криптографии
 - Компании: Хабр, Infotecs, Далее, РЖД, Ростелеком
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Квантовые технологии
+- Кандидаты компаний: ViPNet QSS, ViPNet QSS Point, ViPNet QSS Server, ViPNet QSS Switch, ViPNet Quandor, ViPNet Quantum Security System, ИнфоТеКС, МГУ имени М.В. Ломоносова, ФСБ России
 
 - https://habr.com/ru/companies/infotecs_official/articles/704260/
 - Отрасли: Информационная безопасность, Программное обеспечение, PKI, криптографии
 - Компании: Хабр, Infotecs, AMD, Базис, Далее
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: AMI, edk2, flashrom, Intel, QEMU, ViPNet SafeBoot, VirtualBox, VMware, Байкал‑М
 
 - https://habr.com/ru/companies/infotecs_official/articles/724528/
 - Отрасли: Информационная безопасность, виртуальные
