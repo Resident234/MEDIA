@@ -48905,152 +48905,152 @@
 - https://habr.com/ru/companies/simbirsoft/articles/276011/
 - Отрасли: не найдено
 - Компании: Хабр, SimbirSoft, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: .NET, C++, gcc, Mono, Platform Invoke
+- Кандидаты компаний: MYDLL.DLL, shim.dll
 
 - https://habr.com/ru/companies/simbirsoft/articles/304304/
 - Отрасли: не найдено
 - Компании: Хабр, SimbirSoft, Далее, АТОМ
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: AirBnB, Google
 
 - https://habr.com/ru/companies/simbirsoft/articles/306012/
 - Отрасли: Информационная безопасность
 - Компании: Хабр, SimbirSoft, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: кэширование, мобильные приложения
+- Кандидаты компаний: Amazon Web Services, AWS, AWS Lambda, DynamoDB, Elasticache, Memcached, Redis
 
 - https://habr.com/ru/companies/simbirsoft/articles/308090/
 - Отрасли: не найдено
 - Компании: Хабр, SimbirSoft
-- Кандидаты отраслей: не найдено
+- Кандидаты отраслей: метрология, Промышленное программирование, разработка ПО, схемотехника
 - Кандидаты компаний: не найдено
 
 - https://habr.com/ru/companies/simbirsoft/articles/315342/
 - Отрасли: CRM, Рекрутинг и HR
 - Компании: Хабр, SimbirSoft
-- Кандидаты отраслей: не найдено
+- Кандидаты отраслей: продажа спецтехники, ремонт спецтехники, сельское хозяйство
 - Кандидаты компаний: не найдено
 
 - https://habr.com/ru/companies/simbirsoft/articles/317916/
 - Отрасли: Оптимизация
 - Компании: Хабр, SimbirSoft, быструю
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT, Тестирование IT-систем, Тестирование веб-сервисов, Тестирование мобильных приложений
+- Кандидаты компаний: Allure, Git, ISTQB
 
 - https://habr.com/ru/companies/simbirsoft/articles/319150/
 - Отрасли: провайдер
 - Компании: Хабр, SimbirSoft, провайдер
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: разработка мобильных приложений
+- Кандидаты компаний: ejabberd, Smack
 
 - https://habr.com/ru/companies/simbirsoft/articles/328402/
 - Отрасли: не найдено
 - Компании: Хабр, SimbirSoft
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: электроснабжение, энергетика
+- Кандидаты компаний: Delphi, Groovy, JavaFx, Spring, Spring Boot, Windows
 
 - https://habr.com/ru/companies/simbirsoft/articles/328954/
 - Отрасли: Информационная безопасность
 - Компании: Хабр, SimbirSoft, быструю, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT
+- Кандидаты компаний: ASP.NET Core, EF Core, GitHub, Microsoft, MongoDB, Postman, Robomongo, Visual Studio Community 2017
 
 - https://habr.com/ru/companies/simbirsoft/articles/329970/
 - Отрасли: Enterprise, Оптимизация
 - Компании: Хабр, SimbirSoft, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Enterprise-приложения
+- Кандидаты компаний: Habr
 
 - https://habr.com/ru/companies/simbirsoft/articles/330044/
 - Отрасли: не найдено
 - Компании: Хабр, SimbirSoft, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: разработка мобильных приложений
+- Кандидаты компаний: Telegram
 
 - https://habr.com/ru/companies/simbirsoft/articles/332750/
 - Отрасли: Оптимизация
 - Компании: Хабр, SimbirSoft, Далее
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Firefox, Google Chrome, Habr, Opera
 
 - https://habr.com/ru/companies/simbirsoft/articles/336710/
 - Отрасли: Дизайн и юзабилити
 - Компании: Хабр, SimbirSoft, Далее
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Google Chrome, jQuery, Telegram, ВКонтакте
 
 - https://habr.com/ru/companies/simbirsoft/articles/336998/
 - Отрасли: Оптимизация
 - Компании: Хабр, SimbirSoft
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: компьютерная графика, компьютерные игры, мобильные игры
+- Кандидаты компаний: Unity
 
 - https://habr.com/ru/companies/simbirsoft/articles/337116/
 - Отрасли: Оптимизация, Информационная безопасность
 - Компании: Хабр, SimbirSoft, Далее
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Chrome, DevTools, Google, Telegram, ВКонтакте
 
 - https://habr.com/ru/companies/simbirsoft/articles/344470/
 - Отрасли: Мобильные технологии
 - Компании: Хабр, SimbirSoft
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: разработка мобильных приложений, разработка программного обеспечения
+- Кандидаты компаний: Habr
 
 - https://habr.com/ru/companies/simbirsoft/articles/353182/
 - Отрасли: не найдено
 - Компании: Хабр, SimbirSoft, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: информационные технологии
+- Кандидаты компаний: ARMv7, Borland, Borland Turbo C++, C++ Builder, Clang, Comeau C/C++, Cygwin, GCC, Habr, Intel, Linux, Microsoft, MinGW, Oracle Solaris Studio, SPARC, Sun, Sun Studio, Visual C++, Watcom C++
 
 - https://habr.com/ru/companies/simbirsoft/articles/353810/
 - Отрасли: финансового
 - Компании: Хабр, SimbirSoft, Кошелёк, Бэклог
-- Кандидаты отраслей: не найдено
+- Кандидаты отраслей: IT, управление проектами, управление разработкой
 - Кандидаты компаний: не найдено
 
 - https://habr.com/ru/companies/simbirsoft/articles/359304/
 - Отрасли: Оптимизация, Программное обеспечение
 - Компании: Хабр, SimbirSoft
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: розничная торговля, торговля
+- Кандидаты компаний: Kinect, Microsoft, Up-board
 
 - https://habr.com/ru/companies/simbirsoft/articles/412677/
 - Отрасли: не найдено
 - Компании: Хабр, SimbirSoft
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT, тестирование IT-систем, тестирование веб-сервисов
+- Кандидаты компаний: Confluence, Jira, Zephyr
 
 - https://habr.com/ru/companies/simbirsoft/articles/416925/
 - Отрасли: Дизайн и юзабилити, предлагает, Мобильные технологии
 - Компании: Хабр, SimbirSoft, ОК, предлагает
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Alibaba Group, Ant Design, dva, GitHub, npm, react-component, react-virtualized
 
 - https://habr.com/ru/companies/simbirsoft/articles/417779/
 - Отрасли: не найдено
 - Компании: Хабр, SimbirSoft, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: 3D редакторы, CAD системы, графические редакторы, мобильные приложения, светотехника
+- Кандидаты компаний: IESNA, Lightscape Technologies, Inc., Unity, Unity3D, БООС ЛАЙТИНГ ГРУПП
 
 - https://habr.com/ru/companies/simbirsoft/articles/421793/
 - Отрасли: PKI
 - Компании: Хабр, SimbirSoft
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: ICO, аудит блокчейн-решений, блокчейн, криптовалюты, торговля
+- Кандидаты компаний: Apla, AplaNet, Emercoin, EmerDNS, EmerDPO, EmerSSH, EmerSSL, ENUMER, Protypo, Simvolio, Youtube
 
 - https://habr.com/ru/companies/simbirsoft/articles/422429/
 - Отрасли: торговли, аналитики
 - Компании: Хабр, SimbirSoft
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: банковская сфера, торговля на бирже, управление проектами, финансовые услуги
+- Кандидаты компаний: git, Habr, svn
 
 - https://habr.com/ru/companies/simbirsoft/articles/425897/
 - Отрасли: не найдено
 - Компании: Хабр, SimbirSoft, ОК
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: банковское обслуживание, дистанционное банковское обслуживание, онлайн-банкинг, финансовые услуги
+- Кандидаты компаний: Angular, Google, Habr, RxJs
 
 - https://habr.com/ru/companies/simbirsoft/articles/432998/
 - Отрасли: хостинг
