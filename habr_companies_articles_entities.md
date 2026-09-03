@@ -66005,38 +66005,38 @@
 - https://habr.com/ru/companies/yadro/articles/719804/
 - Отрасли: Дизайн и юзабилити
 - Компании: Хабр, YADRO, Далее, Контур
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: RnD, производство электроники, электроника
+- Кандидаты компаний: Habr
 
 - https://habr.com/ru/companies/yadro/articles/726162/
 - Отрасли: Программное обеспечение
 - Компании: Хабр, YADRO
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: производство печатных плат, производство электроники, производство электронных модулей, сборочно-монтажное производство
+- Кандидаты компаний: Истовый Инженер, Остек-СМТ
 
 - https://habr.com/ru/companies/yadro/articles/727580/
 - Отрасли: не найдено
 - Компании: Хабр, YADRO, РЕД СОФТ
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT
+- Кандидаты компаний: Aligned Research Group, Django, Docker, Moscow Python, Tatlin, TATLIN.UNIFIED, YouTube, Истовый инженер, Таймпад, ФСТЭК
 
 - https://habr.com/ru/companies/yadro/articles/731434/
 - Отрасли: Дизайн и юзабилити
 - Компании: Хабр, YADRO, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: производство электроники, электроника
+- Кандидаты компаний: Isola
 
 - https://habr.com/ru/companies/yadro/articles/733648/
 - Отрасли: не найдено
 - Компании: Хабр, YADRO
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-индустрия, облачные вычисления
+- Кандидаты компаний: OpenStack, YouTube
 
 - https://habr.com/ru/companies/yadro/articles/737186/
 - Отрасли: виртуальные, Аппаратное обеспечение, промышленные, образование
 - Компании: Хабр, YADRO, Цифра, Далее, серверы
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-индустрия, системы связи, телеком
+- Кандидаты компаний: ATCA, Ericsson, Habr, Motorola, Siemens
 
 - https://habr.com/ru/companies/yadro/articles/737866/
 - Отрасли: Программное обеспечение, Аппаратное обеспечение
@@ -66047,110 +66047,110 @@
 - https://habr.com/ru/companies/yadro/articles/740726/
 - Отрасли: Оптимизация
 - Компании: Хабр, YADRO, AMD
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: разработка процессоров, системное программирование
+- Кандидаты компаний: Intel, JetBrains, Sony, Synopsys, Syntacore
 
 - https://habr.com/ru/companies/yadro/articles/741636/
 - Отрасли: телекома, энергетики, образование
 - Компании: Хабр, YADRO, Далее, DELL
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-индустрия, телеком
+- Кандидаты компаний: Gmail
 
 - https://habr.com/ru/companies/yadro/articles/743378/
 - Отрасли: не найдено
 - Компании: Хабр, YADRO
-- Кандидаты отраслей: не найдено
+- Кандидаты отраслей: Программирование
 - Кандидаты компаний: не найдено
 
 - https://habr.com/ru/companies/yadro/articles/747308/
 - Отрасли: не найдено
 - Компании: Хабр, YADRO
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT, поисковые системы, разработка программного обеспечения
+- Кандидаты компаний: Ansible, GitFlic, Intel, Linux, OpenStack
 
 - https://habr.com/ru/companies/yadro/articles/751830/
 - Отрасли: Дизайн и юзабилити, No code
 - Компании: Хабр, YADRO, Далее, Space
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: open source, опорная сеть 5G, системы связи
+- Кандидаты компаний: ACE, Boost.Asio, Cassandra, DPDK, mTCP, Scylla, Seastar, userver, Yandex
 
 - https://habr.com/ru/companies/yandex_cloud_and_infra/articles/735598/
 - Отрасли: Информационная безопасность, Веб-разработка, ML
 - Компании: Хабр, Yandex Cloud & Yandex Infrastructure
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: антиспам, антифрод
+- Кандидаты компаний: Yandex, Yandex Cloud, Yandex Infrastructure, Yandex SmartCaptcha
 
 - https://habr.com/ru/companies/yandex_cloud_and_infra/articles/735988/
 - Отрасли: облачные сервисы
 - Компании: Хабр, Yandex Cloud & Yandex Infrastructure, YDB
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: DevOps
+- Кандидаты компаний: API Gateway, Container Registry, dynamo, echo, github.com, go-telegram-bot-api, gorm.io, guregu, labstack, Managed Service for MySQL, Managed Service for PostgreSQL, Notion, Serverless Containers, Telegram, Yandex, Yandex Cloud, Yandex Infrastructure, Yandex SpeechKit, yc CLI
 
 - https://habr.com/ru/companies/yandex_cloud_and_infra/articles/738192/
 - Отрасли: Информационная безопасность, информационной безопасности, Программное обеспечение, Enterprise
 - Компании: Хабр, Yandex Cloud & Yandex Infrastructure, OWASP, PVS-Studio, CodeScoring, Далее, Positive Technologies, Swordfish Security
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: DevOps, системное администрирование
+- Кандидаты компаний: Checkmarx, GitLab, Hashicorp, Hilbert Team, PT, SonarQube, Yandex Cloud, Yandex Infrastructure
 
 - https://habr.com/ru/companies/yandex_cloud_and_infra/articles/741746/
 - Отрасли: облачные сервисы, ML, аналитики, предлагает
 - Компании: Хабр, Yandex Cloud & Yandex Infrastructure, Звук, предлагает, Контур
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Голосовые интерфейсы, Искусственный интеллект
+- Кандидаты компаний: Brand Voice, SpeechKit, Yandex, Yandex Cloud, Yandex Infrastructure
 
 - https://habr.com/ru/companies/yandex_cloud_and_infra/articles/742846/
 - Отрасли: Информационная безопасность, облачные сервисы, облачных сервисов, предлагает
 - Компании: Хабр, Yandex Cloud & Yandex Infrastructure, YDB, предлагает, Яндекс
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-инфраструктура
+- Кандидаты компаний: API Gateway, Audit Trails, Cloud Functions, GitHub, GitHub Advanced Security, GitLab, GitLab Secret Detection, Google Cloud, Serverless, SmartCaptcha, Yandex, Yandex Cloud, Yandex Cloud Security, Yandex Infrastructure, Yandex Lockbox, Yandex Scale, Yandex Translate, YMQ
 
 - https://habr.com/ru/companies/yandex_cloud_and_infra/articles/746022/
 - Отрасли: Big Data, облачные сервисы, BI, Оптимизация
 - Компании: Хабр, Yandex Cloud & Yandex Infrastructure, Яндекс, быструю
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Визуализация данных
+- Кандидаты компаний: ClickHouse, S3, Tableau, Yandex Cloud, Yandex DataLens, Yandex Go, Yandex Infrastructure, YT, YTsaurus
 
 - https://habr.com/ru/companies/yandex_cloud_and_infra/articles/747998/
 - Отрасли: Big Data
 - Компании: YDB, Яндекс, Хабр, Yandex Cloud & Yandex Infrastructure
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: PostgreSQL, Yandex Cloud, Yandex Infrastructure, Яндекс Игры
 
 - https://habr.com/ru/companies/yandex_cloud_and_infra/articles/752924/
 - Отрасли: Информационная безопасность, Программное обеспечение, предлагает
 - Компании: Хабр, Yandex Cloud & Yandex Infrastructure, предлагает, OWASP
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT
+- Кандидаты компаний: Cosign, Fulcio, GitHub, Google, Heroku, Microsoft, NPM, Open Source Secure Foundation, Red Hat, Rekor, Sigstore, The Linux Foundation, Travis-CI, Yandex Cloud, Yandex Infrastructure, Университет Пердью
 
 - https://habr.com/ru/companies/yandex_cloud_and_infra/articles/754802/
 - Отрасли: OLAP, DWH, процессинг, ETL, аналитики, недвижимости, CRM
 - Компании: Хабр, Yandex Cloud & Yandex Infrastructure, YDB, Яндекс
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-инфраструктура
+- Кандидаты компаний: ClickHouse, Debezium, Elasticsearch, MySQL, OpenSearch, PostgreSQL, Redis, RedisCDC, S3, Solr, Yandex Cloud, Yandex Data Transfer, Yandex Infrastructure
 
 - https://habr.com/ru/companies/yandex_cloud_and_infra/articles/759524/
 - Отрасли: IAAS
 - Компании: Хабр, Yandex Cloud & Yandex Infrastructure, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Облачные решения
+- Кандидаты компаний: API Gateway, Container Registry, Container Solution, Docker Hub, Managed Kubernetes, mongo-express, MongoDB, Terraform, Yandex Cloud, Yandex Infrastructure, Yandex Serverless Containers
 
 - https://habr.com/ru/companies/yandex_cloud_and_infra/articles/760252/
 - Отрасли: Информационная безопасность, облачные сервисы, виртуальные
 - Компании: Хабр, Yandex Cloud & Yandex Infrastructure, Далее, Яндекс
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Active Directory, Compute Cloud, Hilbert Team, Object Storage, Virtual Private Cloud, Yandex Cloud, Yandex Cloud Organization, Yandex Identity and Access Management (IAM), Yandex Infrastructure, Yandex Resource Manager, Яндекс 360, Яндекс ID
 
 - https://habr.com/ru/companies/yandex_cloud_and_infra/articles/764334/
 - Отрасли: облачные сервисы, Machine Learning, Информационная безопасность, digital, аналитики, ML, BI
 - Компании: Хабр, Yandex Cloud & Yandex Infrastructure, YDB
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: банки, ритейл
+- Кандидаты компаний: Apache Airflow, AWS SES API, DataSphere, Diplodoc, IBM, Identity and Access Management, Managed Kubernetes, Smart Web Security, Yandex Cloud, Yandex Cloud Backup, Yandex Cloud Postbox, Yandex DataLens, Yandex Infrastructure, Yandex SpeechKit, Yandex SpeechSense, YandexGPT, Алиса
 
 - https://habr.com/ru/companies/yandex_praktikum/articles/528070/
 - Отрасли: не найдено
 - Компании: Хабр, Яндекс Практикум, Яндекс, Далее, Базис
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-индустрия
+- Кандидаты компаний: Github, Google
 
 - https://habr.com/ru/companies/yandex_praktikum/articles/530268/
 - Отрасли: виртуальные, Веб-разработка
