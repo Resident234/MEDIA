@@ -69005,152 +69005,152 @@
 - https://habr.com/ru/company/badoo/blog/353782/
 - Отрасли: не найдено
 - Компании: Хабр
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Высоконагруженные системы
+- Кандидаты компаний: Badoo, Facebook, PHPStan, Railt, SerafimArts, XHProf, YouTube, ВКонтакте, Ситилинк
 
 - https://habr.com/ru/company/badoo/blog/415359/
 - Отрасли: Веб-разработка
 - Компании: Хабр
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Высоконагруженные системы, Программирование
+- Кандидаты компаний: Badoo, Node.js, ReactPHP, Swoole, TensorFlow, YouTube, Zend Technologies
 
 - https://habr.com/ru/company/badoo/blog/424655/
 - Отрасли: не найдено
 - Компании: Хабр, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT
+- Кандидаты компаний: Atlassian, Badoo, Bugzilla, Git, HipChat, Jira, Redmine, ScriptRunner, Trac
 
 - https://habr.com/ru/company/badoo/blog/426605/
 - Отрасли: не найдено
 - Компании: Хабр
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: open source
+- Кандидаты компаний: Badoo, Composer, Exakat, GitHub, Phan, PHPStan, PHPStorm, Psalm
 
 - https://habr.com/ru/company/badoo/blog/426749/
 - Отрасли: Рекрутинг и HR, предлагает, медицина
 - Компании: Хабр, предлагает
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-индустрия, мобильная разработка
+- Кандидаты компаний: Badoo, Biometric Residence Permit, BRP, Habr, IELTS
 
 - https://habr.com/ru/company/badoo/blog/428944/
 - Отрасли: стриминг, аналитики
 - Компании: Хабр, Хабр Карьера, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-индустрия, дейтинг, социальная сеть
+- Кандидаты компаний: Android, Badoo, habr_career, iPhone, Microsoft, Моя круг
 
 - https://habr.com/ru/company/badoo/blog/430722/
 - Отрасли: Веб-разработка, Оптимизация
 - Компании: Хабр, ПИК, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Высоконагруженные системы
+- Кандидаты компаний: Badoo, Habr, PHP
 
 - https://habr.com/ru/company/badoo/blog/434272/
 - Отрасли: масштабируемость
 - Компании: Хабр, серверы
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Высоконагруженные системы
+- Кандидаты компаний: Apache, Badoo, Goridge, mod_php, nginx, PHP-FPM, PHP-PM, PSR-7, RoadRunner, Spiral Scout, Swoole, Symfony
 
 - https://habr.com/ru/company/badoo/blog/436364/
 - Отрасли: Веб-разработка
 - Компании: Хабр
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Badoo, Facebook, Liveprof, Tideways, uprofiler, XHProf
 
 - https://habr.com/ru/company/badoo/blog/441052/
 - Отрасли: Веб-разработка
 - Компании: Хабр, VK
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Badoo, EPAM, FB, Habr, Lamoda, YouTube
 
 - https://habr.com/ru/company/badoo/blog/442504/
 - Отрасли: не найдено
 - Компании: Хабр
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: amphp, AspectMock, Badoo, GitHub, pydbgpproxy, Xdebug
 
 - https://habr.com/ru/company/badoo/blog/443768/
 - Отрасли: аналитики, Мобильные технологии
 - Компании: Хабр, Proto, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT
+- Кандидаты компаний: Badoo, HighLoad, Humbug, Infection, PHPUnit, SoftMocks
 
 - https://habr.com/ru/company/badoo/blog/444658/
 - Отрасли: Веб-разработка
 - Компании: Хабр
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT, тестирование веб-сервисов
+- Кандидаты компаний: Avito, Badoo, Behat, Codeception, DoctorX, EPAM, Facebook, Lamoda, YouTube, ВКонтакте
 
 - https://habr.com/ru/company/badoo/blog/448622/
 - Отрасли: Веб-разработка, Оптимизация
 - Компании: Хабр
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: APC, Badoo, OpCache, Zend VM
 
 - https://habr.com/ru/company/badoo/blog/462709/
 - Отрасли: провайдер
 - Компании: Хабр, провайдер, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-систем
+- Кандидаты компаний: Badoo, PHPUnit
 
 - https://habr.com/ru/company/badoo/blog/464775/
 - Отрасли: Веб-разработка, Оптимизация
 - Компании: Хабр, VK
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Avito, Badoo, Blackfire, Cafetera, FB, Habr, Mamba, Onliner, Superjob, YouTube
 
 - https://habr.com/ru/company/badoo/blog/469193/
 - Отрасли: не найдено
 - Компании: Хабр
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Avito, Badoo, Facebook, Mamba, Onliner, RoadRunner, Superjob, Telegram, YouTube, ВКонтакте
 
 - https://habr.com/ru/company/badoo/blog/469615/
 - Отрасли: не найдено
 - Компании: Хабр
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Badoo, MySQL, PHP, Yii
 
 - https://habr.com/ru/company/badoo/blog/472528/
 - Отрасли: Веб-разработка, Оптимизация
 - Компании: Хабр
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Badoo, Composer, RoadRunner, Symfony 4
 
 - https://habr.com/ru/company/badoo/blog/473654/
 - Отрасли: Информационная безопасность
 - Компании: Хабр
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Badoo, Composer, doctrine, GitHub, myclabs, phar-io, PHP Code Coverage, phpdocumentor, phpspec, PHPUnit, symfony, webmozart
 
 - https://habr.com/ru/company/badoo/blog/475840/
 - Отрасли: Информационная безопасность, BI
 - Компании: Хабр
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Atlassian, Badoo, Habr, Jira, PHP, Stack Overflow
 
 - https://habr.com/ru/company/badoo/blog/477822/
 - Отрасли: Веб-разработка
 - Компании: Хабр
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Badoo, Composer, PHP-Parser, PHPUnit, SoftMocks
 
 - https://habr.com/ru/company/badoo/blog/479420/
 - Отрасли: e-commerce
 - Компании: Хабр, ВТБ
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: b2b, хеджевом фонде
+- Кандидаты компаний: Badoo, Lamoda, Where to find
 
 - https://habr.com/ru/company/badoo/blog/480746/
 - Отрасли: Веб-разработка, предлагает, PaaS
 - Компании: Хабр, предлагает, серверы
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Высоконагруженные системы
+- Кандидаты компаний: Badoo, Composer, JIT, OPCache, PaaS, PHP, Symfony
 
 - https://habr.com/ru/company/badoo/blog/485732/
 - Отрасли: Веб-разработка
 - Компании: Хабр, Авито, VK
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT
+- Кандидаты компаний: Badoo, Badoo Tech, BeerPHP Moscow, Cafetera, FB, FunCorp, Habr, ManyChat, PHPRussia, SuperJob, YouTube
 
 - https://habr.com/ru/company/badoo/blog/487234/
 - Отрасли: Оптимизация
