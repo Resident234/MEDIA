@@ -23555,152 +23555,152 @@
 - https://habr.com/ru/companies/kaspersky/articles/522128/
 - Отрасли: Информационная безопасность
 - Компании: Хабр, «Лаборатория Касперского», серверы, Хабр Карьера
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Киберпреступность
+- Кандидаты компаний: Google, Google Play, Hacking Team, HP Device Manager, Microsoft, Microsoft Exchange, The Register, Threatpost
 
 - https://habr.com/ru/companies/kaspersky/articles/522642/
 - Отрасли: не найдено
 - Компании: Хабр, «Лаборатория Касперского», ОК, Звук, Хабр Карьера
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: HD телевещание, аналоговое телевещание, Видеотехника, мультимедийный носитель данных
+- Кандидаты компаний: Domesday Project, eBay, LDDB, Philips, Pioneer, Sony, Techmoan
 
 - https://habr.com/ru/companies/kaspersky/articles/523970/
 - Отрасли: медиа
 - Компании: Хабр, «Лаборатория Касперского», AMD, Далее, Хабр Карьера
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: домашней электроники, мультимедиа, Ноутбуки, система развлечений
+- Кандидаты компаний: Apple, IBM, Intel, IXBT, Sony, ThinkPad, Toshiba, VAIO, Телеграмме, Ютюбе
 
 - https://habr.com/ru/companies/kaspersky/articles/524122/
 - Отрасли: Информационная безопасность, IoT, предлагает
 - Компании: Хабр, «Лаборатория Касперского», предлагает, Хабр Карьера
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: автомобили, ПК
+- Кандидаты компаний: Ars Technica, Audi, BMW, Google, Intel, Mercedes Benz, Microsoft, Xplora
 
 - https://habr.com/ru/companies/kaspersky/articles/526578/
 - Отрасли: провайдер, Мобильные технологии, облачных сервисов, медиа
 - Компании: Хабр, «Лаборатория Касперского», провайдер, Далее, Кошелёк, Яндекс, Хабр Карьера
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: интернет, мобильные устройства, оптические носители, провайдеры, социальные сети
+- Кандидаты компаний: Android, Apple, Blu‑Ray, Easy CD, eBay, Facebook, Foobar, Google, ICQ, iPaq hx4700, iPod, iTunes, JRiver Media Center, Livejournal, LJPlus, Microsoft, Motorola Razr V3, MP3Tag, MySpace, News Corporation, Semagic, Skype, Sony Ericsson, Sony Vaio TZ 2007, Twitter, WinAMP, Windows Media Player, YouTube, Инстраграм, Стрим
 
 - https://habr.com/ru/companies/kaspersky/articles/529216/
 - Отрасли: Мобильные технологии
 - Компании: Хабр, «Лаборатория Касперского», Хабр Карьера
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Сотовая связь
+- Кандидаты компаний: eBay, Ericsson, Ericsson MC218, Ericsson R380, Galaxy Note, Handspring, Handspring Visor, Nokia, Nokia 6310i, Nokia 7650, Nokia 9210, Nokia N95, Psion, Sony Ericsson, Symbian, T-Mobile, Telegram
 
 - https://habr.com/ru/companies/kaspersky/articles/531236/
 - Отрасли: digital
 - Компании: Хабр, «Лаборатория Касперского», Звук, Хабр Карьера
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: DCC Museum, Matsushita, Panasonic, Panasonic RQ-SX33, Philips, Philips DCC130, Philips DCC170, Philips DCC951, Reddit, Sony, Sony MZ-1
 
 - https://habr.com/ru/companies/kaspersky/articles/533666/
 - Отрасли: не найдено
 - Компании: Хабр, «Лаборатория Касперского», AMD, Звук, Далее, Хабр Карьера
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT, рынок персональных систем
+- Кандидаты компаний: Ahtlon 64 3400+, Ahtlon XP 3000+, Asus, Asus P4PE, Athlon 64, Athlon XP, Core 2, Geekbench 4, GeForce 6200, i845, Intel, IXBT, Northwood, Pentium 3 Coppermine, Pentium 4, Pentium II, Pentium III, Prescott, Willamette
 
 - https://habr.com/ru/companies/kaspersky/articles/535766/
 - Отрасли: не найдено
 - Компании: Хабр, «Лаборатория Касперского», Звук, Samsung, Хабр Карьера
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Asus, Intel, Microsoft, Phil's Computer Lab, Ютюбе
 
 - https://habr.com/ru/companies/kaspersky/articles/537356/
 - Отрасли: не найдено
 - Компании: Хабр, «Лаборатория Касперского», Звук, Бэклог, Далее, Хабр Карьера
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Apple, ATRAC, ATRAC3Plus, Ebay, Hi‑MD, iPod, iPod Nano, MP3, NetMD, Sony, Sony MZ-1, Sony MZ-M200, Sony MZ-NH600, Sony MZ-RH1, Телеграмме
 
 - https://habr.com/ru/companies/kaspersky/articles/540834/
 - Отрасли: не найдено
 - Компании: Хабр, «Лаборатория Касперского», Хабр Карьера
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Hi-Fi, IPTV, Видеотехника, домашнее видео, компонентная техника, стриминговые сервисы, телевидение
+- Кандидаты компаний: JVC, Panasonic NV-FS88, Pioneer CT-50T, Revox B203, Sony, Sony SLV-815, Sony SLV-F900, Techmoan, Technology Connections, Telegram, Электроника
 
 - https://habr.com/ru/companies/kaspersky/articles/542298/
 - Отрасли: не найдено
 - Компании: Хабр, «Лаборатория Касперского», Звук, Хабр Карьера
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Amiga, Bricks, Castle, Compaq, Corefast, Hangman, IBM, In-Touch, Leisure Suit Larry, Microsoft, NEC, Norton Commander, Olivetti, PC Shell, Philips, Pitfall, Power Meter, Robotron, Roland MT-32, Sound Blaster Pro 2, ThinkPad, Tofware, Tulip, WordPerfect, ZX Spectrum
 
 - https://habr.com/ru/companies/kaspersky/articles/544276/
 - Отрасли: не найдено
 - Компании: Хабр, «Лаборатория Касперского», Хабр Карьера
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: мобильные процессоры, ноутбуки, офисный инструмент, портативные компьютеры
+- Кандидаты компаний: Checkit, Compaq, Compaq Contura 410C, Compaq Contura 420C, Compaq Contura Aero, Compaq LTE Elite, DOS, IBM, IBM ThinkPad, Intel, Kensington, Microsoft, Microsoft Windows, PC Magazine, Speedsys, Telegram, ThinkPad 380E, TI, Vogons, Windows 2000, Windows 95
 
 - https://habr.com/ru/companies/kaspersky/articles/546582/
 - Отрасли: не найдено
 - Компании: Хабр, «Лаборатория Касперского», DELL, Звук, Хабр Карьера
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: мобильная рабочая станция, ноутбуки, сотовая связь
+- Кандидаты компаний: Apple Macbook Pro, archive.org, Dell Precision, Geekbench 4, HP Zbook, Intel, Intel Centrino 6300, Intel Core 2 Duo P8800, Intel Core i7-8550U, Intel Core i7-920XM, Lenovo, Nvidia Quadro, OCZ, OCZ Vertex, Overclockers.ru, PCMark7, ThinkPad, ThinkPad P1, ThinkPad T430, ThinkPad T480, ThinkPad T510, ThinkPad X200, Windows 10, Windows 7, X‑Rite, Zalman
 
 - https://habr.com/ru/companies/kaspersky/articles/547184/
 - Отрасли: Информационная безопасность, кибербезопасности, СМИ
 - Компании: Хабр, «Лаборатория Касперского», серверы, Хабр Карьера
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: кибербезопасность
+- Кандидаты компаний: BIG-IP, BIG-IQ, BleepingComputer, Chrome, Devcore, Exchange Server 2010, F5 Networks, GitHub, Google, Internet Explorer, Microsoft, Microsoft Exchange, Palo Alto, RiskIQ, Trend Micro, Twitter, Volexity, Windows
 
 - https://habr.com/ru/companies/kaspersky/articles/547788/
 - Отрасли: не найдено
 - Компании: Хабр, «Лаборатория Касперского», Хабр Карьера
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Perforce, Windbg
 
 - https://habr.com/ru/companies/kaspersky/articles/549060/
 - Отрасли: Мобильные технологии
 - Компании: Хабр, «Лаборатория Касперского», билайн, МТС, Хабр Карьера
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: мобильные телефоны, Сотовая связь
+- Кандидаты компаний: Ericsson, Google, Google Groups, Motorola, Philips, T-Mobile, Tele2, Telegram, Telenor, Twitter, Би Плюс, Евросети
 
 - https://habr.com/ru/companies/kaspersky/articles/550370/
 - Отрасли: медиа, предлагает
 - Компании: Хабр, «Лаборатория Касперского», предлагает, Хабр Карьера
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: мобильные приложения
+- Кандидаты компаний: Google
 
 - https://habr.com/ru/companies/kaspersky/articles/554064/
 - Отрасли: Мобильные технологии
 - Компании: Хабр, «Лаборатория Касперского», Хабр Карьера
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: карманные компьютеры, мультимедийные КПК, портативные компьютеры, смартфоны
+- Кандидаты компаний: Apple, Handspring, Intel, iTunes, Motorola, Netfront, Nokia, Palm, PalmSource, SonicStage, Sony, Sony Clie, Sony Ericsson, Sony Vaio, Telegram
 
 - https://habr.com/ru/companies/kaspersky/articles/556030/
 - Отрасли: не найдено
 - Компании: Хабр, «Лаборатория Касперского», Звук, Хабр Карьера
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: мобильных телефонов, мультимедийные аксессуары, настольные компьютеры, портативные компьютеры, портативные музыкальные проигрыватели, портативный CD‑проигрыватель
+- Кандидаты компаний: Apple, Ericsson, Handspring, iPod, iTunes, IXBT, Motorola, MusicMatch Jukebox, Nokia, ThinkPad 600, Yahoo
 
 - https://habr.com/ru/companies/kaspersky/articles/558536/
 - Отрасли: стриминг
 - Компании: Хабр, «Лаборатория Касперского», Цифра, Далее, Звук, Хабр Карьера
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: домашняя электроника, компьютеры, потребительские технологии, радио, радиовещание, радиотехника, телефония, фотография
+- Кандидаты компаний: Mr. Carlson's Lab, ВЭФ-202, ИШИМ-003, Океан-222, Телеграмме, Урал-49
 
 - https://habr.com/ru/companies/kaspersky/articles/562254/
 - Отрасли: Оптимизация
 - Компании: Хабр, «Лаборатория Касперского», AMD, Звук, Хабр Карьера
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: ATI, IBM, Intel, Sony, Sony PictureBook, Sony Vaio, Sony Vaio C1, Sony Vaio P, Sony Vaio TZ, Transmeta, Travelstar, Yamaha, ZDNet
 
 - https://habr.com/ru/companies/kaspersky/articles/563178/
 - Отрасли: телек, системы видеонаблюдения
 - Компании: Хабр, «Лаборатория Касперского», Звук, Хабр Карьера
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Видеотехника
+- Кандидаты компаний: JVC, Radio86-RK, ZX Spectrum, Википедии, Телеграмме, Ютюба
 
 - https://habr.com/ru/companies/kaspersky/articles/565740/
 - Отрасли: digital
 - Компании: Хабр, «Лаборатория Касперского», Звук, Хабр Карьера
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: электроника
+- Кандидаты компаний: Casio G-Shock, Philips, Sharp MD-MS702, Sharp MS702, Sony, Sony Discman D-321, Sony MZ-1, Sony MZ-R2, Sony MZ-R3, Sony MZ-R30, Sony MZ-R35, Sony MZ-R50, Телеграмме
 
 - https://habr.com/ru/companies/kaspersky/articles/566588/
 - Отрасли: не найдено
 - Компании: Хабр, «Лаборатория Касперского», Далее, Хабр Карьера
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: AIR, Asgard, Azure DevOps, Bazel, Dashboard, Git, Hive, Perforce, TFS, Thor
 
 - https://habr.com/ru/companies/kaspersky/articles/567952/
 - Отрасли: digital, стриминг
