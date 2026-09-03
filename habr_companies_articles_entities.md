@@ -56706,91 +56706,91 @@
 - Отрасли: не найдено
 - Компании: не найдено
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Habr
 
 - https://habr.com/ru/companies/timeweb/articles/599435/
 - Отрасли: не найдено
 - Компании: не найдено
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Habr, Habr Career
 
 - https://habr.com/ru/companies/timeweb/articles/599835/
 - Отрасли: предлагает, медиа
 - Компании: Хабр, Timeweb Cloud, предлагает
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: алхимия, видеоигры, геймдизайн, игровые консоли, инженерия, разработка игр, фармацевтика, хакерство, химия
+- Кандидаты компаний: Apex Legends, Code.org, CodeCombat, CodinGame, Doom, Exapunks, Fortnite, GTA V, Infinifactory, League of Legends, MOLEK-SYNTEZ Else Heart.Break()”,, Opus Magnum, Shenzhen I/O, SpaceChem, Steam, Super Mario, TIS-100, twitch.tv, Zachtronics Industries
 
 - https://habr.com/ru/companies/timeweb/articles/645251/
 - Отрасли: робототехника
 - Компании: Хабр, Timeweb Cloud, Далее, MARS
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Космонавтика
+- Кандидаты компаний: Ingenuity, Luna, NASA, Perseverance, Surveyor, University of Western Ontario, Аполлон, Боинг, ВНИИТМ, ВНИИТрансмаш, Дженерал Моторс, Е-6
 
 - https://habr.com/ru/companies/timeweb/articles/645593/
 - Отрасли: ML, digital, Дизайн и юзабилити
 - Компании: Хабр, Timeweb Cloud, Далее, Space, ОК, Звук
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Игры и игровые консоли, Научно-популярное, Программирование
+- Кандидаты компаний: BOX-256, codewars, Coursera, Factorio, GameDEVils, Gladiabots, Google, Habr, JavaScript, leetcode, Oh My Git!, Opus Magnum, Pocket Robots Test Chamber, Screeps, shapez.io, Steam, Telegram, while True: learn(), Zachtronics
 
 - https://habr.com/ru/companies/timeweb/articles/647095/
 - Отрасли: не найдено
 - Компании: не найдено
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Habr
 
 - https://habr.com/ru/companies/timeweb/articles/647115/
 - Отрасли: не найдено
 - Компании: Хабр, Timeweb Cloud, Space
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: космонавтика, научно-популярное, стандарты связи, физика
+- Кандидаты компаний: CSIRO, ETS-VI, Habr, LADEE, LCRD, MXS, NASA, NICER, Starlink, STP-H6, Surveyor 7, МКС
 
 - https://habr.com/ru/companies/timeweb/articles/648419/
 - Отрасли: не найдено
 - Компании: не найдено
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Habr, Habr Career
 
 - https://habr.com/ru/companies/timeweb/articles/649365/
 - Отрасли: предлагает
 - Компании: Хабр, Timeweb Cloud, Первая Форма, предлагает
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: веб-типографика, геймдизайн, графический дизайн, дизайн, игры и игровые консоли, история игр, разработка
+- Кандидаты компаний: Adobe, Can’t Unsee, Color Method, croxyproxy, Figma, GameDEVils, GitHub, Habr, Hex Invaders, Illustrator, Kern Type, Meduza, Photoshop, Substack, Telegram, The Bézier Game, The Rag Time, User Inyerface, WHAT THE HEX?
 
 - https://habr.com/ru/companies/timeweb/articles/649563/
 - Отрасли: не найдено
 - Компании: не найдено
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Habr, Habr Career
 
 - https://habr.com/ru/companies/timeweb/articles/650873/
 - Отрасли: не найдено
 - Компании: не найдено
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Habr
 
 - https://habr.com/ru/companies/timeweb/articles/651193/
 - Отрасли: не найдено
 - Компании: Хабр, Timeweb Cloud, Орбита
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: астрономия, космонавтика, научно-популярное
+- Кандидаты компаний: ACE, DSCOVR, Kelvinsong, Miloslav Druckmuller, NASA, Orbiter, Parker Solar Probe, Phoenix7777, Rubin16, SOHO, Solar Orbiter, STEREO, Wikimedia Commons, WIND, Луна-1, Улисс, Эксплорер 10
 
 - https://habr.com/ru/companies/timeweb/articles/652393/
 - Отрасли: не найдено
 - Компании: не найдено
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Habr, Habr Career
 
 - https://habr.com/ru/companies/timeweb/articles/652489/
 - Отрасли: не найдено
 - Компании: не найдено
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Habr, Habr Career
 
 - https://habr.com/ru/companies/timeweb/articles/656369/
 - Отрасли: не найдено
 - Компании: не найдено
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Habr, Habr Career
 
 - https://habr.com/ru/companies/timeweb/articles/656477/
 - Отрасли: не найдено
@@ -56801,56 +56801,56 @@
 - https://habr.com/ru/companies/timeweb/articles/657513/
 - Отрасли: промышленность, энергетики, предлагает
 - Компании: Хабр, Timeweb Cloud, Далее, предлагает
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: энергетика, ядерная энергетика
+- Кандидаты компаний: ONKALO, PUREX, Манхэттен, мокс, МОХ
 
 - https://habr.com/ru/companies/timeweb/articles/662457/
 - Отрасли: не найдено
 - Компании: не найдено
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Habr
 
 - https://habr.com/ru/companies/timeweb/articles/662726/
 - Отрасли: не найдено
 - Компании: не найдено
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Habr, Nucl0id
 
 - https://habr.com/ru/companies/timeweb/articles/663790/
 - Отрасли: образование
 - Компании: Хабр, Timeweb Cloud, ПИК
-- Кандидаты отраслей: не найдено
+- Кандидаты отраслей: астрономия, геология, космология
 - Кандидаты компаний: не найдено
 
 - https://habr.com/ru/companies/timeweb/articles/664750/
 - Отрасли: не найдено
 - Компании: не найдено
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: nemirnyatom
 
 - https://habr.com/ru/companies/timeweb/articles/665196/
 - Отрасли: не найдено
 - Компании: не найдено
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Habr
 
 - https://habr.com/ru/companies/timeweb/articles/665724/
 - Отрасли: не найдено
 - Компании: не найдено
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Habr
 
 - https://habr.com/ru/companies/timeweb/articles/666122/
 - Отрасли: BI
 - Компании: Хабр, Timeweb Cloud, Базис
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT, Математика, Научно-популярное
+- Кандидаты компаний: ACM, Elliott Brothers, Ltd., Ferranti Ltd., IBM, IEEE, RAND, SIAM, Институт оборонного анализа, Исследовательский центр IBM, Лос-Аламосская научная лаборатория, Национальная физическая лаборатория, Национальное бюро стандартов, Окриджская национальная лаборатория, Принстонский Университет, Университет Бригама Янга, Университет Теннесси
 
 - https://habr.com/ru/companies/timeweb/articles/667432/
 - Отрасли: не найдено
 - Компании: не найдено
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Медийная реклама, Образовательные программы
+- Кандидаты компаний: Habr
 
 - https://habr.com/ru/companies/timeweb/articles/669596/
 - Отрасли: не найдено
