@@ -19955,152 +19955,152 @@
 - https://habr.com/ru/companies/itsumma/articles/438240/
 - Отрасли: облачные сервисы, хостинг, предлагает
 - Компании: Selectel, Хабр, ITSumma, Яндекс, предлагает, Хабр Карьера
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: S3-совместимые объектные хранилища, интернет-магазины, облачные услуги, облачные хостеры, облачный хостинг, объектные хранилища
+- Кандидаты компаний: Cloud.Yandex, Intel, Mail, Mail Cloud Solutions, MailCloudSolutions, MCS, Servers, Servers.ru, Я.Облако
 
 - https://habr.com/ru/companies/itsumma/articles/439458/
 - Отрасли: Веб-разработка, медиа, СМИ, Оптимизация
 - Компании: Хабр, ITSumma, Далее, серверы, Хабр Карьера
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT‑рынок, Веб‑разработка, Высоконагруженные системы, Управление медиа
+- Кандидаты компаний: cairosvg, Docker, docker-compose, elastic-search, ELK-стек, Git, impproxy, Kubernetes, NGINX, PHP‑fpm, PostgreSQL, redis, Republic, Sentry, trumpet, Vagrant
 
 - https://habr.com/ru/companies/itsumma/articles/440208/
 - Отрасли: облачные сервисы
 - Компании: Хабр, ITSumma, Хабр Карьера
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: анализа данных, Высоконагруженные системы, индустрия высоких технологий, машинного обучения, Тестирование веб‑сервисов
+- Кандидаты компаний: Apache, Apache Kafka, Dropbox, Jetstream, Spark
 
 - https://habr.com/ru/companies/itsumma/articles/441258/
 - Отрасли: Enterprise
 - Компании: Хабр, ITSumma, Далее, Цифра, Хабр Карьера
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: FreeBSD, Linux, macOS, Solaris
+- Кандидаты компаний: bpftrace, DTrace, ltrace, Netflix, Oracle, strace, Sun Microsystems
 
 - https://habr.com/ru/companies/itsumma/articles/441636/
 - Отрасли: робототехника, медицина, промышленные, информационной безопасности, промышленность
 - Компании: Хабр, ITSumma, Хабр Карьера
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: автомобилестроение, транспорт, энергетика
+- Кандидаты компаний: ARM Holdings, BMW, BMW Car IT GmbH, KUKA Robotics, Linux Foundation, Tesla Motors, Toyota, Volvo, Volvo Truck
 
 - https://habr.com/ru/companies/itsumma/articles/442070/
 - Отрасли: IoT, Информационная безопасность, Оптимизация, информационной безопасности, медиа, embedded
 - Компании: Хабр, ITSumma, Яндекс, «Лаборатория Касперского», Хабр Карьера
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-рынок, Интернет вещей, Производство и разработка электроники
+- Кандидаты компаний: Advantech, Alexa, Amazon, ARM, Cloud IoT Device SDK, eBay, GitHub, Google, Google Cloud IoT, Google Cloud Platform, IoT Gateway, KasperskyOS, Microchip Technology, NXP Semiconductors, Venturebeat, Алиса, Яндекс.маркет, Яндекс.станция
 
 - https://habr.com/ru/companies/itsumma/articles/442876/
 - Отрасли: не найдено
 - Компании: Хабр, ITSumma, Самолет, Хабр Карьера
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: авиация, геоинформационные сервисы
+- Кандидаты компаний: Air New Zealand, Airbus, Apache, Apache Kafka, Boeing, China Eastern, Confluent Rest Proxy, dump1090, Elasticsearch, Kafka Connect, Kibana, KSQL, OpenFlights, Qantas, Raspberry Pi, RTL2832U, Международной организацией гражданской авиации (ИКАО)
 
 - https://habr.com/ru/companies/itsumma/articles/443490/
 - Отрасли: не найдено
 - Компании: Хабр, ITSumma, Далее, Хабр Карьера
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: open source
+- Кандидаты компаний: codesearch.debian.net, Debian, GitHub, GitLab, Google, manpages.debian.org
 
 - https://habr.com/ru/companies/itsumma/articles/443698/
 - Отрасли: Информационная безопасность, Поисковые технологии, предлагает
 - Компании: Хабр, ITSumma, Яндекс, предлагает, Хабр Карьера
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Онлайн-реклама, Поисковые системы
+- Кандидаты компаний: Amazon, Apple, Bing, Chromium, DuckDuckGo, GitHub, Google, Google Chrome, Google Maps, Google+, googlemonitor.com, Mail.ru, OpenStreetMap, Yandex
 
 - https://habr.com/ru/companies/itsumma/articles/444678/
 - Отрасли: не найдено
 - Компании: Хабр, ITSumma, Хабр Карьера
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT
+- Кандидаты компаний: AdminDivision, Badoo, Bitrix24, Mail.Ru Cloud Solutions, Qrator, Uptime day
 
 - https://habr.com/ru/companies/itsumma/articles/445554/
 - Отрасли: Информационная безопасность
 - Компании: Хабр, ITSumma, Хабр Карьера
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Браузеры, мобильные устройства
+- Кандидаты компаний: 1Password, Chrome, Chromium, Edge, Firefox, Firefox Lockbox, GitHub, Google, Google Play, Internet Explorer, KeePass, LastPass, Mozilla, Statista
 
 - https://habr.com/ru/companies/itsumma/articles/445886/
 - Отрасли: не найдено
 - Компании: Хабр, ITSumma, Далее, Хабр Карьера
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Управление персоналом
+- Кандидаты компаний: ГИБДД
 
 - https://habr.com/ru/companies/itsumma/articles/446418/
 - Отрасли: Информационная безопасность, Оптимизация, Мобильные технологии
 - Компании: Хабр, ITSumma, Далее, Хабр Карьера
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: DNS, мобильные сети, Разработка мобильных приложений, Сетевые технологии
+- Кандидаты компаний: 1.1.1.1, Argo Tunnel, Cloudflare, Cloudflare Mobile SDK, Google, LibGen, Neumob, SciHub, Warp
 
 - https://habr.com/ru/companies/itsumma/articles/446750/
 - Отрасли: хостинг
 - Компании: Хабр, ITSumma, серверы, Далее, Хабр Карьера
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-инфраструктура, IT-компании, интернет-инфраструктуры, мобильного сегмента, облачные хранилища, подводные кабели, подводные магистральные сети, Сетевое оборудование, Сетевые технологии, стриминговый сервис, трансконтинентальные линии связи, трансконтинентальные магистральные сети
+- Кандидаты компаний: Alcatel, Amazon, APNIC, Facebook, Google, Google Fiber, Huawei, Instagram, Microsoft, NEC, Netflix, Subcom, telegeography.com, Windows
 
 - https://habr.com/ru/companies/itsumma/articles/446958/
 - Отрасли: не найдено
 - Компании: Хабр, ITSumma, Хабр Карьера
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Habr, Twitter
 
 - https://habr.com/ru/companies/itsumma/articles/447896/
 - Отрасли: Оптимизация
 - Компании: Хабр, ITSumma, Далее, Хабр Карьера
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: GauGAN, NVIDIA
 
 - https://habr.com/ru/companies/itsumma/articles/448302/
 - Отрасли: Информационная безопасность, Веб-сервисы
 - Компании: Хабр, ITSumma, Хабр Карьера
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: расширения для браузеров
+- Кандидаты компаний: AdBlock, AdBlock Plus, armin.dev, Google, uBlock, uBlock Origin
 
 - https://habr.com/ru/companies/itsumma/articles/448602/
 - Отрасли: Веб-разработка, консалтинг
 - Компании: Хабр, ITSumma, ОК, Хабр Карьера
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: DevOps, веб-аналитика, высоконагруженные системы, электронная коммерция России
+- Кандидаты компаний: cacti, Grafana, Kafka, Kubernetes, Nagios, Prometheus, Zabbix
 
 - https://habr.com/ru/companies/itsumma/articles/449432/
 - Отрасли: DIY
 - Компании: Хабр, ITSumma, Хабр Карьера
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT, книжное издательство, перевод, типография
+- Кандидаты компаний: Apache, Google, ITSumma Press, O’Reilly, Книжная палата РФ, Толмач
 
 - https://habr.com/ru/companies/itsumma/articles/449746/
 - Отрасли: Информационная безопасность, облачные сервисы
 - Компании: Хабр, ITSumma, Хабр Карьера
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: DevOps
+- Кандидаты компаний: BitBucket, DockerHub, GitHub
 
 - https://habr.com/ru/companies/itsumma/articles/450188/
 - Отрасли: не найдено
 - Компании: Хабр, ITSumma, Далее, Хабр Карьера
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-компании, Бизнес-модели, Управление персоналом
+- Кандидаты компаний: Google, Google Maps, RescueTime, ToDoist, Трелло
 
 - https://habr.com/ru/companies/itsumma/articles/450846/
 - Отрасли: Enterprise
 - Компании: Хабр, ITSumma, Хабр Карьера
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: open source, Браузеры
+- Кандидаты компаний: Bash, Chromium, Chromium Edge, Cmd, EdgeHTML, Internet Explorer, Microsoft, Microsoft Edge, PowerShell, Spartan, Windows 10, Windows Terminal, WSL
 
 - https://habr.com/ru/companies/itsumma/articles/452078/
 - Отрасли: не найдено
 - Компании: Хабр, ITSumma, серверы, Хабр Карьера
-- Кандидаты отраслей: не найдено
+- Кандидаты отраслей: Высоконагруженные системы
 - Кандидаты компаний: не найдено
 
 - https://habr.com/ru/companies/itsumma/articles/453110/
 - Отрасли: Информационная безопасность, Enterprise
 - Компании: Хабр, ITSumma, Хабр Карьера
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Open source, Базы данных
+- Кандидаты компаний: Elastic, Elastic Cloud on Kubernetes (ECK), Elasticsearch, Kibana
 
 - https://habr.com/ru/companies/itsumma/articles/453602/
 - Отрасли: СМИ
 - Компании: Хабр, ITSumma, серверы, быструю, Хабр Карьера
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT‑индустрия, Базы данных, Виртуализация, Высоконагруженные системы
+- Кандидаты компаний: Docker, Docker Swarm, ElasticSearch, Kubernetes, MongoDB, MySQL, Postgre, Redis, Republic
 
 - https://habr.com/ru/companies/itsumma/articles/453660/
 - Отрасли: предлагает
