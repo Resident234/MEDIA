@@ -46355,152 +46355,152 @@
 - https://habr.com/ru/companies/sberbank/articles/575726/
 - Отрасли: Natural Language Processing, NLP, ML, Computer Vision, Machine Learning
 - Компании: Хабр, Сбер, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Engineering, Mathematics, Science, STEM, Technology, Искусственный интеллект, Машинное обучение
+- Кандидаты компаний: ACL, arXiv, BigARTM, CVPR, Kaggle, NIPS, Технотекст
 
 - https://habr.com/ru/companies/sberbank/articles/576666/
 - Отрасли: финансы, финансового
 - Компании: Хабр, Сбер, Сбербанк, Кошелёк
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: банковская сфера, технологически-сервисная финансовая сфера, финансовая сфера, финансы и банковская сфера
+- Кандидаты компаний: Sber, СберБанк Онлайн
 
 - https://habr.com/ru/companies/sberbank/articles/577902/
 - Отрасли: СМИ, IoT, предлагает, горнодобывающей промышленности, телекоммуникации
 - Компании: Хабр, Сбер, Сбербанк, Далее, предлагает, Space, Ростелеком
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT, голосовая связь, интернет вещей, мобильные телефоны, персональная спутниковая связь, сотовая связь, спутниковая связь, спутниковый интернет, текстовые сообщения, широкополосный интернет
+- Кандидаты компаний: Android, Apple, AST & Science, Bloomberg, Globalstar, Google, Inmarsat, iPhone, Iridium, Lynk Global, OneWeb, Qualcomm, SpaceMobile, Starlink, Thuraya, X60, ПАО Сбербанк, РТКОММ
 
 - https://habr.com/ru/companies/sberbank/articles/579660/
 - Отрасли: Информационная безопасность, кибербезопасности, Рекрутинг и HR
 - Компании: Хабр, Сбер, Далее, Бэклог, Контур
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: кибербезопасность
+- Кандидаты компаний: Confluence
 
 - https://habr.com/ru/companies/sberbank/articles/579816/
 - Отрасли: не найдено
 - Компании: Хабр, Сбер
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: искусственный интеллект
+- Кандидаты компаний: Arpanet, esolangs.org, GitHub, HackRPI, Ministerство обороны США, NTT DoCoMo, Python Interpreter, Sber, The New York Times, Принстонский университет, университет Карнеги-Меллон
 
 - https://habr.com/ru/companies/sberbank/articles/580260/
 - Отрасли: NLP, хостинг, облачные сервисы, ML, предлагает, облачных сервисов, виртуальные
 - Компании: Хабр, Сбер, SberDevices, Сбербанк, предлагает
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-компании
+- Кандидаты компаний: developers.sber.ru, GitHub, Platform V, Sber, SberBank Онлайн, SberBox, SberBox Top”, “SberPortal”, “Jazz”, “SmartMarket Studio”, “СберID”],, SberCloud, SmartApp Code, SmartApp Graph, SmartDev, SmartMarket, SmartPay, SmartProfile, SmartPush, SmartSpeech, Салют, Сбер Салют
 
 - https://habr.com/ru/companies/sberbank/articles/581738/
 - Отрасли: не найдено
 - Компании: Хабр, Сбер
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: искусственный интеллект
+- Кандидаты компаний: COCO, DALL·E, GitHub, Google, ImageNet, Inception v3, OpenAI, OpenImages, Sber AI, SberData
 
 - https://habr.com/ru/companies/sberbank/articles/582090/
 - Отрасли: Big Data, DWH, BigData, BI, Оптимизация
 - Компании: Хабр, Сбер, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: базы данных
+- Кандидаты компаний: Apache Spark, Avro, Catalyst, CSV, GreenPlum, Hadoop, HDFS, Hive, NoSQL, Oracle, ORC, Parquet, Qlik, RDBMS, SAP, Sber, SberProfi, Scala, Tableau, Teradata
 
 - https://habr.com/ru/companies/sberbank/articles/583018/
 - Отрасли: Big Data, DWH, BigData, BI, Оптимизация
 - Компании: Хабр, Сбер, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: базы данных
+- Кандидаты компаний: Apache Spark, GreenPlum, Hadoop, Oracle DB, Qlik, SAP BO, Sber, SberProfi, Scala, Tableau, Teradata
 
 - https://habr.com/ru/companies/sberbank/articles/583308/
 - Отрасли: не найдено
 - Компании: Сбер, Хабр, РЖД
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: AI for Social Good, анализ данных, железнодорожная инфраструктура, искусственный интеллект
+- Кандидаты компаний: AI Journey 2021, AI Journey Contest 2021, DSWorks, Sber, Кристофари, МЧС России
 
 - https://habr.com/ru/companies/sberbank/articles/583592/
 - Отрасли: NLP, Computer Vision
 - Компании: Хабр, Сбер, Звук
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: искусственный интеллект, машинное обучение, музыкальная индустрия, нейронные сети
+- Кандидаты компаний: CLIP, Colab, DALL-E, Google, GPT-3, Jukebox, Magenta, MuseNet, Music Transformer, OpenAI, Sber AI
 
 - https://habr.com/ru/companies/sberbank/articles/584068/
 - Отрасли: торговли
 - Компании: Хабр, Сбер, SberDevices
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: интернет-магазины, искусственный интеллект, копирайтинг, маркетплейсы, машинное обучение, онлайн-торговля
+- Кандидаты компаний: CopyMonkey.ai, HOUMAI, Sber, Sber AI, SberCloud
 
 - https://habr.com/ru/companies/sberbank/articles/584318/
 - Отрасли: не найдено
 - Компании: не найдено
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: ветеринария, страхование
+- Кандидаты компаний: ArcFace, CosFace, Sber, SberAI, Питомец под защитой
 
 - https://habr.com/ru/companies/sberbank/articles/585602/
 - Отрасли: не найдено
 - Компании: Хабр, Сбер, Бэклог
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT, банковская сфера, финансовый рынок
+- Кандидаты компаний: Sber
 
 - https://habr.com/ru/companies/sberbank/articles/586926/
 - Отрасли: NLP, ML
 - Компании: Хабр, Сбер, SberDevices, AIRI, Далее, Space
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: искусственный интеллект, машинное обучение, обработка изображений
+- Кандидаты компаний: Christofari, DataHub, GitHub, HuggingFace, Instagram, Kaggle, OpenAI, Sber AI, SberCloud, Telegram, TESLA, Самарский университет
 
 - https://habr.com/ru/companies/sberbank/articles/588144/
 - Отрасли: аналитики, e-commerce, промышленные, ETL, Оптимизация, кибербезопасности, BigData
 - Компании: Хабр, Сбер, Далее, Бэклог
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: банковская деятельность, финансовые услуги
+- Кандидаты компаний: ADV/web-engineering, SberData
 
 - https://habr.com/ru/companies/sberbank/articles/588342/
 - Отрасли: Natural Language Processing, NLP, Big Data, BigData
 - Компании: Хабр, Сбер
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT, банкинг, маркетинг
+- Кандидаты компаний: Avaya, Java Spring, Kafka, OpenShift, PostgreSQL, Sber, SberTech, СберДевайсы
 
 - https://habr.com/ru/companies/sberbank/articles/588951/
 - Отрасли: Программное обеспечение, предлагает
 - Компании: Хабр, Сбер, предлагает
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT, аутсорс, гибкие методологии разработки, масштабируемая гибкость, разработка программного обеспечения, тестирование, управление качеством
+- Кандидаты компаний: Adaptavist, HP ALM, ISTQB, Large-Scale Scrum, LeSS, SAF, Sber, Scaled Agile Framework, Scaling Lean, The International Software Testing Qualification Board
 
 - https://habr.com/ru/companies/sberbank/articles/589537/
 - Отрасли: OCR
 - Компании: Хабр, Сбер, Далее, Тензор
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: искусственный интеллект, машинное обучение, обработка изображений
+- Кандидаты компаний: CycleGAN, Facebook, GANwriting, OCR, ResNet34, Sber AI, StyleGAN, TextStyleBrush
 
 - https://habr.com/ru/companies/sberbank/articles/589817/
 - Отрасли: IoT, аналитики, Big Data, ML, торговли
 - Компании: Хабр, Сбер
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: банки, городская инфраструктура, логистика, нефтяная промышленность, оборонная промышленность, сельское хозяйство, строительство, экология
+- Кандидаты компаний: Cisco, McKinsey, Sber, ВОЗ, Красный Крест, Лиза Алерт, Университет Джона Хопкинса
 
 - https://habr.com/ru/companies/sberbank/articles/590045/
 - Отрасли: Big Data, BigData
 - Компании: Хабр, Сбер
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Apache, Apache Kafka, Cloudurable, Kafka, Medium, PVbase, Sber, TDS, ZooKeeper, zookeeper
 
 - https://habr.com/ru/companies/sberbank/articles/592209/
 - Отрасли: предлагает
 - Компании: Хабр, Сбер, предлагает, ОК
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Дополненная реальность, Метавселенные
+- Кандидаты компаний: Apple, Niantic, Politechnical Museum, Sber, Sber AR/VR Lab, Snap
 
 - https://habr.com/ru/companies/sberbank/articles/592879/
 - Отрасли: страховании, ML, кибербезопасности
 - Компании: Хабр, Сбер, Сбербанк страхование жизни, Сбербанк
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: DevOps, банковские услуги, ипотечное кредитование, кибербезопасность, прямые продажи, страхование, тестирование, финансовые услуги
+- Кандидаты компаний: HRP, Platform V, SberCloud, SberMock, Visa, ДИТ, СберСтрахование, СмартМаркет, Управление благосостоянием
 
 - https://habr.com/ru/companies/sberbank/articles/593093/
 - Отрасли: не найдено
 - Компании: Хабр, Сбер
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: BitBucket Server, Jenkins
 
 - https://habr.com/ru/companies/sberbank/articles/593893/
 - Отрасли: не найдено
 - Компании: Хабр, Сбер, SberDevices, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: искусственный интеллект, машинное обучение, обработка изображений
+- Кандидаты компаний: Emojich, Habr, Kaggle, Real-ESRGAN, ruDALL-E, ruGPT-3, Sber AI, Telegram, Unicode Consortium, Zoom
 
 - https://habr.com/ru/companies/sberbank/articles/594709/
 - Отрасли: Enterprise
