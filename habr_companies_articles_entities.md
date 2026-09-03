@@ -38105,62 +38105,62 @@
 - https://habr.com/ru/companies/pt/articles/146342/
 - Отрасли: не найдено
 - Компании: Хабр, Positive Technologies, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: разработка мобильных приложений
+- Кандидаты компаний: HttpWebRequest, HttpWebResponse, Metro, Microsoft, Mono, MonoDevelop, Monodroid, Monotouch, Newtonsoft.Json, ptsecurity, Silverlight, Visual Studio, WebClient, WebHttpRequest, WebHttpResponse, Windows, Windows Phone, Windows Phone SDK, Xbox
 
 - https://habr.com/ru/companies/pt/articles/147271/
 - Отрасли: Информационная безопасность, Аппаратное обеспечение
 - Компании: Хабр, Positive Technologies, AMD
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Hash Runner, Hashcat, Hashcat-utils, Inside Pro, InsidePro Team 2012, InsidePro’s Extreme GPU Bruteforcer, John the Ripper, john-users, JtR, Maskprocessor, ophcrack, PasswordsPro, PHDays, ptsecurity, Radeon, rcracki_mt, Teardrop, Xanadrel
 
 - https://habr.com/ru/companies/pt/articles/147478/
 - Отрасли: Информационная безопасность, Программное обеспечение
 - Компании: Хабр, Positive Technologies
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: облачная инфраструктура
+- Кандидаты компаний: Citrix, Citrix XenServer, Flexera Software, License Administration Console, lmadmin, Positive Hack Days, Positive Research, vSwitch Controller, Web Self Service
 
 - https://habr.com/ru/companies/pt/articles/147736/
 - Отрасли: Информационная безопасность, ML
 - Компании: Хабр, Positive Technologies, ОК
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: ABBYY, Active Directory, Citrix, ESXi, FineReader, Github, gpg keyring, OCaml, RFB, VMWare, vncterm, Wireshark, Xen-org, XenAPI, XenCenter, XenServer, XenSource, XML-RPC, Селектел
 
 - https://habr.com/ru/companies/pt/articles/148087/
 - Отрасли: Информационная безопасность, информационной безопасности
 - Компании: Хабр, Positive Technologies
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: поставка картофеля
+- Кандидаты компаний: Badoo, Disa Retail, Disa Retail Atlantico, disaretail.com, Facebook, linkedin.com, Meta Inc., Pastebin, PHDays, Positive Hack Days, ptsecurity, Xing, Твиттер
 
 - https://habr.com/ru/companies/pt/articles/148723/
 - Отрасли: Информационная безопасность, информационной безопасности, digital
 - Компании: Хабр, Positive Technologies
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: системы связи
+- Кандидаты компаний: CNewsTV, Digital October, PHDays, Positive Hack Days, ptsecurity
 
 - https://habr.com/ru/companies/pt/articles/148884/
 - Отрасли: Веб-разработка
 - Компании: Хабр, Positive Technologies, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: контроль качества ПО
+- Кандидаты компаний: CodeCollaborator, ptsecurity, SmartBear
 
 - https://habr.com/ru/companies/pt/articles/149111/
 - Отрасли: Информационная безопасность
 - Компании: Хабр, Positive Technologies
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: финансовые организации
+- Кандидаты компаний: CTF, HackQuest, Neúron, PHDays, PHDays I-Bank, ptsecurity, Timepad
 
 - https://habr.com/ru/companies/pt/articles/149481/
 - Отрасли: не найдено
 - Компании: Хабр, Positive Technologies, Яндекс
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Active Directory, Dropbox, Exchange
 
 - https://habr.com/ru/companies/pt/articles/149746/
 - Отрасли: Информационная безопасность
 - Компании: Хабр, Positive Technologies
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Apache, gat3way.eu, MySQL, PasswordsPro, PHP, ptsecurity, Suhosin
 
 - https://habr.com/ru/companies/pt/articles/150373/
 - Отрасли: не найдено
@@ -38172,85 +38172,85 @@
 - Отрасли: Веб-разработка, Программное обеспечение, информационной безопасности
 - Компании: Хабр, Positive Technologies
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: CIS, MaxPatrol, PHDays, Positive Research, SurfPatrol, TestTrack, Trados, XSpider
 
 - https://habr.com/ru/companies/pt/articles/152365/
 - Отрасли: Информационная безопасность
 - Компании: Хабр, Positive Technologies
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Habr, Intel, Microsoft, Windows, Windows 8
 
 - https://habr.com/ru/companies/pt/articles/153359/
 - Отрасли: Веб-разработка, предлагает
 - Компании: Хабр, Positive Technologies, предлагает
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Code Collaborator
 
 - https://habr.com/ru/companies/pt/articles/155135/
 - Отрасли: Информационная безопасность, embedded, Программное обеспечение
 - Компании: Хабр, Positive Technologies
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Microsoft, MSDN, ptsecurity, Windows 7, Windows Embedded, Windows XP
 
 - https://habr.com/ru/companies/pt/articles/155937/
 - Отрасли: Информационная безопасность
 - Компании: Хабр, Positive Technologies, Звук
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Apple, iOS, MacOS X
 
 - https://habr.com/ru/companies/pt/articles/156133/
 - Отрасли: Веб-разработка, Информационная безопасность, медиа
 - Компании: Хабр, Positive Technologies, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Безопасность веб-приложений
+- Кандидаты компаний: Black Hat, BlackHat, Crypto.di.uoa.gr, Django, Habrahabr, Jazzy, PHP, Plone, Python, Slideshare, University of Athens
 
 - https://habr.com/ru/companies/pt/articles/156537/
 - Отрасли: Информационная безопасность, информационной безопасности, ERP, образование
 - Компании: Хабр, Positive Technologies
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: банковская сфера, государственная безопасность, ИБ-индустрия, кибервойна, киберпреступность, кибершпионаж, корпоративная безопасность, облачные вычисления, сети связи
+- Кандидаты компаний: @phdays_ru, Anonymous, Apple, blog.phdays.ru, FreeBSD, IMPACT, PHDays, phdays.ru, Positive Hack Days, ptsecurity, WikiLeaks, Windows XP
 
 - https://habr.com/ru/companies/pt/articles/156795/
 - Отрасли: Информационная безопасность, Веб-разработка, виртуальные
 - Компании: Хабр, Positive Technologies
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Boost.Asio, boost.org, nmap, ptsecurity
 
 - https://habr.com/ru/companies/pt/articles/157589/
 - Отрасли: Информационная безопасность, транспортные, информационной безопасности, промышленные, Аппаратное обеспечение
 - Компании: Хабр, Positive Technologies, hh.ru, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: ICS/SCADA/PLC, АСУ ТП, транспорт, энергетика
+- Кандидаты компаний: ABB, Advantech, Allen-Bradley, Broadwin, Emerson, General Electric, Genesis, Iconics, InTouch HMI, PCS 7, ptsecurity, Rockwell Automation, Schneider Electric, Siemens, Siemens SIMATIC, Step 7, WinCC, WinCC Flexible, Wonderware
 
 - https://habr.com/ru/companies/pt/articles/158485/
 - Отрасли: Информационная безопасность
 - Компании: Хабр, Positive Technologies
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Chromium, Google Chrome, IBM Research Group
 
 - https://habr.com/ru/companies/pt/articles/160541/
 - Отрасли: Информационная безопасность, информационной безопасности, ERP
 - Компании: Хабр, Positive Technologies
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: интернет-банкинг, энергетика
+- Кандидаты компаний: AR.Drone, PHDays, PHDays CTF, PHDays CTF Quals, Positive Hack Days, Positive Hack Days III, Positive Technologies CTF, Quals.phdays.ru
 
 - https://habr.com/ru/companies/pt/articles/162617/
 - Отрасли: Информационная безопасность, Программное обеспечение
 - Компании: Хабр, Positive Technologies, Space
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: 1, 2
+- Кандидаты компаний: 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 3, 4, 5, 6, 7, 8, 9
 
 - https://habr.com/ru/companies/pt/articles/164057/
 - Отрасли: Информационная безопасность
 - Компании: Хабр, Positive Technologies, Далее, AMD
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Bochs, IDA Pro, Intel, VMWare
 
 - https://habr.com/ru/companies/pt/articles/164121/
 - Отрасли: Enterprise, Информационная безопасность, Аппаратное обеспечение
 - Компании: Хабр, Positive Technologies, Далее
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Autoruns, LANL, Microsoft, NetworkX, Python, Steam, Sysinternals, VMware, WinDbg, Windows, yEd Graph Editor, yWorks
 
 - https://habr.com/ru/companies/pt/articles/166139/
 - Отрасли: Веб-разработка
