@@ -17855,152 +17855,152 @@
 - https://habr.com/ru/companies/ibs/articles/712162/
 - Отрасли: Аппаратное обеспечение, Программное обеспечение, Дизайн и юзабилити, аналитики, Мобильные технологии
 - Компании: Хабр, IBS, Далее, Space, Хабр Карьера
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: корпоративных решений, мобильных приложений
+- Кандидаты компаний: Apple
 
 - https://habr.com/ru/companies/ibs/articles/717348/
 - Отрасли: Поисковые технологии, Информационная безопасность, Оптимизация
 - Компании: Хабр, IBS, Axiom JDK, Хабр Карьера
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT‑рынок
+- Кандидаты компаний: Docker, Git, Hibernate, JDBC, JPA, JUnit, Kubernetes, Maven, Oracle, Spring, Spring Boot, Spring Data, Spring Security, Сколково
 
 - https://habr.com/ru/companies/ibs/articles/719976/
 - Отрасли: ERP
 - Компании: Хабр, IBS, Далее, быструю, Хабр Карьера
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: ERP-системы
+- Кандидаты компаний: Altova, Altova XML Spy, GitHub, glavkniga, Microsoft, MS Word, SAP
 
 - https://habr.com/ru/companies/ibs/articles/735686/
 - Отрасли: финансового, Программное обеспечение, образование
 - Компании: Хабр, IBS, ТАСС, Хабр Карьера
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT‑систем, авионика, информационных систем, искусственный интеллект, тестирование
+- Кандидаты компаний: Alphabet, Bard, Boeing, ChatGPT, Google, Luxoft, Вычислительный центр МГУ, МГУ, Объединенный институт ядерных исследований, РИА Новости, ЭВМ БЭСМ‑6, ЭВМ Стрела
 
 - https://habr.com/ru/companies/ibs/articles/737816/
 - Отрасли: BPM, масштабируемость, Программное обеспечение, embedded, Информационная безопасность
 - Компании: Хабр, IBS, Далее, Хабр Карьера
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: BPM-решение, digitalization управления, low-code-платформа, автоматизации бизнес-процессов
+- Кандидаты компаний: ActiveVOS, Activiti, Appain, Bizagi, Bonita BPM, Bonitasoft, BPMN.io, Camunda, Eclipse, ELMA, Flowable, IBM, JBoss, jBPM, Maven, Pegasystems, Red Hat, RedHat, WildFly
 
 - https://habr.com/ru/companies/ibs/articles/739380/
 - Отрасли: не найдено
 - Компании: Хабр, IBS, Далее, Хабр Карьера
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Java‑разработчиков, сертификация
+- Кандидаты компаний: Oracle
 
 - https://habr.com/ru/companies/ibs/articles/740900/
 - Отрасли: не найдено
 - Компании: Хабр, IBS, 1С, Далее, Хабр Карьера
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: геймификация, корпоративная система поощрений, корпоративный портал, система лояльности
+- Кандидаты компаний: 1С-Битрикс
 
 - https://habr.com/ru/companies/ibs/articles/742170/
 - Отрасли: Рекрутинг и HR
 - Компании: Хабр, IBS, Хабр Карьера
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT, Управление персоналом, Управление проектами
+- Кандидаты компаний: Gallup
 
 - https://habr.com/ru/companies/ibs/articles/747574/
 - Отрасли: Оптимизация, Программное обеспечение
 - Компании: Хабр, IBS, Далее, Хабр Карьера
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: архитектурное проектирование, инженерные системы, строительная индустрия
+- Кандидаты компаний: AutoCAD, Autodesk, Autodesk Revit, Revit
 
 - https://habr.com/ru/companies/ibs/articles/748936/
 - Отрасли: ETL, DWH
 - Компании: Хабр, IBS, Далее, MOEX, Хабр Карьера
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Data warehousing, Financial services, Stock market
+- Кандидаты компаний: Apache Airflow, Apache Kafka, Astra Linux, Microsoft Excel, Moscow Exchange, nnCron, PySide2, Qt, SAP Business Objects, Teleport Pro New Edition
 
 - https://habr.com/ru/companies/ibs/articles/753730/
 - Отрасли: Рекрутинг и HR
 - Компании: Хабр, IBS, 1С, Хабр Карьера
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: 1С-Битрикс, 1С:ЗУП, GitLab, GitLab CI, HeadHunter
 
 - https://habr.com/ru/companies/ibs/articles/top/
 - Отрасли: информационной безопасности, Data science, энергетики
 - Компании: IBS, Хабр, Яндекс, 1С
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: 3D printing, Agriculture, Education, Information security, IT, Manufacturing, Online education, Software testing, Translation services
+- Кандидаты компаний: ABBYY LS, Coursera, graduate.edu.ru, Habr, Obsidian, Университета Джонса Хопкинса, Центр подготовки космонавтов имени Гагарина
 
 - https://habr.com/ru/companies/icl_group/articles/top/
 - Отрасли: Enterprise, Рекрутинг и HR, ERP
 - Компании: ГК ICL, Хабр, Авито
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: ИКТ‑отрасль, ИТ, ИТ‑отрасль, логистика, Цифровые технологии, Электроника
+- Кандидаты компаний: .Net Core, .Net Framework, ARM, BE-M1000, e2k, GitHub, Kunpeng 920, Loongson, Loongson 3A5000, Loongson 3A6000, Loongson 3C5000, LS3A6000-HV, LS7A2000, Microsoft, mips, NIST, Байкал‑S, Байкал‑М, ИТМиВТ, Эльбрус, Эльбрус-1, Эльбрус-16С, Эльбрус-2, Эльбрус-3, Эльбрус-8СВ
 
 - https://habr.com/ru/companies/icl_services/articles/252173/
 - Отрасли: аутсорсинг, провайдер
 - Компании: Хабр, ГК ICL, провайдер
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: ИТ‑аутсорсинг, производство оргтехники, производство серверов
+- Кандидаты компаний: ICLServices
 
 - https://habr.com/ru/companies/icl_services/articles/253537/
 - Отрасли: виртуальные, Оптимизация, Программное обеспечение
 - Компании: Хабр, ГК ICL, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: корпоративный рынок, финансовые организации
+- Кандидаты компаний: Active Directory, App-V Client, App-V Sequencer, ICLServices, Microsoft App-V, Microsoft Application Virtualization (App-V), Microsoft Desktop Optimization Pack (MDOP), Microsoft Office, Microsoft Visual C++, Remote Desktop Services (RDS), Software Assurance
 
 - https://habr.com/ru/companies/icl_services/articles/255971/
 - Отрасли: финансового, информационной безопасности, аутсорсинг
 - Компании: Хабр, ГК ICL, Далее, серверы
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: дата-центр, ИТ-аутсорсинг, ИТ-инфраструктура, финансовый холдинг
+- Кандидаты компаний: Domino, IBM, IBM Lotus Domino/Notes, ICLServices, Lotus Domino/Notes, Notes, Sametime
 
 - https://habr.com/ru/companies/icl_services/articles/256977/
 - Отрасли: аналитики, Программное обеспечение
 - Компании: Хабр, ГК ICL, Gartner
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: корпоративный сектор
+- Кандидаты компаний: Apple, Composer, Iceberg, ICLServices, JAMF Software, Microsoft, Package Maker, XCode
 
 - https://habr.com/ru/companies/icl_services/articles/258935/
 - Отрасли: предлагает, аутсорсинг, Программное обеспечение
 - Компании: Хабр, ГК ICL, предлагает
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Data Center, ИТ-инфраструктура, производственная компания
+- Кандидаты компаний: Hyper‑V, ICL Services, Internet Explorer, MAP Toolkit, MAPT, Microsoft, Microsoft Assessment and Planning Toolkit, Microsoft Office, Oracle, PowerShell, SQL Server, SQL Server Management Studio, SSH, VMware, Windows, WMI
 
 - https://habr.com/ru/companies/icl_services/articles/261863/
 - Отрасли: не найдено
 - Компании: Хабр, ГК ICL
-- Кандидаты отраслей: не найдено
+- Кандидаты отраслей: интернет-магазин
 - Кандидаты компаний: не найдено
 
 - https://habr.com/ru/companies/icl_services/articles/262173/
 - Отрасли: предлагает, аутсорсинг
 - Компании: Хабр, ГК ICL, Далее, предлагает
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT, разработка программного обеспечения, ретейл
+- Кандидаты компаний: Coded Ui Test, Generic Test, ICLServices, Jenkins, Load Test, Microsoft, Microsoft Test Manager, MSTest Manager 2012, Ordered Test, Sonar, TFS, TFS 2012, Visual Studio 2012 Ultimate, Visual Studio 2013, Web Performance Test
 
 - https://habr.com/ru/companies/icl_services/articles/281068/
 - Отрасли: предлагает, хостинг, облачных сервисов, Enterprise, промышленные, IAAS
 - Компании: Хабр, ГК ICL, предлагает, серверы
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Enterprise сектор, IT‑инфраструктура, гибридные облака, облачные решения
+- Кандидаты компаний: Amazon, Ericsson, Ericsson Cloud Manager, Hyper-V, ICL Cloud, ICLServices, ManageIQ, Red Hat, Red Hat CloudForms, VMware, VMware Integrated OpenStack, VMware NSX-MH, Vmware vRealize, VMware vSphere
 
 - https://habr.com/ru/companies/icl_services/articles/282822/
 - Отрасли: IAAS, Программное обеспечение
 - Компании: Хабр, ГК ICL
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: ExpressRoute, Microsoft, Microsoft Azure, NetApp, NetApp Private Storage, SIOS, SIOS DataKeeper Cluster Edition
 
 - https://habr.com/ru/companies/icl_services/articles/289036/
 - Отрасли: аутсорсинг
 - Компании: Хабр, ГК ICL
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: ИТ, ИТ-аутсорсинг
+- Кандидаты компаний: Harvard Business Review, ITIL, Wikipedia
 
 - https://habr.com/ru/companies/icl_services/articles/289090/
 - Отрасли: не найдено
 - Компании: Хабр, ГК ICL
-- Кандидаты отраслей: не найдено
+- Кандидаты отраслей: ИТ
 - Кандидаты компаний: не найдено
 
 - https://habr.com/ru/companies/icl_services/articles/289462/
 - Отрасли: консалтинг, Дизайн и юзабилити
 - Компании: Хабр, ГК ICL
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: индустрия ИТ-услуг, ИТ-консалтинг, ИТ-услуги
+- Кандидаты компаний: Exchange, Facebook, GLYPHICONS PRO, Google, ICL, ICL Services, ITIL, Wikipedia
 
 - https://habr.com/ru/companies/icl_services/articles/290564/
 - Отрасли: аутсорсинг
