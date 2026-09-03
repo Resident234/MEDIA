@@ -43355,86 +43355,86 @@
 - https://habr.com/ru/companies/rostelecom/articles/526610/
 - Отрасли: облачные сервисы, embedded, Программное обеспечение
 - Компании: Хабр, Ростелеком, Яндекс, Хабр Карьера
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: B2B, B2C, видеонаблюдение, Интернет вещей, облачное видеонаблюдение
+- Кандидаты компаний: Ambarella, Dahua, Fullhan, Hikvision, Hisilicon, IT-кластера Ростелекома, Megatech, MStar, Uniview, Яндекс.Маркет
 
 - https://habr.com/ru/companies/rostelecom/articles/532784/
 - Отрасли: финансового
 - Компании: Хабр, Ростелеком, Далее, Хабр Карьера
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Управление проектами, Управление разработкой
+- Кандидаты компаний: Atlassian, deviniti.com, Jira, RTteam, ScriptRunner, Ростелеком ИТ
 
 - https://habr.com/ru/companies/rostelecom/articles/535696/
 - Отрасли: предлагает
 - Компании: Хабр, Ростелеком, предлагает, Хабр Карьера
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: управление данными
+- Кандидаты компаний: Aginity Workbench, DBeaver, GitHub, Greenplum, PostgreSQL
 
 - https://habr.com/ru/companies/rostelecom/articles/536976/
 - Отрасли: не найдено
 - Компании: Хабр, Ростелеком, Яндекс, Далее, Хабр Карьера
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: веб-аналитика, видеонаблюдение, государственные выборы, сетевые технологии
+- Кандидаты компаний: Google Analytics, Internet Explorer, Openstat, RTteam, избирательная комиссия субъектов РФ, Ростелеком ИТ, Спутник, ЦИК, Яндекс.Метрика
 
 - https://habr.com/ru/companies/rostelecom/articles/539694/
 - Отрасли: Enterprise, ERP, CRM, ETL, BI, предлагает, информационной безопасности
 - Компании: Хабр, Ростелеком, Программный Продукт, Далее, предлагает, Хабр Карьера
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT, Master Data Management, управление данными
+- Кандидаты компаний: MDS, Microsoft, Microsoft Master Data Services, Microsoft SQL Server, RTteam
 
 - https://habr.com/ru/companies/rostelecom/articles/541208/
 - Отрасли: Веб-разработка, Дизайн и юзабилити, Мобильные технологии
 - Компании: Хабр, Ростелеком, Альфа-Банка, Хабр Карьера
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: тестирование веб-сервисов
+- Кандидаты компаний: Allure, AShot, Chrome, Docker, Firefox, Go Grid Router, iPad, Maven, Pixel 2XL, rt.ru, RTteam, ScreenDiff, Selenide, Selenium, Selenoid GGR, TestNG, Ростелеком ИТ
 
 - https://habr.com/ru/companies/rostelecom/articles/542324/
 - Отрасли: BI, ETL, OLAP, аналитики
 - Компании: Хабр, Ростелеком, SENSE, Далее, Хабр Карьера
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: анализ данных, ИТ
+- Кандидаты компаний: Excel, Microsoft, Microsoft analysis services, Microsoft Power BI, Oracle, Oracle BI, Power BI, Qlik, Qlik Sense, RTteam, Форсайт
 
 - https://habr.com/ru/companies/rostelecom/articles/546702/
 - Отрасли: не найдено
 - Компании: Хабр, Ростелеком, Далее, Хабр Карьера
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Git, GitHub, Gitlab, gitlab.com, Microsoft, MSBUILD, Nuget, OpenCover, SonarQube, Visual Studio, xUnit
 
 - https://habr.com/ru/companies/rostelecom/articles/562858/
 - Отрасли: embedded, медицина
 - Компании: Хабр, Ростелеком, Хабр Карьера
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Импортозамещение, ИТ, процессоры
+- Кандидаты компаний: CLion, CMake, E2K, Elastic, GCC, gdb, GitHub, GNU/Linux, jemalloc, LCC, MCST, mpark-variant, Postgres, Reindexer, Tarantool, Байкал, ИТ-кластер Ростелекома, Эльбрус
 
 - https://habr.com/ru/companies/rostelecom/articles/564156/
 - Отрасли: не найдено
 - Компании: Хабр, Ростелеком, Далее, Хабр Карьера
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: ИТ
+- Кандидаты компаний: Bochs, CYFiVE, Docker, Habr, LXC, QEMU, SaltStack, Эльбрус
 
 - https://habr.com/ru/companies/rostelecom/articles/566624/
 - Отрасли: Аппаратное обеспечение, ETL, Рекрутинг и HR
 - Компании: Хабр, Ростелеком, Далее, РЖД, 1С, Хабр Карьера
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT, импортозамещение программного обеспечения
+- Кандидаты компаний: Apache Airflow, Azure Database for PostgreSQL, DataStage, Informatica, leopard.in.ua, Microsoft Azure, NiFi, Oracle, pgConf, PGTune, Postgres Pro, PostgresPro, PostgreSQL, RedOS, SymmetricDS, Talend, Tensor, Министерство связи
 
 - https://habr.com/ru/companies/rostelecom/articles/570098/
 - Отрасли: DIY
 - Компании: Хабр, Ростелеком, Далее, Хабр Карьера
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Debian, docker, docs.microsoft.com, github, Github Pages, Gitlab, gitlab.com, Hugo, Jekyll, Material for MkDocs, Microsoft, MkDocs, mkdocs-with-pdf, Python, Sphinx, squidfunk/mkdocs-material, Youtube
 
 - https://habr.com/ru/companies/rostelecom/articles/572640/
 - Отрасли: embedded
 - Компании: Хабр, Ростелеком, Далее, Хабр Карьера
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT
+- Кандидаты компаний: Flyway, Gradle, H2, Java, JOOQ, JPA, JPQL, JUnit5, Liquibase, MariaDB, Mockito, MSSQL, MySQL, OpenTable, Oracle, Postgres, PostgreSQL, Spring Data, Zonky
 
 - https://habr.com/ru/companies/rostelecom/articles/575970/
 - Отрасли: торговли
 - Компании: Хабр, Ростелеком, Далее, Хабр Карьера
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: разработка программного обеспечения, Управление проектами
+- Кандидаты компаний: википедия, Ростелеком ИТ, Формула 1
 
 - https://habr.com/ru/companies/rostelecom/articles/580884/
 - Отрасли: не найдено
@@ -43445,20 +43445,20 @@
 - https://habr.com/ru/companies/rostelecom/articles/581410/
 - Отрасли: образование
 - Компании: Хабр, Ростелеком, серверы, Хабр Карьера
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: инженерия, ИТ
+- Кандидаты компаний: Archi, Microsoft Excel, Microsoft Power Point, Microsoft Visio, Сириус
 
 - https://habr.com/ru/companies/rostelecom/articles/589311/
 - Отрасли: умный дом, DIY, предлагает, Информационная безопасность, провайдер, виртуальные
 - Компании: Хабр, Ростелеком, предлагает, серверы, Авито, провайдер, Яндекс, Хабр Карьера
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: DIY или Сделай сам
+- Кандидаты компаний: 4pda, Amazon, Amazon Fire, Domoticz, ESP Easy, ESP8266, Home Assistant, Homekit, Orange Pi, Orange Pi 4B, ReactJS, Sonoff, Sonoff 4Ch Pro, Sonoff Basic, Sonoff S26, Tasmota, Алиэкспресс
 
 - https://habr.com/ru/companies/rostelecom/articles/590791/
 - Отрасли: Enterprise, Информационная безопасность
 - Компании: Хабр, Bercut, Ростелеком, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-инфраструктура, биллинг, мобильная связь, фиксированная связь
+- Кандидаты компаний: Bercut ATOMS, Grafana, MIB Explorer, Oracle, Oracle Active Standby DB, Oracle ASM, Oracle Enterprise Manager, Oracle ORDS, Oracle SPARC, OracleDB Exporter, oracledb_exporter, Prometheus, Victoria Metrics, Zabbix
 
 - https://habr.com/ru/companies/rostelecom/articles/597619/
 - Отрасли: Информационная безопасность, кибербезопасности, Программное обеспечение
@@ -43469,38 +43469,38 @@
 - https://habr.com/ru/companies/rostelecom/articles/666766/
 - Отрасли: не найдено
 - Компании: Хабр, Ростелеком, Далее, Хабр Карьера
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-систем, Проектирование API, Тестирование веб-сервисов
+- Кандидаты компаний: Confluence, Postman
 
 - https://habr.com/ru/companies/rostelecom/articles/675554/
 - Отрасли: аналитики, ERP, Enterprise, ETL
 - Компании: Хабр, Ростелеком, Хабр Карьера
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: IBM, Oracle
 
 - https://habr.com/ru/companies/rostelecom/articles/677284/
 - Отрасли: DIY, BI, провайдер, аналитики
 - Компании: Хабр, Ростелеком, Далее, провайдер, ПИК, Хабр Карьера
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: видеонаблюдение, интернет-сервисы, связь, телевидение, телефония
+- Кандидаты компаний: LibreOffice, Microsoft, Wink
 
 - https://habr.com/ru/companies/rostelecom/articles/679276/
 - Отрасли: Веб-сервисы
 - Компании: Хабр, Ростелеком, Далее, Хабр Карьера
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT
+- Кандидаты компаний: WireMock, Ростелеком ИТ
 
 - https://habr.com/ru/companies/rostelecom/articles/679330/
 - Отрасли: не найдено
 - Компании: Хабр, Ростелеком, СИГМА, Хабр Карьера
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: высоконагруженные системы, тестирование IT-систем, тестирование веб-сервисов
+- Кандидаты компаний: WireMock
 
 - https://habr.com/ru/companies/rostelecom/articles/682160/
 - Отрасли: аналитики, embedded, Дизайн и юзабилити
 - Компании: Хабр, Ростелеком, Далее, KTS, VStack, Хабр Карьера
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: JetBrains, Ростелеком ИТ
 
 - https://habr.com/ru/companies/rostelecom/articles/684278/
 - Отрасли: не найдено
