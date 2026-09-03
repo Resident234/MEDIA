@@ -40955,152 +40955,152 @@
 - https://habr.com/ru/companies/pt/articles/748690/
 - Отрасли: Информационная безопасность, информационной безопасности
 - Компании: Хабр, Positive Technologies, Кошелёк
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Криптовалюты, Платежные системы
+- Кандидаты компаний: bitcoin, ChatGPT, Midjourney, PHDays, Positive Hack Days, ptsecurity
 
 - https://habr.com/ru/companies/pt/articles/top/page31/
 - Отрасли: IoT, СМИ, информационной безопасности, digital, финтех, кибербезопасности, финансового сектора
 - Компании: Positive Technologies, Хабр
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: аэрокосмическая отрасль, банковское обслуживание, дистанционное банковское обслуживание, ИТ-инфраструктура, корпоративные сети, мобильные сети, промышленные устройства, технологические сети операторов связи
+- Кандидаты компаний: APAC, EMEA, Google Project Zero, H3C, HP, Huawei Technologies 3Com Company Limited (H3C Technologies Co., Limited) (H3C),, InstantCMS, Last.Fm, LeakedSource, MySQL, Nagios, Node.js, PDUG Picnic, PHP, Pokémon Go, SCADA, SNMP, SS7, TrendMicro
 
 - https://habr.com/ru/companies/pushall/articles/top/
 - Отрасли: не найдено
 - Компании: PushAll, Хабр
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT
+- Кандидаты компаний: Android, Chrome, Email, Firefox, Google, Google+, Host-Tracker.com, iOS, IT-вопросник, MySQL, PHP, PushFeed, Redis, Safari, Telegram, VKontakte, Windows Phone
 
 - https://habr.com/ru/companies/pvs-studio/articles/top/
 - Отрасли: финансового сектора, Enterprise
 - Компании: PVS-Studio, Хабр, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: автомобильная промышленность, аэрокосмическая отрасль, игровая индустрия, мгновенные сообщения, разработка программного обеспечения, статический анализ кода
+- Кандидаты компаний: Boost, Chromium, Claude Opus, github, Google, markus, Microsoft, Miranda IM, NASA, ReactOS, Unreal Engine, VibeTensor, Windows, Yandex, Тойота
 
 - https://habr.com/ru/companies/qiwi/articles/272625/
 - Отрасли: не найдено
 - Компании: Хабр, QIWI
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Facebook, Facebook’s Parse, Github
 
 - https://habr.com/ru/companies/qiwi/articles/279349/
 - Отрасли: не найдено
 - Компании: QIWI, Хабр
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT
+- Кандидаты компаний: BEA Systems, IBM
 
 - https://habr.com/ru/companies/qiwi/articles/279355/
 - Отрасли: не найдено
 - Компании: QIWI, Хабр
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT
+- Кандидаты компаний: QIWI Scaladrom, Timepad
 
 - https://habr.com/ru/companies/qiwi/articles/281531/
 - Отрасли: не найдено
 - Компании: QIWI, Хабр, Rambler&Co
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT
+- Кандидаты компаний: HeadHunter, Tinkoff Bank, webinar.ru, Yandex, Инфотекс
 
 - https://habr.com/ru/companies/qiwi/articles/308982/
 - Отрасли: Веб-разработка, e-commerce, предлагает
 - Компании: Хабр, QIWI, Далее, Кошелёк, предлагает
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Интернет-магазины, Платежные системы, Терминалы оплаты
+- Кандидаты компаний: Webmoney
 
 - https://habr.com/ru/companies/qiwi/articles/309772/
 - Отрасли: Веб-разработка, процессинг
 - Компании: Хабр, QIWI
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Платежные системы, Платежный процессинг
+- Кандидаты компаний: Habr, Oracle
 
 - https://habr.com/ru/companies/qiwi/articles/313530/
 - Отрасли: Информационная безопасность, финтех, Программное обеспечение, аналитики, Мобильные технологии
 - Компании: QIWI, Хабр
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT
+- Кандидаты компаний: Bug Bounty, Burp Suite, HackerOne, ISEC, Microsoft, TeamCity
 
 - https://habr.com/ru/companies/qiwi/articles/318300/
 - Отрасли: не найдено
 - Компании: Хабр, QIWI, Бэклог
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT, финансовые услуги
+- Кандидаты компаний: Prerender.io, QIWI Копилка
 
 - https://habr.com/ru/companies/qiwi/articles/322544/
 - Отрасли: Информационная безопасность
 - Компании: Хабр, QIWI, Далее, ОК
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT, кибербезопасность
+- Кандидаты компаний: Duo, DuoSecurity, Facebook, GitHub, Habr, LWN.net, man7.org, OpenSSH, SlideShare, Yandex, YouTube, Zeronights
 
 - https://habr.com/ru/companies/qiwi/articles/324666/
 - Отрасли: Веб-разработка, e-commerce, аналитики, процессинг
 - Компании: Хабр, QIWI, быструю
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Платежные системы
+- Кандидаты компаний: AliExpress, bill.qiwi.com, ishop.qiwi.com
 
 - https://habr.com/ru/companies/qiwi/articles/335742/
 - Отрасли: финансового, Мобильные технологии
 - Компании: QIWI, Кошелёк, Хабр
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Платежные системы, Финансовые услуги
+- Кандидаты компаний: Citibank, developer.qiwi.com, Instagram, MasterCard, QIWI Кошелек, qiwi.com, VISA, Visa QIWI Кошелек, Wargaming, Вконтакте
 
 - https://habr.com/ru/companies/qiwi/articles/336450/
 - Отрасли: Big Data
 - Компании: QIWI, Хабр
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: FLACON, Prosfera, QIWI SERVER PARTY, Искра, таймпад
 
 - https://habr.com/ru/companies/qiwi/articles/337122/
 - Отрасли: Веб-разработка, BigData, Big Data
 - Компании: QIWI, Хабр
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: аналитика больших данных, машинное обучение, платёжные системы, финансовые услуги
+- Кандидаты компаний: Apache, Big Data, CoreOS, Docker, Google, Huawei, Kubernetes, Microsoft, Oracle, PostgreSQL, Prosfera, Red Hat, Spring
 
 - https://habr.com/ru/companies/qiwi/articles/337664/
 - Отрасли: Веб-разработка, Big Data
 - Компании: Хабр, QIWI
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Big Data, Cloud Castle, Docker, dockhero.io, Flacon, Heroku, Kubernetes, The Twelve Factors
 
 - https://habr.com/ru/companies/qiwi/articles/337764/
 - Отрасли: не найдено
 - Компании: QIWI, Хабр
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: FinTech, Платежные системы
+- Кандидаты компаний: QIWI API Contest, QIWI Кошелек, Singapore FinTech Festival, Форбс
 
 - https://habr.com/ru/companies/qiwi/articles/339144/
 - Отрасли: финтех, финансового
 - Компании: QIWI, Хабр, Skyeng, Кошелёк
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: геймификация, криптовалюты, мобильные приложения, социальные сети, управление финансами, финансовая грамотность
+- Кандидаты компаний: AD.ru, Apple, FinTech Festival 2017, Google Calendar, iOS, QIWI API, QIWI API Contest, QIWI Ltd., QIWI Кошелек, Singapore FinTech Festival, Siri, YouTube
 
 - https://habr.com/ru/companies/qiwi/articles/339454/
 - Отрасли: Big Data, NLP
 - Компании: Хабр, QIWI, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: коллаборативная фильтрация, Машинное обучение, нейронные сети, рекомендательные системы, финансовые услуги
+- Кандидаты компаний: CatBoost, libfm, lightfm, mail.ru, MovieLens, Netflix, PyTorch, XGBoost
 
 - https://habr.com/ru/companies/qiwi/articles/340840/
 - Отрасли: предлагает
 - Компании: Хабр, QIWI, предлагает
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: director, history, JavaScript, MobX, mobx-utils, React, ReactDOM, ReactJS, redux-saga
 
 - https://habr.com/ru/companies/qiwi/articles/343782/
 - Отрасли: ERP
 - Компании: Хабр, QIWI
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT, разработка программного обеспечения, финансовые услуги
+- Кандидаты компаний: OEBS, Oracle, Oracle E-Business Suite
 
 - https://habr.com/ru/companies/qiwi/articles/345556/
 - Отрасли: предлагает, Информационная безопасность
 - Компании: Хабр, QIWI, предлагает
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Высоконагруженные системы, Тестирование IT-систем, Тестирование веб-сервисов
+- Кандидаты компаний: Apache, Avro, Bender, Gatling, GenericObjectPool, Gradle, gRPC, Iago, JMeter, JMeter-Plugins.org, JUnit, Pinterest, TAsyncClientManager, TBinaryProtocol, Thrift, TMultiplexedProtocol, TNonblockingSocket, Twitter
 
 - https://habr.com/ru/companies/qiwi/articles/346438/
 - Отрасли: Дизайн и юзабилити, процессинг
 - Компании: Хабр, QIWI, Кошелёк
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: QIWI Кошелек
 
 - https://habr.com/ru/companies/qiwi/articles/348432/
 - Отрасли: Дизайн и юзабилити
