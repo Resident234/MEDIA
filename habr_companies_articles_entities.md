@@ -34656,150 +34656,150 @@
 - Отрасли: не найдено
 - Компании: не найдено
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Habr
 
 - https://habr.com/ru/companies/pixonic/articles/659261/
 - Отрасли: не найдено
 - Компании: не найдено
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Habr, Habr Career
 
 - https://habr.com/ru/companies/pixonic/articles/662812/
 - Отрасли: не найдено
 - Компании: Хабр, Pixonic, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Дизайн игр, Игры и игровые консоли, Разработка игр
+- Кандидаты компаний: Doom, Duke Nukem 3D, Respawn, Shadow Complex, Star Wars Jedi: Fallen Order, Unreal Engine
 
 - https://habr.com/ru/companies/pixonic/articles/663538/
 - Отрасли: не найдено
 - Компании: Хабр, Pixonic
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Графический дизайн, Дизайн игр, Разработка игр
+- Кандидаты компаний: Frostpunk, Serious Sam, War Robots
 
 - https://habr.com/ru/companies/pixonic/articles/665288/
 - Отрасли: не найдено
 - Компании: Хабр, Pixonic, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Дизайн игр, Игры и игровые консоли, Разработка игр
+- Кандидаты компаний: 4A Games, Frogwares, Full Sail, Ghostwire: Tokyo, Horizon: Forbidden West, Insomniac Games, Metro, Rockstar Games, Shadow of the Colossus, Tiny Tina’s Wonderlands, Tomb Raider
 
 - https://habr.com/ru/companies/pixonic/articles/666682/
 - Отрасли: предлагает
 - Компании: Хабр, Pixonic, предлагает, Далее, MARS, Звук
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: геймдизайн, игровая индустрия
+- Кандидаты компаний: Habr, Технотекст
 
 - https://habr.com/ru/companies/pixonic/articles/669858/
 - Отрасли: не найдено
 - Компании: Хабр, Pixonic, Space, Далее, Цифра
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Дизайн игр, Игры и игровые консоли, Разработка игр
+- Кандидаты компаний: BioShock Infinite, Halo Infinite, Mario, Naughty Dog, The Last of Us, The Last of Us 2, The Legend of Zelda, Uncharted, Unreal
 
 - https://habr.com/ru/companies/pixonic/articles/672446/
 - Отрасли: Дизайн и юзабилити
 - Компании: Хабр, Pixonic, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Дизайн игр, Игры и игровые консоли, Разработка игр
+- Кандидаты компаний: D&D, Diablo, Dungeons & Dragons, Habr, Machinations.io, StarCraft
 
 - https://habr.com/ru/companies/pixonic/articles/674388/
 - Отрасли: образование, Дизайн и юзабилити
 - Компании: Хабр, Pixonic, Далее, hh.ru
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Дизайн игр, Игры и игровые консоли, Разработка игр
+- Кандидаты компаний: Arkane Studios, Black Ops Cold War, Borderlands 3, Call of Duty, Clockwork Mansion, Counter-Strike, Cyberpunk 2077, DE_Dust2, Deus Ex, Dishonored, DOTA, Prey, Psycho Krieg, Red Dead Redemption, Silent Hill 2, Titanfall
 
 - https://habr.com/ru/companies/pixonic/articles/675166/
 - Отрасли: не найдено
 - Компании: Хабр, Pixonic, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Разработка игр, Управление персоналом, Управление проектами, Управление разработкой
+- Кандидаты компаний: Dino Squad, Figma, Talents in Games
 
 - https://habr.com/ru/companies/pixonic/articles/680222/
 - Отрасли: не найдено
 - Компании: Хабр, Pixonic
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Разработка игр
+- Кандидаты компаний: AdSense, Apple, Atlassian, Blue Sky, Gmail, Google, InCubator, LinkedIn
 
 - https://habr.com/ru/companies/pixonic/articles/683400/
 - Отрасли: торговли
 - Компании: Хабр, Pixonic
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Дизайн игр, Игры и игровые консоли, Разработка игр
+- Кандидаты компаний: Far Cry 5, Snowrunner
 
 - https://habr.com/ru/companies/pixonic/articles/685170/
 - Отрасли: медиа, предлагает
 - Компании: Хабр, Pixonic, Далее, предлагает, AMD, Звук
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Игры и игровые консоли, Компьютерное железо, Разработка игр
+- Кандидаты компаний: BattlEye, Cyberpunk, Doom Eternal, Easy Anti-Cheat, EGS, GamePass Ultimate, GFN, LG, MY.GAMES Cloud, Nintendo Switch, Oculus Quest 2, OnLive, PS Plus Extra, PS5, Steam, Steam Deck, Valve, War Robots, Xbox Series X
 
 - https://habr.com/ru/companies/pixonic/articles/692336/
 - Отрасли: Дизайн и юзабилити
 - Компании: Хабр, Pixonic, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: геймдев, Игры и игровые консоли, разработка игр
+- Кандидаты компаний: Figma, Google, MY.GAMES, MYGAMES, QA, Unity
 
 - https://habr.com/ru/companies/pixonic/articles/693540/
 - Отрасли: предлагает, Дизайн и юзабилити
 - Компании: Хабр, Pixonic, Базис, предлагает
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Дизайн игр, Игры и игровые консоли, Разработка игр, Управление разработкой
+- Кандидаты компаний: iPod
 
 - https://habr.com/ru/companies/pixonic/articles/695778/
 - Отрасли: Веб-разработка, Мобильные технологии
 - Компании: Хабр, Pixonic, Далее, Цифра
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Game as a Service, геймдев, игры и игровые консоли, разработка игр, тестирование игр
+- Кандидаты компаний: Apex Legends, Device Manager, War Robots
 
 - https://habr.com/ru/companies/pixonic/articles/697186/
 - Отрасли: не найдено
 - Компании: не найдено
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Habr, Habr Career
 
 - https://habr.com/ru/companies/pixonic/articles/699558/
 - Отрасли: масштабируемость, облачных сервисов
 - Компании: Хабр, Pixonic, Далее, серверы
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: игры и игровые консоли, разработка игр, разработка мобильных приложений, серверное администрирование
+- Кандидаты компаний: Netflix, Photon
 
 - https://habr.com/ru/companies/pixonic/articles/705030/
 - Отрасли: Мобильные технологии, медиа
 - Компании: Хабр, Pixonic
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: аниме, игровая индустрия, киноиндустрия, меха-аниме
+- Кандидаты компаний: Star Trek, War Robots, YouTube
 
 - https://habr.com/ru/companies/pixonic/articles/706806/
 - Отрасли: Оптимизация
 - Компании: Pixonic, Хабр
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: игры и игровые консоли
+- Кандидаты компаний: D&D, Jira, Jira Structure, Photon, Principal Game Designer, Robots Stories, Steam, Steam Deck, Structure, War Robots, YouTube
 
 - https://habr.com/ru/companies/pm/articles/top/
 - Отрасли: Информационная безопасность, Рекрутинг и HR, виртуальные
 - Компании: Перспективный мониторинг, Хабр, Доктор Веб, Space, серверы, STONE
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT, игровая индустрия, кибербезопасность, киберспорт, социальные сети, телеметрия
+- Кандидаты компаний: Avira, Avira Free Antivirus, Chrome, Dr.Web Security Space, GOG, HackerOne, Mi Router, Microsoft, Nintendo, Origin, Plarium, Plarium Play, Raid: Shadow legends, Steam, Super Mario Maker, Valve, Vikings: War Of Clans, ЦРУ
 
 - https://habr.com/ru/companies/postgrespro/articles/270827/
 - Отрасли: масштабируемость, Аппаратное обеспечение
 - Компании: Хабр, Postgres Professional
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: бизнес, партнерские отношения
+- Кандидаты компаний: EnterpriseDB, IBM, Lenovo
 
 - https://habr.com/ru/companies/postgrespro/articles/271989/
 - Отрасли: масштабируемость, образование, Оптимизация
 - Компании: Хабр, Postgres Professional, 1С
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT, Банковское дело, Облачные технологии
+- Кандидаты компаний: 2nd Quadrant, Alibaba, Avito, Bitnine, Citus Data, Gilev.Ru, Heroku, Oracle, Pivotal
 
 - https://habr.com/ru/companies/postgrespro/articles/272257/
 - Отрасли: не найдено
 - Компании: Хабр, Postgres Professional
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: PostgreSQL
 
 - https://habr.com/ru/companies/postgrespro/articles/273199/
 - Отрасли: предлагает, Machine Learning
 - Компании: Хабр, Postgres Professional, предлагает
-- Кандидаты отраслей: не найдено
+- Кандидаты отраслей: ИТ-сообщество
 - Кандидаты компаний: не найдено
 
 - https://habr.com/ru/companies/postgrespro/articles/273623/
