@@ -60155,152 +60155,152 @@
 - https://habr.com/ru/companies/vasexperts/articles/341916/
 - Отрасли: IAAS
 - Компании: Хабр, VAS Experts
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-стандарты, Сетевые технологии, Системное администрирование, Системы связи
+- Кандидаты компаний: Electronic Frontier Foundation, Flickr, IaaS, Linux, Mac OS X, Microsoft, MPLS, OpenSSL, RouterOS, SEIL, VPLS, VPN-сервисы, Wi-Fi, Wikimedia, Windows
 
 - https://habr.com/ru/companies/vasexperts/articles/341918/
 - Отрасли: медиа
 - Компании: Хабр, VAS Experts
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-инфраструктура, Законодательство в IT, Сетевые технологии, Системное администрирование
+- Кандидаты компаний: Apple, Facebook, Facebook Messenger, Freedom House, G20, Google Hangouts, IMO, LINE, LinkedIn, Qzone, Telegram, Twitter, VASExperts, Viber, Weibo, WhatsApp, YouTube, Европейский парламент, Роскомнадзор
 
 - https://habr.com/ru/companies/vasexperts/articles/344120/
 - Отрасли: предлагает
 - Компании: Хабр, VAS Experts, предлагает, Мегафон, билайн
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: рыболовный промысел
+- Кандидаты компаний: Adamantios, Aquila, AT&T, Facebook, GCI, General Communication, Google, iLighter, Johnragla, Loon, Pexels, Pixabay, TERRA, Wikimedia
 
 - https://habr.com/ru/companies/vasexperts/articles/344122/
 - Отрасли: провайдер
 - Компании: Хабр, VAS Experts, провайдер
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-инфраструктура, IT-стандарты, Законодательство в IT, информационные технологии, информационные услуги, радиовещание, Сетевые технологии, телевидение
+- Кандидаты компаний: Amazon, AOL Time Warner, AT&T, Backbone Campaign, Comcast, Comcast NBC Universal, Facebook, FCC, Federal Communications Commission, Flickr, Google, Reddit, Verizon, Wired
 
 - https://habr.com/ru/companies/vasexperts/articles/344124/
 - Отрасли: торговли
 - Компании: Хабр, VAS Experts, серверы
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-инфраструктура, интернет-провайдинг, международная торговля, мобильный интернет, технологическая экосистема, широкополосный доступ
+- Кандидаты компаний: Cable.co.uk, Do Speed Test, Flickr, Google, Internet Society, Netflix, VASExperts, Which?
 
 - https://habr.com/ru/companies/vasexperts/articles/344126/
 - Отрасли: Информационная безопасность
 - Компании: Хабр, VAS Experts, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-стандарты, Беспроводные технологии, индустриальные беспроводные сети, Сетевые технологии
+- Кандидаты компаний: Apple, Commercial National Security Algorithm (CNSA) Suite, Flickr, Hacker News, KRACK, Metropolitan Transportation Authority, Microsoft, Mинкомсвязи, Qualcomm, Wi-Fi Alliance, Комитет по национальным системам безопасности (CNSS)
 
 - https://habr.com/ru/companies/vasexperts/articles/344912/
 - Отрасли: провайдер
 - Компании: Хабр, VAS Experts, провайдер
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-инфраструктура, IT-стандарты, беспроводные сети, Законодательство в IT, интернет-услуги, сетевые технологии, широкополосная связь
+- Кандидаты компаний: Apple, AT&T, BitTorrent, Brand X, BusinessWeek, Comcast, FCC, Federal Communications Commission, Flickr, Google, Madison River Communications, Silicon Flatirons Symposium, Skype, Vonage, Wikimedia, Yahoo
 
 - https://habr.com/ru/companies/vasexperts/articles/344914/
 - Отрасли: Поисковые технологии, Мобильные технологии, IoT, СМИ, медиа
 - Компании: Хабр, VAS Experts, Далее, МТС, Samsung
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: автомобилестроение, беспроводные технологии, индустрия медиа и развлечений, ИТ-стандарты, мобильные сети, производство, системы связи, стандарты связи, энергетика
+- Кандидаты компаний: 3GPP, 5G Test Network Finland, 5GTNF, AT&T, EE, Ericsson, GCI, Huawei, KDDI, Mobile World Congress, Nokia, Sprint, Telstra, Verizon, Vodafone, WIVE, Министерство по делам культуры, СМИ и спорта Великобритании
 
 - https://habr.com/ru/companies/vasexperts/articles/347046/
 - Отрасли: телекоммуникации, предлагает, Мобильные технологии, провайдер
 - Компании: Хабр, VAS Experts, предлагает, провайдер
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT, кибербезопасность, связь
+- Кандидаты компаний: AT&T, Axios, CTIA, Height Securities, Huawei, Reuters, T-Mobile, USA Today, Verizon, Vox, ZTE, Федеральная комиссия по связи
 
 - https://habr.com/ru/companies/vasexperts/articles/347048/
 - Отрасли: Связь и телекоммуникации, медиа, СМИ
 - Компании: Хабр, VAS Experts
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT, сетевая инфраструктура, системы связи, стандарты связи
+- Кандидаты компаний: British Telecom, BT, City Fibre, EE, Emergency Services Network (ESN), Gigaclear, Hyperoptic, IHS Markit, O2, Ofcom, Openreach, TalkTalk, TfL, The Register, Three, Times, Virgin Media, Vodafon, Vodafone
 
 - https://habr.com/ru/companies/vasexperts/articles/347050/
 - Отрасли: провайдер, Веб-сервисы, Мобильные технологии
 - Компании: Хабр, VAS Experts, провайдер, Samsung
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT, телекоммуникационный рынок
+- Кандидаты компаний: AT&T, Comcast, FCC, Federal Communications Commission, Flickr, Free Press, Free Press Action Fund, Google, KPN, MetroPCS, NBC Universal, Netflix, Reddit, Skype, Time Warner Cable, Verizon, WhatsApp, Википедия
 
 - https://habr.com/ru/companies/vasexperts/articles/351364/
 - Отрасли: СМИ
 - Компании: Хабр, VAS Experts
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT, технологический сектор
+- Кандидаты компаний: Amazon, Arstechnica, AT&T, Democratic Party, Facebook, FCC, Federal Communications Commission, Free Press, Google, Public Knowledge, Republicans
 
 - https://habr.com/ru/companies/vasexperts/articles/351366/
 - Отрасли: не найдено
 - Компании: Хабр, VAS Experts
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT, телекоммуникационная отрасль
+- Кандидаты компаний: Amazon, AT&T, Burger King, DirecTV Now, Etsy, Facebook, FCC, Foursquare, Go90, Google, Kickstarter, Mozilla, Netflix, Shutterstock, Skype, Twitter, Uber, Verizon, WhatsApp
 
 - https://habr.com/ru/companies/vasexperts/articles/351368/
 - Отрасли: предлагает, медиа, СМИ
 - Компании: Хабр, VAS Experts, серверы, предлагает
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-стандарты, Законодательство в IT, Сетевые технологии, Системы связи
+- Кандидаты компаний: AT&T, Facebook, FCC, GCI, General Communication, Google, Google Global Cache, LANBilling, LinkedIn, Twitter, VASExperts, Verizon, Wi-Fi Alliance, Домашние компьютерные сети, СКАТ DPI
 
 - https://habr.com/ru/companies/vasexperts/articles/353516/
 - Отрасли: Информационная безопасность, кибербезопасности, информационной безопасности, телекома, энергетики
 - Компании: Хабр, VAS Experts, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: интернет-провайдеры, кибербезопасность, энергетика
+- Кандидаты компаний: Apple, Flickr, IEEE, iPhone 3GS, ISO
 
 - https://habr.com/ru/companies/vasexperts/articles/353984/
 - Отрасли: хостинг
 - Компании: VAS Experts, Хабр
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: DPI-рынок, Системы связи
+- Кандидаты компаний: Flickr, rawpixel.com, Zabbix, Роскомнадзор, СКАТ
 
 - https://habr.com/ru/companies/vasexperts/articles/354584/
 - Отрасли: Информационная безопасность, предлагает
 - Компании: VAS Experts, Хабр, предлагает
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Сетевые технологии, Системы связи
+- Кандидаты компаний: Best Picko, Flickr, LANBilling, Radius, Роскомнадзор, СКАТ, СКАТ DPI
 
 - https://habr.com/ru/companies/vasexperts/articles/354698/
 - Отрасли: Информационная безопасность, кибербезопасности, информационной безопасности
 - Компании: Хабр, VAS Experts
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: VPN-сервисы, Видеохостинги, Законодательство в IT, Интернет-кафе, Кибербезопасность, Мессенджеры, Поисковые системы, Системы связи, Социальные сети, Электронные доски объявлений
+- Кандидаты компаний: Amazon, App Store, Apple, Baidu, Blogspot, China Daily, China Sinnet Technology, Creative Commons, Dawn BBS, Facebook, Flickr, Google, Reuters, Shadowsocks, Skype, TOM Online, TOM-Skype, Twitter, Vimeo, Youtube, Департамент общественной безопасности, Международный центр по правам человека и демократическому развитию, Министерство общественной безопасности, Национальный исследовательский центр интеллектуальных вычислительных систем
 
 - https://habr.com/ru/companies/vasexperts/articles/358416/
 - Отрасли: Игры и развлечения, Программное обеспечение
 - Компании: Хабр, VAS Experts
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT, правозащитная деятельность, разработка компьютерных игр, разработка программного обеспечения
+- Кандидаты компаний: Amazon', Google, Netflix, The Entertainment Software Association (ESA), Electronic Arts, Konami, Capcom, Edison Trends, Backbone Campaign, Twitter, AT&T, Charter, Comcast, Cox, Daily Kos, Demand Progress, Etsy, Facebook, FCC, Federal Communications Commission, Foursquare, Free Press, Kickstarter, Mozilla, Postmates, Tumblr, Twilio, Vimeo
 
 - https://habr.com/ru/companies/vasexperts/articles/358932/
 - Отрасли: предлагает
 - Компании: Хабр, VAS Experts, Далее, предлагает
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: системы связи
+- Кандидаты компаний: AFRINIC, Alexa, APNIC, ARIN, AT&T, Cisco, Facebook, Flickr, Google, LACNIC, Microsoft, MIT, Nortel Networks, Quora, RIPE, RIPE NCC, The Register, Вымпелком
 
 - https://habr.com/ru/companies/vasexperts/articles/359352/
 - Отрасли: Мобильные технологии
 - Компании: Хабр, VAS Experts, Далее, Мегафон
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: связь
+- Кандидаты компаний: 3GPP, Apple, AT&T, Bloomberg, Cloudfare, Ericsson, FCC, Flickr, Forbes, Huawei, Mike Mozart, New Networks Institute, OpenSignal, Qualcomm, Swisscom, T-Mobile, ZTE, Минкомсвязи
 
 - https://habr.com/ru/companies/vasexperts/articles/412997/
 - Отрасли: Информационная безопасность, IoT
 - Компании: Хабр, VAS Experts, серверы, Hewlett-Packard
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Интернет вещей
+- Кандидаты компаний: Bitdefender, Bitdefender LABS, Chris Yiu, Flickr, Focus H&S, General Electric, Hajime, Hide and Seek, HNS, Kaspersky, Minecraft, Ministry of Defense, Mirai, Pascal, Trend Micro, Дневник будущего
 
 - https://habr.com/ru/companies/vasexperts/articles/414931/
 - Отрасли: не найдено
 - Компании: Хабр, VAS Experts, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-стандарты, Системное администрирование, Системы связи, Стандарты связи
+- Кандидаты компаний: Cisco, Comcast, Culture Vannin, Flickr, IETF, Internet Engineering Task Force, JonoTakesPhotos, JP Morgan Chase, Ryan H., The Register
 
 - https://habr.com/ru/companies/vasexperts/articles/414933/
 - Отрасли: IoT
 - Компании: Хабр, VAS Experts
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-стандарты, мониторинг корпоративных сетей, Сетевые технологии, Системы связи
+- Кандидаты компаний: AirTies, ARRIS, ASSIA, Broadcom, Carl Nenzén Lovén, Eero, Flickr, Google Wi-Fi, IEEE, Intel, LinkSys, NetBeez, NetS, Orbi, Petras Gagilas, Qualcomm, SKAT DPI ИС СОРМ BRAS DLP-систем, TrueMesh, Wi-Fi Alliance
 
 - https://habr.com/ru/companies/vasexperts/articles/414935/
 - Отрасли: предлагает, IoT
 - Компании: Хабр, VAS Experts, Далее, предлагает, Цифра, Яндекс
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-инфраструктура, IT-стандарты, интернет вещей, Исследования и прогнозы в IT, Сетевые технологии
+- Кандидаты компаний: APNIC, BRAS, CC, DLP-систем, Facebook, Flickr, Google, RIPE, RIPE Mailing Lists, Study Group 20, The Register, VASExperts, ИС СОРМ, Международный союз электросвязи, ООН, СКАТ DPI, Яндекс.Почта
 
 - https://habr.com/ru/companies/vasexperts/articles/414937/
 - Отрасли: Информационная безопасность
