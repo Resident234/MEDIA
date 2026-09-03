@@ -17705,152 +17705,152 @@
 - https://habr.com/ru/companies/homebank/articles/691692/
 - Отрасли: не найдено
 - Компании: Хабр, Хоум Банк, Далее, Хабр Карьера
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-индустрии, банковский
+- Кандидаты компаний: LearnPress, Miro, PowerBI, Sharepoint, WordPress, Zabbix, Банк Хоум Кредит, МИФ
 
 - https://habr.com/ru/companies/homebank/articles/696684/
 - Отрасли: финансы, процессинг, CRM
 - Компании: Хабр, Хоум Банк, Далее, Хабр Карьера
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-рынок, банковская отрасль, розничный банк, финансовые организации, финансовый рынок
+- Кандидаты компаний: Compass Рlus, Homer, IBM, TranzWare, Группа Хоум Кредит, Кворум, ЦБ
 
 - https://habr.com/ru/companies/homebank/articles/706882/
 - Отрасли: digital
 - Компании: Хабр, Хоум Банк, Бэклог, Далее, Хабр Карьера
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Хоум Кредит Банк
 
 - https://habr.com/ru/companies/homebank/articles/715316/
 - Отрасли: не найдено
 - Компании: Хабр, Хоум Банк, Далее, Хабр Карьера
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT
+- Кандидаты компаний: Банк Хоум Кредит, Соробан
 
 - https://habr.com/ru/companies/homebank/articles/719814/
 - Отрасли: бухгалтерия, банках, RPA
 - Компании: Хабр, Хоум Банк, Далее, Хабр Карьера
-- Кандидаты отраслей: не найдено
+- Кандидаты отраслей: банковская отрасль
 - Кандидаты компаний: не найдено
 
 - https://habr.com/ru/companies/homebank/articles/748074/
 - Отрасли: не найдено
 - Компании: Хабр, Хоум Банк, Далее, Хабр Карьера
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Серверное администрирование, Тестирование IT-систем, Управление проектами, Управление разработкой
+- Кандидаты компаний: Grafana, Jenkins, Jira, Prometheus, Redis, ReportPortal
 
 - https://habr.com/ru/companies/homebro/articles/737202/
 - Отрасли: ML, недвижимость
 - Компании: Хабр, HomeBro, Яндекс, Авито, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: облачные вычисления
+- Кандидаты компаний: Amazon Web Services, API Gateway, Arendom, Aurora PostgreSQL, AWS Lambda, CIAN, Github, Google, MobileNetV2, Pornhub, RDS, Telegram, Домофонд, Яндекс.Недвижимость, Яндекс.Погода
 
 - https://habr.com/ru/companies/homebro/articles/top/
 - Отрасли: недвижимости
 - Компании: HomeBro, Хабр, Яндекс
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Telegram, Яндекс.Погода
 
 - https://habr.com/ru/companies/hostkey/articles/top/
 - Отрасли: не найдено
 - Компании: HOSTKEY, Хабр, Samsung, Мегафон, Контур
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT‑инфраструктура, электроника, электротехника
+- Кандидаты компаний: Automatic1111, ChatGPT, Claude, Codex, HP, HP Common Slot, Intel, JCPenney, LEGO, LiteLLM, Microsoft, Mint, Nexenta, NexentaStor, OmniRoute, Qwen, Stable Diffusion, Ubuntu, VIA Technologies, VS Code, Zhaoxin, Апогеем, Векторе, Микрошей, Радио РК86, Сервериус, Стордата, Теркон
 
 - https://habr.com/ru/companies/hsespb/articles/top/
 - Отрасли: Программное обеспечение, Machine Learning, СМИ
 - Компании: Питерская Вышка, Хабр, Яндекс
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Facebook, Google, Google Summer of Code, IntelliJ IDEA, JetBrains, JetBrains Research, valgrind, Visual Studio, Zoom
 
 - https://habr.com/ru/companies/ibs/articles/268491/
 - Отрасли: Data science, Big Data, Machine Learning
 - Компании: Хабр, IBS, Далее, Хабр Карьера
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Data Analytics, Data Mining, Education
+- Кандидаты компаний: ABBYY LS, Coursera, Excel, Habr, Johns Hopkins University, RStudio
 
 - https://habr.com/ru/companies/ibs/articles/268893/
 - Отрасли: Data science, Big Data, Программное обеспечение, аналитики, Machine Learning
 - Компании: Хабр, IBS, Хабр Карьера
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Data Mining
+- Кандидаты компаний: Coursera, IBS Big Data, Johns Hopkins University, RStudio, Shiny, Shiny Server, shinyapps.io
 
 - https://habr.com/ru/companies/ibs/articles/269765/
 - Отрасли: Оптимизация, Аппаратное обеспечение
 - Компании: IBS, Хабр, Хабр Карьера
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: базы данных, виртуализация, конвергентная инфраструктура, системы хранения данных
+- Кандидаты компаний: Huawei, Huawei FusionCube
 
 - https://habr.com/ru/companies/ibs/articles/269799/
 - Отрасли: Аппаратное обеспечение, информационной безопасности, embedded
 - Компании: IBS, Хабр, Далее, Infotecs, AMD, Хабр Карьера
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-инфраструктура, добывающий сектор, корпоративный сектор
+- Кандидаты компаний: Microsoft, Odin, Odin Connection Broker, Odin Hardware Node Extention, Odin VDI, Odin VDI Client, Odin Virtual Automation, Parallels, Parallels Containers for Windows
 
 - https://habr.com/ru/companies/ibs/articles/302930/
 - Отрасли: СМИ, образование, Data science
 - Компании: Хабр, IBS, Хабр Карьера
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: высшее образование, интернет-рекрутмент, машиностроение, науки об обществе, рынок труда, экономика и управление, юриспруденция
+- Кандидаты компаний: frdocheck.obrnadzor.gov.ru, graduate.edu.ru, IBS Data Mining, Минобрнауки, Пенсионный фонд России, Рособрнадзор
 
 - https://habr.com/ru/companies/ibs/articles/322734/
 - Отрасли: виртуальные
 - Компании: Хабр, IBS, Хабр Карьера
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-инфраструктура, виртуализация, корпоративные приложения, корпоративные сети, корпоративные системы
+- Кандидаты компаний: Alien, Citrix, DRBD, GFS, IBS interlab, Ingram Micro, KVM/qemu, Odin, pacemaker, Parallels, redhat-cluster, Virtuozzo, VMware
 
 - https://habr.com/ru/companies/ibs/articles/332726/
 - Отрасли: СМИ, образование
 - Компании: Хабр, IBS, Далее, hh.ru, Хабр Карьера
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: рынок труда
+- Кандидаты компаний: graduate.edu.ru, IBS Data Mining, spo.graduate.edu.ru, Worldskills, Минобрнауки России
 
 - https://habr.com/ru/companies/ibs/articles/343640/
 - Отрасли: Big Data, Enterprise, BigData
 - Компании: Хабр, IBS, Arenadata, Хабр Карьера
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: аналитических СУБД, Базы данных, Хранение данных
+- Кандидаты компаний: Greenplum, HAWQ, Oracle, PGAdmin, Pivotal, PostgreSQL, PXF
 
 - https://habr.com/ru/companies/ibs/articles/346738/
 - Отрасли: маркетинге, Enterprise, виртуальные, Программное обеспечение
 - Компании: Хабр, IBS, DELL, Хабр Карьера
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: гиперконвергентные системы, ИТ-инфраструктура, программно-определяемые сети хранения, Сетевые технологии, центры обработки данных
+- Кандидаты компаний: Atlantis, BMC, BMC Patrol, Dell-EMC, Dell-EMC ScaleIO, HP, HP OpenView, IBM, IBM Tivoli, Maxta, Microsoft, Microsoft S2D, Nutanix, Parallels Storage, RedHat, RedHat CephFS, RedHat GlusterFS, Simplivity, Virtuozzo Storage, VMWare, VMWare vSAN, Р-Хранилище, Скала-Р
 
 - https://habr.com/ru/companies/ibs/articles/488972/
 - Отрасли: Аппаратное обеспечение, виртуальные
 - Компании: Хабр, IBS, Далее, RDP, ОК, Хабр Карьера
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-инфраструктура, Виртуализация, Системное администрирование
+- Кандидаты компаний: Etersoft, RX@Etersoft, СКАЛУ-Р, СКАЛУ-Р Виртуальное Рабочее Место
 
 - https://habr.com/ru/companies/ibs/articles/518102/
 - Отрасли: промышленные
 - Компании: Хабр, IBS, Positive Technologies, Space, Хабр Карьера
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: геоинформационные сервисы
+- Кандидаты компаний: ArcGIS, ArchiCAD, AutoCAD, Excel, Leaflet, Microsoft Visio Pro, Visio
 
 - https://habr.com/ru/companies/ibs/articles/528612/
 - Отрасли: Веб-разработка, предлагает
 - Компании: Хабр, IBS, предлагает, Далее, Хабр Карьера
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: аутсорсинг услуг тестирования, Тестирование IT-систем, Тестирование веб-сервисов, Тестирование мобильных приложений
+- Кандидаты компаний: Google Chrome, IBS AppLine, IBS AppLine Innovation, IntelliJ IDEA, SAP, TAdviser
 
 - https://habr.com/ru/companies/ibs/articles/538524/
 - Отрасли: RPA, ритейла, ERP, Оптимизация, OCR
 - Компании: Хабр, IBS, Directum, Далее, Бэклог, Хабр Карьера
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: банковского сектора, ритейл
+- Кандидаты компаний: ABBYY FlexiCapture, Confluence, MS SQL, ORACLE, UiPath
 
 - https://habr.com/ru/companies/ibs/articles/703124/
 - Отрасли: Big Data, Дизайн и юзабилити, BigData
 - Компании: IBS, Хабр, Далее, Хабр Карьера
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Data Engineering, Базы данных
+- Кандидаты компаний: ClickHouse, Elasticsearch, Kafka
 
 - https://habr.com/ru/companies/ibs/articles/704766/
 - Отрасли: Оптимизация, транспортные, ERP
 - Компании: Хабр, IBS, OZON, Хабр Карьера
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: SAP, Детский мир, Комус, Лента, Марс СНГ, ОМПК, СберЛогистика, Утконос, Ферреро, Хохланд, Эльдорадо, Энтер
 
 - https://habr.com/ru/companies/ibs/articles/712162/
 - Отрасли: Аппаратное обеспечение, Программное обеспечение, Дизайн и юзабилити, аналитики, Мобильные технологии
