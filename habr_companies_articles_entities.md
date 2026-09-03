@@ -32405,152 +32405,152 @@
 - https://habr.com/ru/companies/odnoklassniki/articles/588442/
 - Отрасли: Мобильные технологии, Оптимизация, fashion, ML, Data science
 - Компании: Хабр, ОК, VK, Далее, Хабр Карьера
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: машинное обучение, мобильные приложения, рекомендательные системы
+- Кандидаты компаний: Google Research, Habr, RecSys, Одноклассники
 
 - https://habr.com/ru/companies/odnoklassniki/articles/655681/
 - Отрасли: Оптимизация, ML
 - Компании: Хабр, ОК, VK, Далее, Хабр Карьера
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: multi-feedback recommendation, маркетплейс, машинное обучение, рекомендательные системы
+- Кандидаты компаний: Amazon, Google, MovieLens, NeurIPS, Nord786, Pulse, WeChat, YouTube, ВКонтакте
 
 - https://habr.com/ru/companies/odnoklassniki/articles/656763/
 - Отрасли: ML
 - Компании: Хабр, ОК, Звук, Далее, Хабр Карьера
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: машинное обучение
+- Кандидаты компаний: Habr, Marusya, NeurIPS
 
 - https://habr.com/ru/companies/odnoklassniki/articles/675768/
 - Отрасли: Оптимизация, ML, OCR, процессинг
 - Компании: Хабр, ОК, Далее, серверы, Хабр Карьера
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: социальная сеть
+- Кандидаты компаний: BentoML, Cortex, TF Serve, TorchServe, Triton, Одноклассники
 
 - https://habr.com/ru/companies/odnoklassniki/articles/705520/
 - Отрасли: ML, видеосервис, предлагает
 - Компании: Хабр, ОК, предлагает, Далее, Space, Хабр Карьера
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Facebook, XLM-R, ВК, Одноклассники
 
 - https://habr.com/ru/companies/ods/articles/top/
 - Отрасли: Data science, недвижимость, ML, Machine Learning
 - Компании: Open Data Science, Хабр, Далее
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Adroll, Alphabet, Angelina Braille Reader, Bing, ClosedCircles, DSTL, Google, Google DeepMind, H20.ai, Kaggle, Mail.Ru Group, Microsoft, Nature, ODS.ai, OpenAI, StackOverflow, Yandex
 
 - https://habr.com/ru/companies/okko/articles/417329/
 - Отрасли: аналитики, предлагает, BI
 - Компании: Хабр, Okko, Space, IDX, предлагает
-- Кандидаты отраслей: не найдено
+- Кандидаты отраслей: кинопрокат, онлайн-кинотеатры
 - Кандидаты компаний: не найдено
 
 - https://habr.com/ru/companies/okko/articles/439180/
 - Отрасли: Big Data, Machine Learning
 - Компании: Хабр, Okko, Арендовать, Amediateka, ПИК
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: кино, онлайн-кинотеатры
+- Кандидаты компаний: ABC, START
 
 - https://habr.com/ru/companies/okko/articles/443276/
 - Отрасли: аналитики, Оптимизация
 - Компании: Хабр, Okko, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Аналитика, Базы данных
+- Кандидаты компаний: Excel, Libre, MariaDB, MySQL, Numbers, PostgreSQL
 
 - https://habr.com/ru/companies/okko/articles/454224/
 - Отрасли: аналитики, BI, Data science
 - Компании: Okko, Хабр, Яндекс, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: кино, онлайн-кинотеатры, социальные сети
+- Кандидаты компаний: Netflix, Rekko, Yota Play
 
 - https://habr.com/ru/companies/okko/articles/466099/
 - Отрасли: digital, виртуальные
 - Компании: Хабр, Okko, Далее, Яндекс
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Тестирование IT-систем, Тестирование веб-сервисов, Услуги потокового вещания по запросу (VOD)
+- Кандидаты компаний: Apple FairPlay, CENC (multi-DRM), Google Chrome, Google Widevine, Microsoft PlayReady, Mozilla Firefox, Opera, Яндекс.Браузер
 
 - https://habr.com/ru/companies/okko/articles/475098/
 - Отрасли: аналитики
 - Компании: Хабр, Okko, Samsung
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: онлайн-кинотеатр, спорт
+- Кандидаты компаний: Android, Apple, AppleTV, cas_pername, Habr, iPad, iPhone, LG, Microsoft, Panasonic, PS3, PS4, SMART TV, Sony, Web-браузеры, Xbox, Xiaomi
 
 - https://habr.com/ru/companies/okko/articles/480228/
 - Отрасли: СМИ
 - Компании: Okko, Хабр
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT, онлайн-сервис
+- Кандидаты компаний: NGINX, Rambler Group
 
 - https://habr.com/ru/companies/okko/articles/716042/
 - Отрасли: не найдено
 - Компании: Хабр, Okko, Далее
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: ESLint
 
 - https://habr.com/ru/companies/okko/articles/721132/
 - Отрасли: не найдено
 - Компании: Хабр, Okko
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Habr, RabbitMQ
 
 - https://habr.com/ru/companies/okko/articles/731570/
 - Отрасли: аналитики
 - Компании: Хабр, Okko
-- Кандидаты отраслей: не найдено
+- Кандидаты отраслей: Тестирование IT-систем, Тестирование веб-сервисов, Тестирование мобильных приложений
 - Кандидаты компаний: не найдено
 
 - https://habr.com/ru/companies/okko/articles/736468/
 - Отрасли: ML, провайдер, ETL
 - Компании: Хабр, Okko, провайдер
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Data Engineering, обработка данных
+- Кандидаты компаний: Airflow, Apache, Docker, Dockerhub, GitHub, Helm, Kubernetes, Lens, PostgreSQL, SberCloud
 
 - https://habr.com/ru/companies/oleg-bunin/articles/414583/
 - Отрасли: Веб-разработка
 - Компании: Хабр, Конференции Олега Бунина (Онтико), Авито, серверы
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT, программирование
+- Кандидаты компаний: Avito, AvitoTech, Backend Conf, Concourse, GitHub, Heisenbug, Highload Siberia, PyCon Russia 2018, Root Conf, TeamCity, Tech RaDarts, YouTube, Онтико, РИТ++
 
 - https://habr.com/ru/companies/oleg-bunin/articles/418235/
 - Отрасли: не найдено
 - Компании: Хабр, Конференции Олега Бунина (Онтико), Авито, Далее, ОК
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT, базы данных, бизнес-транзакции, микросервисная архитектура
+- Кандидаты компаний: Avito, AvitoTech, Highload++ Siberia, Oracle, PostgreSQL, Skype, Онтико
 
 - https://habr.com/ru/companies/oleg-bunin/articles/421687/
 - Отрасли: fashion, ERP, Рекрутинг и HR, аналитики, BI, предлагает
 - Компании: Хабр, Lamoda Tech, Конференции Олега Бунина (Онтико), 1С, ОК, предлагает
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Axapta, Tech.Lamoda, Ламода
 
 - https://habr.com/ru/companies/oleg-bunin/articles/429988/
 - Отрасли: Веб-разработка, Оптимизация
 - Компании: Авито, Хабр, Конференции Олега Бунина (Онтико)
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: высоконагруженные системы, интернет-разработка
+- Кандидаты компаний: AvitoTech, DevOps Conf, Docker, Github, HighLoad++, Kubernetes, minikube, Neo4J, Sphinx, Онтико
 
 - https://habr.com/ru/companies/oleg-bunin/articles/438740/
 - Отрасли: Информационная безопасность, информационной безопасности, PKI
 - Компании: Хабр, Конференции Олега Бунина (Онтико), Авито, QIWI, серверы, OWASP
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: DevOps, Высоконагруженные системы
+- Кандидаты компаний: Avito, AvitoTech, Consul, Docker, GeoTrust, Habr, HashiCorp, HashiCorp Vault, Hiera, Kubernetes, Puppet, Router backend, TeamCity, Yandex money, Онтико
 
 - https://habr.com/ru/companies/oleg-bunin/articles/445424/
 - Отрасли: Веб-разработка, e-commerce, Enterprise, ML
 - Компании: Хабр, Lamoda Tech, Конференции Олега Бунина (Онтико), серверы, N+1, ПИК, ОК
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-инфраструктура
+- Кандидаты компаний: ActiveMQ, Apache, BOB, Confluent, Fiscalization Service, Heisenbug, HighLoad++, Lamoda, nakadi, Ontico, Payment, RabbitMQ, Refund Tool, Swagger, Zalando
 
 - https://habr.com/ru/companies/oleg-bunin/articles/447608/
 - Отрасли: Дизайн и юзабилити, масштабируемость
 - Компании: Хабр, Конференции Олега Бунина (Онтико), Авито, серверы, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-инфраструктура, Разработка мобильных приложений
+- Кандидаты компаний: Avito, AvitoTech, Habr, Jira, Онтико
 
 - https://habr.com/ru/companies/oleg-bunin/articles/449424/
 - Отрасли: аналитики, Мобильные технологии, Программное обеспечение
 - Компании: Хабр, Т-Банк, Конференции Олега Бунина (Онтико), быструю
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT, тестирование IT-систем, управление проектами, управление разработкой
+- Кандидаты компаний: Онтико
 
 - https://habr.com/ru/companies/oleg-bunin/articles/461935/
 - Отрасли: не найдено
