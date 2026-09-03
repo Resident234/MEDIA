@@ -22805,152 +22805,152 @@
 - https://habr.com/ru/companies/kaspersky/articles/430676/
 - Отрасли: не найдено
 - Компании: Хабр, «Лаборатория Касперского», МТС, Хабр Карьера
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IP‑телефония, интернет, модемная связь, Сетевые технологии, телефонная связь
+- Кандидаты компаний: Cisco, Cisco SPA112, IBM, Linksys, Linksys PAP2T, Lucent, Lucent WinModem, Maximus, Telegram, ThinkPad, USR, USR Courier, USR Sportster, Zyxel, Zyxel U1496E+
 
 - https://habr.com/ru/companies/kaspersky/articles/431130/
 - Отрасли: Информационная безопасность, информационной безопасности
 - Компании: Хабр, «Лаборатория Касперского», Цифра, Хабр Карьера
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Интернет-магазины, Онлайн-банкинг, Онлайн-платформы, Платежные системы, Ритейл, Черный рынок
+- Кандидаты компаний: Alibaba, AliExpress, Amazon, AvitoPay.apk, eBay, Google Cloud Messaging, Group-IB, MageCart, Magento, PayPal, Ticketmaster
 
 - https://habr.com/ru/companies/kaspersky/articles/431946/
 - Отрасли: Информационная безопасность
 - Компании: DELL, Хабр, «Лаборатория Касперского», Цифра, Далее, Хабр Карьера
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: гостиницы
+- Кандидаты компаний: Marriott, Netflix, Spotify, Starwood Hotels, Steam, Verizon, Yahoo
 
 - https://habr.com/ru/companies/kaspersky/articles/432236/
 - Отрасли: облачные сервисы
 - Компании: Хабр, «Лаборатория Касперского», Samsung, Хабр Карьера
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: 4ПДА, AlphaSmart, AlphaSmart Dana, AlphaSmart Dana Wireless, Cyrhack, Dana, Motorola, АльфаВорд, Альфасмарт, Ибей, КирХак, Макцентр, Палм Десктоп, Палм ОС, Папирус, Парагон, Телеграмме
 
 - https://habr.com/ru/companies/kaspersky/articles/432714/
 - Отрасли: Информационная безопасность, IoT, информационной безопасности, финансового сектора
 - Компании: Хабр, «Лаборатория Касперского», Хабр Карьера
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Интернет вещей, криптовалют, мобильные устройства, сетевые устройства, сотовая связь, финансовый сектор, центры обработки данных
+- Кандидаты компаний: Apple, Device Enrollment Program, Facebook, Mikrotik, Raspberry Pi
 
 - https://habr.com/ru/companies/kaspersky/articles/433446/
 - Отрасли: Информационная безопасность
 - Компании: Хабр, «Лаборатория Касперского», Хабр Карьера
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: социальную сеть
+- Кандидаты компаний: BlackHat, Facebook, Google Project Zero, Google+, Logitech, Logitech Options, Wordfence, WordPress, WordPress 4.9.9, WordPress 5.0
 
 - https://habr.com/ru/companies/kaspersky/articles/433738/
 - Отрасли: Программное обеспечение
 - Компании: Хабр, «Лаборатория Касперского», Самолет, Звук, Хабр Карьера
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: видеоигры, компьютерная техника, компьютерные игры, музыкальный формат, онлайн‑магазины
+- Кандидаты компаний: Amazon, Apple, Broderbund Software, DosBox, EA, Electronic Arts, GitHub, GOG.com, Habr, IBM, IBM PC, IBM PS/2, id Software, Maxis, Nintendo, Sony, SoundBlaster 16, Telegram
 
 - https://habr.com/ru/companies/kaspersky/articles/434188/
 - Отрасли: Информационная безопасность, информационной безопасности, IoT
 - Компании: Хабр, «Лаборатория Касперского», серверы, Хабр Карьера
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Amazon, CWI Institute, D-Link, Google, Intel, Mikrotik, TP-Link, Агентство по Национальной Безопасности
 
 - https://habr.com/ru/companies/kaspersky/articles/435044/
 - Отрасли: digital, СМИ
 - Компании: Хабр, «Лаборатория Касперского», Звук, Хабр Карьера
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: компьютерная техника, музыкальные носители, оптические носители информации, электроника
+- Кандидаты компаний: Kenwood, Kenwood DMF-9020, minidisc.org, Philips, Sony, Sony MZ-1, Telegram
 
 - https://habr.com/ru/companies/kaspersky/articles/435358/
 - Отрасли: СМИ, предлагает
 - Компании: Хабр, «Лаборатория Касперского», Звук, ОК, предлагает, Далее, Хабр Карьера
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: интернет, музыкальная индустрия
+- Кандидаты компаний: Apple, BeatJam, IM-DR410H, iPod, iTunes, MZ-N1, MZ-R55, MZ-R900, Philips, Sharp, SonicStage, Sony, ThinkPad T43
 
 - https://habr.com/ru/companies/kaspersky/articles/435696/
 - Отрасли: СМИ, Программное обеспечение
 - Компании: Хабр, «Лаборатория Касперского», Samsung, серверы, Хабр Карьера
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Computer hardware, Consumer Electronics
+- Кандидаты компаний: 3DNews, Adobe, Apple, ComputerDirect, Creative, IBM, Intel, Iomega, Lamport, Matrox, Microsoft, Sony, ThinkPad, Toshiba, USR, Zyxel, Коммерсант, Комтек, СофтЮнион, Формоза-Центр
 
 - https://habr.com/ru/companies/kaspersky/articles/436080/
 - Отрасли: Информационная безопасность, Мобильные технологии
 - Компании: Хабр, «Лаборатория Касперского», Хабр Карьера
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Кредитные агентства, Метеорологические сервисы, Рекламные сети, Социальные сети, Телекоммуникационные услуги, Цифровая экономика
+- Кандидаты компаний: Apple, AT&T, Facebook, Google, IBM, iPhone, LineageOS, MacRumors.com, Motherboard, Privacy International, Reddit, Shazam, Sprint, T-Mobile, The Weather Channel, Yelp
 
 - https://habr.com/ru/companies/kaspersky/articles/436382/
 - Отрасли: не найдено
 - Компании: Хабр, «Лаборатория Касперского», Samsung, Хабр Карьера
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: ноутбуки, портативные компьютеры
+- Кандидаты компаний: Apple, GMail, IBM, Intel, Lenovo, Macbook Air, Microsoft, Microsoft Office 2010, ThinkPad, ThinkVantage System Update, TPFanControl, Windows 7, Windows Vista, Windows XP, YouTube
 
 - https://habr.com/ru/companies/kaspersky/articles/436982/
 - Отрасли: Информационная безопасность
 - Компании: Хабр, «Лаборатория Касперского», Хабр Карьера
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Aliexpress, eBay, facebook, HaveIBeenPwned, Kaspersky_Lab, Linkedin, MySpace, PayPal, Spotify, Tumblr, Twitter, weather channel, Yahoo, Вконтакте
 
 - https://habr.com/ru/companies/kaspersky/articles/437868/
 - Отрасли: Информационная безопасность, IoT
 - Компании: Хабр, «Лаборатория Касперского», Samsung, ОК, Хабр Карьера
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: 7-zip, 7zip, Chromecast, Google, Google Home, GreyNoise, Motherboard, Nest, PewDiePie, Shodan.io, Stackexchange, TheHackerGiraffe, Weev
 
 - https://habr.com/ru/companies/kaspersky/articles/438868/
 - Отрасли: Информационная безопасность, СМИ
 - Компании: Хабр, «Лаборатория Касперского», Хабр Карьера
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Apple, Apple Support, Facebook, Fortnite, Fox News, Google, Google Project Zero, Reddit, Twitter
 
 - https://habr.com/ru/companies/kaspersky/articles/439880/
 - Отрасли: Информационная безопасность, IoT, предлагает
 - Компании: Хабр, «Лаборатория Касперского», предлагает, Хабр Карьера
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Amazon, Belkin, BroadLink, e-Control, EZVIZ, Kasa Smart, LIFX, Nest, The Register, TP-Link, WeMo, Мичиганский университет, Федеральный университет Пернамбуку
 
 - https://habr.com/ru/companies/kaspersky/articles/440252/
 - Отрасли: финансового, Мобильные технологии
 - Компании: Хабр, «Лаборатория Касперского», Samsung, быструю, DELL, Хабр Карьера
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Компьютерное железо, краудфандинг, криптовалюты, мобильные сети, социальные сети
+- Кандидаты компаний: Aliexpress, Android, App Store, Apple, Asus, eBay, Facebook, GMail, Google, Intel, IXBT.com, Kickstarter, Microsoft, Minecraft, MySpace, Nvidia, Seasonic, Steam, Twitter, Uber, XFX, YouTube, Вконтакте
 
 - https://habr.com/ru/companies/kaspersky/articles/440918/
 - Отрасли: Информационная безопасность, предлагает
 - Компании: Хабр, «Лаборатория Касперского», предлагает, Хабр Карьера
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Социальные сети, Электронная почта
+- Кандидаты компаний: Bleeping Computer, Google Mail, Kaspersky_Lab, ProtonMail, Twitter, VFEMail, VFEmail.net, Вконтакте
 
 - https://habr.com/ru/companies/kaspersky/articles/441718/
 - Отрасли: Информационная безопасность, Программное обеспечение
 - Компании: Хабр, «Лаборатория Касперского», Хабр Карьера
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: 7-Zip, Check Point Software, GMail, Google, Google Project Zero, tar, WinACE, WinAFL, WinRAR, WinZip, ZDNet, Zerodium
 
 - https://habr.com/ru/companies/kaspersky/articles/442084/
 - Отрасли: digital, предлагает
 - Компании: Хабр, «Лаборатория Касперского», предлагает, Хабр Карьера
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: карты памяти, компьютерное оборудование, пленочная фотография, смартфоны, фототехника, цифровая фотография
+- Кандидаты компаний: Canon, Canon 5D, Canon EOS D30, Canon EOS D6000, Casio, Casio QV-7000SX, Habr, Kodak, Nikon, Nikon D90, PC Magazine, Sony, Sony A7R II, Sony Digital Mavica, Sony Digital Mavica MVC-FD71, Sony RX100, Telegram, Зенит, Фэд-5В
 
 - https://habr.com/ru/companies/kaspersky/articles/442568/
 - Отрасли: Информационная безопасность, информационной безопасности
 - Компании: Хабр, «Лаборатория Касперского», Хабр Карьера
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Виртуальная реальность, Игры, Потоковое вещание, Серверная инфраструктура
+- Кандидаты компаний: CUDA, GeForce, NVIDIA
 
 - https://habr.com/ru/companies/kaspersky/articles/443330/
 - Отрасли: Информационная безопасность, кибербезопасности, предлагает, Программное обеспечение
 - Компании: Хабр, «Лаборатория Касперского», предлагает, Хабр Карьера
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Кибербезопасность, медицинские устройства, социальные сети, цифровые сервисы
+- Кандидаты компаний: Check Point Software, Google, RSA
 
 - https://habr.com/ru/companies/kaspersky/articles/443772/
 - Отрасли: не найдено
 - Компании: Хабр, «Лаборатория Касперского», Хабр Карьера
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: 3DMark 2001SE, ATI Mobility Radeon 7500, Centrino, Cisco, Geekbench 4, IBM, Intel, Intel Wireless 2100, mps-youtube, NVIDIA GeForce 2MX, OS/2, PC Magazine, Pentium 4, Pentium II, Pentium III, Pentium IV, Pentium M, Raspberry Pi, Raspberry Pi Desktop, Telegram, ThinkPad, ThinkPad 600, ThinkPad T22, ThinkPad T40, ThinkPad T43, ThinkPad X301, Ubuntu, Ubuntu 18.10, Ubuntu Server, Windows 10, Windows 98, Windows NT
 
 - https://habr.com/ru/companies/kaspersky/articles/444268/
 - Отрасли: Информационная безопасность
 - Компании: Хабр, «Лаборатория Касперского», FUJITSU, Хабр Карьера
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Bastille Networks, Fujitsu LX901, Google Project Zero, Logitech, Logitech Options, Logitech Unifying, Microsoft, NVIDIA, SySS
 
 - https://habr.com/ru/companies/kaspersky/articles/445298/
 - Отрасли: Информационная безопасность
