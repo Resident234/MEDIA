@@ -45305,152 +45305,152 @@
 - https://habr.com/ru/companies/ru_mts/articles/747024/
 - Отрасли: Natural Language Processing
 - Компании: Хабр, MWS AI, МТС, Яндекс
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: машинное обучение
+- Кандидаты компаний: Crowd-kit, Яндекс.Толока
 
 - https://habr.com/ru/companies/ru_mts/articles/754798/
 - Отрасли: ML
 - Компании: Хабр, МТС, MWS AI, ИТМО, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Биология, Искусственный интеллект, Компьютерное зрение, Машинное обучение, Обработка звука, Промышленная безопасность
+- Кандидаты компаний: AI Journey, AI4Biology, AI4Talk, Evraz, FusionBrain, Google, Kaggle, MTS AI, NASA
 
 - https://habr.com/ru/companies/ru_mts/articles/759210/
 - Отрасли: Natural Language Processing, NLP
 - Компании: Хабр, МТС, MWS AI, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: искусственный интеллект, машинное обучение
+- Кандидаты компаний: ChatGPT, GigaChat, HumanEval, IlyaGusev/ru_turbo_saiga, LLaMa, MMLU, MTS AI, OpenAI, ruT5-base, squad, Yandex, YandexGPT
 
 - https://habr.com/ru/companies/ru_mts/articles/759266/
 - Отрасли: NLP, Data science, Natural Language Processing
 - Компании: Хабр, Open Data Science, MWS AI, МТС
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: artificial intelligence, computational linguistics, information retrieval, Speech and Language Processing
+- Кандидаты компаний: BigARTM, Cambridge University Press, Ludwig-Maximilians-Universität München, MIT Press, MTS, MTS AI, RuTez, Stanford, ВШЭ
 
 - https://habr.com/ru/companies/ru_mts/articles/761116/
 - Отрасли: Natural Language Processing, NLP
 - Компании: Хабр, MWS AI, МТС, 1С, IDX
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: ai-forever, allenai, BERT, Habr, longformer, longformer-large-4096, LongformerConfig, LongformerForMaskedLM, MTS AI, RoBERTa, RobertaForMaskedLM, RobertaTokenizerFast, ru-longformer-tiny-16384, rubert-tiny2, ruRoberta, ruRoberta-large, Transformers
 
 - https://habr.com/ru/companies/ru_mts/articles/top/
 - Отрасли: диджитал, DIY
 - Компании: МТС, Хабр, серверы, Space, DSP
-- Кандидаты отраслей: не найдено
+- Кандидаты отраслей: IT, биология, история компьютерных игр, история операционных систем, кибернетика, космонавтика, лингвистика, математика, операционные системы, технологии полупроводников, физика, филология, химия, цифровая археология, языки программирования
 - Кандидаты компаний: не найдено
 
 - https://habr.com/ru/companies/ruvds/articles/506374/
 - Отрасли: не найдено
 - Компании: Хабр, RUVDS.com, ЮMoney, Яндекс
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-инфраструктура
+- Кандидаты компаний: Facebook, Gitlab, Instagram, Telegram, X, ВКонтакте, Яндекс.Денег
 
 - https://habr.com/ru/companies/ruvds/articles/508430/
 - Отрасли: digital, Программное обеспечение, ML
 - Компании: Хабр, RUVDS.com, ЮMoney, Яндекс
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Burning Lead, devSchacht, Instagram, PodlodkaPodcast, Яндекс.Деньги
 
 - https://habr.com/ru/companies/ruvds/articles/top/
 - Отрасли: хостинг, digital
 - Компании: RUVDS.com, Хабр, Сбер, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: VDS/VPS-хостинг, дата-центры, колокация, потребительский сегмент, рынок сотовой связи, строительство ЦОДов
+- Кандидаты компаний: Apple, Google, Habr Q&A, Центробанк
 
 - https://habr.com/ru/companies/rvision/articles/top/
 - Отрасли: кибербезопасности, информационной безопасности, BI, ML
 - Компании: R-Vision, Хабр, серверы, Gartner, BI.ZONE, Positive Technologies
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: ИБ-системы, ИТ, кибербезопасность, киберразведка
+- Кандидаты компаний: AD, CAPEC, cyberdefenders.org, Cybox, Emotet, Fancy Bear, FreeIPA, GitKraken, IODEF, Jumplump, MAEC, Microsoft, Microsoft Active Directory, MISP, OpenIOC, STIX, VERIS, Visual Studio, VSCode
 
 - https://habr.com/ru/companies/samokat_tech/articles/698118/
 - Отрасли: ecom, Big Data, Data science, маркетинге, Machine Learning
 - Компании: Хабр, ecom.tech, Самоката, Далее
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: NeuralProphet, Prophet, Самокат
 
 - https://habr.com/ru/companies/samokat_tech/articles/702678/
 - Отрасли: ecom, e-commerce, Электронная коммерция
 - Компании: Хабр, ecom.tech, Самоката
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Управление e-commerce, Управление продуктом
+- Кандидаты компаний: AppStore, Google Play, Самокат
 
 - https://habr.com/ru/companies/samokat_tech/articles/704342/
 - Отрасли: ecom
 - Компании: Хабр, ecom.tech, Далее, Самоката
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Самокат
 
 - https://habr.com/ru/companies/samokat_tech/articles/705204/
 - Отрасли: ecom, Информационная безопасность
 - Компании: Хабр, ecom.tech
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: AlephJS, DefinitelyTyped, Deno, Express, express-serve-static-core, GitHub, lodash, MongoDB, MySQL, NextJS, NodeJS, npm, PostgreSQL, React, Vue, Самокат
 
 - https://habr.com/ru/companies/samokat_tech/articles/705510/
 - Отрасли: ecom, Оптимизация, CRM
 - Компании: Хабр, ecom.tech, Бэклог, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-систем
+- Кандидаты компаний: Evrone, Falcon, JMeter, k8s, Kubernetes, Puma, Ruby Russia, samokat, Samokat
 
 - https://habr.com/ru/companies/samokat_tech/articles/707038/
 - Отрасли: ecom
 - Компании: Хабр, ecom.tech
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: разработка мобильных приложений
+- Кандидаты компаний: ChatAPI, Habr, Jetpack Compose, React Native, Самокат
 
 - https://habr.com/ru/companies/samokat_tech/articles/711202/
 - Отрасли: ecom, Дизайн и юзабилити, предлагает, аналитики
 - Компании: Хабр, ecom.tech, Самоката, предлагает, 1С, Далее, ОК
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: логистика, управление дарксторами
+- Кандидаты компаний: Ant Design, MobX, Order Manager, Promo Offering, SandBox, StackBlitz, Логистика, Самокат
 
 - https://habr.com/ru/companies/samokat_tech/articles/714482/
 - Отрасли: ecom
 - Компании: Контур, Хабр, ecom.tech
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT
+- Кандидаты компаний: graphql, Helm, hoverfly, Java, Kotlin, Kubernetes, micrometer, mockserver, Samokat.tech, smtp, wiremock
 
 - https://habr.com/ru/companies/samokat_tech/articles/722934/
 - Отрасли: ecom, Информационная безопасность, ритейла, e-commerce
 - Компании: Хабр, ecom.tech
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: e-grocery, ИТ, ритейл реального времени, фудтех
+- Кандидаты компаний: Dependency Track, Nexus, Samokat, Samokat.tech, samokat_tech_bot, single spa, YouTube, Маркетплейс, СберМаркет, Старт Хаб
 
 - https://habr.com/ru/companies/samokat_tech/articles/734414/
 - Отрасли: ecom
 - Компании: Хабр, ecom.tech, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-системы, Высоконагруженные системы
+- Кандидаты компаний: Gatling, ITIL, JMeter, k6, Kubernetes, Kyverno, LoadRunner, Samokat.tech
 
 - https://habr.com/ru/companies/samokat_tech/articles/735418/
 - Отрасли: ecom, Оптимизация, аналитики
 - Компании: Хабр, ecom.tech, Авито, Тинькофф, VK
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-инфраструктура, Программирование, Тестирование IT-систем
+- Кандидаты компаний: Go-testcontainers, Samokat, Samokat.tech, Statist, Telegram, testcontainers-go, Timepad, YouTube, Платформа лояльности
 
 - https://habr.com/ru/companies/samokat_tech/articles/735638/
 - Отрасли: ecom
 - Компании: Хабр, ecom.tech
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: DevOps, IT-систем, веб-сервисов
+- Кандидаты компаний: Flant, JVM, kube-scheduler, kubelet, kubernetes, linux, Samokat.tech
 
 - https://habr.com/ru/companies/samokat_tech/articles/742056/
 - Отрасли: ecom, e-commerce, аналитики
 - Компании: Хабр, ecom.tech, Почтатех
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Flow, Flow 2023, Samokat, Samokat.tech, Telegram, Timepad, USABILITYLAB, YouTube, Самокат
 
 - https://habr.com/ru/companies/samsung/articles/top/
 - Отрасли: предлагает, IoT, умный дом, Мобильные технологии
 - Компании: Samsung, Хабр, АТОМ, Далее, предлагает
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-индустрия, военная техника, потребительская электроника, судостроение, электронные устройства
+- Кандидаты компаний: Android, ATIV Smart PC Pro, Chrome OS, Galaxy Upcycling, Google, Habr, Habrahabr, Microsoft, SAIT, Samsung Advanced Institute of Technology, Samsung Chromebook 5 series, Samsung Electronics, Samsung GALAXY Nexus, Samsung Galaxy Note, Samsung Galaxy Tab, Samsung Group, Samsung Heavy Industries, Windows 8, университет Сонгюнгван
 
 - https://habr.com/ru/companies/sberbank/articles/321828/
 - Отрасли: не найдено
 - Компании: Хабр, Сбер, Бэклог, Сбербанк
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: банковская сфера, разработка мобильных приложений, финансовый сектор
+- Кандидаты компаний: Cordova, dashing.io, Facebook, Jenkins, nexus, PhoneGap, ReactNative, Sberbank, ЕФС
 
 - https://habr.com/ru/companies/sberbank/articles/323148/
 - Отрасли: Enterprise
