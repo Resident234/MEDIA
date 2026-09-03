@@ -46205,56 +46205,56 @@
 - https://habr.com/ru/companies/sberbank/articles/521036/
 - Отрасли: не найдено
 - Компании: Хабр, SberDevices, Сбер
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT, электроника
+- Кандидаты компаний: Android, AOSP, ChromeOS, Google, KitKat, Smart TV
 
 - https://habr.com/ru/companies/sberbank/articles/522546/
 - Отрасли: Big Data, BigData, Оптимизация
 - Компании: Хабр, Сбер, Далее, IDX
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Высоконагруженные системы, Хранение данных
+- Кандидаты компаний: Bloom фильтров, FAST_DIFF, Hadoop, HBase, HDFS, Java, LEAF_INDEX, Linux, ShortCircuitCache, Xeon, Сбер Облако Данных
 
 - https://habr.com/ru/companies/sberbank/articles/524522/
 - Отрасли: Natural Language Processing, NLP, медиа, облачных сервисов, виртуальные, Программное обеспечение
 - Компании: Сбер, Хабр, SberDevices, Сбербанк
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: искусственный интеллект, компьютерное зрение, компьютерные технологии, машинное обучение, обработка естественного языка, распознавание речи, синтез речи
+- Кандидаты компаний: 22century.ru, banki.ru, github, Google, Google Brain, Google Research, Microsoft, NVidia, Omnia Russica, OpenAI, Pikabu, Sberbank.AI, SberBox, SberCloud, SberPortal, StackOverflow, The Guardian, Сбербанк Онлайн
 
 - https://habr.com/ru/companies/sberbank/articles/527870/
 - Отрасли: Информационная безопасность
 - Компании: Хабр, Сбер
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: финансовый сектор
+- Кандидаты компаний: Apache, Apache Ignite, Java, OpenCensus, PCI DSS, Zipkin
 
 - https://habr.com/ru/companies/sberbank/articles/528966/
 - Отрасли: Natural Language Processing, NLP, ML
 - Компании: Хабр, SberDevices, Сбер
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Искусственный интеллект, Машинное обучение
+- Кандидаты компаний: Sber.AI, SberCloud
 
 - https://habr.com/ru/companies/sberbank/articles/530876/
 - Отрасли: Natural Language Processing, аналитики, NLP
 - Компании: Хабр, Сбер, Звук
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: голосовые интерфейсы, машинное обучение, речевые технологии
+- Кандидаты компаний: Flowtron, NVidia
 
 - https://habr.com/ru/companies/sberbank/articles/530968/
 - Отрасли: не найдено
 - Компании: Хабр, Сбер
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: искусственный интеллект, медицинская диагностика, обработка изображений
+- Кандидаты компаний: AI Journey, AIME, BIOSIGNALS, MICCAI, Лаборатория по искусственному интеллекту Сбера, Сбер Здоровье
 
 - https://habr.com/ru/companies/sberbank/articles/533612/
 - Отрасли: NLP, Веб-разработка
 - Компании: Хабр, Сбер, SberDevices, Далее
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: GitHub, Habr
 
 - https://habr.com/ru/companies/sberbank/articles/535640/
 - Отрасли: Оптимизация
 - Компании: Хабр, Сбер, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: банкинг, платёжные системы
+- Кандидаты компаний: Agile Home Сбера, Seymourpowell, Центр прототипирования высокой сложности «Кинетика»
 
 - https://habr.com/ru/companies/sberbank/articles/540392/
 - Отрасли: робототехника, IoT, Machine Learning, Программное обеспечение
@@ -46265,92 +46265,92 @@
 - https://habr.com/ru/companies/sberbank/articles/547036/
 - Отрасли: СМИ, digital
 - Компании: Хабр, Сбер, Сбербанк
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: eHealth, FinTech, банковская отрасль, ИТ
+- Кандидаты компаний: Sbergile
 
 - https://habr.com/ru/companies/sberbank/articles/549662/
 - Отрасли: Natural Language Processing, Оптимизация, ML, аналитики, банках, digital
 - Компании: Хабр, Сбер, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: производство
+- Кандидаты компаний: Toyota
 
 - https://habr.com/ru/companies/sberbank/articles/550056/
 - Отрасли: Natural Language Processing, NLP, ML
 - Компании: Хабр, SberDevices, Сбер, Space
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Искусственный интеллект, Машинное обучение
+- Кандидаты компаний: DataHub, Google Brain, ML Space, OpenAI, Sbercloud
 
 - https://habr.com/ru/companies/sberbank/articles/552526/
 - Отрасли: не найдено
 - Компании: Хабр, Сбер, Бэклог
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: банковская отрасль, финансовый сектор
+- Кандидаты компаний: Confluence, SAFe, Zoom
 
 - https://habr.com/ru/companies/sberbank/articles/554378/
 - Отрасли: аналитики, ML, предлагает, Оптимизация
 - Компании: Хабр, Сбер, предлагает
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Data Mining, Process Management, Process Mining
+- Кандидаты компаний: GitHub, Graphiz, SberPM
 
 - https://habr.com/ru/companies/sberbank/articles/554924/
 - Отрасли: не найдено
 - Компании: Хабр, Сбер
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Bitbucket, Confluence, Elasticsearch, Jira, Kibana, Logstash, React, sbergile, SberWorks
 
 - https://habr.com/ru/companies/sberbank/articles/557450/
 - Отрасли: кибербезопасности
 - Компании: Хабр, Сбер, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: розница, финансовый сектор
+- Кандидаты компаний: Habr, Platform V, SberCloud, СмартМаркет
 
 - https://habr.com/ru/companies/sberbank/articles/558266/
 - Отрасли: не найдено
 - Компании: не найдено
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: банковская отрасль
+- Кандидаты компаний: Agile Home Сбера
 
 - https://habr.com/ru/companies/sberbank/articles/559786/
 - Отрасли: не найдено
 - Компании: Хабр, Сбер, Сбербанк, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: банки, страхование
+- Кандидаты компаний: Мир, Сбербанк Онлайн
 
 - https://habr.com/ru/companies/sberbank/articles/565476/
 - Отрасли: Оптимизация, Machine Learning
 - Компании: Хабр, Сбер, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Data Mining
+- Кандидаты компаний: SberPM
 
 - https://habr.com/ru/companies/sberbank/articles/566188/
 - Отрасли: процессинг
 - Компании: Сбербанк, Хабр, Сбер, Контур, ОК
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: банковская отрасль, финансовые услуги
+- Кандидаты компаний: App Store, Google Play, Кредитная фабрика, СберБанк Онлайн
 
 - https://habr.com/ru/companies/sberbank/articles/567776/
 - Отрасли: Natural Language Processing, NLP
 - Компании: Хабр, SberDevices, Сбер
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Искусственный интеллект, Машинное обучение, речевые технологии
+- Кандидаты компаний: DeepPavlov, Google, HuggingFace
 
 - https://habr.com/ru/companies/sberbank/articles/570416/
 - Отрасли: предлагает, Консалтинг и поддержка
 - Компании: Хабр, Сбер, предлагает, Самолет
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: data-driven маркетинг, маркетинг, массовая персонализация, реклама, экономика
+- Кандидаты компаний: Amazon, Boston Consulting Group, Forbes, Habr
 
 - https://habr.com/ru/companies/sberbank/articles/575404/
 - Отрасли: Natural Language Processing, NLP
 - Компании: Хабр, Сбер
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Creative AI, генеративные модели, генерация изображения, генерация контента, генерация музыки, генерация речи, генерация текста, искусственный интеллект, машинное обучение, нейронные сети
+- Кандидаты компаний: AIIJC, Artificial Intelligence International Junior Contest, Colab, Ficbook.ru, GNU AGPL, HuggingFace, JamSpell, Jukebox, K80, OpenAI, ruGPT-3, Sber AI, SILERO, SILERO models
 
 - https://habr.com/ru/companies/sberbank/articles/575614/
 - Отрасли: Computer Vision
 - Компании: Хабр, Сбер
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: искусственный интеллект, кино, компьютерное зрение, машинное обучение, обработка изображений
+- Кандидаты компаний: Adaptive Embedding Integration Network, AEI-Net, DeepFaceLab, FaceShifter, FOMM, HEAR-Net, Heuristic Error Acknowledging Network, Motion CoSegmentation, Motion-supervised Co-Part Segmentation, Sber AI
 
 - https://habr.com/ru/companies/sberbank/articles/575726/
 - Отрасли: Natural Language Processing, NLP, ML, Computer Vision, Machine Learning
