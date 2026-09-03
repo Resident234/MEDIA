@@ -37505,152 +37505,152 @@
 - https://habr.com/ru/companies/productivity_inside/articles/498874/
 - Отрасли: облачных сервисов, Программное обеспечение
 - Компании: Хабр, InlyIT, Далее, ПИК
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: cloud computing, online marketplace, serverless computing, software as a service, streaming services, subscription services
+- Кандидаты компаний: AWS, AWS API Gateway, AWS Lambda, Flask, GitHub, Google, Leetcode, Netflix, Product Hunt, RapidAPI, Serverless, Spotify, Zappa
 
 - https://habr.com/ru/companies/productivity_inside/articles/501536/
 - Отрасли: e-commerce, финансы, торговли, торговые, Программное обеспечение
 - Компании: Хабр, InlyIT, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: торговля сырьевыми товарами, торговля товарными фьючерсами, торговля углём, торговля энергоносителями, финансы в IT
+- Кандидаты компаний: FedEx, WTFSE, Æxecor
 
 - https://habr.com/ru/companies/productivity_inside/articles/503562/
 - Отрасли: виртуальные, Дизайн и юзабилити, embedded, облачных сервисов, Программное обеспечение, IoT, умный дом
 - Компании: Хабр, InlyIT, SENSE, Samsung
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: AI, аналитика, маркетинг, мобильных приложений, монетизация, разработка мобильных приложений, Устройства
+- Кандидаты компаний: Adobe, App Center, Apple, Azure DevOps, Citrix, Defold, Flutter, GitHub, Google, King, Magic Leap, Mail.ru Group, Microsoft, RapidAPI, Sony, Xamarin, XCode, ВКонтакте
 
 - https://habr.com/ru/companies/productivity_inside/articles/505430/
 - Отрасли: не найдено
 - Компании: Хабр, InlyIT
-- Кандидаты отраслей: не найдено
+- Кандидаты отраслей: качество кода, объектно-ориентированное программирование, разработка ПО
 - Кандидаты компаний: не найдено
 
 - https://habr.com/ru/companies/productivity_inside/articles/505690/
 - Отрасли: Мобильные технологии, ML, Оптимизация, предлагает, IoT, Machine Learning
 - Компании: Хабр, InlyIT, SENSE, предлагает
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: AR, Low-Code разработка, UX дизайн, Автоматизированное тестирование, Аналитика мобильных приложений, Маркетинг мобильных приложений, Машинное обучение, Монетизация в онлайн-играх, Разработка мобильных приложений
+- Кандидаты компаний: Apple, AppsFlyer, Biloba, Bumble, Civilization VI, Coursera, Dolby.io, Duolingo, FAN, Firebase, Flutter, FTC, Gismart, Google, Gradle, HBO Max, Huawei, HyperBeard, iD EAST, Karrot, Kotlin, Lili, LMDB, Material Component, Meduza, MotionLayout, Node.JS, OpenCV, Podlodka, React Native, Selenium, Swift, SwiftUI, Synthety, Tensorflow, UIStackView, Unity, WWDC, Yandex, Zoom
 
 - https://habr.com/ru/companies/productivity_inside/articles/507170/
 - Отрасли: Веб-разработка, e-commerce
 - Компании: Хабр, InlyIT, Цифра
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: бронирование авиабилетов, бронирование номеров в гостиницах, онлайн-торговля
+- Кандидаты компаний: Dafni, Habr
 
 - https://habr.com/ru/companies/productivity_inside/articles/507944/
 - Отрасли: не найдено
 - Компании: Хабр, InlyIT, ОК, FUJITSU, DELL, AMD
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: высокопроизводительные вычисления, энергетика
+- Кандидаты компаний: ARM, Fugaku, Green500, IBM, InfiniBand, LLNL, Mellanox, NVIDIA, OLCF-4, R-CCS, RIKEN, Sierra, Summit, Sunway TaihuLight', 'Китайский национальный исследовательский центр параллельной вычислительной техники и технологий (NRCPC)', 'Sunway SW26010', 'Национальный суперкомпьютерный центр в Уси', 'Tianhe-2A', 'Milky Way-2A', 'Китайский национальный университет оборонных технологий (NUDT)', 'Matrix-2000', 'Национальный суперкомпьютерный центр в Гуанчжоу', 'HPC5', 'Dell', 'PowerEdge', 'Eni S.p.A', 'Selene', 'Frontera', 'Dell C6420', 'Техасский вычислительный центр (TACC)', 'Marconi-100', 'CINECA', 'Cray XC50', 'Швейцарский национальный суперкомпьютерный центр (CSCS)', 'Кристофари (Christofari)', 'Xeon Platinum', 'Nvidia DGX-2', 'MN-3', 'Preferred Networks', 'MN-Core', 'DGX A100 SuperPOD', 'A100', 'NA-1', 'PEZY Computing', 'Exascaler', 'NA Simulation',, Tesla V100, TOP500, Ливерморская национальная лаборатория им. Лоуренса, Ок-Риджская национальная лаборатория
 
 - https://habr.com/ru/companies/productivity_inside/articles/509912/
 - Отрасли: не найдено
 - Компании: Хабр, InlyIT
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-индустрия, геймдев
+- Кандидаты компаний: Armorgames, FGL.com, Kongregate, Newgrounds
 
 - https://habr.com/ru/companies/productivity_inside/articles/513260/
 - Отрасли: не найдено
 - Компании: Хабр, InlyIT, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: интернет-магазин
+- Кандидаты компаний: Gmail, Google Chrome, Google Sheets, Hacker News, LipSurf, Pushbullet, Reddit, Twitter
 
 - https://habr.com/ru/companies/productivity_inside/articles/515534/
 - Отрасли: Программное обеспечение
 - Компании: Хабр, InlyIT
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT, браузеры, веб-стандарты
+- Кандидаты компаний: AOL, Apple, Emscripten, Firefox, Google, Internet Explorer, MDN, Microsoft, Mozilla, Mozilla Developer Network, Mozilla Foundation, Mozilla Organization, Netscape Navigator, Opera, Rust Corporation, Servo, Unreal, W3C, WHATWG
 
 - https://habr.com/ru/companies/productivity_inside/articles/517788/
 - Отрасли: предлагает
 - Компании: Хабр, InlyIT, Далее, предлагает
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-индустрия
+- Кандидаты компаний: Amazon, FAANG, LeetCode, Ruby on Rails
 
 - https://habr.com/ru/companies/productivity_inside/articles/520614/
 - Отрасли: Веб-сервисы, предлагает, Big Data, торговли
 - Компании: Хабр, InlyIT, предлагает
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-индустрия, технологическая отрасль
+- Кандидаты компаний: API Gateway, AWS, AWS Cloudwatch, Beanstalk, DynamoDB, EC2, ECS, Elasticsearch, GraphQL, Ionic Framework, Lambda, MongoDB, MySQL, NASDAQ, OAuth 2.0, RabbitMQ, React Native, SQS, Swagger
 
 - https://habr.com/ru/companies/productivity_inside/articles/522364/
 - Отрасли: digital
 - Компании: Хабр, InlyIT
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT
+- Кандидаты компаний: CodeWithHarry, Covid19Tracking, Digital Ocean, GitHub, Hacker News, Hacktoberfest, micromtn, Twitter, YouTube
 
 - https://habr.com/ru/companies/productivity_inside/articles/526738/
 - Отрасли: Enterprise
 - Компании: Хабр, InlyIT
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Мессенджеры, Социальные сети, Управление сообществом
+- Кандидаты компаний: Campfire, Discord, Enterprise Grid, HipChat, MetaLab, Microsoft Teams, Mule's Dark Horse, Netlify, Notion, Reactiflux, Slack, Telegram, Tuple, Workflow Builder, Zoom
 
 - https://habr.com/ru/companies/productivity_inside/articles/530008/
 - Отрасли: не найдено
 - Компании: Хабр, InlyIT
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT, развитие стартапов, управление продуктом
+- Кандидаты компаний: AWS, Bitbucket Pipelines, GitHub, Github Actions, Gitlab CI, Hacker News, Instagram, Jenkins, Medium, Twitter
 
 - https://habr.com/ru/companies/productivity_inside/articles/534606/
 - Отрасли: не найдено
 - Компании: Хабр, InlyIT, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-индустрия, промышленное производство
+- Кандидаты компаний: AWS, Azure, Docker, Netlify
 
 - https://habr.com/ru/companies/productivity_inside/articles/537318/
 - Отрасли: foodtech, SaaS, маркетинге
 - Компании: Хабр, InlyIT, Далее, Бэклог, Цифра
-- Кандидаты отраслей: не найдено
+- Кандидаты отраслей: B2B, IT-индустрия, госсектор
 - Кандидаты компаний: не найдено
 
 - https://habr.com/ru/companies/productivity_inside/articles/539890/
 - Отрасли: Информационная безопасность, предлагает, аналитики
 - Компании: Хабр, InlyIT, предлагает
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Android, Apple, Cordova, Facebook, Google, Google API, Google Drive, Google Firebase, Google Messenger, Google Photos, Google Voice, iMessage, Ionic, microG, Play Store
 
 - https://habr.com/ru/companies/productivity_inside/articles/543034/
 - Отрасли: не найдено
 - Компании: Хабр, InlyIT, Цифра, Далее, серверы
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT, высокопроизводительные вычисления, исследования, суперкомпьютеры
+- Кандидаты компаний: Apple, Apple Power Mac G5, Apple Xserve G5, EcoComputers, JSC, Gigabit Ethernet, High-Performance Linpack, HPL, InfiniBand, Mac OS X, Mac Pro, Performance Index 64, System G, System X, top500.org, Xseed, Государственный университет Боуи, Лос-Аламосская национальная лаборатория, Политехнический университет Виргинии
 
 - https://habr.com/ru/companies/productivity_inside/articles/544970/
 - Отрасли: не найдено
 - Компании: Хабр, InlyIT
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT, IT-индустрия
+- Кандидаты компаний: Fullstack Academy, Google, MySpace
 
 - https://habr.com/ru/companies/productivity_inside/articles/547456/
 - Отрасли: ML
 - Компании: Хабр, InlyIT, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT, доменные имена, онлайн-игры, почтовые сервисы, реклама, стартапы
+- Кандидаты компаний: AWS, facebook.网站, Gerнси, GG, Google, Habr, Mailoji, Marky Z, Marmite, Netflix, Product Hunt, Stripe, TikTok, TikTok для бизнеса
 
 - https://habr.com/ru/companies/productivity_inside/articles/553890/
 - Отрасли: не найдено
 - Компании: Хабр, InlyIT
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT
+- Кандидаты компаний: Stack Overflow
 
 - https://habr.com/ru/companies/productivity_inside/articles/563452/
 - Отрасли: не найдено
 - Компании: Хабр, InlyIT
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: R&D, автомобилестроение, логистика, производство автомобилей, разработка ПО, управление продуктом, управление проектами, управление разработкой, экономика
+- Кандидаты компаний: PMP, WBS, Тойота, Форд
 
 - https://habr.com/ru/companies/productivity_inside/articles/564912/
 - Отрасли: Мобильные технологии, IoT
 - Компании: Хабр, InlyIT
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: аналитика, геймдев, дизайн приложений, искусственный интеллект, маркетинг мобильных приложений, мобильная разработка, монетизация, паблишинг неигровых приложений, разработка мобильных приложений, разработка ПО
+- Кандидаты компаний: Amazon, Apple, AppsFlyer, AWS, Collectives, Flutter, GetIt, Google, IVI, Kotlin Heroes, Linux Deploy, Spotify, Stack Overflow, Telegram, Unity, UrBackup, Vapor, Windows, Wowmaking Vantage Rovio Gismart Podz Asodesk ABBYY NeoML Organic Maps Mamazu
 
 - https://habr.com/ru/companies/productivity_inside/articles/573446/
 - Отрасли: не найдено
 - Компании: Хабр, InlyIT
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-компании, Монетизация мобильных приложений, Разработка мобильных приложений
+- Кандидаты компаний: Facebook, GitHub, Google, Language Transfer, Patreon, Play Store
 
 - https://habr.com/ru/companies/productivity_inside/articles/574372/
 - Отрасли: не найдено
