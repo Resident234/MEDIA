@@ -61805,152 +61805,152 @@
 - https://habr.com/ru/companies/vk/articles/191154/
 - Отрасли: Оптимизация
 - Компании: Хабр, VK, ОК, Хабр Карьера
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: интернет-реклама, социальные сети
+- Кандидаты компаний: ComScore, Одноклассники
 
 - https://habr.com/ru/companies/vk/articles/195004/
 - Отрасли: не найдено
 - Компании: Хабр, VK, ОК, Хабр Карьера
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: GitHub, Odноклассников, OK Java, OpenJDK
 
 - https://habr.com/ru/companies/vk/articles/211663/
 - Отрасли: не найдено
 - Компании: Хабр, VK, ОК, Далее, Хабр Карьера
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Android, Fedora, Google, OpenBinder, SuSe, Ubuntu
 
 - https://habr.com/ru/companies/vk/articles/211707/
 - Отрасли: не найдено
 - Компании: Хабр, VK, Content AI, Хабр Карьера
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: искусственный интеллект
+- Кандидаты компаний: ABBYY, Mail.Ru
 
 - https://habr.com/ru/companies/vk/articles/216401/
 - Отрасли: Big Data, Веб-сервисы
 - Компании: Хабр, VK, ОК, Хабр Карьера
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-индустрия
+- Кандидаты компаний: Cassandra, Hadoop, mail.ru, Matlab, MS SQL, Tarantool, Одноклассники
 
 - https://habr.com/ru/companies/vk/articles/217839/
 - Отрасли: Оптимизация
 - Компании: Хабр, VK, Content AI, Далее, N+1, Хабр Карьера
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: ABBYY, FineReader, Mail.ru
 
 - https://habr.com/ru/companies/vk/articles/219429/
 - Отрасли: видеосервис
 - Компании: Хабр, VK, ОК, RUTUBE, Далее, серверы, ПИК, Хабр Карьера
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: соцсети
+- Кандидаты компаний: YouTube, Видео Mail.Ru, Одноклассники
 
 - https://habr.com/ru/companies/vk/articles/221869/
 - Отрасли: Дизайн и юзабилити
 - Компании: Хабр, VK, ОК, Хабр Карьера
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Веб-дизайн
+- Кандидаты компаний: Foursquare, Instagram, Mac Pro, Mail.ru, Twitter
 
 - https://habr.com/ru/companies/vk/articles/240213/
 - Отрасли: не найдено
 - Компании: ОК, Хабр, VK, Хабр Карьера
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Mail.Ru Group, OK.RU
 
 - https://habr.com/ru/companies/vk/articles/246249/
 - Отрасли: Информационная безопасность
 - Компании: Хабр, VK, Журнал Хакер, Яндекс, Хабр Карьера
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Badoo, Facebook, HackerOne, Mail.Ru Group, Twitter, ВКонтакте
 
 - https://habr.com/ru/companies/vk/articles/251561/
 - Отрасли: не найдено
 - Компании: Хабр, VK, Content AI, Далее, Хабр Карьера
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: ABBYY, mail.ru
 
 - https://habr.com/ru/companies/vk/articles/272237/
 - Отрасли: аналитики, Рекрутинг и HR, Machine Learning
 - Компании: Хабр, hh.ru, VK, Бэклог, Далее, Альфа-Банк, Яндекс
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: индустрия коммерческого софта
+- Кандидаты компаний: HeadHunter, JIRA, LinkedIn, Microsoft, Redmine, TFS
 
 - https://habr.com/ru/companies/vk/articles/312588/
 - Отрасли: DWH, BI
 - Компании: Хабр, VK, ОК, серверы, Далее, Хабр Карьера
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Big Brother, Jira, Одноклассники
 
 - https://habr.com/ru/companies/vk/articles/321402/
 - Отрасли: Аппаратное обеспечение, Программное обеспечение
 - Компании: Хабр, VK, ОК, серверы, Далее, Хабр Карьера
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Druid, JIRA, Zabbix, Одноклассники
 
 - https://habr.com/ru/companies/vk/articles/438392/
 - Отрасли: Big Data, Data science
 - Компании: Хабр, VK, ОК, Хабр Карьера
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: социальные сети
+- Кандидаты компаний: Facebook, LinkedIn, Mail.ru Group, OK
 
 - https://habr.com/ru/companies/vk/articles/442688/
 - Отрасли: Big Data, Data science, ML, ETL, Machine Learning
 - Компании: Хабр, VK, ОК, Хабр Карьера
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Apache Parquet, Apache Spark, GraphX, PravdaML, SNA Hackathon 2019, Spark ML, Vegas, Zepl, Zeppelin
 
 - https://habr.com/ru/companies/vk/articles/443324/
 - Отрасли: Big Data
 - Компании: Хабр, VK, ОК, Хабр Карьера
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Apache Spark, Apache Zeppelin, numpy, Pandas, scikit-learn, Одноклассников
 
 - https://habr.com/ru/companies/vk/articles/445348/
 - Отрасли: Machine Learning
 - Компании: Хабр, VK, ОК, Далее, Хабр Карьера
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: анализ текстовых данных, машинное обучение, рекомендательные системы, социальные сети
+- Кандидаты компаний: Adam, Apache MXNet, GeForce, Mail.ru Group, NMT, Odnoklassniki, SNA Hackathon, Tesla
 
 - https://habr.com/ru/companies/vk/articles/474180/
 - Отрасли: масштабируемость, IAAS, PaaS
 - Компании: Хабр, ITSumma, VK, Далее, Хабр Карьера
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Облачные вычисления
+- Кандидаты компаний: Apache, etcd, ExaBGP, HAProxy, Mail.ru Cloud Solutions, mariadb, Memcache, Nginx, OpenStack, RabbitMQ, Redis, Uptime Community, YouTube
 
 - https://habr.com/ru/companies/vk/articles/478622/
 - Отрасли: Big Data, аналитики, Оптимизация, облачные сервисы, Data science
 - Компании: X5 Retail Group, Хабр, VK, X5 Tech, OZON, Хабр Карьера
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: бизнес, развлечения, ритейл
+- Кандидаты компаний: Amazon, GeekBrains, GeekUniversity, Mail.ru Group
 
 - https://habr.com/ru/companies/vk/articles/511104/
 - Отрасли: Data science, Machine Learning, аналитики, финансы, финансового сектора
 - Компании: hh.ru, Хабр, VK
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: B2B, IT, сфера услуг для бизнеса, финансовый сектор
+- Кандидаты компаний: HeadHunter, MADE, Mail.ru Group
 
 - https://habr.com/ru/companies/vk/articles/560814/
 - Отрасли: облачные сервисы, PaaS, провайдер, Платформенные сервисы, IAAS, Инфраструктурные сервисы, виртуальные, информационной безопасности, финансового, SaaS
 - Компании: Хабр, VK, X5 Tech, провайдер, Далее, X5 Retail Group, Хабр Карьера
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Mail.ru Cloud Solutions, Mail.ru Private Cloud, MCS, OpenShift, VMware, Х5, Х5 Retail Group
 
 - https://habr.com/ru/companies/vk/articles/697024/
 - Отрасли: EdTech, SaaS, ML
 - Компании: Хабр, KTS, VK, Space, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: DevOps, HRTech
+- Кандидаты компаний: SmartBot, Smartbot Pro, Tarantool, Telegram, WhatsApp
 
 - https://habr.com/ru/companies/vk/articles/top/
 - Отрасли: виртуальные
 - Компании: VK, Хабр
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: автомобильный бизнес, игровая индустрия, информационные технологии, социальные сети
+- Кандидаты компаний: Adium, Allods Team, Facebook, Google, Mail.Ru, Microsoft, Miranda, Mozilla, Opera, Pidgin, QIP, Teradata, Tesla
 
 - https://habr.com/ru/companies/Voximplant/articles/159677/
 - Отрасли: медиа
 - Компании: Хабр, Voximplant
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IP-телефония, Системы связи
+- Кандидаты компаний: Adobe, Chrome, Chrome Canary, Cisco, Ericsson, Firefox, Flash, GIPS, Google, IE, Mozilla, MPEG-LA, Opera, Safari, Skype, Voxeo, W3C
 
 - https://habr.com/ru/companies/Voximplant/articles/163141/
 - Отрасли: телекома
