@@ -18755,152 +18755,152 @@
 - https://habr.com/ru/companies/ispsystem/articles/580900/
 - Отрасли: Программное обеспечение
 - Компании: Хабр, ISPsystem
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: open source, цифровой инфраструктуры
+- Кандидаты компаний: Apache Foundation, Audacity, Blender, FileZilla, GitHub, Google, Huawei, LibreOffice, Linux Foundation, OCEAN, Университет Вермонта
 
 - https://habr.com/ru/companies/ispsystem/articles/586404/
 - Отрасли: аналитики, Machine Learning
 - Компании: Хабр, ISPsystem
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Computer hardware, Data analytics, High-performance computing, Scientific computing
+- Кандидаты компаний: Academia Europaea, ACM, Cray, ETH Zurich, GitHub, IEEE, RISC-V Foundation, The Linux Foundation, University of Bologna
 
 - https://habr.com/ru/companies/ispsystem/articles/588871/
 - Отрасли: не найдено
 - Компании: Хабр, ISPsystem
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-компании, Программирование
+- Кандидаты компаний: Microsoft, Microsoft Natural Languages Group, Microsoft Office, MS Word, NLG
 
 - https://habr.com/ru/companies/ispsystem/articles/589465/
 - Отрасли: Дизайн и юзабилити, Программное обеспечение
 - Компании: Хабр, ISPsystem, Ispmanager
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-инфраструктура
+- Кандидаты компаний: Ant Design, billix, BILLmanager, DCImanager, Figma, ISP UI, Sketch, VMmanager
 
 - https://habr.com/ru/companies/ispsystem/articles/590359/
 - Отрасли: не найдено
 - Компании: Хабр, ISPsystem, ОК, Звук, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: автомобили, компьютеры, медицинские приборы, самокаты, умные рекламные табло
+- Кандидаты компаний: 86РК, Intel, Апогея, Вектор-06Ц, Квазар, Киевский НИИ микроприборов, Левша, Микро-80, Микроши, Орион, Партнера, Радио, Радио-86РК, Спектра, Специалист, Счетмаш, Электроника КР-04, Юниор ФВ-6506, ЮТ88
 
 - https://habr.com/ru/companies/ispsystem/articles/590867/
 - Отрасли: виртуальные
 - Компании: Хабр, ISPsystem
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Виртуализация
+- Кандидаты компаний: CEPH, OpenStack, Proxmox, VMmanager, VMmanager Cloud, VMware
 
 - https://habr.com/ru/companies/ispsystem/articles/591937/
 - Отрасли: Программное обеспечение
 - Компании: Хабр, ISPsystem
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: игровые приставки, измерительная аппаратура, компьютеры, микропроцессоры, персональные компьютеры, системы связи, электронная промышленность
+- Кандидаты компаний: Atari ST, Commodore Amiga, LIKO, Motorola, Motorola 68000, NPO Научный Центр, Sega MegaDrive, ZX Spectrum, Ангстрем, БК-0010, БК-0011, БК-0011М, Вектор-06Ц, К1801ВМ1, К1801ВМ3, К1801ВП1-037, КА1801ВМ4, КМ1801ВМ3, КН1801ВМ4, КУВТ-86, КУВТ-86М, КУВТ-87, Микро-ЭВМ Н МС11100.1, МС 1201.01, МС0507.04, СМ 5508, Экситон, Электроника ГМД-7012, Электроника Н МС 01100.1-05, Электроника НГМД 6022, Электроника НЦ, Электроника НЦ-1
 
 - https://habr.com/ru/companies/ispsystem/articles/592557/
 - Отрасли: Программное обеспечение
 - Компании: Хабр, ISPsystem, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: интерактивные устройства, компьютерная графика, персональные компьютеры, телевизионные спецэффекты
+- Кандидаты компаний: Apple, Apple Lisa, Apple Macintosh, Commodore, Commodore 64, CP/M, GEM, Henschel, Henschel Hs 293, Microsoft, Microsoft DOS, NLS, On-Line System, Quantel, Quantel Paintbox, Sketchpad, Workbench, Xerox, Xerox Alto, Xerox Laboratories, Xerox PARC, Xerox Star, ZX Spectrum
 
 - https://habr.com/ru/companies/ispsystem/articles/594819/
 - Отрасли: облачные сервисы, провайдер
 - Компании: Хабр, ISPsystem, серверы, провайдер
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-инфраструктура, Дата-центр
+- Кандидаты компаний: Amazon EKS, AWS, AWS Secrets Manager, AWS SSO, PostgrREST, Vault
 
 - https://habr.com/ru/companies/ispsystem/articles/596369/
 - Отрасли: Программное обеспечение
 - Компании: Хабр, ISPsystem
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT
+- Кандидаты компаний: IBM, Royal McBee Computer Corp
 
 - https://habr.com/ru/companies/ispsystem/articles/597983/
 - Отрасли: Программное обеспечение, Дизайн и юзабилити, образование
 - Компании: Хабр, ISPsystem, Самолет
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-индустрия, горнодобывающая промышленность, искусственный интеллект, строительное оборудование
+- Кандидаты компаний: Apple, Caterpillar, IBM, Kinko’s, Microsoft, Toyota
 
 - https://habr.com/ru/companies/ispsystem/articles/647085/
 - Отрасли: торговли, виртуальные, транспортные, здравоохранение, медиа
 - Компании: Хабр, ISPsystem
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: автономные транспортные средства, бытовая электроника, домашние маршрутизаторы, домашняя безопасность, интернет вещей, интернет-реклама, облачные вычисления, ПО для автоматизации, поиск, развлечения, рекламный бизнес, розничная торговля, технологические сервисы
+- Кандидаты компаний: Alexa, Amazon, Apple, Beats Electronics, Echo, Eero, Facebook, Goodreads, Google, Google Assistant, Google Docs, Google Earth, IMDb, iTunes, Motorola Mobility, Prime Video, Siri, Spotify, The Post, Twitch, Washington Post, Whole Foods Market, YouTube, Zappos
 
 - https://habr.com/ru/companies/ispsystem/articles/648873/
 - Отрасли: не найдено
 - Компании: Хабр, ISPsystem, Space
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: аркадные игры, видеоигры, военные разработки, гражданская электроника, коммерческие компьютеры, компьютерные вычисления, рынок видеоигр, рынок игр на телевизоре
+- Кандидаты компаний: Atari Inc., Data General, Fairchild, General Electric Co., Nutting Associates
 
 - https://habr.com/ru/companies/ispsystem/articles/649239/
 - Отрасли: не найдено
 - Компании: не найдено
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Медийная реклама, Нативные проекты, Образовательные программы, Стартапам, Техническая поддержка
+- Кандидаты компаний: Habr
 
 - https://habr.com/ru/companies/ispsystem/articles/650745/
 - Отрасли: не найдено
 - Компании: Хабр, ISPsystem, Самоката
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: B2B, B2C, автомобили, видеоигры, гаджеты, серверная виртуализация, стартап, управление продуктом
+- Кандидаты компаний: Tesla, VMmanager
 
 - https://habr.com/ru/companies/ispsystem/articles/652761/
 - Отрасли: Рекрутинг и HR, предлагает
 - Компании: ISPsystem, Хабр, 1С, Ispmanager, предлагает
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-индустрии, геймдев, сетевое оборудование
+- Кандидаты компаний: BILLmanager, Bugzilla, DCImanager, Docker, Unity, Unreal Engine, Zoom
 
 - https://habr.com/ru/companies/ispsystem/articles/652915/
 - Отрасли: не найдено
 - Компании: Хабр, ISPsystem, быструю
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Habr, VMmanager, VMware
 
 - https://habr.com/ru/companies/ispsystem/articles/656863/
 - Отрасли: ТЭК, Аппаратное обеспечение
 - Компании: Хабр, ISPsystem
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: вычислительная техника, компьютерная промышленность, персональные компьютеры, печатная техника, текстовая обработка, фотография, цифровая экономика
+- Кандидаты компаний: Alibaba, Apple, Apple II, ByteDance, Compugraphic, Corvus, Data General, Epson, Epson MX-70, GARF, Itek, Mycro-Tek, Photon, Polaroid, Radio Shack, RCA, Sanyo, Sanyo DM5012CM, Sinotype III, Tencent, TRS-80 Model II
 
 - https://habr.com/ru/companies/ispsystem/articles/658805/
 - Отрасли: Программное обеспечение
 - Компании: Хабр, ISPsystem
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: вычислительная техника, компьютерная промышленность, компьютерное оборудование
+- Кандидаты компаний: MingKwai, NEC, Okidata, Panasonic, Sinotype, Sinowriter, Toshiba
 
 - https://habr.com/ru/companies/ispsystem/articles/659189/
 - Отрасли: Оптимизация, маркетинге
 - Компании: Хабр, ISPsystem, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-индустрии, дизайне, удалённой работе
+- Кандидаты компаний: DCImanager, Google Chrome, Habr, Telegram, Toggl Track
 
 - https://habr.com/ru/companies/ispsystem/articles/661907/
 - Отрасли: Рекрутинг и HR, предлагает, рекрутинг
 - Компании: Хабр, ISPsystem, предлагает
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Amazon, First Round Review, Glassdoor, Habr, Microsoft, Quora, Zynga
 
 - https://habr.com/ru/companies/ispsystem/articles/663138/
 - Отрасли: не найдено
 - Компании: Хабр, ISPsystem, Звук, Hewlett-Packard
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: видеокомпьютерные системы, домашние компьютеры, персональные компьютеры, потребительская электроника
+- Кандидаты компаний: 6502, 6510, 6526, Atari 800, Atari Inc, Commodore, Commodore 64, Commodore VIC-20, General Electric Co, Hewlett-Packard Co, IEEE Spectrum, IEEE Xplore, Intellivision, LSI, Mattel, MOS Technology, Texas Instruments, VIC-II
 
 - https://habr.com/ru/companies/ispsystem/articles/666434/
 - Отрасли: Программное обеспечение
 - Компании: Хабр, ISPsystem
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT
+- Кандидаты компаний: C-64, Commodore, Commodore 64, Epyx, Pet
 
 - https://habr.com/ru/companies/ispsystem/articles/668916/
 - Отрасли: аналитики, финансового, предлагает
 - Компании: Хабр, ISPsystem, Цифра, Яндекс, предлагает, Gartner
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-компании, VPN, Браузеры, Интернет
+- Кандидаты компаний: Chrome, Firefox, Focus, Google, Google Chrome, Mozilla, Netscape, Pocket, Privacy Guides, Rise of Privacy Tech, Safari
 
 - https://habr.com/ru/companies/ispsystem/articles/670232/
 - Отрасли: Программное обеспечение
 - Компании: Хабр, ISPsystem, Звук
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT
+- Кандидаты компаний: Atari, Berkeley Softworks, Commodore, Epyx, Habr, Imagic, Mattel, Mercury News, Texas Instruments
 
 - https://habr.com/ru/companies/ispsystem/articles/673158/
 - Отрасли: IAAS, SaaS, виртуальные
