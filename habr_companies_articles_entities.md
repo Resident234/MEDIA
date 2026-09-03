@@ -53706,73 +53706,73 @@
 - Отрасли: не найдено
 - Компании: Хабр, Skyeng, Далее
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Google, Google Cloud Platform, Google Drive, Google Drive API, Google Sheets, Google Sheets API
 
 - https://habr.com/ru/companies/skyeng/articles/585790/
 - Отрасли: не найдено
 - Компании: Хабр, Skyeng
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Разработка мобильных приложений
+- Кандидаты компаний: Apple, Github, TED
 
 - https://habr.com/ru/companies/skyeng/articles/588282/
 - Отрасли: не найдено
 - Компании: Хабр, Skyeng, Далее, Space
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Тестирование IT-систем, Тестирование веб-сервисов
+- Кандидаты компаний: Battle.net, Blizzard, Chrome, eu.battle.net, Habr
 
 - https://habr.com/ru/companies/skyeng/articles/588823/
 - Отрасли: Рекрутинг и HR
 - Компании: Хабр, Skyeng
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT
+- Кандидаты компаний: Habr, Slack
 
 - https://habr.com/ru/companies/skyeng/articles/591423/
 - Отрасли: виртуальные, Мобильные технологии
 - Компании: Хабр, Skyeng
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: iOS, Разработка мобильных приложений
+- Кандидаты компаний: AppKit, Apple, Core Animation, Core Graphics, iPhoneOS, LayerKit, Mac OS X, macOS, Metal, UIKit
 
 - https://habr.com/ru/companies/skyeng/articles/593351/
 - Отрасли: Мобильные технологии
 - Компании: Хабр, Skyeng
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT
+- Кандидаты компаний: Chrome, Mobile Skyeng, Safari, Slack, Vim, Vimbox
 
 - https://habr.com/ru/companies/skyeng/articles/593571/
 - Отрасли: аналитики, Мобильные технологии
 - Компании: Хабр, Skyeng
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: мобильные приложения, разработка мобильных приложений
+- Кандидаты компаний: Android, App Store, AppUpdater, CI/CD, Firebase, Github, Google, Google Play, Habr, Harpy, in-app updates, iOS, Play Core library, Siren
 
 - https://habr.com/ru/companies/skyeng/articles/595893/
 - Отрасли: не найдено
 - Компании: Хабр, Skyeng
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: CALayer, CATransform3D, CGAffineTransform, Core Graphics, iOS, UIKit, UIView
 
 - https://habr.com/ru/companies/skyeng/articles/598295/
 - Отрасли: Мобильные технологии
 - Компании: Хабр, Skyeng
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Разработка мобильных приложений
+- Кандидаты компаний: Apple, awesome-swift-async-await, Github, Swift, WebKit, WKWebView, Xcode
 
 - https://habr.com/ru/companies/skyeng/articles/645217/
 - Отрасли: не найдено
 - Компании: Хабр, Skyeng
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT, информационные технологии
+- Кандидаты компаний: Android, DST Root CA X3, Firefox, Google Meets, IdenTrust, iOS, Jira, Linux, Slack, Windows
 
 - https://habr.com/ru/companies/skyeng/articles/648669/
 - Отрасли: Дизайн и юзабилити
 - Компании: Хабр, Skyeng, Хекслет, Авито, iSpring
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT
+- Кандидаты компаний: Badoo, CutCode, KPHP, Laravel, ManyChat, PHP fwdays, PHP NN, PHP Point, PHP Russia, PHP.Watch, phpcommunity.ru, SuperJob, Symfony, Viber
 
 - https://habr.com/ru/companies/skyeng/articles/649691/
 - Отрасли: стриминг
 - Компании: Хабр, Skyeng
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: видеоконференцсвязь
+- Кандидаты компаний: Google Meet, GStreamer, Intel, Janus, Selenium WebDriver, YouTube
 
 - https://habr.com/ru/companies/skyeng/articles/651151/
 - Отрасли: не найдено
@@ -53784,72 +53784,72 @@
 - Отрасли: Веб-разработка
 - Компании: Хабр, Skyeng
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Angular, Pexels
 
 - https://habr.com/ru/companies/skyeng/articles/654049/
 - Отрасли: не найдено
 - Компании: Хабр, Skyeng, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Android, Разработка мобильных приложений
+- Кандидаты компаний: accompanist, accompanist-insets, Google, Jetpack Compose, Хотелки
 
 - https://habr.com/ru/companies/skyeng/articles/655729/
 - Отрасли: образование, Оптимизация, EdTech
 - Компании: Хабр, Skyeng
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Data Mining, машинное обучение, онлайн-образование, управление проектами, языковое образование
+- Кандидаты компаний: Adlinga, CEFR, Common European Framework of Reference, Global Scale of English, GSE, IELTS, Pearson English, TOEFL
 
 - https://habr.com/ru/companies/skyeng/articles/656287/
 - Отрасли: Рекрутинг и HR
 - Компании: Хабр, Skyeng, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Удалённая работа, Управление персоналом, Управление проектами
+- Кандидаты компаний: Jira, Skyeng Home, Slack
 
 - https://habr.com/ru/companies/skyeng/articles/659559/
 - Отрасли: не найдено
 - Компании: Хабр, Skyeng, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT
+- Кандидаты компаний: Codeception, mcustiel/phiremock, mcustiel/phiremock-codeception-extension, mcustiel/phiremock-codeception-module, Phiremock, PhpAmqpLib, Symfony, WhatsApp
 
 - https://habr.com/ru/companies/skyeng/articles/659849/
 - Отрасли: ML, Data science
 - Компании: Хабр, Skyeng, Далее
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Amazon SageMaker, Telegram
 
 - https://habr.com/ru/companies/skyeng/articles/663318/
 - Отрасли: SaaS, аналитики
 - Компании: Хабр, Skyeng, Voximplant, Далее, Яндекс, Тинькофф
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Видеоконференцсвязь, Управление проектами, Управление разработкой
+- Кандидаты компаний: Artifactory, Docker, DockerHub, Facebook, Figma, Firebase, GitHub, GSuite, Lokalise, Mattermost, Miro, New Relic, Pusher, Slack, РКН, Телеграм
 
 - https://habr.com/ru/companies/skyeng/articles/666414/
 - Отрасли: CRM, аналитики
 - Компании: Хабр, Skyeng, Далее, Бэклог
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Google, Omnidesk, Usedesk
 
 - https://habr.com/ru/companies/skyeng/articles/666626/
 - Отрасли: Программное обеспечение, Дизайн и юзабилити
 - Компании: Хабр, Skyeng, Далее, OTUS, Skillbox
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT
+- Кандидаты компаний: GitHub, JetBrains
 
 - https://habr.com/ru/companies/skyeng/articles/667740/
 - Отрасли: не найдено
 - Компании: Хабр, Skyeng, быструю, Далее
-- Кандидаты отраслей: не найдено
+- Кандидаты отраслей: IT-индустрии, Управление персоналом, Управление проектами
 - Кандидаты компаний: не найдено
 
 - https://habr.com/ru/companies/skyeng/articles/668510/
 - Отрасли: Рекрутинг и HR, Аппаратное обеспечение
 - Компании: Хабр, Skyeng, быструю, ОК, Далее
-- Кандидаты отраслей: не найдено
+- Кандидаты отраслей: IT-индустрии, Управление персоналом, Управление проектами
 - Кандидаты компаний: не найдено
 
 - https://habr.com/ru/companies/skyeng/articles/669292/
 - Отрасли: Оптимизация
 - Компании: Хабр, Skyeng, Далее
-- Кандидаты отраслей: не найдено
+- Кандидаты отраслей: IT-индустрия
 - Кандидаты компаний: не найдено
 
 - https://habr.com/ru/companies/skyeng/articles/678068/
