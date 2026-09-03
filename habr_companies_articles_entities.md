@@ -67955,152 +67955,152 @@
 - https://habr.com/ru/companies/Zextras/articles/649025/
 - Отрасли: не найдено
 - Компании: Хабр, Zextras
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: groupware, IT, электронная почта
+- Кандидаты компаний: Carbonio CE, Carbonio Community Edition, Microsoft Exchange, MS Outlook, Outlook, SVZcloud, Zextras Carbonio, Zimbra PST Migration Wizard, ZimbraMigration.exe
 
 - https://habr.com/ru/companies/Zextras/articles/650097/
 - Отрасли: не найдено
 - Компании: Хабр, Zextras
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Android, Carbonio CE, Carbonio Community Edition, iOS, Open Sync, SVZcloud, Thunderbird, Zextras Carbonio
 
 - https://habr.com/ru/companies/Zextras/articles/651439/
 - Отрасли: не найдено
 - Компании: Хабр, Zextras
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: электронная почта
+- Кандидаты компаний: Carbonio CE, Carbonio Community Edition, PostgreSQL, Postgresql-12, SVZcloud, Ubuntu, Ubuntu 20.04, Ubuntu 20.04 LTS
 
 - https://habr.com/ru/companies/Zextras/articles/652727/
 - Отрасли: не найдено
 - Компании: Хабр, Zextras
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-систем
+- Кандидаты компаний: Carbonio CE, Carbonio Community Edition, dnsmasq, DNSMASQ, Google, NetworkManager, SVZcloud, Ubuntu, UFW
 
 - https://habr.com/ru/companies/Zextras/articles/653841/
 - Отрасли: не найдено
 - Компании: Хабр, Zextras, Далее
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Carbonio, Carbonio Community Edition, MySQL, nginx, Postfix, SVZcloud
 
 - https://habr.com/ru/companies/Zextras/articles/655679/
 - Отрасли: Информационная безопасность
 - Компании: Хабр, Zextras
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: облачные хранилища
+- Кандидаты компаний: Carbonio, Carbonio CE, Carbonio Community Edition, Carbonio Files, Carbonio Mail, Carbonio Mesh, DigiCert, Google Drive, Google Takeout, OneDrive, PostgreSQL, Ubuntu
 
 - https://habr.com/ru/companies/Zextras/articles/657921/
 - Отрасли: не найдено
 - Компании: Хабр, Zextras
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: ИТ, кибербезопасность, корпоративные коммуникации, облачные хранилища, платформы совместной работы, почтовые серверы
+- Кандидаты компаний: Carbonio, Carbonio CE, NGINX, Outlook, SVZcloud, Ubuntu, Yandex.Cloud
 
 - https://habr.com/ru/companies/Zextras/articles/665090/
 - Отрасли: Информационная безопасность, кибербезопасности
 - Компании: Хабр, Zextras
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Электронная почта
+- Кандидаты компаний: Carbonio, Carbonio Community Edition, ClamAV, new-amavisd, Postfix, SpamAssassin
 
 - https://habr.com/ru/companies/Zextras/articles/666094/
 - Отрасли: предлагает
 - Компании: Хабр, Zextras, предлагает, VK, серверы
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: электронная почта
+- Кандидаты компаний: Carbonio, Carbonio Community Edition, Postfix, Sendbox, SVZcloud, VK Group
 
 - https://habr.com/ru/companies/Zextras/articles/672560/
 - Отрасли: виртуальные
 - Компании: Хабр, Zextras, Звук
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: корпоративные системы обмена сообщениями, мобильные приложения, облачные хранилища, почтовые серверы
+- Кандидаты компаний: Android, Carbonio, Carbonio Community Edition, Carbonio Files, Carbonio Mail, Exchange ActiveSync, iOS, SAML, Zextras Chats
 
 - https://habr.com/ru/companies/Zextras/articles/673762/
 - Отрасли: не найдено
 - Компании: Хабр, Zextras
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: корпоративный класс
+- Кандидаты компаний: Carbonio, Carbonio CE, Carbonio Mail, SVZcloud
 
 - https://habr.com/ru/companies/Zextras/articles/676916/
 - Отрасли: SaaS
 - Компании: Zextras, Хабр
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: ИТ-инфраструктура, почтовые услуги
+- Кандидаты компаний: Carbonio, Carbonio Community Edition, SVZcloud, Zextras Carbonio
 
 - https://habr.com/ru/companies/Zextras/articles/681652/
 - Отрасли: не найдено
 - Компании: Хабр, Zextras, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-инфраструктура
+- Кандидаты компаний: Carbonio, Carbonio Community Edition, Carbonio Files, SVZcloud
 
 - https://habr.com/ru/companies/Zextras/articles/683012/
 - Отрасли: не найдено
 - Компании: Хабр, Zextras
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Carbonio, Carbonio Community Edition
 
 - https://habr.com/ru/companies/Zextras/articles/684318/
 - Отрасли: не найдено
 - Компании: Хабр, Zextras
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Carbonio, Carbonio Community Edition, Carbonio Files, Zextras Chats
 
 - https://habr.com/ru/companies/Zextras/articles/687084/
 - Отрасли: не найдено
 - Компании: Хабр, Zextras, Далее
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Carbonio, Carbonio Community Edition, Carbonio Files, LibreOffice
 
 - https://habr.com/ru/companies/Zextras/articles/690552/
 - Отрасли: не найдено
 - Компании: не найдено
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Habr
 
 - https://habr.com/ru/companies/Zextras/articles/691430/
 - Отрасли: виртуальные
 - Компании: Zextras, Хабр, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: видеоконференцсвязь, корпоративные коммуникации
+- Кандидаты компаний: Carbonio, Carbonio Chats, Carbonio Files, Zextras Chats
 
 - https://habr.com/ru/companies/Zextras/articles/694262/
 - Отрасли: не найдено
 - Компании: Хабр, Zextras, серверы
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: ClamAV, Postfix, PostgreSQL, Ubuntu
 
 - https://habr.com/ru/companies/Zextras/articles/695594/
 - Отрасли: предлагает
 - Компании: Хабр, Zextras, предлагает, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: системное администрирование
+- Кандидаты компаний: Carbonio
 
 - https://habr.com/ru/companies/Zextras/articles/698300/
 - Отрасли: Мобильные технологии
 - Компании: Хабр, Zextras, Далее, серверы
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: мобильные устройства, резервное копирование, хранение данных, электронная почта
+- Кандидаты компаний: Carbonio, Carbonio Backup, EAS, Exchange ActiveSync, LDAP, RealTime Scan, S3, SmartScan, svzcloud.ru
 
 - https://habr.com/ru/companies/Zextras/articles/701092/
 - Отрасли: Enterprise
 - Компании: Хабр, Zextras
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: совместная работа, электронная почта
+- Кандидаты компаний: Carbonio, Fedora, PostgreSQL, Red Hat
 
 - https://habr.com/ru/companies/Zextras/articles/702450/
 - Отрасли: информационной безопасности
 - Компании: Хабр, Zextras, Цифра
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-инфраструктура, Системное администрирование
+- Кандидаты компаний: Carbonio, Outlook, Wentor, Zimbra
 
 - https://habr.com/ru/companies/Zextras/articles/704008/
 - Отрасли: Информационная безопасность
 - Компании: Хабр, Zextras, Цифра
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Carbonio, Carbonio CE, CBPolicyD, Cluebringer Policy Daemon, MTA-серверы, Postfix, Postscreen, SQLite, svzcloud.ru, Zimbra
 
 - https://habr.com/ru/companies/Zextras/articles/706830/
 - Отрасли: Информационная безопасность
 - Компании: Хабр, Zextras
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Carbonio, Fail2ban
 
 - https://habr.com/ru/companies/Zextras/articles/711346/
 - Отрасли: Мобильные технологии
