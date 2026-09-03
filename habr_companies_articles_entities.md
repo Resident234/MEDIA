@@ -35406,133 +35406,133 @@
 - Отрасли: не найдено
 - Компании: Хабр, Postgres Professional
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: PostgreSQL
 
 - https://habr.com/ru/companies/postgrespro/articles/479618/
 - Отрасли: Enterprise, Оптимизация
 - Компании: Хабр, Postgres Professional, 1С
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: СУБД
+- Кандидаты компаний: IBM, pg_pathman, pg_probackup, Postgres Pro Enterprise, Postgres Pro Standard, PostgreSQL, PTRACK
 
 - https://habr.com/ru/companies/postgrespro/articles/481552/
 - Отрасли: Программное обеспечение
 - Компании: Хабр, Postgres Professional, 1С, Авито
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: медицинские информационные системы, мониторинг, облачные технологии, хранение персональных данных
+- Кандидаты компаний: Adjust, Avito Gitlab Amazon RDS Parma pg_profile Oracle AWR Zabbix pg_dump Тензор Data Egret Percona FDW Mobility DB Мосгортранс PL/v8 Авито 1С: Предприятие Инфософт Pentaho, Citus, Clickhouse, HighGo Software, inCountry, Lingua Leo, Microsoft, Miro, Mongo, MySQL, nginx, Patroni, pgbouncer, PGConf.Russia, PgPool-II, Postgres, Одиссей
 
 - https://habr.com/ru/companies/postgrespro/articles/486264/
 - Отрасли: не найдено
 - Компании: Хабр, Postgres Professional
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: commitfest, PostgreSQL
 
 - https://habr.com/ru/companies/postgrespro/articles/488846/
 - Отрасли: Enterprise, Рекрутинг и HR, Программное обеспечение, Оптимизация
 - Компании: Хабр, Postgres Professional, Яндекс
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT, базы данных
+- Кандидаты компаний: Bucardo, corosync, Crunchy Data, Dalibo”,, Pacemaker, PAF, pg_featureserv, pg_partman, pg_tileserv, pgAdmin, pglogical, Pgpool-II, pgpoolAdmin, PostGIS, Postgres Pro Enterprise, Postgres Pro Standard, PostgreSQL, Postgresql Anonymizer, Yandex
 
 - https://habr.com/ru/companies/postgrespro/articles/489308/
 - Отрасли: не найдено
 - Компании: не найдено
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Habr
 
 - https://habr.com/ru/companies/postgrespro/articles/493106/
 - Отрасли: Оптимизация
 - Компании: Хабр, Postgres Professional, ОК
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: PostgreSQL
 
 - https://habr.com/ru/companies/postgrespro/articles/496974/
 - Отрасли: Enterprise, предлагает, Machine Learning, аналитики, масштабируемость, образование
 - Компании: Хабр, Postgres Professional, предлагает, Тензор, Яндекс
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT, базы данных
+- Кандидаты компаний: 2ndQuadrant, Aurora, AWS, CrunchyData, Cybertec, Dalibo, pg_probackup, pg_query_state, pgAdmin 4, pgBackRest, pgmetrics, Postgres Pro Enterprise, Postgres Pro Standard, Postgres.ai Joe 0.6.2/1/0 Joe 0.6.2/1/0 Joe 0.6.2/1/0 Joe 0.6.2/1/0, PostgreSQL, RDS, repmgr, WAL-G, Yandex
 
 - https://habr.com/ru/companies/postgrespro/articles/498152/
 - Отрасли: Enterprise, Программное обеспечение, предлагает, IoT, Big Data, Поисковые технологии, стриминг, образование
 - Компании: Хабр, Postgres Professional, предлагает, Яндекс, Тензор, Далее
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: 2ndQuadrant, CentOS, Database Lab, DB Doc, DB2, Fedora, GridDB, InfluxDB, Oracle, PgComment, postgres-checkup, Postgres.ai Platform, PostgreSQL, RHEL, SeveralNines, Slack, Toshiba, Yohz Software, Zalando DBaaS Zalando SE
 
 - https://habr.com/ru/companies/postgrespro/articles/502254/
 - Отрасли: Информационная безопасность
 - Компании: Хабр, Postgres Professional, серверы, N+1
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: СУБД
+- Кандидаты компаний: Chromium, DB2, DevConf, Google, Oracle, PgConf.Russia, Postgres, PostgreSQL
 
 - https://habr.com/ru/companies/postgrespro/articles/504504/
 - Отрасли: аналитики, Оптимизация, Программное обеспечение, Enterprise, образование
 - Компании: Хабр, Postgres Professional, Яндекс
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: HTAP, IT, аналитика данных, базы данных, бэкап данных, кибербезопасность, репликация данных, транзакционные системы, управление доступом, шифрование данных
+- Кандидаты компаний: Citus, GitHub, HighGo Software, Jepsen, Jepsen.io, libsodium, MongoDB, pgbitmap, PgBouncer, pgcryptokey, Pgpool-II, pgsodium, PGXN, Pitrery, PostgreSQL, SQLancer, Synthesized Query Lancer, veil2, wal2mongo
 
 - https://habr.com/ru/companies/postgrespro/articles/508270/
 - Отрасли: Информационная безопасность, Enterprise, Оптимизация, предлагает, ETL
 - Компании: Хабр, Postgres Professional, Далее, предлагает, Тензор, Яндекс, YDB
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT, анализ данных, базы данных, геоинформационные системы, кибербезопасность, контейнеризация, мониторинг, облачные технологии, оркестрация контейнеров, разработка ПО, репликация данных, хранение данных
+- Кандидаты компаний: 2ndQuadrant, barman, barman-cli-cloud, C++ Builder, Cybertec Prototyping Express, Cypex, Delphi, Embarcadero Technologies, Microolap Technologies, pg_probackup, pgAdmin4, pgBackRest Grafana PL/Python Apache ORC Splitgraph multicorn Citus Microsoft YikYak Crunchy PostgreSQL Operator Crunchy Container Suite PostGIS pgRouting Kubernetes OpenShift Google Kubernetes Engine GKE VMware Enterprise PKS Helm Chart Zalando Postgres Operator for Kubernetes pg_chameleon MySQL PostGIS WKB aqo Postgres Pro Enterprise GitHub Tensor, Pgpool-II, pgwatch2, PostgresDAC, PostgreSQL, RAD Studio, TimescaleDB, WAL-G
 
 - https://habr.com/ru/companies/postgrespro/articles/508766/
 - Отрасли: Оптимизация, Enterprise
 - Компании: Хабр, Postgres Professional, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: СУБД
+- Кандидаты компаний: GitHub, Postgres Pro Enterprise, PostgreSQL, YouTube
 
 - https://habr.com/ru/companies/postgrespro/articles/510124/
 - Отрасли: Оптимизация
 - Компании: Хабр, Postgres Professional, быструю
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: базы данных
+- Кандидаты компаний: depesz, Habr, PostgreSQL
 
 - https://habr.com/ru/companies/postgrespro/articles/513632/
 - Отрасли: Enterprise, Программное обеспечение, Оптимизация, образование, виртуальные, Домены и хостинг, масштабируемость, ERP
 - Компании: Хабр, Postgres Professional, Далее, 1С, серверы, БАРС Груп, Яндекс
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT, мониторинг
+- Кандидаты компаний: dbForge Data Compare for PostgreSQL, dbForge Studio for PostgreSQL, Devart, Foreign Data Wrapper for SQLite, GEOS, mamonsu, pg_dumpbinary, pg_probackup, pg_restorebinary, pgagroal, PostGIS, Postgres Pro Enterprise, Postgres Pro Standard, PostgreSQL, Postgresso, Prometheus, SQLite, Toshiba Software Engineering & Technology Center, Zabbix
 
 - https://habr.com/ru/companies/postgrespro/articles/519102/
 - Отрасли: предлагает, Оптимизация, ETL, ML, Machine Learning, аналитики, Enterprise, digital, BigData
 - Компании: Хабр, Postgres Professional, предлагает, Арендовать, БАРС Груп
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: базы данных, искусственный интеллект, машинное обучение, облачные вычисления, обработка данных, управление мастер-данными, хранение данных
+- Кандидаты компаний: 2ndQuadrant, A100, Crunchy Data, Cybertec, Debian, DGX, EDB, Groupon, High Go, MySQL, Nvidia, Oracle, Oracle Cloud, PgAdmin, Postgres Weekly, PostgreSQL, Tamr, Toyota, Ubuntu
 
 - https://habr.com/ru/companies/postgrespro/articles/522428/
 - Отрасли: Оптимизация
 - Компании: Хабр, Postgres Professional
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT, Open Source, базы данных
+- Кандидаты компаний: Cybertec, Microsoft, PostgreSQL
 
 - https://habr.com/ru/companies/postgrespro/articles/523144/
 - Отрасли: не найдено
 - Компании: Хабр, Postgres Professional
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Habr
 
 - https://habr.com/ru/companies/postgrespro/articles/523264/
 - Отрасли: масштабируемость, предлагает, торговые, Enterprise, Оптимизация
 - Компании: Хабр, Postgres Professional, предлагает, Далее, 1С
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: PostgreSQL
+- Кандидаты компаний: 2ndQuadrant, Citus, Crunchy Data, EDB, Microsoft, Postgre Pro Enterprise Edition, Postgres Association of Canada, PostgreSQL Community Association of Canada, United States PostgreSQL Association
 
 - https://habr.com/ru/companies/postgrespro/articles/530444/
 - Отрасли: предлагает, Enterprise
 - Компании: Хабр, Postgres Professional, Далее, предлагает, Флант, FUJITSU
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT, Kubernetes, базы данных, облачные технологии, хранение данных
+- Кандидаты компаний: Crunchy Data PostgreSQL Operator CrunchyData CrunchyData PostgreSQL Operator Zalando Postgres Operator KubeDB StackGres Fujitsu 2ndQuadrant EDB Zedstore PGCon2019 vops, Cybertec, Highload++, NTT, Patroni, pg_timetable, pgBouncer, Pgpool-II, pgpro_pwr, pgpro_stats, Postgres Operator, Postgres Pro Standard, PostgreSQL, Postgresso, PWR, Spilo, Stolon, ОСнова
 
 - https://habr.com/ru/companies/postgrespro/articles/533058/
 - Отрасли: не найдено
 - Компании: Хабр, Postgres Professional
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Базы данных, Репликация данных, Серверное ПО, СУБД
+- Кандидаты компаний: PostgreSQL
 
 - https://habr.com/ru/companies/postgrespro/articles/537988/
 - Отрасли: Enterprise, масштабируемость, Домены и хостинг, ETL, образование
 - Компании: Хабр, Postgres Professional, Samsung, Далее, Альфа-Банка, Тензор
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: ARM, IT-конференции, PostgreSQL, x86, облака
+- Кандидаты компаний: Amazon, Ampere Computing, Apple, AWS, db-engines, FOSDEM, Highload++, Jobin Augustine, Nordic PGDay, Oracle, Percona, pgAdmin, PGConf, PGConf.Online, PGConf.Russia, PostgresNIO, Sergey Kuzmichev, Vapor, Zabbix
 
 - https://habr.com/ru/companies/postgrespro/articles/541252/
 - Отрасли: предлагает, Оптимизация
@@ -35543,14 +35543,14 @@
 - https://habr.com/ru/companies/postgrespro/articles/542192/
 - Отрасли: предлагает
 - Компании: Хабр, Postgres Professional, Далее, предлагает
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: ИТ-безопасность
+- Кандидаты компаний: Aurora, AWS, credativ, Crunchy Data, FUNDACIÓN POSTGRESQL, Google, Habr, HighGo, K8s, Kubernetes, MariaDB, MySQL, OnGres, pg_snakeoil, PGConf.Online, plr, StorPool, Нижнерейнский Университет
 
 - https://habr.com/ru/companies/postgrespro/articles/543384/
 - Отрасли: CRM
 - Компании: Хабр, Postgres Professional, 1С
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: нефтяная отрасль
+- Кандидаты компаний: 1C Infosoft 1С+Postgres Ora2Pg LUI4ORA2PG FDW pgBackRest WAL-G Envoy PgPool-II pspg Окко Microsoft X5, Avito, CRM Shell, HighLoad++, Intel, Kubernetes, Nutanix, pg_profile, pg_pwr, PGConf.Online 2021, PGConf.Russia, PostGIS, Postgres Pro, PostgreSQL, psycopg2, Spatial Chat, Zabbix, Онтико
 
 - https://habr.com/ru/companies/postgrespro/articles/545796/
 - Отрасли: Аппаратное обеспечение, предлагает, масштабируемость, digital, Оптимизация, криптографии
