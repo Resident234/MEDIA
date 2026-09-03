@@ -15383,8 +15383,8 @@
 - https://habr.com/ru/companies/glowbyte/articles/514514/
 - Отрасли: Big Data, Advanced Analytics, ML, Оптимизация, CRM
 - Компании: Хабр, GlowByte, Далее, X5 Retail Group
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: банки, ритейл, телеком
+- Кандидаты компаний: AlphaGo, Glowbyte Advanced Analytics
 
 - https://habr.com/ru/companies/glowbyte/articles/515940/
 - Отрасли: DWH, ETL, аналитики
@@ -15395,26 +15395,26 @@
 - https://habr.com/ru/companies/glowbyte/articles/519382/
 - Отрасли: ML, риск-менеджмента, Advanced Analytics, промышленность, Оптимизация, предлагает, банках, финансового, Machine Learning
 - Компании: Хабр, GlowByte, Далее, предлагает
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: supply chain finance, банковская сфера, кредитный риск-менеджмент, страхование, телеком, финансовые организации
+- Кандидаты компаний: Advanced Analytics GlowByte, ModelOps, XGBoost, Бюро Кредитных Историй, ОФД, ЦБ
 
 - https://habr.com/ru/companies/glowbyte/articles/524150/
 - Отрасли: ML, риск-менеджмента, аналитики, образование, Data science, Machine Learning
 - Компании: Хабр, GlowByte, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: банковская сфера, кредитный риск-менеджмент, финансовые услуги
+- Кандидаты компаний: Habr
 
 - https://habr.com/ru/companies/glowbyte/articles/528382/
 - Отрасли: финансы, консалтинг, финансового, CRM
 - Компании: Хабр, GlowByte, Далее, Gartner
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: CPM, IT, IT-консалтинг, аллокация расходов, бизнес, бюджетирование, планирование, прогнозирование, управление эффективностью организации, финансовая аналитика, финансовый учет, цифровизация
+- Кандидаты компаний: GlowByte FI, Гартнер
 
 - https://habr.com/ru/companies/glowbyte/articles/532426/
 - Отрасли: IoT, облачных сервисов
 - Компании: Хабр, GlowByte, N+1
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: производство, промышленные сети, промышленный Интернет вещей
+- Кандидаты компаний: Arduino, Modbus, MODICON, Node-RED, PostgreSQL, Raspberry Pi, Schneider Electric, Yandex IoT, Yandex.Cloud
 
 - https://habr.com/ru/companies/glowbyte/articles/534610/
 - Отрасли: ML, риск-менеджмента, Data science, Machine Learning
@@ -15425,8 +15425,8 @@
 - https://habr.com/ru/companies/glowbyte/articles/538682/
 - Отрасли: IoT, облачные сервисы, ML
 - Компании: Хабр, GlowByte, Яндекс
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Интернет вещей
+- Кандидаты компаний: ClickHouse, GitHub, JupyterLab, MongoDB, MySQL, Object Storage, PostgreSQL, Redis, SQL Server, Yandex, Yandex Cloud, Yandex Cloud Functions, Yandex DataLens, Yandex DataSphere, Yandex IoT, Yandex IoT Core, Yandex Message Queue, Yandex Monitoring, Yandex Virtual Private Cloud
 
 - https://habr.com/ru/companies/glowbyte/articles/542940/
 - Отрасли: финансы, Data science, Machine Learning

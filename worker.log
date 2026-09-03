@@ -511,3 +511,5 @@ processed 10142/12038; batch 10150/12038
 processed 10167/12038; batch 10175/12038
 processed 10192/12038; batch 10200/12038
 processed 10217/12038; batch 10225/12038
+2026-09-03 09:38:50 watchdog: starting worker (done=10217)
+processed 10223/12038; batch 2556/12038
