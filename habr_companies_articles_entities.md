@@ -48005,152 +48005,152 @@
 - https://habr.com/ru/companies/searchinform/articles/570222/
 - Отрасли: Информационная безопасность
 - Компании: Хабр, SearchInform
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: криптовалюты, риал
+- Кандидаты компаний: DarkSide, Facebook, Google Play, Guess, LinkedIn, Lookout, Telegram, Роскомнадзор
 
 - https://habr.com/ru/companies/searchinform/articles/571024/
 - Отрасли: Информационная безопасность, СМИ
 - Компании: Хабр, SearchInform
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: банковский сектор
+- Кандидаты компаний: Darknet Diaries, Facebook, Instagram, LinkedIn, Pinterest, Reddit, Twitter
 
 - https://habr.com/ru/companies/searchinform/articles/575250/
 - Отрасли: Информационная безопасность, СМИ, Мобильные технологии, аналитики, кибербезопасности
 - Компании: Хабр, SearchInform, серверы, Сбербанк
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: автомобильная промышленность, антивирусные решения, доставка питьевой воды, косметическая отрасль, онлайн-ритейл, платежные сервисы
+- Кандидаты компаний: Bkav, Bkav Corporation, Bkav Pro, Bleeping Computer, Conti, Ford, Ford Motor Company, Google, Mobile AV, Oriflame, Pega Infinity, T-Mobile, T-Mobile US, Vice Motherboard, Wildberries
 
 - https://habr.com/ru/companies/searchinform/articles/576806/
 - Отрасли: Информационная безопасность, СМИ
 - Компании: Хабр, SearchInform
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: банковский сектор
+- Кандидаты компаний: Telegram, ВКонтакте
 
 - https://habr.com/ru/companies/searchinform/articles/578548/
 - Отрасли: Информационная безопасность, DIY
 - Компании: Хабр, SearchInform
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: банковский сектор
+- Кандидаты компаний: Habr, Kerio, Telegram
 
 - https://habr.com/ru/companies/searchinform/articles/579772/
 - Отрасли: Информационная безопасность, недвижимость, предлагает
 - Компании: Хабр, SearchInform, Арендовать, предлагает
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: OSINT, автосалоны, бухгалтерия и налоги, управление недвижимостью, юридические услуги
+- Кандидаты компаний: Clop, Con, Cuba, Dopple, Mercedes, Вice Society, ФБР
 
 - https://habr.com/ru/companies/searchinform/articles/581976/
 - Отрасли: Информационная безопасность, кибербезопасности, предлагает
 - Компании: Хабр, SearchInform, предлагает, ПИК, Газпром
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: darknet, кибербезопасность, криптовалюты, облачные технологии, рейдинг, социальные сети, торговля
+- Кандидаты компаний: Apple, Cloudflare, Dallas Independent School District, Fortinet, iCloud, Litecoin Foundation, Marketo, Meris, Puma, Walmart, Yandex
 
 - https://habr.com/ru/companies/searchinform/articles/586402/
 - Отрасли: Информационная безопасность, СМИ
 - Компании: Хабр, SearchInform
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: авиация, банковский сектор, блокчейн, военно-морское дело, потоковое видео
+- Кандидаты компаний: Amazon, Amazon Game Studio, Compound, Flight Circle, Melbourne Flight Training, Twitch, ФБР
 
 - https://habr.com/ru/companies/searchinform/articles/590725/
 - Отрасли: Информационная безопасность, медиа, финансового, BI, аутсорсинг
 - Компании: Хабр, SearchInform, Positive Technologies, Далее, IDC
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-инфраструктура, Системное администрирование, сопредельные секторы, финансовый сектор
+- Кандидаты компаний: Active Directory, AM Live, IBM, Kaspersky, Micro Focus, Mitre Att&ck, RuSIEM, Solar JSOC, ГосСОПКА, ФСТЭК, ЦБ
 
 - https://habr.com/ru/companies/searchinform/articles/593171/
 - Отрасли: Информационная безопасность
 - Компании: Хабр, SearchInform
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: государственное управление, криптовалюты, онлайн-брокеридж, фармацевтика
+- Кандидаты компаний: Black Shadow, CTV News Toronto, Genentech, Google Drive, Instagram, NightLion Security, Pfizer, Robinhood, Shadowbyte, Spamhaus, Telegram, Vice Motherboard, Xencor, ФБР
 
 - https://habr.com/ru/companies/searchinform/articles/598131/
 - Отрасли: Информационная безопасность, кибербезопасности, торговли, образование, предлагает
 - Компании: Хабр, SearchInform, Контур, Далее, предлагает
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: кибербезопасность, образование в ИТ, телекоммуникационные системы и сети
+- Кандидаты компаний: Cybersecurity and Infrastructure Security Agency, Habr, National Initiative for Cybersecurity Education, NICE, NIST, Министерство торговли США, Национальный институт стандартов и технологий, Управление по технологиям США
 
 - https://habr.com/ru/companies/searchinform/articles/598425/
 - Отрасли: Информационная безопасность, аналитики, СМИ, кибербезопасности
 - Компании: Хабр, SearchInform, РЖД
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: банковский сектор, платежные системы, социальные сети
+- Кандидаты компаний: Alipay, Apple, Instagram, TikTok, Ubiquiti Networks, YouTube
 
 - https://habr.com/ru/companies/searchinform/articles/648699/
 - Отрасли: Информационная безопасность, СМИ
 - Компании: Хабр, SearchInform
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: инженерно-производственный сектор, мясное производство, финансовые организации
+- Кандидаты компаний: Acer, Apple, Bloomberg, Electronic Arts, FIFA 22, Google Maps, JBS, Morgan Stanley, Quanta Computer, Tesla, TezLab, Twitter
 
 - https://habr.com/ru/companies/searchinform/articles/649447/
 - Отрасли: Информационная безопасность, информационной безопасности
 - Компании: Хабр, SearchInform, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: банк
+- Кандидаты компаний: Outlook, Sysmon
 
 - https://habr.com/ru/companies/searchinform/articles/657923/
 - Отрасли: Информационная безопасность
 - Компании: Хабр, SearchInform, CDEK, Яндекс
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: автомобильные запчасти, логистика, маркетплейсы, нефтепереработка, рознечная торговля, страховые услуги, топливно-заправочный бизнес, финансовые услуги
+- Кандидаты компаний: Bleeping Computer, Denso, KMG, Microsoft, N4ughtysecTU, Nespresso, Nestle, OldGremlin, Pandora, Petromidia, PlayStation, Rompetrol, Sony, Top Coffee, TransUnion, Wildberries, Xbox
 
 - https://habr.com/ru/companies/searchinform/articles/658571/
 - Отрасли: Информационная безопасность
 - Компании: Хабр, SearchInform
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: вымогательство, дипфейки, киберпреследование, маркетплейсы, мошенничество, социальные пособия
+- Кандидаты компаний: ANFR, Italian Insider, Wildberries
 
 - https://habr.com/ru/companies/searchinform/articles/660735/
 - Отрасли: Информационная безопасность
 - Компании: Хабр, SearchInform, 1С, R-Vision, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: критическая информационная инфраструктура, оперирование персональными данными
+- Кандидаты компаний: 1C, Check Point, Cisco, Dr.Web, ESET, Fortinet, IBM, Kaspersky, McAfee, Microsoft, Oracle, Palo Alto, Symantec, VMware, ФСТЭК
 
 - https://habr.com/ru/companies/searchinform/articles/663416/
 - Отрасли: Информационная безопасность, Мобильные технологии, виртуальные
 - Компании: Хабр, SearchInform
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: NFT, банковская сфера, кондитерская промышленность, криптоиндустрия, мобильная связь, шоу-бизнес, электроника
+- Кандидаты компаний: Cadbury, Conti, Mahesh Bank, Panasonic, Ronin, T-Mobile
 
 - https://habr.com/ru/companies/searchinform/articles/668114/
 - Отрасли: Информационная безопасность
 - Компании: Хабр, SearchInform
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-инфраструктура, Системное администрирование
+- Кандидаты компаний: Darknet Diaries, Microsoft, Office 365, SharePoint, Skype, Slack, Teams
 
 - https://habr.com/ru/companies/searchinform/articles/668944/
 - Отрасли: Информационная безопасность, СМИ
 - Компании: Хабр, SearchInform, RUTUBE, Яндекс
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: брокерские услуги, видеохостинг, доставка еды, кибербезопасность, ритейл, фармацевтика
+- Кандидаты компаний: Anonymous, Bleeping Computer, CloudSEK, Coca-Cola, Delivery Club, Dis-Chem, GoodWill, KFC, Lianjia, Яндекс.Еда
 
 - https://habr.com/ru/companies/searchinform/articles/674496/
 - Отрасли: Информационная безопасность, кибербезопасности, умный дом
 - Компании: Хабр, SearchInform, RUTUBE
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: гостиничный бизнес, государственное управление, общественное питание, розничная торговля, сельское хозяйство
+- Кандидаты компаний: Anonymous, Biprogy, Forbes, StoreHub
 
 - https://habr.com/ru/companies/searchinform/articles/680612/
 - Отрасли: Информационная безопасность, торговли, предлагает
 - Компании: Хабр, SearchInform, предлагает
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Криптовалюты
+- Кандидаты компаний: Internet Crime Complaint Center (IC3), KrebsOnSecurity, krebsonsecurity, Tinder, Uber, Vice, WhatsApp, XTB
 
 - https://habr.com/ru/companies/searchinform/articles/680618/
 - Отрасли: Информационная безопасность, СМИ, кибербезопасности, финансы
 - Компании: Хабр, SearchInform, серверы
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: банковское дело, бизнес-услуги, бронирование путешествий, гостиничный бизнес, игровое оборудование, информационные технологии, кибербезопасность, медицинские данные, облачные серверы, облачные технологии, Онлайн-видеоигры, туризм
+- Кандидаты компаний: Alibaba, Alibaba Cloud, Capgemini, Gol Tours, Gol Tours LTD, Marriott, Marriott International, Razer, Roblox, Roblox Corporation, Ангела Меркель, Европейского центрального банка, СДЭК
 
 - https://habr.com/ru/companies/searchinform/articles/684752/
 - Отрасли: Информационная безопасность, предлагает, информационной безопасности, СМИ
 - Компании: Хабр, SearchInform, предлагает
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: банк, криптовалютная биржа, медицинская компания, онлайн-сервис для путешествий, производитель техники, финансово-юридическое агентство
+- Кандидаты компаний: 66.ru, Binance, BleepingComputer, Ecowas, elasticsearch, Facebook, Huawei, Instagram, JusTalk, Meta, Meta Pixel, Microsoft, Novant Health, OneTwoTrip, ShitExpress, Zoom
 
 - https://habr.com/ru/companies/searchinform/articles/690886/
 - Отрасли: Информационная безопасность
 - Компании: Хабр, SearchInform
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: авиаперевозки, банковская сфера, гостиничный бизнес, криптовалютный рынок
+- Кандидаты компаний: Akasa Air, blockworks, Coinbase, Crypto.com, Google, Hudson Rock, IHG Hotels & Resorts, InterContinental Hotels Group PLC, Morgan Stanley, Slack, START, The New York Times, Uber
 
 - https://habr.com/ru/companies/searchinform/articles/691904/
 - Отрасли: Информационная безопасность, информационной безопасности
