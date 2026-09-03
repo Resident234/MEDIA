@@ -61955,152 +61955,152 @@
 - https://habr.com/ru/companies/Voximplant/articles/163141/
 - Отрасли: телекома
 - Компании: Хабр, Voximplant
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IP-телефония, web-телефония, системы связи, телеком
+- Кандидаты компаний: A380-800, AT&T, Chrome, Cisco, Ericsson, gethuman.com, Google, Linphone, Lufthansa, Mozilla, Plantronics, South San Francisco Conference Center, The Europas, TMC, tmcnet.com, WebRTC Expo, WebRTC Working Group, Zingaya
 
 - https://habr.com/ru/companies/Voximplant/articles/172841/
 - Отрасли: Мобильные технологии
 - Компании: Хабр, Voximplant
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Системы связи
+- Кандидаты компаний: Apple, Aurora, Firefox, Firefox Nightly, Google, Google Chrome, Google Nexus, iOS, Zingaya
 
 - https://habr.com/ru/companies/Voximplant/articles/180953/
 - Отрасли: не найдено
 - Компании: Хабр, Voximplant, Звук
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: реалтайм коммуникации, Системы связи, телефонная сеть
+- Кандидаты компаний: Apple, FF, Firefox, Google, Google Chrome, Google I/O, Maxthon, Mozilla, MPEG LA, MSFT, NoJitter, Zingaya
 
 - https://habr.com/ru/companies/Voximplant/articles/194354/
 - Отрасли: Веб-разработка, предлагает, Мобильные технологии, CRM
 - Компании: Voximplant, Хабр, предлагает, Арендовать
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IP PBX, VoIP, коммуникационные сервисы, облачные платформы, системы связи, телефония
+- Кандидаты компаний: Chrome, CodeMirror, Control API, CRM, Firefox, HTTP API, Mobile SDK, Provisioning API, VoxEngine, Web SDK, Yandex-браузер, Zingaya
 
 - https://habr.com/ru/companies/Voximplant/articles/205404/
 - Отрасли: Веб-разработка, предлагает, Оптимизация
 - Компании: Voximplant, Хабр, Далее, предлагает
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: системы связи, телефония
+- Кандидаты компаний: Apple, Avaya, Cisco, Ericsson, FFMPEG, Google, IETF, Microsoft, Mozilla, MPEG-LA, Opera, WebRTC Expo, Zingaya
 
 - https://habr.com/ru/companies/Voximplant/articles/209868/
 - Отрасли: Веб-разработка
 - Компании: Хабр, Voximplant, МойСклад
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: real-time коммуникации, разработка мобильных приложений, телефония
+- Кандидаты компаний: Bitrix24, Bria 3, JivoSite
 
 - https://habr.com/ru/companies/Voximplant/articles/212713/
 - Отрасли: Веб-разработка, Мобильные технологии
 - Компании: Хабр, Voximplant, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Системы связи, Телефония
+- Кандидаты компаний: AppEvents, Asterisk, CallEvents, Logger, Mobile SDK, Oktell, SIP, VoIP, VoxEngine, Web SDK, Манго, Октолайн
 
 - https://habr.com/ru/companies/Voximplant/articles/222651/
 - Отрасли: не найдено
 - Компании: Хабр, Voximplant
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Системы связи
+- Кандидаты компаний: Apple, Facebook, GitHub, iOS, iPad, iPhone, Opus, Safari, X, Zingaya, ВКонтакте
 
 - https://habr.com/ru/companies/Voximplant/articles/223431/
 - Отрасли: не найдено
 - Компании: Voximplant, Хабр, Звук
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IP-телефония, VoIP, голосовые real-time коммуникации, колл-центры, облачные IP АТС, разработка мобильных приложений, системы связи, телефония
+- Кандидаты компаний: ADT, Android, Android Studio, developer.android.com, Eclipse, IntelliJ IDEA, SIP, Viber, VoxEngine
 
 - https://habr.com/ru/companies/Voximplant/articles/226057/
 - Отрасли: Веб-разработка, CRM
 - Компании: Voximplant, Хабр, Звук
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: интернет-магазины, контакт-центры, системы связи
+- Кандидаты компаний: CRM, GitHub
 
 - https://habr.com/ru/companies/Voximplant/articles/229593/
 - Отрасли: Веб-разработка
 - Компании: Хабр, Voximplant, ОК, t2, Звук
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Аудио-конференции, Системы связи
+- Кандидаты компаний: bootstrap, GitHub, Habr, jquery, Reactjs, Skype
 
 - https://habr.com/ru/companies/Voximplant/articles/231319/
 - Отрасли: не найдено
 - Компании: Хабр, Voximplant, Яндекс
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: системы связи
+- Кандидаты компаний: export.yandex.ru, weather.yandex.ru, Yandex
 
 - https://habr.com/ru/companies/Voximplant/articles/231383/
 - Отрасли: Веб-разработка
 - Компании: Хабр, Voximplant
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Системы связи
+- Кандидаты компаний: Bootstrap, GitHub, VoxEngine
 
 - https://habr.com/ru/companies/Voximplant/articles/242397/
 - Отрасли: не найдено
 - Компании: Хабр, Voximplant
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IP-телефония, Системы связи
+- Кандидаты компаний: GitHub, VoxEngine
 
 - https://habr.com/ru/companies/Voximplant/articles/243809/
 - Отрасли: Веб-разработка
 - Компании: Хабр, Voximplant
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Системы связи
+- Кандидаты компаний: Yandex
 
 - https://habr.com/ru/companies/Voximplant/articles/247345/
 - Отрасли: не найдено
 - Компании: Хабр, Voximplant, Звук
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Системы связи
+- Кандидаты компаний: cdn.voximplant.com, demos.zingaya.com, manage.voximplant.com, Zingaya
 
 - https://habr.com/ru/companies/Voximplant/articles/248735/
 - Отрасли: Веб-разработка
 - Компании: Хабр, Voximplant, МТС, билайн, Мегафон
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: системы связи, телефония
+- Кандидаты компаний: VoxEngine
 
 - https://habr.com/ru/companies/Voximplant/articles/249647/
 - Отрасли: Веб-разработка
 - Компании: Хабр, Voximplant
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Системы связи
+- Кандидаты компаний: VoxImplant Web SDK
 
 - https://habr.com/ru/companies/Voximplant/articles/250899/
 - Отрасли: Веб-разработка
 - Компании: Хабр, Voximplant, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Системы связи
+- Кандидаты компаний: Google, Yandex
 
 - https://habr.com/ru/companies/Voximplant/articles/253041/
 - Отрасли: Мобильные технологии
 - Компании: Voximplant, Хабр, ОК
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Системы связи
+- Кандидаты компаний: Appcelerator, Apple, Chrome, Cisco, Firefox, IE, Parse, PhoneGap, Zingaya
 
 - https://habr.com/ru/companies/Voximplant/articles/258031/
 - Отрасли: Веб-разработка
 - Компании: Voximplant, Хабр
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Системы связи
+- Кандидаты компаний: Facebook, FB
 
 - https://habr.com/ru/companies/Voximplant/articles/260475/
 - Отрасли: Веб-разработка, CRM
 - Компании: Хабр, Voximplant
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Системы связи
+- Кандидаты компаний: Мегаплан
 
 - https://habr.com/ru/companies/Voximplant/articles/261037/
 - Отрасли: Веб-разработка
 - Компании: Хабр, Voximplant, Звук, Арендовать
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Системы связи
+- Кандидаты компаний: github.com, Skype
 
 - https://habr.com/ru/companies/Voximplant/articles/262233/
 - Отрасли: не найдено
 - Компании: Хабр, Voximplant
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Facebook, GitHub, Oracle, VirtualBox, ВКонтакте
 
 - https://habr.com/ru/companies/Voximplant/articles/263179/
 - Отрасли: Веб-разработка
 - Компании: Хабр, Voximplant
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: euroshow, Facebook, GitHub, ibecom, skype, slack, timepad, X, ВКонтакте
 
 - https://habr.com/ru/companies/Voximplant/articles/264275/
 - Отрасли: предлагает, телекома, провайдер
