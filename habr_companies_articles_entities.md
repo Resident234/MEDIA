@@ -59856,151 +59856,151 @@
 - Отрасли: не найдено
 - Компании: Хабр, Юзтех, Samsung
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Doka.guide, freeCodeCamp, GitHub, Google Fonts, MDN Web Docs, Medium, Samsung Internet, Usetech, W3Schools, xhtml.ru, YouTube, ГК Юзтех
 
 - https://habr.com/ru/companies/usetech/articles/713592/
 - Отрасли: не найдено
 - Компании: Хабр, Юзтех, Далее
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: io.tarantool, JPA, PostgreSQL, Spring, Spring Data JPA, spring-data-tarantool, Tarantool, Tarantool Cartridge, Tarantool Data Grid, Usetech, ГК Юзтех
 
 - https://habr.com/ru/companies/usetech/articles/718200/
 - Отрасли: хостинг, медиа, предлагает, Мобильные технологии
 - Компании: Хабр, Юзтех, предлагает
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT
+- Кандидаты компаний: Chrome, Edge, Google, Google Fonts, Habr, OpenReplay, Opera, PageSpeed, Pingdom, PostCSS, PurgeCSS, SASS, UnusedCSS, Usetech, W3, WebPageTest, WebSite Speed Test, ГК Юзтех
 
 - https://habr.com/ru/companies/usetech/articles/719102/
 - Отрасли: предлагает, Мобильные технологии
 - Компании: Хабр, Юзтех, предлагает, KTS
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: мобильная разработка
+- Кандидаты компаний: Cloud Storage, Firebase, Firebase Authentication, Firebase Realtime Database, Firebase Storage, Firestore, Google, Habr, MongoDB, Usetech
 
 - https://habr.com/ru/companies/usetech/articles/722988/
 - Отрасли: не найдено
 - Компании: Хабр, Юзтех
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: системное администрирование
+- Кандидаты компаний: Elasticsearch, ELK, Habr, Usetech, ГК Юзтех
 
 - https://habr.com/ru/companies/usetech/articles/729434/
 - Отрасли: не найдено
 - Компании: Хабр, Юзтех
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Deno, lodash, MDN, Node.js, Usetech
 
 - https://habr.com/ru/companies/usetech/articles/731808/
 - Отрасли: Поисковые технологии
 - Компании: Хабр, Юзтех
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Apple, Habr, iOS SDK, SPM, Swift, SwiftSyntax, Usetech, WWDC
 
 - https://habr.com/ru/companies/usetech/articles/734338/
 - Отрасли: процессинг
 - Компании: Хабр, Юзтех, KTS
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: разработка мобильных приложений
+- Кандидаты компаний: Android Studio, Dagger, Flutter, GK Usetech, Glide, Google, Gradle, JetBrains, Jetpack, Jetpack Compose, KAPT, Koin, Kotlin, KSP, Mochi, Now in Android, Room, Usetech
 
 - https://habr.com/ru/companies/usetech/articles/735914/
 - Отрасли: Веб-разработка, предлагает
 - Компании: Хабр, Юзтех, предлагает, Далее
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Habr, Usetech
 
 - https://habr.com/ru/companies/usetech/articles/740046/
 - Отрасли: Дизайн и юзабилити, digital
 - Компании: Хабр, Юзтех
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: игровая индустрия
+- Кандидаты компаний: App Store, Apple, Unity, ГК Usetech
 
 - https://habr.com/ru/companies/usetech/articles/740512/
 - Отрасли: Enterprise
 - Компании: Хабр, Юзтех, Бэклог
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Figma, Habr, Miro, SAFe, Scaled Agile Framework, Usetech, vc.ru, WEEEK
 
 - https://habr.com/ru/companies/uzum/articles/top/
 - Отрасли: e-commerce, Информационная безопасность, ML
 - Компании: Uzum, Хабр
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Ansible, Grafana, OpenApi Initiative, Oracle, PostgreSQL, sqlc, Uzum Fintech, Uzum Market, Uzum Tezkor, WireMock
 
 - https://habr.com/ru/companies/vasexperts/articles/313554/
 - Отрасли: операторы связи
 - Компании: Хабр, VAS Experts
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-инфраструктура, связь, Серверное администрирование, Сетевые технологии, Стандарты связи
+- Кандидаты компаний: 3GPP
 
 - https://habr.com/ru/companies/vasexperts/articles/313556/
 - Отрасли: хостинг, Оптимизация
 - Компании: Хабр, VAS Experts, RUTUBE, VK, Цифра
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: iiNet, Netflix, Skype, Viber, vk.com, YouTube, СКАТ DPI
 
 - https://habr.com/ru/companies/vasexperts/articles/313558/
 - Отрасли: хостинг, Программное обеспечение, Аппаратное обеспечение
 - Компании: Хабр, VAS Experts, серверы
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: телеком-компании
+- Кандидаты компаний: Allot, Cisco, Heavy Reading, Huawei, Intel, Napa Labs, Peter-Service, Procera, Sandvine, Протей
 
 - https://habr.com/ru/companies/vasexperts/articles/313562/
 - Отрасли: Информационная безопасность, e-commerce, предлагает, IoT, Программное обеспечение, операторы связи
 - Компании: Хабр, VAS Experts, Цифра, предлагает, серверы
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Мессенджеры, Системы связи
+- Кандидаты компаний: Arbor Networks, Cisco, Symantec, Twitter, СКАТ
 
 - https://habr.com/ru/companies/vasexperts/articles/315008/
 - Отрасли: e-commerce, Оптимизация, Программное обеспечение, IoT
 - Компании: Хабр, VAS Experts
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Системы связи
+- Кандидаты компаний: Роскомнадзор, ФСБ
 
 - https://habr.com/ru/companies/vasexperts/articles/316270/
 - Отрасли: e-commerce, Программное обеспечение, операторы связи
 - Компании: Хабр, VAS Experts
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Facebook, Google, Netflix, Twitter, СКАТ
 
 - https://habr.com/ru/companies/vasexperts/articles/316272/
 - Отрасли: e-commerce
 - Компании: Хабр, VAS Experts
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Системы связи
+- Кандидаты компаний: A10 Thunder, AfriNIC, APNIC, ARIN, F5 BIG-IP Carrier-Grade NAT, IANA, LACNIC, RIPE NCC
 
 - https://habr.com/ru/companies/vasexperts/articles/316274/
 - Отрасли: e-commerce, робототехника, Дизайн и юзабилити, предлагает
 - Компании: Хабр, VAS Experts, предлагает
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Интернет вещей, Разработка игр
+- Кандидаты компаний: Cognitive Technologies, Grishin Robotics, IEEE, IEEE Global Initiative, Mail.ru Group, Uber
 
 - https://habr.com/ru/companies/vasexperts/articles/316276/
 - Отрасли: Веб-разработка, e-commerce, Программное обеспечение
 - Компании: Хабр, VAS Experts
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: защита от DDoS, Интернет вещей, разработка мобильных приложений, разработка под e-commerce, системы глубокого анализа трафика
+- Кандидаты компаний: CC, DPI СКАТ, Facebook, Flickr, F▲IL, Google, Google Maps, Google Street View, Honeypot, IEEE, Phil Haack, TextCAPTCHA, The New York Times, VASExperts
 
 - https://habr.com/ru/companies/vasexperts/articles/316278/
 - Отрасли: Аппаратное обеспечение, провайдер
 - Компании: Хабр, VAS Experts, Gartner, Цифра, TATA communications, провайдер
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-инфраструктура, производство очковых линз
+- Кандидаты компаний: Cisco, Cisco CPE, Cisco Intelligent WAN, Cisco PfR, Essilor, Flickr, Glue Networks, Gluware Orchestration Engine, IEEE, Intel, IWAN, IZO SDWAN, IZO SDWAN Prime, IZO SDWAN Select, Versa Networks, YouTube
 
 - https://habr.com/ru/companies/vasexperts/articles/319624/
 - Отрасли: Информационная безопасность, e-commerce, аналитики
 - Компании: Хабр, VAS Experts, RUTUBE, серверы
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: системы связи
+- Кандидаты компаний: Cisco, Flickr, Heavy Reading, iiNet, Netflix, Norlando Pobre, Skype, SlideShare, Viber, YouTube, КРОС-2014, Минюст, РКН
 
 - https://habr.com/ru/companies/vasexperts/articles/319626/
 - Отрасли: не найдено
 - Компании: Хабр, VAS Experts
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-инфраструктура, сетевые технологии, стандарты связи, центры обработки данных
+- Кандидаты компаний: ANADYR.NET, Flickr, NTT, OSA
 
 - https://habr.com/ru/companies/vasexperts/articles/319628/
 - Отрасли: Информационная безопасность, e-commerce, провайдер, IoT
 - Компании: Хабр, VAS Experts, провайдер
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: ИТ-инфраструктура, рынок интернет-провайдеров, системы связи
+- Кандидаты компаний: 3GPP, ANADYR.NET, Flickr, OpenWrt, The New York Times, VASExperts, Роскомнадзор
 
 - https://habr.com/ru/companies/vasexperts/articles/319630/
 - Отрасли: e-commerce, Программное обеспечение
