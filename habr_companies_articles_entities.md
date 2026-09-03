@@ -19655,152 +19655,152 @@
 - https://habr.com/ru/companies/itglobalcom/articles/746236/
 - Отрасли: не найдено
 - Компании: Хабр, ITGLOBAL.COM
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Игры и игровые консоли
+- Кандидаты компаний: Bullfrog Production, Bullfrog Productions, Electronic Arts, Epic Games Store, GOG, Lionhead Studios, Sony, Steam, Triada, Virgin
 
 - https://habr.com/ru/companies/itglobalcom/articles/746252/
 - Отрасли: облачные сервисы, аналитики, Программное обеспечение
 - Компании: Хабр, ITGLOBAL.COM, Samsung, AMD, серверы, VStack
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: 3D-дизайна, видеоиграх, Графический дизайн, искусственного интеллекта (ИИ), компьютерной графики, машинного обучения, научных симуляций, Процессоры
+- Кандидаты компаний: GeForce 256, GeForce 256 DDR, GeForce 8800 GTX, IBM, Nvidia, VisionTek
 
 - https://habr.com/ru/companies/itglobalcom/articles/746970/
 - Отрасли: не найдено
 - Компании: Хабр, ITGLOBAL.COM
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: гейм индустрии
+- Кандидаты компаний: Belzebub, Dendy, Diablo 1 HD Mod, Diablo 2, Diablo I, Fallout Restoration Project, Hell 2, Panasonic 3DO, Sony PlayStation
 
 - https://habr.com/ru/companies/itglobalcom/articles/747034/
 - Отрасли: гейминг
 - Компании: Хабр, ITGLOBAL.COM, Samsung, Авито
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Гаджеты, Игры и игровые консоли, медиаустройства, медиацентр, Мониторы и ТВ, мультимедийные устройства, Планшеты, Смарт‑телевизоры, ТВ‑боксы
+- Кандидаты компаний: Android, archive.org, DEXP, GS GameKit, Haier, Kodi, LG, Mali, Micron, MXQ, RockChip, Rombica, Rombica V003, SD Firmware Tool, Tizen, Wayback Machine, WebOS, X96, Xbox, Xbox 360
 
 - https://habr.com/ru/companies/itglobalcom/articles/747430/
 - Отрасли: образование
 - Компании: Хабр, ITGLOBAL.COM
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Астрономия, Гончарное дело, Кино, Математика, Наука, Ткачество, Философия
+- Кандидаты компаний: Кинопоиск, Мусейон
 
 - https://habr.com/ru/companies/itglobalcom/articles/747436/
 - Отрасли: масштабируемость, IAAS, PaaS, облачные сервисы, предлагает, виртуальные
 - Компании: Хабр, ITGLOBAL.COM, Gartner, предлагает
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: paradise полное представительствоoit, Виртуализация рабочих станций, планирование конференции, прокофоресорская облачная инфраструктура, публикующие организации, технологии облачных услуг
+- Кандидаты компаний: Citrix, DevBox, Matryx, Microsoft, QLogic, VMware
 
 - https://habr.com/ru/companies/itglobalcom/articles/747488/
 - Отрасли: СМИ, предлагает, Аппаратное обеспечение
 - Компании: Хабр, ITGLOBAL.COM, предлагает, Яндекс
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: интернет, интернет-СМИ, искусственный интеллект
+- Кандидаты компаний: Amazon, Apollo, Bard, ChatGPT, Etsy, Google, Google Ads, Instagram, LinkedIn, New York Times, OnlyFans, Reddit, Reddit is Fun, ReddPlanet, Snapchat, Stack Overflow, Sync, TikTok, Twitter, Wikipedia, YouTube
 
 - https://habr.com/ru/companies/itglobalcom/articles/748202/
 - Отрасли: предлагает
 - Компании: Хабр, ITGLOBAL.COM, предлагает, Space, Звук
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: гейм индустрии, Игры и игровые консоли
+- Кандидаты компаний: Dendy, Deus Ex, Kickstarter, Looking Glass Studios, Nightdive Studios, System Shock, System Shock 2, Thief, Thief II, TriOptimum, Ultima Underworld, Ultima Underworld II
 
 - https://habr.com/ru/companies/itglobalcom/articles/748692/
 - Отрасли: облачных сервисов
 - Компании: Хабр, ITGLOBAL.COM
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: облачные вычисления
+- Кандидаты компаний: Microsoft Research, ProviderX
 
 - https://habr.com/ru/companies/itglobalcom/articles/750062/
 - Отрасли: не найдено
 - Компании: Хабр, ITGLOBAL.COM, Далее, N+1
-- Кандидаты отраслей: не найдено
+- Кандидаты отраслей: биология, информатика, картография, математика, машинное обучение, социальные науки
 - Кандидаты компаний: не найдено
 
 - https://habr.com/ru/companies/itglobalcom/articles/751676/
 - Отрасли: не найдено
 - Компании: Хабр, ITGLOBAL.COM, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: интернет‑журнал
+- Кандидаты компаний: Habr, Medium
 
 - https://habr.com/ru/companies/itglobalcom/articles/752238/
 - Отрасли: Оптимизация, Поисковые технологии, облачных сервисов
 - Компании: Хабр, ITGLOBAL.COM, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: веб‑безопасность, поисковые системы, рекламный рынок, социальные платформы
+- Кандидаты компаний: Alphabet, Bing, Business Insider, Cloudflare, eMarketer, EZPR, Google, Google Play, Instagram, Reddit, SimilarWeb, Stack Overflow, The Washington Post, TikTok, Wikipedia, YouTube
 
 - https://habr.com/ru/companies/itglobalcom/articles/752432/
 - Отрасли: образование
 - Компании: Хабр, ITGLOBAL.COM, Далее
-- Кандидаты отраслей: не найдено
+- Кандидаты отраслей: астрофизика, физика, экономика, ядерная физика
 - Кандидаты компаний: не найдено
 
 - https://habr.com/ru/companies/itglobalcom/articles/753200/
 - Отрасли: телекоммуникации, образование
 - Компании: Хабр, ITGLOBAL.COM, Далее
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Варшавский университет, Ягеллонский университет
 
 - https://habr.com/ru/companies/itglobalcom/articles/753858/
 - Отрасли: не найдено
 - Компании: Хабр, ITGLOBAL.COM
-- Кандидаты отраслей: не найдено
+- Кандидаты отраслей: Архитектура, Искусство, Математика, Физика, Философия
 - Кандидаты компаний: не найдено
 
 - https://habr.com/ru/companies/itglobalcom/articles/753928/
 - Отрасли: образование
 - Компании: Хабр, ITGLOBAL.COM
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: кабельное телеграфирование, математика, телеграф, физика, электротехника
+- Кандидаты компаний: Electrician, Journal of the Society of Telegraph Engineers, Philosophical Magazine, Британского почтамта, Королевский колледж Лондона
 
 - https://habr.com/ru/companies/itglobalcom/articles/754328/
 - Отрасли: промышленность
 - Компании: Хабр, ITGLOBAL.COM, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: демография, политика, производство пищи, сельское хозяйство, экология, экономика
+- Кандидаты компаний: Telegram, Римский клуб
 
 - https://habr.com/ru/companies/itglobalcom/articles/754330/
 - Отрасли: Data science
 - Компании: Хабр, ITGLOBAL.COM, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: биология, производство
+- Кандидаты компаний: Mathematische Annalen, Петербургская академия наук, Российская академия наук, Санкт-Петербургский университет
 
 - https://habr.com/ru/companies/itglobalcom/articles/755026/
 - Отрасли: не найдено
 - Компании: Хабр, ITGLOBAL.COM, Яндекс, Samsung, Forrester, IDC, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Гаджеты, Носимая электроника, носимые устройства, смарт-колец, смарт-часов, смартфоны, фитнес-браслеты
+- Кандидаты компаний: Amazfit, Amazon, Apple, Asus, Ava, Bellabeat, Casio, Fitbit, Garmin, Happy Health, Jawbone, Misfit, Movano, Nowatch, Oura, Whoop, Xiaomi
 
 - https://habr.com/ru/companies/itglobalcom/articles/755082/
 - Отрасли: Оптимизация
 - Компании: Хабр, ITGLOBAL.COM, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: игровая индустрия, Игры и игровые консоли
+- Кандидаты компаний: Age of Empires, Blizzard, C&C Renegade, Command & Conquer, Command & Conquer Red Alert II, Command & Conquer Tiberian Sun, Command & Conquer Tiberium Sun, Commandos, Dune II, EA, Electronic Arts, Eye of the Beholder, Nox, Red Alert 2, The Legend of Kyrandia, Warcraft, Westwood Studios
 
 - https://habr.com/ru/companies/itq_group/articles/top/
 - Отрасли: финансового сектора
 - Компании: ITQ Group, Хабр
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: аутсорс, аутстаф, интеграторы, рынок IT-услуг, финансовый сектор
+- Кандидаты компаний: habr.com
 
 - https://habr.com/ru/companies/itsumma/articles/284584/
 - Отрасли: банках
 - Компании: Хабр, ITSumma, Хабр Карьера
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: банковский контроль, валютный контроль, внешняя торговля
+- Кандидаты компаний: webweg, РосФинНадзор, ЦБРФ
 
 - https://habr.com/ru/companies/itsumma/articles/328024/
 - Отрасли: digital, стриминг, ML, облачных сервисов
 - Компании: Хабр, ITSumma, Битрикс24, 1С, Хабр Карьера
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-инфраструктура, мониторинг, рекламные платформы, Серверное администрирование, техподдержка
+- Кандидаты компаний: 1С-Битрикс, Badoo, Bitrix24, Booking, Booking.com, Digital october, Jenkins, New Relic, Okmeter, Parallels, Zabbix
 
 - https://habr.com/ru/companies/itsumma/articles/332786/
 - Отрасли: СМИ
 - Компании: Хабр, ITSumma, Яндекс, Далее, ОК, ПИК, Цифра, Хабр Карьера
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: социальная сеть
+- Кандидаты компаний: Angular, Bindonce, FFmpeg, Gulp, ImageMagick, L5-repository, Laravel, Memcached, MySQL, Nginx, ngResource, TinyMCE, Проект 1917
 
 - https://habr.com/ru/companies/itsumma/articles/333650/
 - Отрасли: аналитики
 - Компании: Хабр, ITSumma, серверы, Хабр Карьера
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-инфраструктура, социальной сети
+- Кандидаты компаний: Amazon EC2 Container Registry, Ansible, AWS, Docker, Edwin, EnglishWithEdwin, Facebook Messenger, Google, Google Analytics, Neo4j, PostgreSQL, RabbitMQ
 
 - https://habr.com/ru/companies/itsumma/articles/334148/
 - Отрасли: Информационная безопасность
