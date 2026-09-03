@@ -61505,152 +61505,152 @@
 - https://habr.com/ru/companies/visiology/articles/533118/
 - Отрасли: BI, аналитики, Программное обеспечение, OLAP, BPM, ETL, Data science, маркетинге, Enterprise, масштабируемость
 - Компании: Хабр, Visiology, Gartner, InfoWatch, 1С, Лаборатория Касперского, Arenadata
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Business Intelligence
+- Кандидаты компаний: ClickHouse, Flipbox, Pentaho Mondrian, Polymedia, Polywall, PostgreSQL, Syncfusion, ViQube
 
 - https://habr.com/ru/companies/visiology/articles/536730/
 - Отрасли: BI, Natural Language Processing, аналитики, NLP, виртуальные, Data science, ML
 - Компании: Хабр, Visiology, Gartner, Далее, Базис
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Telegram
 
 - https://habr.com/ru/companies/visiology/articles/536732/
 - Отрасли: BI, аналитики, OLAP, ETL, Big Data, DWH
 - Компании: Хабр, Visiology, Arenadata, Яндекс
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Business Intelligence, Data Engineering, Хранение данных
+- Кандидаты компаний: ADB, ADCM, ADQM, Ansible, Arenadata QuickMarts, ClickHouse, Grafana, Graphite, Greenplum, Hadoop, Oracle, Vertica, ViQube
 
 - https://habr.com/ru/companies/visiology/articles/536734/
 - Отрасли: ETL, аналитики, BI, Enterprise, Data science, Big Data
 - Компании: Хабр, Visiology, 1С, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: госорганизации
+- Кандидаты компаний: AmoCRM, Apache, Cronicle, EasyMorph, Google, Informatica, JupyterHub, Loginom, Microsoft, Oracle, Pentaho, PETL, PostgreSQL, QlikView, SAP, Tableau, ViXtract
 
 - https://habr.com/ru/companies/visiology/articles/545124/
 - Отрасли: BI, Data science, Оптимизация, BPM, ERP, CRM, аналитики, OLAP, RPA, ETL
 - Компании: Хабр, Visiology, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Business Process Management (BPM), Data Engineering, Data Mining, Process Mining, бережливое производство, Визуализация данных, производственная организация
+- Кандидаты компаний: 7RedLines, McKinsey
 
 - https://habr.com/ru/companies/visiology/articles/571324/
 - Отрасли: не найдено
 - Компании: Хабр, Visiology, Proto
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: certbot, Docker, Let’s Encrypt, Nginx, TeamCity
 
 - https://habr.com/ru/companies/visiology/articles/579182/
 - Отрасли: BI, Big Data, Data science, ML, Machine Learning, аналитики, OLAP, Enterprise
 - Компании: Хабр, Visiology, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Business Intelligence, DS
+- Кандидаты компаний: Azure ML, Dataiku, DataRobot, H2O, Power BI, Qlik
 
 - https://habr.com/ru/companies/visiology/articles/580284/
 - Отрасли: ML, BI, аналитики, ETL, Data science
 - Компании: Хабр, Visiology, Далее
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Jupyter, JupyterHub, Power BI Desktop, Power BI Service, PowerBI, PowerQuery Editor, Qlik, ViQube
 
 - https://habr.com/ru/companies/visiology/articles/588767/
 - Отрасли: NLP, Natural Language Processing
 - Компании: Хабр, Visiology, Далее
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Google, Google Books Ngram Viewer, Habr, Yandex
 
 - https://habr.com/ru/companies/visiology/articles/594515/
 - Отрасли: предлагает
 - Компании: Хабр, Visiology, предлагает
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Docker, docker-compose, JetBrains, TeamCity
 
 - https://habr.com/ru/companies/visiology/articles/646907/
 - Отрасли: BI, ETL, предлагает, финансового, аналитики
 - Компании: Хабр, Visiology, предлагает, Далее, 1С
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: финансовая сфера
+- Кандидаты компаний: Anaplan
 
 - https://habr.com/ru/companies/visiology/articles/646909/
 - Отрасли: BI, BigData, Machine Learning, предлагает, аналитики, образование
 - Компании: Хабр, Visiology, Далее, предлагает, Базис, Яндекс
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: рынок BI
+- Кандидаты компаний: Anaplan, PowerBI, Qlik, QlikView, Tableau
 
 - https://habr.com/ru/companies/visiology/articles/646911/
 - Отрасли: BI, аналитики, ETL, кибербезопасности, Generative AI, Big Data, образование
 - Компании: Gartner, Хабр, Visiology, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: здравоохранении, логистических, торговых, финансовых
+- Кандидаты компаний: СберПро
 
 - https://habr.com/ru/companies/visiology/articles/650141/
 - Отрасли: Big Data, ERP, BI, финансах, Оптимизация
 - Компании: Хабр, Visiology, 1С, Россети, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: государственным органам
+- Кандидаты компаний: Excel, Postgres, SAP, Smart Forms, ViQube, Visiology Smart Forms, Русской Медной Компании, ситуационный центр ХМАО
 
 - https://habr.com/ru/companies/visiology/articles/660321/
 - Отрасли: Big Data, BI, ETL, аналитики
 - Компании: Хабр, Visiology, hh.ru, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: рынок труда
+- Кандидаты компаний: PowerBI, Qlik, Russian BI Chat, Tableau, Telegram, ViXtract, Институт Бизнес-Аналитики
 
 - https://habr.com/ru/companies/visiology/articles/661789/
 - Отрасли: BI, Big Data, аналитики, ETL, BigData
 - Компании: Хабр, Visiology
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: рынок BI
+- Кандидаты компаний: Accenture, Axenix, BI Consult, PowerBI, ViQube, Институт бизнес-аналитики, Корпорация МСП
 
 - https://habr.com/ru/companies/visiology/articles/661791/
 - Отрасли: BI, Big Data, облачные сервисы, ETL, аналитики
 - Компании: Visiology, Хабр
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: PowerBI, Qlik, SmartForms, Tableau, ViQube, ViTalk, ViXtract, Институт Бизнес-Аналитики
 
 - https://habr.com/ru/companies/visiology/articles/661795/
 - Отрасли: BI, Big Data, ETL
 - Компании: Visiology, Хабр, Arenadata, Далее
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Apache Airflow, Apache NiFi, Attunity, BI2BUSINESS, BusinessObjects, Clickhouse, Loginom, Lumira, Microsoft, MicroStrategy, Qlik, RoamBI, SAP, Tableau, ViXtract
 
 - https://habr.com/ru/companies/visiology/articles/662019/
 - Отрасли: BI, Big Data, аналитики, госсектора
 - Компании: Visiology, Хабр, Далее
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Google, Геоинтеллект, Департамент Цифрового Развития Ташкента, Центр Пространственных Исследований
 
 - https://habr.com/ru/companies/visiology/articles/667450/
 - Отрасли: Big Data, BI, аналитики, ETL, виртуальные
 - Компании: Хабр, Visiology, Далее, 1С
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: HP Vertica, Microsoft SQL Server, MySQL, Oracle, PostgreSQL, ViQube, Visiology BI, Visiology Dashboards, Visiology Platform, Геоинтеллект, ГРАФИТ, ГРАФИТИШ, Министерства связи
 
 - https://habr.com/ru/companies/visiology/articles/669572/
 - Отрасли: BI, Big Data, BigData, аналитики, ETL, OLAP
 - Компании: Visiology, Хабр
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: ClickHouse, Microsoft Power BI, SAP, Uber
 
 - https://habr.com/ru/companies/visiology/articles/676300/
 - Отрасли: BI, Big Data, аналитики
 - Компании: Хабр, Visiology, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: бизнес-аналитика
+- Кандидаты компаний: Microsoft Power BI, PowerBI, Report Server, Visiology 2.2X, Visiology 3.0, БЦ Port Plaza, Институт Бизнес-Аналитики, Круг Громова, ТехпоПрогресс
 
 - https://habr.com/ru/companies/visiology/articles/678346/
 - Отрасли: BI, Big Data, аналитики, BigData
 - Компании: Хабр, Visiology, SENSE
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Бизнес-аналитика
+- Кандидаты компаний: BI2BUSINESS, Loginom, Microsoft Power BI, Qlik, Qlik Sense
 
 - https://habr.com/ru/companies/visiology/articles/690026/
 - Отрасли: Big Data, BI, аналитики, BigData
 - Компании: Хабр, Visiology, Далее, Arenadata, ВТБ, Тинькофф
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: ритейлеры
+- Кандидаты компаний: Loginom, Navicon, Oracle, SAP, Unidata, ViQube, Лента, МВидео-Эльдорадо, Открытые Системы, УралХим
 
 - https://habr.com/ru/companies/visiology/articles/690028/
 - Отрасли: аналитики, BI
 - Компании: Axenix (ex-Accenture), Хабр, Visiology
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT
+- Кандидаты компаний: Accenture, Axenix, DeltaBI, FineBI, PowerBI, Pyramid Analytics, Qlik, Tableau
 
 - https://habr.com/ru/companies/visiology/articles/692876/
 - Отрасли: Big Data, BI, аналитики, ETL
