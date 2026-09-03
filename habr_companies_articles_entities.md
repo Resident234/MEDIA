@@ -17555,152 +17555,152 @@
 - https://habr.com/ru/companies/hh/articles/742554/
 - Отрасли: не найдено
 - Компании: Хабр, hh.ru
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT, Тестирование IT-систем
+- Кандидаты компаний: Log4j, maven, Selenium, testng
 
 - https://habr.com/ru/companies/hh/articles/746880/
 - Отрасли: аналитики
 - Компании: hh.ru, Хабр, Яндекс
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-системы, Тестирование
+- Кандидаты компаний: Atlassian Bamboo, Яндекс.Танк
 
 - https://habr.com/ru/companies/hh/articles/748840/
 - Отрасли: DWH
 - Компании: Хабр, hh.ru, VK, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT, Тестирование IT-систем
+- Кандидаты компаний: Aid, Hadoop, Miro, Pandora, Trino, Школа программистов
 
 - https://habr.com/ru/companies/hh/articles/752156/
 - Отрасли: не найдено
 - Компании: Хабр, hh.ru
-- Кандидаты отраслей: не найдено
+- Кандидаты отраслей: IT-индустрии, QA-инженеров, Тестирование IT-систем
 - Кандидаты компаний: не найдено
 
 - https://habr.com/ru/companies/hofftech/articles/715838/
 - Отрасли: Enterprise
 - Компании: Хабр, Hoff Tech
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Сетевое оборудование, сетевой автоматизации, Сетевые технологии
+- Кандидаты компаний: ADFS, Ansible, Authelia, Cisco IOS, devicetype‑library, django‑adfs, Excel, Git, GitHub, Keycloak, Nautobot, Netbox, netbox‑community, Oxidized, phpIPAM, phpypam, PostgreSQL, pynautobot, Rancid, Router OS, scrapli, textfsm
 
 - https://habr.com/ru/companies/hofftech/articles/721258/
 - Отрасли: не найдено
 - Компании: не найдено
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Habr
 
 - https://habr.com/ru/companies/hofftech/articles/728760/
 - Отрасли: RPA, ERP, предлагает, OCR
 - Компании: Хабр, Hoff Tech, 1С, предлагает, RDP
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT‑компании
+- Кандидаты компаний: GMCS, Google, Google Cloud Vision, Pix RPA, Pyrus, UiPath, Yandex
 
 - https://habr.com/ru/companies/hofftech/articles/738466/
 - Отрасли: Big Data, Data science, аналитики
 - Компании: Хабр, Hoff Tech
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: FMCG, гипермаркетов, интернет-магазина, маркетплейса, мебели, продукты питания, ритейл, товары для дома
+- Кандидаты компаний: Hoff
 
 - https://habr.com/ru/companies/hofftech/articles/739932/
 - Отрасли: аналитики
 - Компании: Хабр, Hoff Tech, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT‑решения, веб‑сервисы, мебельные гипермаркеты, тестирование программного обеспечения
+- Кандидаты компаний: BFG, Excel, GitHub, Hoff, Jenkins, Jira, Overload.yandex.net, Phantom, Yandex, Yandex.Tank
 
 - https://habr.com/ru/companies/homebank/articles/452752/
 - Отрасли: BigData, Big Data, облачных сервисов, Информационная безопасность
 - Компании: Хабр, Хоум Банк, Далее, Хабр Карьера
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Amazon Web Services, Apache Kafka, Apache Spark, Apache Zookeeper, AWS, EC2, OpenJDK, PuTTY, PuTTYgen, Scala-IDE, Ubuntu Server
 
 - https://habr.com/ru/companies/homebank/articles/457096/
 - Отрасли: Big Data, BigData, Machine Learning
 - Компании: Хабр, Хоум Банк, Хабр Карьера
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: банки, кредитные бюро, мобильные операторы
+- Кандидаты компаний: Hadoop, Hbase, HDFS, Jupyter, Kafka, Livy, SmartData, Spark, Tableau, Yarn
 
 - https://habr.com/ru/companies/homebank/articles/459852/
 - Отрасли: не найдено
 - Компании: Хабр, Хоум Банк, Хабр Карьера
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Adobe, Adobe After Effects, Airbnb, Glide, Google Play, Lottie
 
 - https://habr.com/ru/companies/homebank/articles/461891/
 - Отрасли: SaaS
 - Компании: Хабр, Хоум Банк, Далее, Хабр Карьера
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-инфраструктура, банковская отрасль
+- Кандидаты компаний: Artifactory, Azure, Docker, Docker Hub, GitLab, IPAM, Kubernetes, ManageIQ, oVirt, Puppet, Rancher, Red Hat, Red Hat CloudForms, vCenter, VMware, Zabbix, Хоум Кредит
 
 - https://habr.com/ru/companies/homebank/articles/463177/
 - Отрасли: аналитики, Программное обеспечение
 - Компании: Хабр, Хоум Банк, ОК, Хабр Карьера
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: банковский сектор, информационные технологии, телефония, центр обработки данных
+- Кандидаты компаний: BMC-Remedy, DameWare, DokuWiki, Genesys, Microsoft, Microsoft Forefront Identity Manager, Microsoft System Center Configuration Manager, Sphinx, Telegram, Viber, Хоум Кредит
 
 - https://habr.com/ru/companies/homebank/articles/469271/
 - Отрасли: не найдено
 - Компании: Хабр, Хоум Банк, Далее, Хабр Карьера
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Banking
+- Кандидаты компаний: .NET Core, bombardier, easyjson, encoding/json, fasthttp, Golang, Intel, Kestrel, net/http, Newtonsoft.Json, Ubuntu Server, Visual Studio
 
 - https://habr.com/ru/companies/homebank/articles/472870/
 - Отрасли: Enterprise
 - Компании: Хабр, Хоум Банк, Хабр Карьера
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Enterprise Agile Russia, Telegram, ВКонтакте
 
 - https://habr.com/ru/companies/homebank/articles/477314/
 - Отрасли: не найдено
 - Компании: Хабр, Хоум Банк, Samsung, Хабр Карьера
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Хоум Кредит
 
 - https://habr.com/ru/companies/homebank/articles/479712/
 - Отрасли: Big Data, аналитики
 - Компании: Хабр, Хоум Банк, Далее, Хабр Карьера
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: ElasticSearch, Habr, JIRA, LIME, SHAP, sklearn, XGBoost, Zabbix, Хоум Кредит
 
 - https://habr.com/ru/companies/homebank/articles/484414/
 - Отрасли: не найдено
 - Компании: Хабр, Хоум Банк, Хабр Карьера
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Банковская отрасль
+- Кандидаты компаний: 7‑Zip, Elasticsearch, Graylog, Nxlog, RAR
 
 - https://habr.com/ru/companies/homebank/articles/489956/
 - Отрасли: не найдено
 - Компании: Хабр, Хоум Банк, Далее, Хабр Карьера
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: интернет-банкинг, компьютерная анимация
+- Кандидаты компаний: Хоум Кредит
 
 - https://habr.com/ru/companies/homebank/articles/495160/
 - Отрасли: не найдено
 - Компании: Хабр, Хоум Банк, Хабр Карьера
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Banking
+- Кандидаты компаний: .Net Core, Camunda, Confluence, Grafana, GrayLog, Microsoft, Prometheus, SharePoint, Silverlight, Swagger, Word, Хоум Кредит Банк
 
 - https://habr.com/ru/companies/homebank/articles/660261/
 - Отрасли: Рекрутинг и HR, образование, гейминг
 - Компании: Хабр, Хоум Банк, VK, Хабр Карьера
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Банковский сектор, Киберспорт
+- Кандидаты компаний: FASTCUP, Home Credit Bank, Intel, Twitch, YouTube, Озона, Фейсита
 
 - https://habr.com/ru/companies/homebank/articles/662107/
 - Отрасли: Natural Language Processing, CRM, аналитики, NLP, ML
 - Компании: Хабр, Хоум Банк, Звук, Далее, Хабр Карьера
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Bert, DSS LAB, Fasttext, Keras, Natasha, Pymorphy2, Spacy, Word2Vec, Yargy
 
 - https://habr.com/ru/companies/homebank/articles/668592/
 - Отрасли: аналитики
 - Компании: Хабр, Хоум Банк, Далее, Хабр Карьера
-- Кандидаты отраслей: не найдено
+- Кандидаты отраслей: IT-индустрии, банковской сфере
 - Кандидаты компаний: не найдено
 
 - https://habr.com/ru/companies/homebank/articles/676830/
 - Отрасли: Natural Language Processing, предлагает
 - Компании: Хабр, Хоум Банк, предлагает, Далее, Хабр Карьера
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: банковский контакт-центр
+- Кандидаты компаний: Telegram, Банка Хоум Кредит
 
 - https://habr.com/ru/companies/homebank/articles/691692/
 - Отрасли: не найдено
