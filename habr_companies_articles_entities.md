@@ -60455,152 +60455,152 @@
 - https://habr.com/ru/companies/vasexperts/articles/440558/
 - Отрасли: не найдено
 - Компании: Хабр, VAS Experts
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-инфраструктура, Квантовые технологии, Системы связи
+- Кандидаты компаний: Flickr, Nick Harris, PxHere, VASExperts, Университет Джорджа Вашингтона, Университет Осаки, Университет Торонто, Университет Тоямы
 
 - https://habr.com/ru/companies/vasexperts/articles/441530/
 - Отрасли: провайдер
 - Компании: Хабр, VAS Experts, провайдер
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-инфраструктура, космический интернет, Космонавтика, Программно-определяемые сети, Системы связи, спутниковый интернет
+- Кандидаты компаний: LeoSat, LinkSure, Loon, OneWeb, ONOS, PICRYL, Starlink, Swamp Technologies, Systems Tool Kit, Telesat, Temporospatial SDN, U.S. National Archives, VASExperts
 
 - https://habr.com/ru/companies/vasexperts/articles/442342/
 - Отрасли: провайдер
 - Компании: Хабр, VAS Experts, Далее, провайдер
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-инфраструктура, интернет вещей, мобильные сети, оптоволоконные сети, сетевые технологии, системы связи
+- Кандидаты компаний: Deloitte, Flickr, Groman123, ICE, Infinera, M-Net, Nokia, Nokia Bell Labs, Splash, Tony Webster, TUM, Wikimedia, Мюнхенский технологический университет, ОЭСР
 
 - https://habr.com/ru/companies/vasexperts/articles/443106/
 - Отрасли: не найдено
 - Компании: Хабр, VAS Experts
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: ИТ, оптоволоконные сети
+- Кандидаты компаний: Ars Technica, CES, Flickr, Hacker News, Intel, USB Promoter Group, USB-IF, VASExperts
 
 - https://habr.com/ru/companies/vasexperts/articles/443984/
 - Отрасли: не найдено
 - Компании: Хабр, VAS Experts
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: HPC-решения, IT-инфраструктура, высоконагруженные системы, гетерогенные системы, искусственный интеллект, машинное обучение, сетевые технологии, ЦОД
+- Кандидаты компаний: BiomedNMR, CCIX, CINECA, GenZ, Wikimedia, Xilinx, Консорциум CXL
 
 - https://habr.com/ru/companies/vasexperts/articles/444528/
 - Отрасли: Программное обеспечение, образование, предлагает
 - Компании: Хабр, VAS Experts, Далее, предлагает
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Законодательство в IT, Издательская индустрия, Контент-индустрия, Копирайт, Культура, Мультипликация, Социальные сети, Хранение данных
+- Кандидаты компаний: ACCC, Flickr, Japan Cartoonists Association, YouTube, Агентство по делам культуры Японии, Европарламент, Комиссия по вопросам конкуренции и защиты потребителей, Министерство юстиции Сингапура, Парламент Японии, Японская ассоциация мультипликаторов
 
 - https://habr.com/ru/companies/vasexperts/articles/445064/
 - Отрасли: не найдено
 - Компании: Хабр, VAS Experts
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-инфраструктура, Законодательство в IT, интернет-индустрия, Исследования и прогнозы в IT, сетевые технологии
+- Кандидаты компаний: Backbone Campaign, CCIA, Common Cause, FCC, Flickr, Free Press, Mozilla, VASExperts, Ассоциация индустрии компьютеров и коммуникаций, Федеральная комиссия по связи
 
 - https://habr.com/ru/companies/vasexperts/articles/446058/
 - Отрасли: предлагает, Информационная безопасность
 - Компании: Хабр, VAS Experts, предлагает
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: 5G, DDOS, Edge computing, IT-инфраструктура, Open source, корпоративная безопасность, Серверное администрирование, сетевой нейтралитет, Сетевые технологии, системы DLP, строительство сетей операторов связи
+- Кандидаты компаний: CC BY, Coraid, Ernestas, Flickr, Floodlight, GENI Cinema, GitHub, Habr, Johannes Weber, Lighty.io, Linux Foundation, OESS, ONOS, Open Security Controller, OpenContrail, OpenDaylight, Ravel, Tungsten Fabric, YouTube
 
 - https://habr.com/ru/companies/vasexperts/articles/446120/
 - Отрасли: операторы связи, криптографии, Мобильные технологии
 - Компании: Хабр, VAS Experts, Цифра, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-стандарты, системы связи, спам и антиспам, стандарты связи
+- Кандидаты компаний: AT&T, Comcast, FCC, Flickr, GitHub, Mark Fischer, T-Mobile, USTelecom, Verizon, YouMail, Федеральная комиссия по связи США, Федеральная торговая комиссия США
 
 - https://habr.com/ru/companies/vasexperts/articles/446634/
 - Отрасли: не найдено
 - Компании: Хабр, VAS Experts
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: DLP, DPI, IPv6, NFV, виртуализация сетей, кибербезопасность, облачные вычисления, периферийные вычисления, туманные вычисления
+- Кандидаты компаний: CC, Containernet, Dennis van Zuijlekom, Docker, Flickr, GitHub, MaxiNet, Mininet, NetAnim, ns-3, OpenNet, PD, PxHere, SONATA NFV, Tinynet, Wireshark
 
 - https://habr.com/ru/companies/vasexperts/articles/447040/
 - Отрасли: аналитики
 - Компании: Хабр, VAS Experts, IDC, Gartner, DELL, серверы
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-инфраструктура, исследования и прогнозы в IT, рынок коммутаторов для дата-центров, рынок оборудования для ЦОД, серверное администрирование, сетевое оборудование, сфера хранения данных
+- Кандидаты компаний: Arista, Cisco, Crehan Research, Dell’Oro, Facebook, Intel, Juniper, Open Compute, Pixabay, Statista, VASExperts, Wikimedia
 
 - https://habr.com/ru/companies/vasexperts/articles/452288/
 - Отрасли: финансы, Мобильные технологии, телекома, провайдер, операторы связи
 - Компании: Хабр, VAS Experts, провайдер
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT, защита прав потребителей, кредитные услуги, маркетинг, мобильная связь, правоохранительная деятельность, реклама, системы связи, сотовая связь
+- Кандидаты компаний: AT&T, FCC, Flickr, FTC, Microbilt, Motherboard, Public Knowledge, Securus, Sprint, T-Mobile, The New York Times, Unsplash, VASExperts, Verizon, Z Law
 
 - https://habr.com/ru/companies/vasexperts/articles/452312/
 - Отрасли: финансы, медиа, провайдер, телекоммуникации
 - Компании: Хабр, VAS Experts, провайдер
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-компании, малый бизнес, сетевые технологии, финансы в IT
+- Кандидаты компаний: ACCC, BT, EE, Flickr, Hyperoptic, nate bolt, Nick Fewings, Ofcom, Openreach, Sky, TalkTalk, Unsplash, VASExperts, Virgin Media, Vodafone, Zen Internet
 
 - https://habr.com/ru/companies/vasexperts/articles/453128/
 - Отрасли: Информационная безопасность, телекома, IoT
 - Компании: Хабр, VAS Experts
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: сетевые технологии, системы связи, телеком-индустрия
+- Кандидаты компаний: AZToshkov, BroadCom, GitHub, Pixabay, Wikimedia
 
 - https://habr.com/ru/companies/vasexperts/articles/457106/
 - Отрасли: Мобильные технологии
 - Компании: Хабр, VAS Experts, Цифра
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT, системы связи, спам и антиспам, стандарты связи, телефонная связь
+- Кандидаты компаний: ACA International, Cisco, Comcast, Do Not Call Registry, FCC, FTC, Ministerство юстиции США, SHAKEN/STIR, Stopping Bad Robocalls, T-Mobile, TRACED, Verizon, YouMail, Конгресс США, Палата представителей США
 
 - https://habr.com/ru/companies/vasexperts/articles/461431/
 - Отрасли: СМИ, кибербезопасности, Связь и телекоммуникации
 - Компании: Хабр, VAS Experts, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-инфраструктура, интернет-провайдеры, кибербезопасность, Стандарты связи
+- Кандидаты компаний: APNIC, British Telecom, Cloudflare, FireEye, GCHQ, Godlua, Google, IETF, Internet Services Providers Association, Internet Watch Foundation, ISPA, IWF, Mozilla, Netlab, Steve Halama, TETrebbien, Unsplash, VASExperts
 
 - https://habr.com/ru/companies/vasexperts/articles/461443/
 - Отрасли: Информационная безопасность
 - Компании: Хабр, VAS Experts, Далее, серверы
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-инфраструктура, Серверное администрирование
+- Кандидаты компаний: Chunlea Ju, Fifth Horseman, GitHub, GnuPG, IETF, keys.openpgp.org, OpenPGP, Rubén Bagüés, SKS Keyserver, Unsplash, VASExperts
 
 - https://habr.com/ru/companies/vasexperts/articles/462359/
 - Отрасли: хостинг
 - Компании: Хабр, VAS Experts
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-стандарты, P2P-сети, Анализ и проектирование систем, государственные услуги, интернет-провайдеры, научная информация, обмен данными, Хранение данных
+- Кандидаты компаний: Alina Grubnyak, Beaker, Code for America, Code for Science & Society, Dat Foundation, Electron, GitHub, Hashbase, InterPlanetary File System, IPFS, Lens, Mozilla, Neocities, OpenBazaar, SKS Keyserver, Sven Brandsma, Unsplash, VASExperts, Wireline
 
 - https://habr.com/ru/companies/vasexperts/articles/462435/
 - Отрасли: аналитики, операторы связи, Связь и телекоммуникации
 - Компании: Хабр, VAS Experts
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-инфраструктура, Сетевые технологии, Системы связи
+- Кандидаты компаний: AFRINIC, APNIC, ARIN, AT&T, Cisco, Comcast, D-Link, Free Telecom, Internode, LACNIC, MIT, RIPE, XS4ALL
 
 - https://habr.com/ru/companies/vasexperts/articles/465535/
 - Отрасли: не найдено
 - Компании: Хабр, VAS Experts
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-инфраструктура, Исследования и прогнозы в IT, Системы связи, Стандарты связи
+- Кандидаты компаний: ARIN, AT&T, Cisco, Comcast, Facebook, Internode, SIE Worldwide Studios, XS4ALL, ООН, Ратгерский университет
 
 - https://habr.com/ru/companies/vasexperts/articles/466191/
 - Отрасли: СМИ, провайдер
 - Компании: Хабр, VAS Experts, провайдер
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: ИТ
+- Кандидаты компаний: AOL Time Warner, Business Insider, CNN, Comcast, Comcast NBC Universal, Facebook, FCC, Forbes, Google, Madison River Communications, MetroPCS, Netflix, Twitter, Verizon, Vonage
 
 - https://habr.com/ru/companies/vasexperts/articles/466567/
 - Отрасли: провайдер
 - Компании: Хабр, VAS Experts, провайдер, серверы, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: интернет-провайдеры, связь, телеком
+- Кандидаты компаний: Ericsson, Etherway, Extreme, Google, Huawei, IVA Technologies, X-COM
 
 - https://habr.com/ru/companies/vasexperts/articles/466949/
 - Отрасли: Аппаратное обеспечение
 - Компании: Хабр, VAS Experts, ИТМО, РЖД
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: банковская сфера, железнодорожный транспорт, криптография, фармацевтика
+- Кандидаты компаний: DARPA, PwC, Австрийская академия наук, Китайская академия наук, РКЦ
 
 - https://habr.com/ru/companies/vasexperts/articles/468999/
 - Отрасли: торговли, СМИ
 - Компании: Хабр, VAS Experts
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: международная торговля
+- Кандидаты компаний: Alphabet Inc., GCI, General Communication, Loon, Quartz, SpeedTest, The Telegraph
 
 - https://habr.com/ru/companies/vasexperts/articles/471178/
 - Отрасли: провайдер
 - Компании: Хабр, VAS Experts, серверы, Далее, провайдер
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Системы связи
+- Кандидаты компаний: Google Global Cache, Google Maps, Google Play, MicroSoft Active Directory, Netflix, Yota de Nicaragua, YouTube, СКАТ DPI
 
 - https://habr.com/ru/companies/vasexperts/articles/472292/
 - Отрасли: медиа, Программное обеспечение
