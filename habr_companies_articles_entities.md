@@ -69906,37 +69906,37 @@
 - Отрасли: не найдено
 - Компании: не найдено
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Habr
 
 - https://habr.com/ru/company/macloud/blog/549966/
 - Отрасли: Веб-разработка, SaaS, PaaS, IAAS, IoT, хостинг, AI/ML, виртуальные, аналитики, облачные сервисы, PKI, медиа, Информационная безопасность, информационной безопасности, предлагает, Электронная коммерция
 - Компании: Хабр, Яндекс, серверы, предлагает
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Open source, Аналитика, Машинное обучение, Управление разработкой
+- Кандидаты компаний: Amazon DynamoDB, Amazon Lambda, Amazon SNS, Amazon Web Services, App Engine, BigQuery, Cloud Build, Cloud Firestore, Cloud Functions, Cloud Pub/Sub, Cloud Run, Cloud Shell, Cloud Source Repositories, Cloud Storage, Compute Engine, free-for-dev, Google Cloud Platform, Google Kubernetes Engine, PackageCloud, Маклауд
 
 - https://habr.com/ru/company/macloud/blog/554008/
 - Отрасли: хостинг
 - Компании: Хабр, серверы
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Amphp, Composer, JetBrains, Kinsta, Laravel, Packagist.com, PhpStan, PhpStorm, Psalm, ReactPHP, RoadRunner, stitcher.io, Swoole, Маклауд
 
 - https://habr.com/ru/company/macloud/blog/565508/
 - Отрасли: Мобильные технологии
 - Компании: Хабр
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-индустрия, рынок домашних компьютеров, рынок игровых приставок, рынок носимых гаджетов, рынок онлайн-сервисов, рынок персональных компьютеров
+- Кандидаты компаний: AOL, Apple, Apple Pippin, ARM, Bandai, Commodore PET, IBM, Macintosh Classic II, Palm, Palm Computing, Performa, PlayStation, Pocket PC, Sony, TRS-80, Маклауд
 
 - https://habr.com/ru/company/mailru/blog/
 - Отрасли: не найдено
 - Компании: не найдено
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Habr
 
 - https://habr.com/ru/company/mailru/blog/215487/
 - Отрасли: Веб-разработка, образование, предлагает, Дизайн и юзабилити, онлайн-курсы
 - Компании: Хабр, VK, предлагает, Хабр Карьера
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: веб-дизайн, интернет-индустрия, программирование
+- Кандидаты компаний: 37signals, Android Training Android Training, Basecamp, Campfire, Code Academy, Code Avengers, Coderwall, Google, Google Developers University Consortium, Hacker Rank, Mail.Ru Group, Mozilla, Mozilla Webmaker, PeepCode, Pluralsight, TekPub, The Starter League, МГТУ им. Баумана, Технопарк
 
 - https://habr.com/ru/company/mailru/blog/301004/
 - Отрасли: Веб-разработка
@@ -69948,7 +69948,7 @@
 - Отрасли: Enterprise
 - Компании: Хабр, VK, Хабр Карьера
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Alpari, Composer, GitHub, Gitweb, it.mail.ru, Mail.Ru Group, MySQL, MySQLi, Packagist, PDO, PHP, Symfony, Symfony2, VK PHP
 
 - https://habr.com/ru/company/mailru/blog/305906/
 - Отрасли: Веб-разработка
@@ -69966,91 +69966,91 @@
 - Отрасли: Информационная безопасность, Веб-разработка
 - Компании: Хабр, VK, Далее, Хабр Карьера
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Hackerone, IBM, Internet Bug Bounty, Pornhub, pornhub.com
 
 - https://habr.com/ru/company/mailru/blog/308788/
 - Отрасли: Веб-разработка, Дизайн и юзабилити, ТЭК
 - Компании: Хабр, VK, Хабр Карьера
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Collins, Django, PHP — The Wrong Way, Ruby on Rails
 
 - https://habr.com/ru/company/mailru/blog/310054/
 - Отрасли: Веб-разработка, Оптимизация
 - Компании: Хабр, VK, Далее, Хабр Карьера
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Blackfire, Wordpress
 
 - https://habr.com/ru/company/mailru/blog/310726/
 - Отрасли: Информационная безопасность
 - Компании: Хабр, VK, OWASP, Контур, Хабр Карьера
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Composer, Github, Kali Linux, Mail.Ru Group, Packagist.org
 
 - https://habr.com/ru/company/mailru/blog/311068/
 - Отрасли: виртуальные
 - Компании: Хабр, VK, Далее, RET, Хабр Карьера
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Zend
 
 - https://habr.com/ru/company/mailru/blog/314014/
 - Отрасли: не найдено
 - Компании: Хабр, VK, Далее, Хабр Карьера
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: American Fuzzy Lop, Apple, ECMA, IETF, JSON Checker, json.org, JSONTestSuite, Xcode
 
 - https://habr.com/ru/company/mailru/blog/317180/
 - Отрасли: Аппаратное обеспечение
 - Компании: Хабр, VK, Далее, AMD, Хабр Карьера
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: автомобильные системы, интернет вещей
+- Кандидаты компаний: Android
 
 - https://habr.com/ru/company/mailru/blog/318008/
 - Отрасли: Веб-разработка, Программное обеспечение, Оптимизация
 - Компании: Хабр, VK, Хабр Карьера
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Blackfire, Symfony, Zend
 
 - https://habr.com/ru/company/mailru/blog/325492/
 - Отрасли: Веб-разработка, Дизайн и юзабилити, Информационная безопасность, Программное обеспечение
 - Компании: Хабр, VK, быструю, Хабр Карьера
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Википедия
 
 - https://habr.com/ru/company/mailru/blog/326696/
 - Отрасли: Оптимизация
 - Компании: Хабр, VK, Далее, Хабр Карьера
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Zend
 
 - https://habr.com/ru/company/mailru/blog/329258/
 - Отрасли: не найдено
 - Компании: Хабр, VK, серверы, Хабр Карьера
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Apache, Converse, Memcache
 
 - https://habr.com/ru/company/mailru/blog/329446/
 - Отрасли: предлагает
 - Компании: Хабр, VK, предлагает, серверы, Далее, Хабр Карьера
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: ActiveMQ, AMQP, Gearman, Zend
 
 - https://habr.com/ru/company/mailru/blog/329494/
 - Отрасли: не найдено
 - Компании: Хабр, VK, Хабр Карьера
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: stitcher.io blog
 
 - https://habr.com/ru/company/mailru/blog/334078/
 - Отрасли: Веб-разработка, Дизайн и юзабилити, Программное обеспечение, виртуальные
 - Компании: Хабр, VK, Далее, Хабр Карьера
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: WordPress
 
 - https://habr.com/ru/company/mailru/blog/336788/
 - Отрасли: не найдено
 - Компании: Хабр, VK, Самолет, Хабр Карьера
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Clean Code, Hipster Brew Co., Honda
 
 - https://habr.com/ru/company/mailru/blog/340242/
 - Отрасли: не найдено
