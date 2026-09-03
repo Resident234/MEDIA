@@ -25205,152 +25205,152 @@
 - https://habr.com/ru/companies/lamoda/articles/551092/
 - Отрасли: Big Data, аналитики, BI, ETL, DWH
 - Компании: Хабр, Lamoda Tech
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Data Engineering
+- Кандидаты компаний: Amundsen, amundsendatabuilder, amundsenfrontendlibrary, amundsenmetadatalibrary, amundsensearch, Apache Atlas, AVRO, Confluence, DataHub, deequ, elasticsearch, Flask, Great Expectations, kafka-broker, kafka-rest-proxy, kafka-topics-ui, kibana, Lamoda, LinkedIn, Marquez, MySQL, neo4j, schema-registry, schema-registry-ui, zookeeper
 
 - https://habr.com/ru/companies/lamoda/articles/553178/
 - Отрасли: Рекрутинг и HR
 - Компании: Хабр, Lamoda Tech
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: доставка
+- Кандидаты компаний: Atlassian, DataMatrix, DPD, Express, Lamoda, XDC
 
 - https://habr.com/ru/companies/lamoda/articles/554358/
 - Отрасли: Мобильные технологии, торговли, аналитики
 - Компании: Хабр, Lamoda Tech
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: мобильные приложения, мобильные сервисы
+- Кандидаты компаний: Adjust, Facebook, Google, Huawei, Lamoda
 
 - https://habr.com/ru/companies/lamoda/articles/557046/
 - Отрасли: Поисковые технологии, e-commerce, Оптимизация, fashion, ML, Computer Vision
 - Компании: Хабр, Lamoda Tech, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: lifestyle
+- Кандидаты компаний: Elasticsearch, Google, Lamoda, Reebok
 
 - https://habr.com/ru/companies/lamoda/articles/559340/
 - Отрасли: e-commerce, Дизайн и юзабилити, процессинг, Электронная коммерция
 - Компании: Хабр, Lamoda Tech
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-индустрии, IT-сфера
+- Кандидаты компаний: Lamoda, Технотекст
 
 - https://habr.com/ru/companies/lamoda/articles/561610/
 - Отрасли: Информационная безопасность, информационной безопасности, телекоммуникации, телекоммуникаций, ERP, аналитики
 - Компании: Хабр, Lamoda Tech
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-инфраструктура, Датацентр, Инженерные системы, Онлайн-магазин, Сетевые технологии
+- Кандидаты компаний: Calico, CEPH, Cisco, Docker, Kubernetes, Lamoda, MSK-IX, Patroni
 
 - https://habr.com/ru/companies/lamoda/articles/562278/
 - Отрасли: не найдено
 - Компании: Хабр, Lamoda Tech, 1С
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Базы данных, Высоконагруженные системы
+- Кандидаты компаний: Docker, GitHub, Google, Intel, Lamoda, MacBook Pro, Postgres, PostgreSQL, Zoekt
 
 - https://habr.com/ru/companies/lamoda/articles/564626/
 - Отрасли: Big Data, Data science, масштабируемость
 - Компании: Хабр, Lamoda Tech
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Data Engineering, Искусственный интеллект, машинное обучение
+- Кандидаты компаний: ClickHouse, Google Drive, Hadoop, Lamoda, Slack, Spark
 
 - https://habr.com/ru/companies/lamoda/articles/569568/
 - Отрасли: Computer Vision, fashion, ML, Data science, Machine Learning
 - Компании: Хабр, Lamoda Tech
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: fashion industry
+- Кандидаты компаний: Airflow, Albumentations, Bing, ClearML, Google, Hydra, Lamoda, Microsoft, Optuna, Pinterest, PyTorch-Lightning, Инстаграма, Лакинатор
 
 - https://habr.com/ru/companies/lamoda/articles/578546/
 - Отрасли: не найдено
 - Компании: Хабр, Lamoda Tech
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Banking, Product Management, Project Management
+- Кандидаты компаний: Confluence, Jira, Lamoda
 
 - https://habr.com/ru/companies/lamoda/articles/579416/
 - Отрасли: аналитики, финансы, ERP, бухгалтерия, предлагает
 - Компании: Хабр, Lamoda Tech, Далее, предлагает
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: b2b-направление, IT-индустрии, доставка, контакт-центр, маркетинг, склад, фотостудия
+- Кандидаты компаний: Lamoda
 
 - https://habr.com/ru/companies/lamoda/articles/581446/
 - Отрасли: аналитики, предлагает
 - Компании: Хабр, Lamoda Tech, предлагает
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: B2B, UI/UX‑дизайн, UX‑исследования, Веб-дизайн, Дизайн Usability, Интерфейсы, Облачные системы, Онлайн‑сервисы, Продуктовый дизайн
+- Кандидаты компаний: Instagram, Jira, Lamoda
 
 - https://habr.com/ru/companies/lamoda/articles/593539/
 - Отрасли: Big Data, аналитики, fashion, Machine Learning
 - Компании: Хабр, Lamoda Tech
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Elasticsearch, Lamoda, Telegram
 
 - https://habr.com/ru/companies/lamoda/articles/595811/
 - Отрасли: DWH, аналитики, ML, ETL, BI, Рекрутинг и HR
 - Компании: Хабр, Lamoda Tech, Далее, 1С
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-инфраструктура, Хранение данных
+- Кандидаты компаний: Excel, Google Docs, Hadoop, Kafka, Lamoda, Oracle, Oracle APEX, Pentaho DI, Power BI, SAP BusinessObjects, Vertica
 
 - https://habr.com/ru/companies/lamoda/articles/596323/
 - Отрасли: ERP
 - Компании: Хабр, Lamoda Tech
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: ActiveMQ Artemis, Apache ActiveMQ Artemis, Keycloak, Lamoda, Microsoft Dynamics AX, Spring Boot, Tomcat, WildFly
 
 - https://habr.com/ru/companies/lamoda/articles/647033/
 - Отрасли: аналитики
 - Компании: Хабр, Lamoda Tech
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-индустрии, IT-рынок, банковские проекты, стартапы, Управление персоналом
+- Кандидаты компаний: Confluence, Lamoda
 
 - https://habr.com/ru/companies/lamoda/articles/648949/
 - Отрасли: не найдено
 - Компании: Хабр, Lamoda Tech, 1С, Далее, ОК, ПИК
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: малый бизнес, МСП
+- Кандидаты компаний: 1C, Google, H2, iText, JavaFX Weaver, Lamoda, Launch4j, Liberica, Maven, Oracle, SourceForge, Spring
 
 - https://habr.com/ru/companies/lamoda/articles/664322/
 - Отрасли: не найдено
 - Компании: Хабр, Lamoda Tech, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: облачные решения, службы доставки
+- Кандидаты компаний: ActiveMq, Apache Camel, Docker, Gradle, Karaf, Lamoda, Maven, OpenJDK, Redis, Servicemix, Spring Boot, Spring Cloud, Spring Initializr, WireMock
 
 - https://habr.com/ru/companies/lamoda/articles/672858/
 - Отрасли: Рекрутинг и HR
 - Компании: Хабр, Lamoda Tech, Звук
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: B2B, IT
+- Кандидаты компаний: Habr, Lamoda, Scrumtrack, Экопси
 
 - https://habr.com/ru/companies/lamoda/articles/673884/
 - Отрасли: рекрутинг, предлагает, Дизайн и юзабилити
 - Компании: Хабр, Lamoda Tech, предлагает
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Lamoda
 
 - https://habr.com/ru/companies/lamoda/articles/678932/
 - Отрасли: e-commerce, процессинг
 - Компании: Хабр, Lamoda Tech
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Kafka, Lamoda, Order Delivery, Payments, stock
 
 - https://habr.com/ru/companies/lamoda/articles/681564/
 - Отрасли: Веб-сервисы, Мобильные технологии
 - Компании: Хабр, Lamoda Tech, KTS, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: мобильных приложений
+- Кандидаты компаний: Android Studio, bamboo, Bitbucket, Danger, Docker, Github, Gitlab, Lamoda, nodejs, npm
 
 - https://habr.com/ru/companies/lamoda/articles/684658/
 - Отрасли: Big Data, аналитики, BI, ETL, OLAP, Дизайн и юзабилити, BigData
 - Компании: Хабр, Lamoda Tech
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Business intelligence, Data Engineering, IT-индустрии
+- Кандидаты компаний: Aerospike, Airflow, Apache Spark, Cassandra, DataLearn, HBase, Khan Academy, Lamoda, Lamoda Tech Big Data, Leetcode, Medium, mongoDB, MySQL, PostgreSQL, PySpark, Redis, SmartData, Stepik, Telegram, YouTube
 
 - https://habr.com/ru/companies/lamoda/articles/690468/
 - Отрасли: e-commerce, масштабируемость, BI, Дизайн и юзабилити, ERP
 - Компании: Хабр, Lamoda Tech, Бэклог
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: банковская сфера
+- Кандидаты компаний: Lamoda, MySQL
 
 - https://habr.com/ru/companies/lamoda/articles/690974/
 - Отрасли: недвижимости, аналитики
 - Компании: Бэклог, Хабр, Lamoda Tech, Яндекс, быструю
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-компании
+- Кандидаты компаний: Google, Google Презентации, Google Таблицы, Google Формы, Lamoda, Miro, N1.RU, Slack, YouTube, Zoom
 
 - https://habr.com/ru/companies/lamoda/articles/707816/
 - Отрасли: не найдено
