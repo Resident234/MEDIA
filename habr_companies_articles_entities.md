@@ -25655,152 +25655,152 @@
 - https://habr.com/ru/companies/lamptest/articles/554466/
 - Отрасли: умный дом, IoT
 - Компании: Хабр, LampTest
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Гаджеты, смарт-освещение
+- Кандидаты компаний: Hiper, Hiper IoT, Smart Life, Tuya
 
 - https://habr.com/ru/companies/lamptest/articles/555158/
 - Отрасли: не найдено
 - Компании: Хабр, LampTest
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Энергия и элементы питания
+- Кандидаты компаний: Aliexpress, Duracell, FixPrice, FLARX, HUANQIU, IKEA, Panasoniс, SONY, TMMQ, YCDC, Яростанмаш
 
 - https://habr.com/ru/companies/lamptest/articles/558278/
 - Отрасли: не найдено
 - Компании: Хабр, LampTest
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: щелочные батарейки, Энергия и элементы питания
+- Кандидаты компаний: Duracell, Energizer, Ergolux, FLARX, GP, IKEA, Varta, Wildberries, Ашан, Фотон, Яростанмаш
 
 - https://habr.com/ru/companies/lamptest/articles/562116/
 - Отрасли: умный дом
 - Компании: Хабр, LampTest, Сбербанк, Сбер, SberDevices, М.Видео
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Гаджеты
+- Кандидаты компаний: Sber, Sber Box, Sber Салют, SberPortal, Tuya, Wildberries
 
 - https://habr.com/ru/companies/lamptest/articles/563566/
 - Отрасли: не найдено
 - Компании: Хабр, LampTest, билайн
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Видеонаблюдение, Гаджеты, Интернет вещей
+- Кандидаты компаний: Aliexpress, CamHI, YouTube, Zilink, Связь Z
 
 - https://habr.com/ru/companies/lamptest/articles/568290/
 - Отрасли: не найдено
 - Компании: Хабр, LampTest
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Энергия и элементы питания
+- Кандидаты компаний: Alkalisk, Eneloop, IKEA, LiveJournal, Sanyo-Panasonic
 
 - https://habr.com/ru/companies/lamptest/articles/580228/
 - Отрасли: не найдено
 - Компании: Хабр, LampTest
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: освещение
+- Кандидаты компаний: IKEA, RYET
 
 - https://habr.com/ru/companies/lamptest/articles/583276/
 - Отрасли: не найдено
 - Компании: Хабр, LampTest, Fix Price
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: electronics, retail
+- Кандидаты компаний: Auchan, Pairdeer
 
 - https://habr.com/ru/companies/lamptest/articles/595601/
 - Отрасли: не найдено
 - Компании: Хабр, LampTest
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Гаджеты, картинные галереи, магазины дорогой одежды
+- Кандидаты компаний: LiveJournal, OSRAM, Philips, Uprtek
 
 - https://habr.com/ru/companies/lamptest/articles/600005/
 - Отрасли: не найдено
 - Компании: Хабр, LampTest, Леруа Мерлен
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: светодиодные лампы
+- Кандидаты компаний: Gauss, Ledvance, Leroy Merlin, Lexman, OSRAM, Varton
 
 - https://habr.com/ru/companies/lamptest/articles/649133/
 - Отрасли: DIY
 - Компании: Хабр, LampTest, Леруа Мерлен
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: lighting
+- Кандидаты компаний: Lexman, LiveJournal
 
 - https://habr.com/ru/companies/lamptest/articles/657221/
 - Отрасли: не найдено
 - Компании: Хабр, LampTest, Fix Price
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Энергия и элементы питания
+- Кандидаты компаний: AjMaGP, Aliexpress, Camelion, Energizer, Flarx, GoPower, GP, Hua Dao, Panasonic, Perfeo, Robiton, TMI, Космос, Фаза, Фотон, Яростанмаш
 
 - https://habr.com/ru/companies/lamptest/articles/657979/
 - Отрасли: не найдено
 - Компании: Хабр, LampTest, Яндекс, ПИК
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Гаджеты, Электроника
+- Кандидаты компаний: Bridgelux Thrive, Navigator Supervision, Wildberries, Озон, Яндекс.Маркет
 
 - https://habr.com/ru/companies/lamptest/articles/682330/
 - Отрасли: не найдено
 - Компании: Хабр, LampTest
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: IKEA, LEDARE, RYET, SOLHETTA
 
 - https://habr.com/ru/companies/lamptest/articles/692428/
 - Отрасли: не найдено
 - Компании: Хабр, LampTest, Fix Price
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: медтехника, Энергия и элементы питания
+- Кандидаты компаний: FLARX, GP Super, Hua Bei, Ningbo B&B, Union Source Co., Яростанмаш
 
 - https://habr.com/ru/companies/lamptest/articles/698124/
 - Отрасли: не найдено
 - Компании: Хабр, LampTest
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Российский рынок
+- Кандидаты компаний: GP, Пятёрочка
 
 - https://habr.com/ru/companies/lamptest/articles/699534/
 - Отрасли: не найдено
 - Компании: Магнит, Хабр, LampTest, Fix Price
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: медтехника, Энергия и элементы питания
+- Кандидаты компаний: BatteryTest, BatTest, GP Super, Магнит Доставка, Магнит-Косметик, Нужные вещи, Тандер, Яростанмаш
 
 - https://habr.com/ru/companies/lamptest/articles/700652/
 - Отрасли: не найдено
 - Компании: Хабр, LampTest
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Гаджеты, освещение
+- Кандидаты компаний: LiveJournal
 
 - https://habr.com/ru/companies/lamptest/articles/701452/
 - Отрасли: не найдено
 - Компании: Хабр, LampTest, Леруа Мерлен
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Батарейки, Энергия и элементы питания
+- Кандидаты компаний: aro, Auchan, Duracell, Energizer, Globus, GP Ultra Plus, Leroy Merlin, Lexman, Navigator, Ningbo Battery & Electrical Appliance, Pairdeer, Perfeo, Varta, Zhongyin (Ningbo) Battery, Тест на правду
 
 - https://habr.com/ru/companies/lamptest/articles/702916/
 - Отрасли: не найдено
 - Компании: Хабр, LampTest, Fix Price
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: медтехника, Энергия и элементы питания
+- Кандидаты компаний: Batterytest.ru, BatTest.ru, Duracell, Duracell Optimum, Duracell Ultra, GP Super, Pairdeer Premium, Яростанмаш
 
 - https://habr.com/ru/companies/lamptest/articles/703900/
 - Отрасли: не найдено
 - Компании: Хабр, LampTest
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Энергия и элементы питания
+- Кандидаты компаний: BatteryTest, BatteryTest.ru, BatTest.ru, Telegram, Яростанмаш АСК2.5.10.8
 
 - https://habr.com/ru/companies/lamptest/articles/715156/
 - Отрасли: не найдено
 - Компании: Хабр, LampTest, FUJITSU
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Энергия и элементы питания
+- Кандидаты компаний: Batterytest.ru, GP, GP ReCyKo, Panasonic, Panasonic Eneloop, Panasonic Eneloop Lite, Xiaomi, ZMI, ZMI ZI7
 
 - https://habr.com/ru/companies/lamptest/articles/733574/
 - Отрасли: не найдено
 - Компании: Хабр, LampTest
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Батарейки и аккумуляторы, Лампочки, Энергия и элементы питания
+- Кандидаты компаний: batterytest.ru, battest.ru, Lamptest.ru, Telegram, Крона, Яростанмаш
 
 - https://habr.com/ru/companies/lamptest/articles/749026/
 - Отрасли: не найдено
 - Компании: Хабр, LampTest
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: игрушки, литиевые батарейки, медтехника, Энергия и элементы питания
+- Кандидаты компаний: BatteryTest.ru, Energizer, GoPower, LiveJournal, Nanorand, Pairdeer, Varta, Xiaomi, АО Энергия, Яростанмаш
 
 - https://habr.com/ru/companies/lamptest/articles/753500/
 - Отрасли: не найдено
 - Компании: Хабр, LampTest, Fix Price
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Энергия и элементы питания
+- Кандидаты компаний: Auchan, Auchan High Performance, BatteryTest.ru, Duracell, Energizer, FixPrice, Ningbo Battery & Electrical Appliance, Varta, Атак, Яростанмаш
 
 - https://habr.com/ru/companies/lanit/articles/321958/
 - Отрасли: Программное обеспечение, Аппаратное обеспечение
