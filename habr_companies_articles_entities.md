@@ -58806,121 +58806,121 @@
 - Отрасли: не найдено
 - Компании: не найдено
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Habr
 
 - https://habr.com/ru/companies/tinkoff/articles/546178/
 - Отрасли: Веб-разработка, провайдер
 - Компании: Хабр, Т-Банк, Далее, провайдер
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Angular, PolymorpheusContent, Taiga UI, TuiDestroyService
 
 - https://habr.com/ru/companies/tinkoff/articles/546360/
 - Отрасли: Оптимизация
 - Компании: Хабр, Т-Банк, Тинькофф, Далее
-- Кандидаты отраслей: не найдено
+- Кандидаты отраслей: IT, разработка программного обеспечения, финансовые услуги
 - Кандидаты компаний: не найдено
 
 - https://habr.com/ru/companies/tinkoff/articles/546604/
 - Отрасли: не найдено
 - Компании: Хабр, Т-Банк, Тинькофф, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IP-телефония, финансовые услуги
+- Кандидаты компаний: dotMemory, Google, Microsoft, Npgsql, Oracle, PostgreSQL, System.Data.Entity, VMMap, WinDbg, Тинькофф Телефония
 
 - https://habr.com/ru/companies/tinkoff/articles/547208/
 - Отрасли: Data science, финансы, ML, образование
 - Компании: Хабр, Т-Банк, Тинькофф
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-индустрия, банковская сфера
+- Кандидаты компаний: 404 found, Hack Lab, MMM, Oleg Go, PEPEtoners, Pumped Up Cheeks, Tinkoff, VoiceKit API, Youtube, ВКонтакте, Клевер, лаборатория Тинькофф, МФТИ, Олег, Сколтех, Трелло
 
 - https://habr.com/ru/companies/tinkoff/articles/547520/
 - Отрасли: не найдено
 - Компании: Хабр, Т-Банк
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: @angular/platform-server, @nguniversal/express-engine, @ngx-ssr/cache, @ngx-ssr/timeout, @taiga-ui/cdk, Angular, Angular Universal, ApplicationRef, ASP.NET Core, domino, Express, hapi, NgxSsrTimeoutModule, NgZone, Node.JS, rxjs, Socket Engine, TypeScript, Zone.js
 
 - https://habr.com/ru/companies/tinkoff/articles/547990/
 - Отрасли: Big Data, ETL, BI, DWH
 - Компании: Хабр, Т-Банк, Контур, серверы, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-систем, Хранение данных
+- Кандидаты компаний: Allure, Jira, pytest, SAS, Slack
 
 - https://habr.com/ru/companies/tinkoff/articles/548510/
 - Отрасли: провайдер
 - Компании: Хабр, Т-Банк, провайдер
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Angular, Angular Universal, DOMHighResTimeStamp, DOMINO, EMPTY, GitHub, Ionic, Jest, Node.js, perf_hooks, Rick and Morty, RxJS, Taiga UI
 
 - https://habr.com/ru/companies/tinkoff/articles/553748/
 - Отрасли: Веб-разработка, аналитики, Дизайн и юзабилити
 - Компании: Хабр, Т-Банк, Тинькофф, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: банковское дело, веб-дизайн, инвестиции, монетизация веб-сервисов, путешествия, страхование, финансовые услуги
+- Кандидаты компаний: Figma, Material Design, Tinkoff, Тильда
 
 - https://habr.com/ru/companies/tinkoff/articles/554828/
 - Отрасли: финтех
 - Компании: Хабр, Т-Банк, Тинькофф, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT, IT-индустрия
+- Кандидаты компаний: Android Academy, Sirius, Финтех-школы Тинькофф
 
 - https://habr.com/ru/companies/tinkoff/articles/556660/
 - Отрасли: Веб-разработка, Мобильные технологии
 - Компании: Хабр, Т-Банк
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: @taiga-ui/cdk, @taiga-ui/core, bundlephobia, ng-event-plugins, Taiga UI
 
 - https://habr.com/ru/companies/tinkoff/articles/558162/
 - Отрасли: не найдено
 - Компании: Хабр, Т-Банк, Тинькофф, VK
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT, финансовые услуги, фронтенд-разработка
+- Кандидаты компаний: Angular Moscow Meetup, angular_fox, angular_ru, AngularMoscow, GitHub, itstinkoff, Тинькофф Бизнес
 
 - https://habr.com/ru/companies/tinkoff/articles/559346/
 - Отрасли: Веб-разработка
 - Компании: Хабр, Т-Банк, Тинькофф
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: GitHub, StackBlitz
 
 - https://habr.com/ru/companies/tinkoff/articles/559752/
 - Отрасли: Веб-разработка, Программное обеспечение
 - Компании: Хабр, Т-Банк, Тинькофф, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-индустрия
+- Кандидаты компаний: Angular, Docker, Husky, JavaScript, Kotlin, Kubernetes, Lint Staged, Prettier, QuokkaJS, Rancher, React, Spring, TeamCity, TypeScript, Windows, WSL
 
 - https://habr.com/ru/companies/tinkoff/articles/562036/
 - Отрасли: Веб-разработка
 - Компании: Хабр, Т-Банк, Тинькофф
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Angular, jsonplaceholder.typicode.com, RxJS, StackBlitz
 
 - https://habr.com/ru/companies/tinkoff/articles/562986/
 - Отрасли: Веб-разработка
 - Компании: Тинькофф, Хабр, Т-Банк, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT, финансовые услуги
+- Кандидаты компаний: Angular, CodeFest, Google Chrome, Microzord, Module Federation, npm, Single SPA, Webpack, Гитхаб, Тинькофф Бизнес
 
 - https://habr.com/ru/companies/tinkoff/articles/564622/
 - Отрасли: Веб-разработка
 - Компании: Хабр, Т-Банк
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Angular, Angular Dart, angular.io, DevTools, GitHub, StackBlitz
 
 - https://habr.com/ru/companies/tinkoff/articles/565550/
 - Отрасли: Оптимизация
 - Компании: Тинькофф, Хабр, Т-Банк, Самолет, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT, разработка программного обеспечения, туристические услуги, финансовые услуги
+- Кандидаты компаний: Android, Apple, Chrome, Google, iOS, Safari, Тинькофф Путешествия
 
 - https://habr.com/ru/companies/tinkoff/articles/570116/
 - Отрасли: IAAS, ML, ETL, Рекрутинг и HR
 - Компании: Тинькофф, Хабр, Т-Банк, Далее, X5 Retail Group, ВТБ
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: банковская деятельность, финансовые услуги
+- Кандидаты компаний: Беспилотники
 
 - https://habr.com/ru/companies/tinkoff/articles/570894/
 - Отрасли: Веб-разработка
 - Компании: Хабр, Т-Банк, Далее
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: CommitStrip
 
 - https://habr.com/ru/companies/tinkoff/articles/573660/
 - Отрасли: Веб-разработка
@@ -58931,20 +58931,20 @@
 - https://habr.com/ru/companies/tinkoff/articles/574328/
 - Отрасли: аналитики, Информационная безопасность
 - Компании: Хабр, Т-Банк, Тинькофф
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: банковская сфера
+- Кандидаты компаний: Android Studio, App, Bank, Common, common-analytics, common-api, common-configs, common-database, common-di, common-navigation, common-security, common-uikit, common-util, Gradle, Java, Kids, Kotlin, Тинькофф Джуниор
 
 - https://habr.com/ru/companies/tinkoff/articles/574812/
 - Отрасли: не найдено
 - Компании: Хабр, Т-Банк
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: гигиена, еда, интернет-магазин, товары для дома
+- Кандидаты компаний: Nielsen Norman Group, Sleeknote, Sumo, Wisepops
 
 - https://habr.com/ru/companies/tinkoff/articles/575944/
 - Отрасли: Big Data, Электронная коммерция, e-commerce, NLP, ML
 - Компании: Хабр, Т-Банк, Далее
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: SIGIR, T-Банк, Tinkoff.AI
 
 - https://habr.com/ru/companies/tinkoff/articles/576468/
 - Отрасли: финтех
