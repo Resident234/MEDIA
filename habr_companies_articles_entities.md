@@ -69605,98 +69605,98 @@
 - https://habr.com/ru/company/icanchoose/blog/296152/
 - Отрасли: Программное обеспечение
 - Компании: Хабр
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-индустрии, Управление персоналом
+- Кандидаты компаний: Apple, Apple Store, icanchoose.ru, Microsoft, Morgan Stanley
 
 - https://habr.com/ru/company/icanchoose/blog/296306/
 - Отрасли: Рекрутинг и HR, медиа, Программное обеспечение
 - Компании: Хабр, Самолет
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-индустрия
+- Кандидаты компаний: Apple, Facebook, icanchoose.ru, Wall Street, Макдональдс
 
 - https://habr.com/ru/company/icanchoose/blog/296462/
 - Отрасли: Data science, Machine Learning, медиа, Big Data, Дизайн и юзабилити
 - Компании: Хабр
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-индустрии, Marketing, Sales
+- Кандидаты компаний: Facebook, GitHub, Google+, icanchoose.ru, LinkedIn, O’Reilly Media, Inc., Twitter, Wikibooks, Wikipedia
 
 - https://habr.com/ru/company/icanchoose/blog/296624/
 - Отрасли: не найдено
 - Компании: Хабр
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-индустрия, Управление персоналом
+- Кандидаты компаний: icanchoose-it, icanchoose.ru
 
 - https://habr.com/ru/company/icanchoose/blog/296730/
 - Отрасли: не найдено
 - Компании: Хабр
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-индустрия, сфера услуг
+- Кандидаты компаний: icanchoose.ru
 
 - https://habr.com/ru/company/icanchoose/blog/296746/
 - Отрасли: не найдено
 - Компании: Хабр
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-индустрия, PR
+- Кандидаты компаний: BBC, CBS, CNN, Dollar Shave Club, Google, Harvard Business School, icanchoose.ru, Pinterest, Pintics
 
 - https://habr.com/ru/company/icanchoose/blog/296856/
 - Отрасли: Рекрутинг и HR, торговли
 - Компании: Хабр, ОК
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-индустрия, морская торговля
+- Кандидаты компаний: Chartbeat, GEICO, Google, icanchoose.ru
 
 - https://habr.com/ru/company/icanchoose/blog/297150/
 - Отрасли: Рекрутинг и HR
 - Компании: Хабр
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-индустрия
+- Кандидаты компаний: FB, Glassdoor, icanchoose, icanchoose.ru, LinkedIn, MDK, ВК
 
 - https://habr.com/ru/company/icanchoose/blog/297330/
 - Отрасли: Консалтинг и поддержка
 - Компании: Хабр, STONE
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-индустрия, Управление персоналом
+- Кандидаты компаний: Accenture, Airbnb, Aksia, AlphaSights, Apple, ASDA, Bain & Company, Banana Republic, Barclays Capital, Bell, BlackBerry, Bombardier, Bose, Cold Stone Creamery, Dropbox, eFront Financial Solutions, Estee Lauder, Fraunhofer Society, Geonomics, Google, Harrods, HitFox Group, HootSuite, icanchoose.ru, Jefferies & Company, Labatt, Lululemon, Metro Bank, Prism Resources, RB, Redbox, Roland Berger, Spirit Airlines, Squarespace, Stanford University, Starbucks, TD Bank, Telus, Unicredit Management Consulting, Urban Outfitters, Zalando
 
 - https://habr.com/ru/company/icanchoose/blog/300680/
 - Отрасли: не найдено
 - Компании: Хабр
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-индустрия, Управление персоналом
+- Кандидаты компаний: Amazon, Apple, Facebook, Google, icanchoose.ru, Square, Twitter, Yahoo!
 
 - https://habr.com/ru/company/icl_services/blog/433050/
 - Отрасли: не найдено
 - Компании: Хабр, ГК ICL
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-индустрия, авиация
+- Кандидаты компаний: IT-парк Казани, хэ-хэ ру
 
 - https://habr.com/ru/company/infopulse/blog/133303/
 - Отрасли: предлагает
 - Компании: Хабр, предлагает
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Android JDK, OpenJDK, Python, Википедия, Инфопульс Украина
 
 - https://habr.com/ru/company/infopulse/blog/279461/
 - Отрасли: Веб-разработка, IoT, хостинг
 - Компании: Хабр
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Интернет вещей
+- Кандидаты компаний: Drupal, Facebook, icicle.io, Intel Edison, Laravel, LaunchKey, Inc, Magento, Parrot AR Drone, Phalcon, Quora, Raspberry Pi, Reddit, Slim Framework, Symfony, WordPress, Zephir, Инфопульс Украина
 
 - https://habr.com/ru/company/intel/blog/305144/
 - Отрасли: Оптимизация, Веб-разработка, Программное обеспечение, предлагает
 - Компании: Хабр, предлагает
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Drupal, HHVM, Intel, Languages Performance, MediaWiki, Node.js, Python, WordPress, Zend
 
 - https://habr.com/ru/company/intersystems/blog/443440/
 - Отрасли: Веб-разработка
 - Компании: Хабр, Далее, AMD, быструю
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: банковская сфера, медицинская
+- Кандидаты компаний: Caché, InterSystems, InterSystems IRIS, OpenExchange
 
 - https://habr.com/ru/company/involta/blog/477788/
 - Отрасли: не найдено
 - Компании: Хабр, Rambler&Co
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: AdTech
+- Кандидаты компаний: Involta, PHP Russia, Rambler, Инвольта, Русское Сообщество Laravel Framework
 
 - https://habr.com/ru/company/ispring/blog/559416/
 - Отрасли: аналитики
@@ -69708,49 +69708,49 @@
 - Отрасли: Дизайн и юзабилити, e-commerce, Программное обеспечение, предлагает
 - Компании: Хабр, iSpring, предлагает
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Habr
 
 - https://habr.com/ru/company/ispring/blog/562086/
 - Отрасли: предлагает
 - Компании: Хабр, iSpring, предлагает
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: web-сервисы, микросервисы
+- Кандидаты компаний: Go, Kubernetes, Lua, NFS, NGINX, PHP, Redis
 
 - https://habr.com/ru/company/ispring/blog/569648/
 - Отрасли: Дизайн и юзабилити, Программное обеспечение
 - Компании: Хабр, iSpring, Далее
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Go, Launchany
 
 - https://habr.com/ru/company/it-grad/blog/275673/
 - Отрасли: Веб-разработка, e-commerce, Дизайн и юзабилити, медиа, Оптимизация, Мобильные технологии
 - Компании: Хабр, MWS Cloud, Space, AMD, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Интернет вещей, Разработка мобильных приложений, Разработка под e-commerce
+- Кандидаты компаний: Adobe, Facebook, GitHub, Google, WordPress, Yandex
 
 - https://habr.com/ru/company/it-lex/blog/302472/
 - Отрасли: не найдено
 - Компании: Хабр, Арендовать
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-индустрия
+- Кандидаты компаний: АйТи-Лекс, ЕГРЮЛ, Пражский технический университет, Торговый реестр
 
 - https://habr.com/ru/company/iticapital/blog/303680/
 - Отрасли: финансового сектора, финансового, Рекрутинг и HR, торговли, финансах
 - Компании: Хабр
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-индустрия, инвестиционный банкинг, финансовые услуги, финансовый сектор, хедж-фонды
+- Кандидаты компаний: Glassdoor, Goldman Sachs, GS, ITI Capital, ITinvest, SHL, Лига плюща
 
 - https://habr.com/ru/company/itroles/blog/341978/
 - Отрасли: не найдено
 - Компании: Хабр, Далее, VK
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-индустрия, IT-эмиграция
+- Кандидаты компаний: itRabota, LinkedIn, stackoverflow
 
 - https://habr.com/ru/company/JetBrains/blog/
 - Отрасли: Оптимизация, Enterprise, Data science, Big Data
 - Компании: Хабр, серверы
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: CI/CD, TestOps, глубокое обучение, игровая разработка, разработка ПО
+- Кандидаты компаний: .NET CLI, .NET Core, AppCode, CLion, Datalore Enterprise, GoLand, IntelliJ IDEA, Java, JetBrains, Jupyter, Kotlin, Microsoft, PhpStorm, PowerShell, Rider for Unreal Engine, TeamCity, Toolbox App, Unreal Engine, Wargaming RED, YouTrack
 
 - https://habr.com/ru/company/JetBrains/blog/281046/
 - Отрасли: аналитики
