@@ -45005,152 +45005,152 @@
 - https://habr.com/ru/companies/ru_mts/articles/674040/
 - Отрасли: digital
 - Компании: Хабр, МТС, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Kotlin, разработка мобильных приложений
+- Кандидаты компаний: МТС Digital
 
 - https://habr.com/ru/companies/ru_mts/articles/676156/
 - Отрасли: BPM, digital
 - Компании: Хабр, МТС, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-инфраструктура, бизнес-процессы, управление проектами, управление разработкой
+- Кандидаты компаний: Activiti, Camunda, Google Guava, Habr, jOOQ, PostgreSQL, Quartz, Scenario Engine, Spring, МТС Digital
 
 - https://habr.com/ru/companies/ru_mts/articles/677516/
 - Отрасли: Big Data, финтех, аналитики, ML, предлагает, Machine Learning
 - Компании: Хабр, МТС, Далее, предлагает
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: телеком
+- Кандидаты компаний: Amazon
 
 - https://habr.com/ru/companies/ru_mts/articles/680324/
 - Отрасли: digital
 - Компании: Хабр, МТС
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: МТС Digital
 
 - https://habr.com/ru/companies/ru_mts/articles/681456/
 - Отрасли: digital, ML, ETL, медиа
 - Компании: Хабр, МТС, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: онлайн-кинотеатры
+- Кандидаты компаний: Gitlab, KION, Nvidia, МТС Digital, МТС Медиа
 
 - https://habr.com/ru/companies/ru_mts/articles/683064/
 - Отрасли: Веб-сервисы, стриминг
 - Компании: Хабр, МТС, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: стриминговые сервисы, телевидение
+- Кандидаты компаний: Android, iOS, KION
 
 - https://habr.com/ru/companies/ru_mts/articles/684476/
 - Отрасли: Big Data, digital, стриминг, процессинг, Low code
 - Компании: Хабр, МТС
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Телеком
+- Кандидаты компаний: МТС Data Mining, МТС Digital
 
 - https://habr.com/ru/companies/ru_mts/articles/685492/
 - Отрасли: Big Data, digital, масштабируемость, Low code
 - Компании: Хабр, МТС
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Data Engineering, Data Mining
+- Кандидаты компаний: DataNode, Elasticsearch, ELK-стек, G1 Garbage, Grafana, HDD, Kafka, KafkaNode, Kibana, Logstash, Optane, Postgres, Prometheus, Pushgateway, Scala, Spark, Spark Streaming, YARN, МТС Digital
 
 - https://habr.com/ru/companies/ru_mts/articles/686570/
 - Отрасли: аналитики
 - Компании: Хабр, МТС, Далее
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Confluence, draw.io, Notion, PlantUML, Word
 
 - https://habr.com/ru/companies/ru_mts/articles/688142/
 - Отрасли: digital, финтех
 - Компании: Хабр, МТС
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-индустрия
+- Кандидаты компаний: DocFlow, АНО «Россия – страна возможностей», МАИ, МТС Digital
 
 - https://habr.com/ru/companies/ru_mts/articles/689330/
 - Отрасли: digital, аналитики
 - Компании: Хабр, МТС
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT, разработка ПО
+- Кандидаты компаний: Allure TestOps, Confluence, Gitlab, Jenkins, Jira, Test IT, TestRail, WASD.TV, Zephyr, МТС Digital
 
 - https://habr.com/ru/companies/ru_mts/articles/692074/
 - Отрасли: digital, масштабируемость, аналитики
 - Компании: Хабр, МТС, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: онлайн-кинотеатры, стриминговые сервисы
+- Кандидаты компаний: Habr, KION, МТС Digital
 
 - https://habr.com/ru/companies/ru_mts/articles/693770/
 - Отрасли: IoT
 - Компании: Хабр, МТС, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Интернет вещей, Сотовая связь
+- Кандидаты компаний: M2M менеджер
 
 - https://habr.com/ru/companies/ru_mts/articles/694384/
 - Отрасли: digital
 - Компании: Хабр, МТС, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: онлайн-кинотеатр
+- Кандидаты компаний: KION, MТС Digital
 
 - https://habr.com/ru/companies/ru_mts/articles/695242/
 - Отрасли: digital
 - Компании: Хабр, МТС
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: DevOps, Системное администрирование, Тестирование веб-сервисов
+- Кандидаты компаний: Argo CD, Argo Rollouts, flagger, Flux, nginx, МТС Digital
 
 - https://habr.com/ru/companies/ru_mts/articles/695696/
 - Отрасли: digital
 - Компании: Хабр, МТС, Бэклог, Далее
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Anaconda, Google Chrome, МТС Digital, МТС Premium
 
 - https://habr.com/ru/companies/ru_mts/articles/695744/
 - Отрасли: digital, провайдер
 - Компании: Хабр, МТС, провайдер
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Системное администрирование, Тестирование веб-сервисов
+- Кандидаты компаний: МТС Digital
 
 - https://habr.com/ru/companies/ru_mts/articles/698336/
 - Отрасли: Рекрутинг и HR, digital, образование
 - Компании: Хабр, МТС, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-индустрия
+- Кандидаты компаний: GitHub, МТС Digital
 
 - https://habr.com/ru/companies/ru_mts/articles/700886/
 - Отрасли: Веб-разработка, digital, Оптимизация, Дизайн и юзабилити, Инфраструктурные сервисы
 - Компании: Хабр, МТС, серверы, Контур, Далее
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Github, prerender.io, МТС Digital, МТС Твой бизнес
 
 - https://habr.com/ru/companies/ru_mts/articles/700992/
 - Отрасли: Big Data, ML, Data science
 - Компании: Хабр, МТС, Далее
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: GitHub, Telegram
 
 - https://habr.com/ru/companies/ru_mts/articles/704346/
 - Отрасли: IoT, умный дом, digital
 - Компании: Хабр, МТС
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: M2M, интернет вещей, сети передачи данных, сотовая связь
+- Кандидаты компаний: 3GPP, eSIM, MONTE, Smart Click, МТС Digital, МТС Сертификация, Цельсиум
 
 - https://habr.com/ru/companies/ru_mts/articles/704902/
 - Отрасли: digital
 - Компании: Хабр, МТС, Далее
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Apicurio, APIHub, МТС Digital
 
 - https://habr.com/ru/companies/ru_mts/articles/705572/
 - Отрасли: облачные сервисы, digital
 - Компании: Хабр, МТС, Яндекс, Далее, Samsung
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: интернет-маркетинг, телеком, управление проектами, хранение данных
+- Кандидаты компаний: EvaWiki, Evernote, Joplin, Notion, Obsidian, Telegram, МТС Digital, Яндекс.Диск
 
 - https://habr.com/ru/companies/ru_mts/articles/709602/
 - Отрасли: ML, Big Data, digital, Machine Learning, Data science
 - Компании: Хабр, МТС, DSP, ОК
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Digital-реклама
+- Кандидаты компаний: CatBoost, CuDF, implicit, LightFM, OpenRTB, Pandas, Polars, PyArrow, RecBole, ReChorus, RecTools, SSP, Transformers4Rec, МТС Digital
 
 - https://habr.com/ru/companies/ru_mts/articles/709958/
 - Отрасли: digital
 - Компании: Хабр, МТС
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: онлайн-кинотеатр
+- Кандидаты компаний: KION, МТС Digital
 
 - https://habr.com/ru/companies/ru_mts/articles/710366/
 - Отрасли: умный дом, DIY, digital, хостинг
