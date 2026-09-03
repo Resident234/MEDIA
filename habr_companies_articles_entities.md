@@ -21155,152 +21155,152 @@
 - https://habr.com/ru/companies/ivi/articles/692790/
 - Отрасли: Рекрутинг и HR
 - Компании: Хабр, Онлайн-кинотеатр Иви, Далее, Базис
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Банки, Онлайн-кинотеатр, Управление персоналом
+- Кандидаты компаний: Confluence, Иви, МАИ
 
 - https://habr.com/ru/companies/ivi/articles/697850/
 - Отрасли: диджитал, аналитики
 - Компании: Хабр, Онлайн-кинотеатр Иви
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: SmartTV, Онлайн-кинотеатр
+- Кандидаты компаний: Zoom, Иви
 
 - https://habr.com/ru/companies/ivi/articles/698802/
 - Отрасли: виртуальные
 - Компании: Хабр, Онлайн-кинотеатр Иви, Контур, Далее, серверы
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: DevOps, виртуализация, Онлайн-кинотеатр
+- Кандидаты компаний: bird, CoreDNS, Docker, Gitlab-ci, Helm, IPVS, ipvsadm, Jenkins, kube-router, Kubernetes, nginx, Notkube, Openstack, Postgres, Prometheus, psql, puppet, SaltStack, Иви
 
 - https://habr.com/ru/companies/ivi/articles/706300/
 - Отрасли: не найдено
 - Компании: Хабр, Онлайн-кинотеатр Иви, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: веб‑сервисы, Онлайн‑кинотеатр, развлекательный сайт
+- Кандидаты компаний: Иви
 
 - https://habr.com/ru/companies/jetinfosystems/articles/417081/
 - Отрасли: системы видеонаблюдения
 - Компании: Хабр, Инфосистемы Джет, быструю
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-инфраструктура, нефтегаз, нефть и газ, строительство, транспорт
+- Кандидаты компаний: JetHabr, Газель, Камаз
 
 - https://habr.com/ru/companies/jetinfosystems/articles/419383/
 - Отрасли: Информационная безопасность, Аппаратное обеспечение, Enterprise, информационной безопасности
 - Компании: Хабр, Инфосистемы Джет, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Беспроводные технологии
+- Кандидаты компаний: hashcat, hcxdumptool, hcxtools
 
 - https://habr.com/ru/companies/jetinfosystems/articles/426463/
 - Отрасли: Информационная безопасность
 - Компании: Хабр, Инфосистемы Джет, Далее
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Luckystrike, Metasploit, Microsoft, Microsoft Office, Windows
 
 - https://habr.com/ru/companies/jetinfosystems/articles/430074/
 - Отрасли: Информационная безопасность, провайдер, Мобильные технологии
 - Компании: Хабр, Инфосистемы Джет, Далее, провайдер
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Тестирование мобильных приложений
+- Кандидаты компаний: ApkTool, Avito, burp suite, Dex2Jar, Google, jd-gui, JebDecompiler, Lenovo, Notepad++, OpenDNS, Xiaomi, Yandex
 
 - https://habr.com/ru/companies/jetinfosystems/articles/433142/
 - Отрасли: Информационная безопасность, информационной безопасности
 - Компании: Хабр, Инфосистемы Джет, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Социальная инженерия, Тестирование на проникновение
+- Кандидаты компаний: Cumulate, Derbycon, Excel, Flash Player, Internet Explorer, Metasploit Framework, Microsoft, Microsoft Office, msfvenom, Office 365, Online Video, Outflank, Virustotal, YouTube
 
 - https://habr.com/ru/companies/jetinfosystems/articles/435664/
 - Отрасли: Информационная безопасность, Поисковые технологии, информационной безопасности
 - Компании: Хабр, Инфосистемы Джет, Далее
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: goo.gl, Google, Habr
 
 - https://habr.com/ru/companies/jetinfosystems/articles/435748/
 - Отрасли: Информационная безопасность, информационной безопасности
 - Компании: Хабр, Инфосистемы Джет
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: penetration testing, тестирование на проникновение
+- Кандидаты компаний: Metasploit Framework, Rapid7
 
 - https://habr.com/ru/companies/jetinfosystems/articles/440800/
 - Отрасли: Информационная безопасность
 - Компании: Хабр, Инфосистемы Джет
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Backtrack, Banana Pi, Banana Pro, DBeaver, Debian, Harvester, Kali Bug Tracker, Kali Linux, kalipi-tft-config, Metasploit Framework, Raspberry Pi, re4son
 
 - https://habr.com/ru/companies/jetinfosystems/articles/442530/
 - Отрасли: Информационная безопасность, Мобильные технологии
 - Компании: Хабр, Инфосистемы Джет
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Сетевые технологии
+- Кандидаты компаний: ANSI, Apple, Cisco Meraki, Couchbase Mobile, Dumpcap, ElasticSearch, Exablaze, GLOW, ISO, ITU, Lawo, Libgcrypt, nmap, Npcap, Osmocom, Qt, Spirent Test Center, Sybase, TeamSpeak 3, TShark, Ubiquiti, WinPcap, Wireshark, Wireshark Foundation
 
 - https://habr.com/ru/companies/jetinfosystems/articles/445034/
 - Отрасли: Информационная безопасность, Программное обеспечение
 - Компании: Хабр, Инфосистемы Джет
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: ALISA LTD, Altran, Comodo CA, Facebook, MSSPAlert.com, National Criminal Investigation Service, National Security Authority, NorCERT, Norsk Hydro, Norwegian Police Security Service, O2, Photorec, ProtonMail, RannohDecryptor, Reuters, Sectigo
 
 - https://habr.com/ru/companies/jetinfosystems/articles/447076/
 - Отрасли: Информационная безопасность, информационной безопасности, BI
 - Компании: OWASP, Хабр, Инфосистемы Джет, Яндекс, BI.ZONE
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Безопасность в Облаке, Тестирование веб-сервисов
+- Кандидаты компаний: BurpSuite, OWASP Russia, Telegram, ВКонтакте, Информзащита
 
 - https://habr.com/ru/companies/jetinfosystems/articles/447628/
 - Отрасли: Информационная безопасность
 - Компании: Хабр, Инфосистемы Джет
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Беспроводные технологии
+- Кандидаты компаний: GitHub, Wi‑Fi Alliance
 
 - https://habr.com/ru/companies/jetinfosystems/articles/448648/
 - Отрасли: Оптимизация
 - Компании: Хабр, Инфосистемы Джет, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Управление персоналом
+- Кандидаты компаний: GitHub
 
 - https://habr.com/ru/companies/jetinfosystems/articles/449216/
 - Отрасли: Информационная безопасность, Machine Learning
 - Компании: Хабр, Инфосистемы Джет
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Системы наблюдения
+- Кандидаты компаний: GitHub, Habr, Inria
 
 - https://habr.com/ru/companies/jetinfosystems/articles/449278/
 - Отрасли: Информационная безопасность, виртуальные, Программное обеспечение
 - Компании: Хабр, Инфосистемы Джет, RDP, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Тестирование на проникновение
+- Кандидаты компаний: ANGRYPUPPY, BloodHound, Bloodhound-python, CEH, CypherDog, DBCreator.py, GoFetch, GPEN, gt-generator, hashcat, Inveight, Kali Linux 2019, Metasploit, Microsoft, mitm6, Neo4j, ntlmrelayx.py, OSCP, Responder, SharpHound.exe, SharpHound.ps1, smbserver.py, VMware, Windows Server2016, Windows10
 
 - https://habr.com/ru/companies/jetinfosystems/articles/449634/
 - Отрасли: IoT, Информационная безопасность
 - Компании: Хабр, Инфосистемы Джет
-- Кандидаты отраслей: не найдено
+- Кандидаты отраслей: Интернет вещей
 - Кандидаты компаний: не найдено
 
 - https://habr.com/ru/companies/jetinfosystems/articles/450780/
 - Отрасли: Информационная безопасность, аналитики
 - Компании: Хабр, Инфосистемы Джет, OWASP
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Онлайн-казино, Тестирование веб-сервисов
+- Кандидаты компаний: Burp Suite Pro, BurpCollaborator, ezXSS, Microsoft, OWASP Russia, requestbin, xsshunter, yourpage.xss.ht, Авто.ру
 
 - https://habr.com/ru/companies/jetinfosystems/articles/454576/
 - Отрасли: Информационная безопасность
 - Компании: Хабр, Инфосистемы Джет
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Check Point, CryptoWall, Europol, GandCrab, Kaspersky, Microsoft, Spora, TeslaCrypt
 
 - https://habr.com/ru/companies/jetinfosystems/articles/457800/
 - Отрасли: Информационная безопасность
 - Компании: Хабр, Инфосистемы Джет
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: CSIRT 27, Telegram, ВКонтакте
 
 - https://habr.com/ru/companies/jetinfosystems/articles/458490/
 - Отрасли: видеоаналитики, ML
 - Компании: Хабр, Инфосистемы Джет
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Автомобильные гаджеты
+- Кандидаты компаний: Raspberry Pi, Waveshare
 
 - https://habr.com/ru/companies/jetinfosystems/articles/459712/
 - Отрасли: Информационная безопасность, информационной безопасности, Программное обеспечение
 - Компании: Хабр, Инфосистемы Джет, OWASP, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-индустрия, беспроводные сети, социотехническая инженерия
+- Кандидаты компаний: Bloodhound, burp suite, dirb, Habr, Kali Linux, Metasploit, nmap, Responder, sqlmap, Telegram, Twitter, wireshark
 
 - https://habr.com/ru/companies/jetinfosystems/articles/463037/
 - Отрасли: не найдено
