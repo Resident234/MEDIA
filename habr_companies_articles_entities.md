@@ -69155,152 +69155,152 @@
 - https://habr.com/ru/company/badoo/blog/487234/
 - Отрасли: Оптимизация
 - Компании: Авито, Хабр, ПИК, Далее, серверы
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: высоконагруженные системы
+- Кандидаты компаний: Apache, APCu, Badoo, Badoo PHP Meetup, BMA-прокси, Guzzle, Kubernetes, nginx, Perf, PHP-FPM, Pinba, StatsD, Symfony, Xdebug, Мамба
 
 - https://habr.com/ru/company/badoo/blog/487262/
 - Отрасли: Веб-разработка, Программное обеспечение, Информационная безопасность, информационной безопасности, предлагает
 - Компании: Хабр, Конференции Олега Бунина (Онтико), Skyeng, предлагает
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT, кадровые услуги
+- Кандидаты компаний: Badoo, bitExpert, CIOReview, Datadog, GitHub, KnowledgeConf, NomadPHP, PHP Roundtable, PHP.ug, php[architect] magazine, PHPUGFFM, Pluralsight, Sound of Symfony, SpiralScout LLC, Symfony, TechLead Conf, TriNet, Онтико, РИТ++
 
 - https://habr.com/ru/company/badoo/blog/487264/
 - Отрасли: Веб-разработка, Информационная безопасность, Программное обеспечение
 - Компании: Хабр, Конференции Олега Бунина (Онтико), Skyeng, Авито
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT
+- Кандидаты компаний: Badoo, bitExpert, CIOReview, ManyChat, NomadPHP, PHP Russia, PHP.ug, php[architect] magazine, PHPUGFFM, Sound of Symfony, SpiralScout LLC, Symfony, TriNet, YouTube, Онтико
 
 - https://habr.com/ru/company/badoo/blog/487914/
 - Отрасли: Оптимизация, Machine Learning, ML, аналитики, BI, провайдер
 - Компании: Хабр, быструю, провайдер, серверы, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: dating-сервисы, IT-индустрия
+- Кандидаты компаний: Badoo, Bumble, HackerRank, Uptime day
 
 - https://habr.com/ru/company/badoo/blog/489362/
 - Отрасли: не найдено
 - Компании: Хабр, Авито, VK
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Badoo, Badoo PHP, FB, FunCorp, ManyChat, SuperJob, Telegram
 
 - https://habr.com/ru/company/badoo/blog/490024/
 - Отрасли: Веб-разработка
 - Компании: Хабр, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Высоконагруженные системы
+- Кандидаты компаний: Badoo, Eclipse, IDEA, JetBrains, Logger, PhpStorm
 
 - https://habr.com/ru/company/badoo/blog/515472/
 - Отрасли: Веб-разработка, Оптимизация
 - Компании: Хабр, Цифра, серверы
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT
+- Кандидаты компаний: Badoo, Badoo PHP Meetup, Windows Phone
 
 - https://habr.com/ru/company/badoo/blog/522600/
 - Отрасли: аналитики, SaaS, масштабируемость, Оптимизация, Информационная безопасность
 - Компании: Хабр
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-систем
+- Кандидаты компаний: Airbrake, App Center, App Store, Badoo, Bugsnag, Bumble, ClickHouse, DexGuard, Gelatо, Google Play, HockeyApp, Jira, Microsoft, MySQL, PostgreSQL, Raygun, Rollbar, Sentry, Sphinx, TrackJS
 
 - https://habr.com/ru/company/badoo/blog/528742/
 - Отрасли: не найдено
 - Компании: Хабр, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: тестирование веб-сервисов, тестирование мобильных приложений
+- Кандидаты компаний: Badoo, Bumble, Calabash, GDPR, Google, Selenium
 
 - https://habr.com/ru/company/badoo/blog/544102/
 - Отрасли: Веб-разработка
 - Компании: Хабр, серверы, Raft
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: AutoConfig, Badoo, Consul, DownChecker, Habr, mcode, Memcache, OPCache, Redis
 
 - https://habr.com/ru/company/badoo/blog/553782/
 - Отрасли: Веб-разработка
 - Компании: Хабр
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Тестирование веб-сервисов
+- Кандидаты компаний: Badoo, GitHub, LineFormatter, Logger, Monolog, PHPUnit, Predis, Redis, RedisHandler
 
 - https://habr.com/ru/company/badoo/blog/562000/
 - Отрасли: Веб-разработка
 - Компании: Хабр, серверы
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT
+- Кандидаты компаний: Badoo, Bumble, Jira, MySQL, PhpStorm, Sentry, Slack, Splunk, Zabbix
 
 - https://habr.com/ru/company/beget/blog/348008/
 - Отрасли: хостинг, предлагает, Дизайн и юзабилити
 - Компании: Хабр, Beget, Proto, Далее, предлагает
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: ClickHouse, Crontab, FastCGI, Google Groups, gRPC, InfluxDB, OpenAPI, PHP-FPM, Protobuf, Swagger, Yii2
 
 - https://habr.com/ru/company/bringo/blog/339224/
 - Отрасли: Информационная безопасность
 - Компании: Хабр, Bringo Group Limited, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: криптография, реверс-инжиниринг
+- Кандидаты компаний: AES, ANB, bind9, burp, Chat-API, FunXMPP, IDA, iOS, iPhone, libaxolotl, mitmproxy, Noise Protocol, Signal Protocol, ssl kill switch, WA16, WA20, WhatsApp, XMPP, Yowsup
 
 - https://habr.com/ru/company/carprice/blog/329424/
 - Отрасли: аналитики, CRM, BI
 - Компании: Хабр, CarPrice, Далее, ОК, 1С
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Автомобильный аукцион, Сервисы по продаже подержанных автомобилей
+- Кандидаты компаний: Amazon, AutoCheck, CarPrice Go, eBay, MSSQL, Oktell, Pusher, Redis, Slanger, Автокод, ГИБДД, ФССП
 
 - https://habr.com/ru/company/cloud_mts/blog/275673/
 - Отрасли: Веб-разработка, e-commerce, Дизайн и юзабилити, медиа, Оптимизация, Мобильные технологии
 - Компании: Хабр, MWS Cloud, Space, AMD, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Интернет вещей, разработка мобильных приложений, разработка под e-commerce
+- Кандидаты компаний: Adobe, Aura, Bento, Codecademy, Codeschool, Facebook, Flux, General Assembly Dash, Hack Design, Hydra, JavaScriptIsSexy, Pattern Lab, Polymer Project, SmashingMagazine, Terrific.js, TheExpressiveWeb, Treehouse, Web Style Guide, Yandex
 
 - https://habr.com/ru/company/cloud4y/blog/346838/
 - Отрасли: предлагает
 - Компании: Хабр, Cloud4U, предлагает
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-индустрия, соревновательное программирование
+- Кандидаты компаний: Cisco, CodeChef, CodeFights, Codeforces, Coderbyte, Codewars, CodinGame, Dropbox, GeeksforGeeks, Google, Hacker News, HackerRank, LeetCode, Quora, Red Hat, reddit, TopCoder, Uber, VMware
 
 - https://habr.com/ru/company/croc/blog/423833/
 - Отрасли: Рекрутинг и HR, Enterprise
 - Компании: Хабр, КРОК, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-индустрия
+- Кандидаты компаний: Oracle, Prometric, SUN Microsystems, Virtual University Enterprise, VUE
 
 - https://habr.com/ru/company/crossover/blog/312604/
 - Отрасли: предлагает, Программное обеспечение, финансы, Рекрутинг и HR
 - Компании: Хабр, предлагает
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: авиация, банковское дело, ИТ-индустрия, Управление персоналом, Фриланс
+- Кандидаты компаний: 3seventy, Aurea, Crossover, Ignite, Intel, Payoneer, Ride Austin, Versata, WorkSmart
 
 - https://habr.com/ru/company/dataart/blog/439158/
 - Отрасли: Рекрутинг и HR, консалтинг
 - Компании: Хабр
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-индустрия, технологический консалтинг
+- Кандидаты компаний: CV Duck, DataArt, GitHub, LinkedIn
 
 - https://habr.com/ru/company/dell_technologies/blog/539906/
 - Отрасли: digital
 - Компании: DELL, Хабр
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Компьютерное железо, Ноутбуки
+- Кандидаты компаний: Intel, Keenetic
 
 - https://habr.com/ru/company/devconf/blog/301114/
 - Отрасли: Веб-разработка
 - Компании: Хабр
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: DevConf, Laravel, PHP-FIG, Stay.com, Yii, Yii core team
 
 - https://habr.com/ru/company/devconf/blog/303292/
 - Отрасли: Веб-разработка, Оптимизация, SaaS, ERP, CRM
 - Компании: Хабр, ТАСС, Postgres Professional, VK
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT, Разработка ПО
+- Кандидаты компаний: 4Gophers, Badoo, Centos-admin, CMSMagazine, DevConf, Drupal, eLama, ItSoft, Joomla, MoscowJs.ru, MoscowPython.ru, NetCat, phpclub, PHPClub.ru, RailsClub.ru, REG.RU, Sesmik CMS
 
 - https://habr.com/ru/company/devconf/blog/327146/
 - Отрасли: Дизайн и юзабилити
 - Компании: Хабр
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: DevConf, ElisDN.ru, Facebook, Flickr, Telegram, Yii, ВКонтакте
 
 - https://habr.com/ru/company/devconf/blog/327514/
 - Отрасли: Веб-разработка
 - Компании: Хабр
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: DevConf, DevConf PHP, Facebook, Flickr, Telegram, X, ВКонтакте
 
 - https://habr.com/ru/company/devconf/blog/328536/
 - Отрасли: не найдено
