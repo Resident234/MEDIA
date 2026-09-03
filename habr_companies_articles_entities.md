@@ -30305,151 +30305,151 @@
 - https://habr.com/ru/companies/ncloudtech/articles/589213/
 - Отрасли: Рекрутинг и HR, провайдер
 - Компании: МойОфис, Хабр, Далее, Цифра, Арендовать, провайдер
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-компаний, ИТ-рынке, медицинская страховка, психологическая поддержка, телемедицина
+- Кандидаты компаний: ДМС, сервис АХО, телемедицина, Хаб Знаний
 
 - https://habr.com/ru/companies/ncloudtech/articles/593593/
 - Отрасли: не найдено
 - Компании: Хабр, МойОфис, Далее, Space
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT
+- Кандидаты компаний: Linux, macOS, Windows
 
 - https://habr.com/ru/companies/ncloudtech/articles/594201/
 - Отрасли: промышленные
 - Компании: Хабр, МойОфис
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: B2B, IT, UX, психология, психотерапия
+- Кандидаты компаний: Usability
 
 - https://habr.com/ru/companies/ncloudtech/articles/649007/
 - Отрасли: предлагает, медиа, облачные сервисы
 - Компании: Хабр, МойОфис, предлагает
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: B2C
+- Кандидаты компаний: bible.ru, G Suite Legacy, Google, Google Cloud Platform, Google Workspace, МойОфис Почта, МойОфис Частное Облако
 
 - https://habr.com/ru/companies/ncloudtech/articles/650431/
 - Отрасли: Оптимизация, Программное обеспечение
 - Компании: Хабр, МойОфис
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-компании
+- Кандидаты компаний: MobilePay
 
 - https://habr.com/ru/companies/ncloudtech/articles/653243/
 - Отрасли: телекоммуникации, Рекрутинг и HR
 - Компании: Хабр, МойОфис, Яндекс, Skillbox, ЮMoney
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: PR-агентства, геймдев, ИТ-индустрия
+- Кандидаты компаний: 4brain, Apple, IndigoGo, Oratoris, Udemy
 
 - https://habr.com/ru/companies/ncloudtech/articles/654951/
 - Отрасли: SaaS, Enterprise, информационной безопасности, масштабируемость
 - Компании: Хабр, МойОфис
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: ИТ, корпоративные коммуникации
+- Кандидаты компаний: Ceph, D-Russia.ru, Fedora Project, IBM, Linux, log4j, Red Hat, МФЦ, Росреестр
 
 - https://habr.com/ru/companies/ncloudtech/articles/656617/
 - Отрасли: не найдено
 - Компании: Хабр, МойОфис
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT
+- Кандидаты компаний: Amazon, Amazon EKS, AWS, AWS Container Services, AWS Lambda, Cloud Native Infrastructure, Command E, How-To Geek, Slack
 
 - https://habr.com/ru/companies/ncloudtech/articles/657809/
 - Отрасли: масштабируемость
 - Компании: Хабр, МойОфис, Далее
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Grafana Labs, K6, Mailion, TEGРУС, РФРИТ
 
 - https://habr.com/ru/companies/ncloudtech/articles/661673/
 - Отрасли: не найдено
 - Компании: Хабр, МойОфис
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-компании, Развитие стартапа, Софт, Типографика
+- Кандидаты компаний: Microsoft, Monotype, Red Hat, Inc., URW Studio, АО «НПО РусБИТех», ООО НПП «ПараТайп»
 
 - https://habr.com/ru/companies/ncloudtech/articles/663078/
 - Отрасли: не найдено
 - Компании: Хабр, МойОфис
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Birkhauser Boston, Comptes Rendus Французской академии, Notices of the American Mathematical Society
 
 - https://habr.com/ru/companies/ncloudtech/articles/664206/
 - Отрасли: Рекрутинг и HR
 - Компании: Хабр, МойОфис, Нетология
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-индустрия
+- Кандидаты компаний: BrainApps.ru, Cloud Sport, Crosslife, Endel, Forest, Noisli, Udemy
 
 - https://habr.com/ru/companies/ncloudtech/articles/664452/
 - Отрасли: Оптимизация
 - Компании: Хабр, МойОфис
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-инфраструктура, импортозамещение, цифровизация
+- Кандидаты компаний: Active Directory, Courier, Cyrus, Dovecot, GMail, Mailion, Microsoft Exchange, Red Hat, RedHat Directory Server, МойОфис Почта 2
 
 - https://habr.com/ru/companies/ncloudtech/articles/665224/
 - Отрасли: Оптимизация
 - Компании: Хабр, МойОфис, Далее
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Google
 
 - https://habr.com/ru/companies/ncloudtech/articles/672906/
 - Отрасли: Программное обеспечение, предлагает, Дизайн и юзабилити
 - Компании: Хабр, МойОфис, предлагает
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: cloud-native архитектуры, computer science, бэкенд-программирование, ИТ, межсервисное взаимодействие, распределённые системы
+- Кандидаты компаний: Google, LeetCode, Mailion
 
 - https://habr.com/ru/companies/ncloudtech/articles/675390/
 - Отрасли: SaaS, Оптимизация
 - Компании: Хабр, МойОфис
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT, бэкенд-разработка, распределённые базы данных
+- Кандидаты компаний: 2PC, github, Go, HDD, InfluxDB и Grafana, Instagram, Java, Linux, Mailion, OOM Killer, Python, RAM, SSD, sshd, stackoverflow, SWAP, uWSGI, Wargaming
 
 - https://habr.com/ru/companies/ncloudtech/articles/676960/
 - Отрасли: Оптимизация
 - Компании: Хабр, МойОфис
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT
+- Кандидаты компаний: C, C#, Haskell, Java, Linux, TCMalloc, Технотекст
 
 - https://habr.com/ru/companies/ncloudtech/articles/678056/
 - Отрасли: Рекрутинг и HR, рекрутинг
 - Компании: Хабр, МойОфис
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-индустрия, Управление персоналом
+- Кандидаты компаний: LinkedIn, Технотекст
 
 - https://habr.com/ru/companies/ncloudtech/articles/679572/
 - Отрасли: не найдено
 - Компании: Хабр, МойОфис
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: искусственный интеллект
+- Кандидаты компаний: Chrome, Django, Eventbrite, GPT-3, JavaScript, myoffice_ru, Python, Shadow DOM, SQL, SQLite, Web Component Declarative Shadow DOM
 
 - https://habr.com/ru/companies/ncloudtech/articles/680858/
 - Отрасли: Программное обеспечение
 - Компании: Хабр, МойОфис, Далее, Samsung
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT
+- Кандидаты компаний: Google
 
 - https://habr.com/ru/companies/ncloudtech/articles/683114/
 - Отрасли: не найдено
 - Компании: Хабр, МойОфис
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: ИТ
+- Кандидаты компаний: decimal.js, Devetry, Dyalog APL, ECL, Foundation, Math::BigFloat, NARS2000, PostgreSQL, SageMath, SBCL
 
 - https://habr.com/ru/companies/ncloudtech/articles/685400/
 - Отрасли: не найдено
 - Компании: Хабр, МойОфис
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Babel, lodash, Northwestern Mutual, Parcel, Redux, Webpack
 
 - https://habr.com/ru/companies/ncloudtech/articles/686942/
 - Отрасли: Программное обеспечение
 - Компании: Хабр, МойОфис
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Ansible, Docker, Kubernetes
 
 - https://habr.com/ru/companies/ncloudtech/articles/688032/
 - Отрасли: не найдено
 - Компании: Хабр, МойОфис
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: IBM
 
 - https://habr.com/ru/companies/ncloudtech/articles/688230/
 - Отрасли: Поисковые технологии, NLP
 - Компании: Хабр, МойОфис, Далее
-- Кандидаты отраслей: не найдено
+- Кандидаты отраслей: лингвистические технологии
 - Кандидаты компаний: не найдено
 
 - https://habr.com/ru/companies/ncloudtech/articles/690464/
