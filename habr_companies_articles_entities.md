@@ -41405,152 +41405,152 @@
 - https://habr.com/ru/companies/qiwi/articles/664152/
 - Отрасли: предлагает
 - Компании: QIWI, Кошелёк, Хабр, предлагает, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: финансовые услуги
+- Кандидаты компаний: Firebase, Huawei, QIWI Кошелек
 
 - https://habr.com/ru/companies/qiwi/articles/665058/
 - Отрасли: финтех, процессинг, облачные сервисы
 - Компании: Хабр, QIWI, Конференции Олега Бунина (Онтико)
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Acme, Cloud SQL, Cookiecutter, GCP, gevent, GitHub, GKE, Habr, Kubernetes, PCI DSS, Postgres, Prometheus, PYPI, PyTest, pyuwsgi, Sentry, TeamCity, uWSGI
 
 - https://habr.com/ru/companies/qiwi/articles/665516/
 - Отрасли: не найдено
 - Компании: Хабр, QIWI
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Игры и игровые консоли, Искусственный интеллект, История IT, Разработка игр
+- Кандидаты компаний: DOOM
 
 - https://habr.com/ru/companies/qiwi/articles/667230/
 - Отрасли: Информационная безопасность, информационной безопасности
 - Компании: Хабр, QIWI, Далее
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Kaspersky, KIPS
 
 - https://habr.com/ru/companies/qiwi/articles/669208/
 - Отрасли: не найдено
 - Компании: Хабр, QIWI, Raft, YDB, Яндекс, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: транзакционная обработка данных
+- Кандидаты компаний: CockroachDB, Google, Kafka, Oracle, PostgreSQL, TiDB, Twitter, Yandex, Yugabyte
 
 - https://habr.com/ru/companies/qiwi/articles/673228/
 - Отрасли: не найдено
 - Компании: Хабр, QIWI, ЮMoney
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Grafana
 
 - https://habr.com/ru/companies/qiwi/articles/673850/
 - Отрасли: не найдено
 - Компании: Хабр, QIWI
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: маркетинг, мобильные приложения, финансовые услуги
+- Кандидаты компаний: Confluence, Kotlin Poet, QiwiApplication
 
 - https://habr.com/ru/companies/qiwi/articles/674132/
 - Отрасли: Информационная безопасность, IoT
 - Компании: Хабр, QIWI
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Balena, debian, GParted, nRF52832-MDK, Raspberry Pi, Reddit, Resin, SD-карты, USB, VPN, Wigle.net
 
 - https://habr.com/ru/companies/qiwi/articles/675874/
 - Отрасли: не найдено
 - Компании: Хабр, QIWI, Далее
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Bugsnag, Ebay, Epson, GitHub, Jira, ngrok, Raspberry Pi, Ubuntu
 
 - https://habr.com/ru/companies/qiwi/articles/679220/
 - Отрасли: финтех
 - Компании: Хабр, QIWI, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: платежные системы
+- Кандидаты компаний: ContactPay, KREGI, QIWI API, QIWI-кошелек
 
 - https://habr.com/ru/companies/qiwi/articles/686134/
 - Отрасли: не найдено
 - Компании: Хабр, QIWI, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Сетевые технологии
+- Кандидаты компаний: Habr
 
 - https://habr.com/ru/companies/qiwi/articles/688588/
 - Отрасли: финтех
 - Компании: QIWI, Хабр
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: QIWI Server Party, QSP
 
 - https://habr.com/ru/companies/qiwi/articles/694502/
 - Отрасли: хостинг
 - Компании: Хабр, QIWI, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Искусственный интеллект, Машинное обучение, Обработка изображений, Перевод
+- Кандидаты компаний: 500px, Blogspot, Common Crawl, DeviantArt, DreamStudio, Fine Art America, Flickr, LAION, Midjourney, NightCafe, OpenAI, Pinterest, Shopify, Smugmug, Stability AI, Tumblr, Wikimedia, Wix.com Ltd (Wix, Squarespace, Redbubble, Etsy, 123RF, Adobe Stock, PhotoShelter, Dreamstime, iStockPhoto, Depositphotos, Unsplash, Getty Images, VectorStock, Shutterstock, Artstation, WordPress
 
 - https://habr.com/ru/companies/qiwi/articles/697946/
 - Отрасли: Enterprise
 - Компании: Хабр, QIWI, Кошелёк
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: финансовая
+- Кандидаты компаний: Grafana, Kafka, Kibana, SonarQube, Zipkin Dependency
 
 - https://habr.com/ru/companies/qiwi/articles/699696/
 - Отрасли: не найдено
 - Компании: Хабр, QIWI, Далее, Кошелёк, Бэклог
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-индустрия, Управление персоналом
+- Кандидаты компаний: Large-Scale Scrum, LeSS, QIWI Кошелек, SCRUM
 
 - https://habr.com/ru/companies/qiwi/articles/700614/
 - Отрасли: образование, предлагает
 - Компании: Хабр, QIWI, Samsung, предлагает
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT, гаджеты, запланированное устаревание, компьютерное железо, переработка, потребительские устройства, промышленный дизайн, технологии, утилизация, экология, электроника
+- Кандидаты компаний: AirPods, Amazon, Apple, Dyson, Fitbit, Galaxy Buds Framework Company Framework Laptop MacBook Air Apple Store Philips Sonicare Fire Restart Project, Google, GoPro, Habr, iFixit, iPhone, iPod, JBL, Logitech, Nintendo, Sony, Therabody, VanMoof
 
 - https://habr.com/ru/companies/qiwi/articles/702302/
 - Отрасли: Программное обеспечение, аналитики, финтех
 - Компании: Хабр, QIWI, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: индустрия развлечений
+- Кандидаты компаний: ContactPay, Google Cloud, Jira, Notion, Slack, TeamCity
 
 - https://habr.com/ru/companies/qiwi/articles/707942/
 - Отрасли: не найдено
 - Компании: Хабр, QIWI, ОК
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: распределённые системы, финансовые услуги, хранение данных
+- Кандидаты компаний: Cassandra, CockroachDB, Google, Hadoop, Kafka, MySQL, Oracle, Postgres, Spanner, TiDB, TPC-C, Yahoo Cloud Service Benchmark
 
 - https://habr.com/ru/companies/qiwi/articles/708504/
 - Отрасли: не найдено
 - Компании: Хабр, QIWI, Space, Далее, Тензор
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: искусственный интеллект, машинное обучение, обработка изображений
+- Кандидаты компаний: Apple, CUBLAS, CUDNN, iPhone, Metal, Metal Performance Shaders, MPSGraph, NVIDIA, PyTorch, s4nnc, Stable Diffusion, TensorFlow
 
 - https://habr.com/ru/companies/qiwi/articles/712318/
 - Отрасли: не найдено
 - Компании: Хабр, QIWI, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-индустрия
+- Кандидаты компаний: Scrum, Stack Overflow
 
 - https://habr.com/ru/companies/qiwi/articles/717370/
 - Отрасли: аналитики
 - Компании: Хабр, QIWI, ОК, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT, Тестирование IT-систем, Тестирование веб-сервисов, Управление персоналом, Управление разработкой
+- Кандидаты компаний: Habr, Scrum
 
 - https://habr.com/ru/companies/qiwi/articles/718590/
 - Отрасли: хостинг, провайдер, Оптимизация, масштабируемость
 - Компании: Хабр, QIWI, серверы, провайдер, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: open source, геоинформационные сервисы
+- Кандидаты компаний: AWS, Azure, certbot, ddclient, DigitalOcean, EC2, Google Maps, GTX, Habr, Intel, LetsEncrypt, Netgear, Nginx, NVMe, OpenStreetMap, Stormglass, Switch, Valhalla, VM
 
 - https://habr.com/ru/companies/qiwi/articles/720696/
 - Отрасли: e-commerce, финансы, аналитики, виртуальные
 - Компании: Хабр, QIWI, Додо, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: интернет-эквайринг, платежные системы, процессинговые решения, финансы в IT
+- Кандидаты компаний: *Pay, CONTACT, MC, QIWI Кошелек, Visa, КИВИ, МИР, НСПК, ОФД, Эквайринг
 
 - https://habr.com/ru/companies/qiwi/articles/722872/
 - Отрасли: Информационная безопасность, CRM, процессинг, финтех
 - Компании: Хабр, QIWI, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Сетевые технологии
+- Кандидаты компаний: CMDB, CMDBuild, CRM, Jira, ЦБ
 
 - https://habr.com/ru/companies/qiwi/articles/724298/
 - Отрасли: облачные сервисы, SaaS, промышленные, RPA
 - Компании: Хабр, QIWI
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: промышленный рынок, хранение данных
+- Кандидаты компаний: Amazon Web Services, AWS, Chrome, GCP, Google, LinkedIn
 
 - https://habr.com/ru/companies/qiwi/articles/726072/
 - Отрасли: не найдено
