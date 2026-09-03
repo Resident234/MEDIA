@@ -32555,152 +32555,152 @@
 - https://habr.com/ru/companies/oleg-bunin/articles/461935/
 - Отрасли: не найдено
 - Компании: Хабр, Конференции Олега Бунина (Онтико)
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT
+- Кандидаты компаний: AvitoTech, EnterpriseDB, github.com/furdarius/pgxexperiments, github.com/jackc/pgx, github.com/jackc/pgx/stdlib, github.com/jmoiron/sqlx, github.com/lib/pq, go-database-sql.org, Habr, PgBouncer, PostgreSQL, Saints HighLoad, Онтико
 
 - https://habr.com/ru/companies/oleg-bunin/articles/462937/
 - Отрасли: digital, аналитики
 - Компании: Хабр, Конференции Олега Бунина (Онтико), Авито, 1С, Далее, серверы
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: data discovery, digital twin, IT-инфраструктура, базы данных, доменное моделирование, микросервисная архитектура, монолитная архитектура, хранилища данных
+- Кандидаты компаний: Atlas, Avito, AvitoTech, Highload++, LDAP, Memcache, MongoDB, PostgreSQL, Redis, SQLite, Tarantool, Vertica, VoltDB, Авито People, Онтико
 
 - https://habr.com/ru/companies/oleg-bunin/articles/470904/
 - Отрасли: Machine Learning, Веб-разработка, Аппаратное обеспечение
 - Компании: Хабр, Конференции Олега Бунина (Онтико), Тензор, Далее, Яндекс
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: машинное обучение
+- Кандидаты компаний: @tensorflow/tfjs, @tensorflow/tfjs-node, @tensorflow/tfjs-node-gpu, Angular Moscow Meetup, Avito, AvitoTech, DOTA2, FrontendConf, Google, Google Assistant, Google NightSight, Google Translate, jsDelivr, npm, Siri, TensorFlow, TensorFlow JS, Алиса, Онтико, Пятиминутка Angular
 
 - https://habr.com/ru/companies/oleg-bunin/articles/497154/
 - Отрасли: не найдено
 - Компании: Хабр, Конференции Олега Бунина (Онтико), Авито, Бэклог
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Backend, Cloud storage, Database, DevOps, Frontend, Incident management, Lean Six Sigma, Mobile development, Performance monitoring, Product management, Team leadership
+- Кандидаты компаний: Amazon Web Services, Avito, AvitoTech, ClickHouse, DevOpsConf, FrontendConf, GolangConf, HighLoad++, ManyChat, Product Fest, Saint AppsConf, TeamLead Conf, UseData Conf
 
 - https://habr.com/ru/companies/oleg-bunin/articles/522744/
 - Отрасли: банках, масштабируемость, финтех
 - Компании: Хабр, Конференции Олега Бунина (Онтико), Авито, Далее, Цифра, ОК, Сбербанк, VK
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: multiplayer-игры, real-time сообщения, коллаборативные приложения, мессенджеры, отображение котировок акций
+- Кандидаты компаний: Avito, AvitoTech, Badoo, Centrifuge, Centrifugo, Golang Conf, Gorilla Websocket, Mail.Ru, ManyChat, nhooyr, Spot.im, Онтико
 
 - https://habr.com/ru/companies/oleg-bunin/articles/529054/
 - Отрасли: Веб-разработка
 - Компании: Хабр, Skyeng, Конференции Олега Бунина (Онтико)
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: ИТ
+- Кандидаты компаний: PHP Point, PHP Russia, PhpStorm, QBasic, RnD Tech, Symfony, Yii3, Zend Engine, Онтико
 
 - https://habr.com/ru/companies/oleg-bunin/articles/537190/
 - Отрасли: Рекрутинг и HR, провайдер, бухгалтерия
 - Компании: Хабр, Конференции Олега Бунина (Онтико), Lamoda Tech, провайдер, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: data analytics, IT, интернет-торговля
+- Кандидаты компаний: AGILE, BIG BRO, buddy, Confluence, GIT, JS, KAFKA, Lamoda, PHP7, POSTGRESQL, SOLID, SYMFONY, TeamLead Conf, tlConf, Конференции Олега Бунина, Онтико
 
 - https://habr.com/ru/companies/oleg-bunin/articles/538466/
 - Отрасли: Веб-разработка, Machine Learning, ML
 - Компании: Хабр, Конференции Олега Бунина (Онтико), Самолет, ОК, Яндекс, VK
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-компании
+- Кандидаты компаний: Amazon, Angular, appollo-graphql, Avito, AvitoTech, CS:GO, Frontend Live, Google, Houston, Huston, mobx, ngx-skeleton-loader, ngx-spinner, redux, RxJs, Twitter, Онтико
 
 - https://habr.com/ru/companies/oleg-bunin/articles/546316/
 - Отрасли: Веб-разработка, Мобильные технологии
 - Компании: Хабр, Конференции Олега Бунина (Онтико), Skyeng, Далее
-- Кандидаты отраслей: не найдено
+- Кандидаты отраслей: мобильный бэкенд
 - Кандидаты компаний: не найдено
 
 - https://habr.com/ru/companies/oleg-bunin/articles/551430/
 - Отрасли: Мобильные технологии, CRM, аналитики
 - Компании: Хабр, Конференции Олега Бунина (Онтико), Т-Банк, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: обеспечение качества ПО, разработка ПО, тестирование ПО
+- Кандидаты компаний: Python, Russian Python Week, Tinkoff, Tinkoff Mobile, Олег
 
 - https://habr.com/ru/companies/oleg-bunin/articles/556082/
 - Отрасли: не найдено
 - Компании: Хабр, Конференции Олега Бунина (Онтико), Skyeng, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: DevOps, IT-компании, QA, онлайн-школы, разработка ПО, техническая поддержка, управление продуктом, управление разработкой
+- Кандидаты компаний: Confluence, DevOps, Habr, Jira, Ontico, Slack, TechLead Conf, Онтико
 
 - https://habr.com/ru/companies/oleg-bunin/articles/571114/
 - Отрасли: Big Data
 - Компании: Хабр, Конференции Олега Бунина (Онтико), Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: CI/CD, JavaScript, SPA (Single Page Application), автоматизированное профилирование, Высоконагруженные системы, мониторинг веб-страниц, оптимизация производительности, Программирование, производительность веб-приложений, тестирование производительности, фронтенд-разработка, фронтенд-разработка SPA
+- Кандидаты компаний: AvitoTech, Catapult-project, Chrome DevTools, Chrome DevTools Protocol (CDP), Google PageSpeed Insight, Habr, Lighthouse, Lighthouse-ci, Puppeteer, Trace Events, webpack-bundle-analyzer
 
 - https://habr.com/ru/companies/oleg-bunin/articles/571116/
 - Отрасли: не найдено
 - Компании: Хабр, Конференции Олега Бунина (Онтико), Авито, Цифра, Далее, СИГМА
-- Кандидаты отраслей: не найдено
+- Кандидаты отраслей: высоконагруженные системы
 - Кандидаты компаний: не найдено
 
 - https://habr.com/ru/companies/oleg-bunin/articles/576906/
 - Отрасли: биометрия
 - Компании: Хабр, Конференции Олега Бунина (Онтико), РТЛабс, Ростелеком, Далее, Звук
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT, кибербезопасность, финансовые услуги
+- Кандидаты компаний: Apache, Hadoop, HighLoad++, Kafka, NixLeader, RabbitMQ, Единая биометрическая система (ЕБС), Конференции Олега Бунина, Онтико
 
 - https://habr.com/ru/companies/oleg-bunin/articles/593297/
 - Отрасли: Оптимизация
 - Компании: Хабр, Конференции Олега Бунина (Онтико), Авито, 1С, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: PHP-микросервисы, Микросервисы, Сетевые технологии
+- Кандидаты компаний: Avito, AvitoTech
 
 - https://habr.com/ru/companies/oleg-bunin/articles/595085/
 - Отрасли: не найдено
 - Компании: Хабр, Конференции Олега Бунина (Онтико), Авито, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Качество кода, Конференции, Тестирование веб-сервисов, Тестирование мобильных приложений
+- Кандидаты компаний: AvitoTech, Habr, Онтико
 
 - https://habr.com/ru/companies/oleg-bunin/articles/596979/
 - Отрасли: Веб-разработка, СМИ, аналитики, Аппаратное обеспечение
 - Компании: Хабр, Конференции Олега Бунина (Онтико), Авито
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Тестирование веб-сервисов, Управление продуктом
+- Кандидаты компаний: AvitoTech, HAProxy, Jira, Kubernetes, Problem Mangement, Redis
 
 - https://habr.com/ru/companies/oleg-bunin/articles/649319/
 - Отрасли: предлагает, DWH, PaaS, Machine Learning
 - Компании: Хабр, Конференции Олега Бунина (Онтико), Авито, Бэклог, Цифра, предлагает
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: API Gateway, Container Runtime, Container Runtime/Registry, IT-стандарты, scheduling & Orchestration, Высоконагруженные системы, Микросервисы
+- Кандидаты компаний: Atlassian, AvitoTech, Bitbucket, Cloud Native Computing Foundation, etcd, Golang, HAProxy, Harbor, Kubernetes, Messenger, MongoDB, Nginx, pgBouncer, php-fpm, PostgreSQL, Redis, rsyslog, Sphinx
 
 - https://habr.com/ru/companies/oleg-bunin/articles/649553/
 - Отрасли: Платформенные сервисы, PaaS
 - Компании: Хабр, Конференции Олега Бунина (Онтико), Авито, Бэклог
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: CI/CD, IT, Kubernetes, Service mesh, микросервисы, разработка ПО, тестирование
+- Кандидаты компаний: Avito CLI, AvitoTech, crons-events, crons-gateway, crons-list, envoy, Golang, Navigator, PaaS
 
 - https://habr.com/ru/companies/oleg-bunin/articles/656095/
 - Отрасли: SaaS
 - Компании: Хабр, Конференции Олега Бунина (Онтико), Skyeng, iSpring, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-услуги, архитектура программного обеспечения, микросервисы, образовательные технологии, техподдержка
+- Кандидаты компаний: ApiInterface, Application, Big ball of mud, CI/CD, Customer IO, Deptrac, DevOps, Dto, Email, Gateway, Gmail, HTTP, IMAP, InfoBip, Legacy, Neuronet, NodeJS, Open Tracing, Outlook, Packages, PHP, PHP Cache, PHPat, PSR-16, PSR-6, RabbitMQ, Raw, Raw\Email, Redis, Source, Source\IMAP, Telegram, Thread, Top, Web-сокеты, WhatsApp, Конференции Олега Бунина, Микросервисы, модульный монолит, Онтико
 
 - https://habr.com/ru/companies/oleg-bunin/articles/676332/
 - Отрасли: Оптимизация
 - Компании: Хабр, Конференции Олега Бунина (Онтико), Авито
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: AvitoTech
 
 - https://habr.com/ru/companies/oleg-bunin/articles/680106/
 - Отрасли: недвижимость
 - Компании: Авито, Хабр, Конференции Олега Бунина (Онтико), Бэклог, Базис, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Agile, HR-менеджмент, Инжиниринг, Продуктовая разработка, Разработка ПО, Управление персоналом
+- Кандидаты компаний: AvitoTech, Dropbox, Dropbox Engineering, Engineering Ladders, Habr, Jorge Fioranelli, Product Owner, Team Lead, Tech Lead, Technical Cluster Lead, Technical Unit Lead, US big tech, Егор Толстой, Олег Бунин, Онтико, Стас Цыганов
 
 - https://habr.com/ru/companies/oleg-bunin/articles/686512/
 - Отрасли: digital, PaaS, аналитики
 - Компании: Хабр, Конференции Олега Бунина (Онтико), МТС, ПИК
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Docker, Elasticsearch, Jaeger, Kibana, Kubernetes, Prometheus, Redis, МТС Digital
 
 - https://habr.com/ru/companies/oleg-bunin/articles/696112/
 - Отрасли: процессинг
 - Компании: Хабр, Конференции Олега Бунина (Онтико), Авито, Контур, Самоката
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: backend, canary, frontend, gateway, prodакшен, shift-left, shift-right, staging, tracing, динамический контур, Микросервисы, статическое связывание
+- Кандидаты компаний: AvioTech, mattermost, slack, Конференции Олега Бунина, Онтико
 
 - https://habr.com/ru/companies/oleg-bunin/articles/697064/
 - Отрасли: PaaS, образование, e-commerce, Оптимизация
 - Компании: Хабр, Конференции Олега Бунина (Онтико), Купер, Бэклог, Далее, ПИК, Яндекс
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT, Игрострой, Управление персоналом, Управление проектами, Управление разработкой
+- Кандидаты компаний: Google, Конференции Олега Бунина, Онтико, Проект Феникс, СберМаркет
 
 - https://habr.com/ru/companies/oleg-bunin/articles/697220/
 - Отрасли: Big Data, аналитики, ETL, BI, DWH, Оптимизация
