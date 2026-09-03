@@ -59705,152 +59705,152 @@
 - https://habr.com/ru/companies/usetech/articles/645273/
 - Отрасли: не найдено
 - Компании: Хабр, Юзтех, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: мобильная разработка, проектирование API
+- Кандидаты компаний: Amazon, Amplify, Facebook, GraphQL Foundation, Hasura, Heroku, Heroky Database, Linux Foundation, PostgreSQL, Usetech
 
 - https://habr.com/ru/companies/usetech/articles/645787/
 - Отрасли: не найдено
 - Компании: Хабр, Юзтех
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: мобильная разработка
+- Кандидаты компаний: Apollo GraphQL, apollo-codegen, apollo-ios, Hasura, npm, Usetech
 
 - https://habr.com/ru/companies/usetech/articles/645789/
 - Отрасли: не найдено
 - Компании: Хабр, Юзтех
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: мобильная разработка
+- Кандидаты компаний: Apollo GraphQL, Firebase, Firebase Storage, github.com, Hasura, npm, Usetech
 
 - https://habr.com/ru/companies/usetech/articles/651947/
 - Отрасли: не найдено
 - Компании: Хабр, Юзтех
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: разработка iOS приложений
+- Кандидаты компаний: Apple, Usetech
 
 - https://habr.com/ru/companies/usetech/articles/655707/
 - Отрасли: аналитики
 - Компании: Хабр, Юзтех, ОК
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT
+- Кандидаты компаний: JMeter, Usetech
 
 - https://habr.com/ru/companies/usetech/articles/656595/
 - Отрасли: не найдено
 - Компании: Хабр, Юзтех
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-индустрия, IT-сфера
+- Кандидаты компаний: Confluence, Git, JIRA, Postman, SoapUI, Usetech
 
 - https://habr.com/ru/companies/usetech/articles/665046/
 - Отрасли: не найдено
 - Компании: Хабр, Юзтех, быструю
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: FasterXML, Jackson, Usetech
 
 - https://habr.com/ru/companies/usetech/articles/666760/
 - Отрасли: аналитики
 - Компании: Хабр, Юзтех
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: доступность, исследование юзабилити интерфейсов, контроль качества программного обеспечения, нефункциональное тестирование, оценка надёжности работы программы, проверка локализации, тестирование IT-систем, тестирование безопасности, тестирование веб-сервисов, тестирование мобильных приложений, тестирование нагрузки, функциональное тестирование
+- Кандидаты компаний: Checks, Contrast Ratio, NVDA, Usetech, W3C, WAI, WAVE Web Accessibility Evaluation Tool, WCAG, Web Content Accessibility Guidelines, YouTube, ГК Юзтех, Инициатива группы доступности веб-сайтов, Консорциум всемирной паутины
 
 - https://habr.com/ru/companies/usetech/articles/667448/
 - Отрасли: Рекрутинг и HR
 - Компании: Хабр, Юзтех
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-индустрия, тестирование
+- Кандидаты компаний: Google, Postman, Usetech
 
 - https://habr.com/ru/companies/usetech/articles/669994/
 - Отрасли: Дизайн и юзабилити, Информационная безопасность, ML
 - Компании: Хабр, Юзтех, Звук
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: игры
+- Кандидаты компаний: Apple, LLDB, Usetech
 
 - https://habr.com/ru/companies/usetech/articles/670242/
 - Отрасли: не найдено
 - Компании: Хабр, Юзтех
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: iOS, iPadOS, macOS, watchOS
+- Кандидаты компаний: Apple, Charts, Grid, Habr, iPad, macOS, NavigationDestination, NavigationLink, NavigationSplitView, NavigationStack, Swift, SwiftUI, TableView, Toolbar, Transferable, UIImagePickerController, UIKit, Usetech, WWDC
 
 - https://habr.com/ru/companies/usetech/articles/673196/
 - Отрасли: Дизайн и юзабилити, Программное обеспечение, предлагает
 - Компании: Хабр, Юзтех, АТОМ, Далее, предлагает
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Amazon, Salesforce, Usetech
 
 - https://habr.com/ru/companies/usetech/articles/680330/
 - Отрасли: Веб-разработка
 - Компании: Хабр, Юзтех, Далее
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Usetech
 
 - https://habr.com/ru/companies/usetech/articles/680948/
 - Отрасли: Дизайн и юзабилити
 - Компании: Хабр, Юзтех
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: JMH, Usetech, Webflux
 
 - https://habr.com/ru/companies/usetech/articles/683022/
 - Отрасли: не найдено
 - Компании: Хабр, Юзтех
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: ActiveMQ Artemis, Apache, Apache Pulsar, IBM MQ, Kafka, RabbitMQ, Usetech
 
 - https://habr.com/ru/companies/usetech/articles/684312/
 - Отрасли: ETL, Enterprise
 - Компании: Хабр, Юзтех
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Apache, Apache Airflow, Apache Camel, AWS, AWS Step Functions, Azure Cloud, Luigi, NiFi, RabbitMQ, UseBus, Usetech
 
 - https://habr.com/ru/companies/usetech/articles/687288/
 - Отрасли: не найдено
 - Компании: Хабр, Юзтех
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Usetech
 
 - https://habr.com/ru/companies/usetech/articles/689382/
 - Отрасли: не найдено
 - Компании: Хабр, Юзтех
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-индустрия
+- Кандидаты компаний: Usetech, ГК Юзтех, Программа лояльности
 
 - https://habr.com/ru/companies/usetech/articles/691160/
 - Отрасли: не найдено
 - Компании: Хабр, Юзтех, Далее
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Fluent Assertions, NuGet Package Manager, Usetech, ГК Юзтех
 
 - https://habr.com/ru/companies/usetech/articles/695070/
 - Отрасли: не найдено
 - Компании: Хабр, Юзтех
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Usetech, ГК Юзтех
 
 - https://habr.com/ru/companies/usetech/articles/696686/
 - Отрасли: предлагает, аналитики
 - Компании: Хабр, Юзтех, предлагает
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: ИТ
+- Кандидаты компаний: Appium, Asana, Bitbucket, BrowserStack, Clear Cache, Colorzilla, CSS Viewer, CSSPeeper, EditThisCookie, Ghostery, Github, Gitlab, GoFullPage, Google, Google Chrome, Gradle, Jenkins, Jira, LambdaTest, LightHouse, Lorem Ipsum Generator, PerfectPixel, Photoshop, Redux DevTools, Selenium, Slack, Usetech, Visual Studio, Wappalyzer, WhatFont, Window Resizer, ГК Юзтех
 
 - https://habr.com/ru/companies/usetech/articles/702454/
 - Отрасли: не найдено
 - Компании: Хабр, Юзтех, Яндекс
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Usetech, ГК Юзтех
 
 - https://habr.com/ru/companies/usetech/articles/704824/
 - Отрасли: финтех
 - Компании: Хабр, Юзтех, Далее
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Adplist, DesignSpot, Usetech, ГК Юзтех
 
 - https://habr.com/ru/companies/usetech/articles/708106/
 - Отрасли: Data science, Оптимизация, информационной безопасности, кибербезопасности, Enterprise, Big Data, Machine Learning, Информационная безопасность, финансы, медицина
 - Компании: Хабр, Юзтех, Gartner
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: индустрии разработки программного обеспечения, мобильной разработки
+- Кандидаты компаний: Amazon, Apple, Figma, GitHub Copilot, Google, IceRock, JB, Microsoft, Statista, Touchlab, Usetech, Yandex Cloud, ГК Юзтех
 
 - https://habr.com/ru/companies/usetech/articles/709560/
 - Отрасли: Веб-сервисы
 - Компании: Хабр, Юзтех
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT
+- Кандидаты компаний: Usetech, ГК Юзтех
 
 - https://habr.com/ru/companies/usetech/articles/710086/
 - Отрасли: не найдено
