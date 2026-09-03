@@ -62705,152 +62705,152 @@
 - https://habr.com/ru/companies/Voximplant/articles/340414/
 - Отрасли: Веб-разработка, Machine Learning
 - Компании: Хабр, Voximplant
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Рынок труда
+- Кандидаты компаний: Bloomberg, Django, Hack Train, INTERCOM, Moscow Python, Moscow Python Conf, TensorFlow
 
 - https://habr.com/ru/companies/Voximplant/articles/340746/
 - Отрасли: Веб-разработка
 - Компании: Хабр, Voximplant
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: телеком
+- Кандидаты компаний: Apple, Asterisk, Unity, Zoom
 
 - https://habr.com/ru/companies/Voximplant/articles/343196/
 - Отрасли: Веб-разработка, предлагает, Big Data
 - Компании: Хабр, Voximplant, предлагает
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: контакт центр, телефония
+- Кандидаты компаний: Google, Google Speech API
 
 - https://habr.com/ru/companies/Voximplant/articles/343678/
 - Отрасли: Веб-разработка, Machine Learning, Big Data, IAAS, PaaS, SaaS, масштабируемость
 - Компании: Хабр, Voximplant, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: communications platform as a service, CPaaS, FaaS, IP Messaging, SMS, VoIP, видео коммуникации, голосовые коммуникации
+- Кандидаты компаний: Amazon, Apache OpenWhisk, AWS Lambda, Azure, Google, Google Cloud Functions, Microsoft, PubNub Functions, Twilio, Twilio Function
 
 - https://habr.com/ru/companies/Voximplant/articles/344224/
 - Отрасли: CRM, Веб-разработка, медиа, Big Data, Machine Learning
 - Компании: Хабр, Voximplant, Звук
-- Кандидаты отраслей: не найдено
+- Кандидаты отраслей: Телефония
 - Кандидаты компаний: не найдено
 
 - https://habr.com/ru/companies/Voximplant/articles/344794/
 - Отрасли: Веб-разработка, виртуальные
 - Компании: Хабр, Voximplant, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: информационные технологии
+- Кандидаты компаний: Firefox, Google, PubNub, Skype, Twilio
 
 - https://habr.com/ru/companies/Voximplant/articles/345148/
 - Отрасли: Веб-разработка
 - Компании: Хабр, Voximplant, Арендовать, Далее
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: OpenAPI, Swagger, swagger-codegen
 
 - https://habr.com/ru/companies/Voximplant/articles/346188/
 - Отрасли: Веб-разработка, CRM
 - Компании: Хабр, Voximplant
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: колл-центры
+- Кандидаты компаний: CRM, google docs, Skype, фейсбука
 
 - https://habr.com/ru/companies/Voximplant/articles/346474/
 - Отрасли: Веб-разработка
 - Компании: Хабр, Voximplant
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: автоматика телефонных и видеозвонков
+- Кандидаты компаний: Amazon, JointJS, React Diagrams, Smartcalls, smartcalls.io, Storm
 
 - https://habr.com/ru/companies/Voximplant/articles/346924/
 - Отрасли: Веб-разработка, медиа
 - Компании: Хабр, Voximplant, серверы
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: видеокоммуникации реального времени, конференц-связь
+- Кандидаты компаний: Amazon Chime, appear.in, Atlassian Stride, BlogGeek.me, Google Hangouts, Hangouts, Hangouts Meet, Houseparty, Jitsi Meet, Skype, testRTC
 
 - https://habr.com/ru/companies/Voximplant/articles/347258/
 - Отрасли: Информационная безопасность, Веб-разработка, облачные сервисы
 - Компании: Хабр, Voximplant
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Django, expressjs, nginx, Rails
 
 - https://habr.com/ru/companies/Voximplant/articles/347832/
 - Отрасли: Веб-разработка
 - Компании: Хабр, Voximplant
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: ритейл, телемедицина, телефония
+- Кандидаты компаний: Рога и Копыта
 
 - https://habr.com/ru/companies/Voximplant/articles/348152/
 - Отрасли: аналитики, предлагает, CRM
 - Компании: Хабр, Voximplant, предлагает, Додо
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: CPaaS, телеком, телефония
+- Кандидаты компаний: Discord, Google, Slack, TalkDesk, TokBox, Vidyo.io
 
 - https://habr.com/ru/companies/Voximplant/articles/348720/
 - Отрасли: Веб-разработка, NLP, Natural Language Processing
 - Компании: Voximplant, Хабр, Арендовать
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Dialogflow, Firebase, google, openweathermap.org
 
 - https://habr.com/ru/companies/Voximplant/articles/349422/
 - Отрасли: Веб-разработка
 - Компании: Хабр, Voximplant, AMD
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Node.js, NPM, Webpack
 
 - https://habr.com/ru/companies/Voximplant/articles/350476/
 - Отрасли: Веб-разработка
 - Компании: Хабр, Voximplant, Далее
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: bloggeek.me, Chrome, Google
 
 - https://habr.com/ru/companies/Voximplant/articles/351234/
 - Отрасли: Веб-разработка, медиа
 - Компании: Хабр, Voximplant
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: VoIP телефония
+- Кандидаты компаний: cotun, github, google.com, HostGator, PeerJS, restund, testRTC, Скайп
 
 - https://habr.com/ru/companies/Voximplant/articles/351486/
 - Отрасли: Веб-разработка, стриминг
 - Компании: Хабр, Voximplant, серверы, Далее
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Chrome, VoxEngine
 
 - https://habr.com/ru/companies/Voximplant/articles/352730/
 - Отрасли: Веб-разработка, криптографии, Информационная безопасность
 - Компании: Хабр, Voximplant, серверы
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: appear.in, Chrome, Confrere, Edge, Firefox, Wikipedia
 
 - https://habr.com/ru/companies/Voximplant/articles/353460/
 - Отрасли: Веб-разработка, медиа, Информационная безопасность
 - Компании: Хабр, Voximplant
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: gamedev, VoIP, конференсинг
+- Кандидаты компаний: Tribe, Хромиум
 
 - https://habr.com/ru/companies/Voximplant/articles/353884/
 - Отрасли: Веб-разработка, digital, Мобильные технологии
 - Компании: Хабр, Voximplant
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Системы связи
+- Кандидаты компаний: Digital Ocean
 
 - https://habr.com/ru/companies/Voximplant/articles/354138/
 - Отрасли: Веб-разработка, медиа
 - Компании: Хабр, Voximplant, Далее, серверы
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Системы связи
+- Кандидаты компаний: Asterisk, callstats.io, FreeSWITCH, Google Hangouts, HOMER, Jitsi, Kamailio, OpenSIPS, rtcstats, SIPCAPTURE, testRTC
 
 - https://habr.com/ru/companies/Voximplant/articles/354502/
 - Отрасли: Веб-разработка, медиа
 - Компании: Хабр, Voximplant, Звук
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: мультимедийные коммуникации
+- Кандидаты компаний: callstats.io, IETF
 
 - https://habr.com/ru/companies/Voximplant/articles/358222/
 - Отрасли: Веб-разработка, предлагает
 - Компании: Хабр, Voximplant, серверы, Далее, предлагает
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Google Chrome, Hangouts, Intercom, Skype for Web, TestRTC blog, YouTube, YouTube Red, Гугла
 
 - https://habr.com/ru/companies/Voximplant/articles/358608/
 - Отрасли: виртуальные, облачных сервисов
 - Компании: серверы, Хабр, Voximplant
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT
+- Кандидаты компаний: AWS, Cloud Native Computing Foundation, CNCF, Google Cloud Platform, heroku, Microsoft Azure, Platform9, Suse
 
 - https://habr.com/ru/companies/Voximplant/articles/359010/
 - Отрасли: Веб-разработка
