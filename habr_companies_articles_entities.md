@@ -41855,152 +41855,152 @@
 - https://habr.com/ru/companies/redmadrobot/articles/306116/
 - Отрасли: Enterprise, digital, Мобильные технологии, Дизайн и юзабилити, CRM
 - Компании: Хабр, red_mad_robot, ПИК, Далее, быструю
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Agile, Enterprise-сегмент, P2P-переводы, UX и UI, waterfall, банковское обслуживание, дистанционное банковское обслуживание, мобильные приложения, мобильный банкинг, юзабилити-тестирование
+- Кандидаты компаний: AppStore, redmadrobot, Redmadrobot, Safari, Usability Lab, Открытие Digital
 
 - https://habr.com/ru/companies/redmadrobot/articles/306572/
 - Отрасли: не найдено
 - Компании: Хабр, red_mad_robot, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Разработка мобильных приложений
+- Кандидаты компаний: Apple, WWDC, Xcode
 
 - https://habr.com/ru/companies/redmadrobot/articles/308398/
 - Отрасли: digital, CRM
 - Компании: Хабр, red_mad_robot, Банк «Открытие», Контур
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-инфраструктура, банковские услуги, мобильные приложения, социальные сети, финансовый сектор
+- Кандидаты компаний: HelpDesk, redmadrobot, Telegram, Открытие Digital
 
 - https://habr.com/ru/companies/redmadrobot/articles/313706/
 - Отрасли: Мобильные технологии
 - Компании: Хабр, red_mad_robot
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Разработка мобильных приложений
+- Кандидаты компаний: Apple, Habr, WWDDC, Xcode
 
 - https://habr.com/ru/companies/redmadrobot/articles/314104/
 - Отрасли: предлагает
 - Компании: Хабр, red_mad_robot, предлагает
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: DevOps, Базы данных, Виртуализация
+- Кандидаты компаний: Docker, Fabricio, Kubernetes, Mesos, pgpool-II, PostgreSQL, Swarm, Vagrant
 
 - https://habr.com/ru/companies/redmadrobot/articles/314156/
 - Отрасли: Мобильные технологии
 - Компании: Хабр, red_mad_robot, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Разработка мобильных приложений
+- Кандидаты компаний: PayPal
 
 - https://habr.com/ru/companies/redmadrobot/articles/318222/
 - Отрасли: Оптимизация
 - Компании: Хабр, red_mad_robot
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Immutable.js, JavaScript, React, ReactJS
 
 - https://habr.com/ru/companies/redmadrobot/articles/318866/
 - Отрасли: предлагает
 - Компании: Хабр, red_mad_robot, Далее, предлагает, Raft
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: DevOps, IT-инфраструктура, Виртуализация, Серверное администрирование
+- Кандидаты компаний: Bash, Docker, Fabric, Fabricio, HCL, nginx, Puppet language, Python, XML, YAML
 
 - https://habr.com/ru/companies/redmadrobot/articles/344952/
 - Отрасли: Мобильные технологии, Дизайн и юзабилити
 - Компании: Хабр, red_mad_robot, OWASP
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: мобильная разработка, разработка мобильных приложений
+- Кандидаты компаний: Android Studio, Apple, Fastlane, Google, Google I/O, Gradle, Jenkins, Redmadrobot, WWDC, Xcode
 
 - https://habr.com/ru/companies/redmadrobot/articles/348004/
 - Отрасли: не найдено
 - Компании: Хабр, red_mad_robot, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: iOS, OS X, tvOS, watchOS
+- Кандидаты компаний: AFNetworking, Alamofire, Apple, Homebrew
 
 - https://habr.com/ru/companies/redmadrobot/articles/349272/
 - Отрасли: Информационная безопасность, информационной безопасности, Мобильные технологии
 - Компании: Хабр, red_mad_robot, OWASP
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Разработка мобильных приложений
+- Кандидаты компаний: Alamofire, Apple
 
 - https://habr.com/ru/companies/redmadrobot/articles/351516/
 - Отрасли: не найдено
 - Компании: Хабр, red_mad_robot
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: JetBrains, Redmadrobot, YouTube
 
 - https://habr.com/ru/companies/redmadrobot/articles/354152/
 - Отрасли: не найдено
 - Компании: Хабр, red_mad_robot, Яндекс, Альфа-Банка
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Разработка мобильных приложений
+- Кандидаты компаний: Avito, Google, JetBrains, redmadrobot, Мамба, Яндекс.Авто
 
 - https://habr.com/ru/companies/redmadrobot/articles/359158/
 - Отрасли: Дизайн и юзабилити
 - Компании: Хабр, red_mad_robot
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: дизайн мобильных приложений, разработка мобильных приложений
+- Кандидаты компаний: Genius, Google, Lyft, NPR, Pocket casts, Realtimeboard, Zappo, Zeplin
 
 - https://habr.com/ru/companies/redmadrobot/articles/359282/
 - Отрасли: не найдено
 - Компании: Хабр, red_mad_robot
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Android, Разработка мобильных приложений
+- Кандидаты компаний: Cicerone, Google
 
 - https://habr.com/ru/companies/redmadrobot/articles/413281/
 - Отрасли: виртуальные, ML, digital
 - Компании: Хабр, red_mad_robot, ОК
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: веб-приложения, дополненная реальность, разработка мобильных приложений, рекламная индустрия, рекламный бизнес
+- Кандидаты компаний: Android, Animoji, Apple, ARKit, Bitbucket, FaceTime, GitHub, GitLab, Instruments, iOS, LEGO, Measure, Memoji, Mojave, redmadrobot, Shortcuts, Siri, Workflow, Xcode
 
 - https://habr.com/ru/companies/redmadrobot/articles/418307/
 - Отрасли: предлагает, ML, Natural Language Processing, Machine Learning
 - Компании: Хабр, red_mad_robot, предлагает, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: автомобильная промышленность, искусственный интеллект, машинное обучение, разработка мобильных приложений, социальные сети
+- Кандидаты компаний: Apple, Caffe, Core ML, Create ML, iMac Pro, Keras”, “scikit-learn”, “XGBoost”, “LIBSVM, MacBook Pro, MacOS, Mail, Memrise, Photos, Siri, Swift, Turi Create, Vision, WWDC, WWDC16, WWDC18, Xcode
 
 - https://habr.com/ru/companies/redmadrobot/articles/419773/
 - Отрасли: Natural Language Processing, NLP, предлагает
 - Компании: Хабр, red_mad_robot, предлагает, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Android, Голосовые интерфейсы, Интернет вещей
+- Кандидаты компаний: Actions On Google, AoG, App Actions, Content Actions, Dialogflow, Google, Google Assistant, Natural Language Processing, NLP, redmadrobot, Slices, Навык для Google ассистента
 
 - https://habr.com/ru/companies/redmadrobot/articles/421447/
 - Отрасли: PKI
 - Компании: Хабр, red_mad_robot
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: аутсорс, разработка мобильных приложений
+- Кандидаты компаний: Apple, Intents, NSUserActivity, React Native, redmadrobot, Shortcuts, Siri, Siri Suggestions, SiriKit
 
 - https://habr.com/ru/companies/redmadrobot/articles/426617/
 - Отрасли: Дизайн и юзабилити
 - Компании: Хабр, red_mad_robot, Далее, Звук, ОК
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Android, мобильная разработка
+- Кандидаты компаний: AppsConf, Cicerone, Google
 
 - https://habr.com/ru/companies/redmadrobot/articles/454712/
 - Отрасли: стриминг
 - Компании: Хабр, red_mad_robot, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: индустрия платежей, многопользовательские игры, обработка аудио, обработка видео, обработка данных, обработка трехмерной графики, обработка фото, платежи, разработка UI, реактивное программирование, редактирование видео, сведение аудио
+- Кандидаты компаний: Apple, Apple ID, Apple Pay, facebook, google, Interface Builder Sketch, iOS, iPad Pro, iPadOS, Keynote, mac, macOS, redmadrobot, Safari, Sidecar, Sign in with Apple, Swift, SwiftUI, WWDC
 
 - https://habr.com/ru/companies/redmadrobot/articles/460673/
 - Отрасли: не найдено
 - Компании: Хабр, red_mad_robot, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Разработка мобильных приложений
+- Кандидаты компаний: Android, DiffUtil, Google, RecyclerView, Support Library
 
 - https://habr.com/ru/companies/redmadrobot/articles/461085/
 - Отрасли: не найдено
 - Компании: Хабр, red_mad_robot, Далее
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: AED, Android, AppActivity, AppPresenter, DecimalFormat, EUR, GBP, IETF, ILS, iOS, ISO, JDK, NumberFormat, RUB, SAR, SDK, SettingsInteractor, UiLocalizer, USD
 
 - https://habr.com/ru/companies/redmadrobot/articles/461787/
 - Отрасли: не найдено
 - Компании: Хабр, red_mad_robot, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: разработка мобильных приложений
+- Кандидаты компаний: Google
 
 - https://habr.com/ru/companies/redmadrobot/articles/478566/
 - Отрасли: Дизайн и юзабилити
 - Компании: Хабр, red_mad_robot, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: информационные технологии, разработка мобильных приложений
+- Кандидаты компаний: Apple
 
 - https://habr.com/ru/companies/redmadrobot/articles/488210/
 - Отрасли: предлагает
