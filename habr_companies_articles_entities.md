@@ -66455,152 +66455,152 @@
 - https://habr.com/ru/companies/yoomoney/articles/325762/
 - Отрасли: e-commerce, ERP
 - Компании: Додо, Хабр, ЮMoney, Яндекс
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: ERP-системы, IT-системы, онлайн-платежи, пиццерийный бизнес, платежные системы, эквайринг
+- Кандидаты компаний: Dodo IS, dodopizza.ru, Facebook, PCI DSS, ВКонтакте, Додо Пицца, Сапсан, Яндекс.Касса
 
 - https://habr.com/ru/companies/yoomoney/articles/326436/
 - Отрасли: Оптимизация, аналитики, ETL, OLAP
 - Компании: Хабр, ЮMoney, Яндекс, Далее, серверы
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: финансовые системы
+- Кандидаты компаний: Analysis Services, Integration Services, Microsoft, Microsoft SQL Server, ReportServer, Яндекс.Денег
 
 - https://habr.com/ru/companies/yoomoney/articles/326998/
 - Отрасли: e-commerce
 - Компании: Хабр, ЮMoney, Яндекс, ОК
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Платежные системы
+- Кандидаты компаний: ESF Database Migration Toolkit, Full Convert, Ora2Pg, Oracle, Oracle GoldenGate, Oracle to PostgreSQL Migration, PostgreSQL, SQLData Tool, SymmetricDS, Я.Денег, Яндекс.Деньгах
 
 - https://habr.com/ru/companies/yoomoney/articles/328018/
 - Отрасли: Оптимизация
 - Компании: Яндекс, Хабр, ЮMoney, Далее, серверы
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: DevOps, IT-инфраструктура, серверная оптимизация, системное администрирование, финансовые услуги
+- Кандидаты компаний: Apache Flume, Apache Kafka, Elasticsearch, ESJson, Go, HAProxy, Heka, Java, Kibana, log4j, Logstash, Lua, nxlog, Protobuf, SyslogNg, Tomcat, Яндекс.Деньги
 
 - https://habr.com/ru/companies/yoomoney/articles/328092/
 - Отрасли: e-commerce
 - Компании: Хабр, ЮMoney, Яндекс, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: платежные сервисы
+- Кандидаты компаний: Atlassian, Bitbucket, GitHub, Gradle, Jenkins, JetBrains, Jira, Job DSL, TeamCity, Yandex.Money, Яндекс.Деньги
 
 - https://habr.com/ru/companies/yoomoney/articles/329926/
 - Отрасли: e-commerce, процессинг
 - Компании: Хабр, ЮMoney, Яндекс, серверы, Далее, Цифра
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-системы, Банковская отрасль, Платежные системы
+- Кандидаты компаний: Mastercard, Oracle, VISA, НСПК, Яндекс.Деньги, Яндекс.Танк
 
 - https://habr.com/ru/companies/yoomoney/articles/330096/
 - Отрасли: медиа, стриминг, e-commerce
 - Компании: Яндекс, Хабр, ЮMoney, Кошелёк, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: игровая индустрия, краудфандинг, платёжные системы, социальные сети, финансовые услуги
+- Кандидаты компаний: ВКонтакте, Яндекс.Деньги
 
 - https://habr.com/ru/companies/yoomoney/articles/330952/
 - Отрасли: Оптимизация
 - Компании: Хабр, ЮMoney, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: DevOps, IT-инфраструктура, Серверная оптимизация, Системное администрирование
+- Кандидаты компаний: ElasticSearch, HAProxy, Heka, Intel, Kibana, Linux Container Daemon, Logstash, LXD
 
 - https://habr.com/ru/companies/yoomoney/articles/332462/
 - Отрасли: e-commerce, Enterprise
 - Компании: Хабр, ЮMoney, Яндекс
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: высоконагруженные системы, финансовые услуги
+- Кандидаты компаний: Ehcache, Gridgain, Hazelcast, Infinispan, Memcache, PostgreSQL, Redis, Яндекс.Деньги
 
 - https://habr.com/ru/companies/yoomoney/articles/333844/
 - Отрасли: не найдено
 - Компании: Хабр, ЮMoney, Яндекс, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-инфраструктура, Платежные системы
+- Кандидаты компаний: Barman Backup & Recovery, pg_espresso, pg_receivexlog, pgespresso, PostgreSQL, Ubuntu, Яндекс.Деньгах
 
 - https://habr.com/ru/companies/yoomoney/articles/334500/
 - Отрасли: e-commerce
 - Компании: Хабр, ЮMoney, Яндекс, Далее, серверы
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Babel, Chromium, Express, Grafana, Graphite, Koa 2, libUV, libxml, libxslt, Nginx, Node.js, NPM, Prometheus, V8, Яндекс.Деньги
 
 - https://habr.com/ru/companies/yoomoney/articles/336290/
 - Отрасли: Рекрутинг и HR, аналитики
 - Компании: Хабр, ЮMoney, Яндекс
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-индустрия, платёжные системы, Управление персоналом, Управление сообществом, финансовый рынок
+- Кандидаты компаний: Городские платежи, Яндекс.Деньги
 
 - https://habr.com/ru/companies/yoomoney/articles/336426/
 - Отрасли: Оптимизация
 - Компании: Хабр, ЮMoney, Яндекс
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: DevOps, IT-инфраструктура, Серверная оптимизация, Системное администрирование
+- Кандидаты компаний: Atlassian, Frontend Mix, ITIVITI, Jira, JiraMania, СберТех, Яндекс.Деньги
 
 - https://habr.com/ru/companies/yoomoney/articles/337178/
 - Отрасли: не найдено
 - Компании: Хабр, ЮMoney, Звук, Яндекс, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-индустрия, Управление персоналом, Управление сообществом
+- Кандидаты компаний: TED.com, Яндекс.Деньги
 
 - https://habr.com/ru/companies/yoomoney/articles/337652/
 - Отрасли: медиа, стриминг, e-commerce
 - Компании: Хабр, ЮMoney, Яндекс, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: блогинг, онлайн-стриминг, платёжные системы, разработка ПО, стриминговые платформы
+- Кандидаты компаний: ASP.NET, Azure, Chrome, Chromium, Electron, Google, Microsoft, Microsoft SQL, Postman, React, Ubuntu, Yandex SpeechKit, Высшая школа экономики, Яндекс.Деньги, ЯСтрим
 
 - https://habr.com/ru/companies/yoomoney/articles/337924/
 - Отрасли: Оптимизация, e-commerce
 - Компании: Хабр, ЮMoney, Яндекс
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Chrome Dev Tools, Epam, Frontend MIX, Npm, pnpm, Yarn, Альфа-Лаборатория, Я.Встречи, Яндекс.Деньги
 
 - https://habr.com/ru/companies/yoomoney/articles/339350/
 - Отрасли: не найдено
 - Компании: Хабр, ЮMoney, Яндекс
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: DevOps, Серверное администрирование, Системное администрирование
+- Кандидаты компаний: Badoo, Docker, Docker Swarm, Mesos, Zvooq, Альфа-Лаборатория, Я.Встречи, Яндекс.Деньги
 
 - https://habr.com/ru/companies/yoomoney/articles/339976/
 - Отрасли: BI, e-commerce
 - Компании: Хабр, ЮMoney, Яндекс
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: BI-аналитика, Высоконагруженные системы, защита от мошенничества
+- Кандидаты компаний: IIS, Microsoft, Microsoft SQL Server, Powershell, SSAS, SSIS, SSRS, VisualStudio, Яндекс.Деньги
 
 - https://habr.com/ru/companies/yoomoney/articles/340210/
 - Отрасли: e-commerce
 - Компании: Яндекс, Хабр, ЮMoney, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: платежные системы
+- Кандидаты компаний: MasterCard, Яндекс.Деньги, Яндекс.Касса
 
 - https://habr.com/ru/companies/yoomoney/articles/341028/
 - Отрасли: Дизайн и юзабилити
 - Компании: Хабр, ЮMoney, Яндекс, Далее
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Brickbox, LEGO, Yamoney Guidlines, Yamoney-bem-components, Яндекс.Деньги
 
 - https://habr.com/ru/companies/yoomoney/articles/342276/
 - Отрасли: e-commerce, аналитики
 - Компании: Хабр, ЮMoney, Яндекс, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-индустрия
+- Кандидаты компаний: IntelliJ IDEA, Jira, Kibana, Oracle DB, PostgreSQL, Postman, SoapUI, Swagger, Яндекс.Деньги
 
 - https://habr.com/ru/companies/yoomoney/articles/343036/
 - Отрасли: не найдено
 - Компании: Хабр, ЮMoney, Яндекс
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Badoo, GitHub, Telegram, Альфа-Лаборатория, ВКонтакте, Яндекс.Денег
 
 - https://habr.com/ru/companies/yoomoney/articles/344412/
 - Отрасли: e-commerce
 - Компании: Хабр, ЮMoney, Яндекс
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Aerokube, BugBusters, Epam, GitHub, Selenoid, Telegram, ВКонтакте, Я.Встречах, Яндекс.Деньги
 
 - https://habr.com/ru/companies/yoomoney/articles/345654/
 - Отрасли: BI, процессинг
 - Компании: Хабр, ЮMoney, Яндекс
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Ansible, Blue Ocean, CEPH, Docker, HAproxy, Heka, Jenkins, Openstack, Pgbouncer, Zabbix, Яндекс.Деньги
 
 - https://habr.com/ru/companies/yoomoney/articles/346660/
 - Отрасли: не найдено
 - Компании: Хабр, ЮMoney, Альфа-Банка, Яндекс
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: GitHub, Red Hot Chili Apples, Telegram, ВКонтакте, поисковое приложение Яндекса, Я.Браузер, Я.Встречи, Яндекс.Деньги
 
 - https://habr.com/ru/companies/yoomoney/articles/347390/
 - Отрасли: e-commerce, Дизайн и юзабилити, Программное обеспечение
