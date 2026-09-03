@@ -69305,152 +69305,152 @@
 - https://habr.com/ru/company/devconf/blog/328536/
 - Отрасли: не найдено
 - Компании: Хабр
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT, open source, конференции, разработка программного обеспечения
+- Кандидаты компаний: Carsten Brandt, Cebe, DevConf, DevConf PHP, Docker, Elasticsearch, ElisDN, Facebook, Flickr, klimov-paul, Samdark, SamDark, SilverFire, Telegram, X, xdebug, Yii, Yii core team, YiiConf, ВКонтакте
 
 - https://habr.com/ru/company/devconf/blog/329466/
 - Отрасли: Веб-разработка, медиа, Дизайн и юзабилити
 - Компании: Хабр, ТАСС
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: спортивные медиа
+- Кандидаты компаний: DevConf, GitHub, kixx, PHP-FIG, QuartSoft, sports.ru, Yii
 
 - https://habr.com/ru/company/devconf/blog/330748/
 - Отрасли: Веб-разработка
 - Компании: Хабр, Яндекс, 1С, Selectel, Postgres Professional, VK
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Высоконагруженные системы
+- Кандидаты компаний: 1С-Битрикс, Amazon, AppMetrica, JoomlaDay, Lamoda, Lua in Moscow, MediaSoft, Microsoft, Nginx, PGDAy, Reg,Ru, Ruby, Telegram, Yii, YiiConf, Альфа-Лаборатория, Вконтактика
 
 - https://habr.com/ru/company/devconf/blog/354546/
 - Отрасли: Веб-разработка, ERP
 - Компании: Хабр
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: b2b
+- Кандидаты компаний: DevConf, Doctrine ORM, DoctrineMigrationBunde, PhpMetrics, Symfony
 
 - https://habr.com/ru/company/devconf/blog/354756/
 - Отрасли: Веб-разработка, digital
 - Компании: Хабр
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: DevConf, Digital October
 
 - https://habr.com/ru/company/devconf/blog/358618/
 - Отрасли: Мобильные технологии, Информационная безопасность
 - Компании: Хабр, PVS-Studio
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT
+- Кандидаты компаний: DevConf, Facebook, Flickr, LuaInMoscow, Telegram, X, ВКонтакте
 
 - https://habr.com/ru/company/devconf/blog/455098/
 - Отрасли: не найдено
 - Компании: Хабр, Далее, Skyeng
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: OpenSource
+- Кандидаты компаний: Cycle, DevConf, Doctrine, Laravel, OpenCollective, PhpRussia, RoadRunner, Symfony, Yii
 
 - https://habr.com/ru/company/devconf/blog/455258/
 - Отрасли: Веб-разработка, Дизайн и юзабилити, Оптимизация, процессинг, Enterprise, аналитики
 - Компании: Хабр
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: 5minphp.ru, DevConf, DevConfX, Expomap.ru, Facebook, Flickr, MediaSoft, PHPClub, REG.RU, Telegram, Wadline.ru, ВКонтакте, Яндексе
 
 - https://habr.com/ru/company/devconf/blog/456570/
 - Отрасли: Веб-разработка, Дизайн и юзабилити
 - Компании: Хабр
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: ИТ отрасли
+- Кандидаты компаний: DevConf, DevConfX, Facebook, Flickr, Telegram, ВКонтакте
 
 - https://habr.com/ru/company/dsec/blog/509980/
 - Отрасли: digital, Информационная безопасность, информационной безопасности, криптографии
 - Компании: Хабр, Digital Security, OWASP, Далее
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: cvedetails, Digital Security ON AIR, Laravel, phpggc, Security Checker, snyk.io, Symfony, Yii, Youtube
 
 - https://habr.com/ru/company/edison/blog/315696/
 - Отрасли: не найдено
 - Компании: Хабр
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: computer science, IT, MMO-стратегия, игровая индустрия, ювелирная промышленность
+- Кандидаты компаний: Check iO, Code Monkey, CodeCombat, Codewars, CodinGame, Cyber DoJo, Edison, EDISON, edisonsoftware, Elevator Saga, Git Games, Habr, Hacker.org, Mybridge, Quake II, Ruby Quiz, Screeps, Vim Adventures, Vivaldi, Московский ювелирный завод
 
 - https://habr.com/ru/company/edison/blog/344018/
 - Отрасли: Программное обеспечение
 - Компании: Хабр, Space
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-индустрия, техническая индустрия
+- Кандидаты компаний: Airbnb, Edison GTD, EDISON Software, Facebook, Stack Overflow
 
 - https://habr.com/ru/company/edison/blog/433104/
 - Отрасли: Программное обеспечение
 - Компании: Хабр
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT, автоматизация измерений, банковская сфера
+- Кандидаты компаний: AIYProjects, Chrome, CSFirst, Edison, EDISON Software, Foobar, Google, HackerNews, LAMBCHOP, Paper Signals, QiblaFinder, Quickdraw, ScienceJournal, withgoogle.com, Командор Лямбда, Планета Банни
 
 - https://habr.com/ru/company/englishdom/blog/328550/
 - Отрасли: предлагает, онлайн-курсы
 - Компании: Хабр, предлагает
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Doctrine 2, EnglishDom, Habr, Zend Framework
 
 - https://habr.com/ru/company/epam_systems/blog/353192/
 - Отрасли: онлайн-курсы
 - Компании: Хабр
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-индустрия
+- Кандидаты компаний: Codeschool, EPAM, GitHub, Lynda, Microsoft, Microsoft Virtual Academy, Pluralsight, Udemy, VDI
 
 - https://habr.com/ru/company/everydaytools/blog/323802/
 - Отрасли: не найдено
 - Компании: Хабр, InlyIT
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-индустрия, онлайн-маркетинг, фриланс
+- Кандидаты компаний: Facebook
 
 - https://habr.com/ru/company/everydaytools/blog/342104/
 - Отрасли: Дизайн и юзабилити, Программное обеспечение, Machine Learning, Рекрутинг и HR
 - Компании: Хабр, InlyIT, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-индустрия
+- Кандидаты компаний: Airbnb, Cassandra, Facebook, gainlo.co, Geeksforgeeks, Google, Groupon, Hackerrank, Hbase, highscalability.com, hiredintech.com, horicky.blogspot.com, lecloud.net, Leetcode, LinkedIn, Lintcode, Salesforce, Salesforce Einstein, tutorials.jenkov.com
 
 - https://habr.com/ru/company/everydaytools/blog/353462/
 - Отрасли: образование, стриминг, предлагает
 - Компании: Хабр, InlyIT, Далее, предлагает
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-индустрия
+- Кандидаты компаний: Amazon, AWS, Craigslist, Docker, DynamoDB, EC2, Facebook, Google, HackerRank, Instagram, LeetCode, LinkedIn, Microsoft, Nintendo, Pinterest, Project Euler, Snapchat, SQS, Twitter
 
 - https://habr.com/ru/company/everydaytools/blog/413941/
 - Отрасли: Программное обеспечение, Data science, Machine Learning
 - Компании: Хабр, InlyIT, Далее, Samsung
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-индустрия, Искусственный интеллект
+- Кандидаты компаний: deedy-resume, DeepMind, Deshraj Yadav, Fractal Analytics, GitHub, Google, LinkedIn, Microsoft, Ola, Overleaf, Resume Revamp, Udacity, Wadhwani Institute of AI, Weebly
 
 - https://habr.com/ru/company/everydaytools/blog/426557/
 - Отрасли: Data science, SaaS, предлагает
 - Компании: Хабр, InlyIT, Далее, предлагает
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-индустрия, машинное обучение
+- Кандидаты компаний: AngelList, Apache, Glassdoor, Google, Indeed, JupyterLab, Kaggle, KDNuggets, LinkedIn, Medium, Monster, Plotly, SimplyHired, Tableau, Udemy
 
 - https://habr.com/ru/company/everydaytools/blog/437484/
 - Отрасли: не найдено
 - Компании: Хабр, InlyIT
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-индустрия
+- Кандидаты компаний: Airbnb, Amazon, Apple, CS Career Hackers, Dropbox, Facebook, Google, Instagram, Leetcode, LinkedIn, Lyft, Nest, Reddit, Robinhood, Slack, Snap, Square, Stripe, Twitter, Uber, Yelp, YouTube
 
 - https://habr.com/ru/company/everydaytools/blog/440440/
 - Отрасли: предлагает
 - Компании: Хабр, InlyIT, предлагает
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-индустрии
+- Кандидаты компаний: Amazon, Apple, Facebook, Glassdoor, Google, Levels.fyi, LinkedIn, MegaCorp, Yelp
 
 - https://habr.com/ru/company/ffcms/blog/319788/
 - Отрасли: не найдено
 - Компании: Хабр
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT
+- Кандидаты компаний: bitrix, blade, bootstrap, codeigniter, debugBar, Doctrine ORM ORM Doctrine ORM Doctrine ORM, FFCMS, google.docs, Habr, Habrahabr, HTML purifier, hybridauth, jquery, laravel, php fast cache, swiftmailer, symfony, twig, virtualbox, yii
 
 - https://habr.com/ru/company/flant/blog/457510/
 - Отрасли: не найдено
 - Компании: Хабр, Флант, серверы
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Facebook, Kubernetes, mcrouter, memcached, symfony, werf
 
 - https://habr.com/ru/company/flant/blog/491320/
 - Отрасли: не найдено
 - Компании: Хабр, Флант
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT, разработка программного обеспечения
+- Кандидаты компаний: GitHub, Google
 
 - https://habr.com/ru/company/friifond/blog/286880/
 - Отрасли: Big Data, консалтинг
