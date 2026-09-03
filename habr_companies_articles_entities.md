@@ -18605,44 +18605,44 @@
 - https://habr.com/ru/companies/ispsystem/articles/413429/
 - Отрасли: Информационная безопасность, криптографии
 - Компании: Хабр, ISPsystem, Ispmanager, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Криптография
+- Кандидаты компаний: Let’s Encrypt, nginx
 
 - https://habr.com/ru/companies/ispsystem/articles/418135/
 - Отрасли: не найдено
 - Компании: Хабр, ISPsystem, Ispmanager, Space, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: бизнес хостеров, веб-серверами, виртуализацией
+- Кандидаты компаний: BILLmanager, chalk, Chromium, Docker, GitLab, JavaScript, Mocha, Node.JS, npm, npmjs.com, puppeteer, ts-node, TypeScript, VMmanager
 
 - https://habr.com/ru/companies/ispsystem/articles/421007/
 - Отрасли: не найдено
 - Компании: Хабр, ISPsystem, Ispmanager, серверы
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-систем
+- Кандидаты компаний: COREmanager, Firefox, Jenkins, JUnit, Linux, Mozilla, Ubuntu, X11
 
 - https://habr.com/ru/companies/ispsystem/articles/423725/
 - Отрасли: хостинг, Дизайн и юзабилити
 - Компании: ISPsystem, Хабр
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: хостинг-провайдер
+- Кандидаты компаний: Axure, BILLmanager, BILLmanager 6 Beta, Figma, Sketch, VMmanager 6, Zeplin
 
 - https://habr.com/ru/companies/ispsystem/articles/425323/
 - Отрасли: Дизайн и юзабилити
 - Компании: Хабр, ISPsystem, Ispmanager, АТОМ, Цифра
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Axure
 
 - https://habr.com/ru/companies/ispsystem/articles/426969/
 - Отрасли: не найдено
 - Компании: Хабр, ISPsystem, Ispmanager
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-систем, тестирование безопасности
+- Кандидаты компаний: Лида
 
 - https://habr.com/ru/companies/ispsystem/articles/428315/
 - Отрасли: не найдено
 - Компании: Хабр, ISPsystem
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT, Биллинг, дата-центр
+- Кандидаты компаний: BILLmanager, DCImanager, Google, Habr
 
 - https://habr.com/ru/companies/ispsystem/articles/430488/
 - Отрасли: не найдено
@@ -18653,98 +18653,98 @@
 - https://habr.com/ru/companies/ispsystem/articles/431456/
 - Отрасли: не найдено
 - Компании: Хабр, ISPsystem, Ispmanager, быструю
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT
+- Кандидаты компаний: DCImanager, IBM, Mailchimp, Yandex, YouTrack
 
 - https://habr.com/ru/companies/ispsystem/articles/438236/
 - Отрасли: Веб-разработка
 - Компании: Хабр, ISPsystem, Ispmanager, Далее, Space, Яндекс
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Atlassian, BILLmanager, Confluence, Confluence Source Editor, MediaWiki, Scroll Viewport, Scroll WebHelp Theme
 
 - https://habr.com/ru/companies/ispsystem/articles/441968/
 - Отрасли: виртуальные, SaaS
 - Компании: Хабр, ISPsystem, Selectel
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: виртуализация, контейнеризация, микросервисная архитектура
+- Кандидаты компаний: CentOS, Debian, DigitalOcean, Docker, Graphite, OVZ, VMmanager
 
 - https://habr.com/ru/companies/ispsystem/articles/443648/
 - Отрасли: медиа
 - Компании: Хабр, ISPsystem, Ispmanager
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT
+- Кандидаты компаний: Confluence, Mattermost, YouTrack
 
 - https://habr.com/ru/companies/ispsystem/articles/447650/
 - Отрасли: масштабируемость
 - Компании: Хабр, ISPsystem, Далее, Программный Продукт
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT
+- Кандидаты компаний: BILLmanager
 
 - https://habr.com/ru/companies/ispsystem/articles/472004/
 - Отрасли: не найдено
 - Компании: Хабр, ISPsystem, Далее
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Boost, Boost.Asio, Boost.Phoenix, Boost.Spirit, Habr, nlohmann::json
 
 - https://habr.com/ru/companies/ispsystem/articles/479862/
 - Отрасли: не найдено
 - Компании: Хабр, ISPsystem, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT, интеллектуальная собственность
+- Кандидаты компаний: IBM, ГУ МВД России по г. Москве, гугла, Общество с ограниченной ответственностью «Новые технологии», Роспатент, ЭВМрегистратор
 
 - https://habr.com/ru/companies/ispsystem/articles/480446/
 - Отрасли: не найдено
 - Компании: Хабр, ISPsystem, серверы, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: A/B-тестирование, авторизация, балансировка нагрузки, визуализация данных, виртуализация, кэширование ресурсов, мониторинг, сжатие данных, фильтрация трафика
+- Кандидаты компаний: Docker, GitHub, Grafana, grafana/grafana, grafana_proxy, VMmanager
 
 - https://habr.com/ru/companies/ispsystem/articles/504934/
 - Отрасли: не найдено
 - Компании: Хабр, ISPsystem
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: виртуализация серверов
+- Кандидаты компаний: Habr, Notifier, Slack, Telegram, VMmanager
 
 - https://habr.com/ru/companies/ispsystem/articles/507826/
 - Отрасли: Дизайн и юзабилити
 - Компании: Хабр, ISPsystem
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Angular, Figma, Git, GitLab, Nginx, plop, Stencil, Verdaccio
 
 - https://habr.com/ru/companies/ispsystem/articles/508214/
 - Отрасли: масштабируемость
 - Компании: Хабр, ISPsystem, серверы, Proto
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: сетевые приложения
+- Кандидаты компаний: Cisco, Cisco Catalyst, Cred, DCImanager, Habr, Juniper, Paramiko, Portal, Realm, SNMP Agent Simulator, Twisted
 
 - https://habr.com/ru/companies/ispsystem/articles/512008/
 - Отрасли: Веб-разработка
 - Компании: Хабр, ISPsystem, Далее
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: POEditor, VMmanager
 
 - https://habr.com/ru/companies/ispsystem/articles/513114/
 - Отрасли: ритейла, ETL, аналитики
 - Компании: Хабр, ISPsystem, Яндекс
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: интернет-магазин, ритейл
+- Кандидаты компаний: BILLmanager, Cartbee, Clickhouse, Gephi, Instagram, Retentioneering, VMmanager 6, Яндекс.Метрика
 
 - https://habr.com/ru/companies/ispsystem/articles/569244/
 - Отрасли: виртуальные, предлагает, IAAS
 - Компании: Хабр, ISPsystem, Контур, серверы, предлагает, FirstVDS
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Виртуализация, Сетевые технологии
+- Кандидаты компаний: Bird, CentOS, Juniper, Juniper MX, KVM, LXD, Ubuntu, VMmanager
 
 - https://habr.com/ru/companies/ispsystem/articles/578366/
 - Отрасли: не найдено
 - Компании: Хабр, ISPsystem
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Программирование
+- Кандидаты компаний: GitHub
 
 - https://habr.com/ru/companies/ispsystem/articles/578590/
 - Отрасли: не найдено
 - Компании: Хабр, ISPsystem, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Программирование
+- Кандидаты компаний: cppreference.com
 
 - https://habr.com/ru/companies/ispsystem/articles/580828/
 - Отрасли: не найдено
