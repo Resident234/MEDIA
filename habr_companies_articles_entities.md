@@ -55955,152 +55955,152 @@
 - https://habr.com/ru/companies/surfstudio/articles/595869/
 - Отрасли: Дизайн и юзабилити
 - Компании: Хабр, Surf
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT
+- Кандидаты компаний: Android, Android Broadcast, Android Dev Summit, AndroidX, Firebase, Firebase Crashlytics, Fragment, FragmentContainerView, FragmentManager, FragmentStrictMode, iOS, Jetpack, Jetpack Navigation, Material Design, Surf Android Team, Telegram, YouTube
 
 - https://habr.com/ru/companies/surfstudio/articles/596405/
 - Отрасли: Мобильные технологии, Оптимизация
 - Компании: Хабр, Surf
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: разработка мобильных приложений
+- Кандидаты компаний: Android, Dart, DartPad, Firebase, Flutter, Flutter Dev Podcast, Google, Google Mobile Ads SDK, Google Pay, google_maps_flutter, Habr, HtmlElementView, pub.dev, video_player, WebView
 
 - https://habr.com/ru/companies/surfstudio/articles/597167/
 - Отрасли: не найдено
 - Компании: Хабр, Surf
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Программирование, Разработка мобильных приложений
+- Кандидаты компаний: BLoC, ChangeNotifier, Elementary, Flutter, MVVM, Redux, State, StatefulWidget, StateNotifier
 
 - https://habr.com/ru/companies/surfstudio/articles/646677/
 - Отрасли: не найдено
 - Компании: Хабр, Surf, AMD
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Android, Компьютерное железо
+- Кандидаты компаний: Android Arhitecture Components, Android Broadcast, Apple, Crashlytics, Dagger, Firebase, Google Services, Gradle, Gradle Depedency Updates, Habr, Hilt, Intel, Jetpack Compose, Kapt, Kotlin, Spotless, Telegram, trakt.tv, YouTube
 
 - https://habr.com/ru/companies/surfstudio/articles/648345/
 - Отрасли: не найдено
 - Компании: Хабр, Surf, Бэклог, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Управление проектами
+- Кандидаты компаний: Surf_Studio
 
 - https://habr.com/ru/companies/surfstudio/articles/650557/
 - Отрасли: предлагает
 - Компании: Хабр, Surf, Далее, предлагает
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: тестирование мобильных приложений
+- Кандидаты компаний: Elementary, Flutter, GetIt, GitHub, golden_toolkit, IDEA, pub.dev
 
 - https://habr.com/ru/companies/surfstudio/articles/651785/
 - Отрасли: аналитики, e-commerce
 - Компании: Хабр, Surf, hh.ru, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: аутсорс-разработка, мобильная аналитика
+- Кандидаты компаний: Surf_Studio, Telegram
 
 - https://habr.com/ru/companies/surfstudio/articles/653115/
 - Отрасли: Дизайн и юзабилити
 - Компании: Хабр, Surf, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: дизайн мобильных приложений, разработка мобильных приложений
+- Кандидаты компаний: Android, Google, Material, Material Design, Material Theme Builder, Material You, Monet Engine, Surf_Studio, Twitter, YouTube
 
 - https://habr.com/ru/companies/surfstudio/articles/653655/
 - Отрасли: не найдено
 - Компании: Хабр, Surf, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Разработка мобильных приложений
+- Кандидаты компаний: Android, Android OS, Hilt, Jetpack Compose, Surf_Studio
 
 - https://habr.com/ru/companies/surfstudio/articles/653669/
 - Отрасли: не найдено
 - Компании: Хабр, Surf, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Разработка мобильных приложений
+- Кандидаты компаний: Android, Jetpack Compose, Surf_Studio
 
 - https://habr.com/ru/companies/surfstudio/articles/653673/
 - Отрасли: не найдено
 - Компании: Хабр, Surf, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Программирование, Разработка мобильных приложений
+- Кандидаты компаний: Android, Habr, Java, Kotlin, Room library, Surf_Studio
 
 - https://habr.com/ru/companies/surfstudio/articles/653681/
 - Отрасли: не найдено
 - Компании: Хабр, Surf, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Разработка мобильных приложений
+- Кандидаты компаний: Android, Google, Surf_Studio
 
 - https://habr.com/ru/companies/surfstudio/articles/653755/
 - Отрасли: не найдено
 - Компании: Хабр, Surf, Далее, Цифра
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: разработка мобильных приложений, тестирование мобильных приложений
+- Кандидаты компаний: build_runner, Dart, Flutter, flutter_gherkin, Gherkin
 
 - https://habr.com/ru/companies/surfstudio/articles/655077/
 - Отрасли: аналитики, государственный сектор
 - Компании: Хабр, Surf, Магнит, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: банкинг, доставка еды, е-коммерс, мобильная аутсорс-разработка, мобильный банкинг
+- Кандидаты компаний: Me2Me, Surf_Studio, Зенит, Лабиринт, СМП
 
 - https://habr.com/ru/companies/surfstudio/articles/655389/
 - Отрасли: масштабируемость
 - Компании: Хабр, Surf
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: разработка мобильных приложений
+- Кандидаты компаний: Android, Retrofit, Room, Surf_Studio
 
 - https://habr.com/ru/companies/surfstudio/articles/656191/
 - Отрасли: Enterprise
 - Компании: Хабр, Surf, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: разработка мобильных приложений
+- Кандидаты компаний: Amazon, Apple, AppStore Connect, developer.apple.com, Fastlane, GitHub, Google Cloud Store, Match, Spaceship, Surf_Studio
 
 - https://habr.com/ru/companies/surfstudio/articles/661441/
 - Отрасли: не найдено
 - Компании: Хабр, Surf, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: разработка мобильных приложений
+- Кандидаты компаний: Android, Apple, Firebase, Flutter, GitHub Actions, Habr, iOS, Xcode
 
 - https://habr.com/ru/companies/surfstudio/articles/664792/
 - Отрасли: не найдено
 - Компании: Хабр, Surf, Звук, Магнит
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: iOS, Звук, Разработка мобильных приложений
+- Кандидаты компаний: Apple, Surf_Studio, Telegram
 
 - https://habr.com/ru/companies/surfstudio/articles/666448/
 - Отрасли: Enterprise, Дизайн и юзабилити, предлагает
 - Компании: Хабр, Surf, Бастион, Samsung, Далее, предлагает
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Apple, Google, Microsoft, Sogou
 
 - https://habr.com/ru/companies/surfstudio/articles/667272/
 - Отрасли: Мобильные технологии
 - Компании: Хабр, Surf, ОК
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: GitHub
 
 - https://habr.com/ru/companies/surfstudio/articles/667990/
 - Отрасли: не найдено
 - Компании: Хабр, Surf, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Программирование, Разработка мобильных приложений
+- Кандидаты компаний: Flutter, Google
 
 - https://habr.com/ru/companies/surfstudio/articles/669584/
 - Отрасли: Поисковые технологии, стриминг
 - Компании: Хабр, Surf
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Content Delivery Network (CDN), аудио- и видео стриминг, видеостриминг, стриминговые сервисы
+- Кандидаты компаний: Apple
 
 - https://habr.com/ru/companies/surfstudio/articles/670244/
 - Отрасли: не найдено
 - Компании: Хабр, Surf
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Программирование
+- Кандидаты компаний: Dart, Flutter, Vim, VS Code
 
 - https://habr.com/ru/companies/surfstudio/articles/672538/
 - Отрасли: не найдено
 - Компании: Хабр, Surf, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: разработка мобильных приложений
+- Кандидаты компаний: Google, XDA
 
 - https://habr.com/ru/companies/surfstudio/articles/674418/
 - Отрасли: не найдено
 - Компании: Хабр, Surf
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Управление проектами
+- Кандидаты компаний: McKinsey
 
 - https://habr.com/ru/companies/surfstudio/articles/678294/
 - Отрасли: не найдено
