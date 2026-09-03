@@ -68405,152 +68405,152 @@
 - https://habr.com/ru/companies/zyxel/articles/483976/
 - Отрасли: Информационная безопасность, кибербезопасности, информационной безопасности, облачных сервисов, государственные организации, облачные сервисы, IoT
 - Компании: Хабр, ITT Solutions
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-отрасли, кибербезопасность, малый и средний бизнес, медицинская отрасль
+- Кандидаты компаний: AWS, Azure, Deloitte, Google Drive, Microsoft, Microsoft OneDrive, ResearchAndMarkets, Zyxel
 
 - https://habr.com/ru/companies/zyxel/articles/485842/
 - Отрасли: не найдено
 - Компании: Хабр, ITT Solutions, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IP телефония, Видеонаблюдение, ИТ-безопасность, Охрана труда, Пожарная безопасность, Сетевое оборудование, Сетевые технологии, Системное администрирование, Энергия и элементы питания
+- Кандидаты компаний: GS1300, GS1350, NWA110AX, Pan-Tilt-Zoom, PTZ, WAX510D, WAX650S, Zyxel, Zyxel_Russia
 
 - https://habr.com/ru/companies/zyxel/articles/488736/
 - Отрасли: предлагает
 - Компании: Хабр, ITT Solutions, Далее, предлагает
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: WhatsApp, Zyxel, Zyxel ZyWALL VPN2S
 
 - https://habr.com/ru/companies/zyxel/articles/490684/
 - Отрасли: Enterprise
 - Компании: Хабр, ITT Solutions, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: видеонаблюдение, ИТ инфраструктура
+- Кандидаты компаний: NeoNate, Zyxel
 
 - https://habr.com/ru/companies/zyxel/articles/490838/
 - Отрасли: предлагает, промышленные, ритейла, промышленность
 - Компании: предлагает, Хабр, ITT Solutions, Samsung
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: ритейл
+- Кандидаты компаний: Broadcom, D-Link, TP-Link, WAX650S, Zyxel
 
 - https://habr.com/ru/companies/zyxel/articles/492708/
 - Отрасли: не найдено
 - Компании: Хабр, ITT Solutions
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Системы связи, Сотовая связь
+- Кандидаты компаний: Airbus, Arianespace, Facebook, Falcon, Google, Grupo Salinas, OneWeb, Qualcomm, SoftBank, SpaceX, Starlink, Starship, Viasat, Virgin, Роскосмос
 
 - https://habr.com/ru/companies/zyxel/articles/493222/
 - Отрасли: Мобильные технологии, Связь и телекоммуникации, предлагает
 - Компании: Хабр, ITT Solutions, предлагает
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: hi-tech бизнес, IT-индустрия, транспортный бизнес, туристический бизнес
+- Кандидаты компаний: AliExpress, Apple, Apple Watch, Call of Duty, E3, ESA, Fortnite, Foxconn, Honor, Huawei, iPad, iPhone, Lenovo, Microsoft, Mobile World Congress, Pegatron Corp, PlayStation 5, Pornhub, realme, Sony, Telecom Italia, Vivo, Xbox Series X, Xiaomi, ZTE, Zyxel
 
 - https://habr.com/ru/companies/zyxel/articles/494766/
 - Отрасли: аналитики, промышленные, медиа
 - Компании: Хабр, ITT Solutions, Samsung
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: логистика, телеком-индустрия, телемедицина
+- Кандидаты компаний: Amazon, D-Link, Ericsson, Huawei, Nokia, OneWeb, Qualcomm, SpaceX, Starlink, TP-Link, Zyxel
 
 - https://habr.com/ru/companies/zyxel/articles/496090/
 - Отрасли: Информационная безопасность
 - Компании: Хабр, ITT Solutions
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Zyxel, Zyxel SecuExtender
 
 - https://habr.com/ru/companies/zyxel/articles/498066/
 - Отрасли: BI
 - Компании: Хабр, ITT Solutions, Далее
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Cisco, Fiber, Zyxel, Zyxel_Russia
 
 - https://habr.com/ru/companies/zyxel/articles/499456/
 - Отрасли: не найдено
 - Компании: Хабр, ITT Solutions, Далее
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: ATP, NXC, USG, USG FLEX, VPN, ZyMesh, ZyWALL, Zyxel
 
 - https://habr.com/ru/companies/zyxel/articles/501764/
 - Отрасли: провайдер, недвижимости
 - Компании: Хабр, ITT Solutions, Далее, провайдер
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: рыночной экономики
+- Кандидаты компаний: LTE3301-PLUS, LTE7460-M608, LTE7480-M804, Zyxel, Zyxel_Russia
 
 - https://habr.com/ru/companies/zyxel/articles/502696/
 - Отрасли: Связь и телекоммуникации
 - Компании: Хабр, ITT Solutions, ПИК, МТС, Мегафон, RUTUBE, Яндекс
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Интернет-бизнес
+- Кандидаты компаний: AT&T, Broadband Now, Cox, Facebook, Mail.ru Group, Netflix, Ookla, Orange, Rambler Group, SpeedTest, Telecom Italia, Telefonica, Verizon, Vimeo, YouTube, Zyxel, ВКонтакте, Двач, Еврокомиссия, Мамба, Одноклассники, Роскомнадзор, Яндекс.Дзен
 
 - https://habr.com/ru/companies/zyxel/articles/503724/
 - Отрасли: предлагает, Программное обеспечение, САПР, Аппаратное обеспечение, облачных сервисов
 - Компании: Хабр, ITT Solutions, предлагает, Далее, Звук
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Mac-mini, Zyxel, Zyxel_Russia
 
 - https://habr.com/ru/companies/zyxel/articles/507802/
 - Отрасли: Информационная безопасность, кибербезопасности, информационной безопасности, государственные организации, онлайн-курсы
 - Компании: Хабр, ITT Solutions
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Bloomberg, Facebook Messenger, Netflix, Trend Micro, Zyxel, Агентство кибербезопасности и защиты инфраструктуры США (CISA), Акционерный Банк Трастбанк, Министерство здравоохранения и социальных служб США
 
 - https://habr.com/ru/companies/zyxel/articles/509214/
 - Отрасли: IoT
 - Компании: Хабр, ITT Solutions, быструю, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: ИТ
+- Кандидаты компаний: IEEE, Zyxel, Zyxel NebulaFlex XS1930-12HP, Zyxel XGS1010-12, Zyxel_Russia
 
 - https://habr.com/ru/companies/zyxel/articles/511846/
 - Отрасли: промышленность, провайдер
 - Компании: Хабр, ITT Solutions, провайдер
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Бизнес
+- Кандидаты компаний: CNET, PCMag, Zyxel, Zyxel NebulaFlex NWA110AX, Zyxel NebulaFlex Pro WAX510D, Zyxel NebulaFlex Pro WAX650S
 
 - https://habr.com/ru/companies/zyxel/articles/516508/
 - Отрасли: Информационная безопасность, Enterprise, криптографии, digital, предлагает
 - Компании: Хабр, ITT Solutions, предлагает
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Zyxel, Zyxel_Russia
 
 - https://habr.com/ru/companies/zyxel/articles/516914/
 - Отрасли: предлагает, Информационная безопасность
 - Компании: Хабр, ITT Solutions, Далее, предлагает
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: беспроводные технологии, сетевое оборудование, сетевые технологии, системное администрирование
+- Кандидаты компаний: Habr, Nebula, NebulaFlex, Zyxel_Russia
 
 - https://habr.com/ru/companies/zyxel/articles/520168/
 - Отрасли: IoT
 - Компании: Хабр, ITT Solutions
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-инфраструктура, Интернет вещей, Промышленное предприятие, Сотовая связь
+- Кандидаты компаний: SymmRepeater, Zyxel, Zyxel Networks, Zyxel_CIS
 
 - https://habr.com/ru/companies/zyxel/articles/520462/
 - Отрасли: облачные сервисы, SaaS, аутсорсинг, Enterprise
 - Компании: Хабр, ITT Solutions, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Сетевое оборудование, Сетевые технологии, Системное администрирование
+- Кандидаты компаний: DPPSK, Habr, Nagios, Nebula, Nebula Control Center, OpenView, Zabbix, Zyxel, Zyxel Nebula, Zyxel_Russia
 
 - https://habr.com/ru/companies/zyxel/articles/521122/
 - Отрасли: облачные сервисы, SaaS
 - Компании: Хабр, ITT Solutions, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Сетевое оборудование, Сетевые технологии, Системное администрирование
+- Кандидаты компаний: Habr, Nebula Flex, Nebula Flex Pro, Nebula Native, NSG300, USG FLEX, XS3800-28, Zyxel, Zyxel Nebula, Zyxel_Russia
 
 - https://habr.com/ru/companies/zyxel/articles/524104/
 - Отрасли: облачные сервисы, Информационная безопасность, SaaS
 - Компании: Хабр, ITT Solutions, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Сетевое оборудование, Сетевые технологии, Системное администрирование
+- Кандидаты компаний: 3Com, Cisco, Habr, ZyWALL, Zyxel, Zyxel_Tech
 
 - https://habr.com/ru/companies/zyxel/articles/525178/
 - Отрасли: облачные сервисы, Информационная безопасность, SaaS
 - Компании: Хабр, ITT Solutions, Далее, 1С
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Видеонаблюдение, Сетевое оборудование, Сетевые технологии, Системное администрирование
+- Кандидаты компаний: SmartPDU, Zyxel, Zyxel_Tech
 
 - https://habr.com/ru/companies/zyxel/articles/525610/
 - Отрасли: телекоммуникаций, телекома, облачных сервисов, телекоммуникации, аналитики, образование, SaaS, Программное обеспечение, IAAS
 - Компании: Хабр, ITT Solutions, IDC, серверы
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT, автомобилестроение, дистанционное образование, производство, развлекательные сервисы, телемедицина, фармацевтика, фиксированная связь, финансовые услуги
+- Кандидаты компаний: Mail.ru, Microsoft, Zyxel, Zyxel Nebula, Zyxel_CIS
 
 - https://habr.com/ru/companies/zyxel/articles/528482/
 - Отрасли: облачные сервисы, IoT, SaaS
