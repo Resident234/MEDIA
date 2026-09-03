@@ -61655,134 +61655,134 @@
 - https://habr.com/ru/companies/visiology/articles/692876/
 - Отрасли: Big Data, BI, аналитики, ETL
 - Компании: Visiology, Хабр
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Визуализация данных, Хранение данных
+- Кандидаты компаний: BI2BUSINESS, CH, ClickHouse, Excel, Loginom, PostgreSQL, PowerBI, Qlik, SQLite, Visiology 3.0
 
 - https://habr.com/ru/companies/visiology/articles/696424/
 - Отрасли: BI, Big Data, аналитики
 - Компании: Хабр, Visiology, SENSE
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: бизнес-аналитика, госсектор, добывающая промышленность, энергетика
+- Кандидаты компаний: Microsoft Power BI, Qlik Sense, Tableau, ViRush, ПолиАналитика, Согласие Холл
 
 - https://habr.com/ru/companies/visiology/articles/696524/
 - Отрасли: BI, аналитики
 - Компании: Хабр, Visiology, Бэклог
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: B2B, B2B2B, BI-системы, IT, ПО для бизнеса
+- Кандидаты компаний: ФСТЭК
 
 - https://habr.com/ru/companies/visiology/articles/698484/
 - Отрасли: Big Data, BI, DWH, ETL, аналитики
 - Компании: Хабр, Visiology, SENSE, СбермегаМаркет, Газпром
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Визуализация данных, малый и средний бизнес, органы власти, управление городским хозяйством, Хранение данных, энергетика
+- Кандидаты компаний: DataLens, FineBI, Loginom, PowerBI, Qlik Sense, SberMegaMarket, Tableau, ViRush, YouTube, АЛРОСА-ИТ, Газпром трансгаз Томск, ГеоИнтеллект, Корпорация МСП, Первый Бит, ПолиАналитика, РАОС, Русатом Оверсиз, Хомикият
 
 - https://habr.com/ru/companies/visiology/articles/699818/
 - Отрасли: BI, Big Data, аналитики, BigData, DWH, финансы, ETL
 - Компании: Visiology, Хабр, Газпром, СбермегаМаркет, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: бизнес-аналитика, государственное управление, нефтегазовая сфера, умный город, энергетика
+- Кандидаты компаний: Geointellect, GeoIntellect, Microsoft PowerBI, Polymedia, Tableau, ViRush, Visiology 3.0, АЛРОСА-ИТ, Газпром трансгаз Томск, ООО «Газпром Трансгаз Томск», ПАО «Газпром», ПолиАналитика, Правительство Тулы, Русатом Оверсиз, Ситуационный центр Губернатора Тульской области, Ситуационный центр Ташкента, ФСТЭК
 
 - https://habr.com/ru/companies/visiology/articles/700900/
 - Отрасли: Big Data, BI, аналитики, предлагает
 - Компании: Хабр, Visiology, Россети, Цифра, Далее, предлагает
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: электросети, энергетика
+- Кандидаты компаний: Visiology 3.0, Visiology Data Mining, Visiology Smart Forms, XWiki, ПАО Россети, Полианалитика, Россети.Цифра
 
 - https://habr.com/ru/companies/visiology/articles/711670/
 - Отрасли: BI, DWH, аналитики
 - Компании: Visiology, Хабр, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: бизнес-аналитика, визуализация данных, хранение данных
+- Кандидаты компаний: ClickHouse, DAX, Microsoft PowerBI, PBI, Power BI, Qlik, Visiology 2, Visiology 3.0
 
 - https://habr.com/ru/companies/visiology/articles/714032/
 - Отрасли: Big Data, BI, ритейла, DWH, ETL, аналитики
 - Компании: Visiology, Хабр
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: бизнес-аналитика, логистика, ритейл
+- Кандидаты компаний: ClickHouse, Jupyter Hub, Microsoft, Power BI, Qlik, ViQube, Visiology 2.20, Visiology 2.29, Visiology 3, Visiology 3.0, Visiology 3.2, ViXtract
 
 - https://habr.com/ru/companies/visiology/articles/715590/
 - Отрасли: не найдено
 - Компании: не найдено
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Habr, Habr Career
 
 - https://habr.com/ru/companies/visiology/articles/716136/
 - Отрасли: BI, Big Data, аналитики, ETL
 - Компании: Visiology, Хабр, Лига Цифровой Экономики
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: аналитика, бизнес-аналитика, ИТ, хранение данных
+- Кандидаты компаний: BI Consult, Loginom, Microsoft, Power BI, Qlik, Tableau, TAdviser, Yandex, Yandex Datalens, Круг Громова
 
 - https://habr.com/ru/companies/visiology/articles/716910/
 - Отрасли: не найдено
 - Компании: Хабр, Visiology, Proto
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: хранение данных
+- Кандидаты компаний: Docker, GitHub, Habr, MinIO, Nginx, Python
 
 - https://habr.com/ru/companies/visiology/articles/729582/
 - Отрасли: Big Data, BI, аналитики
 - Компании: Visiology, Хабр
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Визуализация данных, Хранение данных
+- Кандидаты компаний: Habr, Microsoft, Power BI, ViAndrey, Visiology 2.31, Visiology 3.2, Visiology.su
 
 - https://habr.com/ru/companies/visiology/articles/734442/
 - Отрасли: Big Data, BI, ETL
 - Компании: Visiology, Хабр
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: бизнес-аналитика, визуализация данных, хранение данных
+- Кандидаты компаний: BI2BUSINESS, ClickHouse, Loginom, Postgres, Power BI, Qlik
 
 - https://habr.com/ru/companies/visiology/articles/738456/
 - Отрасли: Big Data, BigData, BI, аналитики
 - Компании: Хабр, Visiology, Бэклог, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: бизнес-аналитика
+- Кандидаты компаний: ClickHouse, Microsoft, Power BI, SmartForms, ViLoader, ViQube, ViTalk, Геоинтеллект, КРИТ
 
 - https://habr.com/ru/companies/visiology/articles/740438/
 - Отрасли: Рекрутинг и HR, Big Data, BI, аналитики
 - Компании: Visiology, Хабр, Neoflex
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Визуализация данных, Искусственный интеллект, Хранение данных
+- Кандидаты компаний: BI2BUSINESS, LMS, Power BI, Qlik, ViTalk GPT, Vixtract, АЛАН-ИТ
 
 - https://habr.com/ru/companies/visiology/articles/741236/
 - Отрасли: BI, ETL, DWH
 - Компании: Хабр, Visiology
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Business Intelligence, визуализация данных, хранение данных
+- Кандидаты компаний: Accenture Innovation Center, BIConsult, Conson, Qlik, Russian BI Chat, Координационный центр Правительства РФ, Круги Громова
 
 - https://habr.com/ru/companies/visiology/articles/742152/
 - Отрасли: BI, предлагает, аналитики
 - Компании: Visiology, Хабр, предлагает, SENSE
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Business Intelligence, Визуализация данных, Искусственный интеллект, Хранение данных
+- Кандидаты компаний: Microsoft, Power BI, Qlik, Qlik Sense, Telegram, ViTalk GPT, ViXtract
 
 - https://habr.com/ru/companies/vivaldi/articles/top/
 - Отрасли: предлагает
 - Компании: Vivaldi Technologies AS, Хабр, Далее, предлагает
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT, браузерная отрасль, рекламный рынок
+- Кандидаты компаний: AdBlock Plus, Chromium, Ghostery, Google, Razer, Razer Chroma, uBlock Origin, Vivaldi
 
 - https://habr.com/ru/companies/vk/articles/
 - Отрасли: аналитики, IoT, Оптимизация, AI-технологий, Информационная безопасность, DWH, ML
 - Компании: VK, Хабр, Space, VK Tech, Raft
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: баз данных, безопасности, ИИ, облачных вычислений, объектных хранилищ, рекомендательных систем
+- Кандидаты компаний: Apache, KDD, NIU VShE, Provectus, Strimzi
 
 - https://habr.com/ru/companies/vk/articles/156199/
 - Отрасли: BI, DWH, Enterprise, ETL
 - Компании: Хабр, VK, ОК, ПИК, серверы, Хабр Карьера
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: MS SQL, Одноклассники
 
 - https://habr.com/ru/companies/vk/articles/156901/
 - Отрасли: Дизайн и юзабилити
 - Компании: Хабр, VK, ОК, Хабр Карьера
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Apple, iPad, MacBook Air, MacBook Pro with Retina, Mail.Ru Group, Одноклассников, Саратовского государственного университета
 
 - https://habr.com/ru/companies/vk/articles/188026/
 - Отрасли: OCR
 - Компании: Хабр, VK, Content AI, Звук, Хабр Карьера
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: компьютерная лингвистика
+- Кандидаты компаний: ABBYY, Технопарк
 
 - https://habr.com/ru/companies/vk/articles/189020/
 - Отрасли: OCR
@@ -61793,13 +61793,13 @@
 - https://habr.com/ru/companies/vk/articles/190158/
 - Отрасли: не найдено
 - Компании: Хабр, VK, Content AI, Далее, Хабр Карьера
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: компьютерная лингвистика
+- Кандидаты компаний: ABBYY, FineReader, Википедия
 
 - https://habr.com/ru/companies/vk/articles/190872/
 - Отрасли: не найдено
 - Компании: Хабр, VK, Content AI, Далее, Хабр Карьера
-- Кандидаты отраслей: не найдено
+- Кандидаты отраслей: компьютерная лингвистика
 - Кандидаты компаний: не найдено
 
 - https://habr.com/ru/companies/vk/articles/191154/
