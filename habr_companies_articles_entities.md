@@ -31505,38 +31505,38 @@
 - https://habr.com/ru/companies/netologyru/articles/675988/
 - Отрасли: Рекрутинг и HR
 - Компании: Хабр, Нетология, Dodo Engineering, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-индустрия, Управление персоналом
+- Кандидаты компаний: Allcorrect, blognetology, Google, iCIMS, IVI, Рексофт
 
 - https://habr.com/ru/companies/netologyru/articles/677168/
 - Отрасли: аналитики, Рекрутинг и HR, digital, Enterprise
 - Компании: Хабр, Нетология, InfoWatch, ТАСС, hh.ru, SimbirSoft, ВТБ, Альфа-Банка
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-индустрии, IT-отрасли, информационных технологий
+- Кандидаты компаний: 1C, AdvantShop, App Store, Apple, Atlassian Jira, IT-world, РАЭК, РБК, Хабр Карьеры
 
 - https://habr.com/ru/companies/netologyru/articles/678684/
 - Отрасли: не найдено
 - Компании: Хабр, Нетология, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-индустрия, ИТ-рынок
+- Кандидаты компаний: ADELT Agency, Amazon, Apple, Google, LinkedIn, Netology, Percona, vawizard.org
 
 - https://habr.com/ru/companies/netologyru/articles/679884/
 - Отрасли: онлайн-курсы, Data science
 - Компании: Хабр, Нетология, АльфаСтрахование
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-индустрия, геологоразведка, гражданская авиация, журналистика, музыка, производство пищевых продуктов, спорт, Статистика в IT, строительство, Управление персоналом
+- Кандидаты компаний: blognetology, SharePoint, Консультант, НИИ авиационных систем, Тезис
 
 - https://habr.com/ru/companies/netologyru/articles/681100/
 - Отрасли: не найдено
 - Компании: Хабр, Нетология, МТС
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-индустрия
+- Кандидаты компаний: Hays, HOUSE OF APPS, Joblist, Linkedin, Slack, ТЕХНОНИКОЛЬ
 
 - https://habr.com/ru/companies/netologyru/articles/681908/
 - Отрасли: Дизайн и юзабилити, Мобильные технологии, консалтинг
 - Компании: Хабр, Нетология, Далее, SimbirSoft, МойОфис
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT
+- Кандидаты компаний: Coqual, EnterConf, Figma, Fortune, Intelsy, Mailion, MentorcliQ, Simtech Development, Sun Microsystems
 
 - https://habr.com/ru/companies/netologyru/articles/688880/
 - Отрасли: не найдено
@@ -31548,109 +31548,109 @@
 - Отрасли: CRM, аналитики
 - Компании: Хабр, Нетология, Далее, NAUMEN
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Avaya, Camunda, Camunda Modeler, camunda-engine-dmn, PostgreSQL, Spring Boot, Swagger, Банк Синара
 
 - https://habr.com/ru/companies/netologyru/articles/690042/
 - Отрасли: Веб-разработка, информационной безопасности
 - Компании: Хабр, Нетология, Space, 1С
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Веб-дизайн
+- Кандидаты компаний: Google Fonts
 
 - https://habr.com/ru/companies/netologyru/articles/691510/
 - Отрасли: Рекрутинг и HR
 - Компании: Хабр, Нетология, Далее, ОК
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-индустрия, IT-эмиграция, Управление персоналом
+- Кандидаты компаний: Amazon, Facebook, Google, Hopster, King, Netology, Playtika, Snap, Supermassive Games
 
 - https://habr.com/ru/companies/netologyru/articles/692466/
 - Отрасли: Веб-разработка, информационной безопасности
 - Компании: Хабр, Нетология, Далее, 1С
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Веб-дизайн
+- Кандидаты компаний: Chrome, cubic-bezier.com
 
 - https://habr.com/ru/companies/netologyru/articles/693418/
 - Отрасли: CRM, Рекрутинг и HR
 - Компании: Хабр, Нетология
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-индустрия
+- Кандидаты компаний: CRM-group
 
 - https://habr.com/ru/companies/netologyru/articles/694660/
 - Отрасли: Веб-разработка, финтех, Веб-сервисы
 - Компании: Хабр, Нетология
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: software development, web development
+- Кандидаты компаний: tech startups, web startups
 
 - https://habr.com/ru/companies/netologyru/articles/698676/
 - Отрасли: Рекрутинг и HR, СМИ
 - Компании: Хабр, Нетология
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-индустрия
+- Кандидаты компаний: Anki, Barkleys OASIS, Cnet Internet Glossary, Dive Lang, Easy Ten, ED Words, FOLDOC, Google, Hello Talk, Hitman, ImaginaNet, YouTube, Фоксфорд
 
 - https://habr.com/ru/companies/netologyru/articles/700032/
 - Отрасли: кибербезопасности
 - Компании: Хабр, Нетология, Яндекс
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-индустрия, автомобильная промышленность, кибербезопасность, энергетика
+- Кандидаты компаний: blognetology, Delivery Club, Therac, НАФИ, Тойота, Яндекс Еды
 
 - https://habr.com/ru/companies/netologyru/articles/700302/
 - Отрасли: Веб-разработка
 - Компании: Хабр, Нетология
-- Кандидаты отраслей: не найдено
+- Кандидаты отраслей: Веб-дизайн
 - Кандидаты компаний: не найдено
 
 - https://habr.com/ru/companies/netologyru/articles/702536/
 - Отрасли: аналитики, финансы, Программное обеспечение
 - Компании: Хабр, Нетология, Далее, Яндекс
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: еда, игры, маркетинг, мобильные приложения, политика, развлечения, реклама, социальные сети, финансовая сфера, шопинг
+- Кандидаты компаний: Adsup.me, AppsFlyer, Copay, EventStream, Google, Google Play, Terracota, White Ops
 
 - https://habr.com/ru/companies/netologyru/articles/703654/
 - Отрасли: робототехника, DIY, Программное обеспечение
 - Компании: Хабр, Нетология, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT
+- Кандидаты компаний: AlexKorvin, Apache Thrift, Arduino, github, PCA9685, pikvm, PlayStation 2, PySimpleGUI, Raspberry Pi, raspberry pi camera v2, Raspberry Pi Zero W, Raspbian, Steam Deck, SteamOS, thingiverse.com, ustreamer, Valve Corporation, Xbox One, xpadneo
 
 - https://habr.com/ru/companies/netologyru/articles/707566/
 - Отрасли: Big Data, Data science, банках, СМИ
 - Компании: Хабр, Нетология
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: авиация, банковская сфера, безопасность, железнодорожный транспорт, криминалистика, реклама, розничная торговля, транспорт, юриспруденция
+- Кандидаты компаний: ArcFace, blognetology, Habr, Huawei Moscow, Imagenet, MegaFace, MSCeleb1M, MTCNN, Retina Face, SCRFD, UMD faces, VGG2, WIDER face, Yolov5Face, Умный город
 
 - https://habr.com/ru/companies/netologyru/articles/708480/
 - Отрасли: BI, аналитики, Веб-сервисы
 - Компании: Хабр, Нетология, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-индустрия, доставка продуктов, логистика, онлайн-торговля, складское хозяйство
+- Кандидаты компаний: 1520, Confluence, Figma, Google, Jira, WMS-система
 
 - https://habr.com/ru/companies/netologyru/articles/710728/
 - Отрасли: аналитики, CRM, digital, Low code, Программное обеспечение
 - Компании: Хабр, Нетология, IDC, Gartner, SimbirSoft, Forrester, IBS
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-индустрия, IT-сфера, кадровый рынок в сегменте IT, рынок LCNC, рынок low-code, рынок low-code/no-code
+- Кандидаты компаний: Airtable, Bubble, Flutter Flow, Fortune Business Insights, International Data Corporation, Mordor Intelligence, Nodul, Notion, QSOFT, Rusonyx, Tilda, Wix, Zapier, Зерокодер, Тильда
 
 - https://habr.com/ru/companies/netologyru/articles/711472/
 - Отрасли: Веб-разработка
 - Компании: Хабр, Нетология
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: веб-дизайн
+- Кандидаты компаний: Тильда, Фоксфорд
 
 - https://habr.com/ru/companies/netologyru/articles/721972/
 - Отрасли: Веб-разработка, медиа, Оптимизация
 - Компании: Хабр, Нетология, Space
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Builder.io, Habr
 
 - https://habr.com/ru/companies/netologyru/articles/725540/
 - Отрасли: Data science, Программное обеспечение, виртуальные
 - Компании: Хабр, Нетология, Яндекс, Далее, t2, ОК
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT
+- Кандидаты компаний: Docker, Kubernetes, Miro, Swarm, Yandex.Cloud, БазисСофт, Яндекс.Практикум
 
 - https://habr.com/ru/companies/netologyru/articles/729010/
 - Отрасли: торговли, образование, хостинг, хостинг-провайдеров, кибербезопасности, предлагает, провайдер
 - Компании: Хабр, Нетология, Госуслуги, предлагает, ИТМО, провайдер
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-индустрия, государственные структуры, нефтегазовая сфера, онлайн-образование, розничная торговля
+- Кандидаты компаний: ArchLinux, VMWare
 
 - https://habr.com/ru/companies/netologyru/articles/734354/
 - Отрасли: СМИ, Программное обеспечение, образование
