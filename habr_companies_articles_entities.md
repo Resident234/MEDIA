@@ -67055,146 +67055,146 @@
 - https://habr.com/ru/companies/yoomoney/articles/534780/
 - Отрасли: финансового
 - Компании: Хабр, ЮMoney, Бэклог
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: платёжные сервисы, финансовые услуги
+- Кандидаты компаний: Autorun, Elastic, Grafana, Jenkins, Jira, JMeter, Kibana, Locker, Pinger, Zabbix, ЮMoneyDay
 
 - https://habr.com/ru/companies/yoomoney/articles/535354/
 - Отрасли: финансового
 - Компании: Хабр, ЮMoney, Бэклог
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: разработка мобильных приложений, финансовые услуги
+- Кандидаты компаний: GitHub, SciChart, SpriteKit, ЮKassa, ЮMoneyDay
 
 - https://habr.com/ru/companies/yoomoney/articles/538664/
 - Отрасли: не найдено
 - Компании: Хабр, ЮMoney, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Системы сборки, Тестирование IT-систем, Тестирование веб-сервисов
+- Кандидаты компаний: Allure Report, Allure-jenkins-plugin, Gradle, Groovy, Jenkins, JUnit, Kotlin
 
 - https://habr.com/ru/companies/yoomoney/articles/540496/
 - Отрасли: e-commerce, финансы
 - Компании: Хабр, ЮMoney, Битрикс24
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: благотворительность, Финансы в IT
+- Кандидаты компаний: amoCRM, InSales, Opencart, Shopify, wappalyzer.com, ЮKassa
 
 - https://habr.com/ru/companies/yoomoney/articles/548994/
 - Отрасли: аналитики, Программное обеспечение
 - Компании: Хабр, ЮMoney
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT, разработка ПО
+- Кандидаты компаний: Atlassian, Atlassian Developer Community, Bitbucket, Confluence, GitHub, GitLab, Java, Jira, Maven, Telegram
 
 - https://habr.com/ru/companies/yoomoney/articles/552246/
 - Отрасли: аналитики, Оптимизация
 - Компании: Хабр, ЮMoney
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: работа с музыкой, трейдинг, финансовые услуги
+- Кандидаты компаний: Charts, Core Graphics, GitHub, Metal, MetalKit, OpenGL ES, SciChart, SKCropNode, SKShapeNode, SKSpriteNode, SpriteKit, SwiftCharts, ЮKassa
 
 - https://habr.com/ru/companies/yoomoney/articles/556774/
 - Отрасли: не найдено
 - Компании: Хабр, ЮMoney
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: yooteam, Пиэмная, Юмани
 
 - https://habr.com/ru/companies/yoomoney/articles/558644/
 - Отрасли: Рекрутинг и HR, аналитики
 - Компании: ЮMoney, Хабр, Далее, Кошелёк, Бэклог
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: B2B, B2C, IT, РКО
+- Кандидаты компаний: 1C, GitHub, Zoom, ЮKassa
 
 - https://habr.com/ru/companies/yoomoney/articles/558934/
 - Отрасли: финтех
 - Компании: Хабр, ЮMoney
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Telegram, ЦФТ, ЮMoney Jam
 
 - https://habr.com/ru/companies/yoomoney/articles/565306/
 - Отрасли: Enterprise
 - Компании: Хабр, ЮMoney
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: такси
+- Кандидаты компаний: Frontend Mix, Habr, Material UI, ВКонтакте, Ситимобил, Такси ВКонтакте, Юмани
 
 - https://habr.com/ru/companies/yoomoney/articles/570460/
 - Отрасли: Мобильные технологии, Программное обеспечение, финтех
 - Компании: Хабр, ЮMoney, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: мобильная разработка, платёжные системы, расчетно-кассовое обслуживание
+- Кандидаты компаний: Android Studio, App Store, Facebook, Flipper, Google Play, React Native Debugger, react-navigation, Threads, ThreatMetrix, Xcode, ЮBusiness, ЮKassa
 
 - https://habr.com/ru/companies/yoomoney/articles/575950/
 - Отрасли: Программное обеспечение, Оптимизация
 - Компании: Хабр, ЮMoney
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: DevOps, конференции, тестирование IT-систем, тестирование веб-сервисов
+- Кандидаты компаний: BugsBusters, Qameta Software, Telegram, Юмани
 
 - https://habr.com/ru/companies/yoomoney/articles/583456/
 - Отрасли: DWH, масштабируемость
 - Компании: Хабр, ЮMoney
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: конференции, хранение данных
+- Кандидаты компаний: GitHub, High SQL, Microsoft, Microsoft SQL Server, MS SQL, SSAS, Telegram, ВКонтакте, юмани
 
 - https://habr.com/ru/companies/yoomoney/articles/588264/
 - Отрасли: финтех
 - Компании: Хабр, ЮMoney
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Ansible, Consul, Dramatiq, Flask, Istio, K8s, Kubernetes, Telegram, yooteam, Юмани
 
 - https://habr.com/ru/companies/yoomoney/articles/589963/
 - Отрасли: не найдено
 - Компании: Хабр, ЮMoney
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT, разработка игр, тестирование веб-сервисов
+- Кандидаты компаний: Enzyme, Jest, Nest.js, React Testing Library, ЮMoneyDay, ЮVillage
 
 - https://habr.com/ru/companies/yoomoney/articles/590653/
 - Отрасли: масштабируемость
 - Компании: Хабр, ЮMoney, ОК, Флант
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: DevOps, IT-инфраструктура, платёжные системы, сетевые технологии, системное администрирование, финансовые услуги
+- Кандидаты компаний: Ansible, BGP, Calico, Consul, Consul Connect, Docker, HAProxy, Istio, Kubernetes, LXC, LXD, Nomad, Swarm, vCenter, VmWare
 
 - https://habr.com/ru/companies/yoomoney/articles/590743/
 - Отрасли: финтех
 - Компании: Хабр, ЮMoney
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: YouTube, ЮMoneyDay
 
 - https://habr.com/ru/companies/yoomoney/articles/591253/
 - Отрасли: аналитики, финтех
 - Компании: Хабр, ЮMoney, Далее
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: GitHub, Microsoft SQL Server, Telegram, ВКонтакте, ЮMoneyDay, юмани
 
 - https://habr.com/ru/companies/yoomoney/articles/591803/
 - Отрасли: финтех, Дизайн и юзабилити
 - Компании: Хабр, ЮMoney
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-инфраструктура, платежные сервисы
+- Кандидаты компаний: ЮMoneyDay, Юмани
 
 - https://habr.com/ru/companies/yoomoney/articles/592243/
 - Отрасли: Дизайн и юзабилити
 - Компании: Хабр, ЮMoney, АТОМ
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: GitHub, Maven Central, Sonatype, Telegram, YooIKit, yooteam, YouTube, ВКонтакте, ЮMoneyDay
 
 - https://habr.com/ru/companies/yoomoney/articles/594705/
 - Отрасли: образование, Рекрутинг и HR
 - Компании: Хабр, ЮMoney
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-индустрия, Машиностроение, Электроэнергетика
+- Кандидаты компаний: Google, Intel, YouTube
 
 - https://habr.com/ru/companies/yoomoney/articles/598179/
 - Отрасли: финтех
 - Компании: Хабр, ЮMoney
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Bitbucket, Burning Lead, Jira, Zoom, ЮKassa
 
 - https://habr.com/ru/companies/yoomoney/articles/647441/
 - Отрасли: e-commerce, Дизайн и юзабилити, аналитики
 - Компании: Хабр, ЮMoney, Далее
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Bitbucket, Github, Gitlab, yoomoney
 
 - https://habr.com/ru/companies/yoomoney/articles/676586/
 - Отрасли: финтех
 - Компании: Хабр, ЮMoney
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Neogenda, Telegram, yooteam
 
 - https://habr.com/ru/companies/yoomoney/articles/688720/
 - Отрасли: Рекрутинг и HR
