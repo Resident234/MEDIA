@@ -71255,152 +71255,152 @@
 - https://habr.com/ru/company/smi2/blog/314558/
 - Отрасли: Big Data, СМИ, масштабируемость, аналитики, OLAP
 - Компании: Хабр, Далее, Яндекс
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: онлайн-СМИ
+- Кандидаты компаний: Cassandra, ClickHouse, Druid, Greenplum, Hadoop, Hetzner, HP Vertica, Imply Analytics Platform, InfiniDB, InfluxDB, Kafka, MySQL, nagios, Spark, Tranquility, YT, СМИ2
 
 - https://habr.com/ru/company/smi2/blog/317682/
 - Отрасли: Big Data
 - Компании: Хабр, Яндекс, Далее
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Apache ZooKeeper, ClickHouse, СМИ2, Яндекс.Метрика
 
 - https://habr.com/ru/company/solarsecurity/blog/579854/
 - Отрасли: Информационная безопасность, виртуальные
 - Компании: Хабр, Солар, Далее
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: builtwith.com, Burp Suite, Concrete5, Contao, CyberChef, ExpressionEngine, HackerOne, Hackvector, ImpressCMS, ModX, OctoberCMS, Typo3, Visual Studio Code, XDebug
 
 - https://habr.com/ru/company/spice/blog/329208/
 - Отрасли: Дизайн и юзабилити
 - Компании: Хабр
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Spice IT Recruitment, SpiceIT, Uber
 
 - https://habr.com/ru/company/spice/blog/344788/
 - Отрасли: Дизайн и юзабилити, предлагает
 - Компании: Хабр, предлагает
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Google, Spice IT Recruitment
 
 - https://habr.com/ru/company/spice/blog/345832/
 - Отрасли: не найдено
 - Компании: Хабр, Space, N+1
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Alcatel-Lucent, Nokia, Spice IT Recruitment
 
 - https://habr.com/ru/company/spice/blog/346424/
 - Отрасли: не найдено
 - Компании: Хабр
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT
+- Кандидаты компаний: Microsoft, Spice IT Recruitment
 
 - https://habr.com/ru/company/spice/blog/347056/
 - Отрасли: не найдено
 - Компании: Хабр
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Adobe, Spice IT Recruitment
 
 - https://habr.com/ru/company/spice/blog/347636/
 - Отрасли: не найдено
 - Компании: Хабр
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Spice IT Recruitment, Yahoo!
 
 - https://habr.com/ru/company/spice/blog/348122/
 - Отрасли: не найдено
 - Компании: Хабр
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Amazon, Spice IT Recruitment
 
 - https://habr.com/ru/company/spice/blog/348746/
 - Отрасли: не найдено
 - Компании: Хабр, Samsung
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Spice IT Recruitment, SpiceIT
 
 - https://habr.com/ru/company/spice/blog/349268/
 - Отрасли: не найдено
 - Компании: Хабр
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Luxoft, Spice IT Recruitment
 
 - https://habr.com/ru/company/spice/blog/350004/
 - Отрасли: не найдено
 - Компании: Хабр, Цифра
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Spice IT Recruitment
 
 - https://habr.com/ru/company/spice/blog/350300/
 - Отрасли: не найдено
 - Компании: Хабр
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: ИТ
+- Кандидаты компаний: Spice IT Recruitment
 
 - https://habr.com/ru/company/spice/blog/350788/
 - Отрасли: не найдено
 - Компании: Хабр, DELL, Space
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Spice IT Recruitment
 
 - https://habr.com/ru/company/spice/blog/351896/
 - Отрасли: не найдено
 - Компании: Хабр, N+1
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT Recruitment
+- Кандидаты компаний: Ebay, Spice IT Recruitment
 
 - https://habr.com/ru/company/spice/blog/352454/
 - Отрасли: не найдено
 - Компании: Хабр
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT
+- Кандидаты компаний: Google, Spice IT Recruitment
 
 - https://habr.com/ru/company/spice/blog/352964/
 - Отрасли: не найдено
 - Компании: Хабр, Space
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Microsoft, Spice IT Recruitment
 
 - https://habr.com/ru/company/spice/blog/353952/
 - Отрасли: не найдено
 - Компании: Хабр
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Amazon, Excel, Spice IT Recruitment
 
 - https://habr.com/ru/company/spice/blog/354684/
 - Отрасли: не найдено
 - Компании: Хабр
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: McDonald’s, Spice IT Recruitment, Symantec
 
 - https://habr.com/ru/company/spice/blog/358064/
 - Отрасли: не найдено
 - Компании: Хабр, Самолет
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Facebook, FBI, Spice IT Recruitment, РКН, ФБР
 
 - https://habr.com/ru/company/studyqa/blog/337270/
 - Отрасли: предлагает, Рекрутинг и HR, образование
 - Компании: Хабр, предлагает, МТУСИ
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: безопасностью, информационные технологии, платежными системами, продаж в Интернете, сетевым оборудованием
+- Кандидаты компаний: Allpago, Amazon, Apple, Bosch, Buddyguard, Cisco, Facebook, FLARE, Google, Hewlett Packard, Intel, InternMatch, StudyQA, Vault
 
 - https://habr.com/ru/company/superjob/blog/332834/
 - Отрасли: медиа
 - Компании: Хабр, Skyeng, 1С
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: 1C-Битрикс, Badoo, Facebook, QSOFT, Superjob, Symfony, Symfony Flex, Yii
 
 - https://habr.com/ru/company/superjob/blog/333804/
 - Отрасли: медиа
 - Компании: Хабр, Skyeng, 1С
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: 1С-Битрикс, Badoo, Facebook, PHP-FIG, QSOFT, Superjob
 
 - https://habr.com/ru/company/superjob/blog/335910/
 - Отрасли: не найдено
 - Компании: Хабр
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: SuperJob
 
 - https://habr.com/ru/company/superjob/blog/354388/
 - Отрасли: Оптимизация, Веб-разработка
