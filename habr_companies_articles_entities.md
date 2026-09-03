@@ -50405,26 +50405,26 @@
 - https://habr.com/ru/companies/skillfactory/articles/526976/
 - Отрасли: Data science, ML, Оптимизация, Machine Learning, Computer Vision
 - Компании: Хабр, Skillfactory
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: искусственный интеллект, машинное обучение
+- Кандидаты компаний: Amazon, ATen, Caffe2, CuBLAS, CuDNN, Facebook, Facebook AI Labs, Github, Google, Halide, MKL, MxNet, PyTorch, TensorFlow
 
 - https://habr.com/ru/companies/skillfactory/articles/526978/
 - Отрасли: Веб-разработка, Программное обеспечение, Data science, Machine Learning, Computer Vision
 - Компании: Хабр, Skillfactory
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: AppSignal, Firecode.io, Ruby on Rails, RxJS
 
 - https://habr.com/ru/companies/skillfactory/articles/527510/
 - Отрасли: Big Data, Data science, ML, предлагает, Machine Learning, Computer Vision
 - Компании: Хабр, Skillfactory, предлагает, серверы
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Data Engineering, машинное обучение
+- Кандидаты компаний: Delta Lake, Dolt, DVC, Git, Git LFS, Pachyderm
 
 - https://habr.com/ru/companies/skillfactory/articles/527512/
 - Отрасли: Информационная безопасность, Программное обеспечение, Data science, Machine Learning, Computer Vision
 - Компании: Хабр, Skillfactory, F6
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: bddisasm, bdshemu, Bitdefender, Github, Metasploit
 
 - https://habr.com/ru/companies/skillfactory/articles/527514/
 - Отрасли: Data science, Machine Learning, Computer Vision
@@ -50436,121 +50436,121 @@
 - Отрасли: Веб-разработка, предлагает, Data science, Machine Learning, Computer Vision
 - Компании: Хабр, Skillfactory, предлагает
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Angular, Angular Material, angular-eslint, Codelyzer, ESLint, HMR, IE, IE10, IE11, IE9, JavaScript, Module Federation, npm, TSLint, tslint-to-eslint-config, TypeScript, typescript-eslint, webpack, Yarn
 
 - https://habr.com/ru/companies/skillfactory/articles/527604/
 - Отрасли: Data science, торговые, образование, BI, Мобильные технологии, Machine Learning, Computer Vision
 - Компании: Хабр, Skillfactory, ИТМО
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-индустрия, Биоинформатика, Биология, Дизайн, Маркетинг и реклама, Нейронауки, Ритейл, Страхование
+- Кандидаты компаний: BI Consult, dostek.kg, Google, Microsoft, Neuralink, OpenEdu, Telegram, Zavtra.Online, НИТУ МИСиС
 
 - https://habr.com/ru/companies/skillfactory/articles/528224/
 - Отрасли: Big Data, Data science, Machine Learning, Computer Vision, BigData
 - Компании: Хабр, Skillfactory
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Data Engineering, SOA, Микросервисы
+- Кандидаты компаний: Airbnb, Amazon, GraphQL, Istio, Linkerd, Netflix, Uber
 
 - https://habr.com/ru/companies/skillfactory/articles/528226/
 - Отрасли: Machine Learning, Data science, Computer Vision
 - Компании: Хабр, Skillfactory, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: искусственный интеллект, машинное обучение
+- Кандидаты компаний: Fairlearn, Fairness 360, Google, IBM, Microsoft
 
 - https://habr.com/ru/companies/skillfactory/articles/528232/
 - Отрасли: Data science, ML, Machine Learning, предлагает, Программное обеспечение, Computer Vision
 - Компании: Хабр, Skillfactory, предлагает
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Artificial Intelligence, Computer Science, Deep Learning, Robotics
+- Кандидаты компаний: 3b1b, Atsushi Sakai, Avik Jain, Bogdan, Donne Martin, Free Ebook Foundation, GitHub, Ian Stapleton Cordasco, Jerry Pussinen, João Ventura, Learning Zone, NLTK, Oleksii Trekhleb, Real Python, Sebastian Raschka, Swaroop C H, The Algorithms, Vahid Mirjalili, Vinta Chen
 
 - https://habr.com/ru/companies/skillfactory/articles/528234/
 - Отрасли: Machine Learning, Data science, Computer Vision
 - Компании: Хабр, Skillfactory
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: гипотеза симуляции, квантовая механика, теория струн
+- Кандидаты компаний: arXiv, Ray Kurzweil, TED, The Singularity is near
 
 - https://habr.com/ru/companies/skillfactory/articles/528236/
 - Отрасли: робототехника, Machine Learning, предлагает, медиа, Data science, Computer Vision
 - Компании: Хабр, Skillfactory, предлагает, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: анестезиология, дерматология, журналистика, искусственный интеллект, кредитование, патология, радиология, страхование
+- Кандидаты компаний: Brooklyn Law Institute, OneZero
 
 - https://habr.com/ru/companies/skillfactory/articles/528238/
 - Отрасли: Big Data, digital, IoT, Программное обеспечение, Machine Learning, Data science, Computer Vision
 - Компании: Хабр, Skillfactory
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: блокчейн, интернет вещей, искусственный интеллект, машинное обучение, мобильность, умный город, энергетика
+- Кандидаты компаний: Ankr, Baştuğ Metallurgy, Blockchain 4 Europe, Cambridge University, Conflux Network, Datarella, Fetch.ai, Grey Swan Digital, Hegic, MOBI, Mobility Open Blockchain Initiative, Outlier Ventures, Smart Dubai, Sovrin Steward, T-Labs, Trusted IoT Alliance, Warwick Business School, Waves, Wi-Q technologies
 
 - https://habr.com/ru/companies/skillfactory/articles/528240/
 - Отрасли: ML, Оптимизация, Machine Learning, Data science, предлагает, Computer Vision
 - Компании: Хабр, Skillfactory, предлагает
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: AutoML, глубокое обучение, Искусственный интеллект, Машинное обучение
+- Кандидаты компаний: automl.org, Habr, HpBandSter, Neptune, neptune.ai
 
 - https://habr.com/ru/companies/skillfactory/articles/528242/
 - Отрасли: Machine Learning, Data science, Computer Vision
 - Компании: Хабр, Skillfactory
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: искусственный интеллект, коннектомика, машинное обучение
+- Кандидаты компаний: Habr, MATLAB, MPI, Science, Институт Макса Планка
 
 - https://habr.com/ru/companies/skillfactory/articles/528244/
 - Отрасли: Machine Learning, Data science, Computer Vision
 - Компании: Хабр, Skillfactory
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: devops, аналитика данных, добывающая промышленность, искусственный интеллект, машинное обучение, разработка игр
+- Кандидаты компаний: AI Dungeon, OpenAI, Reddit, Wikipedia
 
 - https://habr.com/ru/companies/skillfactory/articles/529112/
 - Отрасли: Big Data, аналитики, Data science, BI, Machine Learning, медицина, Рекрутинг и HR, Computer Vision
 - Компании: Хабр, Skillfactory, Базис
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-индустрия, банковская сфера
+- Кандидаты компаний: Excel, Frost & Sullivan, Google, Keras, LightGBM, Metabase, NumPy, Pandas, Power BI, PyTorch, SciPy, sklearn, Tableau, TensorFlow, YouTube
 
 - https://habr.com/ru/companies/skillfactory/articles/529308/
 - Отрасли: Big Data, Computer Vision, NLP, Data science, образование, Machine Learning
 - Компании: Хабр, Skillfactory, Авито, X5 Retail Group, Тинькофф
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-индустрия
+- Кандидаты компаний: Agoda, Cisco, Coursera, DOC+, Google, H2O.ai, Intel, Kaggle, Kaggle Notebooks, NFL, PayPal, Тинькофф Банк
 
 - https://habr.com/ru/companies/skillfactory/articles/529844/
 - Отрасли: не найдено
 - Компании: Хабр
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: реклама, социальные сети, таргетированная реклама
+- Кандидаты компаний: Facebook, Graph Search, Instagram, Mail.ru Group, Twitter, WhatsApp, Больше чем данные, ВКонтакте, Одноклассники
 
 - https://habr.com/ru/companies/skillfactory/articles/530278/
 - Отрасли: Machine Learning, Computer Vision, горнодобывающей промышленности, ML, видеоаналитики, промышленность, Data science
 - Компании: Хабр, Skillfactory
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: горнодобывающая промышленность, добывающая промышленность
+- Кандидаты компаний: Алроса
 
 - https://habr.com/ru/companies/skillfactory/articles/530594/
 - Отрасли: ML, Machine Learning, Data science, Computer Vision
 - Компании: Хабр, Skillfactory, Далее
-- Кандидаты отраслей: не найдено
+- Кандидаты отраслей: Data Engineering, Машинное обучение
 - Кандидаты компаний: не найдено
 
 - https://habr.com/ru/companies/skillfactory/articles/530602/
 - Отрасли: ML, Machine Learning, Data science, Computer Vision
 - Компании: Хабр, Skillfactory
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Data Engineering, машинное обучение
+- Кандидаты компаний: GitHub
 
 - https://habr.com/ru/companies/skillfactory/articles/530826/
 - Отрасли: Machine Learning, Computer Vision, Data science
 - Компании: Хабр, Skillfactory
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Искусственный интеллект, Обработка изображений
+- Кандидаты компаний: Habr
 
 - https://habr.com/ru/companies/skillfactory/articles/530828/
 - Отрасли: Machine Learning, Data science, Computer Vision
 - Компании: Хабр, Skillfactory
-- Кандидаты отраслей: не найдено
+- Кандидаты отраслей: IT-индустрия, разработка программного обеспечения
 - Кандидаты компаний: не найдено
 
 - https://habr.com/ru/companies/skillfactory/articles/531360/
 - Отрасли: аналитики, Data science, Machine Learning
 - Компании: Хабр, Skillfactory
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-индустрия
+- Кандидаты компаний: Baidu, DOU, GitHub, Google, Habr, PYPL, TIOBE, Yandex
 
 - https://habr.com/ru/companies/skillfactory/articles/531416/
 - Отрасли: Machine Learning, Data science, Computer Vision
