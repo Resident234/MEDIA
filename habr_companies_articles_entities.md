@@ -35855,152 +35855,152 @@
 - https://habr.com/ru/companies/postgrespro/articles/710104/
 - Отрасли: Enterprise
 - Компании: Хабр, Postgres Professional, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: хранение данных
+- Кандидаты компаний: PostgreSQL
 
 - https://habr.com/ru/companies/postgrespro/articles/710930/
 - Отрасли: Enterprise, стриминг, образование, предлагает, Информационная безопасность, OLAP, Оптимизация
 - Компании: Хабр, Postgres Professional, Росатом, Skillbox, предлагает, 1С, Raft
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: микроэлектроника
+- Кандидаты компаний: Canvas, Cnews, Cybertec, Dalibo, GPT, MS SQL Server, Oracle, Postgres Pro Enterprise, Postgres Pro Standard, PostgreSQL, PostgreSQL Anonymizer, Stripe, Timescale, TimescaleDB, Коммерсантъ, МЦСТ, Эльбрус
 
 - https://habr.com/ru/companies/postgrespro/articles/718100/
 - Отрасли: Оптимизация
 - Компании: Хабр, Postgres Professional, 1С
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: gnuplot, Hubert 'depesz' Lubaczewski, Pavlo Golub, PostgreSQL, tablefunc
 
 - https://habr.com/ru/companies/postgrespro/articles/719482/
 - Отрасли: образование, Machine Learning, ML, Enterprise
 - Компании: Хабр, Postgres Professional
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: искусственный интеллект, машинное обучение
+- Кандидаты компаний: Crunchy Data, Fosdem, Hasura, Hugging Face, LightGBM, MigOps, MS Azure, Neon, OpenAI, Oracle, PgCat, PGDay Chicago 2023, PostgresML, PostgreSQL, Scikit Learn, SQL Server, Supabase, XGBoost, Университет Карнеги-Меллона
 
 - https://habr.com/ru/companies/postgrespro/articles/720272/
 - Отрасли: Enterprise, Оптимизация
 - Компании: Хабр, Postgres Professional, Далее, Space
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Базы данных, Высоконагруженные системы
+- Кандидаты компаний: HighLoad++, PGConfEU
 
 - https://habr.com/ru/companies/postgrespro/articles/722426/
 - Отрасли: аналитики, Enterprise, предлагает
 - Компании: Хабр, Postgres Professional, SOFTPOINT, 1С, FUJITSU, Яндекс, предлагает
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: ИТ
+- Кандидаты компаний: Adjust, Axenix, EvApps, Facebook (Meta Platforms, Inc.), LinkedIn, Oracle, PGConf.de, PGConf.Russia, PGDay Belgium, Postgres Pro, Swiss PGDay, Timescale, ИТ-Экспертиза, Лукойл-Технологии, Нетрика, Форс Телеком, Яндекс.Облако
 
 - https://habr.com/ru/companies/postgrespro/articles/722784/
 - Отрасли: digital
 - Компании: Хабр, Postgres Professional, SOFTPOINT, 1С, ВТБ, FUJITSU
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: ИТ, нефтегазовая промышленность, транспорт, финансовые услуги
+- Кандидаты компаний: Axenix, Citus, Corosync, EvApps, Maxim Technology, MMTP-Технологий InfoSoft Data Egret ВНИИЖТ ВТБ MTS Digital Fujitsu SoftSwiss Sibedge, Oracle, Pacemaker, PGConf.Russia, Pgpool-II, Postgres Pro, ИТ-Экспертиза, Лукойл-Технологии, Нетрика, РТК ИТ, Рэдиссон-Славянская, Форс Телеком
 
 - https://habr.com/ru/companies/postgrespro/articles/726154/
 - Отрасли: Enterprise, предлагает
 - Компании: Хабр, Postgres Professional, предлагает, FUJITSU, Arenadata, Далее, Яндекс, YDB
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: ИТ
+- Кандидаты компаний: Aiven, AWS, Cybertec, ISO, Oriole DB, PGConf.Russia, Postgres Pro Enterprise, Postgres Pro Standard, PostgreSQL, Timescale
 
 - https://habr.com/ru/companies/postgrespro/articles/726204/
 - Отрасли: Enterprise
 - Компании: Хабр, Postgres Professional, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: базы данных
+- Кандидаты компаний: Oracle, Postgres Pro, PostgreSQL
 
 - https://habr.com/ru/companies/postgrespro/articles/728738/
 - Отрасли: digital, Enterprise
 - Компании: Хабр, Postgres Professional, Arenadata, 1С
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: геоинформационные системы, ИТ
+- Кандидаты компаний: Adjust, BiHA (BiHA - встроенный отказоустойчивый кластер Postgres Pro, BiHA - это пока неофициальное название))),, CitusDB, Cockroach DB, Greenplum, Huawei, MTS Digital, OpenStreetMap, OrioleDB, PgCat, PGConf.Russia, Postgres Pro Enterprise, PostgreSQL, Shardman, SPQR, Timescale, Uber, Yugabyte DB
 
 - https://habr.com/ru/companies/postgrespro/articles/732698/
 - Отрасли: Программное обеспечение, масштабируемость, SaaS, образование, CRM, ML, OLAP, Дизайн и юзабилити, Enterprise
 - Компании: Хабр, Postgres Professional, Arenadata, 1С, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: DBaaS, multi-cloud, multi-region, Open Source, базы данных, импортозамещение, облачные решения, распределённый SQL, СУБД
+- Кандидаты компаний: AWS Aurora, Beta Testing, Clustrix, Expand for MariaDB, MariaDB, MariaDB Xpand, PostgreSQL, RDS, SkySQL, VMWare, Xpand for Postgres, Xpand4All, YugabyteDB”, “CockroachDB”,, Маяк, НП Викимедиа РУ, Рувики. Свободная энциклопедия, Символ, СУБД-круг Громова 2022
 
 - https://habr.com/ru/companies/postgrespro/articles/732916/
 - Отрасли: Оптимизация
 - Компании: Хабр, Postgres Professional
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Hubert 'depesz' Lubaczewski, Lukas Fittl, pgbench, PostgreSQL
 
 - https://habr.com/ru/companies/postgrespro/articles/739036/
 - Отрасли: провайдер, Консалтинг и поддержка, предлагает, Data science, образование, Enterprise
 - Компании: Хабр, Postgres Professional, провайдер, предлагает, Selectel
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: ИКТ
+- Кандидаты компаний: Advent of Code, Amazon, AT Consulting, Crunchy Data, Database Lab Engine, Datomic, FAANG, Lemur Data, MongoDB, MySQL, Oracle, Postgres.ai, PostgreSQL, SQL Server, Stack Overflow, Tech Startups, Wall Street, Самарский университет
 
 - https://habr.com/ru/companies/postgrespro/articles/742684/
 - Отрасли: Оптимизация
 - Компании: Хабр, Postgres Professional, t2
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: информационные технологии
+- Кандидаты компаний: Oracle
 
 - https://habr.com/ru/companies/postgrespro/articles/746094/
 - Отрасли: не найдено
 - Компании: Хабр, Postgres Professional, STONE, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT, Игры, Программирование
+- Кандидаты компаний: IBM, Гугл
 
 - https://habr.com/ru/companies/posttech/articles/top/
 - Отрасли: Big Data, SaaS, DWH, виртуальные
 - Компании: Почтатех, Хабр, Почта России, Ростелеком, Сбербанк
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: авиаперевозки, логистика, почтовая связь, таможенная деятельность
+- Кандидаты компаний: PROMT, Федеральная таможенная служба (ФТС)
 
 - https://habr.com/ru/companies/ppr/articles/top/
 - Отрасли: госсектора, аналитики, криптографии, информационной безопасности
 - Компании: Программный Продукт, Хабр, Яндекс
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: автономное вождение, видеонаблюдение, география, госсектор, контроль на дорогах, производство, системы управления, спортивная аналитика, футбол
+- Кандидаты компаний: CNews Analytics, Google, Laravel, PostgreSQL, Symfony, Yii
 
 - https://habr.com/ru/companies/privacyaccelerator/articles/top/
 - Отрасли: не найдено
 - Компании: Privacy Accelerator, Хабр, Amnezia VPN, РосКомСвобода
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT, legal-tech, доступ к информации, защита персональных данных, приватность, свобода интернета
+- Кандидаты компаний: Demhack, Privacy Day, SelfPrivacy, SimpleX, Tor
 
 - https://habr.com/ru/companies/productivity_inside/articles/315406/
 - Отрасли: не найдено
 - Компании: Хабр, InlyIT, Далее
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Everyday Tools, Habr, Sketch, Sketchode, Vehicle Location Tracker
 
 - https://habr.com/ru/companies/productivity_inside/articles/316722/
 - Отрасли: предлагает, образование, Оптимизация, Программное обеспечение, SaaS, Информационная безопасность, e-commerce
 - Компании: Хабр, InlyIT, Далее, предлагает
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: стартапы
+- Кандидаты компаний: betabound.com, betalist.com, betapage.co, coolstartupbro.com, crazyaboutstartups.com, discova.co, iamwire.com, launchingnext.com, operation6fig.com, randomstartup.org, sideprojectors.com, signupfirst.com, springwise.com, startup88.com, startuplift.com, startupranking.com, startuptabs.com, stompstart.com, younoodle.com
 
 - https://habr.com/ru/companies/productivity_inside/articles/317664/
 - Отрасли: Дизайн и юзабилити
 - Компании: Хабр, InlyIT, серверы
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Веб-дизайн, Дизайн мобильных приложений, Интерфейсы
+- Кандидаты компаний: Apple, Audible, Cotton Candy, Facebook Messenger, Instagram, Medium, Smashing Magazine, Trello, WhatsApp
 
 - https://habr.com/ru/companies/productivity_inside/articles/318298/
 - Отрасли: не найдено
 - Компании: Хабр, InlyIT
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: управление продуктом, управление проектами, управление разработкой
+- Кандидаты компаний: Invision
 
 - https://habr.com/ru/companies/productivity_inside/articles/319444/
 - Отрасли: digital, Мобильные технологии, телекома, СМИ, Дизайн и юзабилити, Веб-сервисы, e-commerce, Электронная коммерция, Enterprise, CRM
 - Компании: Хабр, InlyIT, CUSTIS
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: UI, UX, банковская деятельность, государственные сервисные системы, дизайн интерфейсов, мобильная коммерция, сервис-дизайн, телеком
+- Кандидаты компаний: AstrumNival, Data Monsters, Dribbble, Epic Skills, Flexis, IDEO, Mail.ru Group, UI Design Group, UsabilityLab, Wonderfull, Проекторат, Рамблер, Русская ШколаСервисного Дизайна, Самплар
 
 - https://habr.com/ru/companies/productivity_inside/articles/319700/
 - Отрасли: Дизайн и юзабилити, предлагает
 - Компании: Хабр, InlyIT, предлагает
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Веб-дизайн, Дизайн мобильных приложений, Интерфейсы
+- Кандидаты компаний: Google, Intuit, Pivotal
 
 - https://habr.com/ru/companies/productivity_inside/articles/319990/
 - Отрасли: Оптимизация
 - Компании: Хабр, InlyIT, Звук, Далее, Surf
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: разработка игр, разработка мобильных приложений
+- Кандидаты компаний: Simulators Live, Unity
 
 - https://habr.com/ru/companies/productivity_inside/articles/320376/
 - Отрасли: не найдено
