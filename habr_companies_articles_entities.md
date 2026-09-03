@@ -63605,110 +63605,110 @@
 - https://habr.com/ru/companies/wirenboard/articles/707678/
 - Отрасли: умный дом, облачные сервисы, провайдер, масштабируемость, IoT, Big Data, DIY, облачных сервисов
 - Компании: Хабр, Wiren Board, провайдер, Сбер, Яндекс, серверы
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Индустрия информационных технологий, Инженерные системы, Интернет вещей
+- Кандидаты компаний: Ali Express, Aqara, Home Assistant, Insteon, OpenHab, Tuya, Tuya Smart Life, XMEye, Сбер Салют, Станция 2
 
 - https://habr.com/ru/companies/wirenboard/articles/709080/
 - Отрасли: облачные сервисы, умный дом
 - Компании: Хабр, Wiren Board, Яндекс, серверы
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: видеонаблюдение, инженерные системы, Интернет вещей, система контроля и управления доступом, энергоэффективность
+- Кандидаты компаний: Habr, Hiwatch, SIGUR, Smartec, Tagline Awards, TRASSIR, Vertical Boutique, WAVIoT, Азбука быта, Булычев, Гефест, Железно, Карат, Крин, Мажордом, Философт
 
 - https://habr.com/ru/companies/wirenboard/articles/710177/
 - Отрасли: облачные сервисы, умный дом
 - Компании: Wiren Board, Хабр
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Инженерные системы, Интернет вещей
+- Кандидаты компаний: Aqara, Aqara Home, Aqara Hub M2, Aqara LED Light Bulb, Aqara Motion Sensor, Aqara Smart Plug, Aqara Temperature and Humidity Sensor, Node-RED, Sprut.hub, Sprut.stick, WBE2R-R-ZIGBEE v.2, WBE2R-R-ZIGBEE-SH, Алиса
 
 - https://habr.com/ru/companies/wirenboard/articles/713274/
 - Отрасли: облачные сервисы, умный дом, предлагает, виртуальные
 - Компании: Хабр, Wiren Board, предлагает, Яндекс
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Инженерные системы, Интернет вещей
+- Кандидаты компаний: Apple, Aqara, Habr, HomeKit, Node-RED, Sprut.hub, WBE2R-R-ZIGBEE, Xiaomi, Zigbee2mqtt, Алиса
 
 - https://habr.com/ru/companies/wirenboard/articles/715288/
 - Отрасли: умный дом, DIY, виртуальные
 - Компании: Хабр, Wiren Board, Далее, ОК
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: DIY или Сделай сам, Интернет вещей
+- Кандидаты компаний: DrakonHub, Modbus, wb-mqtt-serial, wb-mqtt-w1, WB-MR6C v.3, WB-MR6C v3, Wiren Board 7
 
 - https://habr.com/ru/companies/wirenboard/articles/718188/
 - Отрасли: умный дом
 - Компании: Хабр, Wiren Board, Яндекс, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Инженерные системы, Интернет вещей
+- Кандидаты компаний: Apple Home, Apple HomeKit, CoolMasterNet, Crow, Fibaro, Intelligent House, Modbus, Siri, Sprut.Hub, Sprut.stick, WB-MIO, WB-MR6C v.2, WB-MWAC, WBE2R-R-ZIGBEE-SH, WBIO, WBIO-DI-WD-14, WBIO-DO-R10A-8, WBIO-DO-R10R-4, Zigbee
 
 - https://habr.com/ru/companies/wirenboard/articles/719342/
 - Отрасли: умный дом, DIY
 - Компании: Wiren Board, Хабр
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: DIY или Сделай сам, Автоматизация дома, Вентиляция, Инженерные системы, Интернет вещей, Климатическое оборудование, Отопление, Энергетика
+- Кандидаты компаний: Apple, Aqara, Arduino, HomeKit, Intelligent House, iPad, MajorDoMo, Siri, Sprut.Hub, Sprut.stick, Zigbee, Нептун
 
 - https://habr.com/ru/companies/wirenboard/articles/721960/
 - Отрасли: умный дом, недвижимость, IoT
 - Компании: Хабр, Wiren Board, SberDevices, Далее, Сбер, Контур, Яндекс
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: автоматизация, автоматизация зданий, инженерные системы, Интернет вещей, климатическая техника, пожарно-охранные системы, производство, СКУД, холодильная техника, ЦОД, энергоменеджмент
+- Кандидаты компаний: Carel, Comfort-Life, Danfoss, Eliwell Modbus RTU, Integer, IntraSCADA, Rapid SCADA, SAYMON, SETPOINT, SimpLight, Sprut, TECO Lux, WBCE, WIRENBOARD PRO, Z-Wave.Me, НЕВОТОН, ПК Энергия, ТеплоМонитор
 
 - https://habr.com/ru/companies/wirenboard/articles/722656/
 - Отрасли: ритейла, умный дом, Оптимизация, торговые, промышленные, Программное обеспечение
 - Компании: Магнит, Хабр, Wiren Board, ПИК
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: инженерные системы, интернет вещей, продуктовый ритейл
+- Кандидаты компаний: Carel, Danfoss, Eliwell, Liten, SVAROG, Меркурий, Милур, Нева, ПАО Магнит, Энергомера
 
 - https://habr.com/ru/companies/wirenboard/articles/722718/
 - Отрасли: умный дом, DIY, IoT
 - Компании: Хабр, Wiren Board, Далее, Контур, Самолет, ОК
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: бытовая автоматизация, инженерные системы, Интернет вещей, охранная сигнализация, пожарная сигнализация, промышленная автоматизация
+- Кандидаты компаний: БОЛИД, ОВЕН
 
 - https://habr.com/ru/companies/wirenboard/articles/725554/
 - Отрасли: умный дом
 - Компании: Хабр, Wiren Board
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: инженерные системы, Интернет вещей
+- Кандидаты компаний: Apple, ekey, HomeKit, Intelligent House, KNX, Sprut.Hub, Sprut.stick, Алиса, Гидролок, Маруся
 
 - https://habr.com/ru/companies/wirenboard/articles/727624/
 - Отрасли: DIY, умный дом
 - Компании: Хабр, Wiren Board
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: DIY или Сделай сам, Автоматизация и мониторинг, Интернет вещей, Производство и разработка электроники, Прототипирование
+- Кандидаты компаний: AliExpress, EAGLE, Rilheva, WCH, WinChipHead, Резонит
 
 - https://habr.com/ru/companies/wirenboard/articles/728720/
 - Отрасли: умный дом
 - Компании: Хабр, Wiren Board, Яндекс
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Автоматизация, Инженерные системы, Интернет вещей, Климат, Освещение
+- Кандидаты компаний: Apple, EDS Electro, Hager, Мастерская электрика, Яндекс.Алиса
 
 - https://habr.com/ru/companies/wrike/articles/top/
 - Отрасли: SaaS
 - Компании: Wrike, Хабр, VK, Яндекс
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT
+- Кандидаты компаний: benchmarksgame, Dendy, Docker, Futurama, Google, Google I/O, Gulp, HolyJS, Python, Teamlead Simulator, Webapck, WrikeTechClub, YouTube, Zoom, Космические Рейнджеры 2
 
 - https://habr.com/ru/companies/wunderfund/articles/275043/
 - Отрасли: Мобильные технологии
 - Компании: Хабр, Wunder Fund, Звук
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: обработка данных, обработка звука, цифровая обработка сигналов
+- Кандидаты компаний: Habr, MP3, MPEG-1, NTSC, PAL, Shazam, Sony, SVCD, VCD
 
 - https://habr.com/ru/companies/wunderfund/articles/279545/
 - Отрасли: предлагает
 - Компании: Хабр, Wunder Fund, предлагает, Далее
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Habr, Jupyter Notebook, matplotlib, numpy, pandas, scipy, seaborn, Wikipedia
 
 - https://habr.com/ru/companies/wunderfund/articles/302638/
 - Отрасли: не найдено
 - Компании: Хабр, Wunder Fund
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: пиринговые сети, системы передачи видео по запросу, широковещательные каналы связи
+- Кандидаты компаний: Bittorrent
 
 - https://habr.com/ru/companies/wunderfund/articles/311598/
 - Отрасли: предлагает
 - Компании: Хабр, Wunder Fund, предлагает
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Google, Quora, YouTube, Сойлент
 
 - https://habr.com/ru/companies/wunderfund/articles/313696/
 - Отрасли: Machine Learning, Computer Vision
@@ -63725,32 +63725,32 @@
 - https://habr.com/ru/companies/wunderfund/articles/314242/
 - Отрасли: предлагает, Machine Learning
 - Компании: Хабр, Wunder Fund, Самолет, предлагает
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: компьютерное зрение, обработка естественных языков, распознавание речи
+- Кандидаты компаний: Keras
 
 - https://habr.com/ru/companies/wunderfund/articles/314872/
 - Отрасли: Machine Learning
 - Компании: Хабр, Wunder Fund, Самолет
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Keras
 
 - https://habr.com/ru/companies/wunderfund/articles/315476/
 - Отрасли: предлагает, Machine Learning
 - Компании: Хабр, Wunder Fund, Самолет, предлагает
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Keras
 
 - https://habr.com/ru/companies/wunderfund/articles/316826/
 - Отрасли: BI, Big Data
 - Компании: Хабр, Wunder Fund
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: bokeh, dropbox, gists, github, IPython, Jupyter Notebook, matplotlib, mpld3, nbviewer, plot.ly, sklearn, theano
 
 - https://habr.com/ru/companies/wunderfund/articles/317930/
 - Отрасли: Computer Vision, Machine Learning
 - Компании: Хабр, Wunder Fund
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: DeepMask, Facebook, Facebook AI Research, FAIR, ImageNet, MultiPathNet, Nvidia, SharpMask
 
 - https://habr.com/ru/companies/wunderfund/articles/318454/
 - Отрасли: NLP, Natural Language Processing
