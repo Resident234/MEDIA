@@ -70356,151 +70356,151 @@
 - Отрасли: предлагает
 - Компании: Хабр, Нетология, Далее, предлагает
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Eggheads Solutions, Habr, АСУ, ФГАНУ ЦИТиС
 
 - https://habr.com/ru/company/nix/blog/281004/
 - Отрасли: не найдено
 - Компании: Хабр
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: ActiveRecord, CodeIgniter, Habr, Laravel, NIX, NIX_Solutions
 
 - https://habr.com/ru/company/nix/blog/305708/
 - Отрасли: Веб-разработка, Enterprise, хостинг
 - Компании: Хабр
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT, онлайн-бизнес
+- Кандидаты компаний: Composer, Docker, Github, HAProxy, International PHP Conference, Mariitim ProArte, Nginx, NIX_Solutions, Node.js, phar.io, phpab, phpbu, phpcpd, phpdox, phploc, phpunit, Redis, SSL Labs, Symfony
 
 - https://habr.com/ru/company/nix/blog/314920/
 - Отрасли: Веб-разработка
 - Компании: Хабр, Space
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Fabrika.space, Facebook, Git, Meetup, NIX, NIX_Solutions, Symfony2, ThinkPHP, Twitter, YouTube, ВКонтакте
 
 - https://habr.com/ru/company/nix/blog/329718/
 - Отрасли: Веб-разработка, предлагает
 - Компании: Хабр, предлагает, Первая Форма
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Apache, Cinnamon, CodeIgniter, FuelPHP, GitHub, Habr, Intel, kenjis, Linux Kernel, Linux Mint, Lumen, NIX, NIX_Solutions, PHP Framework Benchmark, PHPixie, Silex, Slim, ubuntu, Yii, Zend Framework (ZF2, ZF3, zf-2.5, zf-3.0, zendframework/zend-expressive (ze-1.0))
 
 - https://habr.com/ru/company/nix/blog/354210/
 - Отрасли: Веб-разработка
 - Компании: Хабр
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: AWS, Facebook, Meetup, NIX, NIX_Solutions, Twitter, YouTube
 
 - https://habr.com/ru/company/nixys/blog/576116/
 - Отрасли: CRM, Оптимизация
 - Компании: Хабр, Nixys, 1С, Битрикс24, Далее
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: 1С-Битрикс, BitrixVM, Битрикс
 
 - https://habr.com/ru/company/npoechelon/blog/319218/
 - Отрасли: Информационная безопасность
 - Компании: Хабр
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Apache OpenOffice, AppChecker, BIM Server, Oracle MySQL Server, phabricator, Эшелон
 
 - https://habr.com/ru/company/npoechelon/blog/320398/
 - Отрасли: Информационная безопасность, медиа
 - Компании: Хабр, Далее
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: AppChecker, Chamilo LMS, getID3, google sageTV, OpenCart, OpenEMR, PHPExcel, wordpress, Эшелон
 
 - https://habr.com/ru/company/oleg-bunin/blog/309326/
 - Отрасли: Веб-разработка
 - Компании: Хабр, Конференции Олега Бунина (Онтико), Далее
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: MySQL, Sphinx, Онтико
 
 - https://habr.com/ru/company/oleg-bunin/blog/309328/
 - Отрасли: Веб-разработка, Оптимизация
 - Компании: Хабр, Конференции Олега Бунина (Онтико), Далее
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Maria, MySQL, PostgreSQL, Онтико, РИТ++, Станигост
 
 - https://habr.com/ru/company/oleg-bunin/blog/358558/
 - Отрасли: Веб-разработка, предлагает
 - Компании: Хабр, Конференции Олега Бунина (Онтико), 1С, предлагает, Додо, 2ГИС, PVS-Studio
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: 1С-Битрикс, Altinity, Amazon Lambda, Avito, Badoo, Cassandra, ClickHouse, CockroachDB, Couchbase, DataArt, DataEgret, Elastic, Exnodes Inc., IPIP.net, JetBrains, Lamoda, LifeStreet, MongoDB, MZ, nginx, Oracle, PostgreSQL.support, Qrator Labs, Reindexer, Sphinx, Superjob, Tarantool, tarantool.org, Xeteq, Одноклассники, Онтико, Рестрим
 
 - https://habr.com/ru/company/oleg-bunin/blog/414881/
 - Отрасли: Веб-разработка, аналитики
 - Компании: VK, Хабр, Конференции Олега Бунина (Онтико)
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Социальные сети
+- Кандидаты компаний: Badoo, ClickHouse, Grafana, KittenPHP, ВКонтакте, Онтико
 
 - https://habr.com/ru/company/oleg-bunin/blog/444508/
 - Отрасли: Оптимизация, Веб-разработка
 - Компании: Хабр, Конференции Олега Бунина (Онтико), Авито
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Badoo, Etsy, OLX, Vebia, Wordpress, Zend Technologies, Онтико
 
 - https://habr.com/ru/company/oleg-bunin/blog/445512/
 - Отрасли: Оптимизация, Веб-разработка
 - Компании: Хабр, Конференции Олега Бунина (Онтико), Далее
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: DynAsm, HHVM, LLVM, LuaJIT-2, OPcache, WordPress, Zend Technologies, Онтико
 
 - https://habr.com/ru/company/oleg-bunin/blog/449916/
 - Отрасли: Веб-разработка, предлагает
 - Компании: Хабр, Конференции Олега Бунина (Онтико), серверы, предлагает
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Badoo, MDK, Онтико
 
 - https://habr.com/ru/company/oleg-bunin/blog/450812/
 - Отрасли: Веб-разработка
 - Компании: Хабр, Конференции Олега Бунина (Онтико), Далее
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Drupal, eZ Platform, Kart, Laravel, League\Event, Phly Event Dispatcher, PHP-FIG, Slim, Symfony, Tukio, TYPO3, Yii, Zend, Zend Framework, Онтико
 
 - https://habr.com/ru/company/oleg-bunin/blog/451594/
 - Отрасли: Дизайн и юзабилити
 - Компании: Хабр, Конференции Олега Бунина (Онтико), VK
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Facebook, FB, PhpStorm, RoadRunner, Telegram, Twitter, Онтико
 
 - https://habr.com/ru/company/oleg-bunin/blog/454028/
 - Отрасли: Веб-разработка, Machine Learning, Информационная безопасность, Enterprise
 - Компании: Хабр, Конференции Олега Бунина (Онтико), Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT
+- Кандидаты компаний: Alpari, Go! AOP, PHPStorm, Zend Technologies, Онтико
 
 - https://habr.com/ru/company/oleg-bunin/blog/461827/
 - Отрасли: Веб-разработка
 - Компании: Хабр, Конференции Олега Бунина (Онтико), серверы
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Facebook, HHVM, kPHP, PeachPie, RoadRunner, SpiralScout LLC, Symfony, ВК, Онтико
 
 - https://habr.com/ru/company/oleg-bunin/blog/478618/
 - Отрасли: Веб-разработка, Игры и развлечения, предлагает, Информационная безопасность
 - Компании: Хабр, Конференции Олега Бунина (Онтико), Далее, предлагает
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: doctrine/instantiator, Go! AOP, Twitter, Альпари, Онтико
 
 - https://habr.com/ru/company/oleg-bunin/blog/481092/
 - Отрасли: виртуальные, Оптимизация
 - Компании: Хабр, Конференции Олега Бунина (Онтико)
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Intel, WordPress, Zend, Онтико
 
 - https://habr.com/ru/company/oleg-bunin/blog/486844/
 - Отрасли: виртуальные, процессинг
 - Компании: Хабр, Конференции Олега Бунина (Онтико), Галактика
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: маркетинг, поддержка, продажи
+- Кандидаты компаний: Amazon Web Services, Facebook, Facebook Messenger, GitHub, ManyChat, ProductHunt, Telegram, Онтико
 
 - https://habr.com/ru/company/oleg-bunin/blog/487258/
 - Отрасли: Веб-разработка
 - Компании: Хабр, Конференции Олега Бунина (Онтико)
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: AMPHP, Onliner, ReactPHP, Онтико
 
 - https://habr.com/ru/company/oleg-bunin/blog/487260/
 - Отрасли: Веб-разработка
 - Компании: Хабр, Конференции Олега Бунина (Онтико)
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Docker, Exakat, Git, Intel, KPHP, NoVerify, Phan, PHPStan, PhpStorm, Psalm, SVN, ВКонтакте, Онтико
 
 - https://habr.com/ru/company/oleg-bunin/blog/505170/
 - Отрасли: Веб-разработка
