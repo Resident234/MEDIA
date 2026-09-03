@@ -49356,85 +49356,85 @@
 - Отрасли: не найдено
 - Компании: Хабр, SimbirSoft, Далее
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Angular, axios, JQuery, React.js, Vue.js
 
 - https://habr.com/ru/companies/simbirsoft/articles/558542/
 - Отрасли: не найдено
 - Компании: Хабр, SimbirSoft
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: дизайн мобильных приложений, разработка мобильных приложений
+- Кандидаты компаний: Android, AndroidX, mobileSimbirSoft
 
 - https://habr.com/ru/companies/simbirsoft/articles/561866/
 - Отрасли: Data science, OCR
 - Компании: Хабр, SimbirSoft, Далее, IDX, Цифра
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: автомобильная промышленность, компьютерное зрение, контроль доступа, машинное обучение, обработка изображений, отслеживание автомобилей, распознавание изображений, розыск автомобилей, фиксация нарушений
+- Кандидаты компаний: Catalyst, GitHub, Habr, Nomeroff Net, OpenCV.js, PyTorch, PyTorch Image Models, timm
 
 - https://habr.com/ru/companies/simbirsoft/articles/565396/
 - Отрасли: Machine Learning, Data science
 - Компании: Хабр, SimbirSoft, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: искусственный интеллект, машинное обучение
+- Кандидаты компаний: Play Market
 
 - https://habr.com/ru/companies/simbirsoft/articles/566862/
 - Отрасли: Мобильные технологии
 - Компании: Хабр, SimbirSoft, RDP
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT, автоматизация тестирования, тестирование IT-систем, энтерпрайз
+- Кандидаты компаний: Appium Desktop, AutoHotkey, comtypes, CPython, CUDA, Github, Habr, Inspect, Lackey, MS UIA, OpenCV, pyautogui, Python, pywinauto, RobotJS, SikuliX, UIA, Win32 API, Windows SDK
 
 - https://habr.com/ru/companies/simbirsoft/articles/570514/
 - Отрасли: предлагает
 - Компании: Хабр, SimbirSoft, предлагает
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: разработка мобильных приложений
+- Кандидаты компаний: Android Studio, Dart, Flutter, Flutter Apprentice, Flutter UI Widgets, HackerNews, IntelliJ, Pub, The Morning App, Visual Studio Code
 
 - https://habr.com/ru/companies/simbirsoft/articles/571554/
 - Отрасли: Дизайн и юзабилити, масштабируемость
 - Компании: Хабр, SimbirSoft, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT, обработка данных, хранение данных
+- Кандидаты компаний: Habr, TensorFlow
 
 - https://habr.com/ru/companies/simbirsoft/articles/572540/
 - Отрасли: не найдено
 - Компании: Хабр, SimbirSoft
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT
+- Кандидаты компаний: Habr, InnoDB, Laravel, MySQL
 
 - https://habr.com/ru/companies/simbirsoft/articles/573848/
 - Отрасли: Мобильные технологии
 - Компании: Хабр, SimbirSoft
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Проектирование и рефакторинг, Разработка мобильных приложений
+- Кандидаты компаний: Cubit, Flutter, flutter_bloc, Hive, path_provider
 
 - https://habr.com/ru/companies/simbirsoft/articles/582316/
 - Отрасли: Оптимизация
 - Компании: Хабр, SimbirSoft
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT
+- Кандидаты компаний: Habr
 
 - https://habr.com/ru/companies/simbirsoft/articles/584888/
 - Отрасли: ML
 - Компании: Хабр, SimbirSoft, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: логистика, мобильная разработка, ритейл, туризм
+- Кандидаты компаний: Android, BarcodeScanning, CameraX, Flutter, Google, ImageAnalysis, iOS, ML Kit, Scandit
 
 - https://habr.com/ru/companies/simbirsoft/articles/585530/
 - Отрасли: не найдено
 - Компании: Хабр, SimbirSoft, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-системы, Тестирование
+- Кандидаты компаний: Allure Framework, Allure-EE, Confluence, Confluence REST API, Gson, Habr, IntelliJ IDEA, Lombok, RestAssured, RoboPOJOGenerator
 
 - https://habr.com/ru/companies/simbirsoft/articles/590203/
 - Отрасли: Мобильные технологии
 - Компании: Хабр, SimbirSoft
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: разработка мобильных приложений
+- Кандидаты компаний: Android Studio, Dagger, GitHub, Google, Habr, mobileSimbirSoft
 
 - https://habr.com/ru/companies/simbirsoft/articles/592595/
 - Отрасли: не найдено
 - Компании: Хабр, SimbirSoft
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Разработка мобильных приложений, Тестирование IT-систем
+- Кандидаты компаний: Android, Android Studio, Espresso, Habr, Jetpack Compose, JUnit, Kaspresso, kotlinx-coroutines-test, mobileSimbirSoft, Mockk, robolectric, Room, turbine, UI Automator
 
 - https://habr.com/ru/companies/simbirsoft/articles/595673/
 - Отрасли: не найдено
@@ -49445,62 +49445,62 @@
 - https://habr.com/ru/companies/simbirsoft/articles/596233/
 - Отрасли: Веб-разработка, Оптимизация, Мобильные технологии
 - Компании: Хабр, SimbirSoft
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: поисковая оптимизация
+- Кандидаты компаний: Amp validator, amp-carousel, Effector, Google, Next.js, prerender.io, React, react-snap, Styled components, TypeScript
 
 - https://habr.com/ru/companies/simbirsoft/articles/597703/
 - Отрасли: не найдено
 - Компании: Хабр, SimbirSoft, Далее, ОК
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-систем
+- Кандидаты компаний: Aerokube, Allure, Docker, Docker Compose, GitHub, Jenkins, pytest, Python, Selenoid, T, Ubuntu
 
 - https://habr.com/ru/companies/simbirsoft/articles/598407/
 - Отрасли: не найдено
 - Компании: Хабр, SimbirSoft, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT, тестирование веб-сервисов
+- Кандидаты компаний: Firefox, Google Chrome, Microsoft Edge, Safari, Selenium, W3C
 
 - https://habr.com/ru/companies/simbirsoft/articles/646687/
 - Отрасли: Мобильные технологии
 - Компании: Хабр, SimbirSoft
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Разработка мобильных приложений
+- Кандидаты компаний: Apple
 
 - https://habr.com/ru/companies/simbirsoft/articles/652321/
 - Отрасли: Веб-разработка
 - Компании: Хабр, SimbirSoft, Далее
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: JavaScript, React
 
 - https://habr.com/ru/companies/simbirsoft/articles/656275/
 - Отрасли: не найдено
 - Компании: Хабр, SimbirSoft
-- Кандидаты отраслей: не найдено
+- Кандидаты отраслей: IT-индустрии, здравоохранения
 - Кандидаты компаний: не найдено
 
 - https://habr.com/ru/companies/simbirsoft/articles/657695/
 - Отрасли: BPM, ERP, аналитики
 - Компании: Хабр, SimbirSoft, Далее
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Camunda
 
 - https://habr.com/ru/companies/simbirsoft/articles/657697/
 - Отрасли: ERP, масштабируемость, BPM, предлагает
 - Компании: Хабр, SimbirSoft, Далее, предлагает
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: банковская сфера, ритейл
+- Кандидаты компаний: Camunda, Spring Boot
 
 - https://habr.com/ru/companies/simbirsoft/articles/659841/
 - Отрасли: не найдено
 - Компании: Хабр, SimbirSoft, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Программирование, Разработка программного обеспечения
+- Кандидаты компаний: Microsoft
 
 - https://habr.com/ru/companies/simbirsoft/articles/659847/
 - Отрасли: Информационная безопасность, Веб-разработка
 - Компании: Хабр, SimbirSoft, OWASP, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Банковский сектор
+- Кандидаты компаний: cybercrime magazine, legaljobs
 
 - https://habr.com/ru/companies/simbirsoft/articles/661185/
 - Отрасли: масштабируемость
