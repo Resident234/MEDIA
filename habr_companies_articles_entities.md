@@ -19505,152 +19505,152 @@
 - https://habr.com/ru/companies/itglobalcom/articles/737498/
 - Отрасли: аналитики, кибербезопасности
 - Компании: Хабр, ITGLOBAL.COM
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT‑отрасли, администрирование баз данных, администрирование информационных систем, анализ данных, астрономия, военная криптология, инженерия, компьютерные науки, космическая отрасль, криптография, сетевые технологии, телеграф, телефон
+- Кандидаты компаний: Boston Telephone Dispatch, Chesapeake & Potomac Telephone, ENIAC, Flickr, Harvard Mark I, Harvard‑Smithsonian Center for Astrophysics, NASA, National Museum of American History, ВМС США, Кинопоиск
 
 - https://habr.com/ru/companies/itglobalcom/articles/738088/
 - Отрасли: предлагает
 - Компании: Хабр, ITGLOBAL.COM, предлагает
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT, домашняя безопасность, поисковые системы
+- Кандидаты компаний: Amazon, Amazon Photos, Apple, Apple Photos, Apple Watch, Bing, ChatGPT, Google, Google Photos, Gorilla Tape, HP, iPhone, Microsoft, Microsoft OneDrive, Nest, NY Times, OpenAI
 
 - https://habr.com/ru/companies/itglobalcom/articles/738642/
 - Отрасли: Мобильные технологии, Поисковые технологии
 - Компании: FUJITSU, Хабр, ITGLOBAL.COM
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: автомобильные гаджеты, гаджеты, компьютеры, корпоративный ИТ, нетбуки, Ноутбуки, серверное железо
+- Кандидаты компаний: Apple, FSC, FSC B2131, Fujitsu MHK, Fujitsu-Siemens, Fujitsu-Siemens Computers, GPD Win, Intel, Lenovo, MacBook Air, Microsoft, Microsoft Surface, PlayStation 1, Siemens AG, Steam Deck, Telegram, Trident, USB-FDD, Windows 95, Windows 98 SE, Windows XP
 
 - https://habr.com/ru/companies/itglobalcom/articles/738782/
 - Отрасли: Медицина и здоровье, Программное обеспечение, предлагает, Некоммерческие организации
 - Компании: Хабр, ITGLOBAL.COM, Далее, предлагает, Space
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT, видеоигры, военные дроны, искусственный интеллект, микросхем
+- Кандидаты компаний: Arm, ArtStation, Baykar Technologies, Beam Therapeutics, Broad Institute, DALL-E, DALL-E 2, DJI, Google, Imagen, Intel, Meta, Midjourney, MIT, OpenAI, Photoshop, Prime Medicine, RISC-V International, SemiFive, Shahed Aviation Industries, SiFive, Stability AI, Stable Diffusion, Verve Therapeutics, Китайская альянс индустрии RISC-V
 
 - https://habr.com/ru/companies/itglobalcom/articles/739656/
 - Отрасли: DIY, embedded, Аппаратное обеспечение, IoT, Мобильные технологии
 - Компании: Хабр, ITGLOBAL.COM, DSP, Звук, Авито, RDP
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Гаджеты, игровая приставка, одноплатные компьютеры, ТВ-стики, тонкий клиент
+- Кандидаты компаний: Banana Pi, DEXP, Gameloft, Hynix, NoName, Orange Pi, Raspberry Pi, Rockchip
 
 - https://habr.com/ru/companies/itglobalcom/articles/739810/
 - Отрасли: NLP, Дизайн и юзабилити, Программное обеспечение
 - Компании: Хабр, ITGLOBAL.COM
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: взаимодействие человека и компьютера, информационные технологии, искусственный интеллект, компьютерные науки, обработка естественного языка
+- Кандидаты компаний: ACM, Apple, DEC, Google, SIGCHI, Институт дизайна Хассо Платтнера, Массачусетский технологический институт, Стэнфордского университета, Центр демократии, развития и верховенства закона
 
 - https://habr.com/ru/companies/itglobalcom/articles/740182/
 - Отрасли: Веб-разработка, хостинг, предлагает
 - Компании: Хабр, ITGLOBAL.COM, предлагает
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: No-code, SEO, Веб-дизайн, Искусственный интеллект, Машинное обучение
+- Кандидаты компаний: ChatGPT, Dall-E, Discord, Durable, EditorX, Facebook, Fiverr, Google, Jimdo, Midjourney, Mixo, Stable Diffusion, Upwork, Webflow, Wix, Wordpress, YouTube, Твиттер
 
 - https://habr.com/ru/companies/itglobalcom/articles/741006/
 - Отрасли: образование
 - Компании: Хабр, ITGLOBAL.COM
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Интерактивные вычисления, Искусственный интеллект, Компьютерные науки, Машинное обучение, Многопользовательские операционные системы, Облачные вычисления, Системы технического зрения
+- Кандидаты компаний: IBM, SRI INTERNATIONAL, Дартмутский колледж, Калифорнийский технологический институт, Массачусетский технологический институт, Принстонский университет, Стэнфордская лаборатория искусственного интеллекта (SAIL), Стэнфордский университет, Фонд Рокфеллера
 
 - https://habr.com/ru/companies/itglobalcom/articles/741018/
 - Отрасли: виртуальные
 - Компании: Хабр, ITGLOBAL.COM, ОК
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: астрофизика, информационные технологии, кино, суперкомпьютеры
+- Кандидаты компаний: Habr, Intel, Oak Ridge National Laboratory, Princeton University Press, Кинопоиск
 
 - https://habr.com/ru/companies/itglobalcom/articles/741538/
 - Отрасли: образование, СМИ
 - Компании: Хабр, ITGLOBAL.COM
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Toronto Star, Гарвард, Гарвардский университет, Калифорнийский университет в Беркли, Мичиганский университет, Центральное разведывательное управление США (ЦРУ)
 
 - https://habr.com/ru/companies/itglobalcom/articles/741794/
 - Отрасли: не найдено
 - Компании: Хабр, ITGLOBAL.COM, Samsung
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: игровая индустрия, интернет‑планшеты, мобильный рынок, нетбуки, рынок мобильных телефонов, рынок портативных ПК, рынок смартфонов, серверный рынок
+- Кандидаты компаний: Apple, Booklet 3G, Dillo, Firefox, Gentoo, GMA500, Intel, Intel Atom, Intel Atom Z530, Nokia, PowerVR, Sony Ericsson, Ubuntu, Windows, Windows XP, xubuntu
 
 - https://habr.com/ru/companies/itglobalcom/articles/741962/
 - Отрасли: энергетики
 - Компании: AMD, Хабр, ITGLOBAL.COM
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: HPC, IT-компании, Искусственный интеллект, Компьютерное железо, Суперкомпьютеры
+- Кандидаты компаний: Advanced Micro Devices, CDNA 2, CDNA 3, El Capitan, Fairmont, Falcon-40B, GPU H100, GPU Hopper, Grace CPU, Grace Hopper, Instinct MI250X, Instinct MI300A, Instinct MI300X, Nvidia, Open Compute Platform
 
 - https://habr.com/ru/companies/itglobalcom/articles/742118/
 - Отрасли: не найдено
 - Компании: Хабр, ITGLOBAL.COM, Samsung
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Высоконагруженные системы, Производство и разработка электроники, процессоры
+- Кандидаты компаний: 18A, 20A, Arrow Lake, FinFET, IEEE, Intel, Intel 4, PowerVia, RibbonFET, TSMC
 
 - https://habr.com/ru/companies/itglobalcom/articles/742126/
 - Отрасли: не найдено
 - Компании: Хабр, ITGLOBAL.COM
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: авиационная электроника, авиация, интерактивные игры, компьютерная анимация, компьютерная графика, персональные компьютеры, радиолокация, ракетостроение
+- Кандидаты компаний: Adobe, ARPA, Atari, Bendix, CT5, CT6, E&S Picture System, Evans & Sutherland, Evans and Sutherland, Harvard, IEEE, IEEE Utah Section, LDS-1, LDS-2, Massachusetts Institute of Technology, Netscape, Pentagon, Pixar, Silicon Graphics, Sketchpad, University of California, Berkeley, University of Utah
 
 - https://habr.com/ru/companies/itglobalcom/articles/742514/
 - Отрасли: образование
 - Компании: Хабр, ITGLOBAL.COM, Далее, Звук
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Игровая индустрия, Игры и игровые консоли, Искусственный интеллект
+- Кандидаты компаний: Ex Machina, Nival, Аллоды 1, Аллоды 2, Аллоды 3, Аллоды 3D, Блицкриг, Бука, Герои Меча и Магии V, Демиурги, Ночной дозор, Операция Silent Storm, Страна игр
 
 - https://habr.com/ru/companies/itglobalcom/articles/742760/
 - Отрасли: Программное обеспечение, промышленные, Игры и развлечения
 - Компании: Хабр, ITGLOBAL.COM
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: гейминдустрия, Игры и игровые консоли
+- Кандидаты компаний: Doom, id Software, Playstation 1, Quake, Quake II, Wolfenstein 3D
 
 - https://habr.com/ru/companies/itglobalcom/articles/743248/
 - Отрасли: не найдено
 - Компании: Хабр, ITGLOBAL.COM, серверы
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: DNA‑накопители, дата‑центры, жёсткие диски, магнитные ленты, хранение данных
+- Кандидаты компаний: BBC, Catalog, Catalog Technologies, GenomTech, HelixWorks, Seagate, Zanauku.mipt, Агентство национальной безопасности США, Московского физико‑технического института (МФТИ)
 
 - https://habr.com/ru/companies/itglobalcom/articles/743570/
 - Отрасли: Мобильные технологии, медиа
 - Компании: Хабр, ITGLOBAL.COM, DELL, Samsung
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Гаджеты, Игры, Ноутбуки, Портативные компьютеры, Смартфоны
+- Кандидаты компаний: Android, Axim, BlackBerry, HP, hpc.ru, HTC, Intel, iPaq hx2490, iPaq rx3715, iPhone, Palm, RoverPC, SCH, Symbian, WinCE, Windows CE, Windows Mobile
 
 - https://habr.com/ru/companies/itglobalcom/articles/743780/
 - Отрасли: образование
 - Компании: Хабр, ITGLOBAL.COM
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: геометрическая оптика, геометрия, инженерные войска, математика, наука
+- Кандидаты компаний: Telegram, Панара
 
 - https://habr.com/ru/companies/itglobalcom/articles/743846/
 - Отрасли: не найдено
 - Компании: Хабр, ITGLOBAL.COM
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT, искусственный интеллект
+- Кандидаты компаний: GPT-4, IEEE Spectrum, Microsoft Research, OpenAI, RobustAI, Исследовательский институт распределенного искусственного интеллекта, Лига алгоритмической справедливости, Массачусетский технологический институт, Монреальский университет, Оксфордский университет, Университет Вашингтона
 
 - https://habr.com/ru/companies/itglobalcom/articles/744512/
 - Отрасли: финансы
 - Компании: Хабр, ITGLOBAL.COM, Цифра
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: венчурный капитал, вертикальное земледелие, индустрия вертикальных ферм, производство продуктов питания, сельское хозяйство
+- Кандидаты компаний: AeroFarms, Amazon, AppHarvest, Crop One Holdings, FarmedHere, GoodLeaf, IKEA, Kalera, Microsoft, Nokia, Oasis Biotech, Spread, Tesla
 
 - https://habr.com/ru/companies/itglobalcom/articles/745482/
 - Отрасли: предлагает
 - Компании: Хабр, ITGLOBAL.COM, AMD, Звук, предлагает
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Игровые консоли, Игры, Операционные системы, Портативные игровые консоли
+- Кандидаты компаний: ArsTechnica, Asus, ChimeraOS, Deck Wizard, Discord, Fedora, GitHub, HoloISO, Manjaro Linux, Nintendo, Nobara Linux, Phoronix Test Suite, Reddit, ROG Ally, Steam, Steam Deck, Ubuntu, Valve Proton, Xbox Game Pass
 
 - https://habr.com/ru/companies/itglobalcom/articles/745536/
 - Отрасли: не найдено
 - Компании: Хабр, ITGLOBAL.COM, AMD
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: автоконцерн, автомобильные бренды, Гаджеты, Ноутбуки
+- Кандидаты компаний: Acer, Asus, ATI, CPU Queen, Ferrari, Intel, iRu, LADA, Lamborghini, Nokia, NVidia, Scuderia Ferrari, VIA, ZverCD
 
 - https://habr.com/ru/companies/itglobalcom/articles/745732/
 - Отрасли: IoT
 - Компании: Хабр, ITGLOBAL.COM
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: искусственный интеллект, облачные вычисления, оптические коммуникации, сетевые технологии, телекоммуникационные системы
+- Кандидаты компаний: NICT, Sumitomo Electric, Sumitomo Electric Industries, Университет Маккуори, Университет Рочестера, Университет Штутгарта
 
 - https://habr.com/ru/companies/itglobalcom/articles/746018/
 - Отрасли: не найдено
 - Компании: Хабр, ITGLOBAL.COM
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT, вычислительная техника, искусственный интеллект, оборона, электроника, электротехника
+- Кандидаты компаний: IBM, IBM 701, IBM 706, IBM 711, IBM 716, MIT, Motorola, Motorola MC6800, Научная лаборатория Уотсона
 
 - https://habr.com/ru/companies/itglobalcom/articles/746236/
 - Отрасли: не найдено
