@@ -70806,151 +70806,151 @@
 - Отрасли: e-commerce, PKI
 - Компании: Хабр, РСХБ.Цифра (Россельхозбанк), Далее
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Magento, RabbitMQ, Россельхозбанк, РСХБ.Цифра
 
 - https://habr.com/ru/company/rshb/blog/561442/
 - Отрасли: e-commerce, провайдер
 - Компании: Хабр, РСХБ.Цифра (Россельхозбанк), провайдер, Далее
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Magento, Magento Framework, Magento_Ui, RSHB, WhiteRabbit, Россельхозбанк, РСХБ.Цифра
 
 - https://habr.com/ru/company/ruvds/blog/339176/
 - Отрасли: Веб-разработка
 - Компании: Хабр, RUVDS.com
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Babeljs.io, Reddit, Stack Owerflow
 
 - https://habr.com/ru/company/ruvds/blog/340194/
 - Отрасли: Веб-разработка, предлагает
 - Компании: Хабр, RUVDS.com, предлагает
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Amazon, Google, Reddit, StackOverflow
 
 - https://habr.com/ru/company/ruvds/blog/438412/
 - Отрасли: предлагает
 - Компании: Хабр, RUVDS.com, предлагает
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-индустрия
+- Кандидаты компаний: Devskiller
 
 - https://habr.com/ru/company/ruvds/blog/495892/
 - Отрасли: Веб-разработка
 - Компании: Хабр, RUVDS.com
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-индустрия
+- Кандидаты компаний: Laravel
 
 - https://habr.com/ru/company/ruvds/blog/512644/
 - Отрасли: ML, медицина
 - Компании: Хабр, RUVDS.com
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-инфраструктура
+- Кандидаты компаний: Badoo, Facebook, Telegram, X, youtube, ВК, ВКонтакте, Инстаграм
 
 - https://habr.com/ru/company/ruvds/blog/514214/
 - Отрасли: образование, медицина, ML, Machine Learning, Дизайн и юзабилити, Программное обеспечение, digital, консалтинг
 - Компании: Хабр, RUVDS.com, Яндекс
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-индустрии, игры, туристическая сфера
+- Кандидаты компаний: Badoo, Bumble, СГУ
 
 - https://habr.com/ru/company/ruvds/blog/519652/
 - Отрасли: Веб-разработка, Программное обеспечение, Дизайн и юзабилити
 - Компании: Хабр, RUVDS.com
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: GitHub, medium.com
 
 - https://habr.com/ru/company/ruvds/blog/539098/
 - Отрасли: Веб-разработка, предлагает
 - Компании: Хабр, RUVDS.com, предлагает
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: B2B-решений, гостиничном бизнесе, электронной коммерции
+- Кандидаты компаний: 10 Fast Fingers, CakePHP, Coconala, CodeIgniter, Front Desk, FuelPHP, Laravel, Phalcon, Printivo, Slim, Symfony, Visit NC, Yii, Zend Framework
 
 - https://habr.com/ru/company/ruvds/blog/554868/
 - Отрасли: Программное обеспечение, IoT
 - Компании: Хабр, RUVDS.com, ОК, Далее
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Alcatel, Armbian, Baton.ru, Gammu, Orange Pi, RPi
 
 - https://habr.com/ru/company/ruvds/blog/555422/
 - Отрасли: не найдено
 - Компании: Хабр, RUVDS.com, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-инфраструктура
+- Кандидаты компаний: Gammu, MySQL
 
 - https://habr.com/ru/company/sberbank/blog/329524/
 - Отрасли: не найдено
 - Компании: Хабр, Сбер
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: ИТ, финансовая отрасль
+- Кандидаты компаний: Google, Google X
 
 - https://habr.com/ru/company/SECL_GROUP/blog/313104/
 - Отрасли: Веб-разработка, Программное обеспечение, Оптимизация
 - Компании: Хабр, VK
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT, высоконагруженные системы
+- Кандидаты компаний: digitov.com, Facebook, GitHub, PEAR, PHPStorm, SECL, SECL Group, SIG, Software Improvement Group, Symfony2, Twitter
 
 - https://habr.com/ru/company/selectel/blog/562040/
 - Отрасли: не найдено
 - Компании: Хабр, Selectel
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: гаджеты, дизайн, настольные компьютеры
+- Кандидаты компаний: Amazon, Cherry MX, Habr, Kinesis, Kinesis Advantage2, Kinesis Freestyle Edge RGB Split, Logitech, Logitech Ergo K860, Matias, Matias Ergo Pro, Microsoft, Microsoft Sculpt, Microsoft Surface
 
 - https://habr.com/ru/company/simbirsoft/blog/481796/
 - Отрасли: Веб-разработка
 - Компании: Хабр, SimbirSoft
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Cartalyst, ENTRUST, GitHub, Habr, Joseph Silber, Kodeine, Laravel, Mateus Junges, Santigarcor, Sentinel, Spatie, Zizaco
 
 - https://habr.com/ru/company/simpleweek/blog/316210/
 - Отрасли: не найдено
 - Компании: Хабр, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT
+- Кандидаты компаний: codecov.io, coveralls.io, Github, phpcov, phpspec, PHPUnit, SimpleWeek, Symfony, Travis-CI
 
 - https://habr.com/ru/company/skillbox/
 - Отрасли: Веб-разработка, Data science
 - Компании: Skillbox, Хабр, CDEK, МТС, Альфа-Банка
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: образовательная платформа
+- Кандидаты компаний: Apple Vision Pro, flocktory.com, Forkway, Microsoft Visual Studio Code, SymbioWay, VS Code, Академика, Московский физико-технический институт, Новосибирский государственный университет, СТС, Томский политех, Хабр.Карьера
 
 - https://habr.com/ru/company/skillbox/blog/412823/
 - Отрасли: Рекрутинг и HR
 - Компании: Хабр, Skillbox
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-индустрия
+- Кандидаты компаний: habr.com, Mail.Ru Group, Retail Rocket
 
 - https://habr.com/ru/company/skillbox/blog/417071/
 - Отрасли: аналитики
 - Компании: Skillbox, Хабр
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-индустрия
+- Кандидаты компаний: Facebook, Instagram, Telegram, ВКонтакте
 
 - https://habr.com/ru/company/skillbox/blog/421533/
 - Отрасли: онлайн-курсы
 - Компании: Хабр, Skillbox
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT
+- Кандидаты компаний: Apache Foundation, Apple, Twitter
 
 - https://habr.com/ru/company/skillbox/blog/429720/
 - Отрасли: Программное обеспечение, онлайн-курсы, образование, Веб-разработка
 - Компании: Хабр, Skillbox
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-индустрия
+- Кандидаты компаний: CodeWars, GitHub, ReSharper, Sourcegraph
 
 - https://habr.com/ru/company/skillbox/blog/435618/
 - Отрасли: финтех, Рекрутинг и HR
 - Компании: Хабр, Skillbox
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Google, LeetCode, Udemy, YouTube, YT
 
 - https://habr.com/ru/company/skillbox/blog/435778/
 - Отрасли: не найдено
 - Компании: Хабр, Skillbox
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Geeksforgeeks, Google, HackerRank, Kattis, LeetCode, YouTube
 
 - https://habr.com/ru/company/skillbox/blog/437960/
 - Отрасли: IoT
 - Компании: Хабр, Skillbox, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-индустрия
+- Кандидаты компаний: Alexa, Amazon, GitHub, LinkedIn, Xmarks
 
 - https://habr.com/ru/company/skillfactory/blog/536836/
 - Отрасли: не найдено
