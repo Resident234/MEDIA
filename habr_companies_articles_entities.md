@@ -61055,152 +61055,152 @@
 - https://habr.com/ru/companies/vasexperts/articles/574098/
 - Отрасли: IoT, торговые
 - Компании: Хабр, VAS Experts
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-стандарты, беспроводные технологии, ритейл, системы связи
+- Кандидаты компаний: GitHub, Google, IEEE, NYU Wireless, Wi-Fi Alliance, Вашингтонский университет, Институт инженеров электротехники и электроники, Университет науки и технологии
 
 - https://habr.com/ru/companies/vasexperts/articles/575104/
 - Отрасли: провайдер, IoT
 - Компании: Хабр, VAS Experts, провайдер
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IoT-системы, Machine-to-machine, Open source, Интернет вещей, Криптография, Сетевые технологии, Системы связи
+- Кандидаты компаний: Cure53, Dovecot, ExpressVPN, GitHub, Hacker News, IKEv2, Lightway, Linksys, Netgear, NIST, NTPsec, OpenVPN, PPTP, SSTP, WireGuard, wolfSSL
 
 - https://habr.com/ru/companies/vasexperts/articles/575422/
 - Отрасли: не найдено
 - Компании: Хабр, VAS Experts
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-инфраструктура, IT-стандарты, ИТ-индустрия, облачные провайдеры, Сетевые технологии, Системы связи, соцсети, телекомы
+- Кандидаты компаний: APNIC, Google, IETF, Uber, W3Techs, YouTube, Брауновский университет, Вустерский политехнический институт, интернет-регистратор APNIC, университеты Каталонии, Лювена и Турина
 
 - https://habr.com/ru/companies/vasexperts/articles/578778/
 - Отрасли: Программное обеспечение, Оптимизация
 - Компании: Хабр, VAS Experts, Далее, AMD
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: ИТ
+- Кандидаты компаний: Clang, gcc, Google, Hacker News, Linux, Linux kernel, LKML, LLVM, Paragon Software
 
 - https://habr.com/ru/companies/vasexperts/articles/579250/
 - Отрасли: IoT
 - Компании: Хабр, VAS Experts
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT, квантовые компьютеры, квантовый интернет, сетевое кодирование, сетевое оборудование, сетевые технологии, системы дополненной и виртуальной реальности, системы связи
+- Кандидаты компаний: Google, MIT, Бостонский университет, Массачусетский технический институт, Университет Мейнут
 
 - https://habr.com/ru/companies/vasexperts/articles/580432/
 - Отрасли: не найдено
 - Компании: Хабр, VAS Experts, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: дата-центры, ИТ, системы связи
+- Кандидаты компаний: Blackberry, Dat, Hacker News, IETF, Memcached, MIT, QNX, QNX Neutrino, RAMCloud, Redis, Unsplash, xkcd, Калифорнийский университет в Беркли, Массачусетский технологический институт
 
 - https://habr.com/ru/companies/vasexperts/articles/583116/
 - Отрасли: САПР
 - Компании: Хабр, VAS Experts
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: дата-центры, индустрия микросхем, ИТ-стандарты, машинное обучение, потребительский сегмент, системы искусственного интеллекта, системы хранения данных
+- Кандидаты компаний: Fast Ethernet, GDDR6X, PCI SIG, Reddit
 
 - https://habr.com/ru/companies/vasexperts/articles/583824/
 - Отрасли: провайдер
 - Компании: Хабр, VAS Experts, провайдер, серверы
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: интернет, интернет-провайдинг, ИТ, сетевые технологии
+- Кандидаты компаний: Facebook, Hacker News, RIPE, SCIONLab, VASExperts, YouTube, Швейцарская высшая техническая школа Цюриха
 
 - https://habr.com/ru/companies/vasexperts/articles/586542/
 - Отрасли: Веб-разработка, Программное обеспечение
 - Компании: Хабр, VAS Experts
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT
+- Кандидаты компаний: 10KB Club, 250KB Club, 512KB Club, ARPAnet, BBS, Commodore 64, Discord, GitHub, gt.gamingmuseum.com Galactic Trader Leaderboard Resource Name (тематический ресурс не указан явно, исключаем как неясный бренд/организацию - прим. строгого извлекателя сущностей, но оставляем gt.gamingmuseum.com как домен/организацию если это сайт музея - уточняем по контексту: gt.gamingmuseum.com - это домен, но без явного названия организации, исключаем как неясный бренд/организацию - прим. строгого извлекателя сущностей, но оставляем как домен если это часть названия сервиса - уточняем: в тексте упомянут как gt.gamingmuseum.com, что может быть сайтом музея, но без явного названия организации, исключаем),, GTMetrix, Hacker News, Movie Master, MS-DOS, Netscape, syncTERM, Telehack, TheOldNet, VASExperts, Архив Интернета
 
 - https://habr.com/ru/companies/vasexperts/articles/592049/
 - Отрасли: не найдено
 - Компании: Хабр, VAS Experts
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: интернет, системы связи
+- Кандидаты компаний: ACCEL-PPP, Hacker News, HN, VASExperts, Ратгерский университет, Швейцарская высшая техническая школа Цюриха
 
 - https://habr.com/ru/companies/vasexperts/articles/593471/
 - Отрасли: финансы, Информационная безопасность, информационной безопасности, провайдер, Мобильные технологии, Оптимизация
 - Компании: Хабр, VAS Experts, провайдер
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT
+- Кандидаты компаний: IT Security Law 2.0, O-RAN, O-RAN Alliance, ONAP, ONF, Open Network Automation Platform, Open Networking Foundation, Rakuten Mobile, SONIC Labs, UK Telecommunications (Security) Act, VASExperts, Еврокомиссия, Центр компетенций НТИ
 
 - https://habr.com/ru/companies/vasexperts/articles/595369/
 - Отрасли: не найдено
 - Компании: Хабр, VAS Experts, Цифра
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT, системы связи
+- Кандидаты компаний: Alexa, ARIN, eBay, Facebook, GitHub, GitHub Pages, Google, Reddit, RIPE NCC, SoundCloud, Stack Overflow, W3C, WordPress
 
 - https://habr.com/ru/companies/vasexperts/articles/597291/
 - Отрасли: провайдер
 - Компании: Хабр, VAS Experts, провайдер
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: интернет-регистраторы, сети доставки контента
+- Кандидаты компаний: APNIC, Brave, Chrome, CIRA, Edge, Firefox, IETF, OpenWRT, Агентство национальной безопасности США
 
 - https://habr.com/ru/companies/vasexperts/articles/597861/
 - Отрасли: виртуальные
 - Компании: Хабр, VAS Experts, серверы
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: GitHub, Hacker News, Matrix, Minecraft, Pinecone, Yggdrasil
 
 - https://habr.com/ru/companies/vasexperts/articles/598463/
 - Отрасли: провайдер
 - Компании: Хабр, VAS Experts, провайдер
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT, сетевая инфраструктура
+- Кандидаты компаний: Activision Blizzard, Comcast, Eврокомиссия, Facebook, FCC, Netflix, Ofcom, YouTube
 
 - https://habr.com/ru/companies/vasexperts/articles/645709/
 - Отрасли: не найдено
 - Компании: Хабр, VAS Experts
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Серверное администрирование, Системное администрирование
+- Кандидаты компаний: Chef, Google, Hacker News, O'Reilly, RealSelf, Stack Overflow, Yahoo
 
 - https://habr.com/ru/companies/vasexperts/articles/647187/
 - Отрасли: финансы, SaaS
 - Компании: Хабр, VAS Experts, серверы
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT, интернет-инфраструктура
+- Кандидаты компаний: Apache, GitHub, GitLab, Linux, Nginx, npm, Redis Labs
 
 - https://habr.com/ru/companies/vasexperts/articles/648501/
 - Отрасли: предлагает, провайдер
 - Компании: Хабр, VAS Experts, предлагает, провайдер
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: интернет-провайдеры, связь
+- Кандидаты компаний: Disney, EFF, FCC, Hacker News, Kwangmyong, Microsoft, NIIR, The Wall Street Journal
 
 - https://habr.com/ru/companies/vasexperts/articles/651135/
 - Отрасли: не найдено
 - Компании: Хабр, VAS Experts
-- Кандидаты отраслей: не найдено
+- Кандидаты отраслей: агросектор, ЖКХ, ритейл, сфера обеспечения безопасности, телекомы
 - Кандидаты компаний: не найдено
 
 - https://habr.com/ru/companies/vasexperts/articles/651511/
 - Отрасли: не найдено
 - Компании: Хабр, VAS Experts, Цифра
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: ИТ-индустрия, сетевые технологии
+- Кандидаты компаний: AFRINIC, APNIC, ARIN, CG-NAT, DNS-over-HTTPS, IETF, IPv4, IPv6, MIT, NAT, RIPE, RIR, W3C, Административно-бюджетное управление США, Еврокомиссия, Европол
 
 - https://habr.com/ru/companies/vasexperts/articles/653873/
 - Отрасли: не найдено
 - Компании: Хабр, VAS Experts
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: ACCEL-PPP, DNS-over-HTTPS, FCC, Habr, IPv6, IT, NAT, NCTA, The Wall Street Journal
 
 - https://habr.com/ru/companies/vasexperts/articles/656257/
 - Отрасли: Программное обеспечение
 - Компании: Хабр, VAS Experts, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: интернет вещей, интернет-провайдеры
+- Кандидаты компаний: Linux
 
 - https://habr.com/ru/companies/vasexperts/articles/657565/
 - Отрасли: провайдер
 - Компании: Хабр, VAS Experts, провайдер
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: ИТ-инфраструктура, ИТ-стандарты, системы связи
+- Кандидаты компаний: iptables, Linux kernel, tcpdump, Wireshark
 
 - https://habr.com/ru/companies/vasexperts/articles/658715/
 - Отрасли: криптографии, IoT
 - Компании: Хабр, VAS Experts
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: CERN, FASP, Fast Data Transfer, GitHub, Hacker News, IBM, Tachyon
 
 - https://habr.com/ru/companies/vasexperts/articles/661691/
 - Отрасли: предлагает
 - Компании: Хабр, VAS Experts, предлагает
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: сетевые технологии, системы связи
+- Кандидаты компаний: FSQCall, JS8Call, LXMF, Nomad Network, Raspberry Pi Zero, Reticulum, RNode, WSJT-X
 
 - https://habr.com/ru/companies/vasexperts/articles/663858/
 - Отрасли: не найдено
