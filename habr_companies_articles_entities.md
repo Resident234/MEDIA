@@ -37805,50 +37805,50 @@
 - https://habr.com/ru/companies/productivity_inside/articles/703038/
 - Отрасли: не найдено
 - Компании: Хабр, InlyIT, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-индустрия, Учебный процесс в IT
+- Кандидаты компаний: Habr
 
 - https://habr.com/ru/companies/productivity_inside/articles/704072/
 - Отрасли: Оптимизация
 - Компании: Хабр, InlyIT, Далее
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: mongoDB
 
 - https://habr.com/ru/companies/productivity_inside/articles/710870/
 - Отрасли: аналитики
 - Компании: Хабр, InlyIT, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-индустрия
+- Кандидаты компаний: Hacker News, Leet, Reddit
 
 - https://habr.com/ru/companies/productivity_inside/articles/717108/
 - Отрасли: консалтинг
 - Компании: Хабр, InlyIT
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT
+- Кандидаты компаний: Simple Thread
 
 - https://habr.com/ru/companies/productivity_inside/articles/719532/
 - Отрасли: не найдено
 - Компании: Хабр, InlyIT
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Django
 
 - https://habr.com/ru/companies/productivity_inside/articles/721508/
 - Отрасли: не найдено
 - Компании: Хабр, InlyIT, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT, аудиостриминг, гостиничный бизнес
+- Кандидаты компаний: LAME, MPlayer, MPlayer Team, Wireshark
 
 - https://habr.com/ru/companies/productivity_inside/articles/727294/
 - Отрасли: не найдено
 - Компании: Хабр, InlyIT, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT
+- Кандидаты компаний: Apple, Chrome, Chromium, Electron, macOS, Warp
 
 - https://habr.com/ru/companies/productivity_inside/articles/730662/
 - Отрасли: не найдено
 - Компании: Хабр, InlyIT
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: разработка ПО
+- Кандидаты компаний: ChatGPT, OutSystems
 
 - https://habr.com/ru/companies/productivity_inside/articles/731694/
 - Отрасли: Оптимизация
@@ -37859,98 +37859,98 @@
 - https://habr.com/ru/companies/productivity_inside/articles/732148/
 - Отрасли: медиа
 - Компании: Хабр, InlyIT
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT, издательский бизнес, компьютерные журналы, техническая журналистика, технологический рынок
+- Кандидаты компаний: 2600: The Hacker Quarterly, Admin, Boot, Byte, Creative Computing, Future, IDG, Linux Magazine, MacAddict, MacLife, Macworld, Maximum PC, Microsoft, Out of Town News, PC Magazine PC World Macworld и другие издания. Большую часть этого времени я провел в PC World, куда устроился в конце 1994 года – чуть ли не в тот самый момент, когда журнал впервые обозначил своё присутствие в сети. Интернет с самого начала показал себя отличным способом отслеживать новости технической сферы. В конце концов из-за него сама идея публикаций о компьютерах, которые выходят раз в месяц, стала выглядеть довольно-таки нелепой. К тому же интернет дал продавцам возможность обращаться к покупателям напрямую, чем нанес серьезный удар рекламному бизнесу, за счет которого PC World и его крупнейшие конкуренты делали хорошие деньги. Но интернет не сделал печатные компьютерные журналы вчерашним днем в один момент. Несколько самых счастливых и хлебных своих лет PC World пережил как раз в конце 90-х. Даже в 2008 году, когда я ушел из редакции, печатная версия была источником прибыли, а не убыточной черной дырой. Да, компьютерные журналы как категория в самом деле многие годы прожили в режиме Вайл. И. Койота: мы все бодро шагнули в пропасть, но гравитация какое-то время не срабатывала. Вот слайд из презентации для внутреннего потребления, где показана динамика наших продаж в киосках в сравнении с ключевыми уцелевшими конкурентами в период с 1996 по 2004 годы. К тому времени ряд крупных журналов уже потерпел крах: Byte в 1, PC World, Radio Shack, TRS-80, Wall Street Journal
 
 - https://habr.com/ru/companies/productivity_inside/articles/737752/
 - Отрасли: Информационная безопасность, хостинг
 - Компании: Хабр, InlyIT, Далее, серверы
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: SEO и маркетинг, Разработка мобильных приложений
+- Кандидаты компаний: Apple, Converso, Firebase, Google Analytics, Pixabay, Seald, Seald.io, Signal, Telegram, WhatsApp, zekeseo.com
 
 - https://habr.com/ru/companies/productivity_inside/articles/738814/
 - Отрасли: не найдено
 - Компании: Хабр, InlyIT, Самолет, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-индустрия
+- Кандидаты компаний: VectorWatch
 
 - https://habr.com/ru/companies/productivity_inside/articles/740860/
 - Отрасли: не найдено
 - Компании: Хабр, InlyIT, Кошелёк
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Angular, Astronomer, GitHub, Instagram, React.js, The Guild
 
 - https://habr.com/ru/companies/productivity_inside/articles/743472/
 - Отрасли: не найдено
 - Компании: Хабр, InlyIT
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Управление персоналом
+- Кандидаты компаний: FaaS, McKinsey, Yale Center for Emotional Intelligence
 
 - https://habr.com/ru/companies/productivity_inside/articles/745036/
 - Отрасли: не найдено
 - Компании: Хабр, InlyIT
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: B2B, B2C, логистика, развитие бизнеса, свадебная индустрия, стартапы
+- Кандидаты компаний: Adidas, Gmail, Netflix, Nike, Superhuman, TripAdvisor, Twitter
 
 - https://habr.com/ru/companies/productstar/articles/top/
 - Отрасли: аналитики, ML, Data science
 - Компании: ProductStar, Хабр, VK, МТС, Яндекс, Wrike
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: AI, аналитика, дизайн, маркетинг, машинное обучение, облачные хранилища, продакт-менеджмент, работа, разработка, реклама
+- Кандидаты компаний: Codesign, Google, Habit Hero, KarmaHQ, Lamoda, Rocketslides, The Open Platform, Работа.ру
 
 - https://habr.com/ru/companies/psb/articles/top/
 - Отрасли: виртуальные, финтех, энергетики
 - Компании: ПСБ, Хабр, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: банковская деятельность, инновации, искусство, ит, кибернетика, разработка игр, финансовые услуги
+- Кандидаты компаний: Angular, Bytecode Alliance, GTA, Harvest Moon, Oracle, Postgres, React, San Andreas, Stardew Valley, Story of Seasons, The Game Awards, Watts Towers
 
 - https://habr.com/ru/companies/pt/articles/135517/
 - Отрасли: информационной безопасности, Информационная безопасность
 - Компании: Хабр, Positive Technologies
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: веб-приложений
+- Кандидаты компаний: 0daysober, BECHED ahack.ru, BlackFan, Dumbass, eindbazen, FluxFingers, HackerDom, HNG48, India C.o.P, int3pids, IV, leetmore, MachoMan, Nullarea Tunisian Team, Plaid Parliament of Pwning, rdot.org, Shell-storm, Switzerland BIOS, takeshix
 
 - https://habr.com/ru/companies/pt/articles/136677/
 - Отрасли: не найдено
 - Компании: Хабр, Positive Technologies, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: информационные технологии, кибербезопасность, сетевые технологии
+- Кандидаты компаний: Microsoft, Nmap
 
 - https://habr.com/ru/companies/pt/articles/138622/
 - Отрасли: Информационная безопасность, Enterprise, виртуальные, Дизайн и юзабилити
 - Компании: Хабр, Positive Technologies, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: виртуализация
+- Кандидаты компаний: CentOS, Citrix, ISSA, Red Hat, VMWare
 
 - https://habr.com/ru/companies/pt/articles/138779/
 - Отрасли: Информационная безопасность, Дизайн и юзабилити
 - Компании: Хабр, Positive Technologies, OWASP
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: безопасность
+- Кандидаты компаний: Acunetix, Google, Rapid7, TomCat
 
 - https://habr.com/ru/companies/pt/articles/139296/
 - Отрасли: информационной безопасности, Информационная безопасность
 - Компании: Хабр, Positive Technologies
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: комплайнс-менеджмент, корпоративный рынок услуг
+- Кандидаты компаний: Firefox, LinBackDoor, MITRE, Solaris, Unix, Windows
 
 - https://habr.com/ru/companies/pt/articles/139950/
 - Отрасли: Информационная безопасность
 - Компании: Хабр, Positive Technologies
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: code.google.com, ElementTree, MITRE, MongoDB, OVAL, SCAP, SQLite 3, StackOverflow, XML-Notepad, ZoDB
 
 - https://habr.com/ru/companies/pt/articles/140464/
 - Отрасли: Информационная безопасность
 - Компании: Хабр, Positive Technologies
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: AppStore, arpspoof, Berkeley DB, Cydia, dsniff, Ettercap, Fugu, iOS, iPhone, iSSH, libpcap, NetworkMiner, OpenSSH, pirni, Pirni Pro, Terminal, TheWorm, WinSCP, Wireshark
 
 - https://habr.com/ru/companies/pt/articles/140725/
 - Отрасли: Информационная безопасность
 - Компании: Хабр, Positive Technologies
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Android, Android Network Toolkit — Anti, Android Web Server, DroidSheep, Facesniff, Fing, Hosts Editor, kWS, LG, Net Swiss Tool Free, Route Brute Force ADS 2, Router KeyGen, RouterAttack, Set MAC address, Shark, Shark Read, Wi-Fi Analytics, WiFiKill, wireshark
 
 - https://habr.com/ru/companies/pt/articles/140849/
 - Отрасли: Информационная безопасность, информационной безопасности, Мобильные технологии, медиа, промышленные
