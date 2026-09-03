@@ -70656,151 +70656,151 @@
 - Отрасли: Информационная безопасность
 - Компании: Хабр, OTUS
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Doctrine, EasyAclBundle, Firebase, JWT, Programarivm, Symfony
 
 - https://habr.com/ru/company/otus/blog/509598/
 - Отрасли: не найдено
 - Компании: Хабр, OTUS
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT
+- Кандидаты компаний: DynASM, Habr, PHP Internals News, Zend
 
 - https://habr.com/ru/company/otus/blog/524270/
 - Отрасли: не найдено
 - Компании: Хабр, OTUS, Яндекс, ОК
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: PHP, Yandex
 
 - https://habr.com/ru/company/otus/blog/524990/
 - Отрасли: предлагает
 - Компании: Хабр, OTUS, предлагает
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Habr
 
 - https://habr.com/ru/company/otus/blog/538094/
 - Отрасли: Программное обеспечение
 - Компании: Хабр, OTUS
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Angular, Chart.js, github.com, npm, React, Stimulus, Symfony, Symfony Flex, Symfony Framework, Symfony UX, Symfony UX Chart.js, Symlex, Vue, Webpack Encore
 
 - https://habr.com/ru/company/otus/blog/553960/
 - Отрасли: не найдено
 - Компании: Хабр, OTUS
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: php.watch, PHP.Watch
 
 - https://habr.com/ru/company/otus/blog/567710/
 - Отрасли: не найдено
 - Компании: Хабр, OTUS
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Amphp, GitHub, Packagist, ReactPHP, Twitter
 
 - https://habr.com/ru/company/otus/blog/568910/
 - Отрасли: не найдено
 - Компании: Хабр, OTUS, Далее
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Composer, GitHub, GitHub Actions
 
 - https://habr.com/ru/company/parallels/blog/334486/
 - Отрасли: Рекрутинг и HR
 - Компании: Хабр, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-индустрия, IT-отрасль, дизайн, маркетинг, телекоммуникационные технологии
+- Кандидаты компаний: Amazon, Dribble Jobs, Facebook, Gallup, Idealist, Jobspresso, Microsoft, Parallels, PowerToFly, RemoteOK, Stack Exchanges, Stack Overflow, Tumblr, Weworkremotely, Yelp
 
 - https://habr.com/ru/company/parallels/blog/432442/
 - Отрасли: не найдено
 - Компании: Хабр
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-индустрия
+- Кандидаты компаний: my.parallels.com, Parallels
 
 - https://habr.com/ru/company/parallels/blog/432900/
 - Отрасли: не найдено
 - Компании: Хабр
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-индустрия
+- Кандидаты компаний: Parallels, parallels desktop, parallels ras, parallels toolbox
 
 - https://habr.com/ru/company/paysto/blog/290296/
 - Отрасли: не найдено
 - Компании: Хабр
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-индустрия
+- Кандидаты компаний: Drupal, PAYSTO, WordPress, Мегамозг
 
 - https://habr.com/ru/company/pgdayrussia/blog/328690/
 - Отрасли: Веб-разработка
 - Компании: Хабр
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Doctrine ORM, Eloquent, Laravel, PG Day'17, Symfony
 
 - https://habr.com/ru/company/piter/blog/318018/
 - Отрасли: не найдено
 - Компании: Хабр, Издательский дом «Питер», Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Профессиональная литература
+- Кандидаты компаний: Издательский дом Питер
 
 - https://habr.com/ru/company/plarium/blog/433530/
 - Отрасли: образование, Data science, Enterprise
 - Компании: Хабр, быструю
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-индустрия, геймдев, игровая индустрия
+- Кандидаты компаний: app2top.ru, dtf.ru, gamasutra.com, GitHub, Microsoft, Plarium, Plarium Krasnodar, proglib.io, Riot Games, Twitch, Twitter, Unity, YouTube
 
 - https://habr.com/ru/company/plarium/blog/496472/
 - Отрасли: Дизайн и юзабилити, финансы
 - Компании: Хабр
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: бизнес, игры
+- Кандидаты компаний: Amazon, Docker, Facebook, Git, GitHub, Gmail API, Google, Google Analytics API, medium.com, Microsoft, Plarium, Unsplash
 
 - https://habr.com/ru/company/plesk/blog/552998/
 - Отрасли: не найдено
 - Компании: Хабр, Далее, Цифра
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT
+- Кандидаты компаний: Docker, PhpStorm, Plesk, VSCode
 
 - https://habr.com/ru/company/postgrespro/blog/
 - Отрасли: Enterprise, аналитики, DWH, ETL, OLAP, торговли, Оптимизация
 - Компании: Postgres Professional, Хабр, Raft, 1С
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: доставке еды
+- Кандидаты компаний: Avito, Databricks, freshpaint‑io, Greenplum, Heap, HP Vertica, Networking Services, OpenNET.ru, Patroni, Postgres Pro, RED OS, Snowflake, Spark, StarRocks, Vertica, ДМК Пресс, Калифорнийского университета в Беркли
 
 - https://habr.com/ru/company/pvs-studio/blog/282684/
 - Отрасли: не найдено
 - Компании: Хабр, PVS-Studio
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: GitHub, Zend
 
 - https://habr.com/ru/company/pvs-studio/blog/573296/
 - Отрасли: не найдено
 - Компании: PVS-Studio, Хабр
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: .NET Foundation, GitHub, Microsoft, PeachPie, Phalanger, Rider, Roslyn, Visual Studio
 
 - https://habr.com/ru/company/rambler_and_co/blog/417023/
 - Отрасли: не найдено
 - Компании: Хабр, Rambler&Co
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: рекламные технологии
+- Кандидаты компаний: Mozilla, Rambler Group
 
 - https://habr.com/ru/company/rdtex/blog/438498/
 - Отрасли: не найдено
 - Компании: Хабр
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-индустрия
+- Кандидаты компаний: Microsoft, MS Excel, Oracle, Проект Эйлер, Разумные Деловые Технологии, РДТЕХ
 
 - https://habr.com/ru/company/reksoft/blog/565372/
 - Отрасли: не найдено
 - Компании: Хабр, Reksoft
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Angular, Apache 2, Doctrine, Express, github, Idiorm, IE, Laravel Eloquent, Nginx, Slim
 
 - https://habr.com/ru/company/roistat/blog/352762/
 - Отрасли: аналитики
 - Компании: Хабр, Далее
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: github, Roistat
 
 - https://habr.com/ru/company/rootwelt/blog/302364/
 - Отрасли: не найдено
 - Компании: Хабр, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-индустрия, Управление персоналом
+- Кандидаты компаний: GitHub, Google, jQuery, Rootwelt
 
 - https://habr.com/ru/company/rshb/blog/527834/
 - Отрасли: e-commerce, PKI
