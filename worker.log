@@ -3637,3 +3637,4 @@ json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
 2026-09-03 11:27:09 watchdog: worker exited, restart in 30s
 2026-09-03 11:27:35 watchdog: starting worker (done=11273)
 processed 11298/12038; batch 11300/12038
+processed 11323/12038; batch 11325/12038
