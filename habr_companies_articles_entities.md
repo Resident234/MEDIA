@@ -48305,152 +48305,152 @@
 - https://habr.com/ru/companies/securityvison/articles/766156/
 - Отрасли: Информационная безопасность, Дизайн и юзабилити
 - Компании: Хабр, Security Vision
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Управление персоналом
+- Кандидаты компаний: ФСТЭК
 
 - https://habr.com/ru/companies/selectel/articles/top/
 - Отрасли: не найдено
 - Компании: Selectel, Хабр, Самолет, Авито, Звук
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-инфраструктура, авиация, военная авиация, космическая программа, ПВО, разведка
+- Кандидаты компаний: Foreign Technology Division, Google Maps, Hughes Aircraft, Lockheed, Pratt & Whitney, ВВС США
 
 - https://habr.com/ru/companies/servermall/articles/top/
 - Отрасли: не найдено
 - Компании: СЕРВЕР МОЛЛ, Хабр, серверы, 1С
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT, Operational Technology, OT, SCADA, инфобезопасность, кибербезопасность, микроэлектроника, промышленный интернет вещей, серверный сегмент
+- Кандидаты компаний: Alibaba, Amazon, Apple, Delphi, Docker, Google, Kubernetes, Lego, Meta, Microsoft, Modbus, Netflix, Rostec, Salesforce, Spotify, Zoom
 
 - https://habr.com/ru/companies/serverspace/articles/686700/
 - Отрасли: не найдено
 - Компании: не найдено
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-инфраструктура, банковская сфера, газовое оборудование, инвестиционная деятельность, фондовый рынок, цифровые валюты, электронные платежные системы, электроэнергетика
+- Кандидаты компаний: BBC, Chemical Bank, eBay, Knight Capital, Npower, PayPal, Peoples Gas Light and Coke, Scottish Power, Zenith Electronics, Нью-Йоркская фондовая биржа, Первый национальный банк Чикаго
 
 - https://habr.com/ru/companies/serverspace/articles/688468/
 - Отрасли: Enterprise, Аппаратное обеспечение
 - Компании: Хабр, Serverspace, серверы, Samsung, N+1, DELL
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-инфраструктура, Облачные вычисления, Серверное администрирование, Сетевые технологии
+- Кандидаты компаний: Cisco, Cisco UCS Manager, Crucial, ESXI, FlexPod, Gooxi, Icinga 2, Intel, IPMI tool, LSI, Micron, Netapp, vCenter, VMware
 
 - https://habr.com/ru/companies/serverspace/articles/688704/
 - Отрасли: стриминг, Программное обеспечение, облачных сервисов, СМИ, облачные сервисы, образование, виртуальные
 - Компании: Хабр, Serverspace, Звук, серверы, Арендовать
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-инфраструктура, видеоконференции, игровой рынок, киберспорт, медиаконтент, Облачные вычисления, онлайн-мероприятия, онлайн-образование, эвент-индустрия
+- Кандидаты компаний: Discord, Habr, Justin.tv, NodeJS, OBS Studio, Periscope, Python, Streamlabs Desktop, Telegram, Twitch, YouTube
 
 - https://habr.com/ru/companies/serverspace/articles/689704/
 - Отрасли: медиа
 - Компании: Хабр, Serverspace, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-инфраструктура, информационные и коммуникационные системы, компьютерные сети, разработка баз данных, сетевые технологии, стандартизация, телеграфия, телефония, управление компьютерными системами
+- Кандидаты компаний: ANSI, CCITT, Citroën, Citroën 2CV, Deux Chevaux, ECMA, Habr, HDSA, Honeywell Information System, IBM, ISO, SNA, Systems Network Architecture, Британский институт стандартов, Международный консультативный комитет по телеграфу и телефону
 
 - https://habr.com/ru/companies/serverspace/articles/690578/
 - Отрасли: не найдено
 - Компании: Хабр, Serverspace, серверы, OWASP
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-инфраструктура, Тестирование веб-сервисов
+- Кандидаты компаний: Habr, Java, JavaScript, Jenkins, JUnit, Maven, Mockito, PACT, Python, Reactive SpringBoot WebFlux, Ruby, Spring Boot, Spring Cloud Contract, WebTestClient, WireMock
 
 - https://habr.com/ru/companies/serverspace/articles/691404/
 - Отрасли: провайдер, облачные сервисы, хостинг, операторы связи, IAAS, виртуальные, Рекрутинг и HR
 - Компании: провайдер, Хабр, Serverspace, серверы, МТС, Мегафон, Далее, ITGLOBAL.COM, VStack, SimpleOne
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-инфраструктура
+- Кандидаты компаний: Amazon, GeoCities, KASUMI, TimeWeb, VMware, Yahoo, ИТ-ГРАД, МобиКом, Петер-Сервис, Фотострана
 
 - https://habr.com/ru/companies/serverspace/articles/692122/
 - Отрасли: торговли
 - Компании: Хабр, Serverspace, F6
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-инфраструктура, облачные вычисления
+- Кандидаты компаний: CentOS, gitlab, mulesoft, nginx, s2ctl, Serverspace API, wordpress
 
 - https://habr.com/ru/companies/serverspace/articles/692916/
 - Отрасли: не найдено
 - Компании: Хабр, Serverspace
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-инфраструктура, индустрия программного обеспечения
+- Кандидаты компаний: Azure Service Bus Queue, Habr
 
 - https://habr.com/ru/companies/serverspace/articles/697094/
 - Отрасли: робототехника
 - Компании: Хабр, Serverspace
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-инфраструктура, искусственный интеллект, кино, концерты, мир искусства, современное искусство, театр
+- Кандидаты компаний: Art D'Egypt, Barn, Blooloop, Engineered Arts, Hanson Robotics, Lego, Tedx, Tesla, Великая пирамида Гизы, Оксфордский университет, Школа электроники и электротехники Университета Лидса
 
 - https://habr.com/ru/companies/serverspace/articles/703530/
 - Отрасли: облачные сервисы, провайдер, Enterprise, виртуальные
 - Компании: Хабр, Serverspace, VStack, N+1, Hurricane Electric, провайдер, Samsung
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-инфраструктура, Облачные вычисления
+- Кандидаты компаний: APC InRow, Cogent, Cologix, Cologix Customer Portal, Cologix TOR2, Cologix TOR3, Intel, iperf3, NNJ3, Supermicro, VESDA
 
 - https://habr.com/ru/companies/serverspace/articles/705464/
 - Отрасли: предлагает
 - Компании: Хабр, Serverspace, предлагает, Далее, серверы
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-инфраструктура, Визуализация данных, Инструменты мониторинга, Серверное администрирование, Системное администрирование
+- Кандидаты компаний: DigitalOcean, Docker, Elastic Search, Google, Grafana, Graphite, IBM DB2, Icinga, InfluxDB, Microsoft SQL, MySQL, Nagios, Oracle, PostgreSQL, Prometheus, Showmax, SoundCloud, SQLite, Zabbix
 
 - https://habr.com/ru/companies/serverspace/articles/706248/
 - Отрасли: предлагает, провайдер
 - Компании: Яндекс, Хабр, Serverspace, Сбербанк, предлагает, провайдер, Далее
-- Кандидаты отраслей: не найдено
+- Кандидаты отраслей: DevOps, IT-инфраструктура
 - Кандидаты компаний: не найдено
 
 - https://habr.com/ru/companies/serverspace/articles/710152/
 - Отрасли: образование, digital
 - Компании: Хабр, Serverspace, Space, серверы
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-индустрия, компьютерные шахматы
+- Кандидаты компаний: ARPA, Bell Labs, Digital Equipment Corporation, General Electric, MIT
 
 - https://habr.com/ru/companies/serverspace/articles/712822/
 - Отрасли: Дизайн и юзабилити, OCR, Информационная безопасность, Программное обеспечение, информационной безопасности
 - Компании: Хабр, Serverspace, Далее, Яндекс
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-инфраструктура, IT-стандарты, Инженерные системы
+- Кандидаты компаний: AM2, beCloud, DataSpace, Habr, Kazteleport, NNJ3, OVH Cloud, TOR3, Uptime Institute
 
 - https://habr.com/ru/companies/serverspace/articles/715458/
 - Отрасли: Информационная безопасность
 - Компании: Хабр, Serverspace
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT, IT-инфраструктура
+- Кандидаты компаний: Apple, Microsoft, NeXT
 
 - https://habr.com/ru/companies/serverspace/articles/718396/
 - Отрасли: Дизайн и юзабилити, Аппаратное обеспечение, Enterprise
 - Компании: Хабр, Serverspace, Далее, AMD, MARS
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: аэрокосмическая отрасль, аэрокосмическая сфера
+- Кандидаты компаний: DEC, Fairchild, Intel, Motorola, National Semiconductor, Symmetric Computer Systems, Technology Funding, Triformations, Inc, UCSF, НАСА
 
 - https://habr.com/ru/companies/serverspace/articles/726198/
 - Отрасли: digital, криптографии
 - Компании: Хабр, Serverspace, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-индустрия, IT-компании
+- Кандидаты компаний: BBN Technologies, Digital Equipment Corporation (DEC)
 
 - https://habr.com/ru/companies/serverspace/articles/728694/
 - Отрасли: образование, Программное обеспечение, СМИ
 - Компании: Хабр, Serverspace
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT, IT-технологий
+- Кандидаты компаний: Apple, Byte Information Exchange (BIX), Frontier, IBM, Living Videotext, Microsoft, Motorola, Personal Software, Symantec, ThinkTank, UserLand Software, VisiText
 
 - https://habr.com/ru/companies/serverspace/articles/730080/
 - Отрасли: виртуальные, SaaS, провайдер, облачные сервисы
 - Компании: Хабр, Serverspace, провайдер
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-инфраструктура, Облачные вычисления
+- Кандидаты компаний: Apple, ARPA, Bell Laboratories, Compaq, DARPA, General Electric, IBM, Кембриджский научный центр IBM, Массачусетский технологический институт
 
 - https://habr.com/ru/companies/serverspace/articles/738190/
 - Отрасли: хостинг
 - Компании: Хабр, Serverspace
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-инфраструктура, IT-компании, сайтостроение
+- Кандидаты компаний: b2/cafelog, CivicSpace Labs, Dreamweaver, FileNet, FrontPage, IBM, Microsoft, WordPress
 
 - https://habr.com/ru/companies/serverspace/articles/741874/
 - Отрасли: провайдер, Программное обеспечение, виртуальные, SaaS, Enterprise
 - Компании: Хабр, Serverspace, провайдер, серверы
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-инфраструктура
+- Кандидаты компаний: AT&T, Bell Laboratories, Debian, Google, IBM, R&D Associates, Sun Microsystems
 
 - https://habr.com/ru/companies/serverspace/articles/742646/
 - Отрасли: облачные сервисы, ML, Machine Learning
 - Компании: Хабр, Serverspace, ИТМО, Сбер
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Kaggle
 
 - https://habr.com/ru/companies/serverspace/articles/743408/
 - Отрасли: e-commerce, предлагает, Оптимизация, аналитики, Дизайн и юзабилити, масштабируемость, хостинг, провайдер
