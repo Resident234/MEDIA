@@ -64955,152 +64955,152 @@
 - https://habr.com/ru/companies/X5Tech/articles/645651/
 - Отрасли: виртуальные
 - Компании: Хабр, X5 Tech, Яндекс, AMD
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: DevOps, IT-инфраструктура, Системное администрирование
+- Кандидаты компаний: Canonical, Gitlab, Gitlab CE, Habr, k0s, k3s, Kibana, kind, kubernetes, kubespray, libvirt, MicroK8s, minikube, Prometheus, proxmox, qemu, Ubuntu, virt-manager, X5Tech
 
 - https://habr.com/ru/companies/X5Tech/articles/647365/
 - Отрасли: e-commerce, Big Data
 - Компании: Хабр, X5 Tech, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: DevSecOps, IT-компании, ритейл, технологический консалтинг
+- Кандидаты компаний: Airflow, Apigee, Avito, ClickHouse, Gravitee, Lamoda, MSSQL, MySQL, NiFi, Oracle, SAP, Selenium, Talend, ThoughWorks, VictoriaMetrics, x5retailgroup, X5Tech, Zalando
 
 - https://habr.com/ru/companies/X5Tech/articles/651057/
 - Отрасли: Big Data
 - Компании: Хабр, X5 Tech
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-компании, ритейл
+- Кандидаты компаний: x5retailgroup, X5Tech
 
 - https://habr.com/ru/companies/X5Tech/articles/651451/
 - Отрасли: SaaS, PaaS, Информационная безопасность
 - Компании: Хабр, X5 Tech, X5 Group, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Developer Experience, DevOps, DevSecOps, ИТ
+- Кандидаты компаний: Artifactory, GitHub, GitLab, GitLab Actions, Jfrog Artifactory, kubernetes, openshift
 
 - https://habr.com/ru/companies/X5Tech/articles/651739/
 - Отрасли: медиа, foodtech
 - Компании: Хабр, X5 Tech, X5 Group, быструю, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-индустрия, ритейл
+- Кандидаты компаний: Android, CDN, CMS, Food.ru, imgproxy, iOS, Next.Js, PostgreSQL, Python, React, X5, X5 Медиа, X5Tech
 
 - https://habr.com/ru/companies/X5Tech/articles/652387/
 - Отрасли: предлагает, виртуальные, масштабируемость
 - Компании: Хабр, X5 Tech, предлагает, серверы
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT
+- Кандидаты компаний: DevOpsDays, Flickr, Google, Velocity 09
 
 - https://habr.com/ru/companies/X5Tech/articles/653571/
 - Отрасли: Big Data, BigData, e-commerce
 - Компании: Хабр, X5 Tech
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-компании, ритейл
+- Кандидаты компаний: x5retailgroup, Х5 Group
 
 - https://habr.com/ru/companies/X5Tech/articles/653961/
 - Отрасли: не найдено
 - Компании: не найдено
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Habr, X5Tech
 
 - https://habr.com/ru/companies/X5Tech/articles/654115/
 - Отрасли: не найдено
 - Компании: X5 Tech, Хабр
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: DevOps, IT-инфраструктура, Базы данных
+- Кандидаты компаний: Keycloak, Red Hat, SberTech, X5, x5retailgroup
 
 - https://habr.com/ru/companies/X5Tech/articles/679842/
 - Отрасли: Поисковые технологии, Data science
 - Компании: Хабр, X5 Tech
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT
+- Кандидаты компаний: Habr, X5Tech
 
 - https://habr.com/ru/companies/X5Tech/articles/684024/
 - Отрасли: Big Data, BigData
 - Компании: Хабр, X5 Tech, Далее, ПИК
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Data Engineering
+- Кандидаты компаний: Airflow, Apache Spark, Customer Value Management, CVM5, Hadoop, HDFS, PySpark, Spark, X5Tech, Пятёрочка
 
 - https://habr.com/ru/companies/X5Tech/articles/685590/
 - Отрасли: аналитики, ритейла, Оптимизация, NLP, Data science
 - Компании: Хабр, X5 Tech, Далее, SENSE
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: ритейл, фуд-ритейл
+- Кандидаты компаний: cobyla, Habr, ipopt, Pyomo, SciPy, SolverFactory, X5Tech
 
 - https://habr.com/ru/companies/X5Tech/articles/686524/
 - Отрасли: CRM, процессинг, предлагает, Веб-сервисы, аналитики, торговые, медиа
 - Компании: Хабр, X5 Tech, Пятёрочки, X5 Group, предлагает, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-инфраструктура, ритейл
+- Кандидаты компаний: .NET, Angular, Apache Kafka, Elastic, Loymax, MS SQL, OpenAPI, PostgreSQL, RabbitMQ, X5Tech, Zabbix, Перекрёсток, Пятёрочка
 
 - https://habr.com/ru/companies/X5Tech/articles/687554/
 - Отрасли: Big Data, аналитики, Data science, Machine Learning, ML, образование, Оптимизация, ETL, BI, масштабируемость
 - Компании: X5 Tech, Хабр, Бэклог, Далее
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Airflow, Habr, kubernetes, PySpark, X5
 
 - https://habr.com/ru/companies/X5Tech/articles/693088/
 - Отрасли: Data science, Big Data, ритейла, Machine Learning, ML
 - Компании: Хабр, X5 Tech, Бэклог, 1С
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-индустрия
+- Кандидаты компаний: Coursera, Dialog, Excel, Facebook, IBM, Python Crash Course, Stepik, X5Tech, Х5, Х5 Tech
 
 - https://habr.com/ru/companies/X5Tech/articles/698758/
 - Отрасли: аналитики, Big Data, BI
 - Компании: Хабр, X5 Tech, Space, Далее
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Apache Hadoop, GreenPlum, Hadoop, HDFS, HFSA, Hive, Marcel May, Oracle, Prometheus, Ranger, Zabbix
 
 - https://habr.com/ru/companies/X5Tech/articles/700274/
 - Отрасли: не найдено
 - Компании: Хабр, X5 Tech
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT
+- Кандидаты компаний: DOKA, FreeCodeCamp, GitHub, Hexlet, HTML Academy, Mozilla, Rutracker, Udemy, YouTube
 
 - https://habr.com/ru/companies/X5Tech/articles/701442/
 - Отрасли: Big Data, ML, образование, Data science, аналитики
 - Компании: Хабр, X5 Tech
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-индустрия
+- Кандидаты компаний: GitHub, LinkedIn, Telegram
 
 - https://habr.com/ru/companies/X5Tech/articles/705048/
 - Отрасли: Big Data, аналитики, Оптимизация, BigData
 - Компании: Хабр, X5 Tech, DELL, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Базы данных, Резервное копирование, Системное администрирование
+- Кандидаты компаний: Ceph, Greenplum, HP
 
 - https://habr.com/ru/companies/X5Tech/articles/706388/
 - Отрасли: Data science
 - Компании: Хабр, X5 Tech, Далее
-- Кандидаты отраслей: не найдено
+- Кандидаты отраслей: онлайн-магазин с доставкой
 - Кандидаты компаний: не найдено
 
 - https://habr.com/ru/companies/X5Tech/articles/707156/
 - Отрасли: не найдено
 - Компании: не найдено
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Habr
 
 - https://habr.com/ru/companies/X5Tech/articles/707788/
 - Отрасли: не найдено
 - Компании: не найдено
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: реклама
+- Кандидаты компаний: Habr, X5Tech
 
 - https://habr.com/ru/companies/X5Tech/articles/708006/
 - Отрасли: не найдено
 - Компании: Хабр, X5 Tech
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-систем
+- Кандидаты компаний: Allure TestOPS, Habr
 
 - https://habr.com/ru/companies/X5Tech/articles/708294/
 - Отрасли: аналитики, ритейла, Оптимизация, NLP, Data science
 - Компании: Хабр, X5 Tech, Далее, SENSE
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: ритейл
+- Кандидаты компаний: CVXPY, Habr, HiGHS, Pyomo, SciPy
 
 - https://habr.com/ru/companies/X5Tech/articles/710246/
 - Отрасли: аналитики
 - Компании: Хабр, X5 Tech
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Allure
 
 - https://habr.com/ru/companies/X5Tech/articles/711530/
 - Отрасли: предлагает
