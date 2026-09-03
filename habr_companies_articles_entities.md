@@ -24605,151 +24605,151 @@
 - https://habr.com/ru/companies/kts/articles/591355/
 - Отрасли: Machine Learning, Enterprise, виртуальные, предлагает
 - Компании: Хабр, KTS, серверы, предлагает, VK
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: DevOps, Системное администрирование
+- Кандидаты компаний: Consul, Docker, Docker Compose, Docker Swarm, HashiCorp, Kubernetes, nginx, Nomad, Openshift, Terraform, Vault
 
 - https://habr.com/ru/companies/kts/articles/591853/
 - Отрасли: виртуальные
 - Компании: Хабр, KTS, Proto, VK
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: DevOps, System administration
+- Кандидаты компаний: AWS, BIRD, Calico, Cilium, Docker, Flannel, GitHub, HAProxy, projectcalico.org, Tigera, Vagrant, VirtualBox, Weave Net
 
 - https://habr.com/ru/companies/kts/articles/593599/
 - Отрасли: виртуальные, провайдер
 - Компании: Хабр, KTS, VK, Selectel, Яндекс, провайдер
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: DevOps, облачные провайдеры, Системное администрирование
+- Кандидаты компаний: cert-manager, Docker, Docker Hub, nginx-ingress-controller, PostgreSQL, VK Cloud Solutions, Яндекс Cloud
 
 - https://habr.com/ru/companies/kts/articles/595465/
 - Отрасли: Оптимизация
 - Компании: Хабр, KTS
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: мобильные приложения
+- Кандидаты компаний: Compose UI, developer.android.com, Jetpack Compose
 
 - https://habr.com/ru/companies/kts/articles/598071/
 - Отрасли: не найдено
 - Компании: Хабр, KTS, Пятёрочки, OTUS
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Axios, GitHub, Next.js, Node.js, npm, OpenWeatherMap, React, ReactJS, Recoil, Redux, Remix, Visual Studio Code
 
 - https://habr.com/ru/companies/kts/articles/598571/
 - Отрасли: провайдер
 - Компании: Хабр, KTS, провайдер, Далее, Пятёрочки, OTUS
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: ejs, github, MobX, NextJS, React, react-router, react-router-config, ReactJS, Redux, Remix, ssr-utils
 
 - https://habr.com/ru/companies/kts/articles/598575/
 - Отрасли: не найдено
 - Компании: Хабр, KTS, Далее, серверы
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: бэкенд-разработка, мессенджеры
+- Кандидаты компаний: BotFather, Telegram
 
 - https://habr.com/ru/companies/kts/articles/598835/
 - Отрасли: не найдено
 - Компании: Хабр, KTS, Пятёрочки, OTUS
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: react-router, ReactJS
 
 - https://habr.com/ru/companies/kts/articles/646207/
 - Отрасли: масштабируемость
 - Компании: Хабр, KTS
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: CPython, Gilectomy, KTS Python, mimalloc, pip, pyperformance, Python, Python 3.11, Python 3.9, Python 4
 
 - https://habr.com/ru/companies/kts/articles/647241/
 - Отрасли: провайдер
 - Компании: Хабр, KTS, провайдер, Пятёрочки, OTUS
-- Кандидаты отраслей: не найдено
+- Кандидаты отраслей: Разработка игр
 - Кандидаты компаний: не найдено
 
 - https://habr.com/ru/companies/kts/articles/653283/
 - Отрасли: не найдено
 - Компании: Хабр, KTS, Пятёрочки, OTUS
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: базы данных, маркетинговых сайтов, сайтов электронной коммерции
+- Кандидаты компаний: Plasmic
 
 - https://habr.com/ru/companies/kts/articles/654029/
 - Отрасли: не найдено
 - Компании: Хабр, KTS, VK, ОК
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: мобильная разработка, мобильные приложения, соцсети
+- Кандидаты компаний: Chrome, Google
 
 - https://habr.com/ru/companies/kts/articles/659341/
 - Отрасли: не найдено
 - Компании: Хабр, KTS
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT, интернет-провайдер
+- Кандидаты компаний: Chrome Dev Tools, ktsstudio, Metaclass
 
 - https://habr.com/ru/companies/kts/articles/660611/
 - Отрасли: не найдено
 - Компании: Хабр, KTS
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Разработка мобильных приложений
+- Кандидаты компаний: iOS, KTS iOS, Swift
 
 - https://habr.com/ru/companies/kts/articles/666182/
 - Отрасли: не найдено
 - Компании: Хабр, KTS
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: DevOps
+- Кандидаты компаний: Docker, GitHub, KTS DevOps, moby/buildkit, QEMU
 
 - https://habr.com/ru/companies/kts/articles/669784/
 - Отрасли: Программное обеспечение
 - Компании: Хабр, KTS, серверы, Пятёрочки, OTUS
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Браузеры, мгновенные сообщения, Электронная почта
+- Кандидаты компаний: Firefox, Google Chrome, Microsoft Edge, Safari
 
 - https://habr.com/ru/companies/kts/articles/670234/
 - Отрасли: не найдено
 - Компании: Хабр, KTS, Пятёрочки, OTUS
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Habr, ReactSpring, spring-physics, Twitter
 
 - https://habr.com/ru/companies/kts/articles/676938/
 - Отрасли: не найдено
 - Компании: Хабр, KTS, Space
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-компании, мобильная разработка, Системы управления версиями, Управление разработкой
+- Кандидаты компаний: Atlassian, Badoo, GitHub, GitLab, GitLab Bot, JetBrains, JetBrains Space, Jira, Telegram, Upsource, YouTrack
 
 - https://habr.com/ru/companies/kts/articles/678034/
 - Отрасли: не найдено
 - Компании: Хабр, KTS, Пятёрочки, OTUS
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: браузеры
+- Кандидаты компаний: Apple, Blink, Brave, Chrome, Chromium, Dev.to, Edge, Firefox, Gecko, GNOME Web (Epiphany), Google, Internet Explorer, Microsoft, Mozilla, Opera, Otter, Qt, QtWebEngine, Safari, Silk, Tor, Vivaldi, Waterfox, WebKit
 
 - https://habr.com/ru/companies/kts/articles/680572/
 - Отрасли: Оптимизация, образование
 - Компании: Хабр, KTS, N+1
-- Кандидаты отраслей: не найдено
+- Кандидаты отраслей: IT
 - Кандидаты компаний: не найдено
 
 - https://habr.com/ru/companies/kts/articles/681998/
 - Отрасли: не найдено
 - Компании: Хабр, KTS
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: мобильные приложения
+- Кандидаты компаний: AppAuth, AppAuth-iOS, cocoapods, Github
 
 - https://habr.com/ru/companies/kts/articles/682062/
 - Отрасли: не найдено
 - Компании: Хабр, KTS, VK
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: DevOps, IT-инфраструктура, Системное администрирование
+- Кандидаты компаний: AppsCode, EmberStack, Gitlab, Gitlab Agent, HashiCorp, Let’s Encrypt, Vault
 
 - https://habr.com/ru/companies/kts/articles/683240/
 - Отрасли: не найдено
 - Компании: Хабр, KTS, Далее, Пятёрочки, OTUS
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Браузеры
+- Кандидаты компаний: Chrome, Firefox, Google Chrome, Internet Explorer, KTS CSS, Opera, Safari
 
 - https://habr.com/ru/companies/kts/articles/685354/
 - Отрасли: финтех, SaaS, финансы
 - Компании: Хабр, KTS
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Creator Economy, IT-индустрия, micro‑SaaS, no-code, игры, казино, мобильные приложения, стартап
+- Кандидаты компаний: Android, Codecademy, Dogecoin, Flappy Bird, Hacker News, IndieHackers, Paper Website, ProductHunt, Raspberry Pi, Stripe, TikTok, Tinder, Twitter, Voidpet, VS Code, Wordle, YouTube, Zoom
 
 - https://habr.com/ru/companies/kts/articles/687310/
 - Отрасли: не найдено
 - Компании: Хабр, KTS, Далее
-- Кандидаты отраслей: не найдено
+- Кандидаты отраслей: мобильные приложения
 - Кандидаты компаний: не найдено
 
 - https://habr.com/ru/companies/kts/articles/688664/
