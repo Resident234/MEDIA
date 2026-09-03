@@ -24755,152 +24755,152 @@
 - https://habr.com/ru/companies/kts/articles/688664/
 - Отрасли: предлагает
 - Компании: Хабр, KTS, предлагает
-- Кандидаты отраслей: не найдено
+- Кандидаты отраслей: iOS, мобильных приложений
 - Кандидаты компаний: не найдено
 
 - https://habr.com/ru/companies/kts/articles/692574/
 - Отрасли: не найдено
 - Компании: Хабр, KTS
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Дизайн мобильных приложений, Разработка мобильных приложений
+- Кандидаты компаний: Apple, iPhone 14 Pro, iPhone 14 Pro Max, Xcode
 
 - https://habr.com/ru/companies/kts/articles/702194/
 - Отрасли: Рекрутинг и HR, Оптимизация
 - Компании: Хабр, KTS
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT
+- Кандидаты компаний: Google, KTS Usability, Smartbot Pro, Telegram
 
 - https://habr.com/ru/companies/kts/articles/706970/
 - Отрасли: Оптимизация, Рекрутинг и HR, Enterprise
 - Компании: Хабр, KTS, Пятёрочки, Далее, VK
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: розничные магазины
+- Кандидаты компаний: SAP, SAP HR, Пятёрочка, Х5
 
 - https://habr.com/ru/companies/kts/articles/708418/
 - Отрасли: не найдено
 - Компании: Хабр, KTS, Слёрм, VK
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: DevOps, IT
+- Кандидаты компаний: Coursera, Docker, Nginx, Stepik, МГТУ им. Н.Э. Баумана
 
 - https://habr.com/ru/companies/kts/articles/708610/
 - Отрасли: аналитики, предлагает
 - Компании: Хабр, KTS, предлагает
-- Кандидаты отраслей: не найдено
+- Кандидаты отраслей: IT-компании, веб-разработке
 - Кандидаты компаний: не найдено
 
 - https://habr.com/ru/companies/kts/articles/711602/
 - Отрасли: предлагает
 - Компании: Хабр, KTS, VK, Хабр Карьера, предлагает, Ростелеком
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT, госсектор, мобильной разработки, мобильные операционные системы, мобильных приложений, рынок мобильной разработки, рынок продажи смартфонов
+- Кандидаты компаний: App Store, Apple, Apple Pay, DevCrowd, Google, Google Play, HeadHunter, Huawei, KTS iOS, MadBrands, RuStore, Аврора, ВКонтакте, ГородРабот.ру, Минцифры
 
 - https://habr.com/ru/companies/kts/articles/713084/
 - Отрасли: хостинг, ML, стриминг
 - Компании: Хабр, KTS, Далее, VK
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT, веб-программирование
+- Кандидаты компаний: Google, Metaclass
 
 - https://habr.com/ru/companies/kts/articles/713848/
 - Отрасли: не найдено
 - Компании: Хабр, KTS, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: iOS, мобильные приложения
+- Кандидаты компаний: Habr
 
 - https://habr.com/ru/companies/kts/articles/715890/
 - Отрасли: не найдено
 - Компании: Хабр, KTS, QIWI, Леруа Мерлен, ОК, ПИК
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Android-разработка, iOS-разработка, мобильная разработка, мультиплатформенная разработка
+- Кандидаты компаний: AliExpress, Android Studio, AppCode, Apple, Google, Gradle, HH, JetBrains, Jetpack, KDoctor, McDonald’s, Touchlab, Xcode, Кинопоиск, Профи
 
 - https://habr.com/ru/companies/kts/articles/719218/
 - Отрасли: не найдено
 - Компании: Хабр, KTS, hh.ru
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Разработка мобильных приложений
+- Кандидаты компаний: ADB Idea, Android, Android Studio, AppCode, Geminio, Google, Key Promoter X, Logcat, Multirun, PyCharm, Rainbow Brackets, WebStorm
 
 - https://habr.com/ru/companies/kts/articles/719938/
 - Отрасли: Веб-разработка, аналитики, Веб-сервисы
 - Компании: Хабр, KTS, Далее, Space, VK
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Google-таблицы, Graphite, Kubernetes, Prometheus, Sentry, Slurm, Smartbot Pro, Telegram, ВКонтакте
 
 - https://habr.com/ru/companies/kts/articles/723148/
 - Отрасли: не найдено
 - Компании: Хабр, KTS, Далее, VK
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: DevOps
+- Кандидаты компаний: Ansible, ArgoCD, Crossplane, Docker, GitHub, Gitlab, Helm, Kibana, Kubernetes, Southbridge
 
 - https://habr.com/ru/companies/kts/articles/723760/
 - Отрасли: не найдено
 - Компании: Хабр, KTS, Контур, VK
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: DevOps, Системное администрирование
+- Кандидаты компаний: ApplicationSet, Argo CD, Bitbucket, CNCF, Crossplane, GitHub, GitLab, Helm, Image Updater, Jsonnet, Kustomize, Southbridge
 
 - https://habr.com/ru/companies/kts/articles/723980/
 - Отрасли: Оптимизация, виртуальные
 - Компании: Хабр, KTS, серверы, VK
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Системное администрирование
+- Кандидаты компаний: ClickHouse, Elasticsearch, Grafana Cloud, Grafana Loki, Haproxy, Nginx, Prometheus, Slurm
 
 - https://habr.com/ru/companies/kts/articles/726026/
 - Отрасли: провайдер, digital, Информационная безопасность
 - Компании: Хабр, KTS, провайдер, Далее, Selectel, VK
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: DevOps, облачные технологии, Системное администрирование
+- Кандидаты компаний: Ansible, ArgoCD, AWS, Azure, CNCF, Crossplane, Digital Ocean, GitHub Actions, Gitlab, Google Cloud, Southbridge, Terraform, Terrajet, Yandex.Cloud
 
 - https://habr.com/ru/companies/kts/articles/727528/
 - Отрасли: не найдено
 - Компании: Хабр, KTS, VK
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: GitHub
 
 - https://habr.com/ru/companies/kts/articles/728540/
 - Отрасли: не найдено
 - Компании: Хабр, KTS, Бэклог
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Медийная реклама, Разработка игр, Управление разработкой
+- Кандидаты компаний: KTS Market
 
 - https://habr.com/ru/companies/kts/articles/728752/
 - Отрасли: аналитики, Рекрутинг и HR
 - Компании: Хабр, KTS
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Retail
+- Кандидаты компаний: Х5 Retail Group
 
 - https://habr.com/ru/companies/lamoda/articles/426501/
 - Отрасли: e-commerce, ERP, аналитики, Мобильные технологии
 - Компании: Хабр, Lamoda Tech, быструю
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: B2B, IT, Marketplace
+- Кандидаты компаний: Atlassian, Docker, Lamoda
 
 - https://habr.com/ru/companies/lamoda/articles/428411/
 - Отрасли: e-commerce, предлагает, BI, ETL, аналитики, ERP
 - Компании: Хабр, Lamoda Tech, Далее, предлагает, серверы
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: call-center, data warehouse, IT-инфраструктура, Warehouse Management System, интернет-магазины, машинное обучение, служба доставки
+- Кандидаты компаний: GitHub, Hadoop, Lamoda, Netbeans Application Platform, PySpark, Spark, Swagger, vue.js, Wildfly 10
 
 - https://habr.com/ru/companies/lamoda/articles/432394/
 - Отрасли: fashion
 - Компании: Хабр, Lamoda Tech
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT‑инфраструктура, lifestyle
+- Кандидаты компаний: ActiveMQ, Java, Lamoda, MongoDB, Postgres, PostgreSQL, Redis, WildFly, Технорадар
 
 - https://habr.com/ru/companies/lamoda/articles/432656/
 - Отрасли: не найдено
 - Компании: Хабр, Lamoda Tech, Далее
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Lamoda, mypy, Pycharm, pylint
 
 - https://habr.com/ru/companies/lamoda/articles/434208/
 - Отрасли: не найдено
 - Компании: Хабр, Lamoda Tech, ПИК, серверы
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-инфраструктура, Высоконагруженные системы, интернет-магазины
+- Кандидаты компаний: Lamoda, Madmin, MySQL, PostgreSQL
 
 - https://habr.com/ru/companies/lamoda/articles/435988/
 - Отрасли: не найдено
 - Компании: Хабр, Lamoda Tech, t2
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Lamoda
 
 - https://habr.com/ru/companies/lamoda/articles/444848/
 - Отрасли: e-commerce, предлагает
