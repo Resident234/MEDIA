@@ -69455,152 +69455,152 @@
 - https://habr.com/ru/company/friifond/blog/286880/
 - Отрасли: Big Data, консалтинг
 - Компании: Хабр
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: eLearning, IT-индустрия, банковские решения, малый бизнес, музыка
+- Кандидаты компаний: 37signals, Adblock Plus, AngelList, Articulate, Automattic, Basecamp, Basho, Bluespark Labs, Buffer, Canonical, Catalyze, Chef, CicleCI, Collabora, Compose, DataStax, DuckDuckGo, Etsy, Everlane, Eyeo, Firefox, Fog Creek, Ghost, Gitbook, GitHub, GitLab, Golangprojects, Groove, HackerParadise, Harvest, Healthfinch, Heap, Heroku, HNhiring, Honeybadger, Igalia, Inpsyde GmbH, ITflow, JobBox, Jobmote, JobsRemotely, Khan Academy, Librato, Lincoln Loop, LiquidSpace, LivingSocial, Lullabot, Mapbox, Modern Tribe, Mozilla, Next Big Sound, NodeSource, NoFluffJobs, NomadJobs, NomadList, Quora, Red Hat, Reddit, Regus USA, Remote Coder, Remote Digest, Remote Hackers, Remote Internships, Remote OK, Remote year, RemoteWorkHunt, Remotive Jobs, Remotive.io, RightScale, Scrapinghub, Simple, SoftwareMill, Soostone, Sqwiggle, StackExchange, StackOverflow, Strongloop, Sysdig Cloud, Teleport, The Caravanserai, Toggl, Trello, Twin Technologies, We Work Remotely, WFH.io, Wikimedia, Wikipedia, WordPress, WorkFrom, Working Nomads, X-Team, Yahoo, Zapier, Фонд развития интернет-инициатив, ФРИИ, Фрилансим
 
 - https://habr.com/ru/company/friifond/blog/293936/
 - Отрасли: не найдено
 - Компании: Хабр
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-индустрия, web-сфера
+- Кандидаты компаний: Фонд развития интернет-инициатив
 
 - https://habr.com/ru/company/funcorp/blog/445222/
 - Отрасли: Рекрутинг и HR, аналитики
 - Компании: Хабр
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: информационные технологии, космическая отрасль
+- Кандидаты компаний: ClickHouse, FunCorp, MongoDB, Redis, Telegram
 
 - https://habr.com/ru/company/funcorp/blog/454410/
 - Отрасли: Веб-разработка
 - Компании: Хабр, Далее
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: FUNCORP, PEAR, Symfony
 
 - https://habr.com/ru/company/funcorp/blog/456024/
 - Отрасли: Веб-разработка, CRM, Программное обеспечение
 - Компании: Хабр, серверы
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Amp, Cake, CodeIgniter, CraftCMS, FUNCORP, JetBrains, Kinsta, Laravel, packagist, Phan, PHPStan, Pre, Psalm, ReactPHP, Swoole, Symfony, Vimeo, WordPress, Yii, Zend, Zend Framework, фонд Linux
 
 - https://habr.com/ru/company/funcorp/blog/460285/
 - Отрасли: не найдено
 - Компании: Хабр, Далее
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: FUNCORP
 
 - https://habr.com/ru/company/funcorp/blog/468021/
 - Отрасли: не найдено
 - Компании: Хабр
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: FUNCORP
 
 - https://habr.com/ru/company/funcorp/blog/478596/
 - Отрасли: не найдено
 - Компании: Хабр
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: FUNCORP, PHP
 
 - https://habr.com/ru/company/funcorp/blog/478760/
 - Отрасли: не найдено
 - Компании: Хабр
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: FUNCORP
 
 - https://habr.com/ru/company/funcorp/blog/514226/
 - Отрасли: Веб-разработка
 - Компании: Хабр, ОК
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Docker, FUNCORP, Github, Gitlab, Laravel, PHPStan, Rector, StackOverflow, Symfony, Wired, WordPress
 
 - https://habr.com/ru/company/funcorp/blog/529378/
 - Отрасли: не найдено
 - Компании: Хабр
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: FUNCORP, Habr, Java, PHP, Smalltalk
 
 - https://habr.com/ru/company/funcorp/blog/541934/
 - Отрасли: предлагает
 - Компании: Хабр, предлагает, Далее
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Google, Google API, Google Play, Google Store
 
 - https://habr.com/ru/company/funcorp/blog/545350/
 - Отрасли: Программное обеспечение, Мобильные технологии
 - Компании: Хабр
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: FunCorp, Microsoft
 
 - https://habr.com/ru/company/google/blog/
 - Отрасли: виртуальные, Machine Learning
 - Компании: Хабр
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: бизнес-инструментов, высокопроизводительных вычислений, гейм-дизайнеров, машинного обучения, мобильных игр, облачных платформ, пользовательского интерфейса
+- Кандидаты компаний: Anthos, Compute Engine, Google Cloud, Google Developers, Google Fonts, Google I/O, Google Play, Google Workspace, Google Таблицы, Jetpack Compose, NVIDIA, Riot Games
 
 - https://habr.com/ru/company/google/blog/425279/
 - Отрасли: Программное обеспечение, Рекрутинг и HR, Дизайн и юзабилити
 - Компании: Хабр
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-индустрия
+- Кандидаты компаний: Google, Google Developers, hangouts, meet
 
 - https://habr.com/ru/company/google/blog/435898/
 - Отрасли: Дизайн и юзабилити, масштабируемость
 - Компании: Хабр
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Google Developers
 
 - https://habr.com/ru/company/gridgain/blog/
 - Отрасли: Программное обеспечение, масштабируемость, Информационная безопасность, ML, Data science, ETL
 - Компании: Хабр, серверы, Open Data Science, VEON, Сбербанк, быструю
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: базы данных, глубокое обучение, машинное обучение, нейронные сети, облачные вычисления, распределенные системы
+- Кандидаты компаний: Apache Ignite, Apache Ignite Meetup, Apache Software Foundation, AWS, DBeaver, Grafana, GridGain, GridGain Systems, Heineken, Jaeger, ODS SPB Meetup, Prometheus, Scalability Camp, Stack Overflow, Telegram, Ubuntu, YouTube, Zabbix, Гидра
 
 - https://habr.com/ru/company/hexlet/blog/432802/
 - Отрасли: предлагает
 - Компании: Хабр, Хекслет, предлагает
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT, онлайн-обучение
+- Кандидаты компаний: Code Basics, Codeacademy, Codingame, FreeCodeCamp, HTML Academy, Scrimba
 
 - https://habr.com/ru/company/hexlet/blog/433770/
 - Отрасли: Рекрутинг и HR
 - Компании: Хабр, Хекслет
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-индустрии
+- Кандидаты компаний: TalentWorks
 
 - https://habr.com/ru/company/hh/blog/318450/
 - Отрасли: не найдено
 - Компании: Хабр, hh.ru, 1С
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: рынок труда
+- Кандидаты компаний: TIOBE
 
 - https://habr.com/ru/company/hsespb/blog/432912/
 - Отрасли: Дизайн и юзабилити, предлагает, Программное обеспечение
 - Компании: Хабр, Питерская Вышка, предлагает
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-индустрия
+- Кандидаты компаний: Amazon, coderpad.io, Google, Google Docs, Hackerrank, Intellij Idea, Nvidia, TripleByte, YouTube
 
 - https://habr.com/ru/company/icanchoose/blog/291790/
 - Отрасли: не найдено
 - Компании: Хабр
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-индустрия
+- Кандидаты компаний: icanchoose.ru
 
 - https://habr.com/ru/company/icanchoose/blog/293086/
 - Отрасли: не найдено
 - Компании: Хабр
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-индустрия
+- Кандидаты компаний: Apple, Google, icanchoose.ru, Microsoft, Twitter
 
 - https://habr.com/ru/company/icanchoose/blog/293476/
 - Отрасли: не найдено
 - Компании: Хабр, Яндекс
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-индустрия
+- Кандидаты компаний: github.com, icanchoose.ru, Гугл, Массачусетский Технологический Институт
 
 - https://habr.com/ru/company/icanchoose/blog/296020/
 - Отрасли: Дизайн и юзабилити, Программное обеспечение
 - Компании: Хабр
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-индустрия, производство программного обеспечения
+- Кандидаты компаний: Google, icanchoose.ru, iPhone, Microsoft, Office
 
 - https://habr.com/ru/company/icanchoose/blog/296152/
 - Отрасли: Программное обеспечение
