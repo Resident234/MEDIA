@@ -57905,146 +57905,146 @@
 - https://habr.com/ru/companies/tinkoff/articles/358356/
 - Отрасли: e-commerce, Программное обеспечение, Оптимизация
 - Компании: Хабр, Т-Банк, Тинькофф, Samsung, QIWI, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-инфраструктура, банковская сфера, платежные системы
+- Кандидаты компаний: Apple Pay, Barclays Bank, Google Pay, Samsung Pay
 
 - https://habr.com/ru/companies/tinkoff/articles/358888/
 - Отрасли: не найдено
 - Компании: Тинькофф, Хабр, Т-Банк
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: финансовые услуги
+- Кандидаты компаний: PasswordVault, Windows, Windows Hello
 
 - https://habr.com/ru/companies/tinkoff/articles/412871/
 - Отрасли: не найдено
 - Компании: Хабр, Т-Банк, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT, банковская сфера, финансовые услуги
+- Кандидаты компаний: Apache, Eclair, GitHub, Jackson, JAXB, Logback, Lombok, Maven Central Repository, ru.tinkoff, Spring, Spring Boot, Tinkoff
 
 - https://habr.com/ru/companies/tinkoff/articles/413921/
 - Отрасли: не найдено
 - Компании: Хабр, Т-Банк
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: банковская сфера, разработка мобильных приложений
+- Кандидаты компаний: Tinkoff.ru
 
 - https://habr.com/ru/companies/tinkoff/articles/414019/
 - Отрасли: не найдено
 - Компании: Хабр, Т-Банк
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: банковская сфера
+- Кандидаты компаний: Apple, MGSwipeTableCell, SwipeCellKit
 
 - https://habr.com/ru/companies/tinkoff/articles/414677/
 - Отрасли: не найдено
 - Компании: Хабр, Т-Банк, Тинькофф
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: разработка мобильных приложений
+- Кандидаты компаний: Apple, iOS, Siri, Tinkoff, WWDC, XCode
 
 - https://habr.com/ru/companies/tinkoff/articles/416301/
 - Отрасли: Enterprise
 - Компании: Хабр, Т-Банк, Далее
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Android, Habr, iOS, Martin Fowler, Soroush Khanlou
 
 - https://habr.com/ru/companies/tinkoff/articles/418723/
 - Отрасли: не найдено
 - Компании: Хабр, Т-Банк, Цифра, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT, мобильная разработка, разработка программного обеспечения
+- Кандидаты компаний: Android, Android Open Source Project, Android SDK, Android Studio, AndroidX, AOSP, AppCompat, CardView, Git, Google, Gradle, Maven, repo, Room, support-библиотеки, WorkManager
 
 - https://habr.com/ru/companies/tinkoff/articles/420033/
 - Отрасли: e-commerce, финансы, торговые
 - Компании: Хабр, Т-Банк, Яндекс
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Платежные системы, Финансы в IT
+- Кандидаты компаний: CashReg, CASHREG, SPARK, Дримкас, ОФД, Спутник, ФНС, Эвотор, Яндекс.Браузер
 
 - https://habr.com/ru/companies/tinkoff/articles/425059/
 - Отрасли: Рекрутинг и HR
 - Компании: Хабр, Т-Банк, Тинькофф
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT, банковская сфера, менторство, онбординг, финансовые услуги
+- Кандидаты компаний: Confluence, iPhone, Mentor.me, SkillCloud, Slack, Tinkoff, Tinkoff.ru, Тинькофф.Кафе
 
 - https://habr.com/ru/companies/tinkoff/articles/429054/
 - Отрасли: не найдено
 - Компании: Хабр, Т-Банк
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT, тестирование IT-систем, тестирование веб-сервисов
+- Кандидаты компаний: GitHub, OpenCV, QVisual, Selenium WebDriver, Telegram, Tinkoff, Tinkoff.ru
 
 - https://habr.com/ru/companies/tinkoff/articles/429692/
 - Отрасли: Оптимизация, Веб-разработка
 - Компании: Хабр, Т-Банк
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Angular, GitHub, HammerJS
 
 - https://habr.com/ru/companies/tinkoff/articles/430784/
 - Отрасли: Информационная безопасность, информационной безопасности, криптографии, Дизайн и юзабилити, Рекрутинг и HR, образование
 - Компании: Хабр, Т-Банк, Базис, Тинькофф
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-индустрия, банковская сфера, криптография, управление персоналом, финансовый сектор
+- Кандидаты компаний: Barclays, General Electric, Raiffeisen, Tinkoff.ru, ЛАНКрипто, МИФИ, ФК Открытие
 
 - https://habr.com/ru/companies/tinkoff/articles/431148/
 - Отрасли: Мобильные технологии, Enterprise
 - Компании: Хабр, Т-Банк, Тинькофф, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: разработка мобильных приложений
+- Кандидаты компаний: Apple, Cocoaheads, Fabric, Firebase, Google, mail.ru, Natalie, R.swift, SwiftGen, Tinkoff.ru, Тинькофф Бизнес
 
 - https://habr.com/ru/companies/tinkoff/articles/432056/
 - Отрасли: Computer Vision
 - Компании: Хабр, Т-Банк
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: банковская сфера, кредитование, ритейл
+- Кандидаты компаний: Dlib, Keras, ResNet-50, VGG-16
 
 - https://habr.com/ru/companies/tinkoff/articles/433756/
 - Отрасли: не найдено
 - Компании: Хабр, Т-Банк
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: автоматизация тестирования, мобильная автоматизация, тестирование мобильных приложений
+- Кандидаты компаний: Allure, Allure-Android, Android, Appium, Badoo, cucumber, Espresso, fork, GitHub, iOS, JUnit4, seeTest, Shazam, spoon, Tinkoff, UIAutomator
 
 - https://habr.com/ru/companies/tinkoff/articles/437942/
 - Отрасли: Поисковые технологии
 - Компании: Хабр, Т-Банк
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT, банковская сфера, разработка мобильных приложений, финансовые услуги
+- Кандидаты компаний: Apple, C++, iOS, JavaScript, Objective-C, Python, Ruby, Swift, Tinkoff.ru, tvOS, watchOS
 
 - https://habr.com/ru/companies/tinkoff/articles/441644/
 - Отрасли: аналитики
 - Компании: Хабр, Т-Банк, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: банковская сфера, финансовые услуги
+- Кандидаты компаний: Angular 5, Apache Zeppelin, Java, Jupyter, React, SOAP, Tinkoff Target, Tinkoff.ru, Vaadin
 
 - https://habr.com/ru/companies/tinkoff/articles/442952/
 - Отрасли: Рекрутинг и HR
 - Компании: Хабр, Т-Банк, ОК
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Tinkoff.ru
 
 - https://habr.com/ru/companies/tinkoff/articles/443714/
 - Отрасли: Веб-разработка
 - Компании: Хабр, Т-Банк
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Angular, GitHub, npm, StackBlitz, TinkoffCreditSystems
 
 - https://habr.com/ru/companies/tinkoff/articles/446342/
 - Отрасли: не найдено
 - Компании: Хабр, Т-Банк, Контур
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: банковские услуги
+- Кандидаты компаний: Gatling, GitLab, nginx, PostgreSQL, Redis, Tinkoff.ru
 
 - https://habr.com/ru/companies/tinkoff/articles/446616/
 - Отрасли: Machine Learning, Big Data, аналитики, ML, BI
 - Компании: Тинькофф, Хабр, Т-Банк, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: банковская деятельность
+- Кандидаты компаний: IBM, T-Bank, Tinkoff.ru
 
 - https://habr.com/ru/companies/tinkoff/articles/448198/
 - Отрасли: Информационная безопасность, аналитики
 - Компании: Хабр, Т-Банк
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Разработка мобильных приложений, Тестирование мобильных приложений
+- Кандидаты компаний: Tinkoff
 
 - https://habr.com/ru/companies/tinkoff/articles/452336/
 - Отрасли: не найдено
 - Компании: Хабр, Т-Банк, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: *nix, DevOps, Nginx, Серверное администрирование
+- Кандидаты компаний: Artifactory, Gitlab CI, Nexus, Teamcity, TinkoffCreditSystems
 
 - https://habr.com/ru/companies/tinkoff/articles/454058/
 - Отрасли: DIY
