@@ -70205,20 +70205,20 @@
 - https://habr.com/ru/company/mailru/blog/547588/
 - Отрасли: Дизайн и юзабилити, предлагает, PaaS, транспортные
 - Компании: Хабр, VK, предлагает, серверы, Хабр Карьера
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: банковское ПО
+- Кандидаты компаний: Eloquent ORM, Laravel
 
 - https://habr.com/ru/company/mailru/blog/549698/
 - Отрасли: Веб-разработка, Enterprise
 - Компании: Хабр, VK, Хабр Карьера
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-систем, Тестирование IT-систем, Тестирование веб-сервисов
+- Кандидаты компаний: Habr
 
 - https://habr.com/ru/company/mailru/blog/551240/
 - Отрасли: Веб-разработка
 - Компании: Хабр, VK, Хабр Карьера
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: параллельное программирование, программирование
+- Кандидаты компаний: amphp, Apache, CakePHP, CodeIgniter, Go, Laravel, nginx, PHP, PHP Internals Podcast, ReactPHP, Rust, Symfony
 
 - https://habr.com/ru/company/mailru/blog/560460/
 - Отрасли: не найдено
@@ -70229,128 +70229,128 @@
 - https://habr.com/ru/company/mailru/blog/565028/
 - Отрасли: не найдено
 - Компании: Хабр, VK, Хабр Карьера
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Веб-скрейпинг, Программирование, Тестирование веб-сервисов
+- Кандидаты компаний: Books to Scrape, Composer, Goutte, Guzzle, Headless-браузер Symfony Panther, Node.js, Python, Scrapingdog, Simple HTML DOM, Symfony
 
 - https://habr.com/ru/company/manychat/blog/468953/
 - Отрасли: маркетинге, Рекрутинг и HR
 - Компании: Хабр, Звук, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT
+- Кандидаты компаний: ManyChat
 
 - https://habr.com/ru/company/manychat/blog/478350/
 - Отрасли: не найдено
 - Компании: Хабр, ВТБ
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Avito, ManyChat, YouTube, ВТБ Факторинг, Ланит, НИУ ВШЭ, НСС
 
 - https://habr.com/ru/company/manychat/blog/492964/
 - Отрасли: процессинг
 - Компании: Хабр, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: маркетинговая автоматизация
+- Кандидаты компаний: Facebook, ManyChat, Nginx, PostgreSQL, Redis
 
 - https://habr.com/ru/company/manychat/blog/499034/
 - Отрасли: процессинг
 - Компании: Хабр
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Facebook, Facebook Messenger, Google Sheets, ManyChat, Redis
 
 - https://habr.com/ru/company/manychat/blog/507136/
 - Отрасли: процессинг
 - Компании: Хабр
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: ManyChat, Redis
 
 - https://habr.com/ru/company/maxilect/blog/417385/
 - Отрасли: не найдено
 - Компании: Хабр, Maxilect, RDP, Базис, VK
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-индустрия
+- Кандидаты компаний: Максилект
 
 - https://habr.com/ru/company/maxilect/blog/437472/
 - Отрасли: не найдено
 - Компании: Хабр, Maxilect, VK
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-индустрия
+- Кандидаты компаний: Jira
 
 - https://habr.com/ru/company/medgadgets/blog/241437/
 - Отрасли: DIY
 - Компании: Хабр
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: EmulationStation, Google Calendar, Instructables, Lego, Medgadgets, NES, PiPad, PlayStation, Raspberry Pi, RetroArch, RetroPie, SCUMMVM, Sega Genesis, Skype, SNES, XBMC, zxspectrum, университета Саутгемптона
 
 - https://habr.com/ru/company/microsoft/blog/
 - Отрасли: маркетинге
 - Компании: Хабр, FUJITSU
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: гостиничного бизнеса, здравоохранения, ПО и ИТ-услуг, продуктов питания, производства, розничных продаж, телекоммуникационного
+- Кандидаты компаний: .NET, .NET Multi-platform App UI, AngelsDeck, ASP.NET Core, Azure Data Explorer, Azure DDoS Protection, Dynamics 365, EF7, GitHub, ID@Xbox, Microsoft, Microsoft Azure, Microsoft Azure Arc, Microsoft Teams, Microsoft Viva, Nokia, Office, PowerBI, QDK, SharePoint, SQL Server, Visual Studio, Visual Studio .NET, Visual Studio Code, Windows, Windows Terminal, Xbox, Xbox Game Pass, Xbox One, Xbox Series X|S, Магазина Microsoft, Твиттере
 
 - https://habr.com/ru/company/microsoft/blog/279947/
 - Отрасли: Веб-разработка
 - Компании: Хабр
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Git, GitHub, Microsoft, Visual Studio, Visual Studio Code, Visual Studio Marketplace, VS Code, XDebug
 
 - https://habr.com/ru/company/microsoft/blog/281667/
 - Отрасли: не найдено
 - Компании: Хабр
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Facebook, Git, github, GitHub, Microsoft, React Native, Visual Studio, Visual Studio 2015, Visual Studio Code, Visual Studio Dev Essentials, Visual Studio Team Services, X, ВКонтакте
 
 - https://habr.com/ru/company/miip/blog/313326/
 - Отрасли: образование, Мобильные технологии, Программное обеспечение, Дизайн и юзабилити, информационной безопасности
 - Компании: Хабр, Высшая школа бизнеса НИУ ВШЭ, Далее, VK, Звук
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Игровая индустрия
+- Кандидаты компаний: ant-karlov.ru, App2Top, apps4all.ru, apptractor.ru, aushestov.ru, CD Project Red, CGSpeak, Creoteam, EEDAR, Epic Games, Flazm.com, gamedev.ru, gamedevblogs.ru, gamedis.ru, gamesisart.ru, gamesjam.org, gcup.ru, Guard of Wonderland, HeroCraft, indiedev.name, Kallist, kanobu.ru, Kickstarter, NEWZOO, Nival, ORС WORK, progamedev.net, Reddit, SurveyMonkey Intelligence, torick.ru, Wargaming.net, Wonder Games, Игромания, ИД Комитет
 
 - https://habr.com/ru/company/modesco/blog/472092/
 - Отрасли: не найдено
 - Компании: Хабр
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: habr, Modesco, stackoverflow, symfony, WSO
 
 - https://habr.com/ru/company/moikrug/blog/335344/
 - Отрасли: Data science
 - Компании: Хабр, Хабр Карьера, Open Data Science
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-индустрия, ИТ
+- Кандидаты компаний: Behance, Dribbble, GitHub, infogr.am, Reddit, StackOverflow, Web Standards, Гиктаймс, медиум, Мой круг, Тостер, Хабрахабр
 
 - https://habr.com/ru/company/moikrug/blog/424373/
 - Отрасли: Рекрутинг и HR, медиа, бухгалтерия, CRM, образование, предлагает, Machine Learning
 - Компании: Voximplant, Хабр, Хабр Карьера, быструю, Далее, Арендовать, ИТМО, предлагает, Сбербанк, Яндекс
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-индустрия, рынок облачных коммуникационных платформ как сервисов (CPaaS)
+- Кандидаты компаний: AIC Media, Google, Skype, Smartcalls, Twillio, Zingaya, Мой круг
 
 - https://habr.com/ru/company/moikrug/blog/427027/
 - Отрасли: аналитики, Data science, образование
 - Компании: СКБ Контур, Хабр, Хабр Карьера, Контур, Далее, Яндекс
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: ИТ-индустрия
+- Кандидаты компаний: Echelon, ELK, Graphite, Houston, JetBrains, Jira, Kanso, Kubernetes, Moira, Octopus, Rider, Slack, TeamCity, Telegram, Trello, Visual Studio, Visual Studio Code, WebStorm, YouTrack, Zebra, Контур.Экстерн, Мой круг
 
 - https://habr.com/ru/company/moikrug/blog/436450/
 - Отрасли: CRM, госсектора
 - Компании: Хабр, Хабр Карьера, ИТМО, VK, билайн
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-индустрия
+- Кандидаты компаний: Cloudiverse, Dropbox, Emny, Google Drive, Hacker News, Skype, Slack, Staply, TechCrunch, VC, Ведомости, Мобильное предприятие, Моего круга, Октаплан, Росэнергоатом
 
 - https://habr.com/ru/company/netcracker/blog/277433/
 - Отрасли: не найдено
 - Компании: Хабр, Netcracker, Space
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: jsfiddle.net, w3.org
 
 - https://habr.com/ru/company/netologyru/blog/323928/
 - Отрасли: Рекрутинг и HR
 - Компании: Хабр, Нетология, 1С
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: розничная торговля
+- Кандидаты компаний: 1С Битрикс
 
 - https://habr.com/ru/company/netologyru/blog/434202/
 - Отрасли: Data science, Big Data
 - Компании: Хабр, Нетология
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-индустрия, радио, телевидение
+- Кандидаты компаний: MS Excel, SAS
 
 - https://habr.com/ru/company/netologyru/blog/576942/
 - Отрасли: предлагает
