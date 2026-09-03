@@ -31955,134 +31955,134 @@
 - https://habr.com/ru/companies/nubes/articles/top/
 - Отрасли: провайдер, информационной безопасности, энергетик, ERP
 - Компании: Nubes, провайдер, Хабр, 1С
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: дата-центры, доставка, кибербезопасность, нефтедобыча, онлайн-кинотеатры, социальные сети, такси, финансовые услуги, холодильное оборудование, энергетика
+- Кандидаты компаний: APS, F.A.C.C.T., Kubernetes, Kubespray, Microsoft, NGcloud, NSX-T, Nubes Alto, Oracle, SAP, UpTime Institute, Vertiv, VMware, Штурвал
 
 - https://habr.com/ru/companies/odnoklassniki/articles/115881/
 - Отрасли: DWH, OLAP, Оптимизация
 - Компании: Хабр, ОК, ПИК, Хабр Карьера
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: социальные сети
+- Кандидаты компаний: Cacti, Cisco, Google, Microsoft, Odnoklassniki, Zabbix, Одноклассники
 
 - https://habr.com/ru/companies/odnoklassniki/articles/128328/
 - Отрасли: не найдено
 - Компании: Хабр, ОК, Звук, Хабр Карьера
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: видеочат, мобильные приложения, социальные сети
+- Кандидаты компаний: 3G, 3GS, Android, Apple, EDGE, H.263, iOS, iPad, iPhone, Odnoklassniki_ru, OpenGL ES, Speex, Wi-Fi, Одноклассники, одноклассники.ru, Одноклассники.ру
 
 - https://habr.com/ru/companies/odnoklassniki/articles/139185/
 - Отрасли: не найдено
 - Компании: Хабр, ОК, Хабр Карьера
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: социальные сети
+- Кандидаты компаний: Apache, BigMemory, Cassandra, DirectMemory, Elastic Memory, Habr, Hazelcast, HotSpot, JDK, Mac, Odnoklassniki_ru, OpenJDK, Terracota, Ubuntu, Windows, Одноклассники
 
 - https://habr.com/ru/companies/odnoklassniki/articles/148139/
 - Отрасли: не найдено
 - Компании: Хабр, ОК, Хабр Карьера
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: высоконагруженные системы
+- Кандидаты компаний: Apache Java Caching System, Ehcache, Intel, Java, JDK, JIT, JNA, JNI, JVM, Linux, Oracle JDK, Terracota, Tomcat, Windows, Одноклассники
 
 - https://habr.com/ru/companies/odnoklassniki/articles/149391/
 - Отрасли: аналитики, OLAP, Enterprise, DWH, Big Data
 - Компании: Хабр, ОК, серверы, Хабр Карьера
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: бизнес-анализ, мониторинг, социальные сети, хранилище данных
+- Кандидаты компаний: ASP.NET, Cacti, DevExpress, Microsoft, MS SQL, Odnoklassniki_ru, Zabbix, Одноклассники
 
 - https://habr.com/ru/companies/odnoklassniki/articles/158917/
 - Отрасли: Оптимизация
 - Компании: Хабр, ОК, Хабр Карьера
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: клиентская разработка
+- Кандидаты компаний: Chrome, dabblet, Facebook, Firefox, Google+, Mac, Odnoklassniki_ru, Opera, Webkit, Windows, ВКонтакте, Я.Диск
 
 - https://habr.com/ru/companies/odnoklassniki/articles/255067/
 - Отрасли: не найдено
 - Компании: Хабр, ОК, Хабр Карьера
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Google, Guava, HotSpot, JDK, JVM, QueryDSL, StackOverflow, ОК Java
 
 - https://habr.com/ru/companies/odnoklassniki/articles/265133/
 - Отрасли: Информационная безопасность, видеосервис
 - Компании: Хабр, ОК, серверы, Далее, Хабр Карьера
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-инфраструктура, видеохостинг, социальные сети
+- Кандидаты компаний: FileAPI, Firefox, IE, Internet Explorer, jQuery, Linux Virtual Server, LVS, Mail.Ru, RequireJS, RubaXa, Одноклассники
 
 - https://habr.com/ru/companies/odnoklassniki/articles/266005/
 - Отрасли: не найдено
 - Компании: Хабр, ОК, Цифра, Хабр Карьера
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT, видеохостинг, высоконагруженные системы, социальные сети
+- Кандидаты компаний: CentOS, CFEngine, Intel, kernel.org, Linux, OpenSuSE, Одноклассники
 
 - https://habr.com/ru/companies/odnoklassniki/articles/268413/
 - Отрасли: Программное обеспечение
 - Компании: Хабр, ОК, серверы, Далее, Хабр Карьера
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-инфраструктура, высоконагруженные системы, социальные сети
+- Кандидаты компаний: CFEngine, openSUSE, Одноклассники
 
 - https://habr.com/ru/companies/odnoklassniki/articles/277527/
 - Отрасли: Big Data, Data science
 - Компании: Хабр, ОК, Далее, Хабр Карьера
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: анализ социальных сетей, большие данные, машинное обучение, социальные сети
+- Кандидаты компаний: Apache Spark, GitHub, Google Cloud, MLLib, SNA Hakathon, Одноклассники
 
 - https://habr.com/ru/companies/odnoklassniki/articles/301182/
 - Отрасли: Оптимизация
 - Компании: Хабр, JUG Ru Group, ОК
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT, Высоконагруженные системы
+- Кандидаты компаний: HotSpot, JUG.ru, Luxoft, StackOverflow, Sun Microsystems, Youtube, Одноклассники, ОК Java
 
 - https://habr.com/ru/companies/odnoklassniki/articles/312562/
 - Отрасли: Data science, информационной безопасности
 - Компании: Хабр, JUG Ru Group, ОК, серверы, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT, анализ данных, видеостриминг, высоконагруженные системы, облачные технологии, разработка программного обеспечения, социальные сети
+- Кандидаты компаний: Cacti, Joker, OK Live, OK Сообщения, Oracle, Spark, Одноклассники
 
 - https://habr.com/ru/companies/odnoklassniki/articles/313978/
 - Отрасли: Оптимизация
 - Компании: Хабр, ОК, Хабр Карьера
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: IE6, OK CSS, W3C
 
 - https://habr.com/ru/companies/odnoklassniki/articles/336390/
 - Отрасли: Data science, Big Data
 - Компании: Хабр, ОК, Хабр Карьера
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: социальные сети
+- Кандидаты компаний: ВКонтакте, Одноклассники, ОК Big Data, Тиндер
 
 - https://habr.com/ru/companies/odnoklassniki/articles/337368/
 - Отрасли: Data science, Big Data, образование
 - Компании: Хабр, ОК, Хабр Карьера
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Big Data, ВКонтакте, МГУ, Национальный рейтинг университетов, Одноклассники, РГПУ им. Герцена, СПбГУ
 
 - https://habr.com/ru/companies/odnoklassniki/articles/342300/
 - Отрасли: Оптимизация, виртуальные
 - Компании: Хабр, ОК, серверы, Далее, Хабр Карьера
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Configuration management, DevOps, Системное администрирование
+- Кандидаты компаний: Ansible, CFEngine, Chef, Google Trends, IBM, LinkedIn, NASA, Puppet, Zabbix, Одноклассники, ОК DevOps
 
 - https://habr.com/ru/companies/odnoklassniki/articles/342400/
 - Отрасли: Big Data
 - Компании: Хабр, ОК, Хабр Карьера
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: content moderation, social media
+- Кандидаты компаний: Модератор Одноклассников, Одноклассники
 
 - https://habr.com/ru/companies/odnoklassniki/articles/346868/
 - Отрасли: не найдено
 - Компании: Хабр, ОК, серверы, Далее, Хабр Карьера
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-инфраструктура
+- Кандидаты компаний: Docker, Linux, ok.ru, One-cloud, one-graph, user-cache, Одноклассники
 
 - https://habr.com/ru/companies/odnoklassniki/articles/347798/
 - Отрасли: Оптимизация, IAAS, PaaS, SaaS
 - Компании: Хабр, ОК, Хабр Карьера
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT
+- Кандидаты компаний: AWS, Azure, Docker, GitHub, Google Gloud, Mail.Ru Group, Yandex.Tank, Одноклассники, Санкт-Петербургский Политехнический университет Петра Великого, Техноатом, Технопарк, Технополис, Технострим, Техносфера, Технотрек
 
 - https://habr.com/ru/companies/odnoklassniki/articles/350566/
 - Отрасли: Big Data, Оптимизация
 - Компании: Хабр, ОК, Далее, Хабр Карьера
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Data Mining, машинное обучение, обработка изображений, распознавание лиц, социальные сети
+- Кандидаты компаний: FaceBoxes, Inception-ResNet, Light CNN, MegaFace, MSCeleb, MTCNN, One-cloud, StarFace, VGGFace, VGGFace2, Wide ResNet, Одноклассники
 
 - https://habr.com/ru/companies/odnoklassniki/articles/353006/
 - Отрасли: торговли
@@ -32093,14 +32093,14 @@
 - https://habr.com/ru/companies/odnoklassniki/articles/412709/
 - Отрасли: Big Data, Machine Learning, аутсорсинг, онлайн-курсы, Data science, ML, аналитики
 - Компании: Хабр, ОК, ПИК, Тинькофф, Далее, Хабр Карьера
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Data Mining, Машинное обучение, Социальные сети
+- Кандидаты компаний: Apache Kafka, Spark, Zeppelin, Википедия, Одноклассники, Росстат, Технострим
 
 - https://habr.com/ru/companies/odnoklassniki/articles/417593/
 - Отрасли: масштабируемость, предлагает
 - Компании: Хабр, ОК, предлагает, серверы, Далее, Хабр Карьера
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-инфраструктура, Социальные сети
+- Кандидаты компаний: Cassandra, Microsoft, OK, SQL Server, Одноклассники
 
 - https://habr.com/ru/companies/odnoklassniki/articles/420469/
 - Отрасли: Big Data, масштабируемость, OLAP, embedded, Оптимизация
