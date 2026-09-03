@@ -32705,151 +32705,151 @@
 - https://habr.com/ru/companies/oleg-bunin/articles/697220/
 - Отрасли: Big Data, аналитики, ETL, BI, DWH, Оптимизация
 - Компании: Тинькофф, Хабр, Конференции Олега Бунина (Онтико), Т-Банк
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: банковский сектор
+- Кандидаты компаний: Confluence, Google, LinkedIn, Lyft, Uber
 
 - https://habr.com/ru/companies/oleg-bunin/articles/700068/
 - Отрасли: Enterprise, Machine Learning
 - Компании: Хабр, Сбер, Конференции Олега Бунина (Онтико), Бэклог, Далее, Сбербанк
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: cloud-native технологии, IT, банковская сфера, интеграционные решения, финансовые услуги
+- Кандидаты компаний: DevPortal, Envoy, Federated (Super) Mesh, Istio, Kubernetes, OpenShift, Oracle, Platform V SynAI, Platform V Synapse, PostgreSQL, SAP, Онтико, СберБанк Онлайн, СберТех
 
 - https://habr.com/ru/companies/oleg-bunin/articles/708112/
 - Отрасли: Информационная безопасность, Программное обеспечение, Enterprise
 - Компании: Хабр, Конференции Олега Бунина (Онтико), Angara Security, OWASP, Далее, ОК, InfoWatch, CodeScoring
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Open Source, веб-программирование
+- Кандидаты компаний: Angara Techday, Git Guardian, Github, Gitlab, gitleaks, gittyleaks, Mend, trufflehog, White Source, Онтико
 
 - https://habr.com/ru/companies/oleg-bunin/articles/715844/
 - Отрасли: Дизайн и юзабилити, e-commerce, DWH
 - Компании: Хабр, Конференции Олега Бунина (Онтико), Авито
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT
+- Кандидаты компаний: Avito, AvitoTech, MySQL, Parallel, PDO, PHP FPM, Postgres, Swoole, Онтико
 
 - https://habr.com/ru/companies/oleg-bunin/articles/718302/
 - Отрасли: Оптимизация
 - Компании: Хабр, Конференции Олега Бунина (Онтико), Т-Банк, Тинькофф
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT, банковская сфера, разработка программного обеспечения, финансовые услуги
+- Кандидаты компаний: FindYourDream, npm, nx-workspace, Webpack, Онтико
 
 - https://habr.com/ru/companies/oleg-bunin/articles/719394/
 - Отрасли: PKI, процессинг, информационной безопасности, облачные сервисы
 - Компании: Хабр, Конференции Олега Бунина (Онтико), Сбер
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-инфраструктура, облачные инфраструктуры, Сетевые технологии
+- Кандидаты компаний: Cilium, Envoy Proxy, GRPC, Istio, Kubernetes, Linkerd, NGINX Plus, Synapse, Конференции Олега Бунина, Онтико, СберТех
 
 - https://habr.com/ru/companies/oleg-bunin/articles/720216/
 - Отрасли: не найдено
 - Компании: Хабр, Конференции Олега Бунина (Онтико), Skyeng, Далее, ОК
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Easy Coding Standard, GitHub, PHP CS Fixer, PHPStan, Psalm, Rector, Slevomat, Slevomat Coding Standard, Конференции Олега Бунина, Онтико
 
 - https://habr.com/ru/companies/oleg-bunin/articles/720986/
 - Отрасли: Веб-разработка, Электронная коммерция, предлагает
 - Компании: Хабр, Конференции Олега Бунина (Онтико), Т-Банк, предлагает
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: DevOps, FrontOps
+- Кандидаты компаний: Amazon Web Services, AWS, FrontendConf, Kubernetes, Tinkoff, Tinkoff eCommerce, Конференции Олега Бунина, Онтико
 
 - https://habr.com/ru/companies/oleg-bunin/articles/723092/
 - Отрасли: процессинг
 - Компании: Хабр, Конференции Олега Бунина (Онтико), Сбер
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: backend-разработка, интеграционные платформы, кибербезопасность, микросервисная архитектура, облачные вычисления, сетевые технологии
+- Кандидаты компаний: Cilium, Cilium Service Mesh, Consul, Consul Service Mesh, Envoy, Envoy Proxy, gRPC, Istio, Kubernetes, Kuma, Linkerd, Nginx, Nginx Service Mesh, Open Service Mesh, Platform V Synapse, Traefic, Онтико, СберТех
 
 - https://habr.com/ru/companies/oleg-bunin/articles/726880/
 - Отрасли: не найдено
 - Компании: Хабр, Конференции Олега Бунина (Онтико), Т-Банк, Тинькофф
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT, банковская сфера, микросервисы, микрофронтенды, финансовые услуги
+- Кандидаты компаний: @angular-architects/module-federation, Angular, BFF, HttpClient, Module Federation, React, Router, TuiDestroyService, Vue, Webpack, Онтико
 
 - https://habr.com/ru/companies/oleg-bunin/articles/729134/
 - Отрасли: Информационная безопасность, Дизайн и юзабилити
 - Компании: Positive Technologies, Хабр, Конференции Олега Бунина (Онтико), Кошелёк, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Bug hunters, Тестирование IT-систем
+- Кандидаты компаний: GitHub, html2canvas, PortSwigger, PT SWARM, Telegram, Wikipedia, Онтико
 
 - https://habr.com/ru/companies/oleg-bunin/articles/737218/
 - Отрасли: облачные сервисы, облачных сервисов, CRM
 - Компании: Хабр, Конференции Олега Бунина (Онтико), Skyeng, Далее, Бэклог
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: операционная деятельность, техническая поддержка
+- Кандидаты компаний: Dokwork, Omnidesk, PHP Russia, Usedesk, Конференции Олега Бунина, Онтико
 
 - https://habr.com/ru/companies/oleg-bunin/articles/754634/
 - Отрасли: не найдено
 - Компании: Хабр, Конференции Олега Бунина (Онтико), Yandex Cloud & Yandex Infrastructure, Яндекс, Raft, ОК, N+1, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-инфраструктура, дата-центры, облачные технологии, управление базами данных
+- Кандидаты компаний: Adfox, ClusterControl, GitHub, Master High Availability, MHA, MySQL Group Replication, MySync, Orchestrator, Severalnines, TCD, Yandex Cloud, Yandex Infrastructure, Yandex Managed Service for MySQL, zookeeper, Вертикали, Кинопоиск, Онтико, Яндекс Директ
 
 - https://habr.com/ru/companies/oleg-bunin/articles/761780/
 - Отрасли: Big Data, Оптимизация, аналитики, BigData
 - Компании: Хабр, Конференции Олега Бунина (Онтико), билайн
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Хранение данных
+- Кандидаты компаний: Amazon, Apple, beeline, Cloudera, Facebook, Hive, Impala, Netflix, Twitter, Онтико
 
 - https://habr.com/ru/companies/omk-it/articles/top/
 - Отрасли: ML, ERP, бухгалтерия, CRM
 - Компании: ОМК — ИТ, Хабр, Далее, РЖД, Контур, 1С, серверы
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: АСУТП, вагоноремонт, вибродиагностика, диагностика оборудования, железнодорожный транспорт, ИТ, машиностроение, производство, трубное производство
+- Кандидаты компаний: C3 AI, EMEA, SAS, НЛМК, ОМК
 
 - https://habr.com/ru/companies/omprussia/articles/555238/
 - Отрасли: не найдено
 - Компании: Хабр, Открытая мобильная платформа, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Геоинформационные сервисы
+- Кандидаты компаний: GitHub, Noto, OpenStreetMap, OSM Scout Server, QGeoMapReplyOsmScoutOffline, QGeoRoutingManagerEngineOsmScoutOffline, QGeoServiceProviderFactoryOsmScoutOffline, QGeoTiledMappingManagerEngineOsmScoutOffline, QGeoTileFetcherOsmScoutOffline, Qt, Sight Safari, ОС Аврора
 
 - https://habr.com/ru/companies/omprussia/articles/558690/
 - Отрасли: процессинг, предлагает
 - Компании: Хабр, Открытая мобильная платформа, предлагает
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: микросервисы, мобильные операционные системы, разработка ПО
+- Кандидаты компаний: easyjson, Go, go-kit, golang.org/x/tools/cmd/stringer, GopherCon Russia, gorm, Java Spring, MongoDB, MySQL, PostgreSQL, Spring, Аврора, Аврора Маркет, Аврора ТЕЕ, Аврора Центр
 
 - https://habr.com/ru/companies/omprussia/articles/568704/
 - Отрасли: не найдено
 - Компании: Хабр, Открытая мобильная платформа
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: безопасность информации и коммуникаций, государственные структуры, мобильные устройства, офисные программы, российское ПО, системы электронного документооборота, ЭДО
+- Кандидаты компаний: Android, Inkscape, Inoi, iOS, Magick, MuPDF, PDFium, Poppler, Qualcomm, Snapdragon, ОС Аврора, ФСБ, ФСТЭК
 
 - https://habr.com/ru/companies/omprussia/articles/top/
 - Отрасли: не найдено
 - Компании: Открытая мобильная платформа, Хабр
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: кибербезопасность, корпоративные решения, мобильные платформы, операционные системы, распознавание речи, транскрибирование аудио
+- Кандидаты компаний: ARM, GitHub, Linux Kernel Runtime Guard, LKRG, MuPDF, OS-DAY, PDFium, Poppler, Push Receiver, Qt GeoServices, Sight Safari, YouTube, Аврора ТЕЕ, ОС Аврора
 
 - https://habr.com/ru/companies/onlinepatent/articles/679918/
 - Отрасли: финансы, маркетинге, SaaS, EdTech, диджитал, промышленность, образование, IoT, Аппаратное обеспечение, промышленные, аналитики
 - Компании: Хабр, Online patent, Skillbox, Яндекс, Госуслуги
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: AgroTech, FinTech, HrTech, авиастроение, агробизнес, машиностроение, сельскохозяйственный сектор, текстильная индустрия, химическое производство
+- Кандидаты компаний: AgroSmart, EBAC International, Embraer, GetCourse, JetBow, Mentorama
 
 - https://habr.com/ru/companies/onlinepatent/articles/680486/
 - Отрасли: промышленность, промышленные, аналитики
 - Компании: Хабр, Online patent, ПИК, FUJITSU, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Аналитика, Инженерные системы, Пищевая промышленность, Сельское хозяйство, Экология
+- Кандидаты компаний: Alfa Laval, Applied Membranes, Botanical Water Foundation, Dow DuPont, GEA Group, IIT Kanpur (IIT-K), Inopor, Koch Membrane Systems, Panasonic, Zero Mass Water, МТИ США, Южно-Уральский государственный университет
 
 - https://habr.com/ru/companies/onlinepatent/articles/681554/
 - Отрасли: финансы, машиностроения, EdTech, образование, диджитал, финтех, Рекрутинг и HR, MedTech, промышленные, торговли, аналитики
 - Компании: Хабр, Online patent, Цифра, Skillfactory, Минпромторга
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: FinTech, IT, возобновляемые источники энергии, добыча полезных ископаемых, защита персональных данных, кибербезопасность, машиностроение, производство электроники, сельское хозяйство, текстиль, фармацевтика
+- Кандидаты компаний: McKinsey, Rebotica
 
 - https://habr.com/ru/companies/onlinepatent/articles/682672/
 - Отрасли: аналитики
 - Компании: Хабр, Online patent
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Инженерные системы, Энергия и элементы питания
+- Кандидаты компаний: Bell Labs, Edison-Swan United Electric Lighting Co, IEEE
 
 - https://habr.com/ru/companies/onlinepatent/articles/683614/
 - Отрасли: транспортные, виртуальные, аналитики
 - Компании: Хабр, Online patent
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: автомобильная промышленность, промышленность развлечений, технологическая промышленность
+- Кандидаты компаний: Apple, Роспатент
 
 - https://habr.com/ru/companies/onlinepatent/articles/684000/
 - Отрасли: промышленные, предлагает
 - Компании: Хабр, Online patent, Далее, предлагает
-- Кандидаты отраслей: не найдено
+- Кандидаты отраслей: Энергия и элементы питания
 - Кандидаты компаний: не найдено
 
 - https://habr.com/ru/companies/onlinepatent/articles/684870/
