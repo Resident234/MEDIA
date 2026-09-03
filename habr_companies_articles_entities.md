@@ -27305,152 +27305,152 @@
 - https://habr.com/ru/companies/lsfusion/articles/741978/
 - Отрасли: не найдено
 - Компании: Хабр, lsFusion, Space, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Базы данных, Бизнес-приложения, Высоконагруженные системы, Программирование, Серверное администрирование
+- Кандидаты компаний: Apache Tomcat, PostgreSQL
 
 - https://habr.com/ru/companies/lsfusion/articles/743894/
 - Отрасли: ERP, Оптимизация
 - Компании: lsFusion, Хабр, быструю, t2
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: высоконагруженные системы, розничные сети
+- Кандидаты компаний: dstat, lsFusion ERP, PostgreSQL, Zabbix
 
 - https://habr.com/ru/companies/m2tech/articles/592241/
 - Отрасли: не найдено
 - Компании: Хабр, m2_tech, Далее, Хабр Карьера
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-инфраструктура, Программирование
+- Кандидаты компаний: Apache Kafka, Docker, Elasticsearch, Fluentd, Gitlab CI, Gradle, gRPC, Helm, Intellij Idea, Java-platform, Kibana, Kubernetes, Logback, Nebula, Netflix, Spring Boot, Spring Cloud, Yandex.Cloud, Метр квадратный
 
 - https://habr.com/ru/companies/m2tech/articles/595841/
 - Отрасли: облачные сервисы, PaaS, SaaS
 - Компании: Хабр, m2_tech, 1С, Proto, Яндекс, Хабр Карьера
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-инфраструктура
+- Кандидаты компаний: Apache Kafka, M2, MongoDB, Redis, Yandex, Yandex Data Platform, Yandex Data Transfer, Yandex Scale, Yandex.Cloud
 
 - https://habr.com/ru/companies/m2tech/articles/652305/
 - Отрасли: аналитики
 - Компании: Хабр, m2_tech, Proto, Далее, Хабр Карьера
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Envoy, Google, gRPC-gateway, gRPC-web, Istio, АльфаБанк
 
 - https://habr.com/ru/companies/m2tech/articles/660909/
 - Отрасли: не найдено
 - Компании: Хабр, m2_tech, Далее, Хабр Карьера
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: DevOps, Logging, Open source
+- Кандидаты компаний: Banzai Cloud, Elastic Stack, Elasticsearch, Filebeat, Fluent Bit, Fluentd, Github, Kafka, Logstash, Loki, M2, S3, Splunk, Vector
 
 - https://habr.com/ru/companies/m2tech/articles/693504/
 - Отрасли: не найдено
 - Компании: Хабр, m2_tech, Далее, Хабр Карьера
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Distributed helm-chart, Elastic, Elastic Stack, Elasticsearch, Fluent Bit, Grafana, Grafana Loki, Grafana Stack, Grafana Tempo, Helm, Jaeger, Kafka, Keda, Kibana, Kubernetes, Logstash, Loki, Memcached, Object Storage, Prometheus, Redis, Tempo, Vector, X-Pack
 
 - https://habr.com/ru/companies/m2tech/articles/699782/
 - Отрасли: не найдено
 - Компании: Хабр, m2_tech, Хабр Карьера
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Jira, M2, M2tech
 
 - https://habr.com/ru/companies/m2tech/articles/719498/
 - Отрасли: Мобильные технологии
 - Компании: Хабр, m2_tech, Хабр Карьера
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: android development, Android‑разработка, mobile development, бэкенд‑разработчики, мобильная разработка
+- Кандидаты компаний: Метр квадратный
 
 - https://habr.com/ru/companies/m2tech/articles/763312/
 - Отрасли: DIY, недвижимость, недвижимости
 - Компании: Хабр, m2_tech, Далее, Хабр Карьера
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: QA, тестирование IT-систем, тестирование веб-сервисов
+- Кандидаты компаний: DevTools, Google, JetBrains, Jira, Postman, ShareX, Slack, Tampermonkey, YouTube
 
 - https://habr.com/ru/companies/m2tech/articles/765040/
 - Отрасли: не найдено
 - Компании: Хабр, m2_tech, Хабр Карьера
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Метре квадратный
 
 - https://habr.com/ru/companies/magnit/articles/top/
 - Отрасли: e-commerce, аналитики, Оптимизация, BI, ML
 - Компании: Магнит, Хабр, Контур
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: геоинформационных систем, онлайн-ритейлер, офлайн-ритейлер, розничная сеть, управление цепочками поставок
+- Кандидаты компаний: ClickHouse, Confluence, Hibernate, Kafka, Kaggle, Magnit, Magnit Tech, MAGNIT TECH, PostgreSQL, QlikSense, Spring Data JPA, SuperSet, Tableau
 
 - https://habr.com/ru/companies/magnus-tech/articles/738836/
 - Отрасли: видеоаналитики, транспортные
 - Компании: Хабр, Magnus Tech
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Видеоаналитика, Транспорт, Умный город
+- Кандидаты компаний: NVIDIA, OpenCV
 
 - https://habr.com/ru/companies/magnus-tech/articles/741902/
 - Отрасли: OCR
 - Компании: Хабр, Magnus Tech, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: автономное вождение, индустрия автономного вождения, транспорт, транспортная безопасность
+- Кандидаты компаний: Jetson Nano, Minio, Nvidia, OpenCV, PyTorch, RabbitMQ, TensorRT, Tesla, YOLO, YOLOv5s
 
 - https://habr.com/ru/companies/magnus-tech/articles/744504/
 - Отрасли: Программное обеспечение, Computer Vision
 - Компании: Хабр, Magnus Tech
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Open source, Машинное обучение, Обработка изображений
+- Кандидаты компаний: Bing, bing-image-downloader, CVAT, Docker, Docker Compose, FiftyOne, GitHub, OpenCV, PostgreSQL, Redis, Ultralytics, YOLO, YOLOv5, YOLOv5x6
 
 - https://habr.com/ru/companies/magnus-tech/articles/750746/
 - Отрасли: видеоаналитики, Оптимизация
 - Компании: Хабр, Magnus Tech, Тензор, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Американский футбол, Спортивная видеоаналитика
+- Кандидаты компаний: AWS, Kaggle, NFL
 
 - https://habr.com/ru/companies/maxilect/articles/345156/
 - Отрасли: Рекрутинг и HR, торговли, маркетинге, ML
 - Компании: Maxilect, Хабр, Далее, Space
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-индустрия, рынок разработки ПО
+- Кандидаты компаний: C-Blues, cnews, Sony, TogetherSoft
 
 - https://habr.com/ru/companies/maxilect/articles/349236/
 - Отрасли: Дизайн и юзабилити
 - Компании: Хабр, Maxilect, Звук, Далее, ПИК, VK
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: EMU, EMU 0204, Excel, Fender, Fender Stratocaster Ritchie Blackmore Edition, JTV89, MathNet, Matlab, Music Man, Music Man JP7, Muzique, NAudio, Shure, Shure M58, till.com
 
 - https://habr.com/ru/companies/maxilect/articles/350322/
 - Отрасли: маркетинге, CRM
 - Компании: Хабр, Maxilect, Далее, VK
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: B2B рынок, InBound маркетинг, IT-индустрия, OutBound маркетинг, R&D разработки, Revenue Sharing, заказная разработка ПО, маркетинг, продажи, стартапы, удалённая работа, фриланс
+- Кандидаты компаний: Confluence, Google, Hubspot
 
 - https://habr.com/ru/companies/maxilect/articles/351290/
 - Отрасли: не найдено
 - Компании: Хабр, Maxilect, Далее, VK
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Математика, Управление персоналом, Управление сообществом
+- Кандидаты компаний: Habr
 
 - https://habr.com/ru/companies/maxilect/articles/417385/
 - Отрасли: не найдено
 - Компании: Хабр, Maxilect, RDP, Базис, VK
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-индустрия
+- Кандидаты компаний: Максилект
 
 - https://habr.com/ru/companies/maxilect/articles/422915/
 - Отрасли: Рекрутинг и HR, образование, финансы, маркетинге
 - Компании: Хабр, Maxilect, VK
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-индустрии, разработка программного обеспечения, тестирование, удалённая работа, Управление персоналом, Фриланс
+- Кандидаты компаний: Amazing Hiring, GitHub, Google, LinkedIn, YouTrack, «Максилект»
 
 - https://habr.com/ru/companies/maxilect/articles/425773/
 - Отрасли: Рекрутинг и HR
 - Компании: Хабр, Maxilect, VK
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-индустрии, Удалённая работа, Управление персоналом, Управление разработкой
+- Кандидаты компаний: Upwork, Максилект
 
 - https://habr.com/ru/companies/maxilect/articles/434728/
 - Отрасли: не найдено
 - Компании: Хабр, Maxilect, ПИК, VK
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Banking, Insurance, IT, Retail
+- Кандидаты компаний: Aetna, Bank of America, Best Buy, Capterra, Honeywell International, HP, IBM, Yahoo!
 
 - https://habr.com/ru/companies/maxilect/articles/437472/
 - Отрасли: не найдено
 - Компании: Хабр, Maxilect, VK
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-индустрии, Коворкинг, Управление персоналом, Фриланс
+- Кандидаты компаний: Jira, Ленинград
 
 - https://habr.com/ru/companies/maxilect/articles/449384/
 - Отрасли: виртуальные
