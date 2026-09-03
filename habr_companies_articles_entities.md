@@ -19205,152 +19205,152 @@
 - https://habr.com/ru/companies/itglobalcom/articles/459078/
 - Отрасли: Программное обеспечение, IAAS, Enterprise, Аппаратное обеспечение, Мобильные технологии
 - Компании: Хабр, ITGLOBAL.COM, серверы
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: исследовательские лаборатории, телекоммуникационные провайдеры, университеты
+- Кандидаты компаний: AT&T, CentOS, CERN, China Mobile, DTK, Ericsson, Fermilab, GitHub, Interface Builder, LF Networking, MAlt, Microsoft, NeXTSTEP, ONAP, Open Hardware Repository, OpenStack, Red Hat, Scientific Linux, Verizon, White Rabbit, WorldWideWeb
 
 - https://habr.com/ru/companies/itglobalcom/articles/459954/
 - Отрасли: IAAS, SaaS, Программное обеспечение, информационной безопасности, провайдер
 - Компании: Хабр, ITGLOBAL.COM, провайдер
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: интеграторы, интернет‑сервисы, искусственный интеллект, консалтинговые агентства, облачная инфраструктура, облачные провайдеры, облачные технологии, облачный рынок, теле­коммуникационное оборудование
+- Кандидаты компаний: Adidas, Apple, Beats, Cisco, Cloud Native Computing Foundation, CNCF, Docker, Elastic, Elasticsearch, Ericsson, GitHub, Google, Intel, Kibana, Linux Foundation, Logstash, NetApp, Nvidia, Red Hat, The New York Times, VMware
 
 - https://habr.com/ru/companies/itglobalcom/articles/460493/
 - Отрасли: виртуальные
 - Компании: Хабр, ITGLOBAL.COM
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: авиалинии, бухгалтерского учета, малые бизнесы
+- Кандидаты компаний: Apple, Commodore, Google, Microsoft, Planet Money
 
 - https://habr.com/ru/companies/itglobalcom/articles/460735/
 - Отрасли: e-commerce, хостинг
 - Компании: Хабр, ITGLOBAL.COM, Далее, DELL
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: cloud, data center, DevOps
+- Кандидаты компаний: Ancestry, AutoTrader, Barclaycard, ControlTier, Ferrari, Freenode, GitHub, IBM, Intel, Linux Developer Network, Microsoft, NASA, NetApp, Nintendo, Novell, Oculus, openSUSE, Oracle, Red Hat, Reddit, Salesforce, SGI, SuSE, The Walt Disney Company, ThoughtWorks, Ticketmaster, Tizen, VideoLAN
 
 - https://habr.com/ru/companies/itglobalcom/articles/461157/
 - Отрасли: Программное обеспечение
 - Компании: Хабр, ITGLOBAL.COM
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Help Desk Software, Service Desk, VPN-сервисы, облачный провайдер, Разработка мобильных приложений
+- Кандидаты компаний: Apple, Apple TV, Apple Watch, Bug Reporter, Feedback Assistant, HomePod, PBS, Top10VPN
 
 - https://habr.com/ru/companies/itglobalcom/articles/461501/
 - Отрасли: финансы
 - Компании: Хабр, ITGLOBAL.COM
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT‑компании, онлайн‑магазины, поисковые сервисы, социальные сети, технологический бизнес
+- Кандидаты компаний: Amazon, Apple, Facebook, Google, Instagram, WhatsApp
 
 - https://habr.com/ru/companies/itglobalcom/articles/462357/
 - Отрасли: ERP, IAAS
 - Компании: Хабр, ITGLOBAL.COM
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: ERP-системы, Виртуализация, Облачные вычисления
+- Кандидаты компаний: Docker, Ericsson, GitHub, Hacker News, HermiTux, IBM, Linux, Memcached, MirageOS, Qualcomm, Red Hat, Unikernel Linux (UKL), Бостонский университет, Кембриджский университет, Политехнический университет Виргинии, Рейнско-Вестфальского технического университета Ахена
 
 - https://habr.com/ru/companies/itglobalcom/articles/462555/
 - Отрасли: Веб-разработка, e-commerce, предлагает, IAAS, ERP
 - Компании: Хабр, ITGLOBAL.COM, предлагает
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: e‑commerce, IT, веб‑разработка, контекстная реклама, маркетинг, мобильные приложения, новостные ресурсы
+- Кандидаты компаний: AdStack, Apple, Arc Publishing, Do Not Track, Federal Trade Commission, Google, Hulu, Intelligent Tracking Prevention, KISSmetrics, Mozilla, Safari, Unsplash, Washington Post, Zeus
 
 - https://habr.com/ru/companies/itglobalcom/articles/462957/
 - Отрасли: Веб-разработка, медиа, финансы, аналитики, Некоммерческие организации, торговые, IAAS
 - Компании: Хабр, ITGLOBAL.COM
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Доменные имена, конвергентные и гиперконвергентные среды, рынок доменов, Управление медиа, Финансы в IT, ЦОД, частные и публичные облака
+- Кандидаты компаний: Domain Name Wire, Electronic Frontier Foundation (EFF), HomeAdvisor.com, ICANN, Internet Commerce Association (ICA), Namecheap, PIR, Public Interest Registry, ServiceMagic.com, The Register, Verisign
 
 - https://habr.com/ru/companies/itglobalcom/articles/467981/
 - Отрасли: не найдено
 - Компании: Хабр, ITGLOBAL.COM, серверы
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-инфраструктура, большие данные, виртуальные рабочие столы, гипервизоры, искусственный интеллект, Системное администрирование, Хранение данных
+- Кандидаты компаний: Cisco, Cisco C240, Cisco HyperFlex, Cisco UCS, Cisco UCS Manager, Cisco VIC, Cisco Vic 1387, Intel, Intel Optane, Intel Scalable, Intel x550, LSI, NVIDIA, Nvidia Tesla M10, Nvidia V100, VMware, VMware ESXi, Windows
 
 - https://habr.com/ru/companies/itglobalcom/articles/512664/
 - Отрасли: провайдер, аутсорсинг, Оптимизация
 - Компании: Хабр, ITGLOBAL.COM, провайдер, серверы, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-инфраструктура, IT-компании, managed services, ИТ‑рынки, нефтяная компания, Облачные вычисления, производитель и дистрибьютор одежды, Серверное администрирование, технологический стартап
+- Кандидаты компаний: Market Watch, Toggl
 
 - https://habr.com/ru/companies/itglobalcom/articles/516102/
 - Отрасли: Информационная безопасность, финансы, информационной безопасности, виртуальные
 - Компании: Хабр, ITGLOBAL.COM, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Клиринговые центры, Кредитные организации, Некредитные организации, Операционные центры, Платёжные системы, Финансовые организации
+- Кандидаты компаний: Docker, Kubernetes, Telegram, Департамент информационной безопасности Центробанка, Центробанк
 
 - https://habr.com/ru/companies/itglobalcom/articles/521014/
 - Отрасли: аутсорсинг, хостинг, SaaS, CRM, провайдер, Рекрутинг и HR, финансы, информационной безопасности
 - Компании: Хабр, ITGLOBAL.COM, провайдер, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: managed services, MSP, дат‑центры, ИТ‑индустрия
+- Кандидаты компаний: MS Office, Salesforce
 
 - https://habr.com/ru/companies/itglobalcom/articles/523814/
 - Отрасли: Информационная безопасность
 - Компании: Хабр, ITGLOBAL.COM
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: банков, финансовых организаций
+- Кандидаты компаний: Exim, Glibc, Nessus, OpenVAS, xSpider
 
 - https://habr.com/ru/companies/itglobalcom/articles/525860/
 - Отрасли: аналитики, облачных сервисов, провайдер, кибербезопасности, IAAS, IoT
 - Компании: Gartner, Хабр, ITGLOBAL.COM, провайдер
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: ai, artificial intelligence, cloud computing, cybersecurity, ИТ-индустрия, кибербезопасность, облачные провайдеры
+- Кандидаты компаний: Apple, Google
 
 - https://habr.com/ru/companies/itglobalcom/articles/528266/
 - Отрасли: IAAS
 - Компании: Хабр, ITGLOBAL.COM, Gartner
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: гибридные технологии, ИТ‑индустрия, ИТ‑инфраструктура, мультиоблачные решения, Облачные вычисления, облачные технологии, облачные услуги, систем хранения
+- Кандидаты компаний: Astra, Cloud Field Day, Datrium, NetApp, RedHat, Solidfire, StorageGrid, VDS, VMware
 
 - https://habr.com/ru/companies/itglobalcom/articles/529444/
 - Отрасли: Machine Learning, ML, Data science, информационной безопасности, IAAS
 - Компании: Хабр, ITGLOBAL.COM
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: managed services, автоматизация процессов, искусственный интеллект, ИТ‑индустрия, машинное обучение, облачные вычисления, облачные технологии, систем хранения, частные облака
+- Кандидаты компаний: Gallup, Global Knowledge, Google, Google Cloud, Google Cloud Platform (GCP), Google Cloud Professional Machine Learning Engineer, Google Cloud Webassessor, NetApp, Robert Half International, TensorFlow 2.x
 
 - https://habr.com/ru/companies/itglobalcom/articles/529884/
 - Отрасли: Информационная безопасность, кибербезопасности, информационной безопасности, IAAS
 - Компании: Хабр, ITGLOBAL.COM, Gartner
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Bug bounty, Managed IT, Кибербезопасность, Этичный хакинг
+- Кандидаты компаний: Commodore 64, Context Information Security, Deloitte, GitHub, The Daily Swig, Yahoo, Центробанк
 
 - https://habr.com/ru/companies/itglobalcom/articles/530784/
 - Отрасли: Enterprise, предлагает, IAAS
 - Компании: Хабр, ITGLOBAL.COM, предлагает, Gartner
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Managed IT, ИТ-инфраструктуры, Облачные платформы, Разработка программного обеспечения, Услуги ИБ
+- Кандидаты компаний: Azure DevOps, Facebook, McKinsey, Microsoft, Netflix, Sogeti, Spotify
 
 - https://habr.com/ru/companies/itglobalcom/articles/531176/
 - Отрасли: Информационная безопасность, провайдер, IAAS, кибербезопасности
 - Компании: Хабр, ITGLOBAL.COM, серверы, провайдер, Далее, Gartner
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: государственного сектора, интернета вещей, интернет‑сервисы, ИТ-индустрии, образования, сети доставки контента, центры сертификации, электронной коммерции
+- Кандидаты компаний: Airbnb, Alexa, Amazon, Amazon Web Services, AWS, Cloudflare, CNN, Dyn, GoDaddy, Internet Measurement Conference, MIrai, Netflix, Oracle, PayPal, Pinterest, Slack, Spotify, Twitter, Visa, Карнеги—Меллона
 
 - https://habr.com/ru/companies/itglobalcom/articles/533594/
 - Отрасли: IAAS
 - Компании: Хабр, ITGLOBAL.COM, VStack
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: cloud computing, IT-индустрии, Managed IT, виртуализация, сетевой безопасности, системное администрирование, услуги ИБ
+- Кандидаты компаний: Google Cloud, Intel, Intel Core i9, Microsoft, Microsoft Hyper-V, NSX Advanced Load Balancer, NUC9 Extreme Kit, Tanzu Kubernetes Grid, VMware, VMware Odyssey Hands-On Lab Challenge, vSAN, ТехЛаб
 
 - https://habr.com/ru/companies/itglobalcom/articles/535524/
 - Отрасли: IAAS
 - Компании: Хабр, ITGLOBAL.COM, Gartner
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: DevOps, IT-индустрия, IT-инфраструктура, Managed IT, услуги ИБ, частные облака
+- Кандидаты компаний: GitHub, Microsoft
 
 - https://habr.com/ru/companies/itglobalcom/articles/535682/
 - Отрасли: стриминг, СМИ, IAAS
 - Компании: Хабр, ITGLOBAL.COM, Gartner, Тинькофф, Яндекс, OZON, Mediascope
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Travel-сервис, блокчейн, интернет-магазин, ИТ-индустрии, музыкальный сервис, облачные провайдеры, удаленная работа
+- Кандидаты компаний: Airbnb, Amazon, Apple, Bloomberg, Facebook, Forbes, Free TON, Google, Google Meet, NASDAQ, SEC, Spotify, Telegram, Telegram Open Network, Zoom
 
 - https://habr.com/ru/companies/itglobalcom/articles/540748/
 - Отрасли: Информационная безопасность, информационной безопасности, промышленные, IAAS, кибербезопасности
 - Компании: Хабр, ITGLOBAL.COM, Positive Technologies, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT‑интеграторы, банки, научные центры, энергетика
+- Кандидаты компаний: Ako, Clop, DoppelPaymer, Enel Group, Honda, Maze, Nefilim, NetWalker, Snake, Sodinokibi, Spotify, VMware, АНБ
 
 - https://habr.com/ru/companies/itglobalcom/articles/545200/
 - Отрасли: робототехника, RPA, промышленные, торговые, IAAS, Информационная безопасность, кибербезопасности
 - Компании: Хабр, ITGLOBAL.COM, Gartner
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: ИТ-индустрии, кибербезопасность, Логистика, полиции, Сельское хозяйство, электронной коммерции
+- Кандидаты компаний: Boston Dynamics, businesswire.com, Digidog, Electronic Frontier Foundation, inceptivemind.com, Knightscope, Locus Robotics, share.america.gov, Spot, TechnoServe, Департамент полиции Нью‑Йорка, Университете Иллинойса
 
 - https://habr.com/ru/companies/itglobalcom/articles/546750/
 - Отрасли: финансы, финансового, предлагает, IAAS, Информационная безопасность, кибербезопасности, финтех
