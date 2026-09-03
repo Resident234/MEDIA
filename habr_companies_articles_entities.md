@@ -48155,152 +48155,152 @@
 - https://habr.com/ru/companies/searchinform/articles/691904/
 - Отрасли: Информационная безопасность, информационной безопасности
 - Компании: Хабр, SearchInform
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: кибербезопасность
+- Кандидаты компаний: Campbell Soup, Cloudflare, Coca-Cola, Facebook, Federal Trade Comission, FTC, The New York Times, Uber
 
 - https://habr.com/ru/companies/searchinform/articles/694432/
 - Отрасли: Информационная безопасность
 - Компании: Хабр, SearchInform
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: addons.mozilla.org, App Store, Easyload, FileAuditor, Google Chrome, Google Play, Keylogger, MonitorController, Mozilla Firefox, ProgramController, НКЦКИ, СёрчИнформ КИБ
 
 - https://habr.com/ru/companies/searchinform/articles/696428/
 - Отрасли: Информационная безопасность, торговли, CRM
 - Компании: Хабр, SearchInform, серверы, Samsung
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: автомобильная промышленность, космическая отрасль, розничная торговля, энергетика
+- Кандидаты компаний: Azure, GitHub, Guacamaya, JAXA, Microsoft, My Toyota, MyDeal, Mydeal.com, NASA, Optus, SOCRadar, T-Connect, Tata Power, Tata Power Company Limited, Toyota, Vinomofo, Woolworths
 
 - https://habr.com/ru/companies/searchinform/articles/700500/
 - Отрасли: Информационная безопасность, информационной безопасности, финансового, digital, энергетики, IoT, CRM, Мобильные технологии
 - Компании: Хабр, SearchInform
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: государственные органы, Интернет вещей, ИТ отрасль, коммунальные услуги, криптовалюты, производственные организации, страховой сектор, финансовый сектор, цифровые кошельки, энергетика
+- Кандидаты компаний: 2020 Cybersecurity Outlook Report, 2021 Q3 Data Breach Analysis, Allianz, Allianz Risk Barometer, Bitglass 2021, Bitglass 2020, Bitglass 2019, Bitglass 2021, Bitglass 2020, Bitglass 2019, Bitglass 2021, Bitglass 2020, Bitglass 2019, Carbon Black, Global Risks Report, Healthcare Breach Report, ITRC, McAfee, Q3 2021 Digital Trust & Safety Index, Security Mentor, The Hidden Costs of Cybercrime, Third Way, To Catch a Hacker, Top Industries Targeted by Cyberattacks, VMware, World Economic Forum, X-Force Threat Intelligence Index
 
 - https://habr.com/ru/companies/searchinform/articles/701640/
 - Отрасли: Информационная безопасность, информационной безопасности, предлагает
 - Компании: Хабр, SearchInform, предлагает
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: кибербезопасность, криптовалюты, морское право, научные исследования, охранная деятельность, страхование
+- Кандидаты компаний: Axie Infinity, darknetdiaries.com, Habr, LinkedIn, LRAD, Red Goat Cyber Security, USS Cole, Wikileaks, Аль-Каида, ВМС США
 
 - https://habr.com/ru/companies/searchinform/articles/702178/
 - Отрасли: Информационная безопасность, страховании, кибербезопасности, СМИ
 - Компании: Хабр, SearchInform, Яндекс, Whoosh
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: аренда самокатов, доставка еды, медицинская сфера, медицинские услуги, производство мяса, ритейл, товары для дома, фармацевтическая отрасль
+- Кандидаты компаний: ahm, AstraZeneca, BlackCat, Booz Allen Hamilton, Conforama, Gateway, Gateway Surgery Center, GitHub, international student, Maple Leaf Foods, Medibank, Medibank Private, Salesforce, Sobeys, TechCrunch, Яндекс.Еда
 
 - https://habr.com/ru/companies/searchinform/articles/707610/
 - Отрасли: не найдено
 - Компании: не найдено
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: OSINT, автомобильная криминалистика, киберпреступность, маркетплейс, социальная инженерия, таможенный контроль
+- Кандидаты компаний: Apple, Berla, Bloomberg, Discord, Forbes, iVe, Meta, Telegram, Venmo, YouTube, Яндекс.Еда
 
 - https://habr.com/ru/companies/searchinform/articles/707748/
 - Отрасли: Информационная безопасность, банках
 - Компании: Хабр, SearchInform
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: киберпреступность, облачные услуги, ремонт планшетов, социальная инженерия, устройства для точек продаж, финансовые услуги
+- Кандидаты компаний: Darknet Diaries, Facebook, Google, Habr, Instagram, LinkedIn, Meta, Quanta Computer, ФБР
 
 - https://habr.com/ru/companies/searchinform/articles/713566/
 - Отрасли: Информационная безопасность, СМИ, кибербезопасности
 - Компании: Хабр, SearchInform
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: авиационная промышленность, инвестиционные услуги, ресторанный бизнес, ретейл, социальные сети, финансовые услуги, энергетика
+- Кандидаты компаний: bk.ru, GE Power, Home Care Providers of Texas, Hudson Rock, inbox.ru, KFC, Mail.ru, Pizza Hut, Stocks & Securities Limited, Taco Bell, The Guardian, Twitter, Yum! Brands, Комиссия по финансовым услугам Ямайки, Роскомнадзор
 
 - https://habr.com/ru/companies/searchinform/articles/715324/
 - Отрасли: Информационная безопасность
 - Компании: Хабр, SearchInform, Звук, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: банковская сфера, государственные ведомства, киноиндустрия, социальные сети, чёрный рынок, энергетика
+- Кандидаты компаний: DeepFaceLab, DeepNude, FaceApp, Habr, Lensa, MSQRD, Reface, Snapchat, ТемиКогоВРоссииНельзяБезЗвёздочкиНаписать
 
 - https://habr.com/ru/companies/searchinform/articles/716810/
 - Отрасли: Информационная безопасность, виртуальные, медиа, OCR
 - Компании: Хабр, SearchInform, Цифра
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: FileAuditor, NAS, SearchInform_team, СёрчИнформ FileAuditor
 
 - https://habr.com/ru/companies/searchinform/articles/719364/
 - Отрасли: Информационная безопасность, кибербезопасности, СМИ
 - Компании: Хабр, SearchInform
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: автомобильная промышленность, медицинские услуги, ритейл, социальные выплаты, строительство и ремонт, технологическая отрасль, финансовые услуги
+- Кандидаты компаний: Andersen Corporation, Cybernews, FileAuditor, GSPIMS, JD Sports, Pepsi, Pepsi Bottling Ventures LLC, Pepsi-Cola, Regal Medical Group, Renewal by Andersen, SearchInform_team, Toyota, Ubiquiti, Ubiquiti Networks, Банк России
 
 - https://habr.com/ru/companies/searchinform/articles/721204/
 - Отрасли: Информационная безопасность, информационной безопасности
 - Компании: Хабр, SearchInform
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: госсектор, КИИ, нефтегазовая сфера, ритейл, финансовая сфера
+- Кандидаты компаний: Road Show SearchInform
 
 - https://habr.com/ru/companies/searchinform/articles/724196/
 - Отрасли: Информационная безопасность
 - Компании: Хабр, SearchInform, Далее
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Active Directory, FileAuditor, MS Outlook, СёрчИнформ
 
 - https://habr.com/ru/companies/searchinform/articles/728778/
 - Отрасли: Информационная безопасность
 - Компании: Хабр, SearchInform
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: AM Live, DCAP, DLP, Outlook, SIEM
 
 - https://habr.com/ru/companies/searchinform/articles/737160/
 - Отрасли: Информационная безопасность
 - Компании: Хабр, SearchInform
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: кибербезопасность
+- Кандидаты компаний: Bash Bunny, Darknet Diaries, darknetdiaries.com, Geek Squad, Habr, Kali Linux, Synack
 
 - https://habr.com/ru/companies/searchinform/articles/738756/
 - Отрасли: Информационная безопасность, СМИ
 - Компании: Хабр, SearchInform, Samsung, серверы
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: водоснабжение, промышленная безопасность, туристическая отрасль
+- Кандидаты компаний: Alto Calore Servizi, Bloomberg, ChatGPT, Cybernews, Discord, Dragos, G-Link, La Malle Postale, Lexus, Medusa, Ministerство здравоохранения, OT&P Healthcare, SharePoint, T-Connect, Toyota Motor, Управление уполномоченного по конфиденциальности персональных данных
 
 - https://habr.com/ru/companies/searchinform/articles/741610/
 - Отрасли: Информационная безопасность, информационной безопасности, аналитики, BI
 - Компании: Хабр, SearchInform, Далее, серверы
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: производство
+- Кандидаты компаний: Azure RMS, Microsoft, Netwrix, Netwrix Auditor, Power BI, SearchInform_team, ПОЛИСАН, СёрчИнформ FileAuditor, СёрчИнформ КИБ
 
 - https://habr.com/ru/companies/searchinform/articles/744734/
 - Отрасли: Информационная безопасность, медиа, кибербезопасности, информационной безопасности
 - Компании: Хабр, SearchInform, Samsung
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Кибербезопасность, Микроэлектроника
+- Кандидаты компаний: Free Web Foundation, Free Web Turkey, Media and Law Studies Association, Sorgu Paneli, SuperVPN, Tesla, Vituity, Департамент кибербезопасности в президентском Офисе цифровой трансформации, Офис гражданских прав Министерства здравоохранения и социальных служб США, Хандельсблат
 
 - https://habr.com/ru/companies/searchinform/articles/749242/
 - Отрасли: Информационная безопасность, информационной безопасности
 - Компании: Хабр, SearchInform
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: кибергигиена, киберграмотность
+- Кандидаты компаний: Военно-морская академия США, Национальный институт стандартов и технологий
 
 - https://habr.com/ru/companies/securityvison/articles/752930/
 - Отрасли: Информационная безопасность, информационной безопасности, аналитики, предлагает
 - Компании: Хабр, Security Vision, предлагает
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-инфраструктура, анализ и проектирование систем, управление продуктом
+- Кандидаты компаний: CVE, Group IB, Kaspersky, MITRE, NVD NIST, Threat Intelligence Platform, БДУ ФСТЭК, НКЦКИ
 
 - https://habr.com/ru/companies/securityvison/articles/755868/
 - Отрасли: Информационная безопасность, информационной безопасности
 - Компании: Хабр, Security Vision, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-стандарты, анализ и проектирование систем, управление разработкой
+- Кандидаты компаний: Habr
 
 - https://habr.com/ru/companies/securityvison/articles/758966/
 - Отрасли: Информационная безопасность, Рекрутинг и HR, BI, аналитики
 - Компании: Хабр, Security Vision
-- Кандидаты отраслей: не найдено
+- Кандидаты отраслей: Управление персоналом
 - Кандидаты компаний: не найдено
 
 - https://habr.com/ru/companies/securityvison/articles/760170/
 - Отрасли: Информационная безопасность, Natural Language Processing, Machine Learning, аналитики
 - Компании: Хабр, Security Vision, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: аналитика, ИБ, искусственный интеллект, машинное обучение
+- Кандидаты компаний: ChatGPT, DAN, DeepL, Do Anything Now, OpenAI, Telegram
 
 - https://habr.com/ru/companies/securityvison/articles/763218/
 - Отрасли: Информационная безопасность, информационной безопасности, Программное обеспечение, предлагает
 - Компании: Хабр, Security Vision, Далее, RDP, предлагает
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-инфраструктура, Анализ и проектирование систем, Управление продуктом
+- Кандидаты компаний: Lockheed-Martin, MITRE, Splunk
 
 - https://habr.com/ru/companies/securityvison/articles/766156/
 - Отрасли: Информационная безопасность, Дизайн и юзабилити
