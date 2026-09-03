@@ -29105,20 +29105,20 @@
 - https://habr.com/ru/companies/mvideo/articles/595373/
 - Отрасли: металлургии
 - Компании: Хабр, М.Видео-Эльдорадо, Space
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: астрономия, горнодобывающая промышленность, космическая биология, космология, космонавтика, материаловедение, металлообработка, планетология, химическая промышленность, электроника, энергетика
+- Кандидаты компаний: Kilopower, LCROSS, Китайская лунная программа, программа «Аврора», программа «Артемида», Российская лунная программа
 
 - https://habr.com/ru/companies/mvideo/articles/596609/
 - Отрасли: медиа, Программное обеспечение, СМИ
 - Компании: Хабр, М.Видео-Эльдорадо, Samsung
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: мобильная техника, планшеты, смартфоны
+- Кандидаты компаний: Galaxy Fold, Google, HP, Huawei, Human Media Lab, Lenovo, LG, Mate X, Mate Xs, Motorola, Motorola RAZR, Nokia, Polymer Vision, Readius, Royole, Wistron
 
 - https://habr.com/ru/companies/mvideo/articles/596867/
 - Отрасли: Информационная безопасность, криптографии, PKI
 - Компании: Хабр, М.Видео-Эльдорадо, серверы, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: криптография
+- Кандидаты компаний: Age, arXiv, DECO, GitHub, Habr, Microsoft, minisign, OpenPGP, OpenSSH, PGP, signify, Ubuntu, Windows
 
 - https://habr.com/ru/companies/mvideo/articles/597653/
 - Отрасли: Веб-разработка
@@ -29129,128 +29129,128 @@
 - https://habr.com/ru/companies/mvideo/articles/598749/
 - Отрасли: предлагает, digital
 - Компании: Хабр, М.Видео-Эльдорадо, AMD, Samsung, Звук, предлагает
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Производство и разработка электроники
+- Кандидаты компаний: Airplay 2, Bravia XR, iTunes, LG, LG C1, M.Video, Microsoft Xbox Series, NVIDIA, Samsung QN90A QLED, Sony, Sony PlayStation 5, Tizen OS, WebOS
 
 - https://habr.com/ru/companies/mvideo/articles/598897/
 - Отрасли: не найдено
 - Компании: Хабр, М.Видео-Эльдорадо
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: игровая индустрия, консольный рынок, производство и разработка электроники
+- Кандидаты компаний: Microsoft, Seagate, Sony
 
 - https://habr.com/ru/companies/mvideo/articles/599401/
 - Отрасли: Оптимизация
 - Компании: Хабр, М.Видео-Эльдорадо
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: mvideo, МВидео-Эльдорадо
 
 - https://habr.com/ru/companies/mvideo/articles/599687/
 - Отрасли: энергетики, Консалтинг и поддержка, промышленность
 - Компании: Хабр, М.Видео-Эльдорадо, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: ветроэнергетика, возобновляемые источники энергии, зелёная энергетика, переработка отходов, солнечная энергетика, утилизация отходов, химическая промышленность, электромобили, энергетика
+- Кандидаты компаний: Arkema, Bloomberg New Energy Finance, Bonus, Esticast Research & Consulting, Global Fiberglass Solutions, International Renewable Energy Agency, IRENA, LM Wind Power, National Renewable Energy Laboratory, NREL, ReFiber, Siemens, Siemens Gamesa Renewable Energy, WindEurope, Группа М.Видео-Эльдорадо
 
 - https://habr.com/ru/companies/mvideo/articles/599689/
 - Отрасли: Информационная безопасность, информационной безопасности, кибербезопасности, Программное обеспечение
 - Компании: Хабр, М.Видео-Эльдорадо
 - Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты компаний: Apache, Apple, AWS, CISA, Cloudflare, EY (Ernest & Young), GnuPG, Google, iCloud, Intel, Lunasec, Microsoft, Minecraft, Mozilla, Nvidia, Steam, Wiz
 
 - https://habr.com/ru/companies/mvideo/articles/645059/
 - Отрасли: умный дом, предлагает
 - Компании: Хабр, М.Видео-Эльдорадо, М.Видео, Samsung, Далее, Звук, предлагает, AMD, Space
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Automotive, Consumer Electronics, Gaming, Smart Home, Television
+- Кандидаты компаний: Bespoke, BMW, E-Mart mall, Enki, Google, LG, M.Видео-Эльдорадо, Nvidia, Razer, Sony, Vantablack
 
 - https://habr.com/ru/companies/mvideo/articles/645503/
 - Отрасли: Веб-разработка
 - Компании: Хабр, М.Видео-Эльдорадо
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: интернет-реклама
+- Кандидаты компаний: Apple, Brave, Chrome, Chromium, Edge, facebook.com, Firefox, Google, Microsoft, Mozilla, Netscape Navigator, Opera, Safari, Tor, Vivaldi
 
 - https://habr.com/ru/companies/mvideo/articles/646137/
 - Отрасли: Веб-разработка
 - Компании: Хабр, М.Видео-Эльдорадо
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: интернет-реклама
+- Кандидаты компаний: Android, Apple, Brave, Chrome, Chromium, comfypants.com, Edge, facebook.com, Firefox, Google, Internet Explorer, Microsoft, Mozilla, Netscape Navigator, Opera, Safari, Tor, Vivaldi
 
 - https://habr.com/ru/companies/mvideo/articles/647659/
 - Отрасли: торговые, финансы
 - Компании: Хабр, М.Видео-Эльдорадо
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-индустрия, наука, технический маркетинг
+- Кандидаты компаний: BigTable, Epi Info, FAANG, Google, Google File System, MapReduce, Spanner, МВидео-Эльдорадо
 
 - https://habr.com/ru/companies/mvideo/articles/649009/
 - Отрасли: Оптимизация
 - Компании: Хабр, М.Видео-Эльдорадо, Далее
-- Кандидаты отраслей: не найдено
+- Кандидаты отраслей: бенчмаркинг
 - Кандидаты компаний: не найдено
 
 - https://habr.com/ru/companies/mvideo/articles/649439/
 - Отрасли: финтех, ML, ритейла, предлагает, Machine Learning
 - Компании: Хабр, М.Видео-Эльдорадо, Далее, предлагает
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-индустрия, екомерц, кредитование, ритейл, страхование
+- Кандидаты компаний: One Retail, Директ Кредит
 
 - https://habr.com/ru/companies/mvideo/articles/649677/
 - Отрасли: финансы
 - Компании: Хабр, М.Видео-Эльдорадо, М.Видео
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Гаджеты, Дата-майнинг, Здоровье, Инвестиции, Кейлоггинг, Машинное обучение, Носимая электроника, Производительность труда, Смартфоны, Сниффинг трафика, Фитнес, Эпигенетика
+- Кандидаты компаний: Excel, Google Sheets, myShows.me, WhatPulse, Wireshark
 
 - https://habr.com/ru/companies/mvideo/articles/650301/
 - Отрасли: умный дом, предлагает
 - Компании: Samsung, Хабр, М.Видео-Эльдорадо, предлагает, М.Видео
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Видеотехника, Потребительская электроника, Электроника
+- Кандидаты компаний: C-Lab, Serif TV
 
 - https://habr.com/ru/companies/mvideo/articles/650765/
 - Отрасли: биометрия, Big Data, видеоаналитики, аналитики
 - Компании: Хабр, М.Видео-Эльдорадо, М.Видео, Магнит, X5 Retail Group
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: безопасность, выявление краж, кассовый фрод, киберпанк, обработка видеопотока, оплата, ритейл, сбор данных, таргетированное взаимодействие, учёт рабочего времени
+- Кандидаты компаний: Alipay, Amazon, Amazon Go, Amazon One, Biosmart, Biosmart Quasar, Coffee Bean, Dragonfly, SWiP, Visa, VisionLabs, Азбука вкуса, Перекрёсток, Эльдорадо
 
 - https://habr.com/ru/companies/mvideo/articles/651015/
 - Отрасли: не найдено
 - Компании: Хабр, М.Видео-Эльдорадо, Цифра, AMD, Samsung, DELL
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: бытовая электроника, игровая индустрия
+- Кандидаты компаний: ACER, ASUS, HP, LG, MSI, Nvidia, Steam
 
 - https://habr.com/ru/companies/mvideo/articles/652283/
 - Отрасли: предлагает, виртуальные, медиа
 - Компании: Хабр, М.Видео-Эльдорадо, М.Видео, предлагает, SENSE
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: игры и игровые консоли
+- Кандидаты компаний: HTC, Insomniac, Media Molecule, Oculus, Sony, Valve
 
 - https://habr.com/ru/companies/mvideo/articles/652843/
 - Отрасли: Информационная безопасность, информационной безопасности, предлагает, OCR
 - Компании: Хабр, М.Видео-Эльдорадо, М.Видео, предлагает
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: кибератаки, киберзащита, мессенджеры
+- Кандидаты компаний: Amnesty International, Apple, Citizen Lab, iMessage, iOS, New York Times, NSO, NSO Group, Project Zero, WorkCentre 7500, XEROX, Xerox WorkCentre, Эльдорадо
 
 - https://habr.com/ru/companies/mvideo/articles/653403/
 - Отрасли: не найдено
 - Компании: Хабр, М.Видео-Эльдорадо, М.Видео, AMD, Звук, Далее
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Гаджеты, Носимая электроника, Ноутбуки
+- Кандидаты компаний: Adobe, Honor
 
 - https://habr.com/ru/companies/mvideo/articles/653411/
 - Отрасли: не найдено
 - Компании: Хабр, М.Видео-Эльдорадо, ПИК, М.Видео
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Игры и игровые консоли, Производство и разработка электроники, Электроника для начинающих
+- Кандидаты компаний: 0xen, davedarko, Emeryth, ESP32, ESP8266, Game Boy, Game Boy Color, Game Boy Development Kit, gbdk-2020, Habr, Mvideo, RP2040, Sebastian Staacks, STM32, u/LyneByLine, Wikipedia, Википедия, Энди Вест
 
 - https://habr.com/ru/companies/mvideo/articles/654947/
 - Отрасли: IoT, DIY
 - Компании: Хабр, М.Видео-Эльдорадо
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: Гаджеты, Носимая электроника
+- Кандидаты компаний: Amazon, Game Boy Advance SP, NEJE, Odd Rocket Keyboards, Raspberry Pi, Sony, Steam
 
 - https://habr.com/ru/companies/mvideo/articles/657781/
 - Отрасли: торговли, финтех
 - Компании: Хабр, М.Видео-Эльдорадо, Додо, Вкусвилл, М.Видео
-- Кандидаты отраслей: не найдено
-- Кандидаты компаний: не найдено
+- Кандидаты отраслей: IT-индустрия
+- Кандидаты компаний: Alibaba, Amazon, Apple, Nginx, Telegram, WhatsApp, Wildberries, ВКонтакте, Додо Пицца, Одноклассники
 
 - https://habr.com/ru/companies/mvideo/articles/659983/
 - Отрасли: СМИ
