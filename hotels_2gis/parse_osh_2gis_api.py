@@ -9,6 +9,7 @@ import argparse
 import os
 import re
 import time
+from urllib.parse import parse_qs, quote, urlsplit
 from pathlib import Path
 from typing import Any
 
@@ -109,6 +110,21 @@ def md(value: str) -> str:
     return value.replace("\\", "\\\\").replace("[", "\\[").replace("]", "\\]")
 
 
+def whatsapp_with_message(url: str, group: str) -> str:
+    phone = parse_qs(urlsplit(url).query).get("phone", [None])[0]
+    if not phone:
+        match = re.search(r"wa\.me/(\d+)", url)
+        phone = match.group(1) if match else None
+    if not phone:
+        return url
+    message = (
+        "Здравствуйте\n\nВ какую цену у вас квартиры посуточно ?"
+        if group == "Квартиры посуточно"
+        else "Здравствуйте\n\nВ какую цену у вас одноместный номер ?"
+    )
+    return f"https://wa.me/{phone}?text={quote(message, safe='')}"
+
+
 def main() -> None:
     parser = argparse.ArgumentParser()
     parser.add_argument("--output", type=Path, default=OUT)
@@ -159,7 +175,7 @@ def main() -> None:
                 out.write(f"**Рейтинг:** {rating_text}\n\n")
                 out.write(f"**Адрес:** {md(item.get('address_name') or 'адрес не указан')}\n\n")
                 out.write(f"**Карточка 2GIS:** [{url}]({url})\n\n")
-                out.write(f"**WhatsApp:** [WhatsApp]({item['_wa']})\n\n")
+                out.write(f"**WhatsApp:** [WhatsApp]({whatsapp_with_message(item['_wa'], title)})\n\n")
 
 
 if __name__ == "__main__":
