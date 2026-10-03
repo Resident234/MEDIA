@@ -28,9 +28,9 @@ FIELDS = "items.reviews,items.contact_groups,items.adm_div,items.address_name,it
 OUT = Path(__file__).with_name("osh_2gis_api_whatsapp.md")
 
 SOURCES = (
-    ("Квартиры посуточно", 19487, "apartments"),
-    ("Гостиницы", 269, "hotels"),
-    ("Гостевые дома", 111005, "guesthouses"),
+    ("Квартиры посуточно", 19487, "apartments", "https://2gis.kg/osh/search/%D0%9A%D0%B2%D0%B0%D1%80%D1%82%D0%B8%D1%80%D1%8B%20%D0%BF%D0%BE%D1%81%D1%83%D1%82%D0%BE%D1%87%D0%BD%D0%BE/rubricId/19487?m=72.79196%2C40.524099%2F12.61"),
+    ("Гостиницы", 269, "hotels", "https://2gis.kg/osh/search/%D0%93%D0%BE%D1%81%D1%82%D0%B8%D0%BD%D0%B8%D1%86%D1%8B/rubricId/269?m=72.79196%2C40.524099%2F12.61"),
+    ("Гостевые дома", 111005, "guesthouses", "https://2gis.kg/osh/search/%D0%B3%D0%BE%D1%81%D1%82%D0%B5%D0%B2%D1%8B%D0%B5%20%D0%B4%D0%BE%D0%BC%D0%B0/rubricId/111005?m=72.79196%2C40.524099%2F12.61"),
 )
 
 
@@ -61,8 +61,12 @@ def whatsapp(item: dict[str, Any]) -> str | None:
 
 def whatsapp_from_card(item: dict[str, Any]) -> str | None:
     """Read the public 2GIS card only when API contact_groups is unavailable."""
-    response = requests.get(card_url(item), headers={"User-Agent": "Mozilla/5.0"}, timeout=45)
-    response.raise_for_status()
+    try:
+        response = requests.get(card_url(item), headers={"User-Agent": "Mozilla/5.0"}, timeout=20)
+        response.raise_for_status()
+    except requests.RequestException as exc:
+        print(f"Warning: card {item.get('id')} unavailable: {exc}")
+        return None
     html = response.text
     # Prefer the compact wa.me URL; cards can also contain a wrapped
     # api.whatsapp.com URL with an internal 2GIS redirect.
@@ -115,7 +119,7 @@ def main() -> None:
 
     sections: list[tuple[str, list[dict[str, Any]]]] = []
     contact_field_seen = False
-    for title, rubric_id, _ in SOURCES:
+    for title, rubric_id, _, source_url in SOURCES:
         items = collect_source(key, title, rubric_id)
         selected = []
         for item in items:
@@ -141,7 +145,9 @@ def main() -> None:
         total = sum(len(rows) for _, rows in sections)
         out.write(f"Всего отобрано: **{total}**.\n\n")
         for title, rows in sections:
-            out.write(f"## {title}\n\n")
+            source_url = next(url for name, _, _, url in SOURCES if name == title)
+            out.write(f"## Запрос: {title}\n\n")
+            out.write(f"**Источник 2GIS:** [{source_url}]({source_url})\n\n")
             if not rows:
                 out.write("Подходящих записей не найдено.\n\n")
                 continue

@@ -4,7 +4,9 @@
 
 Всего отобрано: **72**.
 
-## Квартиры посуточно
+## Запрос: Квартиры посуточно
+
+**Источник 2GIS:** [https://2gis.kg/osh/search/%D0%9A%D0%B2%D0%B0%D1%80%D1%82%D0%B8%D1%80%D1%8B%20%D0%BF%D0%BE%D1%81%D1%83%D1%82%D0%BE%D1%87%D0%BD%D0%BE/rubricId/19487?m=72.79196%2C40.524099%2F12.61](https://2gis.kg/osh/search/%D0%9A%D0%B2%D0%B0%D1%80%D1%82%D0%B8%D1%80%D1%8B%20%D0%BF%D0%BE%D1%81%D1%83%D1%82%D0%BE%D1%87%D0%BD%D0%BE/rubricId/19487?m=72.79196%2C40.524099%2F12.61)
 
 ### Квартирное бюро
 
@@ -16,7 +18,9 @@
 
 **WhatsApp:** [WhatsApp](https://wa.me/996779619160?text=%D0%97%D0%B4%D1%80%D0%B0%D0%B2%D1%81%D1%82%D0%B2%D1%83%D0%B9%D1%82%D0%B5!%0A%0A%D0%9F%D0%B8%D1%88%D1%83%20%D0%B8%D0%B7%20%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F%202%D0%93%D0%98%D0%A1.%0A%0A)
 
-## Гостиницы
+## Запрос: Гостиницы
+
+**Источник 2GIS:** [https://2gis.kg/osh/search/%D0%93%D0%BE%D1%81%D1%82%D0%B8%D0%BD%D0%B8%D1%86%D1%8B/rubricId/269?m=72.79196%2C40.524099%2F12.61](https://2gis.kg/osh/search/%D0%93%D0%BE%D1%81%D1%82%D0%B8%D0%BD%D0%B8%D1%86%D1%8B/rubricId/269?m=72.79196%2C40.524099%2F12.61)
 
 ### Rayan Regency, отель
 
@@ -518,7 +522,9 @@
 
 **WhatsApp:** [WhatsApp](https://wa.me/996508667788?text=%D0%97%D0%B4%D1%80%D0%B0%D0%B2%D1%81%D1%82%D0%B2%D1%83%D0%B9%D1%82%D0%B5!%0A%0A%D0%9F%D0%B8%D1%88%D1%83%20%D0%B8%D0%B7%20%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F%202%D0%93%D0%98%D0%A1.%0A%0A)
 
-## Гостевые дома
+## Запрос: Гостевые дома
+
+**Источник 2GIS:** [https://2gis.kg/osh/search/%D0%B3%D0%BE%D1%81%D1%82%D0%B5%D0%B2%D1%8B%D0%B5%20%D0%B4%D0%BE%D0%BC%D0%B0/rubricId/111005?m=72.79196%2C40.524099%2F12.61](https://2gis.kg/osh/search/%D0%B3%D0%BE%D1%81%D1%82%D0%B5%D0%B2%D1%8B%D0%B5%20%D0%B4%D0%BE%D0%BC%D0%B0/rubricId/111005?m=72.79196%2C40.524099%2F12.61)
 
 ### Eva
 
