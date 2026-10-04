@@ -125,6 +125,14 @@ def whatsapp_with_message(url: str, group: str) -> str:
     return f"https://wa.me/{phone}?text={quote(message, safe='')}"
 
 
+def whatsapp_phone(url: str) -> str | None:
+    phone = parse_qs(urlsplit(url).query).get("phone", [None])[0]
+    if not phone:
+        match = re.search(r"wa\.me/(\d+)", url)
+        phone = match.group(1) if match else None
+    return f"+{phone}" if phone else None
+
+
 def main() -> None:
     parser = argparse.ArgumentParser()
     parser.add_argument("--output", type=Path, default=OUT)
@@ -175,6 +183,9 @@ def main() -> None:
                 out.write(f"**Рейтинг:** {rating_text}\n\n")
                 out.write(f"**Адрес:** {md(item.get('address_name') or 'адрес не указан')}\n\n")
                 out.write(f"**Карточка 2GIS:** [{url}]({url})\n\n")
+                phone = whatsapp_phone(item["_wa"])
+                if phone:
+                    out.write(f"**Телефон WhatsApp:** {phone}\n\n")
                 out.write(f"**WhatsApp:** [WhatsApp]({whatsapp_with_message(item['_wa'], title)})\n\n")
 
 
