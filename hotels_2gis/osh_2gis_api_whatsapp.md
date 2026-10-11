@@ -471,6 +471,7 @@
 **Телефон WhatsApp:** +996505146666
 
 **WhatsApp:** [WhatsApp](https://wa.me/996505146666?text=%D0%97%D0%B4%D1%80%D0%B0%D0%B2%D1%81%D1%82%D0%B2%D1%83%D0%B9%D1%82%D0%B5%0A%0A%D0%92%20%D0%BA%D0%B0%D0%BA%D1%83%D1%8E%20%D1%86%D0%B5%D0%BD%D1%83%20%D1%83%20%D0%B2%D0%B0%D1%81%20%D0%BE%D0%B4%D0%BD%D0%BE%D0%BC%D0%B5%D1%81%D1%82%D0%BD%D1%8B%D0%B9%20%D0%BD%D0%BE%D0%BC%D0%B5%D1%80%20%3F)
+**Ответ WhatsApp о цене:** `3500 сом`.
 
 ### Green Hotel, отель
 
@@ -569,6 +570,7 @@
 **Телефон WhatsApp:** +996778813029
 
 **WhatsApp:** [WhatsApp](https://wa.me/996778813029?text=%D0%97%D0%B4%D1%80%D0%B0%D0%B2%D1%81%D1%82%D0%B2%D1%83%D0%B9%D1%82%D0%B5%0A%0A%D0%92%20%D0%BA%D0%B0%D0%BA%D1%83%D1%8E%20%D1%86%D0%B5%D0%BD%D1%83%20%D1%83%20%D0%B2%D0%B0%D1%81%20%D0%BE%D0%B4%D0%BD%D0%BE%D0%BC%D0%B5%D1%81%D1%82%D0%BD%D1%8B%D0%B9%20%D0%BD%D0%BE%D0%BC%D0%B5%D1%80%20%3F)
+**Ответ WhatsApp о цене:** `2500 сом за 1 человека`.
 
 ### Шанхай Сити, гостиничный комплекс
 
@@ -581,6 +583,7 @@
 **Телефон WhatsApp:** +996779019999
 
 **WhatsApp:** [WhatsApp](https://wa.me/996779019999?text=%D0%97%D0%B4%D1%80%D0%B0%D0%B2%D1%81%D1%82%D0%B2%D1%83%D0%B9%D1%82%D0%B5%0A%0A%D0%92%20%D0%BA%D0%B0%D0%BA%D1%83%D1%8E%20%D1%86%D0%B5%D0%BD%D1%83%20%D1%83%20%D0%B2%D0%B0%D1%81%20%D0%BE%D0%B4%D0%BD%D0%BE%D0%BC%D0%B5%D1%81%D1%82%D0%BD%D1%8B%D0%B9%20%D0%BD%D0%BE%D0%BC%D0%B5%D1%80%20%3F)
+**Ответ WhatsApp о цене:** `6000 сом`.
 
 ### Silk Way Boutique Hotel, гостиница
 
