@@ -1,0 +1,238 @@
+[2026-10-20 22:52:34] start: queries=268 done=0 rows=0
+[2026-10-20 22:52:39] base total: 298
+[2026-10-20 22:52:39] Q салоны связи	+12	U12	T298	
+[2026-10-20 22:52:42] Q оператор связи	+6	U18	T298	
+[2026-10-20 22:52:44] Q мобильные операторы	+0	U18	T295	
+[2026-10-20 22:52:46] Q салон связи	+0	U18	T298	
+[2026-10-20 22:52:48] Q офис оператора	+4	U22	T4	
+[2026-10-20 22:52:50] Q офис связи	+5	U27	T8	
+[2026-10-20 22:52:52] Q Tcell	+10	U37	T73	
+[2026-10-20 22:52:55] Q Тсел	+0	U37	T72	
+[2026-10-20 22:53:06] Q Т-cell	+0	U37	TNone	blocked(code=404,len=510971,url=https://2gis.tj/dushanbe/search/%D0%A2-cell)
+[2026-10-20 22:53:08] Q МегаФон	+8	U45	T91	
+[2026-10-20 22:53:10] Q Megafon	+0	U45	T90	
+[2026-10-20 22:53:12] Q Мегамир	+1	U46	T462	
+[2026-10-20 22:53:14] Q Зет Мобил	+11	U57	T43	
+[2026-10-20 22:53:17] Q Zet-mobile	+0	U57	T43	
+[2026-10-20 22:53:19] Q Beeline	+2	U59	T2	
+[2026-10-20 22:53:21] Q Бабилон	+8	U67	T37	
+[2026-10-20 22:53:23] Q Babilon	+0	U67	T35	
+[2026-10-20 22:53:25] Q Babilon-Mobile	+3	U70	T32	
+[2026-10-20 22:53:27] Q Babilon-T	+0	U70	T3	
+[2026-10-20 22:53:29] Q Мобилӣ	+10	U80	T685	
+[2026-10-20 22:53:31] Q оператори мобилӣ	+0	U80	T292	
+[2026-10-20 22:53:43] Q салони мобилӣ	+0	U80	TNone	blocked(code=404,len=867529,url=https://2gis.tj/dushanbe/search/%D1%81%D0%B0%D0%BB%D0%BE%D0%BD%D0%B8%20%D0%BC%D0%BE%D0%B1%D0%B8%D0%BB%D3%A3)
+[2026-10-20 22:53:46] Q сим-карта	+1	U81	T85	
+[2026-10-20 22:53:48] Q сим карта	+0	U81	T85	
+[2026-10-20 22:53:50] Q sim-карта	+0	U81	T69	
+[2026-10-20 22:54:02] Q пополнение счёта	+0	U81	TNone	blocked(code=404,len=609889,url=https://2gis.tj/dushanbe/search/%D0%BF%D0%BE%D0%BF%D0%BE%D0%BB%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5%20%D1%81%D1%87%D1%91%D1%82%D0%B0)
+[2026-10-20 22:54:04] Q терминал оплаты	+12	U93	T87	
+[2026-10-20 22:54:07] Q сотовый салон	+0	U93	T295	
+[2026-10-20 22:54:09] Q салон сотового	+0	U93	T295	
+[2026-10-20 22:54:12] Q центр обслуживания	+12	U105	T60	
+[2026-10-20 22:54:14] Q салоны связи Исмоили Сомони	+1	U106	T80	
+[2026-10-20 22:54:16] Q салоны связи Фирдоуси	+9	U115	T39	
+[2026-10-20 22:54:19] Q салоны связи Сино	+0	U115	T127	
+[2026-10-20 22:54:21] Q салоны связи Шохмансур	+3	U118	T89	
+[2026-10-20 22:54:23] Q салоны связи Центральный	+0	U118	T295	
+[2026-10-20 22:54:25] Q салоны связи Фирдавси	+2	U120	T102	
+[2026-10-20 22:54:28] Q салоны связи Рудаки	+1	U121	T97	
+[2026-10-20 22:54:39] Q салоны связи Абу-али Ибн Сино	+0	U121	TNone	blocked(code=404,len=609764,url=https://2gis.tj/dushanbe/search/%D1%81%D0%B0%D0%BB%D0%BE%D0%BD%D1%8B%20%D1%81%D0%B2%D1%8F%D0%B7%D0%B8%20%D0%90%D0%B1%D1%83-%D0%B0%D0%BB%D0%B8%20%D0%98%D0%B1%D0%BD%20%D0%A1%D0%B8%D0%BD%D0%BE)
+[2026-10-20 22:54:43] Q салоны связи Гиссарский район	+4	U125	T4	
+[2026-10-20 22:54:55] Q салоны связи Вахдат	+0	U125	TNone	blocked(code=404,len=711892,url=https://2gis.tj/dushanbe/search/%D1%81%D0%B0%D0%BB%D0%BE%D0%BD%D1%8B%20%D1%81%D0%B2%D1%8F%D0%B7%D0%B8%20%D0%92%D0%B0%D1%85%D0%B4%D0%B0%D1%82)
+[2026-10-20 22:55:07] Q салоны связи Парвас	+0	U125	TNone	blocked(code=404,len=712112,url=https://2gis.tj/dushanbe/search/%D1%81%D0%B0%D0%BB%D0%BE%D0%BD%D1%8B%20%D1%81%D0%B2%D1%8F%D0%B7%D0%B8%20%D0%9F%D0%B0%D1%80%D0%B2%D0%B0%D1%81)
+[2026-10-20 22:55:19] Q салоны связи Носири Хусрав	+0	U125	TNone	blocked(code=404,len=713176,url=https://2gis.tj/dushanbe/search/%D1%81%D0%B0%D0%BB%D0%BE%D0%BD%D1%8B%20%D1%81%D0%B2%D1%8F%D0%B7%D0%B8%20%D0%9D%D0%BE%D1%81%D0%B8%D1%80%D0%B8%20%D0%A5%D1%83%D1%81%D1%80%D0%B0%D0%B2)
+[2026-10-20 22:55:22] Q салоны связи Шоҳмансур	+0	U125	T89	
+[2026-10-20 22:55:25] Q салоны связи Фирдавсӣ	+1	U126	T102	
+[2026-10-20 22:55:29] Q салоны связи Исмоили Сомонӣ	+0	U126	T80	
+[2026-10-20 22:55:31] Q салоны связи Садриддин Айнӣ	+1	U127	T43	
+[2026-10-20 22:55:33] Q салоны связи Рӯдакӣ	+0	U127	T63	
+[2026-10-20 22:55:35] Q салоны связи Нусратулло Махсум	+4	U131	T20	
+[2026-10-20 22:55:38] Q салоны связи Неъмат Қарабоев	+3	U134	T50	
+[2026-10-20 22:55:40] Q салоны связи Крупской	+9	U143	T14	
+[2026-10-20 22:55:43] Q салоны связи Борбад	+11	U154	T21	
+[2026-10-20 22:55:45] Q салоны связи Алишер Навоӣ	+6	U160	T19	
+[2026-10-20 22:55:47] Q салоны связи Испечак	+3	U163	T9	
+[2026-10-20 22:55:50] Q салоны связи Деҳотӣ	+4	U167	T19	
+[2026-10-20 22:55:53] Q салоны связи Мирзо Турсунзада	+6	U173	T8	
+[2026-10-20 22:55:56] Q салоны связи Бобоҷон Ғафуров	+1	U174	T13	
+[2026-10-20 22:55:58] Q салоны связи Зарафшон	+7	U181	T10	
+[2026-10-20 22:56:01] Q салоны связи Саъдӣ Шерозӣ	+1	U182	T25	
+[2026-10-20 22:56:04] Q салоны связи Меҳнат	+4	U186	T24	
+[2026-10-20 22:56:06] Q салоны связи Шамси	+0	U186	T3	
+[2026-10-20 22:56:09] Q салоны связи Маяковский	+4	U190	T8	
+[2026-10-20 22:56:12] Q салоны связи Дӯстии халқҳо	+2	U192	T6	
+[2026-10-20 22:56:15] Q салоны связи Зафар	+7	U199	T12	
+[2026-10-20 22:56:18] Q салоны связи Абӯалӣ ибни Сино	+5	U204	T13	
+[2026-10-20 22:56:20] Q салоны связи Ҳофизи Шерозӣ	+6	U210	T10	
+[2026-10-20 22:56:23] Q салоны связи Бухоро	+5	U215	T7	
+[2026-10-20 22:56:26] Q салоны связи Моёншо Назаршоев	+2	U217	T4	
+[2026-10-20 22:56:29] Q салоны связи Ҷаббор Расулов	+8	U225	T14	
+[2026-10-20 22:56:31] Q салоны связи Пӯлодӣ	+0	U225	T10	
+[2026-10-20 22:56:43] Q салоны связи Навбаҳор-2	+0	U225	TNone	blocked(code=404,len=713390,url=https://2gis.tj/dushanbe/search/%D1%81%D0%B0%D0%BB%D0%BE%D0%BD%D1%8B%20%D1%81%D0%B2%D1%8F%D0%B7%D0%B8%20%D0%9D%D0%B0%D0%B2%D0%B1%D0%B0%D2%B3%D0%BE%D1%80-2)
+[2026-10-20 22:56:46] Q салоны связи Якка-Чинор	+2	U227	T8	
+[2026-10-20 22:56:48] Q салоны связи Бобо Ҳамдамов	+0	U227	T2	
+[2026-10-20 22:56:50] Q салоны связи Ҷомӣ	+5	U232	T27	
+[2026-10-20 22:57:02] Q салоны связи Куштеппа-2	+0	U232	TNone	blocked(code=404,len=702924,url=https://2gis.tj/dushanbe/search/%D1%81%D0%B0%D0%BB%D0%BE%D0%BD%D1%8B%20%D1%81%D0%B2%D1%8F%D0%B7%D0%B8%20%D0%9A%D1%83%D1%88%D1%82%D0%B5%D0%BF%D0%BF%D0%B0-2)
+[2026-10-20 22:57:04] Q салоны связи Абдулаҳад Қаҳҳоров	+3	U235	T16	
+[2026-10-20 22:57:07] Q салоны связи Дилкушо	+3	U238	T8	
+[2026-10-20 22:57:09] Q салоны связи Нурулло Хувайдуллоев	+0	U238	T1	
+[2026-10-20 22:57:12] Q салоны связи Аҳмади Дониш	+5	U243	T8	
+[2026-10-20 22:57:23] Q салоны связи Қурбон Раҳимов	+0	U243	TNone	blocked(code=404,len=717301,url=https://2gis.tj/dushanbe/search/%D1%81%D0%B0%D0%BB%D0%BE%D0%BD%D1%8B%20%D1%81%D0%B2%D1%8F%D0%B7%D0%B8%20%D2%9A%D1%83%D1%80%D0%B1%D0%BE%D0%BD%20%D0%A0%D0%B0%D2%B3%D0%B8%D0%BC%D0%BE%D0%B2)
+[2026-10-20 22:57:26] Q салоны связи Шевченко	+0	U243	T5	
+[2026-10-20 22:57:29] Q салоны связи Карамова	+4	U247	T4	
+[2026-10-20 22:57:40] Q салоны связи Деҳи Боло	+0	U247	TNone	blocked(code=404,len=702341,url=https://2gis.tj/dushanbe/search/%D1%81%D0%B0%D0%BB%D0%BE%D0%BD%D1%8B%20%D1%81%D0%B2%D1%8F%D0%B7%D0%B8%20%D0%94%D0%B5%D2%B3%D0%B8%20%D0%91%D0%BE%D0%BB%D0%BE)
+[2026-10-20 22:57:44] Q салоны связи Мушфиқӣ	+0	U247	T283	
+[2026-10-20 22:57:46] Q салоны связи Ҳамадонӣ	+0	U247	T170	
+[2026-10-20 22:57:58] Q салоны связи Навбахор	+0	U247	TNone	blocked(code=404,len=712205,url=https://2gis.tj/dushanbe/search/%D1%81%D0%B0%D0%BB%D0%BE%D0%BD%D1%8B%20%D1%81%D0%B2%D1%8F%D0%B7%D0%B8%20%D0%9D%D0%B0%D0%B2%D0%B1%D0%B0%D1%85%D0%BE%D1%80)
+[2026-10-20 22:58:01] Q салоны связи Раҳмон Набиев	+2	U249	T18	
+[2026-10-20 22:58:13] Q салоны связи 2-юми Арбобхотун	+0	U249	TNone	blocked(code=404,len=703456,url=https://2gis.tj/dushanbe/search/%D1%81%D0%B0%D0%BB%D0%BE%D0%BD%D1%8B%20%D1%81%D0%B2%D1%8F%D0%B7%D0%B8%202-%D1%8E%D0%BC%D0%B8%20%D0%90%D1%80%D0%B1%D0%BE%D0%B1%D1%85%D0%BE%D1%82%D1%83%D0%BD)
+[2026-10-20 22:58:15] Q салоны связи Даври Ҷанубӣ	+2	U251	T9	
+[2026-10-20 22:58:17] Q салоны связи Ҳамза Ҳакимзода	+1	U252	T5	
+[2026-10-20 22:58:19] Q салоны связи Абулқосим Лоҳутӣ	+1	U253	T16	
+[2026-10-20 22:58:22] Q салоны связи Шарифҷон Ҳусейнзода	+0	U253	T2	
+[2026-10-20 22:58:25] Q салоны связи Қазоқон	+1	U254	T15	
+[2026-10-20 22:58:28] Q салоны связи Фотеҳ Ниёзӣ	+3	U257	T7	
+[2026-10-20 22:58:31] Q салоны связи Деҳнаваки боло	+1	U258	T1	
+[2026-10-20 22:58:42] Q салоны связи Асадулло Ғуломов	+0	U258	TNone	blocked(code=404,len=703585,url=https://2gis.tj/dushanbe/search/%D1%81%D0%B0%D0%BB%D0%BE%D0%BD%D1%8B%20%D1%81%D0%B2%D1%8F%D0%B7%D0%B8%20%D0%90%D1%81%D0%B0%D0%B4%D1%83%D0%BB%D0%BB%D0%BE%20%D2%92%D1%83%D0%BB%D0%BE%D0%BC%D0%BE%D0%B2)
+[2026-10-20 22:58:45] Q салоны связи Соҳилӣ	+2	U260	T14	
+[2026-10-20 22:58:57] Q салоны связи Обчакорон-1	+0	U260	TNone	blocked(code=404,len=712451,url=https://2gis.tj/dushanbe/search/%D1%81%D0%B0%D0%BB%D0%BE%D0%BD%D1%8B%20%D1%81%D0%B2%D1%8F%D0%B7%D0%B8%20%D0%9E%D0%B1%D1%87%D0%B0%D0%BA%D0%BE%D1%80%D0%BE%D0%BD-1)
+[2026-10-20 22:59:09] Q салоны связи Умари Хайём	+0	U260	TNone	blocked(code=404,len=704791,url=https://2gis.tj/dushanbe/search/%D1%81%D0%B0%D0%BB%D0%BE%D0%BD%D1%8B%20%D1%81%D0%B2%D1%8F%D0%B7%D0%B8%20%D0%A3%D0%BC%D0%B0%D1%80%D0%B8%20%D0%A5%D0%B0%D0%B9%D1%91%D0%BC)
+[2026-10-20 22:59:21] Q салоны связи Муродулло Шерализода	+0	U260	TNone	blocked(code=404,len=661727,url=https://2gis.tj/dushanbe/search/%D1%81%D0%B0%D0%BB%D0%BE%D0%BD%D1%8B%20%D1%81%D0%B2%D1%8F%D0%B7%D0%B8%20%D0%9C%D1%83%D1%80%D0%BE%D0%B4%D1%83%D0%BB%D0%BB%D0%BE%20%D0%A8%D0%B5%D1%80%D0%B0%D0%BB%D0%B8%D0%B7%D0%BE%D0%B4%D0%B0)
+[2026-10-20 22:59:24] Q салоны связи Чорякорон	+0	U260	T295	
+[2026-10-20 22:59:26] Q салоны связи Гипрозем	+5	U265	T9	
+[2026-10-20 22:59:38] Q салоны связи Арбобхотун	+0	U265	TNone	blocked(code=404,len=712513,url=https://2gis.tj/dushanbe/search/%D1%81%D0%B0%D0%BB%D0%BE%D0%BD%D1%8B%20%D1%81%D0%B2%D1%8F%D0%B7%D0%B8%20%D0%90%D1%80%D0%B1%D0%BE%D0%B1%D1%85%D0%BE%D1%82%D1%83%D0%BD)
+[2026-10-20 22:59:50] Q салоны связи Гулбутта-1	+0	U265	TNone	blocked(code=404,len=701021,url=https://2gis.tj/dushanbe/search/%D1%81%D0%B0%D0%BB%D0%BE%D0%BD%D1%8B%20%D1%81%D0%B2%D1%8F%D0%B7%D0%B8%20%D0%93%D1%83%D0%BB%D0%B1%D1%83%D1%82%D1%82%D0%B0-1)
+[2026-10-20 22:59:52] Q салоны связи 50-солагии Тоҷикистон	+0	U265	T1	
+[2026-10-20 22:59:55] Q салоны связи Миралӣ Маҳмадалӣ	+2	U267	T5	
+[2026-10-20 22:59:58] Q салоны связи Беҳзод	+0	U267	T8	
+[2026-10-20 23:00:09] Q салоны связи Каҳрамон	+0	U267	TNone	blocked(code=404,len=712204,url=https://2gis.tj/dushanbe/search/%D1%81%D0%B0%D0%BB%D0%BE%D0%BD%D1%8B%20%D1%81%D0%B2%D1%8F%D0%B7%D0%B8%20%D0%9A%D0%B0%D2%B3%D1%80%D0%B0%D0%BC%D0%BE%D0%BD)
+[2026-10-20 23:00:21] Q салоны связи Насафӣ	+0	U267	TNone	blocked(code=404,len=711892,url=https://2gis.tj/dushanbe/search/%D1%81%D0%B0%D0%BB%D0%BE%D0%BD%D1%8B%20%D1%81%D0%B2%D1%8F%D0%B7%D0%B8%20%D0%9D%D0%B0%D1%81%D0%B0%D1%84%D3%A3)
+[2026-10-20 23:00:33] Q салоны связи Фазлиддин Шаҳобов	+0	U267	TNone	blocked(code=404,len=703573,url=https://2gis.tj/dushanbe/search/%D1%81%D0%B0%D0%BB%D0%BE%D0%BD%D1%8B%20%D1%81%D0%B2%D1%8F%D0%B7%D0%B8%20%D0%A4%D0%B0%D0%B7%D0%BB%D0%B8%D0%B4%D0%B4%D0%B8%D0%BD%20%D0%A8%D0%B0%D2%B3%D0%BE%D0%B1%D0%BE%D0%B2)
+[2026-10-20 23:00:45] Q салоны связи Шириншох Шотемур	+0	U267	TNone	blocked(code=404,len=670536,url=https://2gis.tj/dushanbe/search/%D1%81%D0%B0%D0%BB%D0%BE%D0%BD%D1%8B%20%D1%81%D0%B2%D1%8F%D0%B7%D0%B8%20%D0%A8%D0%B8%D1%80%D0%B8%D0%BD%D1%88%D0%BE%D1%85%20%D0%A8%D0%BE%D1%82%D0%B5%D0%BC%D1%83%D1%80)
+[2026-10-20 23:00:47] Q салоны связи Фазлиддин Муҳаммадиев	+0	U267	T2	
+[2026-10-20 23:00:59] Q салоны связи Обчакорон	+0	U267	TNone	blocked(code=404,len=712628,url=https://2gis.tj/dushanbe/search/%D1%81%D0%B0%D0%BB%D0%BE%D0%BD%D1%8B%20%D1%81%D0%B2%D1%8F%D0%B7%D0%B8%20%D0%9E%D0%B1%D1%87%D0%B0%D0%BA%D0%BE%D1%80%D0%BE%D0%BD)
+[2026-10-20 23:01:01] Q салоны связи Хуҷамбиёи Поён	+0	U267	T1	
+[2026-10-20 23:01:13] Q салоны связи Гулпарвар-2	+0	U267	TNone	blocked(code=404,len=712451,url=https://2gis.tj/dushanbe/search/%D1%81%D0%B0%D0%BB%D0%BE%D0%BD%D1%8B%20%D1%81%D0%B2%D1%8F%D0%B7%D0%B8%20%D0%93%D1%83%D0%BB%D0%BF%D0%B0%D1%80%D0%B2%D0%B0%D1%80-2)
+[2026-10-20 23:01:25] Q салоны связи Ҷавлибой	+0	U267	TNone	blocked(code=404,len=712200,url=https://2gis.tj/dushanbe/search/%D1%81%D0%B0%D0%BB%D0%BE%D0%BD%D1%8B%20%D1%81%D0%B2%D1%8F%D0%B7%D0%B8%20%D2%B6%D0%B0%D0%B2%D0%BB%D0%B8%D0%B1%D0%BE%D0%B9)
+[2026-10-20 23:01:36] Q салоны связи 3-юми Арбобхотун	+0	U267	TNone	blocked(code=404,len=581780,url=https://2gis.tj/dushanbe/search/%D1%81%D0%B0%D0%BB%D0%BE%D0%BD%D1%8B%20%D1%81%D0%B2%D1%8F%D0%B7%D0%B8%203-%D1%8E%D0%BC%D0%B8%20%D0%90%D1%80%D0%B1%D0%BE%D0%B1%D1%85%D0%BE%D1%82%D1%83%D0%BD)
+[2026-10-20 23:01:48] Q салоны связи 40 солагии Ғалаба	+0	U267	TNone	blocked(code=404,len=559994,url=https://2gis.tj/dushanbe/search/%D1%81%D0%B0%D0%BB%D0%BE%D0%BD%D1%8B%20%D1%81%D0%B2%D1%8F%D0%B7%D0%B8%2040%20%D1%81%D0%BE%D0%BB%D0%B0%D0%B3%D0%B8%D0%B8%20%D2%92%D0%B0%D0%BB%D0%B0%D0%B1%D0%B0)
+[2026-10-20 23:01:59] Q салоны связи Маҳмадшои Боло	+0	U267	TNone	blocked(code=404,len=703113,url=https://2gis.tj/dushanbe/search/%D1%81%D0%B0%D0%BB%D0%BE%D0%BD%D1%8B%20%D1%81%D0%B2%D1%8F%D0%B7%D0%B8%20%D0%9C%D0%B0%D2%B3%D0%BC%D0%B0%D0%B4%D1%88%D0%BE%D0%B8%20%D0%91%D0%BE%D0%BB%D0%BE)
+[2026-10-20 23:02:11] Q салоны связи Шайнак	+0	U267	TNone	blocked(code=404,len=711895,url=https://2gis.tj/dushanbe/search/%D1%81%D0%B0%D0%BB%D0%BE%D0%BD%D1%8B%20%D1%81%D0%B2%D1%8F%D0%B7%D0%B8%20%D0%A8%D0%B0%D0%B9%D0%BD%D0%B0%D0%BA)
+[2026-10-20 23:02:23] Q салоны связи Асирӣ	+0	U267	TNone	blocked(code=404,len=711737,url=https://2gis.tj/dushanbe/search/%D1%81%D0%B0%D0%BB%D0%BE%D0%BD%D1%8B%20%D1%81%D0%B2%D1%8F%D0%B7%D0%B8%20%D0%90%D1%81%D0%B8%D1%80%D3%A3)
+[2026-10-20 23:02:25] Q салоны связи Хусрави Деҳлавӣ	+1	U268	T4	
+[2026-10-20 23:02:37] Q салоны связи Мамадали Қурбонов	+0	U268	TNone	blocked(code=404,len=703624,url=https://2gis.tj/dushanbe/search/%D1%81%D0%B0%D0%BB%D0%BE%D0%BD%D1%8B%20%D1%81%D0%B2%D1%8F%D0%B7%D0%B8%20%D0%9C%D0%B0%D0%BC%D0%B0%D0%B4%D0%B0%D0%BB%D0%B8%20%D2%9A%D1%83%D1%80%D0%B1%D0%BE%D0%BD%D0%BE%D0%B2)
+[2026-10-20 23:02:49] Q салоны связи Машъал	+0	U268	TNone	blocked(code=404,len=711896,url=https://2gis.tj/dushanbe/search/%D1%81%D0%B0%D0%BB%D0%BE%D0%BD%D1%8B%20%D1%81%D0%B2%D1%8F%D0%B7%D0%B8%20%D0%9C%D0%B0%D1%88%D1%8A%D0%B0%D0%BB)
+[2026-10-20 23:03:00] Q салоны связи Абдуллобеков	+0	U268	TNone	blocked(code=404,len=712820,url=https://2gis.tj/dushanbe/search/%D1%81%D0%B0%D0%BB%D0%BE%D0%BD%D1%8B%20%D1%81%D0%B2%D1%8F%D0%B7%D0%B8%20%D0%90%D0%B1%D0%B4%D1%83%D0%BB%D0%BB%D0%BE%D0%B1%D0%B5%D0%BA%D0%BE%D0%B2)
+[2026-10-20 23:03:03] Q салоны связи Ҳабибулло Назаров	+0	U268	T2	
+[2026-10-20 23:03:14] Q салоны связи Навободи Боло	+0	U268	TNone	blocked(code=404,len=703228,url=https://2gis.tj/dushanbe/search/%D1%81%D0%B0%D0%BB%D0%BE%D0%BD%D1%8B%20%D1%81%D0%B2%D1%8F%D0%B7%D0%B8%20%D0%9D%D0%B0%D0%B2%D0%BE%D0%B1%D0%BE%D0%B4%D0%B8%20%D0%91%D0%BE%D0%BB%D0%BE)
+[2026-10-20 23:03:26] Q салоны связи Малика Собирова	+0	U268	TNone	blocked(code=404,len=722041,url=https://2gis.tj/dushanbe/search/%D1%81%D0%B0%D0%BB%D0%BE%D0%BD%D1%8B%20%D1%81%D0%B2%D1%8F%D0%B7%D0%B8%20%D0%9C%D0%B0%D0%BB%D0%B8%D0%BA%D0%B0%20%D0%A1%D0%BE%D0%B1%D0%B8%D1%80%D0%BE%D0%B2%D0%B0)
+[2026-10-20 23:03:28] Q салоны связи Мирзо Мастонгулов	+1	U269	T1	
+[2026-10-20 23:03:40] Q салоны связи Шараф	+0	U269	TNone	blocked(code=404,len=712301,url=https://2gis.tj/dushanbe/search/%D1%81%D0%B0%D0%BB%D0%BE%D0%BD%D1%8B%20%D1%81%D0%B2%D1%8F%D0%B7%D0%B8%20%D0%A8%D0%B0%D1%80%D0%B0%D1%84)
+[2026-10-20 23:03:52] Q салоны связи Истаравшан	+0	U269	TNone	blocked(code=404,len=712508,url=https://2gis.tj/dushanbe/search/%D1%81%D0%B0%D0%BB%D0%BE%D0%BD%D1%8B%20%D1%81%D0%B2%D1%8F%D0%B7%D0%B8%20%D0%98%D1%81%D1%82%D0%B0%D1%80%D0%B0%D0%B2%D1%88%D0%B0%D0%BD)
+[2026-10-20 23:04:04] Q салоны связи Фурузон	+0	U269	TNone	blocked(code=404,len=712050,url=https://2gis.tj/dushanbe/search/%D1%81%D0%B0%D0%BB%D0%BE%D0%BD%D1%8B%20%D1%81%D0%B2%D1%8F%D0%B7%D0%B8%20%D0%A4%D1%83%D1%80%D1%83%D0%B7%D0%BE%D0%BD)
+[2026-10-20 23:04:16] Q салоны связи Хоразмӣ	+0	U269	TNone	blocked(code=404,len=712050,url=https://2gis.tj/dushanbe/search/%D1%81%D0%B0%D0%BB%D0%BE%D0%BD%D1%8B%20%D1%81%D0%B2%D1%8F%D0%B7%D0%B8%20%D0%A5%D0%BE%D1%80%D0%B0%D0%B7%D0%BC%D3%A3)
+[2026-10-20 23:04:28] Q салоны связи Шарк	+0	U269	TNone	blocked(code=404,len=711591,url=https://2gis.tj/dushanbe/search/%D1%81%D0%B0%D0%BB%D0%BE%D0%BD%D1%8B%20%D1%81%D0%B2%D1%8F%D0%B7%D0%B8%20%D0%A8%D0%B0%D1%80%D0%BA)
+[2026-10-20 23:04:40] Q салоны связи Гулбутта-2	+0	U269	TNone	blocked(code=404,len=702335,url=https://2gis.tj/dushanbe/search/%D1%81%D0%B0%D0%BB%D0%BE%D0%BD%D1%8B%20%D1%81%D0%B2%D1%8F%D0%B7%D0%B8%20%D0%93%D1%83%D0%BB%D0%B1%D1%83%D1%82%D1%82%D0%B0-2)
+[2026-10-20 23:04:43] Q салоны связи Сомон	+0	U269	T3	
+[2026-10-20 23:04:55] Q салоны связи Рустам Амакӣ	+0	U269	TNone	blocked(code=404,len=702804,url=https://2gis.tj/dushanbe/search/%D1%81%D0%B0%D0%BB%D0%BE%D0%BD%D1%8B%20%D1%81%D0%B2%D1%8F%D0%B7%D0%B8%20%D0%A0%D1%83%D1%81%D1%82%D0%B0%D0%BC%20%D0%90%D0%BC%D0%B0%D0%BA%D3%A3)
+[2026-10-20 23:05:07] Q салоны связи Пӯлод Толис	+0	U269	TNone	blocked(code=404,len=702650,url=https://2gis.tj/dushanbe/search/%D1%81%D0%B0%D0%BB%D0%BE%D0%BD%D1%8B%20%D1%81%D0%B2%D1%8F%D0%B7%D0%B8%20%D0%9F%D3%AF%D0%BB%D0%BE%D0%B4%20%D0%A2%D0%BE%D0%BB%D0%B8%D1%81)
+[2026-10-20 23:05:18] Q салоны связи Акобир Адҳамов	+0	U269	TNone	blocked(code=404,len=703113,url=https://2gis.tj/dushanbe/search/%D1%81%D0%B0%D0%BB%D0%BE%D0%BD%D1%8B%20%D1%81%D0%B2%D1%8F%D0%B7%D0%B8%20%D0%90%D0%BA%D0%BE%D0%B1%D0%B8%D1%80%20%D0%90%D0%B4%D2%B3%D0%B0%D0%BC%D0%BE%D0%B2)
+[2026-10-20 23:05:30] Q салоны связи Зебуниссо	+0	U269	TNone	blocked(code=404,len=712597,url=https://2gis.tj/dushanbe/search/%D1%81%D0%B0%D0%BB%D0%BE%D0%BD%D1%8B%20%D1%81%D0%B2%D1%8F%D0%B7%D0%B8%20%D0%97%D0%B5%D0%B1%D1%83%D0%BD%D0%B8%D1%81%D1%81%D0%BE)
+[2026-10-20 23:05:42] Q салоны связи Павел Ханҷин	+0	U269	TNone	blocked(code=404,len=702805,url=https://2gis.tj/dushanbe/search/%D1%81%D0%B0%D0%BB%D0%BE%D0%BD%D1%8B%20%D1%81%D0%B2%D1%8F%D0%B7%D0%B8%20%D0%9F%D0%B0%D0%B2%D0%B5%D0%BB%20%D0%A5%D0%B0%D0%BD%D2%B7%D0%B8%D0%BD)
+[2026-10-20 23:05:44] Q салоны связи Гагарин	+0	U269	T10	
+[2026-10-20 23:05:47] Q салоны связи Саид Носир	+3	U272	T5	
+[2026-10-20 23:05:58] Q салоны связи Чортути Поён	+0	U272	TNone	blocked(code=404,len=702804,url=https://2gis.tj/dushanbe/search/%D1%81%D0%B0%D0%BB%D0%BE%D0%BD%D1%8B%20%D1%81%D0%B2%D1%8F%D0%B7%D0%B8%20%D0%A7%D0%BE%D1%80%D1%82%D1%83%D1%82%D0%B8%20%D0%9F%D0%BE%D1%91%D0%BD)
+[2026-10-20 23:06:01] Q салоны связи Қаротегин	+4	U276	T289	
+[2026-10-20 23:06:03] Q салоны связи Кушониён	+0	U276	T1	
+[2026-10-20 23:06:15] Q салоны связи Сарикишти Поён	+0	U276	TNone	blocked(code=404,len=702273,url=https://2gis.tj/dushanbe/search/%D1%81%D0%B0%D0%BB%D0%BE%D0%BD%D1%8B%20%D1%81%D0%B2%D1%8F%D0%B7%D0%B8%20%D0%A1%D0%B0%D1%80%D0%B8%D0%BA%D0%B8%D1%88%D1%82%D0%B8%20%D0%9F%D0%BE%D1%91%D0%BD)
+[2026-10-20 23:06:28] Q салоны связи Дарёобод	+0	U276	TNone	blocked(code=404,len=712385,url=https://2gis.tj/dushanbe/search/%D1%81%D0%B0%D0%BB%D0%BE%D0%BD%D1%8B%20%D1%81%D0%B2%D1%8F%D0%B7%D0%B8%20%D0%94%D0%B0%D1%80%D1%91%D0%BE%D0%B1%D0%BE%D0%B4)
+[2026-10-20 23:06:39] Q салоны связи Ҷӯибодом-3	+0	U276	TNone	blocked(code=404,len=711138,url=https://2gis.tj/dushanbe/search/%D1%81%D0%B0%D0%BB%D0%BE%D0%BD%D1%8B%20%D1%81%D0%B2%D1%8F%D0%B7%D0%B8%20%D2%B6%D3%AF%D0%B8%D0%B1%D0%BE%D0%B4%D0%BE%D0%BC-3)
+[2026-10-20 23:06:51] Q салоны связи Ҷӯибодом-1	+0	U276	TNone	blocked(code=404,len=711139,url=https://2gis.tj/dushanbe/search/%D1%81%D0%B0%D0%BB%D0%BE%D0%BD%D1%8B%20%D1%81%D0%B2%D1%8F%D0%B7%D0%B8%20%D2%B6%D3%AF%D0%B8%D0%B1%D0%BE%D0%B4%D0%BE%D0%BC-1)
+[2026-10-20 23:06:54] Q салоны связи Абая	+1	U277	T2	
+[2026-10-20 23:07:05] Q салоны связи Деҳқонобод-2	+0	U277	TNone	blocked(code=404,len=702644,url=https://2gis.tj/dushanbe/search/%D1%81%D0%B0%D0%BB%D0%BE%D0%BD%D1%8B%20%D1%81%D0%B2%D1%8F%D0%B7%D0%B8%20%D0%94%D0%B5%D2%B3%D2%9B%D0%BE%D0%BD%D0%BE%D0%B1%D0%BE%D0%B4-2)
+[2026-10-20 23:07:17] Q салоны связи Нодира	+0	U277	TNone	blocked(code=404,len=726929,url=https://2gis.tj/dushanbe/search/%D1%81%D0%B0%D0%BB%D0%BE%D0%BD%D1%8B%20%D1%81%D0%B2%D1%8F%D0%B7%D0%B8%20%D0%9D%D0%BE%D0%B4%D0%B8%D1%80%D0%B0)
+[2026-10-20 23:07:29] Q салоны связи Сабзикор	+0	U277	TNone	blocked(code=404,len=712199,url=https://2gis.tj/dushanbe/search/%D1%81%D0%B0%D0%BB%D0%BE%D0%BD%D1%8B%20%D1%81%D0%B2%D1%8F%D0%B7%D0%B8%20%D0%A1%D0%B0%D0%B1%D0%B7%D0%B8%D0%BA%D0%BE%D1%80)
+[2026-10-20 23:07:31] Q салоны связи Амиршоев	+0	U277	T24	
+[2026-10-20 23:07:43] Q салоны связи Абдуқодирхоҷаи Савдо	+0	U277	TNone	blocked(code=404,len=687590,url=https://2gis.tj/dushanbe/search/%D1%81%D0%B0%D0%BB%D0%BE%D0%BD%D1%8B%20%D1%81%D0%B2%D1%8F%D0%B7%D0%B8%20%D0%90%D0%B1%D0%B4%D1%83%D2%9B%D0%BE%D0%B4%D0%B8%D1%80%D1%85%D0%BE%D2%B7%D0%B0%D0%B8%20%D0%A1%D0%B0%D0%B2%D0%B4%D0%BE)
+[2026-10-20 23:07:55] Q салоны связи Қуштеппа-1	+0	U277	TNone	blocked(code=404,len=702334,url=https://2gis.tj/dushanbe/search/%D1%81%D0%B0%D0%BB%D0%BE%D0%BD%D1%8B%20%D1%81%D0%B2%D1%8F%D0%B7%D0%B8%20%D2%9A%D1%83%D1%88%D1%82%D0%B5%D0%BF%D0%BF%D0%B0-1)
+[2026-10-20 23:07:58] Q салоны связи Пушкин	+0	U277	T27	
+[2026-10-20 23:08:04] Q салоны связи Лоиқ Шералӣ	+0	U277	T2	
+[2026-10-20 23:08:06] Q салоны связи Сомон-1	+0	U277	T2	
+[2026-10-20 23:08:08] Q салоны связи Зардушт	+0	U277	T1	
+[2026-10-20 23:08:20] Q салоны связи Конститутсия	+0	U277	TNone	blocked(code=404,len=713038,url=https://2gis.tj/dushanbe/search/%D1%81%D0%B0%D0%BB%D0%BE%D0%BD%D1%8B%20%D1%81%D0%B2%D1%8F%D0%B7%D0%B8%20%D0%9A%D0%BE%D0%BD%D1%81%D1%82%D0%B8%D1%82%D1%83%D1%82%D1%81%D0%B8%D1%8F)
+[2026-10-20 23:08:32] Q салоны связи Ҳабиб Аҳрорӣ	+0	U277	TNone	blocked(code=404,len=702803,url=https://2gis.tj/dushanbe/search/%D1%81%D0%B0%D0%BB%D0%BE%D0%BD%D1%8B%20%D1%81%D0%B2%D1%8F%D0%B7%D0%B8%20%D2%B2%D0%B0%D0%B1%D0%B8%D0%B1%20%D0%90%D2%B3%D1%80%D0%BE%D1%80%D3%A3)
+[2026-10-20 23:08:44] Q салоны связи Хуҷандӣ	+0	U277	TNone	blocked(code=404,len=712045,url=https://2gis.tj/dushanbe/search/%D1%81%D0%B0%D0%BB%D0%BE%D0%BD%D1%8B%20%D1%81%D0%B2%D1%8F%D0%B7%D0%B8%20%D0%A5%D1%83%D2%B7%D0%B0%D0%BD%D0%B4%D3%A3)
+[2026-10-20 23:08:57] Q салоны связи Анзоб	+0	U277	TNone	blocked(code=404,len=711738,url=https://2gis.tj/dushanbe/search/%D1%81%D0%B0%D0%BB%D0%BE%D0%BD%D1%8B%20%D1%81%D0%B2%D1%8F%D0%B7%D0%B8%20%D0%90%D0%BD%D0%B7%D0%BE%D0%B1)
+[2026-10-20 23:09:08] Q салоны связи Убайди Зоконӣ	+0	U277	TNone	blocked(code=404,len=702959,url=https://2gis.tj/dushanbe/search/%D1%81%D0%B0%D0%BB%D0%BE%D0%BD%D1%8B%20%D1%81%D0%B2%D1%8F%D0%B7%D0%B8%20%D0%A3%D0%B1%D0%B0%D0%B9%D0%B4%D0%B8%20%D0%97%D0%BE%D0%BA%D0%BE%D0%BD%D3%A3)
+[2026-10-20 23:09:20] Q салоны связи Гулшан	+0	U277	TNone	blocked(code=404,len=711179,url=https://2gis.tj/dushanbe/search/%D1%81%D0%B0%D0%BB%D0%BE%D0%BD%D1%8B%20%D1%81%D0%B2%D1%8F%D0%B7%D0%B8%20%D0%93%D1%83%D0%BB%D1%88%D0%B0%D0%BD)
+[2026-10-20 23:09:23] Q салоны связи Карин Манн	+0	U277	T1	
+[2026-10-20 23:09:34] Q салоны связи Собир Абдуллоев	+0	U277	TNone	blocked(code=404,len=703266,url=https://2gis.tj/dushanbe/search/%D1%81%D0%B0%D0%BB%D0%BE%D0%BD%D1%8B%20%D1%81%D0%B2%D1%8F%D0%B7%D0%B8%20%D0%A1%D0%BE%D0%B1%D0%B8%D1%80%20%D0%90%D0%B1%D0%B4%D1%83%D0%BB%D0%BB%D0%BE%D0%B5%D0%B2)
+[2026-10-20 23:09:46] Q салоны связи Аҳрор Мухторов	+0	U277	TNone	blocked(code=404,len=703113,url=https://2gis.tj/dushanbe/search/%D1%81%D0%B0%D0%BB%D0%BE%D0%BD%D1%8B%20%D1%81%D0%B2%D1%8F%D0%B7%D0%B8%20%D0%90%D2%B3%D1%80%D0%BE%D1%80%20%D0%9C%D1%83%D1%85%D1%82%D0%BE%D1%80%D0%BE%D0%B2)
+[2026-10-20 23:09:49] Q салоны связи 1 Май	+0	U277	T2	
+[2026-10-20 23:09:51] Q салоны связи Юсуф Вафо	+2	U279	T2	
+[2026-10-20 23:10:03] Q салоны связи Мирзо Ризо	+0	U279	TNone	blocked(code=404,len=673944,url=https://2gis.tj/dushanbe/search/%D1%81%D0%B0%D0%BB%D0%BE%D0%BD%D1%8B%20%D1%81%D0%B2%D1%8F%D0%B7%D0%B8%20%D0%9C%D0%B8%D1%80%D0%B7%D0%BE%20%D0%A0%D0%B8%D0%B7%D0%BE)
+[2026-10-20 23:10:15] Q салоны связи Анваробод	+0	U279	TNone	blocked(code=404,len=712353,url=https://2gis.tj/dushanbe/search/%D1%81%D0%B0%D0%BB%D0%BE%D0%BD%D1%8B%20%D1%81%D0%B2%D1%8F%D0%B7%D0%B8%20%D0%90%D0%BD%D0%B2%D0%B0%D1%80%D0%BE%D0%B1%D0%BE%D0%B4)
+[2026-10-20 23:10:18] Q салоны связи Бохтар	+0	U279	T6	
+[2026-10-20 23:10:21] Q салоны связи Варзоб	+0	U279	T13	
+[2026-10-20 23:10:26] Q салоны связи Раҳимӣ	+0	U279	T56	
+[2026-10-20 23:10:38] Q салоны связи Бофанда	+0	U279	TNone	blocked(code=404,len=712046,url=https://2gis.tj/dushanbe/search/%D1%81%D0%B0%D0%BB%D0%BE%D0%BD%D1%8B%20%D1%81%D0%B2%D1%8F%D0%B7%D0%B8%20%D0%91%D0%BE%D1%84%D0%B0%D0%BD%D0%B4%D0%B0)
+[2026-10-20 23:10:49] Q салоны связи Шаббода	+0	U279	TNone	blocked(code=404,len=712046,url=https://2gis.tj/dushanbe/search/%D1%81%D0%B0%D0%BB%D0%BE%D0%BD%D1%8B%20%D1%81%D0%B2%D1%8F%D0%B7%D0%B8%20%D0%A8%D0%B0%D0%B1%D0%B1%D0%BE%D0%B4%D0%B0)
+[2026-10-20 23:10:52] Q салоны связи Ҳисор	+0	U279	T283	
+[2026-10-20 23:11:04] Q салоны связи Сана	+0	U279	TNone	blocked(code=404,len=711584,url=https://2gis.tj/dushanbe/search/%D1%81%D0%B0%D0%BB%D0%BE%D0%BD%D1%8B%20%D1%81%D0%B2%D1%8F%D0%B7%D0%B8%20%D0%A1%D0%B0%D0%BD%D0%B0)
+[2026-10-20 23:11:16] Q салоны связи Давлат Гадоев	+0	U279	TNone	blocked(code=404,len=712920,url=https://2gis.tj/dushanbe/search/%D1%81%D0%B0%D0%BB%D0%BE%D0%BD%D1%8B%20%D1%81%D0%B2%D1%8F%D0%B7%D0%B8%20%D0%94%D0%B0%D0%B2%D0%BB%D0%B0%D1%82%20%D0%93%D0%B0%D0%B4%D0%BE%D0%B5%D0%B2)
+[2026-10-20 23:11:29] Q салоны связи Гулбутта-5	+0	U279	TNone	blocked(code=404,len=702335,url=https://2gis.tj/dushanbe/search/%D1%81%D0%B0%D0%BB%D0%BE%D0%BD%D1%8B%20%D1%81%D0%B2%D1%8F%D0%B7%D0%B8%20%D0%93%D1%83%D0%BB%D0%B1%D1%83%D1%82%D1%82%D0%B0-5)
+[2026-10-20 23:11:40] Q салоны связи Лучоб	+0	U279	TNone	blocked(code=404,len=711960,url=https://2gis.tj/dushanbe/search/%D1%81%D0%B0%D0%BB%D0%BE%D0%BD%D1%8B%20%D1%81%D0%B2%D1%8F%D0%B7%D0%B8%20%D0%9B%D1%83%D1%87%D0%BE%D0%B1)
+[2026-10-20 23:11:43] Q салоны связи Ғаффор Валаматзода	+0	U279	T3	
+[2026-10-20 23:11:55] Q салоны связи Чимтеппа	+0	U279	TNone	blocked(code=404,len=712411,url=https://2gis.tj/dushanbe/search/%D1%81%D0%B0%D0%BB%D0%BE%D0%BD%D1%8B%20%D1%81%D0%B2%D1%8F%D0%B7%D0%B8%20%D0%A7%D0%B8%D0%BC%D1%82%D0%B5%D0%BF%D0%BF%D0%B0)
+[2026-10-20 23:11:57] Q салоны связи Миралӣ	+0	U279	T162	
+[2026-10-20 23:12:09] Q салоны связи Обчакорон-2	+0	U279	TNone	blocked(code=404,len=712451,url=https://2gis.tj/dushanbe/search/%D1%81%D0%B0%D0%BB%D0%BE%D0%BD%D1%8B%20%D1%81%D0%B2%D1%8F%D0%B7%D0%B8%20%D0%9E%D0%B1%D1%87%D0%B0%D0%BA%D0%BE%D1%80%D0%BE%D0%BD-2)
+[2026-10-20 23:12:20] Q салоны связи Ҳосилот-1	+0	U279	TNone	blocked(code=404,len=712143,url=https://2gis.tj/dushanbe/search/%D1%81%D0%B0%D0%BB%D0%BE%D0%BD%D1%8B%20%D1%81%D0%B2%D1%8F%D0%B7%D0%B8%20%D2%B2%D0%BE%D1%81%D0%B8%D0%BB%D0%BE%D1%82-1)
+[2026-10-20 23:12:32] Q салоны связи Гулпарвар	+0	U279	TNone	blocked(code=404,len=712358,url=https://2gis.tj/dushanbe/search/%D1%81%D0%B0%D0%BB%D0%BE%D0%BD%D1%8B%20%D1%81%D0%B2%D1%8F%D0%B7%D0%B8%20%D0%93%D1%83%D0%BB%D0%BF%D0%B0%D1%80%D0%B2%D0%B0%D1%80)
+[2026-10-20 23:12:36] Q салоны связи Гулбутта	+1	U280	T30	
+[2026-10-20 23:12:47] Q салоны связи Гулбута-4	+0	U280	TNone	blocked(code=404,len=712143,url=https://2gis.tj/dushanbe/search/%D1%81%D0%B0%D0%BB%D0%BE%D0%BD%D1%8B%20%D1%81%D0%B2%D1%8F%D0%B7%D0%B8%20%D0%93%D1%83%D0%BB%D0%B1%D1%83%D1%82%D0%B0-4)
+[2026-10-20 23:12:59] Q салоны связи Возеҳ	+0	U280	TNone	blocked(code=404,len=711738,url=https://2gis.tj/dushanbe/search/%D1%81%D0%B0%D0%BB%D0%BE%D0%BD%D1%8B%20%D1%81%D0%B2%D1%8F%D0%B7%D0%B8%20%D0%92%D0%BE%D0%B7%D0%B5%D2%B3)
+[2026-10-20 23:13:01] Q салоны связи Ҷӯибодом	+1	U281	T1	
+[2026-10-20 23:13:13] Q салоны связи Саломидин Шаропов	+0	U281	TNone	blocked(code=404,len=713534,url=https://2gis.tj/dushanbe/search/%D1%81%D0%B0%D0%BB%D0%BE%D0%BD%D1%8B%20%D1%81%D0%B2%D1%8F%D0%B7%D0%B8%20%D0%A1%D0%B0%D0%BB%D0%BE%D0%BC%D0%B8%D0%B4%D0%B8%D0%BD%20%D0%A8%D0%B0%D1%80%D0%BE%D0%BF%D0%BE%D0%B2)
+[2026-10-20 23:13:25] Q салоны связи Деҳқонобод-3	+0	U281	TNone	blocked(code=404,len=712605,url=https://2gis.tj/dushanbe/search/%D1%81%D0%B0%D0%BB%D0%BE%D0%BD%D1%8B%20%D1%81%D0%B2%D1%8F%D0%B7%D0%B8%20%D0%94%D0%B5%D2%B3%D2%9B%D0%BE%D0%BD%D0%BE%D0%B1%D0%BE%D0%B4-3)
+[2026-10-20 23:13:37] Q салоны связи Заргар	+0	U281	TNone	blocked(code=404,len=711898,url=https://2gis.tj/dushanbe/search/%D1%81%D0%B0%D0%BB%D0%BE%D0%BD%D1%8B%20%D1%81%D0%B2%D1%8F%D0%B7%D0%B8%20%D0%97%D0%B0%D1%80%D0%B3%D0%B0%D1%80)
+[2026-10-20 23:13:48] Q салоны связи Шафақ	+0	U281	TNone	blocked(code=404,len=711741,url=https://2gis.tj/dushanbe/search/%D1%81%D0%B0%D0%BB%D0%BE%D0%BD%D1%8B%20%D1%81%D0%B2%D1%8F%D0%B7%D0%B8%20%D0%A8%D0%B0%D1%84%D0%B0%D2%9B)
+[2026-10-20 23:14:00] Q салоны связи Шукуфон	+0	U281	TNone	blocked(code=404,len=712046,url=https://2gis.tj/dushanbe/search/%D1%81%D0%B0%D0%BB%D0%BE%D0%BD%D1%8B%20%D1%81%D0%B2%D1%8F%D0%B7%D0%B8%20%D0%A8%D1%83%D0%BA%D1%83%D1%84%D0%BE%D0%BD)
+[2026-10-20 23:14:12] Q салоны связи Телмана	+0	U281	TNone	blocked(code=404,len=712287,url=https://2gis.tj/dushanbe/search/%D1%81%D0%B0%D0%BB%D0%BE%D0%BD%D1%8B%20%D1%81%D0%B2%D1%8F%D0%B7%D0%B8%20%D0%A2%D0%B5%D0%BB%D0%BC%D0%B0%D0%BD%D0%B0)
+[2026-10-20 23:14:23] Q салоны связи Заҳматобод	+0	U281	TNone	blocked(code=404,len=712508,url=https://2gis.tj/dushanbe/search/%D1%81%D0%B0%D0%BB%D0%BE%D0%BD%D1%8B%20%D1%81%D0%B2%D1%8F%D0%B7%D0%B8%20%D0%97%D0%B0%D2%B3%D0%BC%D0%B0%D1%82%D0%BE%D0%B1%D0%BE%D0%B4)
+[2026-10-20 23:14:35] Q салоны связи Исомиддин Соатов	+0	U281	TNone	blocked(code=404,len=713632,url=https://2gis.tj/dushanbe/search/%D1%81%D0%B0%D0%BB%D0%BE%D0%BD%D1%8B%20%D1%81%D0%B2%D1%8F%D0%B7%D0%B8%20%D0%98%D1%81%D0%BE%D0%BC%D0%B8%D0%B4%D0%B4%D0%B8%D0%BD%20%D0%A1%D0%BE%D0%B0%D1%82%D0%BE%D0%B2)
+[2026-10-20 23:14:46] Q салоны связи Гулкорон-2	+0	U281	TNone	blocked(code=404,len=712297,url=https://2gis.tj/dushanbe/search/%D1%81%D0%B0%D0%BB%D0%BE%D0%BD%D1%8B%20%D1%81%D0%B2%D1%8F%D0%B7%D0%B8%20%D0%93%D1%83%D0%BB%D0%BA%D0%BE%D1%80%D0%BE%D0%BD-2)
+[2026-10-20 23:14:58] Q салоны связи Гулкорон-1	+0	U281	TNone	blocked(code=404,len=712296,url=https://2gis.tj/dushanbe/search/%D1%81%D0%B0%D0%BB%D0%BE%D0%BD%D1%8B%20%D1%81%D0%B2%D1%8F%D0%B7%D0%B8%20%D0%93%D1%83%D0%BB%D0%BA%D0%BE%D1%80%D0%BE%D0%BD-1)
+[2026-10-20 23:15:00] Q салоны связи Гулистон	+3	U284	T5	
+[2026-10-20 23:15:11] Q салоны связи Бинокорон	+0	U284	TNone	blocked(code=404,len=712354,url=https://2gis.tj/dushanbe/search/%D1%81%D0%B0%D0%BB%D0%BE%D0%BD%D1%8B%20%D1%81%D0%B2%D1%8F%D0%B7%D0%B8%20%D0%91%D0%B8%D0%BD%D0%BE%D0%BA%D0%BE%D1%80%D0%BE%D0%BD)
+[2026-10-20 23:15:23] Q салоны связи Ал-Берунӣ	+0	U284	TNone	blocked(code=404,len=702296,url=https://2gis.tj/dushanbe/search/%D1%81%D0%B0%D0%BB%D0%BE%D0%BD%D1%8B%20%D1%81%D0%B2%D1%8F%D0%B7%D0%B8%20%D0%90%D0%BB-%D0%91%D0%B5%D1%80%D1%83%D0%BD%D3%A3)
+[2026-10-20 23:15:34] Q салоны связи Дилшод Барно	+0	U284	TNone	blocked(code=404,len=712728,url=https://2gis.tj/dushanbe/search/%D1%81%D0%B0%D0%BB%D0%BE%D0%BD%D1%8B%20%D1%81%D0%B2%D1%8F%D0%B7%D0%B8%20%D0%94%D0%B8%D0%BB%D1%88%D0%BE%D0%B4%20%D0%91%D0%B0%D1%80%D0%BD%D0%BE)
+[2026-10-20 23:15:36] Q салоны связи Муҳаммадҷон Қосимов	+0	U284	T9	
+[2026-10-20 23:15:48] Q салоны связи 3-юми Конститутсия	+0	U284	TNone	blocked(code=404,len=676154,url=https://2gis.tj/dushanbe/search/%D1%81%D0%B0%D0%BB%D0%BE%D0%BD%D1%8B%20%D1%81%D0%B2%D1%8F%D0%B7%D0%B8%203-%D1%8E%D0%BC%D0%B8%20%D0%9A%D0%BE%D0%BD%D1%81%D1%82%D0%B8%D1%82%D1%83%D1%82%D1%81%D0%B8%D1%8F)
+[2026-10-20 23:16:00] Q салоны связи Ҳабибуло Саидмуродов	+0	U284	TNone	blocked(code=404,len=713997,url=https://2gis.tj/dushanbe/search/%D1%81%D0%B0%D0%BB%D0%BE%D0%BD%D1%8B%20%D1%81%D0%B2%D1%8F%D0%B7%D0%B8%20%D2%B2%D0%B0%D0%B1%D0%B8%D0%B1%D1%83%D0%BB%D0%BE%20%D0%A1%D0%B0%D0%B8%D0%B4%D0%BC%D1%83%D1%80%D0%BE%D0%B4%D0%BE%D0%B2)
+[2026-10-20 23:16:03] Q салоны связи Академикҳо Раҷабовҳо	+0	U284	T3	
+[2026-10-20 23:16:15] Q салоны связи И. Нарзиқулов	+0	U284	TNone	blocked(code=404,len=712785,url=https://2gis.tj/dushanbe/search/%D1%81%D0%B0%D0%BB%D0%BE%D0%BD%D1%8B%20%D1%81%D0%B2%D1%8F%D0%B7%D0%B8%20%D0%98.%20%D0%9D%D0%B0%D1%80%D0%B7%D0%B8%D2%9B%D1%83%D0%BB%D0%BE%D0%B2)
+[2026-10-20 23:16:17] Q салоны связи Сомон-2	+0	U284	T7	
+[2026-10-20 23:16:19] Q салоны связи Нисор Муҳаммад	+3	U287	T12	
+[2026-10-20 23:16:30] Q салоны связи Деҳқонобод-1	+0	U287	TNone	blocked(code=404,len=712605,url=https://2gis.tj/dushanbe/search/%D1%81%D0%B0%D0%BB%D0%BE%D0%BD%D1%8B%20%D1%81%D0%B2%D1%8F%D0%B7%D0%B8%20%D0%94%D0%B5%D2%B3%D2%9B%D0%BE%D0%BD%D0%BE%D0%B1%D0%BE%D0%B4-1)
+[2026-10-20 23:16:42] Q салоны связи Наврӯз	+0	U287	TNone	blocked(code=404,len=711892,url=https://2gis.tj/dushanbe/search/%D1%81%D0%B0%D0%BB%D0%BE%D0%BD%D1%8B%20%D1%81%D0%B2%D1%8F%D0%B7%D0%B8%20%D0%9D%D0%B0%D0%B2%D1%80%D3%AF%D0%B7)
+[2026-10-20 23:16:54] Q салоны связи Руҳафзо	+0	U287	TNone	blocked(code=404,len=712050,url=https://2gis.tj/dushanbe/search/%D1%81%D0%B0%D0%BB%D0%BE%D0%BD%D1%8B%20%D1%81%D0%B2%D1%8F%D0%B7%D0%B8%20%D0%A0%D1%83%D2%B3%D0%B0%D1%84%D0%B7%D0%BE)
+[2026-10-20 23:17:05] Q салоны связи Гулбутта-4	+0	U287	TNone	blocked(code=404,len=702334,url=https://2gis.tj/dushanbe/search/%D1%81%D0%B0%D0%BB%D0%BE%D0%BD%D1%8B%20%D1%81%D0%B2%D1%8F%D0%B7%D0%B8%20%D0%93%D1%83%D0%BB%D0%B1%D1%83%D1%82%D1%82%D0%B0-4)
+[2026-10-20 23:17:17] Q салоны связи Мунзим	+0	U287	TNone	blocked(code=404,len=711891,url=https://2gis.tj/dushanbe/search/%D1%81%D0%B0%D0%BB%D0%BE%D0%BD%D1%8B%20%D1%81%D0%B2%D1%8F%D0%B7%D0%B8%20%D0%9C%D1%83%D0%BD%D0%B7%D0%B8%D0%BC)
+[2026-10-20 23:17:29] Q салоны связи Чортути Боло	+0	U287	TNone	blocked(code=404,len=700376,url=https://2gis.tj/dushanbe/search/%D1%81%D0%B0%D0%BB%D0%BE%D0%BD%D1%8B%20%D1%81%D0%B2%D1%8F%D0%B7%D0%B8%20%D0%A7%D0%BE%D1%80%D1%82%D1%83%D1%82%D0%B8%20%D0%91%D0%BE%D0%BB%D0%BE)
+[2026-10-20 23:17:31] Q Tcell Исмоили Сомони	+0	U287	T21	
+[2026-10-20 23:17:33] Q Tcell Фирдоуси	+2	U289	T8	
+[2026-10-20 23:17:36] Q Tcell Сино	+2	U291	T45	
+[2026-10-20 23:17:38] Q Tcell Шохмансур	+1	U292	T28	
+[2026-10-20 23:17:50] Q Tcell Центральный	+0	U292	TNone	blocked(code=404,len=686958,url=https://2gis.tj/dushanbe/search/Tcell%20%D0%A6%D0%B5%D0%BD%D1%82%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9)
+[2026-10-20 23:17:52] Q Tcell Фирдавси	+2	U294	T23	
+[2026-10-20 23:17:54] Q Tcell Рудаки	+0	U294	T31	
+[2026-10-20 23:18:06] Q Tcell Абу-али Ибн Сино	+0	U294	TNone	blocked(code=404,len=564337,url=https://2gis.tj/dushanbe/search/Tcell%20%D0%90%D0%B1%D1%83-%D0%B0%D0%BB%D0%B8%20%D0%98%D0%B1%D0%BD%20%D0%A1%D0%B8%D0%BD%D0%BE)
+[2026-10-20 23:18:08] Q Tcell Гиссарский район	+0	U294	T1	
+[2026-10-20 23:18:20] Q Tcell Вахдат	+0	U294	TNone	blocked(code=404,len=557060,url=https://2gis.tj/dushanbe/search/Tcell%20%D0%92%D0%B0%D1%85%D0%B4%D0%B0%D1%82)
+[2026-10-20 23:18:32] Q Tcell Парвас	+0	U294	TNone	blocked(code=404,len=703414,url=https://2gis.tj/dushanbe/search/Tcell%20%D0%9F%D0%B0%D1%80%D0%B2%D0%B0%D1%81)
+[2026-10-20 23:18:43] Q Tcell Носири Хусрав	+0	U294	TNone	blocked(code=404,len=665773,url=https://2gis.tj/dushanbe/search/Tcell%20%D0%9D%D0%BE%D1%81%D0%B8%D1%80%D0%B8%20%D0%A5%D1%83%D1%81%D1%80%D0%B0%D0%B2)
+[2026-10-20 23:18:45] Q МегаФон Исмоили Сомони	+1	U295	T31	
+[2026-10-20 23:18:47] Q МегаФон Фирдоуси	+3	U298	T10	
+[2026-10-20 23:18:47] saturated at total=298, stop
+[2026-10-20 23:18:47] finish: union=298
