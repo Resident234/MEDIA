@@ -1,0 +1,943 @@
+[
+ {
+  "id": "70000001101445485",
+  "name": "Dorob Gym, толори варзишӣ",
+  "rating": 5.0,
+  "review_count": 3,
+  "address": null,
+  "district": "Шоҳмансур",
+  "city_alias": "dushanbe",
+  "lon": 68.794221,
+  "lat": 38.570999,
+  "rubric_ids": [
+   "267",
+   "268"
+  ],
+  "rubric_names": [
+   "Толорҳои варзишӣ",
+   "Фитнес-клубҳо"
+  ],
+  "reviews_raw": {
+   "general_rating": 5,
+   "general_review_count": 3,
+   "general_review_count_with_stars": 7,
+   "is_reviewable": false,
+   "is_reviewable_on_flamp": true,
+   "items": [
+    {
+     "is_reviewable": true,
+     "tag": "2gis_reviews"
+    }
+   ],
+   "org_rating": 4.8,
+   "org_review_count": 6,
+   "org_review_count_with_stars": 14
+  },
+  "url_2gis": "https://2gis.tj/dushanbe/firm/70000001101445485",
+  "passes": [
+   "rubric:267",
+   "rubric:268",
+   "query:Фитнес",
+   "query:Тренажерный зал"
+  ],
+  "address_comment": "ошёнаи: 2",
+  "rating_field": "general_rating",
+  "general_rating": 5,
+  "org_rating": 4.8,
+  "work_time": null,
+  "phones": null,
+  "contacts": null,
+  "contact_groups": null,
+  "urls": null
+ },
+ {
+  "id": "70000001104026887",
+  "name": "Energy gym, толори варзишӣ",
+  "rating": 5.0,
+  "review_count": 2,
+  "address": "кӯчаи Алишер Навоӣ, 3/6",
+  "district": "Сино",
+  "city_alias": "dushanbe",
+  "lon": 68.755917,
+  "lat": 38.5904,
+  "rubric_ids": [
+   "267"
+  ],
+  "rubric_names": [
+   "Толорҳои варзишӣ"
+  ],
+  "reviews_raw": {
+   "general_rating": 5,
+   "general_review_count": 2,
+   "general_review_count_with_stars": 3,
+   "is_reviewable": false,
+   "is_reviewable_on_flamp": true,
+   "items": [
+    {
+     "is_reviewable": true,
+     "tag": "2gis_reviews"
+    }
+   ],
+   "org_rating": 5,
+   "org_review_count": 2,
+   "org_review_count_with_stars": 3
+  },
+  "url_2gis": "https://2gis.tj/dushanbe/firm/70000001104026887",
+  "passes": [
+   "rubric:267",
+   "query:Фитнес",
+   "query:Тренажерный зал"
+  ],
+  "address_comment": null,
+  "rating_field": "general_rating",
+  "general_rating": 5,
+  "org_rating": 5,
+  "work_time": null,
+  "phones": null,
+  "contacts": null,
+  "contact_groups": null,
+  "urls": null
+ },
+ {
+  "id": "70000001101226012",
+  "name": "Evolution team Bayonov, толори варзишӣ",
+  "rating": 5.0,
+  "review_count": 2,
+  "address": "кӯчаи Бобоҷон Ғафуров, 10/6",
+  "district": "Сино",
+  "city_alias": "dushanbe",
+  "lon": 68.740534,
+  "lat": 38.588108,
+  "rubric_ids": [
+   "267"
+  ],
+  "rubric_names": [
+   "Толорҳои варзишӣ"
+  ],
+  "reviews_raw": {
+   "general_rating": 5,
+   "general_review_count": 2,
+   "general_review_count_with_stars": 3,
+   "is_reviewable": false,
+   "is_reviewable_on_flamp": true,
+   "items": [
+    {
+     "is_reviewable": true,
+     "tag": "2gis_reviews"
+    }
+   ],
+   "org_rating": 5,
+   "org_review_count": 2,
+   "org_review_count_with_stars": 3
+  },
+  "url_2gis": "https://2gis.tj/dushanbe/firm/70000001101226012",
+  "passes": [
+   "rubric:267",
+   "query:Фитнес",
+   "query:Тренажерный зал"
+  ],
+  "address_comment": "ошёнаи: таҳхона",
+  "rating_field": "general_rating",
+  "general_rating": 5,
+  "org_rating": 5,
+  "work_time": null,
+  "phones": null,
+  "contacts": null,
+  "contact_groups": null,
+  "urls": null
+ },
+ {
+  "id": "70000001102714690",
+  "name": "Falcon gym, маҷмааи варзишӣ",
+  "rating": 5.0,
+  "review_count": 1,
+  "address": "кӯчаи Қаротегин, 10а",
+  "district": "Шоҳмансур",
+  "city_alias": "dushanbe",
+  "lon": 68.830638,
+  "lat": 38.565738,
+  "rubric_ids": [
+   "267",
+   "268"
+  ],
+  "rubric_names": [
+   "Толорҳои варзишӣ",
+   "Фитнес-клубҳо"
+  ],
+  "reviews_raw": {
+   "general_rating": 5,
+   "general_review_count": 1,
+   "general_review_count_with_stars": 3,
+   "is_reviewable": false,
+   "is_reviewable_on_flamp": true,
+   "items": [
+    {
+     "is_reviewable": true,
+     "tag": "2gis_reviews"
+    }
+   ],
+   "org_rating": 5,
+   "org_review_count": 1,
+   "org_review_count_with_stars": 3
+  },
+  "url_2gis": "https://2gis.tj/dushanbe/firm/70000001102714690",
+  "passes": [
+   "rubric:267",
+   "rubric:268",
+   "query:Фитнес",
+   "query:Тренажерный зал"
+  ],
+  "address_comment": "ошёнаи: 1-0",
+  "rating_field": "general_rating",
+  "general_rating": 5,
+  "org_rating": 5,
+  "work_time": null,
+  "phones": null,
+  "contacts": null,
+  "contact_groups": null,
+  "urls": null
+ },
+ {
+  "id": "70000001100799532",
+  "name": "Leader Gym, толори варзишӣ",
+  "rating": 5.0,
+  "review_count": 2,
+  "address": "кӯчаи Мирзо Турсунзада, 45",
+  "district": "Исмоили Сомонӣ",
+  "city_alias": "dushanbe",
+  "lon": 68.793978,
+  "lat": 38.580078,
+  "rubric_ids": [
+   "267",
+   "1233",
+   "268"
+  ],
+  "rubric_names": [
+   "Толорҳои варзишӣ",
+   "Ғизои варзишӣ",
+   "Фитнес-клубҳо"
+  ],
+  "reviews_raw": {
+   "general_rating": 5,
+   "general_review_count": 2,
+   "general_review_count_with_stars": 2,
+   "is_reviewable": false,
+   "is_reviewable_on_flamp": true,
+   "items": [
+    {
+     "is_reviewable": true,
+     "tag": "2gis_reviews"
+    }
+   ],
+   "org_rating": 5,
+   "org_review_count": 2,
+   "org_review_count_with_stars": 2
+  },
+  "url_2gis": "https://2gis.tj/dushanbe/firm/70000001100799532",
+  "passes": [
+   "rubric:267",
+   "rubric:268",
+   "query:Фитнес",
+   "query:Тренажерный зал"
+  ],
+  "address_comment": "ошёнаи: таҳхона",
+  "rating_field": "general_rating",
+  "general_rating": 5,
+  "org_rating": 5,
+  "work_time": null,
+  "phones": null,
+  "contacts": null,
+  "contact_groups": null,
+  "urls": null
+ },
+ {
+  "id": "70000001104949064",
+  "name": "Power gym, толори варзишӣ",
+  "rating": 5.0,
+  "review_count": 1,
+  "address": "Неъмат Қарабаев 2-юм роҳ, 7/6",
+  "district": "Фирдавсӣ",
+  "city_alias": "dushanbe",
+  "lon": 68.763077,
+  "lat": 38.550816,
+  "rubric_ids": [
+   "267"
+  ],
+  "rubric_names": [
+   "Толорҳои варзишӣ"
+  ],
+  "reviews_raw": {
+   "general_rating": 5,
+   "general_review_count": 1,
+   "general_review_count_with_stars": 2,
+   "is_reviewable": false,
+   "is_reviewable_on_flamp": true,
+   "items": [
+    {
+     "is_reviewable": true,
+     "tag": "2gis_reviews"
+    }
+   ],
+   "org_rating": 5,
+   "org_review_count": 1,
+   "org_review_count_with_stars": 2
+  },
+  "url_2gis": "https://2gis.tj/dushanbe/firm/70000001104949064",
+  "passes": [
+   "rubric:267",
+   "query:Фитнес",
+   "query:Тренажерный зал"
+  ],
+  "address_comment": "ошёнаи: 1",
+  "rating_field": "general_rating",
+  "general_rating": 5,
+  "org_rating": 5,
+  "work_time": null,
+  "phones": null,
+  "contacts": null,
+  "contact_groups": null,
+  "urls": null
+ },
+ {
+  "id": "70000001101760246",
+  "name": "Pro Fit, толори варзишӣ",
+  "rating": 5.0,
+  "review_count": 1,
+  "address": "кӯчаи Садриддин Айнӣ, 49",
+  "district": "Шоҳмансур",
+  "city_alias": "dushanbe",
+  "lon": 68.804868,
+  "lat": 38.563454,
+  "rubric_ids": [
+   "267",
+   "268"
+  ],
+  "rubric_names": [
+   "Толорҳои варзишӣ",
+   "Фитнес-клубҳо"
+  ],
+  "reviews_raw": {
+   "general_rating": 5,
+   "general_review_count": 1,
+   "general_review_count_with_stars": 1,
+   "is_reviewable": false,
+   "is_reviewable_on_flamp": true,
+   "items": [
+    {
+     "is_reviewable": true,
+     "tag": "2gis_reviews"
+    }
+   ],
+   "org_rating": 5,
+   "org_review_count": 1,
+   "org_review_count_with_stars": 2
+  },
+  "url_2gis": "https://2gis.tj/dushanbe/firm/70000001101760246",
+  "passes": [
+   "rubric:267",
+   "rubric:268",
+   "query:Фитнес",
+   "query:Тренажерный зал"
+  ],
+  "address_comment": "ошёнаи: таҳхона",
+  "rating_field": "general_rating",
+  "general_rating": 5,
+  "org_rating": 5,
+  "work_time": null,
+  "phones": null,
+  "contacts": null,
+  "contact_groups": null,
+  "urls": null
+ },
+ {
+  "id": "70000001101572228",
+  "name": "Pro Fit, толори варзишӣ",
+  "rating": 5.0,
+  "review_count": 1,
+  "address": "кӯчаи Бухоро, 32",
+  "district": "Исмоили Сомонӣ",
+  "city_alias": "dushanbe",
+  "lon": 68.784479,
+  "lat": 38.56835,
+  "rubric_ids": [
+   "267",
+   "268"
+  ],
+  "rubric_names": [
+   "Толорҳои варзишӣ",
+   "Фитнес-клубҳо"
+  ],
+  "reviews_raw": {
+   "general_review_count_with_stars": 1,
+   "is_reviewable": false,
+   "is_reviewable_on_flamp": true,
+   "items": [
+    {
+     "is_reviewable": true,
+     "tag": "2gis_reviews"
+    }
+   ],
+   "org_rating": 5,
+   "org_review_count": 1,
+   "org_review_count_with_stars": 2
+  },
+  "url_2gis": "https://2gis.tj/dushanbe/firm/70000001101572228",
+  "passes": [
+   "rubric:267",
+   "rubric:268",
+   "query:Фитнес",
+   "query:Тренажерный зал"
+  ],
+  "address_comment": "ошёнаи: таҳхона",
+  "rating_field": "org_rating",
+  "general_rating": null,
+  "org_rating": 5,
+  "work_time": null,
+  "phones": null,
+  "contacts": null,
+  "contact_groups": null,
+  "urls": null
+ },
+ {
+  "id": "70000001114088338",
+  "name": "Taj spa, толори варзиший",
+  "rating": 5.0,
+  "review_count": 1,
+  "address": "кӯчаи Борбад, 130/1Б",
+  "district": "Фирдавсӣ",
+  "city_alias": "dushanbe",
+  "lon": 68.745443,
+  "lat": 38.514195,
+  "rubric_ids": [
+   "268"
+  ],
+  "rubric_names": [
+   "Фитнес-клубҳо"
+  ],
+  "reviews_raw": {
+   "general_rating": 5,
+   "general_review_count": 1,
+   "general_review_count_with_stars": 1,
+   "is_reviewable": false,
+   "is_reviewable_on_flamp": true,
+   "items": [
+    {
+     "is_reviewable": true,
+     "tag": "2gis_reviews"
+    }
+   ],
+   "org_rating": 5,
+   "org_review_count": 1,
+   "org_review_count_with_stars": 1
+  },
+  "url_2gis": "https://2gis.tj/dushanbe/firm/70000001114088338",
+  "passes": [
+   "rubric:268",
+   "query:Фитнес"
+  ],
+  "address_comment": "ошёнаи: 1",
+  "rating_field": "general_rating",
+  "general_rating": 5,
+  "org_rating": 5,
+  "work_time": null,
+  "phones": null,
+  "contacts": null,
+  "contact_groups": null,
+  "urls": null
+ },
+ {
+  "id": "70000001110965994",
+  "name": "Team Boymurodov, толори варзишӣ",
+  "rating": 5.0,
+  "review_count": 1,
+  "address": "кӯчаи Бобоҷон Ғафуров, 8/3",
+  "district": "Сино",
+  "city_alias": "dushanbe",
+  "lon": 68.740593,
+  "lat": 38.589472,
+  "rubric_ids": [
+   "267"
+  ],
+  "rubric_names": [
+   "Толорҳои варзишӣ"
+  ],
+  "reviews_raw": {
+   "general_rating": 5,
+   "general_review_count": 1,
+   "general_review_count_with_stars": 1,
+   "is_reviewable": false,
+   "is_reviewable_on_flamp": true,
+   "items": [
+    {
+     "is_reviewable": true,
+     "tag": "2gis_reviews"
+    }
+   ],
+   "org_rating": 5,
+   "org_review_count": 1,
+   "org_review_count_with_stars": 1
+  },
+  "url_2gis": "https://2gis.tj/dushanbe/firm/70000001110965994",
+  "passes": [
+   "rubric:267",
+   "query:Фитнес",
+   "query:Тренажерный зал"
+  ],
+  "address_comment": "ошёнаи: 4-5",
+  "rating_field": "general_rating",
+  "general_rating": 5,
+  "org_rating": 5,
+  "work_time": null,
+  "phones": null,
+  "contacts": null,
+  "contact_groups": null,
+  "urls": null
+ },
+ {
+  "id": "70000001103149258",
+  "name": "UFC Gym, толори варзишӣ",
+  "rating": 5.0,
+  "review_count": 1,
+  "address": "кӯчаи Фазлиддин Муҳаммадиев, 11/7",
+  "district": "Сино",
+  "city_alias": "dushanbe",
+  "lon": 68.732888,
+  "lat": 38.577983,
+  "rubric_ids": [
+   "51256"
+  ],
+  "rubric_names": [
+   "Бахшҳои варзишӣ"
+  ],
+  "reviews_raw": {
+   "general_rating": 5,
+   "general_review_count": 1,
+   "general_review_count_with_stars": 3,
+   "is_reviewable": false,
+   "is_reviewable_on_flamp": true,
+   "items": [
+    {
+     "is_reviewable": true,
+     "tag": "2gis_reviews"
+    }
+   ],
+   "org_rating": 5,
+   "org_review_count": 1,
+   "org_review_count_with_stars": 3
+  },
+  "url_2gis": "https://2gis.tj/dushanbe/firm/70000001103149258",
+  "passes": [
+   "rubric:51256"
+  ],
+  "address_comment": "ошёнаи: 1-3",
+  "rating_field": "general_rating",
+  "general_rating": 5,
+  "org_rating": 5,
+  "work_time": null,
+  "phones": null,
+  "contacts": null,
+  "contact_groups": null,
+  "urls": null
+ },
+ {
+  "id": "70000001103044666",
+  "name": "X-FIT, клуби варзишӣ",
+  "rating": 5.0,
+  "review_count": 5,
+  "address": "кӯчаи Фазлиддин Муҳаммадиев, 24/2",
+  "district": "Сино",
+  "city_alias": "dushanbe",
+  "lon": 68.733418,
+  "lat": 38.576815,
+  "rubric_ids": [
+   "268",
+   "267",
+   "261",
+   "110498",
+   "56759"
+  ],
+  "rubric_names": [
+   "Фитнес-клубҳо",
+   "Толорҳои варзишӣ",
+   "Ҳавзҳо",
+   "Иҷораи майдончаҳои варзишӣ",
+   "SPA-амалиётҳо"
+  ],
+  "reviews_raw": {
+   "general_rating": 5,
+   "general_review_count": 5,
+   "general_review_count_with_stars": 15,
+   "is_reviewable": false,
+   "is_reviewable_on_flamp": true,
+   "items": [
+    {
+     "is_reviewable": true,
+     "tag": "2gis_reviews"
+    }
+   ],
+   "org_rating": 5,
+   "org_review_count": 5,
+   "org_review_count_with_stars": 15
+  },
+  "url_2gis": "https://2gis.tj/dushanbe/firm/70000001103044666",
+  "passes": [
+   "rubric:267",
+   "rubric:268",
+   "query:Фитнес",
+   "query:Тренажерный зал"
+  ],
+  "address_comment": "ошёнаи: 1",
+  "rating_field": "general_rating",
+  "general_rating": 5,
+  "org_rating": 5,
+  "work_time": null,
+  "phones": null,
+  "contacts": null,
+  "contact_groups": null,
+  "urls": null
+ },
+ {
+  "id": "70000001101682630",
+  "name": "X-fitness, толори варзишӣ",
+  "rating": 5.0,
+  "review_count": 2,
+  "address": "хиёбони Рӯдакӣ, 53",
+  "district": "Исмоили Сомонӣ",
+  "city_alias": "dushanbe",
+  "lon": 68.787776,
+  "lat": 38.571784,
+  "rubric_ids": [
+   "267",
+   "268",
+   "261",
+   "110498"
+  ],
+  "rubric_names": [
+   "Толорҳои варзишӣ",
+   "Фитнес-клубҳо",
+   "Ҳавзҳо",
+   "Иҷораи майдончаҳои варзишӣ"
+  ],
+  "reviews_raw": {
+   "general_rating": 5,
+   "general_review_count": 2,
+   "general_review_count_with_stars": 4,
+   "is_reviewable": false,
+   "is_reviewable_on_flamp": true,
+   "items": [
+    {
+     "is_reviewable": true,
+     "tag": "2gis_reviews"
+    }
+   ],
+   "org_rating": 5,
+   "org_review_count": 2,
+   "org_review_count_with_stars": 4
+  },
+  "url_2gis": "https://2gis.tj/dushanbe/firm/70000001101682630",
+  "passes": [
+   "rubric:267",
+   "rubric:268",
+   "query:Фитнес",
+   "query:Тренажерный зал"
+  ],
+  "address_comment": "ошёнаи: 4",
+  "rating_field": "general_rating",
+  "general_rating": 5,
+  "org_rating": 5,
+  "work_time": null,
+  "phones": null,
+  "contacts": null,
+  "contact_groups": null,
+  "urls": null
+ },
+ {
+  "id": "70000001100581600",
+  "name": "Гармония, толори варзишии занона",
+  "rating": 5.0,
+  "review_count": 1,
+  "address": "кӯчаи Ҳабиб Аҳрорӣ, 140/1",
+  "district": "Исмоили Сомонӣ",
+  "city_alias": "dushanbe",
+  "lon": 68.780916,
+  "lat": 38.584692,
+  "rubric_ids": [
+   "268"
+  ],
+  "rubric_names": [
+   "Фитнес-клубҳо"
+  ],
+  "reviews_raw": {
+   "general_rating": 5,
+   "general_review_count": 1,
+   "general_review_count_with_stars": 1,
+   "is_reviewable": false,
+   "is_reviewable_on_flamp": true,
+   "items": [
+    {
+     "is_reviewable": true,
+     "tag": "2gis_reviews"
+    }
+   ],
+   "org_rating": 5,
+   "org_review_count": 1,
+   "org_review_count_with_stars": 1
+  },
+  "url_2gis": "https://2gis.tj/dushanbe/firm/70000001100581600",
+  "passes": [
+   "rubric:268",
+   "query:Фитнес"
+  ],
+  "address_comment": "ошёнаи: 3",
+  "rating_field": "general_rating",
+  "general_rating": 5,
+  "org_rating": 5,
+  "work_time": null,
+  "phones": null,
+  "contacts": null,
+  "contact_groups": null,
+  "urls": null
+ },
+ {
+  "id": "70000001102665437",
+  "name": "Маҷмааи варзишӣ, толори варзишӣ",
+  "rating": 5.0,
+  "review_count": 2,
+  "address": null,
+  "district": "Фирдавсӣ",
+  "city_alias": "dushanbe",
+  "lon": 68.752025,
+  "lat": 38.516699,
+  "rubric_ids": [
+   "51256"
+  ],
+  "rubric_names": [
+   "Бахшҳои варзишӣ"
+  ],
+  "reviews_raw": {
+   "general_rating": 5,
+   "general_review_count": 2,
+   "general_review_count_with_stars": 2,
+   "is_reviewable": false,
+   "is_reviewable_on_flamp": true,
+   "items": [
+    {
+     "is_reviewable": true,
+     "tag": "2gis_reviews"
+    }
+   ],
+   "org_rating": 5,
+   "org_review_count": 2,
+   "org_review_count_with_stars": 2
+  },
+  "url_2gis": "https://2gis.tj/dushanbe/firm/70000001102665437",
+  "passes": [
+   "rubric:51256"
+  ],
+  "address_comment": "ошёнаи: 1",
+  "rating_field": "general_rating",
+  "general_rating": 5,
+  "org_rating": 5,
+  "work_time": null,
+  "phones": null,
+  "contacts": null,
+  "contact_groups": null,
+  "urls": null
+ },
+ {
+  "id": "70000001101401151",
+  "name": "Толори варзишӣ",
+  "rating": 5.0,
+  "review_count": 1,
+  "address": "кӯчаи Муродулло Шерализода, 18/1а",
+  "district": "Сино",
+  "city_alias": "dushanbe",
+  "lon": 68.753922,
+  "lat": 38.56799,
+  "rubric_ids": [
+   "267"
+  ],
+  "rubric_names": [
+   "Толорҳои варзишӣ"
+  ],
+  "reviews_raw": {
+   "general_rating": 5,
+   "general_review_count": 1,
+   "general_review_count_with_stars": 1,
+   "is_reviewable": false,
+   "is_reviewable_on_flamp": true,
+   "items": [
+    {
+     "is_reviewable": true,
+     "tag": "2gis_reviews"
+    }
+   ],
+   "org_rating": 5,
+   "org_review_count": 1,
+   "org_review_count_with_stars": 1
+  },
+  "url_2gis": "https://2gis.tj/dushanbe/firm/70000001101401151",
+  "passes": [
+   "rubric:267",
+   "query:Фитнес",
+   "query:Тренажерный зал"
+  ],
+  "address_comment": "ошёнаи: -1",
+  "rating_field": "general_rating",
+  "general_rating": 5,
+  "org_rating": 5,
+  "work_time": null,
+  "phones": null,
+  "contacts": null,
+  "contact_groups": null,
+  "urls": null
+ },
+ {
+  "id": "70000001101958146",
+  "name": "Dorob Gym, толори варзишӣ",
+  "rating": 4.8,
+  "review_count": 6,
+  "address": "кӯчаи Садриддин Айнӣ, 48",
+  "district": "Шоҳмансур",
+  "city_alias": "dushanbe",
+  "lon": 68.809545,
+  "lat": 38.562407,
+  "rubric_ids": [
+   "267",
+   "268"
+  ],
+  "rubric_names": [
+   "Толорҳои варзишӣ",
+   "Фитнес-клубҳо"
+  ],
+  "reviews_raw": {
+   "general_review_count_with_stars": 3,
+   "is_reviewable": false,
+   "is_reviewable_on_flamp": true,
+   "items": [
+    {
+     "is_reviewable": true,
+     "tag": "2gis_reviews"
+    }
+   ],
+   "org_rating": 4.8,
+   "org_review_count": 6,
+   "org_review_count_with_stars": 14
+  },
+  "url_2gis": "https://2gis.tj/dushanbe/firm/70000001101958146",
+  "passes": [
+   "rubric:267",
+   "rubric:268",
+   "query:Фитнес",
+   "query:Тренажерный зал"
+  ],
+  "address_comment": "ошёнаи: 1",
+  "rating_field": "org_rating",
+  "general_rating": null,
+  "org_rating": 4.8,
+  "work_time": null,
+  "phones": null,
+  "contacts": null,
+  "contact_groups": null,
+  "urls": null
+ },
+ {
+  "id": "70000001109657173",
+  "name": "Dorob Gym, толори варзишӣ",
+  "rating": 4.7,
+  "review_count": 3,
+  "address": "кӯчаи Бухоро, 34",
+  "district": "Исмоили Сомонӣ",
+  "city_alias": "dushanbe",
+  "lon": 68.784771,
+  "lat": 38.568544,
+  "rubric_ids": [
+   "267",
+   "268"
+  ],
+  "rubric_names": [
+   "Толорҳои варзишӣ",
+   "Фитнес-клубҳо"
+  ],
+  "reviews_raw": {
+   "general_rating": 4.7,
+   "general_review_count": 3,
+   "general_review_count_with_stars": 4,
+   "is_reviewable": false,
+   "is_reviewable_on_flamp": true,
+   "items": [
+    {
+     "is_reviewable": true,
+     "tag": "2gis_reviews"
+    }
+   ],
+   "org_rating": 4.8,
+   "org_review_count": 6,
+   "org_review_count_with_stars": 14
+  },
+  "url_2gis": "https://2gis.tj/dushanbe/firm/70000001109657173",
+  "passes": [
+   "rubric:267",
+   "rubric:268",
+   "query:Фитнес",
+   "query:Тренажерный зал"
+  ],
+  "address_comment": "ошёнаи: 1-2",
+  "rating_field": "general_rating",
+  "general_rating": 4.7,
+  "org_rating": 4.8,
+  "work_time": null,
+  "phones": null,
+  "contacts": null,
+  "contact_groups": null,
+  "urls": null
+ },
+ {
+  "id": "70000001101229632",
+  "name": "Динамит, толори варзишӣ",
+  "rating": 4.5,
+  "review_count": 2,
+  "address": null,
+  "district": "Сино",
+  "city_alias": "dushanbe",
+  "lon": 68.745237,
+  "lat": 38.592517,
+  "rubric_ids": [
+   "267"
+  ],
+  "rubric_names": [
+   "Толорҳои варзишӣ"
+  ],
+  "reviews_raw": {
+   "general_rating": 4.5,
+   "general_review_count": 2,
+   "general_review_count_with_stars": 2,
+   "is_reviewable": false,
+   "is_reviewable_on_flamp": true,
+   "items": [
+    {
+     "is_reviewable": true,
+     "tag": "2gis_reviews"
+    }
+   ],
+   "org_rating": 4.5,
+   "org_review_count": 1,
+   "org_review_count_with_stars": 1
+  },
+  "url_2gis": "https://2gis.tj/dushanbe/firm/70000001101229632",
+  "passes": [
+   "rubric:267",
+   "query:Фитнес",
+   "query:Тренажерный зал"
+  ],
+  "address_comment": "ошёнаи: 2",
+  "rating_field": "general_rating",
+  "general_rating": 4.5,
+  "org_rating": 4.5,
+  "work_time": null,
+  "phones": null,
+  "contacts": null,
+  "contact_groups": null,
+  "urls": null
+ }
+]

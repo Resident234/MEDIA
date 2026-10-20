@@ -1,0 +1,93 @@
+{
+ "url": "https://yandex.kz/maps/org/109623349817/?ll=68.749066%2C38.526035&z=14",
+ "title": "Бозори советй, рынок, Душанбе, улица Борбада — Яндекс Карты",
+ "h1": "Бозори советй",
+ "coords": [
+  "68.754994,38.538926",
+  "68.754994,38.538926"
+ ],
+ "rating": [],
+ "categories": [
+  "Рынок"
+ ],
+ "address": [
+  {
+   "t": "Душанбе, улица Борбада",
+   "h": "/maps/10318/dushanbe/geo/1536252503/"
+  },
+  {
+   "t": "Душанбе, улица Борбада",
+   "h": null
+  },
+  {
+   "t": "Душанбе, улица Борбада",
+   "h": "/maps/10318/dushanbe/geo/1536252503/"
+  },
+  {
+   "t": "Маршрут",
+   "h": null
+  }
+ ],
+ "phones": [],
+ "msgLinks": [
+  {
+   "t": "",
+   "h": "https://vk.com/yandex.maps",
+   "c": "card-social-links-view__link",
+   "ownOrg": 0
+  },
+  {
+   "t": "",
+   "h": "https://t.me/mapsyandex",
+   "c": "card-social-links-view__link",
+   "ownOrg": 0
+  }
+ ],
+ "apps": [],
+ "extLinks": [],
+ "social": [
+  {
+   "t": "",
+   "h": "https://vk.com/yandex.maps",
+   "c": "card-social-links-view__link"
+  },
+  {
+   "t": "",
+   "h": "https://t.me/mapsyandex",
+   "c": "card-social-links-view__link"
+  },
+  {
+   "t": "",
+   "h": "https://zen.yandex.ru/yandexmaps",
+   "c": "card-social-links-view__link"
+  }
+ ],
+ "btns": [],
+ "emails": [],
+ "contactBlock": [
+  "Адрес Душанбе, улица Борбада Маршрут",
+  "Адрес",
+  "",
+  "Душанбе, улица Борбада",
+  "Душанбе, улица Борбада",
+  "Маршрут",
+  "Маршрут",
+  "Контакты Телефон не указан Добавить",
+  "Контакты",
+  "",
+  "Время работы График работы не указан Добавить",
+  "Время работы",
+  ""
+ ],
+ "hours": [],
+ "list": {
+  "name": "Бозори советй",
+  "city": "dushanbe",
+  "rating": null,
+  "reviews": null,
+  "lon": "68.754994",
+  "lat": "38.538926",
+  "src": "базар",
+  "priority": true
+ }
+}

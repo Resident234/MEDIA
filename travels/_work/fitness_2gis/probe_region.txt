@@ -1,0 +1,7 @@
+region_sughd_q_fit     {"code": 404, "err": "itemNotFound", "total": null, "n": 0, "cities": []}
+region_country182_q_fit {"code": 404, "err": "itemNotFound", "total": null, "n": 0, "cities": []}
+region_dushanbe_q_fit  {"code": 404, "err": "itemNotFound", "total": null, "n": 0, "cities": []}
+text_khujand           {"code": 200, "err": null, "total": 1, "n": 1, "cities": []}
+text_khujand_cyr       {"code": 200, "err": null, "total": 1, "n": 1, "cities": []}
+rubric267_dushanbe     {"code": 200, "err": null, "total": 56, "n": 10, "cities": ["Душанбе"]}
+kind267_dushanbe       {"code": 200, "err": null, "total": 162989, "n": 10, "cities": ["Душанбе"]}

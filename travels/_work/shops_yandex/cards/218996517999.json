@@ -1,0 +1,106 @@
+{
+ "url": "https://yandex.kz/maps/org/tadzhikskiy_suvenirny_magazin/218996517999/?ll=68.786256%2C38.580686&z=16",
+ "title": "Таджикский сувенирный магазин, магазин подарков и сувениров, Душанбе, просп. Рудаки, 83 — Яндекс Карты",
+ "h1": "Таджикский сувенирный магазин",
+ "coords": [
+  "68.786267,38.58057",
+  "68.786267,38.580570"
+ ],
+ "rating": [],
+ "categories": [
+  "Магазин подарков и сувениров"
+ ],
+ "address": [
+  {
+   "t": "Душанбе, просп. Рудаки, 83",
+   "h": "/maps/10318/dushanbe/house/YkEYcQ9mS0ABQF1ifXl5cXprYQ==/"
+  },
+  {
+   "t": "Душанбе, просп. Рудаки, 83",
+   "h": null
+  },
+  {
+   "t": "Душанбе, просп. Рудаки, 83",
+   "h": "/maps/10318/dushanbe/house/YkEYcQ9mS0ABQF1ifXl5cXprYQ==/"
+  },
+  {
+   "t": "Маршрут",
+   "h": null
+  }
+ ],
+ "phones": [
+  {
+   "t": "+992 91 734 02 04",
+   "h": null
+  },
+  {
+   "t": "+992 91 734 02 04 Показать телефон",
+   "h": null
+  },
+  {
+   "t": "+992 91 734 02 04 Показать телефон",
+   "h": null
+  }
+ ],
+ "msgLinks": [
+  {
+   "t": "",
+   "h": "https://vk.com/yandex.maps",
+   "c": "card-social-links-view__link",
+   "ownOrg": 0
+  },
+  {
+   "t": "",
+   "h": "https://t.me/mapsyandex",
+   "c": "card-social-links-view__link",
+   "ownOrg": 0
+  }
+ ],
+ "apps": [],
+ "extLinks": [],
+ "social": [
+  {
+   "t": "",
+   "h": "https://vk.com/yandex.maps",
+   "c": "card-social-links-view__link"
+  },
+  {
+   "t": "",
+   "h": "https://t.me/mapsyandex",
+   "c": "card-social-links-view__link"
+  },
+  {
+   "t": "",
+   "h": "https://zen.yandex.ru/yandexmaps",
+   "c": "card-social-links-view__link"
+  }
+ ],
+ "btns": [],
+ "emails": [],
+ "contactBlock": [
+  "Адрес Душанбе, просп. Рудаки, 83 Маршрут",
+  "Адрес",
+  "",
+  "Душанбе, просп. Рудаки, 83",
+  "Душанбе, просп. Рудаки, 83",
+  "Маршрут",
+  "Маршрут",
+  "Контакты +992 91 734 02 04 Показать телефон",
+  "Контакты",
+  "",
+  "Время работы График работы не указан Добавить",
+  "Время работы",
+  ""
+ ],
+ "hours": [],
+ "list": {
+  "name": "Таджикский сувенирный магазин",
+  "city": "dushanbe",
+  "rating": null,
+  "reviews": null,
+  "lon": "68.786267",
+  "lat": "38.580570",
+  "src": "сувениры",
+  "priority": true
+ }
+}

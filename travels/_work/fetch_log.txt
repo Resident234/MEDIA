@@ -1,0 +1,73 @@
+R206C1  len=     0 err=SSLError: HTTPSConnectionPool(host='journal.tinkoff.ru', por https://journal.tinkoff.ru/list/cinema-travel/
+R206C1 200 len=   133 err=                                                             https://www.tamosho.tj/
+R206C1 200 len=   562 err=                                                             https://kayhon.tj/now/
+SKIP  https://ru.skyscanner.com/transport/flights/tas/dyua/?adultsv2=1&cabinclass=economy&childrenv2=&ref=home&rtn=0&preferdirects=true&outboundaltsenabled=false&inboundaltsenabled=false&oym=2410
+R207C0  len=     0 err=SSLError: HTTPSConnectionPool(host='journal.tinkoff.ru', por https://journal.tinkoff.ru/kyrgyzstan-tadzhikistan-trip/
+R207C1 200 len=  4247 err=                                                             https://www.aviasales.ru/psgr/article/goroda-tadzhikistana
+R208C0 200 len= 13385 err=                                                             https://www.aviasales.ru/psgr/article/vykhodnye-tajikistan
+R208C0  len=     0 err=SSLError: HTTPSConnectionPool(host='journal.tinkoff.ru', por https://journal.tinkoff.ru/photoalbum-tadzhikistan/
+R208C1  len=     0 err=SSLError: HTTPSConnectionPool(host='journal.tinkoff.ru', por https://journal.tinkoff.ru/tadzhikistan-entry-rules/
+R209C0  len=     0 err=SSLError: HTTPSConnectionPool(host='journal.tinkoff.ru', por https://journal.tinkoff.ru/photoalbum-pamir-tract/
+R209C0  len=     0 err=SSLError: HTTPSConnectionPool(host='journal.tinkoff.ru', por https://journal.tinkoff.ru/iskanderkul-lake/
+R209C1  len=     0 err=SSLError: HTTPSConnectionPool(host='journal.tinkoff.ru', por https://journal.tinkoff.ru/dushanbe/
+R210C0 200 len= 17978 err=                                                             https://varandej.livejournal.com/842968.html
+R210C1 200 len= 19011 err=                                                             https://varandej.livejournal.com/843437.html
+R210C1 200 len= 14584 err=                                                             https://varandej.livejournal.com/843082.html
+R211C0 200 len= 21820 err=                                                             https://varandej.livejournal.com/843992.html
+R211C1 200 len= 25412 err=                                                             https://varandej.livejournal.com/976302.html
+R212C0 200 len= 15801 err=                                                             https://varandej.livejournal.com/845053.html
+R213C0 200 len= 18293 err=                                                             https://varandej.livejournal.com/848832.html
+R213C1 200 len= 18210 err=                                                             https://varandej.livejournal.com/866418.html
+R213C1 200 len= 22417 err=                                                             https://varandej.livejournal.com/867292.html
+R214C0 200 len= 17430 err=                                                             https://varandej.livejournal.com/868760.html
+R214C1 200 len= 20190 err=                                                             https://varandej.livejournal.com/860405.html
+R215C0 200 len= 16965 err=                                                             https://varandej.livejournal.com/860536.html
+R215C1 200 len= 15968 err=                                                             https://varandej.livejournal.com/860822.html
+R216C0 200 len= 26956 err=                                                             https://varandej.livejournal.com/844767.html
+R216C1 200 len= 18292 err=                                                             https://varandej.livejournal.com/845100.html
+R217C0 200 len= 18058 err=                                                             https://varandej.livejournal.com/846005.html
+R217C1 200 len= 14937 err=                                                             https://varandej.livejournal.com/846318.html
+R218C0 200 len= 20324 err=                                                             https://varandej.livejournal.com/864805.html
+R218C0 200 len= 22403 err=                                                             https://varandej.livejournal.com/859152.html
+R218C1 200 len= 18994 err=                                                             https://varandej.livejournal.com/859576.html
+R218C1 200 len= 11805 err=                                                             https://varandej.livejournal.com/859767.html
+R219C0 200 len= 17188 err=                                                             https://varandej.livejournal.com/858933.html
+R219C1 200 len= 17445 err=                                                             https://varandej.livejournal.com/859969.html
+R220C0 200 len= 18987 err=                                                             https://varandej.livejournal.com/846365.html
+R220C1 200 len= 22485 err=                                                             https://varandej.livejournal.com/846822.html
+R220C1 200 len= 19578 err=                                                             https://varandej.livejournal.com/865240.html
+R220C1 200 len= 22141 err=                                                             https://varandej.livejournal.com/848620.html
+R221C0 200 len= 15409 err=                                                             https://varandej.livejournal.com/847481.html
+R221C0 200 len= 19783 err=                                                             https://varandej.livejournal.com/847298.html
+R222C0 200 len= 20275 err=                                                             https://varandej.livejournal.com/846876.html
+R222C0 200 len= 16264 err=                                                             https://varandej.livejournal.com/849270.html
+R222C0 200 len= 10905 err=                                                             https://varandej.livejournal.com/848993.html
+R222C0 200 len= 14485 err=                                                             https://varandej.livejournal.com/849673.html
+R222C1 200 len=  7266 err=                                                             https://www.onetwotrip.com/ru/blog/guides/asia/activities-in-the-fsu/
+R222C1 200 len=  2436 err=                                                             https://tengritravel.kz/my-country/kolichestvo-aviareysov-iz-almatyi-v-dushanbe-vozrastet-466847/
+R223C0 200 len= 15694 err=                                                             https://varandej.livejournal.com/874781.html
+R223C1 200 len=  7209 err=                                                             https://www.onetwotrip.com/ru/blog/travel-ideas/journeys-travel-ideas/most-beautiful-mountain-peaks-in-russia-cis/
+R224C0 200 len= 14853 err=                                                             https://varandej.livejournal.com/875139.html
+R224C1 200 len=  9780 err=                                                             https://tengritravel.kz/my-country/evan-makgregor-vdohnovil-kazahstantsa-put-pamira-odinochku-387282/
+R224C1 200 len=  3648 err=                                                             https://tengritravel.kz/my-country/regulyarnyiy-reys-almatyi-dushanbe-vozobnovyat-seredine-430803/
+R225C0 200 len= 17641 err=                                                             https://varandej.livejournal.com/861110.html
+R225C0 200 len= 11722 err=                                                             https://varandej.livejournal.com/861602.html
+R226C0 200 len= 14914 err=                                                             https://varandej.livejournal.com/861295.html
+R226C0 200 len= 20112 err=                                                             https://varandej.livejournal.com/862243.html
+R226C1 200 len=  8502 err=                                                             https://tengritravel.kz/around-the-world/stoyanka-aleksandra-makedonskogo-spyaschiy-drakon-10-394394/
+R227C0 200 len= 18993 err=                                                             https://varandej.livejournal.com/862561.html
+R227C0 200 len= 21649 err=                                                             https://varandej.livejournal.com/863328.html
+R227C0 200 len= 14797 err=                                                             https://varandej.livejournal.com/863226.html
+R228C0 200 len= 13837 err=                                                             https://varandej.livejournal.com/863488.html
+R228C0 200 len= 30707 err=                                                             https://varandej.livejournal.com/866303.html
+R229C0 200 len= 16906 err=                                                             https://varandej.livejournal.com/866767.html
+R229C0 200 len= 20264 err=                                                             https://varandej.livejournal.com/866894.html
+R230C0 200 len= 17218 err=                                                             https://varandej.livejournal.com/867343.html
+R230C0 200 len= 20850 err=                                                             https://varandej.livejournal.com/867708.html
+R231C0 200 len= 16857 err=                                                             https://varandej.livejournal.com/867890.html
+R232C0 200 len= 13951 err=                                                             https://varandej.livejournal.com/868252.html
+R233C0 200 len= 20442 err=                                                             https://varandej.livejournal.com/868451.html
+R234C0 200 len= 18061 err=                                                             https://varandej.livejournal.com/868930.html
+R235C0 200 len= 24489 err=                                                             https://varandej.livejournal.com/869157.html
+SKIP  https://t.me/+KOFaRBW15zA5ZTky
+R236C0 200 len= 31091 err=                                                             https://varandej.livejournal.com/822020.html

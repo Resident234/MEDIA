@@ -1,0 +1,23 @@
+=== Душанбе (68.7693,38.5570)
+  adm_div_city code=200 err=None total=1 countries=['-']
+     {"id": "70030076174471798", "name": "Душанбе", "type": "adm_div", "full_name": "Душанбе", "rating": null}
+  reverse code=200 err=None total=5 countries=['-']
+     {"id": "70030077024084526", "name": "Майдони варзишӣ", "type": "adm_div", "full_name": "Душанбе, Майдони варзишӣ", "rating": null}
+     {"id": "70030077013570227", "name": "Фирдавсӣ", "type": "adm_div", "full_name": "Душанбе, Фирдавсӣ", "rating": null}
+     {"id": "70030076174471798", "name": "Душанбе", "type": "adm_div", "full_name": "Душанбе", "rating": null}
+     {"id": "70030076149053692", "name": "Dushanbe", "type": "adm_div", "full_name": "Dushanbe", "rating": null}
+     {"id": "70030076149053692", "name": "Душанбе", "type": "adm_div", "full_name": "Душанбе", "rating": null}
+=== Худжанд (69.6149,40.2907)
+  adm_div_city code=404 err=itemNotFound total=None countries=[]
+  reverse code=200 err=None total=1 countries=['-']
+     {"id": "70030076149052367", "name": "Суғд Oblast", "type": "adm_div", "full_name": "Суғд Oblast", "rating": null}
+=== Куляб (69.7957,37.9084)
+  adm_div_city code=404 err=itemNotFound total=None countries=[]
+  reverse code=200 err=None total=2 countries=['-']
+     {"id": "70030077022409011", "name": "Кулябский район", "type": "adm_div", "full_name": "Кулябский район", "rating": null}
+     {"id": "70030076149052869", "name": "Khatlon Region Oblast", "type": "adm_div", "full_name": "Khatlon Region Oblast", "rating": null}
+=== Бохтар (68.7803,37.8358)
+  adm_div_city code=404 err=itemNotFound total=None countries=[]
+  reverse code=200 err=None total=2 countries=['-']
+     {"id": "70030077022402386", "name": "район Кушониён", "type": "adm_div", "full_name": "район Кушониён", "rating": null}
+     {"id": "70030076149052869", "name": "Khatlon Region Oblast", "type": "adm_div", "full_name": "Khatlon Region Oblast", "rating": null}

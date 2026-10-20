@@ -1,0 +1,9 @@
+batch 1: total mapped 12
+batch 2: total mapped 24
+batch 3: total mapped 36
+    retry 1 in 11s ({"message": "All 1 routed attempt(s) failed with upstream provider errors (stopp)
+batch 4: total mapped 48
+batch 5: total mapped 60
+batch 6: total mapped 71
+unmapped: 0 []
+CLASSIFY_EXIT=0

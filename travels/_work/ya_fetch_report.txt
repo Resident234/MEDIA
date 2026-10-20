@@ -1,0 +1,8 @@
+console_keys      200 text=135 | https://passport.yandex.ru/auth?retpath=https%3A%2F%2Fyandex.ru%2Fmaps-api%2Fconsole%2Fkey
+jsapi_limits      ERR HTTPError: HTTP Error 404: Not Found
+jsapi_getkey      ERR HTTPError: HTTP Error 404: Not Found
+geocoder_about    ERR HTTPError: HTTP Error 404: Not Found
+commercial_about  ERR HTTPError: HTTP Error 404: Not Found
+apimarket_cat     ERR HTTPError: HTTP Error 404: Not Found
+apimarket_main    200 text=43683 | https://api.market/
+maps_api_home     200 text=2681 | https://yandex.ru/maps-api/

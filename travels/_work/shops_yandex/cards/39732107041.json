@@ -1,0 +1,109 @@
+{
+ "url": "https://yandex.kz/maps/org/oriyono/39732107041/?ll=68.787182%2C38.584585&z=16",
+ "title": "Ориёно, торговый центр, Душанбе, просп. Рудаки, 84 — Яндекс Карты",
+ "h1": "Ориёно",
+ "coords": [
+  "68.787024,38.586095",
+  "68.787024,38.586095"
+ ],
+ "rating": [
+  "Оценка 4.2 Из 5",
+  "Оценка 4.2 Из 5"
+ ],
+ "categories": [
+  "Торговый центр"
+ ],
+ "address": [
+  {
+   "t": "Душанбе, просп. Рудаки, 84",
+   "h": "/maps/10318/dushanbe/house/YkEYcQ9nSEUOQF1ifXl5d3xmZQ==/"
+  },
+  {
+   "t": "Душанбе, просп. Рудаки, 84",
+   "h": null
+  },
+  {
+   "t": "Душанбе, просп. Рудаки, 84",
+   "h": "/maps/10318/dushanbe/house/YkEYcQ9nSEUOQF1ifXl5d3xmZQ==/"
+  },
+  {
+   "t": "Маршрут",
+   "h": null
+  }
+ ],
+ "phones": [
+  {
+   "t": "+992 90 000 08 31",
+   "h": null
+  },
+  {
+   "t": "+992 90 000 08 31 Показать телефон",
+   "h": null
+  },
+  {
+   "t": "+992 90 000 08 31 Показать телефон",
+   "h": null
+  }
+ ],
+ "msgLinks": [
+  {
+   "t": "",
+   "h": "https://vk.com/yandex.maps",
+   "c": "card-social-links-view__link",
+   "ownOrg": 0
+  },
+  {
+   "t": "",
+   "h": "https://t.me/mapsyandex",
+   "c": "card-social-links-view__link",
+   "ownOrg": 0
+  }
+ ],
+ "apps": [],
+ "extLinks": [],
+ "social": [
+  {
+   "t": "",
+   "h": "https://vk.com/yandex.maps",
+   "c": "card-social-links-view__link"
+  },
+  {
+   "t": "",
+   "h": "https://t.me/mapsyandex",
+   "c": "card-social-links-view__link"
+  },
+  {
+   "t": "",
+   "h": "https://zen.yandex.ru/yandexmaps",
+   "c": "card-social-links-view__link"
+  }
+ ],
+ "btns": [],
+ "emails": [],
+ "contactBlock": [
+  "Адрес Душанбе, просп. Рудаки, 84 Маршрут",
+  "Адрес",
+  "",
+  "Душанбе, просп. Рудаки, 84",
+  "Душанбе, просп. Рудаки, 84",
+  "Маршрут",
+  "Маршрут",
+  "Контакты +992 90 000 08 31 Показать телефон",
+  "Контакты",
+  "",
+  "Время работы График работы не указан Добавить",
+  "Время работы",
+  ""
+ ],
+ "hours": [],
+ "list": {
+  "name": "Ориёно",
+  "city": "dushanbe",
+  "rating": 4.2,
+  "reviews": 5,
+  "lon": "68.787024",
+  "lat": "38.586095",
+  "src": "торговый центр",
+  "priority": true
+ }
+}

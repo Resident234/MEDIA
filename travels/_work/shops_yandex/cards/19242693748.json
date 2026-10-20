@@ -1,0 +1,97 @@
+{
+ "url": "https://yandex.kz/maps/org/optovy_rynok_korvon/19242693748/?ll=68.757096%2C38.503996&z=16",
+ "title": "Оптовый рынок Корвон, рынок, Душанбе, махалла имени Крупской, ул. Крупской, 202 — Яндекс Карты",
+ "h1": "Оптовый рынок Корвон",
+ "coords": [
+  "68.756692,38.504529",
+  "68.756692,38.504529"
+ ],
+ "rating": [
+  "Оценка 4.9 Из 5",
+  "Оценка 4.9 Из 5",
+  "Оценка 3 Из 5"
+ ],
+ "categories": [
+  "Рынок"
+ ],
+ "address": [
+  {
+   "t": "Душанбе, махалла имени Крупской, ул. Крупской, 202",
+   "h": "/maps/10318/dushanbe/house/YkEYcQJnSUwAQF1ifXlxcnVqYg==/"
+  },
+  {
+   "t": "Душанбе, махалла имени Крупской, ул. Крупской, 202",
+   "h": null
+  },
+  {
+   "t": "Душанбе, махалла имени Крупской, ул. Крупской, 202",
+   "h": "/maps/10318/dushanbe/house/YkEYcQJnSUwAQF1ifXlxcnVqYg==/"
+  },
+  {
+   "t": "Маршрут",
+   "h": null
+  }
+ ],
+ "phones": [],
+ "msgLinks": [
+  {
+   "t": "",
+   "h": "https://vk.com/yandex.maps",
+   "c": "card-social-links-view__link",
+   "ownOrg": 0
+  },
+  {
+   "t": "",
+   "h": "https://t.me/mapsyandex",
+   "c": "card-social-links-view__link",
+   "ownOrg": 0
+  }
+ ],
+ "apps": [],
+ "extLinks": [],
+ "social": [
+  {
+   "t": "",
+   "h": "https://vk.com/yandex.maps",
+   "c": "card-social-links-view__link"
+  },
+  {
+   "t": "",
+   "h": "https://t.me/mapsyandex",
+   "c": "card-social-links-view__link"
+  },
+  {
+   "t": "",
+   "h": "https://zen.yandex.ru/yandexmaps",
+   "c": "card-social-links-view__link"
+  }
+ ],
+ "btns": [],
+ "emails": [],
+ "contactBlock": [
+  "Адрес Душанбе, махалла имени Крупской, ул. Крупской, 202 Маршрут",
+  "Адрес",
+  "",
+  "Душанбе, махалла имени Крупской, ул. Крупской, 202",
+  "Душанбе, махалла имени Крупской, ул. Крупской, 202",
+  "Маршрут",
+  "Маршрут",
+  "Контакты Телефон не указан Добавить",
+  "Контакты",
+  "",
+  "Время работы Открыто до 16:00 График",
+  "Время работы",
+  ""
+ ],
+ "hours": [],
+ "list": {
+  "name": "Оптовый рынок Корвон",
+  "city": "dushanbe",
+  "rating": 4.9,
+  "reviews": 84,
+  "lon": "68.756692",
+  "lat": "38.504529",
+  "src": "базар+рынок",
+  "priority": true
+ }
+}

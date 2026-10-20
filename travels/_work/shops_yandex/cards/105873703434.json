@@ -1,0 +1,93 @@
+{
+ "url": "https://yandex.kz/maps/org/jasmine_gifts/105873703434/?ll=68.801159%2C38.574156&z=16",
+ "title": "Jasmine Gifts, магазин подарков и сувениров, Душанбе, ул. Дружбы народов, 47 — Яндекс Карты",
+ "h1": "Jasmine Gifts",
+ "coords": [
+  "68.80135,38.573923",
+  "68.801350,38.573923"
+ ],
+ "rating": [],
+ "categories": [
+  "Магазин подарков и сувениров"
+ ],
+ "address": [
+  {
+   "t": "Душанбе, ул. Дружбы народов, 47",
+   "h": "/maps/10318/dushanbe/house/YkEYfgdhSEAOQF1ifXl2dX1mYg==/"
+  },
+  {
+   "t": "Душанбе, ул. Дружбы народов, 47",
+   "h": null
+  },
+  {
+   "t": "Душанбе, ул. Дружбы народов, 47",
+   "h": "/maps/10318/dushanbe/house/YkEYfgdhSEAOQF1ifXl2dX1mYg==/"
+  },
+  {
+   "t": "Маршрут",
+   "h": null
+  }
+ ],
+ "phones": [],
+ "msgLinks": [
+  {
+   "t": "",
+   "h": "https://vk.com/yandex.maps",
+   "c": "card-social-links-view__link",
+   "ownOrg": 0
+  },
+  {
+   "t": "",
+   "h": "https://t.me/mapsyandex",
+   "c": "card-social-links-view__link",
+   "ownOrg": 0
+  }
+ ],
+ "apps": [],
+ "extLinks": [],
+ "social": [
+  {
+   "t": "",
+   "h": "https://vk.com/yandex.maps",
+   "c": "card-social-links-view__link"
+  },
+  {
+   "t": "",
+   "h": "https://t.me/mapsyandex",
+   "c": "card-social-links-view__link"
+  },
+  {
+   "t": "",
+   "h": "https://zen.yandex.ru/yandexmaps",
+   "c": "card-social-links-view__link"
+  }
+ ],
+ "btns": [],
+ "emails": [],
+ "contactBlock": [
+  "Адрес Душанбе, ул. Дружбы народов, 47 Маршрут",
+  "Адрес",
+  "",
+  "Душанбе, ул. Дружбы народов, 47",
+  "Душанбе, ул. Дружбы народов, 47",
+  "Маршрут",
+  "Маршрут",
+  "Контакты Телефон не указан Добавить",
+  "Контакты",
+  "",
+  "Время работы График работы не указан Добавить",
+  "Время работы",
+  ""
+ ],
+ "hours": [],
+ "list": {
+  "name": "Jasmine Gifts",
+  "city": "dushanbe",
+  "rating": null,
+  "reviews": null,
+  "lon": "68.801350",
+  "lat": "38.573923",
+  "src": "сувениры",
+  "priority": true
+ }
+}

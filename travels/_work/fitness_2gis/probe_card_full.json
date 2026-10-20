@@ -1,0 +1,141 @@
+{
+ "meta": {
+  "api_version": "3.0.21778",
+  "code": 200,
+  "issue_date": "20261014"
+ },
+ "result": {
+  "items": [
+   {
+    "address_comment": "1-2 этаж",
+    "address_name": "улица Бухоро, 34",
+    "adm_div": [
+     {
+      "id": "182",
+      "name": "Таджикистан",
+      "type": "country"
+     },
+     {
+      "id": "70030076149053692",
+      "name": "Душанбе",
+      "type": "region"
+     },
+     {
+      "city_alias": "dushanbe",
+      "flags": {
+       "is_default": true
+      },
+      "id": "70030076174471798",
+      "is_default": true,
+      "name": "Душанбе",
+      "type": "city"
+     },
+     {
+      "id": "70030077013573016",
+      "name": "Исмоили Сомони район",
+      "type": "district"
+     }
+    ],
+    "id": "70000001109657173",
+    "links": {
+     "entrances": [
+      {
+       "geometry": {
+        "normals": [
+         "LINESTRING(69.517497 37.888004,68.784779 38.568537)"
+        ],
+        "points": [
+         "POINT(68.78477879691016 38.56853704387686)"
+        ],
+        "vectors": [
+         "LINESTRING(68.784853 38.568468,68.784779 38.568537)"
+        ]
+       },
+       "id": "70030077119900474",
+       "is_primary": false,
+       "is_visible_on_map": true
+      }
+     ],
+     "nearest_parking": [
+      {
+       "id": "70030077101380266"
+      },
+      {
+       "id": "70030077055545713"
+      },
+      {
+       "id": "70030077101377635"
+      },
+      {
+       "id": "70030077055545705"
+      },
+      {
+       "id": "70030077191367599"
+      },
+      {
+       "id": "70030077082784019"
+      },
+      {
+       "id": "70030077055585001"
+      },
+      {
+       "id": "70030077101459229"
+      }
+     ],
+     "nearest_stations": [
+      {
+       "distance": 280,
+       "id": "70030077083621238",
+       "name": "ТЦ Ситора",
+       "route_types": [
+        "bus",
+        "shuttle_bus"
+       ]
+      }
+     ]
+    },
+    "name": "Dorob Gym, толори варзишӣ",
+    "point": {
+     "lat": 38.568544,
+     "lon": 68.784771
+    },
+    "reviews": {
+     "general_rating": 4.7,
+     "general_review_count": 3,
+     "general_review_count_with_stars": 4,
+     "is_reviewable": false,
+     "is_reviewable_on_flamp": true,
+     "items": [
+      {
+       "is_reviewable": true,
+       "tag": "2gis_reviews"
+      }
+     ],
+     "org_rating": 4.8,
+     "org_review_count": 6,
+     "org_review_count_with_stars": 14
+    },
+    "rubrics": [
+     {
+      "alias": "trenazhjornye_zaly",
+      "id": "267",
+      "kind": "primary",
+      "name": "Тренажёрные залы",
+      "parent_id": "8",
+      "short_id": 267
+     },
+     {
+      "alias": "fitnes_kluby",
+      "id": "268",
+      "kind": "additional",
+      "name": "Фитнес-клубы",
+      "parent_id": "8",
+      "short_id": 268
+     }
+    ],
+    "type": "branch"
+   }
+  ],
+  "total": 1
+ }
+}

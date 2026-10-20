@@ -1,0 +1,97 @@
+{
+ "url": "https://yandex.kz/maps/org/rynok_korvon/221943598319/?ll=68.757214%2C38.509838&z=15",
+ "title": "Рынок Корвон, рынок, Душанбе, махалла имени Крупской, ул. Крупской, 82А — Яндекс Карты",
+ "h1": "Рынок Корвон",
+ "coords": [
+  "68.756757,38.5065",
+  "68.756757,38.506500"
+ ],
+ "rating": [
+  "Оценка 4.5 Из 5",
+  "Оценка 4.5 Из 5",
+  "Оценка 5 Из 5"
+ ],
+ "categories": [
+  "Рынок"
+ ],
+ "address": [
+  {
+   "t": "Душанбе, махалла имени Крупской, ул. Крупской, 82А",
+   "h": "/maps/10318/dushanbe/house/YkEYcQJnS0QDQF1ifXlwcXRmZA==/"
+  },
+  {
+   "t": "Душанбе, махалла имени Крупской, ул. Крупской, 82А",
+   "h": null
+  },
+  {
+   "t": "Душанбе, махалла имени Крупской, ул. Крупской, 82А",
+   "h": "/maps/10318/dushanbe/house/YkEYcQJnS0QDQF1ifXlwcXRmZA==/"
+  },
+  {
+   "t": "Маршрут",
+   "h": null
+  }
+ ],
+ "phones": [],
+ "msgLinks": [
+  {
+   "t": "",
+   "h": "https://vk.com/yandex.maps",
+   "c": "card-social-links-view__link",
+   "ownOrg": 0
+  },
+  {
+   "t": "",
+   "h": "https://t.me/mapsyandex",
+   "c": "card-social-links-view__link",
+   "ownOrg": 0
+  }
+ ],
+ "apps": [],
+ "extLinks": [],
+ "social": [
+  {
+   "t": "",
+   "h": "https://vk.com/yandex.maps",
+   "c": "card-social-links-view__link"
+  },
+  {
+   "t": "",
+   "h": "https://t.me/mapsyandex",
+   "c": "card-social-links-view__link"
+  },
+  {
+   "t": "",
+   "h": "https://zen.yandex.ru/yandexmaps",
+   "c": "card-social-links-view__link"
+  }
+ ],
+ "btns": [],
+ "emails": [],
+ "contactBlock": [
+  "Адрес Душанбе, махалла имени Крупской, ул. Крупской, 82А Маршрут",
+  "Адрес",
+  "",
+  "Душанбе, махалла имени Крупской, ул. Крупской, 82А",
+  "Душанбе, махалла имени Крупской, ул. Крупской, 82А",
+  "Маршрут",
+  "Маршрут",
+  "Контакты Телефон не указан Добавить",
+  "Контакты",
+  "",
+  "Время работы Открыто до 16:00 График",
+  "Время работы",
+  ""
+ ],
+ "hours": [],
+ "list": {
+  "name": "Рынок Корвон",
+  "city": "dushanbe",
+  "rating": 4.5,
+  "reviews": 42,
+  "lon": "68.756757",
+  "lat": "38.506500",
+  "src": "базар+рынок",
+  "priority": true
+ }
+}

@@ -1,0 +1,71 @@
+[
+ {
+  "id": "70000001103044666",
+  "url": "https://2gis.tj/dushanbe/firm/70000001103044666",
+  "code": 200,
+  "final": "https://2gis.tj/museum?return_url=https%3A%2F%2F2gis.tj%2Fdushanbe%2Ffirm%2F70000001103044666",
+  "len": 11265,
+  "has_captcha": false,
+  "tel_links": 0,
+  "wa": 0,
+  "tg": 0,
+  "phones_kw": 0,
+  "plus992": 0,
+  "phone_hits": [
+   "700000011030",
+   "103419649"
+  ],
+  "scripts": [
+   "/_/polyfills.min.js?features='+__features.join(',')+'",
+   "https://top-fwz1.mail.ru/js/code.js",
+   "https://connect.facebook.net/en_US/fbevents.js",
+   "https://d-assets.2gis.ru/museum/museum.js"
+  ]
+ },
+ {
+  "id": "70000001101445485",
+  "url": "https://2gis.tj/dushanbe/firm/70000001101445485",
+  "code": 200,
+  "final": "https://2gis.tj/museum?return_url=https%3A%2F%2F2gis.tj%2Fdushanbe%2Ffirm%2F70000001101445485",
+  "len": 11265,
+  "has_captcha": false,
+  "tel_links": 0,
+  "wa": 0,
+  "tg": 0,
+  "phones_kw": 0,
+  "plus992": 0,
+  "phone_hits": [
+   "700000011014",
+   "103419649"
+  ],
+  "scripts": [
+   "/_/polyfills.min.js?features='+__features.join(',')+'",
+   "https://top-fwz1.mail.ru/js/code.js",
+   "https://connect.facebook.net/en_US/fbevents.js",
+   "https://d-assets.2gis.ru/museum/museum.js"
+  ]
+ },
+ {
+  "id": "70000001101229632",
+  "url": "https://2gis.tj/dushanbe/firm/70000001101229632",
+  "code": 200,
+  "final": "https://2gis.tj/museum?return_url=https%3A%2F%2F2gis.tj%2Fdushanbe%2Ffirm%2F70000001101229632",
+  "len": 11265,
+  "has_captcha": false,
+  "tel_links": 0,
+  "wa": 0,
+  "tg": 0,
+  "phones_kw": 0,
+  "plus992": 0,
+  "phone_hits": [
+   "700000011012",
+   "103419649"
+  ],
+  "scripts": [
+   "/_/polyfills.min.js?features='+__features.join(',')+'",
+   "https://top-fwz1.mail.ru/js/code.js",
+   "https://connect.facebook.net/en_US/fbevents.js",
+   "https://d-assets.2gis.ru/museum/museum.js"
+  ]
+ }
+]

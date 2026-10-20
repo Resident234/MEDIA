@@ -1,0 +1,93 @@
+{
+ "url": "https://yandex.kz/maps/org/rynok_sarvar/118477068015/?ll=68.784959%2C38.553960&z=16",
+ "title": "Рынок Сарвар, рынок, Душанбе, улица Навруз — Яндекс Карты",
+ "h1": "Рынок Сарвар",
+ "coords": [
+  "68.786652,38.552889",
+  "68.786652,38.552889"
+ ],
+ "rating": [],
+ "categories": [
+  "Рынок"
+ ],
+ "address": [
+  {
+   "t": "Душанбе, улица Навруз",
+   "h": "/maps/10318/dushanbe/geo/4263796349/"
+  },
+  {
+   "t": "Душанбе, улица Навруз",
+   "h": null
+  },
+  {
+   "t": "Душанбе, улица Навруз",
+   "h": "/maps/10318/dushanbe/geo/4263796349/"
+  },
+  {
+   "t": "Маршрут",
+   "h": null
+  }
+ ],
+ "phones": [],
+ "msgLinks": [
+  {
+   "t": "",
+   "h": "https://vk.com/yandex.maps",
+   "c": "card-social-links-view__link",
+   "ownOrg": 0
+  },
+  {
+   "t": "",
+   "h": "https://t.me/mapsyandex",
+   "c": "card-social-links-view__link",
+   "ownOrg": 0
+  }
+ ],
+ "apps": [],
+ "extLinks": [],
+ "social": [
+  {
+   "t": "",
+   "h": "https://vk.com/yandex.maps",
+   "c": "card-social-links-view__link"
+  },
+  {
+   "t": "",
+   "h": "https://t.me/mapsyandex",
+   "c": "card-social-links-view__link"
+  },
+  {
+   "t": "",
+   "h": "https://zen.yandex.ru/yandexmaps",
+   "c": "card-social-links-view__link"
+  }
+ ],
+ "btns": [],
+ "emails": [],
+ "contactBlock": [
+  "Адрес Душанбе, улица Навруз Маршрут",
+  "Адрес",
+  "",
+  "Душанбе, улица Навруз",
+  "Душанбе, улица Навруз",
+  "Маршрут",
+  "Маршрут",
+  "Контакты Телефон не указан Добавить",
+  "Контакты",
+  "",
+  "Время работы График работы не указан Добавить",
+  "Время работы",
+  ""
+ ],
+ "hours": [],
+ "list": {
+  "name": "Рынок Сарвар",
+  "city": "dushanbe",
+  "rating": null,
+  "reviews": null,
+  "lon": "68.786652",
+  "lat": "38.552889",
+  "src": "базар+рынок",
+  "priority": true
+ }
+}

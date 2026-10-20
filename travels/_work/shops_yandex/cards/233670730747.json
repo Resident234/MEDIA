@@ -1,0 +1,144 @@
+{
+ "url": "https://yandex.kz/maps/org/dushanbe_print/233670730747/?ll=68.800054%2C38.561574&z=16",
+ "title": "Душанбе Принт, рекламная продукция, Душанбе, просп. Рудаки, 10 — Яндекс Карты",
+ "h1": "Душанбе Принт",
+ "coords": [
+  "68.800047,38.561704",
+  "68.800047,38.561704"
+ ],
+ "rating": [
+  "Оценка 5 Из 5"
+ ],
+ "categories": [
+  "Рекламная продукция",
+  "Типография",
+  "Изготовление и оптовая продажа сувениров"
+ ],
+ "address": [
+  {
+   "t": "Душанбе, просп. Рудаки, 10",
+   "h": "/maps/10318/dushanbe/house/YkEYfgdgSUADQF1ifXl3cHlkYA==/"
+  },
+  {
+   "t": "Душанбе, просп. Рудаки, 10",
+   "h": null
+  },
+  {
+   "t": "Душанбе, просп. Рудаки, 10",
+   "h": "/maps/10318/dushanbe/house/YkEYfgdgSUADQF1ifXl3cHlkYA==/"
+  },
+  {
+   "t": "Маршрут",
+   "h": null
+  }
+ ],
+ "phones": [
+  {
+   "t": "+992 91 555 55 98",
+   "h": null
+  },
+  {
+   "t": "+992 91 555 55 98 Показать телефон",
+   "h": null
+  },
+  {
+   "t": "+992 91 555 55 98 Показать телефон",
+   "h": null
+  }
+ ],
+ "msgLinks": [
+  {
+   "t": "",
+   "h": "https://www.facebook.com/DUSHANBE.PRINT.TJ",
+   "c": "button _view_secondary-gray _ui _size_medium _link",
+   "ownOrg": 1
+  },
+  {
+   "t": "",
+   "h": "https://www.instagram.com/dushanbe_print/",
+   "c": "button _view_secondary-gray _ui _size_medium _link",
+   "ownOrg": 1
+  },
+  {
+   "t": "",
+   "h": "https://vk.com/yandex.maps",
+   "c": "card-social-links-view__link",
+   "ownOrg": 0
+  },
+  {
+   "t": "",
+   "h": "https://t.me/mapsyandex",
+   "c": "card-social-links-view__link",
+   "ownOrg": 0
+  }
+ ],
+ "apps": [],
+ "extLinks": [],
+ "social": [
+  {
+   "t": "",
+   "h": "https://www.facebook.com/DUSHANBE.PRINT.TJ",
+   "c": "button _view_secondary-gray _ui _size_medium _link"
+  },
+  {
+   "t": "",
+   "h": "https://www.instagram.com/dushanbe_print/",
+   "c": "button _view_secondary-gray _ui _size_medium _link"
+  },
+  {
+   "t": "",
+   "h": "https://twitter.com/dushanbe_print",
+   "c": "button _view_secondary-gray _ui _size_medium _link"
+  },
+  {
+   "t": "",
+   "h": "https://vk.com/yandex.maps",
+   "c": "card-social-links-view__link"
+  },
+  {
+   "t": "",
+   "h": "https://t.me/mapsyandex",
+   "c": "card-social-links-view__link"
+  },
+  {
+   "t": "",
+   "h": "https://zen.yandex.ru/yandexmaps",
+   "c": "card-social-links-view__link"
+  }
+ ],
+ "btns": [],
+ "emails": [],
+ "contactBlock": [
+  "Адрес Душанбе, просп. Рудаки, 10 Маршрут",
+  "Адрес",
+  "",
+  "Душанбе, просп. Рудаки, 10",
+  "Душанбе, просп. Рудаки, 10",
+  "Маршрут",
+  "Маршрут",
+  "Контакты +992 91 555 55 98 Показать телефон",
+  "Контакты",
+  "",
+  "",
+  "",
+  "",
+  "",
+  "",
+  "",
+  "",
+  "Время работы Открыто до 18:00 График",
+  "Время работы",
+  ""
+ ],
+ "hours": [],
+ "list": {
+  "name": "Душанбе Принт",
+  "city": "dushanbe",
+  "rating": null,
+  "reviews": null,
+  "lon": "68.800047",
+  "lat": "38.561704",
+  "src": "сувениры",
+  "priority": true
+ }
+}

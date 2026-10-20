@@ -1,0 +1,270 @@
+dushanbe | Фитнес|- | code=200 err=None total=88 n=10
+    id=70000001109657173 name=Dorob Gym, толори варзишӣ addr=кӯчаи Бухоро, 34 point={'lat': 38.568544, 'lon': 68.784771}
+    adm=[['country', None, 'Тоҷикистон'], ['region', None, 'Душанбе'], ['city', 'dushanbe', 'Душанбе'], ['district', None, 'Исмоили Сомонӣ']]
+      rubrics=[['268', None], ['267', None]]
+      reviews={"general_rating": 4.7, "general_review_count": 3, "general_review_count_with_stars": 4, "is_reviewable": false, "is_reviewable_on_flamp": true, "items": [{"is_reviewable": true, "tag": "2gis_reviews"
+      contact_groups=null
+      contacts=None phones=None
+    id=70000001101572228 name=Pro Fit, толори варзишӣ addr=кӯчаи Бухоро, 32 point={'lat': 38.56835, 'lon': 68.784479}
+    adm=[['country', None, 'Тоҷикистон'], ['region', None, 'Душанбе'], ['city', 'dushanbe', 'Душанбе'], ['district', None, 'Исмоили Сомонӣ']]
+      rubrics=[['268', None], ['267', None]]
+      reviews={"general_review_count_with_stars": 1, "is_reviewable": false, "is_reviewable_on_flamp": true, "items": [{"is_reviewable": true, "tag": "2gis_reviews"}], "org_rating": 5, "org_review_count": 1, "org_r
+      contact_groups=null
+      contacts=None phones=None
+    id=70000001101990158 name=Кангурт, толори варзишӣ addr=None point={'lat': 38.56076, 'lon': 68.781306}
+    adm=[['country', None, 'Тоҷикистон'], ['region', None, 'Душанбе'], ['city', 'dushanbe', 'Душанбе'], ['district', None, 'Фирдавсӣ']]
+      rubrics=[['267', None], ['51256', None]]
+      reviews={"general_review_count_with_stars": 1, "is_reviewable": false, "is_reviewable_on_flamp": true, "items": [{"is_reviewable": true, "tag": "2gis_reviews"}], "org_review_count_with_stars": 1}
+      contact_groups=null
+      contacts=None phones=None
+dushanbe | Фитнес|ru_RU | code=404 err=itemNotFound total=None n=0
+dushanbe | Фитнес|ru_TJ | code=200 err=None total=88 n=10
+    id=70000001109657173 name=Dorob Gym, толори варзишӣ addr=улица Бухоро, 34 point={'lat': 38.568544, 'lon': 68.784771}
+    adm=[['country', None, 'Таджикистан'], ['region', None, 'Душанбе'], ['city', 'dushanbe', 'Душанбе'], ['district', None, 'Исмоили Сомони район']]
+      rubrics=[['268', None], ['267', None]]
+      reviews={"general_rating": 4.7, "general_review_count": 3, "general_review_count_with_stars": 4, "is_reviewable": false, "is_reviewable_on_flamp": true, "items": [{"is_reviewable": true, "tag": "2gis_reviews"
+      contact_groups=null
+      contacts=None phones=None
+    id=70000001101572228 name=Pro Fit, толори варзишӣ addr=улица Бухоро, 32 point={'lat': 38.56835, 'lon': 68.784479}
+    adm=[['country', None, 'Таджикистан'], ['region', None, 'Душанбе'], ['city', 'dushanbe', 'Душанбе'], ['district', None, 'Исмоили Сомони район']]
+      rubrics=[['268', None], ['267', None]]
+      reviews={"general_review_count_with_stars": 1, "is_reviewable": false, "is_reviewable_on_flamp": true, "items": [{"is_reviewable": true, "tag": "2gis_reviews"}], "org_rating": 5, "org_review_count": 1, "org_r
+      contact_groups=null
+      contacts=None phones=None
+    id=70000001101990158 name=Кангурт, толори варзишӣ addr=None point={'lat': 38.56076, 'lon': 68.781306}
+    adm=[['country', None, 'Таджикистан'], ['region', None, 'Душанбе'], ['city', 'dushanbe', 'Душанбе'], ['district', None, 'Фирдавси район']]
+      rubrics=[['267', None], ['51256', None]]
+      reviews={"general_review_count_with_stars": 1, "is_reviewable": false, "is_reviewable_on_flamp": true, "items": [{"is_reviewable": true, "tag": "2gis_reviews"}], "org_review_count_with_stars": 1}
+      contact_groups=null
+      contacts=None phones=None
+dushanbe | Тренажерный зал|- | code=200 err=None total=57 n=10
+    id=70000001101990158 name=Кангурт, толори варзишӣ addr=None point={'lat': 38.56076, 'lon': 68.781306}
+    adm=[['country', None, 'Тоҷикистон'], ['region', None, 'Душанбе'], ['city', 'dushanbe', 'Душанбе'], ['district', None, 'Фирдавсӣ']]
+      rubrics=[['267', None], ['51256', None]]
+      reviews={"general_review_count_with_stars": 1, "is_reviewable": false, "is_reviewable_on_flamp": true, "items": [{"is_reviewable": true, "tag": "2gis_reviews"}], "org_review_count_with_stars": 1}
+      contact_groups=null
+      contacts=None phones=None
+    id=70000001109657173 name=Dorob Gym, толори варзишӣ addr=кӯчаи Бухоро, 34 point={'lat': 38.568544, 'lon': 68.784771}
+    adm=[['country', None, 'Тоҷикистон'], ['region', None, 'Душанбе'], ['city', 'dushanbe', 'Душанбе'], ['district', None, 'Исмоили Сомонӣ']]
+      rubrics=[['267', None], ['268', None]]
+      reviews={"general_rating": 4.7, "general_review_count": 3, "general_review_count_with_stars": 4, "is_reviewable": false, "is_reviewable_on_flamp": true, "items": [{"is_reviewable": true, "tag": "2gis_reviews"
+      contact_groups=null
+      contacts=None phones=None
+    id=70000001101572228 name=Pro Fit, толори варзишӣ addr=кӯчаи Бухоро, 32 point={'lat': 38.56835, 'lon': 68.784479}
+    adm=[['country', None, 'Тоҷикистон'], ['region', None, 'Душанбе'], ['city', 'dushanbe', 'Душанбе'], ['district', None, 'Исмоили Сомонӣ']]
+      rubrics=[['267', None], ['268', None]]
+      reviews={"general_review_count_with_stars": 1, "is_reviewable": false, "is_reviewable_on_flamp": true, "items": [{"is_reviewable": true, "tag": "2gis_reviews"}], "org_rating": 5, "org_review_count": 1, "org_r
+      contact_groups=null
+      contacts=None phones=None
+dushanbe | Тренажерный зал|ru_RU | code=200 err=None total=1 n=1
+    id=70030077006813680 name=Залам addr=None point={'lat': 40.843229, 'lon': 47.81461}
+    adm=[['region', None, 'Габалинский']]
+      rubrics=[]
+      reviews={"items": [{"is_reviewable": true, "tag": "2gis_reviews"}]}
+      contact_groups=null
+      contacts=None phones=None
+dushanbe | Тренажерный зал|ru_TJ | code=200 err=None total=57 n=10
+    id=70000001101990158 name=Кангурт, толори варзишӣ addr=None point={'lat': 38.56076, 'lon': 68.781306}
+    adm=[['country', None, 'Таджикистан'], ['region', None, 'Душанбе'], ['city', 'dushanbe', 'Душанбе'], ['district', None, 'Фирдавси район']]
+      rubrics=[['267', None], ['51256', None]]
+      reviews={"general_review_count_with_stars": 1, "is_reviewable": false, "is_reviewable_on_flamp": true, "items": [{"is_reviewable": true, "tag": "2gis_reviews"}], "org_review_count_with_stars": 1}
+      contact_groups=null
+      contacts=None phones=None
+    id=70000001109657173 name=Dorob Gym, толори варзишӣ addr=улица Бухоро, 34 point={'lat': 38.568544, 'lon': 68.784771}
+    adm=[['country', None, 'Таджикистан'], ['region', None, 'Душанбе'], ['city', 'dushanbe', 'Душанбе'], ['district', None, 'Исмоили Сомони район']]
+      rubrics=[['267', None], ['268', None]]
+      reviews={"general_rating": 4.7, "general_review_count": 3, "general_review_count_with_stars": 4, "is_reviewable": false, "is_reviewable_on_flamp": true, "items": [{"is_reviewable": true, "tag": "2gis_reviews"
+      contact_groups=null
+      contacts=None phones=None
+    id=70000001101572228 name=Pro Fit, толори варзишӣ addr=улица Бухоро, 32 point={'lat': 38.56835, 'lon': 68.784479}
+    adm=[['country', None, 'Таджикистан'], ['region', None, 'Душанбе'], ['city', 'dushanbe', 'Душанбе'], ['district', None, 'Исмоили Сомони район']]
+      rubrics=[['267', None], ['268', None]]
+      reviews={"general_review_count_with_stars": 1, "is_reviewable": false, "is_reviewable_on_flamp": true, "items": [{"is_reviewable": true, "tag": "2gis_reviews"}], "org_rating": 5, "org_review_count": 1, "org_r
+      contact_groups=null
+      contacts=None phones=None
+khujand | Фитнес|- | code=200 err=None total=368 n=10
+    id=70000001030858196 name=Pulse, фитнес-клуб addr=улица Алымбека Датка, 232а point={'lat': 40.517594, 'lon': 72.805999}
+    adm=[['country', None, 'Кыргызстан'], ['region', None, 'Ош'], ['city', 'osh', 'Ош']]
+      rubrics=[['268', None], ['267', None]]
+      reviews={"general_rating": 4.3, "general_review_count": 23, "general_review_count_with_stars": 90, "is_reviewable": false, "is_reviewable_on_flamp": true, "items": [{"is_reviewable": true, "tag": "2gis_review
+      contact_groups=null
+      contacts=None phones=None
+    id=70000001101556835 name=Булак, спортивный комплекс addr=улица Сай Бою, 1 point={'lat': 40.522749, 'lon': 72.803587}
+    adm=[['country', None, 'Кыргызстан'], ['region', None, 'Ош'], ['city', 'osh', 'Ош']]
+      rubrics=[['268', None], ['267', None], ['51256', None]]
+      reviews={"general_rating": 4.8, "general_review_count": 23, "general_review_count_with_stars": 128, "is_reviewable": false, "is_reviewable_on_flamp": true, "items": [{"is_reviewable": true, "tag": "2gis_revie
+      contact_groups=null
+      contacts=None phones=None
+    id=70000001048075300 name=Шавкат, спортивный комплекс addr=1-я улица, 52 point={'lat': 40.57151, 'lon': 72.754921}
+    adm=[['country', None, 'Кыргызстан'], ['region', None, 'Ошская область'], ['settlement', 'bishkek', 'с.\xa0Суроттуу-Таш']]
+      rubrics=[['268', None], ['51256', None], ['261', None]]
+      reviews={"general_rating": 4.6, "general_review_count": 17, "general_review_count_with_stars": 264, "is_reviewable": false, "is_reviewable_on_flamp": true, "items": [{"is_reviewable": true, "tag": "2gis_revie
+      contact_groups=null
+      contacts=None phones=None
+khujand | Фитнес|ru_RU | code=404 err=itemNotFound total=None n=0
+khujand | Фитнес|ru_TJ | code=404 err=itemNotFound total=None n=0
+khujand | Тренажерный зал|- | code=200 err=None total=296 n=10
+    id=70000001030858196 name=Pulse, фитнес-клуб addr=улица Алымбека Датка, 232а point={'lat': 40.517594, 'lon': 72.805999}
+    adm=[['country', None, 'Кыргызстан'], ['region', None, 'Ош'], ['city', 'osh', 'Ош']]
+      rubrics=[['267', None], ['268', None]]
+      reviews={"general_rating": 4.3, "general_review_count": 23, "general_review_count_with_stars": 90, "is_reviewable": false, "is_reviewable_on_flamp": true, "items": [{"is_reviewable": true, "tag": "2gis_review
+      contact_groups=null
+      contacts=None phones=None
+    id=70000001101556835 name=Булак, спортивный комплекс addr=улица Сай Бою, 1 point={'lat': 40.522749, 'lon': 72.803587}
+    adm=[['country', None, 'Кыргызстан'], ['region', None, 'Ош'], ['city', 'osh', 'Ош']]
+      rubrics=[['267', None], ['268', None], ['51256', None]]
+      reviews={"general_rating": 4.8, "general_review_count": 23, "general_review_count_with_stars": 128, "is_reviewable": false, "is_reviewable_on_flamp": true, "items": [{"is_reviewable": true, "tag": "2gis_revie
+      contact_groups=null
+      contacts=None phones=None
+    id=70000001030857816 name=Алга Ош, спортивный комплекс addr=улица Сагынбека Супаналиева, 234 point={'lat': 40.519264, 'lon': 72.804502}
+    adm=[['country', None, 'Кыргызстан'], ['region', None, 'Ош'], ['city', 'osh', 'Ош']]
+      rubrics=[['267', None], ['51256', None], ['268', None]]
+      reviews={"general_rating": 4.3, "general_review_count": 22, "general_review_count_with_stars": 76, "is_reviewable": false, "is_reviewable_on_flamp": true, "items": [{"is_reviewable": true, "tag": "2gis_review
+      contact_groups=null
+      contacts=None phones=None
+khujand | Тренажерный зал|ru_RU | code=200 err=None total=1 n=1
+    id=70030077006813680 name=Залам addr=None point={'lat': 40.843229, 'lon': 47.81461}
+    adm=[['region', None, 'Габалинский']]
+      rubrics=[]
+      reviews={"items": [{"is_reviewable": true, "tag": "2gis_reviews"}]}
+      contact_groups=null
+      contacts=None phones=None
+khujand | Тренажерный зал|ru_TJ | code=200 err=None total=1 n=1
+    id=70030077006813680 name=Залам addr=None point={'lat': 40.843229, 'lon': 47.81461}
+    adm=[['region', None, 'Габалинский']]
+      rubrics=[]
+      reviews={"items": [{"is_reviewable": true, "tag": "2gis_reviews"}]}
+      contact_groups=null
+      contacts=None phones=None
+
+=== FULL CARD KEYS ===
+keys: ['address_comment', 'address_name', 'adm_div', 'id', 'links', 'name', 'point', 'reviews', 'rubrics', 'type']
+{
+ "address_comment": "1-2 этаж",
+ "address_name": "улица Бухоро, 34",
+ "adm_div": [
+  {
+   "id": "182",
+   "name": "Таджикистан",
+   "type": "country"
+  },
+  {
+   "id": "70030076149053692",
+   "name": "Душанбе",
+   "type": "region"
+  },
+  {
+   "city_alias": "dushanbe",
+   "flags": {
+    "is_default": true
+   },
+   "id": "70030076174471798",
+   "is_default": true,
+   "name": "Душанбе",
+   "type": "city"
+  },
+  {
+   "id": "70030077013573016",
+   "name": "Исмоили Сомони район",
+   "type": "district"
+  }
+ ],
+ "id": "70000001109657173",
+ "links": {
+  "entrances": [
+   {
+    "geometry": {
+     "normals": [
+      "LINESTRING(69.517497 37.888004,68.784779 38.568537)"
+     ],
+     "points": [
+      "POINT(68.78477879691016 38.56853704387686)"
+     ],
+     "vectors": [
+      "LINESTRING(68.784853 38.568468,68.784779 38.568537)"
+     ]
+    },
+    "id": "70030077119900474",
+    "is_primary": false,
+    "is_visible_on_map": true
+   }
+  ],
+  "nearest_parking": [
+   {
+    "id": "70030077101380266"
+   },
+   {
+    "id": "70030077055545713"
+   },
+   {
+    "id": "70030077101377635"
+   },
+   {
+    "id": "70030077055545705"
+   },
+   {
+    "id": "70030077191367599"
+   },
+   {
+    "id": "70030077082784019"
+   },
+   {
+    "id": "70030077055585001"
+   },
+   {
+    "id": "70030077101459229"
+   }
+  ],
+  "nearest_stations": [
+   {
+    "distance": 280,
+    "id": "70030077083621238",
+    "name": "ТЦ Ситора",
+    "route_types": [
+     "bus",
+     "shuttle_bus"
+    ]
+   }
+  ]
+ },
+ "name": "Dorob Gym, толори варзишӣ",
+ "point": {
+  "lat": 38.568544,
+  "lon": 68.784771
+ },
+ "reviews": {
+  "general_rating": 4.7,
+  "general_review_count": 3,
+  "general_review_count_with_stars": 4,
+  "is_reviewable": false,
+  "is_reviewable_on_flamp": true,
+  "items": [
+   {
+    "is_reviewable": true,
+    "tag": "2gis_reviews"
+   }
+  ],
+  "org_rating": 4.8,
+  "org_review_count": 6,
+  "org_review_count_with_stars": 14
+ },
+ "rubrics": [
+  {
+   "alias": "trenazhjornye_zaly",
+   "id": "267",
+   "kind": "primary",
+   "name": "Тренажёрные залы",
+   "parent_id": "8",
+   "short_id": 267
+  },
+  {
+   "alias": "fitnes_kluby",
+   "id": "268",
+   "kind": "additional",
+   "name": "Фитнес-клубы",
+   "parent_id": "8",
+   "short_id": 268
+  }
+ ],
+ "type": "branch"
+}

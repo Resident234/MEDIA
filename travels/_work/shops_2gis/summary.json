@@ -1,0 +1,144 @@
+{
+ "passes": [
+  {
+   "query": "Понедельничный базар",
+   "total": 29,
+   "kept": 5,
+   "in_tj": 5
+  },
+  {
+   "query": "Пайшанба",
+   "total": 471,
+   "kept": 5,
+   "in_tj": 5
+  },
+  {
+   "query": "Бозори пайшанба",
+   "total": 532,
+   "kept": 5,
+   "in_tj": 5
+  },
+  {
+   "query": "Панчшанбе",
+   "total": 9,
+   "kept": 5,
+   "in_tj": 5
+  },
+  {
+   "query": "Баракат",
+   "total": 28,
+   "kept": 5,
+   "in_tj": 5
+  },
+  {
+   "query": "Мехргон",
+   "total": 14,
+   "kept": 5,
+   "in_tj": 5
+  },
+  {
+   "query": "Зелёный базар",
+   "total": 1,
+   "kept": 1,
+   "in_tj": 1
+  },
+  {
+   "query": "Зеленый базар",
+   "total": 1,
+   "kept": 1,
+   "in_tj": 1
+  },
+  {
+   "query": "Варзобский базар",
+   "total": 4,
+   "kept": 4,
+   "in_tj": 3
+  },
+  {
+   "query": "Ашан",
+   "total": 1,
+   "kept": 1,
+   "in_tj": 1
+  },
+  {
+   "query": "Рохат",
+   "total": 78,
+   "kept": 5,
+   "in_tj": 5
+  },
+  {
+   "query": "Никольский собор",
+   "total": 1,
+   "kept": 1,
+   "in_tj": 1
+  },
+  {
+   "query": "Ходжа Якуб",
+   "total": 1,
+   "kept": 1,
+   "in_tj": 1
+  },
+  {
+   "query": "Таджиран",
+   "total": 1,
+   "kept": 1,
+   "in_tj": 1
+  },
+  {
+   "query": "Заргар",
+   "total": 76,
+   "kept": 5,
+   "in_tj": 5
+  },
+  {
+   "query": "базар",
+   "total": 30,
+   "kept": 30,
+   "in_tj": 30
+  },
+  {
+   "query": "бозор",
+   "total": 42,
+   "kept": 30,
+   "in_tj": 30
+  },
+  {
+   "query": "рынок",
+   "total": 38,
+   "kept": 30,
+   "in_tj": 30
+  },
+  {
+   "query": "торговый центр",
+   "total": 62,
+   "kept": 30,
+   "in_tj": 30
+  },
+  {
+   "query": "супермаркет",
+   "total": 219,
+   "kept": 30,
+   "in_tj": 30
+  },
+  {
+   "query": "гипермаркет",
+   "total": 3,
+   "kept": 3,
+   "in_tj": 3
+  },
+  {
+   "query": "магазин souvenirs",
+   "total": 1,
+   "kept": 1,
+   "in_tj": 1
+  },
+  {
+   "query": "ремесла",
+   "total": 87,
+   "kept": 5,
+   "in_tj": 5
+  }
+ ],
+ "requests": 33,
+ "rows": 209
+}

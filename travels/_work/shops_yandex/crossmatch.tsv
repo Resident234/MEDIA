@@ -1,0 +1,862 @@
+city	name	rating	dist_m	same_name	gis_name	gis_rating	url	gis_url	src	named	priority
+dushanbe	Баракат	4.2	23	0	Avon, нуқтаи қабули онлайн фармоишҳо		https://yandex.kz/maps/org/barakat/190196607657/	https://2gis.tj/dushanbe/firm/70000001103824467	Баракат рынок+торговый центр	True	True
+dushanbe	Баракат	4.3	42	0	Робия, мағозаи хӯрокворӣ		https://yandex.kz/maps/org/barakat/216714300315/	https://2gis.tj/dushanbe/firm/70000001117523324	Баракат рынок+магазин	True	True
+dushanbe	Баракат		4	1	Баракат, мағозаи хӯроквoрӣ		https://yandex.kz/maps/org/barakat/49644709033/	https://2gis.tj/dushanbe/firm/70000001116508190	Баракат рынок	True	True
+dushanbe	продуктовый магазин Баракат		211	0	Дастрас, супермаркет		https://yandex.kz/maps/org/produktovy_magazin_barakat/214554550547/	https://2gis.tj/dushanbe/firm/70000001101265061	Баракат рынок	True	True
+dushanbe	Мехргон	5.0	3	1	Меҳргон, бозор	4.5	https://yandex.kz/maps/org/mekhrgon/221813042483/	https://2gis.tj/dushanbe/firm/70000001100697766	Мехргон рынок+торговый центр	True	True
+dushanbe	Сельскохозяйственный рынок Мехргон	4.1	12	0	Меҳргон, бозор		https://yandex.kz/maps/org/selskokhozyaystvenny_rynok_mekhrgon/209370131832/	https://2gis.tj/dushanbe/firm/70000001100987326	Мехргон рынок+рынок	True	True
+dushanbe	Варзоб		9	1	Бозори Варзоб		https://yandex.kz/maps/org/varzob/195184867076/	https://2gis.tj/dushanbe/firm/70030077121162696	Варзобский базар+рынок	True	True
+dushanbe	Минимаркет Ашан	4.6	54	0	Jana post, нуқтaи додани фармоишҳои интернетӣ	3.7	https://yandex.kz/maps/org/minimarket_ashan/208732589140/	https://2gis.tj/dushanbe/firm/70000001104581033	Ашан+супермаркет	True	True
+dushanbe	Би1	4.8	5	0	Wedrink, нуқтаи фурӯши яхмосҳо вa бабл ти	4	https://yandex.kz/maps/org/bi1/60481304538/	https://2gis.tj/dushanbe/firm/70000001109765039	Ашан+супермаркет+магазин+интернет-магазин	True	True
+dushanbe	Чайхана Рохат	4.3	102	0	Choco Lab, қаҳвахона-қаннодӣ		https://yandex.kz/maps/org/chaykhana_rokhat/75433156164/	https://2gis.tj/dushanbe/firm/70000001117859284	Чайхана Рохат	True	True
+dushanbe	Рохат		28	0	Coffee Moose, қаҳвахона	4.6	https://yandex.kz/maps/org/rokhat/214967510421/	https://2gis.tj/dushanbe/firm/70000001110525921	Чайхана Рохат	True	True
+dushanbe	Чайхнана Баракат	4.3	17	0	Бибиҷон, тезтайёр		https://yandex.kz/maps/org/chaykhnana_barakat/150188646088/	https://2gis.tj/dushanbe/firm/70000001105780527	Чайхана Рохат	True	True
+dushanbe	Свято-Никольский Cобор		103	0	Laklak, нуқтаҳои додани фармоишҳои интeрнетӣ		https://yandex.kz/maps/org/svyato_nikolskiy_cobor/112423240918/	https://2gis.tj/dushanbe/firm/70000001105026412	Никольский собор	True	True
+dushanbe	Бозори Фаровон	4.8	55	0	Optovik.tj, мағозаи хӯрокворӣ		https://yandex.kz/maps/org/bozori_farovon/98674993994/	https://2gis.tj/dushanbe/firm/70000001105298218	базар	False	True
+dushanbe	Оптовый рынок Корвон	4.9	16	0	Мағозаи овезонҳо		https://yandex.kz/maps/org/optovy_rynok_korvon/19242693748/	https://2gis.tj/dushanbe/firm/70000001109926655	базар+рынок	False	True
+dushanbe	Рынок Саховат	4.7	10	0	Ганчина, марказиӣ савдо		https://yandex.kz/maps/org/rynok_sakhovat/66411564956/	https://2gis.tj/dushanbe/firm/70000001117748886	базар+рынок	False	True
+dushanbe	Азиатский рынок	4.4	74	0	Сафариён, нуқтаи фурӯши меваю сабзавот		https://yandex.kz/maps/org/aziatskiy_rynok/227789393997/	https://2gis.tj/dushanbe/firm/70000001102912302	базар+рынок	False	True
+dushanbe	Рынок 33 микрорайон	4.7	25	0	33, тезтайёр		https://yandex.kz/maps/org/rynok_33_mikrorayon/205249764379/	https://2gis.tj/dushanbe/firm/70000001104662856	базар+рынок	False	True
+dushanbe	Автоколонна 2927	4.2	157	1	Автоколонна 2927, бозори	5	https://yandex.kz/maps/org/avtokolonna_2927/236635628394/	https://2gis.tj/dushanbe/firm/70000001102009803	базар+рынок	False	True
+dushanbe	Рынок 32	4.5	21	0	Маркази савдои Мирзохуҷа		https://yandex.kz/maps/org/rynok_32/124475173407/	https://2gis.tj/dushanbe/firm/70030077008598490	базар+рынок	False	True
+dushanbe	Рынок Корвон	4.5	64	0	Бозори Корвон		https://yandex.kz/maps/org/rynok_korvon/221943598319/	https://2gis.tj/dushanbe/firm/70030077024494734	базар+рынок	False	True
+dushanbe	Оптовый рынок	4.3	41	0	Вориси Сомон, мағозаи хӯрокворӣ		https://yandex.kz/maps/org/optovy_rynok/239806781887/	https://2gis.tj/dushanbe/firm/70000001103054764	базар+рынок	False	True
+dushanbe	Бозорча	4.6		0			https://yandex.kz/maps/org/bozorcha/101755583884/		базар	False	True
+dushanbe	Рынок Сарвар		73	0	Самбӯсаи уйгурӣ, тезтайёр		https://yandex.kz/maps/org/rynok_sarvar/118477068015/	https://2gis.tj/dushanbe/firm/70000001103227646	базар+рынок	False	True
+dushanbe	Хаварон рынок	4.2	49	0	Ховарон, бозор		https://yandex.kz/maps/org/khavaron_rynok/125159769020/	https://2gis.tj/dushanbe/firm/70000001113499855	базар+рынок	False	True
+dushanbe	Китайский рынок	3.0	113	0	Илҳом, мағозаи хӯрокворӣ		https://yandex.kz/maps/org/kitayskiy_rynok/116877541487/	https://2gis.tj/dushanbe/firm/70000001101338513	базар+рынок	False	True
+dushanbe	Рынок Дока	3.9	26	0	Тезтайёр		https://yandex.kz/maps/org/rynok_doka/95002349239/	https://2gis.tj/dushanbe/firm/70000001102670409	базар+рынок	False	True
+dushanbe	Яккачанор	4.1	7	0	Якачинор, бозор		https://yandex.kz/maps/org/yakkachanor/205440171483/	https://2gis.tj/dushanbe/firm/70000001101708695	базар	False	True
+dushanbe	Муросо		7	0	Мағозаи хӯрокворӣ		https://yandex.kz/maps/org/muroso/30527347992/	https://2gis.tj/dushanbe/firm/70000001101373973	базар	False	True
+dushanbe	Птичий рынок	3.2	111	0	Бозори масолеҳи сохтмонӣ		https://yandex.kz/maps/org/ptichiy_rynok/80978938271/	https://2gis.tj/dushanbe/firm/70000001103362650	базар	False	True
+dushanbe	Рынок Саховат Market Sahovat		79	0	Pro Burger, тезтаёр		https://yandex.kz/maps/org/rynok_sakhovat_market_sahovat/76200293991/	https://2gis.tj/dushanbe/firm/70000001102593055	базар	False	True
+dushanbe	Бозори советй		223	0	София, қаҳвахона		https://yandex.kz/maps/org/109623349817/	https://2gis.tj/dushanbe/firm/70000001109812104	базар	False	True
+dushanbe	Саховат	4.1	103	1	Бозори Саховат		https://yandex.kz/maps/org/sakhovat/100984794488/	https://2gis.tj/dushanbe/firm/70030077083752572	базар	False	True
+dushanbe	Носхана	2.7	66	0	Relax, супермаркет	5	https://yandex.kz/maps/org/noskhana/8326542988/	https://2gis.tj/dushanbe/firm/70000001102713039	базар	False	True
+dushanbe	Оптовый рынок	4.0	531	0	Анбори яхдонҳои деҳқон бозор		https://yandex.kz/maps/org/optovy_rynok/161234929702/	https://2gis.tj/dushanbe/firm/70000001104030179	базар	False	True
+dushanbe	Оптовые склады		221	0	Авранг, маркази савдо		https://yandex.kz/maps/org/optovyye_sklady/173751208612/	https://2gis.tj/dushanbe/firm/70030077008920596	базар	False	True
+dushanbe	Марва		12	1	Марва, маркази савдо		https://yandex.kz/maps/org/marva/165281226840/	https://2gis.tj/dushanbe/firm/70030077056788950	базар	False	True
+dushanbe	Рынок		505	0	Азамҷон, мағозаи хӯрокворӣ		https://yandex.kz/maps/org/rynok/119292690821/	https://2gis.tj/dushanbe/firm/70000001105328163	базар	False	True
+dushanbe	Душанбе Молл	4.7	43	0	Max biff burger, тезтайёр		https://yandex.kz/maps/org/dushanbe_moll/10654459377/	https://2gis.tj/dushanbe/firm/70000001100787284	торговый центр	False	True
+dushanbe	Садбарг	4.9	12	1	Садбарг, маркази савдо	4.8	https://yandex.kz/maps/org/sadbarg/82082493166/	https://2gis.tj/dushanbe/firm/70000001103210339	торговый центр	False	True
+dushanbe	Сиёма Молл	4.8	12	0	Хонаи ман, мағозаи мебел ва молҳои рӯзғор		https://yandex.kz/maps/org/siyoma_moll/221793724068/	https://2gis.tj/dushanbe/firm/70000001102760826	торговый центр	False	True
+dushanbe	Саодат	4.0	13	0	Tomiris home, мағозаи молҳои рахти хоб		https://yandex.kz/maps/org/saodat/37086257384/	https://2gis.tj/dushanbe/firm/70000001101334119	торговый центр	False	True
+dushanbe	Муниса	4.4	13	1	Муниса, маркази савдо		https://yandex.kz/maps/org/munisa/66115462825/	https://2gis.tj/dushanbe/firm/70000001100710737	торговый центр	False	True
+dushanbe	Таджикистан	4.3	7	0	Тоҷикистон, маркази савдо	4.3	https://yandex.kz/maps/org/tadzhikistan/19869891947/	https://2gis.tj/dushanbe/firm/70000001111527966	торговый центр	False	True
+dushanbe	Торговый центр Муллиён	4.4	10	0	Мағозаи туҳфаҳо		https://yandex.kz/maps/org/torgovy_tsentr_mulliyon/39758366129/	https://2gis.tj/dushanbe/firm/70000001111194085	торговый центр	False	True
+dushanbe	Баракат Плаза	4.6	4	0	Пайкар, маркази савдо	5	https://yandex.kz/maps/org/barakat_plaza/23364772455/	https://2gis.tj/dushanbe/firm/70030077011686197	торговый центр	False	True
+dushanbe	Аниса	4.0	5	1	Аниса, маркази савдо		https://yandex.kz/maps/org/anisa/48658586135/	https://2gis.tj/dushanbe/firm/70000001110978353	торговый центр	False	True
+dushanbe	Ситора	4.1	6	0	Sitora, маркази савдо		https://yandex.kz/maps/org/sitora/109172581300/	https://2gis.tj/dushanbe/firm/70000001110978362	торговый центр	False	True
+dushanbe	Марва	4.8	11	1	Марва, маркази фурӯши		https://yandex.kz/maps/org/marva/120787949599/	https://2gis.tj/dushanbe/firm/70000001111434631	торговый центр	False	True
+dushanbe	Торговый дом Авранг	4.4	22	0	Авранг, маркази савдо		https://yandex.kz/maps/org/torgovy_dom_avrang/229136548983/	https://2gis.tj/dushanbe/firm/70030077008920596	торговый центр	False	True
+dushanbe	Торговый Центр Садбарг	4.4	45	0	Tomiris home, мағозаи молҳои рахти хоб		https://yandex.kz/maps/org/torgovy_tsentr_sadbarg/192187631216/	https://2gis.tj/dushanbe/firm/70000001103008157	торговый центр	False	True
+dushanbe	Рудаки Плаза	4.8	14	0	Rudaki plaza, маркази маъмурӣ тиҷоратӣ	5	https://yandex.kz/maps/org/rudaki_plaza/102361638243/	https://2gis.tj/dushanbe/firm/70000001103310267	торговый центр	False	True
+dushanbe	Ватан Молл	4.4	30	0	Adraschi, мағозаи либосҳои миллии занона		https://yandex.kz/maps/org/vatan_moll/163069895003/	https://2gis.tj/dushanbe/firm/70000001101283394	торговый центр	False	True
+dushanbe	Торговый центр Ёкут 2000	1.8	76	0	Манор, супермаркет		https://yandex.kz/maps/org/torgovy_tsentr_yokut_2000/244856735939/	https://2gis.tj/dushanbe/firm/70000001104909741	торговый центр	False	True
+dushanbe	Содот	4.0	7	1	Содот, тезтайёр		https://yandex.kz/maps/org/sodot/58179562731/	https://2gis.tj/dushanbe/firm/70000001102509772	торговый центр	False	True
+dushanbe	Мохи нав	4.5	72	0	Баҳор, гӯшаи мавсими фурӯши маҳсулоти дастрас	5	https://yandex.kz/maps/org/mokhi_nav/60644754866/	https://2gis.tj/dushanbe/firm/70000001104585559	торговый центр	False	True
+dushanbe	Сабад	3.1	11	1	Сабад, супермаркет	1.4	https://yandex.kz/maps/org/sabad/47991834757/	https://2gis.tj/dushanbe/firm/70000001102832426	торговый центр	False	True
+dushanbe	Мухаммаджан торговый центр	4.0	22	0	Тезтайёр		https://yandex.kz/maps/org/mukhammadzhan_torgovy_tsentr/223110075776/	https://2gis.tj/dushanbe/firm/70000001103160290	торговый центр	False	True
+dushanbe	Ориёно	4.2	12	0	Royal sweets, мағозаи шириниҳо		https://yandex.kz/maps/org/oriyono/39732107041/	https://2gis.tj/dushanbe/firm/70000001113908784	торговый центр	False	True
+dushanbe	Шухрат	4.2	100	0	Faberlic, нуқтаи қабули онлайн фармоишҳо		https://yandex.kz/maps/org/shukhrat/224151716615/	https://2gis.tj/dushanbe/firm/70000001101970046	торговый центр	False	True
+dushanbe	Пайкар	4.3	10	1	Пайкар, супермaркет	2.8	https://yandex.kz/maps/org/paykar/140093525050/	https://2gis.tj/dushanbe/firm/70000001101595670	гипермаркет+интернет-магазин	False	True
+dushanbe	Фирменный магазин Таджикматлубот		47	0	Daryo, нуқтаи супоридани фармоишҳои интернетӣ	3.9	https://yandex.kz/maps/org/firmenny_magazin_tadzhikmatlubot/63296669436/	https://2gis.tj/dushanbe/firm/70000001103337870	гипермаркет	False	True
+dushanbe	Дастрас		55	1	Дастрас, супермаркет	3.5	https://yandex.kz/maps/org/dastras/118757178593/	https://2gis.tj/dushanbe/firm/70000001111435598	гипермаркет	False	True
+dushanbe	Noor Art Gallery	4.1	53	1	Noor art gallery, мағозаи тӯҳфаҳо		https://yandex.kz/maps/org/noor_art_gallery/20767056431/	https://2gis.tj/dushanbe/firm/70000001115644975	сувениры	False	True
+dushanbe	Сувенирная лавка СССР		39	0	Bomazza, тезтайёр		https://yandex.kz/maps/org/suvenirnaya_lavka_sssr/76983650997/	https://2gis.tj/dushanbe/firm/70000001100885475	сувениры	False	True
+dushanbe	Sou So	4.7	50	0	Садия, минимаркет		https://yandex.kz/maps/org/sou_so/212160828795/	https://2gis.tj/dushanbe/firm/70000001110916609	сувениры	False	True
+dushanbe	Zoda Art Gallery	4.2	7	0	Eastera		https://yandex.kz/maps/org/zoda_art_gallery/194731071772/	https://2gis.tj/dushanbe/firm/70000001113191445	сувениры	False	True
+dushanbe	Шарк	4.4	9	0	Mangal by mavlon, тезтайёр	5	https://yandex.kz/maps/org/shark/126382705014/	https://2gis.tj/dushanbe/firm/70000001113383499	сувениры	False	True
+dushanbe	Таджикский сувенирный магазин		11	0	Мағозаи армуғонҳои миллӣ		https://yandex.kz/maps/org/tadzhikskiy_suvenirny_magazin/218996517999/	https://2gis.tj/dushanbe/firm/70000001102921266	сувениры	False	True
+dushanbe	President business gifts		4	0	President, мағозаи тӯҳфаҳо		https://yandex.kz/maps/org/president_business_gifts/207703386082/	https://2gis.tj/dushanbe/firm/70000001102823888	сувениры	False	True
+dushanbe	Магазин восточных сувениров		6	0	Тезтайёр		https://yandex.kz/maps/org/magazin_vostochnykh_suvenirov/62041301040/	https://2gis.tj/dushanbe/firm/70000001100702524	сувениры	False	True
+dushanbe	Gift and souvenir shop		9	0	Самбуса Азиз, самбӯсахона		https://yandex.kz/maps/org/gift_and_souvenir_shop/189312199736/	https://2gis.tj/dushanbe/firm/70000001102014153	сувениры	False	True
+dushanbe	Ганджина		4	0	Ганҷина, галерея		https://yandex.kz/maps/org/gandzhina/72330449317/	https://2gis.tj/dushanbe/firm/70000001100919898	сувениры	False	True
+dushanbe	Шарк		1	0	Mangal by mavlon, тезтайёр	5	https://yandex.kz/maps/org/shark/240955746411/	https://2gis.tj/dushanbe/firm/70000001113383499	сувениры	False	True
+dushanbe	Сувениры Таджикистана		13	0	Орзу, мағозаи хӯрокворӣ		https://yandex.kz/maps/org/suveniry_tadzhikistana/228850203786/	https://2gis.tj/dushanbe/firm/70000001101017841	сувениры	False	True
+dushanbe	Wowshop		18	0	1 дирам, мағозаи хӯрокворӣ		https://yandex.kz/maps/org/wowshop/233684525849/	https://2gis.tj/dushanbe/firm/70000001101503652	сувениры	False	True
+dushanbe	Армугон		9	0	Оиша, мағозаи хӯрокворӣ		https://yandex.kz/maps/org/armugon/137071941076/	https://2gis.tj/dushanbe/firm/70000001116997360	сувениры	False	True
+dushanbe	Подарки		10	0	Мағозаи тӯҳфаҳо		https://yandex.kz/maps/org/podarki/73370531240/	https://2gis.tj/dushanbe/firm/70000001102546380	сувениры	False	True
+dushanbe	Podarki Toj		66	0	Tomiris home, мағозаи молҳои рахти хоб		https://yandex.kz/maps/org/podarki_toj/233270503036/	https://2gis.tj/dushanbe/firm/70000001103008157	сувениры	False	True
+dushanbe	Рухом	4.4	1	0	Галерия Rukhom, олами сангҳо		https://yandex.kz/maps/org/rukhom/122224657167/	https://2gis.tj/dushanbe/firm/70000001100816518	сувениры	False	True
+dushanbe	Gift and souvenir shop		8	0	Ёвар, супермаркет		https://yandex.kz/maps/org/gift_and_souvenir_shop/188023123943/	https://2gis.tj/dushanbe/firm/70000001101138048	сувениры	False	True
+dushanbe	Exclusive Gifts		8	0	Эмом, маркази савдо		https://yandex.kz/maps/org/exclusive_gifts/138111893930/	https://2gis.tj/dushanbe/firm/70030077007425517	сувениры	False	True
+dushanbe	Jasmine Gifts		36	0	Max biff burger, тезтайёр		https://yandex.kz/maps/org/jasmine_gifts/105873703434/	https://2gis.tj/dushanbe/firm/70000001100787284	сувениры	False	True
+dushanbe	Art.TJ		60	0	Faberlic, нуқтаи қабули онлайн фармоишҳо		https://yandex.kz/maps/org/art_tj/97817308267/	https://2gis.tj/dushanbe/firm/70000001100582953	сувениры	False	True
+dushanbe	Копи центр Пойтахт		71	0	Шаурмаи арабӣ, тезтайёр		https://yandex.kz/maps/org/kopi_tsentr_poytakht/242020886744/	https://2gis.tj/dushanbe/firm/70000001100683509	сувениры	False	True
+dushanbe	Ситора		3	0	Gijda, тезтайёр	5	https://yandex.kz/maps/org/sitora/102922750554/	https://2gis.tj/dushanbe/firm/70000001100702527	сувениры	False	True
+dushanbe	Подарки		73	0	Faberlic, нуқтаи қабули онлайн фармоишҳо		https://yandex.kz/maps/org/podarki/186596694776/	https://2gis.tj/dushanbe/firm/70000001102004763	сувениры	False	True
+dushanbe	Душанбе Принт		21	0	Садбарг, маркази савдо	4.8	https://yandex.kz/maps/org/dushanbe_print/233670730747/	https://2gis.tj/dushanbe/firm/70000001103210339	сувениры	False	True
+bohtar	Фаровон	5.0		0			https://yandex.kz/maps/org/farovon/128158733277/		рынок+базар+Курган-Тюбе базар	True	True
+bohtar	Ходжи Шариф	5.0		0			https://yandex.kz/maps/org/khodzhi_sharif/78668058085/		рынок+базар+Курган-Тюбе базар	True	True
+bohtar	Продуктовый рынок	4.7		0			https://yandex.kz/maps/org/produktovy_rynok/22258925880/		рынок	False	True
+bohtar	Форовон	4.3		0			https://yandex.kz/maps/org/forovon/234818088744/		рынок+базар+Курган-Тюбе базар	True	True
+bohtar	Сиёвуш			0			https://yandex.kz/maps/org/siyovush/127132796587/		торговый центр	False	True
+bohtar	Ёвар	4.8		0			https://yandex.kz/maps/org/yovar/103276630635/		супермаркет+магазин+интернет-магазин	False	True
+bohtar	Супермаркет Закия	4.2		0			https://yandex.kz/maps/org/supermarket_zakiya/20304656130/		супермаркет+магазин	False	True
+bohtar	Ёвар			0			https://yandex.kz/maps/org/yovar/4982544858/		супермаркет+магазин	False	True
+bohtar	Сиёвуш	3.6		0			https://yandex.kz/maps/org/siyovush/56422673101/		супермаркет+магазин	False	True
+bohtar	Навруз			0			https://yandex.kz/maps/org/navruz/2264688994/		супермаркет+магазин	False	True
+bohtar	Сабад	5.0		0			https://yandex.kz/maps/org/sabad/22859809075/		магазин	False	False
+bohtar	Бохтар	4.7		0			https://yandex.kz/maps/org/bokhtar/124680788220/		магазин	False	False
+bohtar	Продукты	2.9		0			https://yandex.kz/maps/org/produkty/43849584045/		магазин	False	False
+bohtar	Сиёвуш	4.2		0			https://yandex.kz/maps/org/siyovush/229218185869/		магазин	False	False
+bohtar	Продукты	3.4		0			https://yandex.kz/maps/org/produkty/201402998708/		магазин	False	False
+bohtar	Продукты			0			https://yandex.kz/maps/org/produkty/221974290328/		магазин	False	False
+bohtar	Магозаи Фотех			0			https://yandex.kz/maps/org/magozai_fotekh/41387735693/		магазин	False	False
+bohtar	Курганчик			0			https://yandex.kz/maps/org/kurganchik/224961145379/		магазин	False	False
+bohtar	Магозаи хуроквори			0			https://yandex.kz/maps/org/54593504492/		магазин	False	False
+bohtar	Продукты			0			https://yandex.kz/maps/org/produkty/130010086795/		магазин	False	False
+bohtar	Суман			0			https://yandex.kz/maps/org/suman/185299190873/		магазин	False	False
+bohtar	Эхсон			0			https://yandex.kz/maps/org/ekhson/11903894845/		магазин	False	False
+bohtar	Продукты			0			https://yandex.kz/maps/org/produkty/5266671385/		магазин	False	False
+bohtar	Продукты			0			https://yandex.kz/maps/org/produkty/132912364595/		магазин	False	False
+bohtar	Продукты			0			https://yandex.kz/maps/org/produkty/19379261768/		магазин	False	False
+bohtar	Продукты			0			https://yandex.kz/maps/org/produkty/12319074297/		магазин	False	False
+bohtar	Продукты			0			https://yandex.kz/maps/org/produkty/53931669586/		магазин	False	False
+bohtar	Фируза			0			https://yandex.kz/maps/org/firuza/139025959203/		магазин	False	False
+bohtar	Продукты			0			https://yandex.kz/maps/org/produkty/170426604469/		магазин	False	False
+bohtar	Дарё	2.7		0			https://yandex.kz/maps/org/daryo/78187751543/		пункт выдачи	False	True
+bohtar	Wildberries	3.9		0			https://yandex.kz/maps/org/wildberries/189093114600/		пункт выдачи	False	True
+bohtar	Jana Post			0			https://yandex.kz/maps/org/jana_post/164665064622/		пункт выдачи	False	True
+bohtar	СССРexpress			0			https://yandex.kz/maps/org/express/75388736249/		пункт выдачи	False	True
+bohtar	Jana Post			0			https://yandex.kz/maps/org/jana_post/81447234836/		пункт выдачи	False	True
+bohtar	LakLak			0			https://yandex.kz/maps/org/laklak/202898659603/		пункт выдачи	False	True
+bohtar	LakLak			0			https://yandex.kz/maps/org/laklak/112749811440/		пункт выдачи	False	True
+bohtar	LakLak			0			https://yandex.kz/maps/org/laklak/15900633748/		пункт выдачи	False	True
+bohtar	LakLak			0			https://yandex.kz/maps/org/laklak/147316839326/		пункт выдачи	False	True
+bohtar	Подарки			0			https://yandex.kz/maps/org/podarki/203610768806/		сувениры	False	True
+gorno-badakhshan-autonomous-province	Сомониён	4.4		0			https://yandex.kz/maps/org/somoniyon/23584210599/		базар	False	True
+gorno-badakhshan-autonomous-province	Баракат	4.2		0			https://yandex.kz/maps/org/barakat/40843963043/		базар	False	True
+gorno-badakhshan-autonomous-province	Бозори марказӣ			0			https://yandex.kz/maps/org/bozori_markaz_/116063771840/		базар	False	True
+gorno-badakhshan-autonomous-province	Центральный рынок	4.3		0			https://yandex.kz/maps/org/tsentralny_rynok/144996812543/		рынок	False	True
+gorno-badakhshan-autonomous-province	Рынок 20-летия независимости Республики Таджикистан			0			https://yandex.kz/maps/org/rynok_20_letiya_nezavisimosti_respubliki_tadzhikistan/40455271055/		рынок	False	True
+gorno-badakhshan-autonomous-province	Памир Плаза	5.0		0			https://yandex.kz/maps/org/pamir_plaza/10588535829/		торговый центр	False	True
+gorno-badakhshan-autonomous-province	Nadim			0			https://yandex.kz/maps/org/nadim/120931374490/		торговый центр	False	True
+gorno-badakhshan-autonomous-province	Саодат	4.4		0			https://yandex.kz/maps/org/saodat/45839433401/		супермаркет+магазин+интернет-магазин	False	True
+gorno-badakhshan-autonomous-province	Супермаркет	4.2		0			https://yandex.kz/maps/org/supermarket/25806516959/		супермаркет+магазин	False	True
+gorno-badakhshan-autonomous-province	Супермаркет			0			https://yandex.kz/maps/org/supermarket/114520537373/		супермаркет+магазин	False	True
+gorno-badakhshan-autonomous-province	Памир			0			https://yandex.kz/maps/org/pamir/161625618194/		супермаркет	False	True
+gorno-badakhshan-autonomous-province	Арзон			0			https://yandex.kz/maps/org/arzon/116268342282/		супермаркет	False	True
+gorno-badakhshan-autonomous-province	Атлантика			0			https://yandex.kz/maps/org/atlantika/113749844910/		супермаркет	False	True
+gorno-badakhshan-autonomous-province	Супермаркет			0			https://yandex.kz/maps/org/supermarket/38109412374/		супермаркет	False	True
+gorno-badakhshan-autonomous-province	Сулхия			0			https://yandex.kz/maps/org/sulkhiya/236817803997/		супермаркет	False	True
+gorno-badakhshan-autonomous-province	Продукты			0			https://yandex.kz/maps/org/produkty/214920707196/		гипермаркет+магазин	False	True
+gorno-badakhshan-autonomous-province	Яхшибек магазин			0			https://yandex.kz/maps/org/yakhshibek_magazin/126032637147/		магазин	False	False
+gorno-badakhshan-autonomous-province	Продукты			0			https://yandex.kz/maps/org/produkty/134460405107/		магазин	False	False
+gorno-badakhshan-autonomous-province	Минимаркет Махабатшо			0			https://yandex.kz/maps/org/minimarket_makhabatsho/166683054697/		магазин	False	False
+gorno-badakhshan-autonomous-province	Надим			0			https://yandex.kz/maps/org/nadim/105343458570/		магазин	False	False
+gorno-badakhshan-autonomous-province	Джамшед			0			https://yandex.kz/maps/org/dzhamshed/133714142040/		магазин	False	False
+gorno-badakhshan-autonomous-province	Сулхия			0			https://yandex.kz/maps/org/sulkhiya/20867242802/		магазин	False	False
+gorno-badakhshan-autonomous-province	Мастер			0			https://yandex.kz/maps/org/master/1361068375/		магазин	False	False
+gorno-badakhshan-autonomous-province	Мустансир			0			https://yandex.kz/maps/org/mustansir/140309686770/		магазин	False	False
+gorno-badakhshan-autonomous-province	Продукты			0			https://yandex.kz/maps/org/produkty/103419683402/		магазин	False	False
+gorno-badakhshan-autonomous-province	Магазин Муяссар			0			https://yandex.kz/maps/org/magazin_muyassar/156632018931/		магазин	False	False
+gorno-badakhshan-autonomous-province	Насим			0			https://yandex.kz/maps/org/nasim/114174749743/		магазин	False	False
+gorno-badakhshan-autonomous-province	Алинур			0			https://yandex.kz/maps/org/alinur/103105687038/		магазин	False	False
+gorno-badakhshan-autonomous-province	Продукты			0			https://yandex.kz/maps/org/produkty/131888007546/		магазин	False	False
+gorno-badakhshan-autonomous-province	Продукты			0			https://yandex.kz/maps/org/produkty/159700093804/		магазин	False	False
+gorno-badakhshan-autonomous-province	Рахмат			0			https://yandex.kz/maps/org/rakhmat/167444427275/		магазин	False	False
+gorno-badakhshan-autonomous-province	Продукты			0			https://yandex.kz/maps/org/produkty/105408246362/		магазин	False	False
+gorno-badakhshan-autonomous-province	1001 Маркет			0			https://yandex.kz/maps/org/1001_market/84491460461/		маркетплейс	False	True
+gorno-badakhshan-autonomous-province	Wildberries	4.4		0			https://yandex.kz/maps/org/wildberries/101558582857/		пункт выдачи	False	True
+gorno-badakhshan-autonomous-province	Jana Post			0			https://yandex.kz/maps/org/jana_post/206786511406/		пункт выдачи	False	True
+hisor-district	Авиценна	3.5		0			https://yandex.kz/maps/org/avitsenna/74703052604/		базар+рынок	False	True
+hisor-district	Самох	4.3		0			https://yandex.kz/maps/org/samokh/122044728360/		базар+рынок	False	True
+hisor-district	Продуктовый рынок	4.2		0			https://yandex.kz/maps/org/produktovy_rynok/126408740920/		рынок	False	True
+hisor-district	Рынок			0			https://yandex.kz/maps/org/rynok/150738243855/		рынок	False	True
+hisor-district	Алмоси	4.7		0			https://yandex.kz/maps/org/almosi/179422658040/		торговый центр	False	True
+hisor-district	Торговый центр	4.8		0			https://yandex.kz/maps/org/torgovy_tsentr/198021442749/		торговый центр	False	True
+hisor-district	Торговый центр	4.3		0			https://yandex.kz/maps/org/torgovy_tsentr/26396805496/		торговый центр	False	True
+hisor-district	Хуросон	4.3		0			https://yandex.kz/maps/org/khuroson/43973764304/		торговый центр	False	True
+hisor-district	Торговый центр			0			https://yandex.kz/maps/org/torgovy_tsentr/81003173552/		торговый центр	False	True
+hisor-district	Айни	4.3		0			https://yandex.kz/maps/org/ayni/139123800821/		торговый центр	False	True
+hisor-district	Навобод	4.1		0			https://yandex.kz/maps/org/navobod/9190666737/		торговый центр	False	True
+hisor-district	Gissar Mall			0			https://yandex.kz/maps/org/gissar_mall/117053916008/		торговый центр	False	True
+hisor-district	Муслима	4.4		0			https://yandex.kz/maps/org/muslima/204567524853/		торговый центр	False	True
+hisor-district	Би-1	4.4		0			https://yandex.kz/maps/org/bi_1/207264013100/		супермаркет+магазин	False	True
+hisor-district	Фарогат	4.4		0			https://yandex.kz/maps/org/farogat/37222322377/		супермаркет+магазин+интернет-магазин	False	True
+hisor-district	Ориён	4.0		0			https://yandex.kz/maps/org/oriyon/138760293108/		супермаркет+магазин	False	True
+hisor-district	Таги Чинор	3.9		0			https://yandex.kz/maps/org/tagi_chinor/62462192780/		супермаркет+магазин	False	True
+hisor-district	Би1	3.4		0			https://yandex.kz/maps/org/bi1/112605335609/		супермаркет	False	True
+hisor-district	Супермаркет			0			https://yandex.kz/maps/org/supermarket/173109864912/		супермаркет	False	True
+hisor-district	Фуркат			0			https://yandex.kz/maps/org/furkat/190708676469/		супермаркет	False	True
+hisor-district	Супермаркет			0			https://yandex.kz/maps/org/supermarket/97342592444/		супермаркет	False	True
+hisor-district	Эшон Бобо			0			https://yandex.kz/maps/org/eshon_bobo/50465670090/		супермаркет	False	True
+hisor-district	Нозияи Нур			0			https://yandex.kz/maps/org/noziyai_nur/116818992965/		супермаркет	False	True
+hisor-district	Гармоваи хирманак	4.4		0			https://yandex.kz/maps/org/garmovai_khirmanak/178670487091/		магазин	False	False
+hisor-district	Минимаркет	4.0		0			https://yandex.kz/maps/org/minimarket/202251188677/		магазин	False	False
+hisor-district	Бону			0			https://yandex.kz/maps/org/bonu/29959916762/		магазин	False	False
+hisor-district	Продукты			0			https://yandex.kz/maps/org/produkty/78857243302/		магазин	False	False
+hisor-district	Продукты			0			https://yandex.kz/maps/org/produkty/48850658939/		магазин	False	False
+hisor-district	Продукты	4.2		0			https://yandex.kz/maps/org/produkty/176231666418/		магазин	False	False
+hisor-district	Минимаркет			0			https://yandex.kz/maps/org/minimarket/118088967445/		магазин	False	False
+hisor-district	Продукты	4.2		0			https://yandex.kz/maps/org/produkty/99485618348/		магазин	False	False
+hisor-district	Продукты			0			https://yandex.kz/maps/org/produkty/106858165855/		магазин	False	False
+hisor-district	Сангали			0			https://yandex.kz/maps/org/sangali/242599565399/		магазин	False	False
+hisor-district	Мини-маркет Манас-2	4.3		0			https://yandex.kz/maps/org/mini_market_manas_2/207328285519/		магазин	False	False
+hisor-district	Худойдод			0			https://yandex.kz/maps/org/khudoydod/69964981845/		магазин	False	False
+hisor-district	Аббос			0			https://yandex.kz/maps/org/abbos/191662406694/		магазин	False	False
+hisor-district	Очамайли			0			https://yandex.kz/maps/org/ochamayli/107984558619/		магазин	False	False
+hisor-district	Продукты			0			https://yandex.kz/maps/org/produkty/30247700374/		магазин	False	False
+hisor-district	Вали			0			https://yandex.kz/maps/org/vali/88593665951/		магазин	False	False
+hisor-district	Продукты			0			https://yandex.kz/maps/org/produkty/19233630770/		магазин	False	False
+hisor-district	Джахонгир			0			https://yandex.kz/maps/org/dzhakhongir/176315637112/		магазин	False	False
+hisor-district	Фаровон			0			https://yandex.kz/maps/org/farovon/155762959547/		магазин	False	False
+hisor-district	Продукты	4.3		0			https://yandex.kz/maps/org/produkty/54690221056/		магазин	False	False
+hisor-district	Дарё			0			https://yandex.kz/maps/org/daryo/125604521803/		пункт выдачи	False	True
+hisor-district	LakLak			0			https://yandex.kz/maps/org/laklak/137113695891/		пункт выдачи	False	True
+hisor-district	Сувениры			0			https://yandex.kz/maps/org/suveniry/27215157976/		сувениры	False	True
+hisor-district	Сувенирные магазинчики			0			https://yandex.kz/maps/org/suvenirnyye_magazinchiki/244856801961/		сувениры	False	True
+dushanbe	Саховат	4.9	102	1	Бозори Саховат		https://yandex.kz/maps/org/sakhovat/140970017024/	https://2gis.tj/dushanbe/firm/70030077083752572	рынок	False	True
+dushanbe	Вахдат	4.9	30	0	Бозори Корвон		https://yandex.kz/maps/org/vakhdat/36575007634/	https://2gis.tj/dushanbe/firm/70030077024494734	рынок	False	True
+dushanbe	Фаровон	4.1	94	0	Авранг, маркази савдо		https://yandex.kz/maps/org/farovon/146839124673/	https://2gis.tj/dushanbe/firm/70030077008920596	рынок	False	True
+dushanbe	Афганский рынок Сафариён	4.3	72	0	Сафариён, нуқтаи фурӯши меваю сабзавот		https://yandex.kz/maps/org/afganskiy_rynok_safariyon/195026015349/	https://2gis.tj/dushanbe/firm/70000001102912302	рынок	False	True
+dushanbe	Рынок Балх	4.4	68	0	Балх, бозор	5	https://yandex.kz/maps/org/rynok_balkh/7650931619/	https://2gis.tj/dushanbe/firm/70000001111195184	рынок	False	True
+dushanbe	Гипрозем	5.0	91	0	Мағозаи хӯрокворӣ		https://yandex.kz/maps/org/giprozem/63605772441/	https://2gis.tj/dushanbe/firm/70000001104030130	рынок	False	True
+dushanbe	Маркази савдои Ховарон	4.4	4	0	Ховарон, бозор		https://yandex.kz/maps/org/123707829054/	https://2gis.tj/dushanbe/firm/70000001113499855	рынок	False	True
+dushanbe	Рохи охан	4.2	281	0	Самар, маркази савдо		https://yandex.kz/maps/org/rokhi_okhan/58063990154/	https://2gis.tj/dushanbe/firm/70000001102739150	рынок	False	True
+dushanbe	Базар № 103	3.7	15	0	Инсоф, супермаркет		https://yandex.kz/maps/org/bazar_103/32256591552/	https://2gis.tj/dushanbe/firm/70000001115099429	рынок	False	True
+dushanbe	Блошиный рынок	4.2	59	0	Бозор		https://yandex.kz/maps/org/bloshiny_rynok/128176404659/	https://2gis.tj/dushanbe/firm/70000001102901917	рынок	False	True
+dushanbe	Шомусахар	4.0	12	0	Шому саҳар, бозор	5	https://yandex.kz/maps/org/shomusakhar/46487695030/	https://2gis.tj/dushanbe/firm/70000001103056039	рынок	False	True
+dushanbe	Пайкар	4.9	1	0	Мадагаскар, маркази дилхушии кӯдакон		https://yandex.kz/maps/org/paykar/6369438383/	https://2gis.tj/dushanbe/firm/70000001102011850	супермаркет+магазин+интернет-магазин	False	True
+dushanbe	Пайкар	4.9	36	1	Пайкар, супермaркет	3.5	https://yandex.kz/maps/org/paykar/68712914947/	https://2gis.tj/dushanbe/firm/70000001100829713	супермаркет+магазин+интернет-магазин	False	True
+dushanbe	Пайкар	4.5	160	0	Алмая, минимаркет		https://yandex.kz/maps/org/paykar/55038028092/	https://2gis.tj/dushanbe/firm/70000001101502277	супермаркет+магазин+интернет-магазин	False	True
+dushanbe	Ёвар	4.2	3	1	Ёвар, супермаркет	3.7	https://yandex.kz/maps/org/yovar/208923459239/	https://2gis.tj/dushanbe/firm/70000001101423724	супермаркет+магазин+интернет-магазин	False	True
+dushanbe	Ёвар	4.5	25	1	Ёвар, супермаркети гушт	5	https://yandex.kz/maps/org/yovar/47565423135/	https://2gis.tj/dushanbe/firm/70000001103660478	супермаркет+магазин+интернет-магазин	False	True
+dushanbe	8 Mart	4.0	14	0	Rudaki plaza, маркази маъмурӣ тиҷоратӣ	5	https://yandex.kz/maps/org/8_mart/96830259664/	https://2gis.tj/dushanbe/firm/70000001103310267	супермаркет	False	True
+dushanbe	Пайкар	4.9	6	1	Пайкар, супермaркет	5	https://yandex.kz/maps/org/paykar/92681957587/	https://2gis.tj/dushanbe/firm/70000001101994648	супермаркет+магазин	False	True
+dushanbe	Тим	4.1	11	1	Тим, супермаркет	5	https://yandex.kz/maps/org/tim/66279491984/	https://2gis.tj/dushanbe/firm/70000001102889952	супермаркет+магазин	False	True
+dushanbe	Супермаркет Шохон	4.4	12	0	Шоҳона, супермаркет	5	https://yandex.kz/maps/org/supermarket_shokhon/11287912009/	https://2gis.tj/dushanbe/firm/70000001101773885	супермаркет+магазин+интернет-магазин	False	True
+dushanbe	Пайкар	4.7	5	1	Пайкар, супермaркет	4.6	https://yandex.kz/maps/org/paykar/231118673547/	https://2gis.tj/dushanbe/firm/70000001100759615	супермаркет	False	True
+dushanbe	Пайкар	4.9	5	1	Пайкар, супермaркет	4.3	https://yandex.kz/maps/org/paykar/157772314242/	https://2gis.tj/dushanbe/firm/70000001102693929	супермаркет	False	True
+dushanbe	Пайкар	4.4	2	1	Пайкар, супермaркет	2.8	https://yandex.kz/maps/org/paykar/226533422558/	https://2gis.tj/dushanbe/firm/70000001101232626	супермаркет	False	True
+dushanbe	Релакс	4.1	25	0	Relax, супермаркет	5	https://yandex.kz/maps/org/relaks/65955836791/	https://2gis.tj/dushanbe/firm/70000001101766384	супермаркет	False	True
+dushanbe	Би1	4.3	6	0	bi1, супермаркет	4.4	https://yandex.kz/maps/org/bi1/112229161621/	https://2gis.tj/dushanbe/firm/70000001101018043	супермаркет	False	True
+dushanbe	Ёвар	3.8	6	1	Ёвар, супермаркет	4.2	https://yandex.kz/maps/org/yovar/87365631083/	https://2gis.tj/dushanbe/firm/70000001101586453	супермаркет+магазин	False	True
+dushanbe	Релакс	4.6	2	0	Relax, супермаркет	5	https://yandex.kz/maps/org/relaks/79320204829/	https://2gis.tj/dushanbe/firm/70000001101193405	супермаркет	False	True
+dushanbe	Ёвар	4.7	4	1	Ёвар, супермаркет	1.7	https://yandex.kz/maps/org/yovar/115533418974/	https://2gis.tj/dushanbe/firm/70000001101139271	супермаркет	False	True
+dushanbe	Ёвар	4.7	8	1	Ёвар, супермаркет	4.9	https://yandex.kz/maps/org/yovar/14478609579/	https://2gis.tj/dushanbe/firm/70000001101128754	супермаркет	False	True
+dushanbe	Ёвар	4.6	3	1	Ёвар, супермаркет	5	https://yandex.kz/maps/org/yovar/126551156901/	https://2gis.tj/dushanbe/firm/70000001101736941	супермаркет+магазин+интернет-магазин	False	True
+dushanbe	Ёвар	4.3	6	1	Ёвар, супермаркет	4.1	https://yandex.kz/maps/org/yovar/18722414216/	https://2gis.tj/dushanbe/firm/70000001102206774	супермаркет	False	True
+dushanbe	Сафар	4.0	6	1	Сафар, супермаркет	5	https://yandex.kz/maps/org/safar/106045656079/	https://2gis.tj/dushanbe/firm/70000001101438581	супермаркет	False	True
+dushanbe	Ёвар	4.4	7	1	Ёвар, супермаркет	4.2	https://yandex.kz/maps/org/yovar/104000653984/	https://2gis.tj/dushanbe/firm/70000001101473835	супермаркет	False	True
+dushanbe	Супермаркет Шохмансур	4.1	3	0	Шоҳҷамол, супермаркет		https://yandex.kz/maps/org/supermarket_shokhmansur/140867992717/	https://2gis.tj/dushanbe/firm/70000001101956759	супермаркет	False	True
+dushanbe	Садия	4.5	13	1	Садия, минимаркет		https://yandex.kz/maps/org/sadiya/137386396991/	https://2gis.tj/dushanbe/firm/70000001110916609	магазин+интернет-магазин	False	True
+dushanbe	Пойтахт	4.3	3	1	Пойтахт, минимаркет		https://yandex.kz/maps/org/poytakht/200167922140/	https://2gis.tj/dushanbe/firm/70000001100683882	магазин+интернет-магазин	False	True
+dushanbe	Диёр	4.5	3	1	Диёр, супермаркет	3.6	https://yandex.kz/maps/org/diyor/156055333250/	https://2gis.tj/dushanbe/firm/70000001101151635	магазин	False	False
+dushanbe	Ворис	4.2	11	1	Ворис, мағозаи хӯрокворӣ		https://yandex.kz/maps/org/voris/22536202795/	https://2gis.tj/dushanbe/firm/70000001102510760	магазин+интернет-магазин	False	True
+dushanbe	Ёсин	4.9	28	0	Faberlic, нуқтаи қабули онлайн фармоишҳо		https://yandex.kz/maps/org/yosin/87578509592/	https://2gis.tj/dushanbe/firm/70000001102719357	магазин+интернет-магазин	False	True
+dushanbe	Арбат	4.1	5	1	Арбат, супермаркет	5	https://yandex.kz/maps/org/arbat/186826453304/	https://2gis.tj/dushanbe/firm/70000001104076818	магазин	False	False
+dushanbe	Арзанда	4.6	5	1	Арзанда, минимаркет		https://yandex.kz/maps/org/19394247662/	https://2gis.tj/dushanbe/firm/70000001100876054	магазин	False	False
+dushanbe	Парвиз	4.9	1	1	Парвиз, Маркази савдо	5	https://yandex.kz/maps/org/parviz/103767864188/	https://2gis.tj/dushanbe/firm/70000001102592023	магазин	False	False
+dushanbe	Шохин	4.1	73	0	Пайкар, супермaркет	3.5	https://yandex.kz/maps/org/shokhin/60660382588/	https://2gis.tj/dushanbe/firm/70000001100829713	магазин	False	False
+dushanbe	София	4.5	8	1	София, маркази савдо		https://yandex.kz/maps/org/sofiya/30851404893/	https://2gis.tj/dushanbe/firm/70000001101400396	магазин	False	False
+dushanbe	Мухаммадчон	4.6	31	0	Тезтайёр		https://yandex.kz/maps/org/mukhammadchon/109804877693/	https://2gis.tj/dushanbe/firm/70000001103160290	магазин	False	False
+dushanbe	Месут	2.4	3	1	Месут, мағозаи маҳсулотҳои туркӣ		https://yandex.kz/maps/org/mesut/100581124741/	https://2gis.tj/dushanbe/firm/70000001102981867	магазин	False	False
+dushanbe	Азимчон		118	0	Тезтайёр		https://yandex.kz/maps/org/azimchon/26112090544/	https://2gis.tj/dushanbe/firm/70000001103160290	магазин	False	False
+dushanbe	Европа	4.3	87	0	Ai-cha, дӯкони чой ва яхмос	5	https://yandex.kz/maps/org/yevropa/179005998714/	https://2gis.tj/dushanbe/firm/70000001116259753	интернет-магазин	False	True
+dushanbe	Дирам	4.8	189	0	Муҳаммад, супермаркет		https://yandex.kz/maps/org/diram/30717650927/	https://2gis.tj/dushanbe/firm/70000001102232212	интернет-магазин	False	True
+dushanbe	Ёвар	4.7	13	1	Ёвар, супермаркети гушт	5	https://yandex.kz/maps/org/yovar/235567201303/	https://2gis.tj/dushanbe/firm/70000001103660478	интернет-магазин	False	True
+dushanbe	Точка продажи молочной фабрики Саодат		79	0	Laklak, нуқтаҳои додани фармоишҳои интeрнетӣ		https://yandex.kz/maps/org/tochka_prodazhi_molochnoy_fabriki_saodat/237001399574/	https://2gis.tj/dushanbe/firm/70000001118180603	интернет-магазин	False	True
+dushanbe	Алибобо	3.5	16	0	Faberlic, нуқтаи қабули онлайн фармоишҳо		https://yandex.kz/maps/org/alibobo/197436803346/	https://2gis.tj/dushanbe/firm/70000001100582953	маркетплейс+пункт выдачи	False	True
+dushanbe	Дарё		5	0	Daryo, нуқтаи супоридани фармоишҳои интернетӣ	5	https://yandex.kz/maps/org/daryo/232682480154/	https://2gis.tj/dushanbe/firm/70000001104619103	маркетплейс	False	True
+dushanbe	Ssboss Маркетплейс		272	0	Авранг, маркази савдо		https://yandex.kz/maps/org/ssboss_marketpleys/110318290511/	https://2gis.tj/dushanbe/firm/70030077008920596	маркетплейс	False	True
+dushanbe	365trends		73	0	Наврӯзӣ, қурутобхона	3.6	https://yandex.kz/maps/org/365trends/130789844967/	https://2gis.tj/dushanbe/firm/70000001101442159	маркетплейс	False	True
+dushanbe	Dastras		70	0	Spar, супермаркет		https://yandex.kz/maps/org/dastras/86094226766/	https://2gis.tj/dushanbe/firm/70000001118569787	маркетплейс	False	True
+dushanbe	Дастрас		8	0	Lak lak, Анбор		https://yandex.kz/maps/org/dastras/96092808278/	https://2gis.tj/dushanbe/firm/70000001110327910	маркетплейс	False	True
+dushanbe	Вебмаркет		26	0	Baby smile, мағозаи бозичахо		https://yandex.kz/maps/org/vebmarket/55607576899/	https://2gis.tj/dushanbe/firm/70000001111540281	маркетплейс	False	True
+dushanbe	Кобгир		152	0	Амид, супермаркет		https://yandex.kz/maps/org/kobgir/55312698299/	https://2gis.tj/dushanbe/firm/70000001116834934	маркетплейс	False	True
+dushanbe	Laklak		4	0	Lak lak, нуқтаи додани фармоишҳо		https://yandex.kz/maps/org/laklak/212789244388/	https://2gis.tj/dushanbe/firm/70000001116658405	маркетплейс	False	True
+dushanbe	Дастрас		21	0	BBQ burger house, бургерхона	5	https://yandex.kz/maps/org/dastras/157512244066/	https://2gis.tj/dushanbe/firm/70000001102686356	маркетплейс	False	True
+dushanbe	Bazaar TJ		64	0	Садбарг, маркази савдо	4.8	https://yandex.kz/maps/org/bazaar_tj/133366140233/	https://2gis.tj/dushanbe/firm/70000001103210339	маркетплейс	False	True
+dushanbe	Wildberries	4.0	8	1	Wildberries, нуқтаи қабули онлайн фармоишҳо	1	https://yandex.kz/maps/org/wildberries/113812171655/	https://2gis.tj/dushanbe/firm/70000001105382517	пункт выдачи	False	True
+dushanbe	Wildberries	4.8	2	1	Wildberries, нуқтаи қабули онлайн фармоишҳо	1.5	https://yandex.kz/maps/org/wildberries/8506218093/	https://2gis.tj/dushanbe/firm/70000001101199993	пункт выдачи	False	True
+dushanbe	Wildberries	3.4	8	1	Wildberries, нуқтаи қабули онлайн фармоишҳо	2.1	https://yandex.kz/maps/org/wildberries/146366925855/	https://2gis.tj/dushanbe/firm/70000001104621975	пункт выдачи	False	True
+dushanbe	Wildberries	4.3	6	1	Wildberries, нуқтаи қабули онлайн фармоишҳо	1	https://yandex.kz/maps/org/wildberries/202555961819/	https://2gis.tj/dushanbe/firm/70000001101019654	пункт выдачи	False	True
+dushanbe	Дарё	4.0	18	0	Liliya, мағозаи гулҳо ва туҳфаҳо		https://yandex.kz/maps/org/daryo/40301477769/	https://2gis.tj/dushanbe/firm/70000001100702550	пункт выдачи	False	True
+dushanbe	Wildberries	4.3	136	0	Маркази 29, мағозаи хӯрокворӣ		https://yandex.kz/maps/org/wildberries/92019236714/	https://2gis.tj/dushanbe/firm/70000001102726969	пункт выдачи	False	True
+dushanbe	Wildberries		104	0	Баракат, мағозаи хӯрокворӣ		https://yandex.kz/maps/org/wildberries/119648486504/	https://2gis.tj/dushanbe/firm/70000001101701538	пункт выдачи	False	True
+dushanbe	Дарё	3.7	5	0	Daryo, нуқтаи супоридани фармоишҳои интернетӣ	3.9	https://yandex.kz/maps/org/daryo/5936820974/	https://2gis.tj/dushanbe/firm/70000001104825568	пункт выдачи	False	True
+dushanbe	Wildberries		2	1	Wildberries, нуқтаи қабули онлайн фармоишҳо	1	https://yandex.kz/maps/org/wildberries/196500159810/	https://2gis.tj/dushanbe/firm/70000001113061247	пункт выдачи	False	True
+dushanbe	Дарё		12	0	KFC, тезтайёр	3.8	https://yandex.kz/maps/org/daryo/34610321160/	https://2gis.tj/dushanbe/firm/70000001101201889	пункт выдачи	False	True
+dushanbe	Пункт выдачи		157	0	Rushon, ширкати савдо		https://yandex.kz/maps/org/punkt_vydachi/7259261577/	https://2gis.tj/dushanbe/firm/70000001103011863	пункт выдачи	False	True
+dushanbe	Wildberries	4.1	3	1	Wildberries, нуқтаи қабули онлайн фармоишҳо	3	https://yandex.kz/maps/org/wildberries/90816439602/	https://2gis.tj/dushanbe/firm/70000001105190039	пункт выдачи	False	True
+dushanbe	Jana Post		3	0	Диёр, супермаркет		https://yandex.kz/maps/org/jana_post/59806991017/	https://2gis.tj/dushanbe/firm/70000001102669677	пункт выдачи	False	True
+dushanbe	Jana Post		97	0	Doner, тезтайёр		https://yandex.kz/maps/org/jana_post/172060208299/	https://2gis.tj/dushanbe/firm/70000001102697063	пункт выдачи	False	True
+dushanbe	Jana Post		15	0	Арзон, мағозаи хӯрокворӣ		https://yandex.kz/maps/org/jana_post/216448696663/	https://2gis.tj/dushanbe/firm/70000001100861030	пункт выдачи	False	True
+dushanbe	Wildberries		2	1	Wildberries, нуқтаи қабули онлайн фармоишҳо	5	https://yandex.kz/maps/org/wildberries/41318268292/	https://2gis.tj/dushanbe/firm/70000001110868478	пункт выдачи	False	True
+dushanbe	Faberlic		94	0	Мариям, мағозаи хӯрокворӣ		https://yandex.kz/maps/org/faberlic/145101767979/	https://2gis.tj/dushanbe/firm/70000001105723044	пункт выдачи	False	True
+dushanbe	A-Store	3.4	10	0	Мағозаи армуғонҳои миллӣ		https://yandex.kz/maps/org/a_store/220351627564/	https://2gis.tj/dushanbe/firm/70000001102676229	пункт выдачи	False	True
+dushanbe	Wildberries		8	1	Wildberries, нуқтаи қабули онлайн фармоишҳо		https://yandex.kz/maps/org/wildberries/24800547910/	https://2gis.tj/dushanbe/firm/70000001105015734	пункт выдачи	False	True
+dushanbe	Jana Post		26	0	Муҳаммад, мағозаи хӯрокворӣ		https://yandex.kz/maps/org/jana_post/76273416399/	https://2gis.tj/dushanbe/firm/70000001102456427	пункт выдачи	False	True
+dushanbe	Jana Post		34	0	Wildberries, нуқтаи қабули онлайн фармоишҳо	1	https://yandex.kz/maps/org/jana_post/14966111206/	https://2gis.tj/dushanbe/firm/70000001105382517	пункт выдачи	False	True
+dushanbe	Jana Post		11	1	Jana post, нуқтaи додани фармоишҳои интернетӣ		https://yandex.kz/maps/org/jana_post/76070888811/	https://2gis.tj/dushanbe/firm/70000001113628976	пункт выдачи	False	True
+isfara	Рынок Паншнбе			0			https://yandex.kz/maps/org/rynok_panshnbe/184539023659/		базар	False	True
+isfara	Центральный рынок	5.0		0			https://yandex.kz/maps/org/tsentralny_rynok/46466041289/		рынок	False	True
+isfara	Навбахор	4.3		0			https://yandex.kz/maps/org/navbakhor/12196931251/		рынок	False	True
+isfara	ТЦ Пайванд	5.0		0			https://yandex.kz/maps/org/tts_payvand/73792884962/		торговый центр	False	True
+isfara	Марҳабо			0			https://yandex.kz/maps/org/103076694392/		торговый центр	False	True
+isfara	Орзу	4.1		0			https://yandex.kz/maps/org/orzu/72825984137/		торговый центр	False	True
+isfara	Шахло	4.2		0			https://yandex.kz/maps/org/shakhlo/193778464731/		торговый центр	False	True
+isfara	Мерос			0			https://yandex.kz/maps/org/meros/3575144452/		торговый центр	False	True
+isfara	Амид	4.3		0			https://yandex.kz/maps/org/amid/231067706079/		супермаркет+магазин	False	True
+isfara	Шифо	4.0		0			https://yandex.kz/maps/org/shifo/149598601697/		супермаркет+магазин	False	True
+isfara	Себзор			0			https://yandex.kz/maps/org/sebzor/225089980299/		супермаркет+магазин	False	True
+isfara	Ширин			0			https://yandex.kz/maps/org/shirin/87285821449/		супермаркет+магазин	False	True
+isfara	Темур			0			https://yandex.kz/maps/org/temur/175676778530/		гипермаркет+магазин	False	True
+isfara	Шерали	4.7		0			https://yandex.kz/maps/org/sherali/220140753413/		интернет-магазин	False	True
+isfara	Шарафчон	4.6		0			https://yandex.kz/maps/org/sharafchon/8606635448/		интернет-магазин	False	True
+isfara	Wildberries	4.7		0			https://yandex.kz/maps/org/wildberries/237704290495/		пункт выдачи	False	True
+isfara	Faberlic			0			https://yandex.kz/maps/org/faberlic/143866549440/		пункт выдачи	False	True
+isfara	LakLak			0			https://yandex.kz/maps/org/laklak/21087587106/		пункт выдачи	False	True
+isfara	Азизчон			0			https://yandex.kz/maps/org/azizchon/132897078034/		сувениры	False	True
+isfara	Hadya			0			https://yandex.kz/maps/org/hadya/83591737874/		сувениры	False	True
+konibodom	Базар Очилбой			0			https://yandex.kz/maps/org/bazar_ochilboy/161243294472/		базар+рынок	False	True
+konibodom	Базар Фаровон	5.0		0			https://yandex.kz/maps/org/bazar_farovon/241785172668/		рынок	False	True
+konibodom	Панчшанбе	4.9		0			https://yandex.kz/maps/org/panchshanbe/17946767077/		рынок	False	True
+konibodom	Асхиё	4.9		0			https://yandex.kz/maps/org/askhiyo/125786050076/		торговый центр	False	True
+konibodom	Садбарг	4.3		0			https://yandex.kz/maps/org/sadbarg/174455263872/		торговый центр	False	True
+konibodom	Гулистон	4.8		0			https://yandex.kz/maps/org/guliston/206024515641/		торговый центр	False	True
+konibodom	Торгово-развлекательный центр Алибой			0			https://yandex.kz/maps/org/torgovo_razvlekatelny_tsentr_aliboy/61494086576/		торговый центр	False	True
+konibodom	Чоррох	4.4		0			https://yandex.kz/maps/org/chorrokh/27693580094/		торговый центр	False	True
+konibodom	Мерос	5.0		0			https://yandex.kz/maps/org/meros/129829094401/		супермаркет+магазин	False	True
+konibodom	Ситора	4.7		0			https://yandex.kz/maps/org/sitora/65958678350/		супермаркет+магазин	False	True
+konibodom	Одилон	4.3		0			https://yandex.kz/maps/org/odilon/139111082032/		супермаркет+магазин	False	True
+konibodom	Одилон	3.9		0			https://yandex.kz/maps/org/221532472553/		супермаркет+магазин	False	True
+konibodom	Супермаркет 24/7	4.4		0			https://yandex.kz/maps/org/supermarket_24_7/131382378037/		супермаркет	False	True
+konibodom	Пурфайз			0			https://yandex.kz/maps/org/purfayz/236666225523/		гипермаркет	False	True
+konibodom	Истиклол	4.4		0			https://yandex.kz/maps/org/istiklol/198008952530/		магазин	False	False
+konibodom	Магазин продуктов	4.4		0			https://yandex.kz/maps/org/magazin_produktov/183178310422/		магазин	False	False
+konibodom	Самира	4.7		0			https://yandex.kz/maps/org/samira/106345920332/		магазин	False	False
+konibodom	Таги бед	4.4		0			https://yandex.kz/maps/org/tagi_bed/109088009962/		магазин	False	False
+konibodom	Сарвар	4.0		0			https://yandex.kz/maps/org/sarvar/93499602691/		магазин	False	False
+konibodom	Tamish Shop			0			https://yandex.kz/maps/org/tamish_shop/139709203880/		магазин	False	False
+konibodom	Tajburger			0			https://yandex.kz/maps/org/tajburger/32042632321/		магазин	False	False
+konibodom	Продукты	4.4		0			https://yandex.kz/maps/org/produkty/181872265258/		магазин	False	False
+konibodom	Продукты	4.3		0			https://yandex.kz/maps/org/produkty/161139281768/		магазин	False	False
+konibodom	Дилноза	4.3		0			https://yandex.kz/maps/org/dilnoza/38869188136/		магазин	False	False
+konibodom	Продукты			0			https://yandex.kz/maps/org/produkty/4197003937/		магазин	False	False
+konibodom	Продукты			0			https://yandex.kz/maps/org/produkty/178654808302/		магазин	False	False
+konibodom	Продукты			0			https://yandex.kz/maps/org/produkty/146811878478/		магазин	False	False
+konibodom	Салимбой			0			https://yandex.kz/maps/org/salimboy/19252226884/		магазин	False	False
+konibodom	Продукты	4.1		0			https://yandex.kz/maps/org/produkty/122182281319/		магазин	False	False
+konibodom	Бишарифа			0			https://yandex.kz/maps/org/bisharifa/160354601974/		магазин	False	False
+konibodom	Кахрамон ако	4.5		0			https://yandex.kz/maps/org/kakhramon_ako/5931879622/		магазин	False	False
+konibodom	Фаррух			0			https://yandex.kz/maps/org/farrukh/122121170658/		магазин	False	False
+konibodom	Мумин	4.2		0			https://yandex.kz/maps/org/mumin/138940681224/		магазин	False	False
+konibodom	Wildberries	4.6		0			https://yandex.kz/maps/org/wildberries/225071191012/		пункт выдачи	False	True
+konibodom	LakLak			0			https://yandex.kz/maps/org/laklak/51223339953/		пункт выдачи	False	True
+konibodom	Азизчон			0			https://yandex.kz/maps/org/azizchon/132897078034/		сувениры	False	True
+kulob	Телефон			0			https://yandex.kz/maps/org/telefon/232788962511/		базар+рынок	False	True
+kulob	Саховат	4.5		0			https://yandex.kz/maps/org/sakhovat/213566428137/		рынок	False	True
+kulob	Сомони	4.4		0			https://yandex.kz/maps/org/somoni/154565761515/		рынок	False	True
+kulob	Продуктовый рынок	4.0		0			https://yandex.kz/maps/org/produktovy_rynok/19557306355/		рынок	False	True
+kulob	Хафтбародарон	4.5		0			https://yandex.kz/maps/org/khaftbarodaron/222933618277/		торговый центр	False	True
+kulob	Кулоб			0			https://yandex.kz/maps/org/kulob/53147611665/		торговый центр	False	True
+kulob	Бахром			0			https://yandex.kz/maps/org/bakhrom/56372998291/		торговый центр	False	True
+kulob	Лола			0			https://yandex.kz/maps/org/lola/212074135187/		торговый центр	False	True
+kulob	Гайрат			0			https://yandex.kz/maps/org/gayrat/33080328915/		торговый центр	False	True
+kulob	Ёвар	4.0		0			https://yandex.kz/maps/org/yovar/119441187937/		супермаркет+магазин	False	True
+kulob	Минимаркет			0			https://yandex.kz/maps/org/minimarket/97640407278/		супермаркет+магазин	False	True
+kulob	Дастрас			0			https://yandex.kz/maps/org/dastras/59304059258/		супермаркет+магазин	False	True
+kulob	Би1			0			https://yandex.kz/maps/org/bi1/62887376427/		супермаркет+магазин	False	True
+kulob	Супермаркет			0			https://yandex.kz/maps/org/supermarket/243032135557/		супермаркет+магазин	False	True
+kulob	Бадахшон	4.3		0			https://yandex.kz/maps/org/badakhshon/7063203589/		супермаркет+магазин	False	True
+kulob	Нур			0			https://yandex.kz/maps/org/nur/181820090529/		супермаркет+магазин	False	True
+kulob	Дороб	4.2		0			https://yandex.kz/maps/org/dorob/4520448418/		супермаркет	False	True
+kulob	Продукты			0			https://yandex.kz/maps/org/produkty/239628095332/		магазин	False	False
+kulob	Хочи Хоким	4.5		0			https://yandex.kz/maps/org/khochi_khokim/216734661925/		магазин	False	False
+kulob	Продукты			0			https://yandex.kz/maps/org/produkty/136178237299/		магазин	False	False
+kulob	Магазин продуктов рядом			0			https://yandex.kz/maps/org/magazin_produktov_ryadom/43636845064/		магазин	False	False
+kulob	Магазин			0			https://yandex.kz/maps/org/magazin/137250184207/		магазин	False	False
+kulob	Махсус	4.3		0			https://yandex.kz/maps/org/makhsus/216925782083/		магазин	False	False
+kulob	Исмат	4.7		0			https://yandex.kz/maps/org/ismat/87433935826/		магазин	False	False
+kulob	Продукты			0			https://yandex.kz/maps/org/produkty/117719003393/		магазин	False	False
+kulob	Продукты			0			https://yandex.kz/maps/org/produkty/65873867421/		магазин	False	False
+kulob	Даврон			0			https://yandex.kz/maps/org/davron/242182900177/		магазин	False	False
+kulob	Продукты			0			https://yandex.kz/maps/org/produkty/206604990136/		магазин	False	False
+kulob	Шохрухи раис			0			https://yandex.kz/maps/org/shokhrukhi_rais/240004102065/		магазин	False	False
+kulob	Продукты			0			https://yandex.kz/maps/org/produkty/192544043233/		магазин	False	False
+kulob	Мухаммад			0			https://yandex.kz/maps/org/mukhammad/172902050221/		магазин	False	False
+kulob	Имрон			0			https://yandex.kz/maps/org/imron/227597830634/		магазин	False	False
+kulob	Продукты			0			https://yandex.kz/maps/org/produkty/41975477916/		магазин	False	False
+kulob	Хабиб			0			https://yandex.kz/maps/org/khabib/42239471084/		магазин	False	False
+kulob	Дарë			0			https://yandex.kz/maps/org/dar_/125700889973/		пункт выдачи	False	True
+kulob	LakLak			0			https://yandex.kz/maps/org/laklak/212642938944/		пункт выдачи	False	True
+kulob	LakLak			0			https://yandex.kz/maps/org/laklak/159717414682/		пункт выдачи	False	True
+kulob	LakLak			0			https://yandex.kz/maps/org/laklak/140618344536/		пункт выдачи	False	True
+kulob	LakLak			0			https://yandex.kz/maps/org/laklak/86792601060/		пункт выдачи	False	True
+kulob	LakLak			0			https://yandex.kz/maps/org/laklak/174514023166/		пункт выдачи	False	True
+khatlon-province	Базар Ходжи Зайнулло	4.9		0			https://yandex.kz/maps/org/bazar_khodzhi_zaynullo/160320248829/		базар	False	True
+khatlon-province	Ходжи Шариф	5.0		0			https://yandex.kz/maps/org/khodzhi_sharif/78668058085/		базар+рынок	False	True
+khatlon-province	Продуктовый рынок	4.8		0			https://yandex.kz/maps/org/produktovy_rynok/153677651734/		базар	False	True
+khatlon-province	Базар Сешанбе			0			https://yandex.kz/maps/org/bazar_seshanbe/149938350385/		базар	False	True
+khatlon-province	Фаровон	5.0		0			https://yandex.kz/maps/org/farovon/128158733277/		базар+рынок	False	True
+khatlon-province	Базар			0			https://yandex.kz/maps/org/bazar/78199513180/		базар	False	True
+khatlon-province	Базар Чоршанбе			0			https://yandex.kz/maps/org/bazar_chorshanbe/225750679840/		базар	False	True
+khatlon-province	Зеленый рынок Каёнуш	4.5		0			https://yandex.kz/maps/org/zeleny_rynok_kayonush/182360029051/		базар+рынок	False	True
+khatlon-province	Базар			0			https://yandex.kz/maps/org/bazar/43992551910/		базар	False	True
+khatlon-province	Продуктовый рынок	4.7		0			https://yandex.kz/maps/org/produktovy_rynok/22258925880/		рынок	False	True
+khatlon-province	Продуктовый рынок	4.9		0			https://yandex.kz/maps/org/produktovy_rynok/179100692274/		рынок	False	True
+khatlon-province	Садбарг	4.9	12	1	Садбарг, маркази савдо	4.8	https://yandex.kz/maps/org/sadbarg/82082493166/	https://2gis.tj/dushanbe/firm/70000001103210339	торговый центр	False	True
+khatlon-province	Душанбе Молл	4.7	43	0	Max biff burger, тезтайёр		https://yandex.kz/maps/org/dushanbe_moll/10654459377/	https://2gis.tj/dushanbe/firm/70000001100787284	торговый центр	False	True
+khatlon-province	Сиёма Молл	4.8	12	0	Хонаи ман, мағозаи мебел ва молҳои рӯзғор		https://yandex.kz/maps/org/siyoma_moll/221793724068/	https://2gis.tj/dushanbe/firm/70000001102760826	торговый центр	False	True
+khatlon-province	Мехргон	5.0	3	1	Меҳргон, бозор	4.5	https://yandex.kz/maps/org/mekhrgon/221813042483/	https://2gis.tj/dushanbe/firm/70000001100697766	торговый центр	False	True
+khatlon-province	Саодат	4.0	13	0	Tomiris home, мағозаи молҳои рахти хоб		https://yandex.kz/maps/org/saodat/37086257384/	https://2gis.tj/dushanbe/firm/70000001101334119	торговый центр	False	True
+khatlon-province	Муниса	4.4	13	1	Муниса, маркази савдо		https://yandex.kz/maps/org/munisa/66115462825/	https://2gis.tj/dushanbe/firm/70000001100710737	торговый центр	False	True
+khatlon-province	Баракат Плаза	4.6	4	0	Пайкар, маркази савдо	5	https://yandex.kz/maps/org/barakat_plaza/23364772455/	https://2gis.tj/dushanbe/firm/70030077011686197	торговый центр	False	True
+khatlon-province	Торговый центр	3.9		0			https://yandex.kz/maps/org/torgovy_tsentr/236264490502/		торговый центр	False	True
+khatlon-province	Таджикистан	4.3	7	0	Тоҷикистон, маркази савдо	4.3	https://yandex.kz/maps/org/tadzhikistan/19869891947/	https://2gis.tj/dushanbe/firm/70000001111527966	торговый центр	False	True
+khatlon-province	Кохи Нур	5.0		0			https://yandex.kz/maps/org/kokhi_nur/156946057399/		торговый центр	False	True
+khatlon-province	Баракат	4.2	23	0	Avon, нуқтаи қабули онлайн фармоишҳо		https://yandex.kz/maps/org/barakat/190196607657/	https://2gis.tj/dushanbe/firm/70000001103824467	торговый центр	False	True
+khatlon-province	Аниса	4.0	5	1	Аниса, маркази савдо		https://yandex.kz/maps/org/anisa/48658586135/	https://2gis.tj/dushanbe/firm/70000001110978353	торговый центр	False	True
+khatlon-province	Торговый центр Муллиён	4.4	10	0	Мағозаи туҳфаҳо		https://yandex.kz/maps/org/torgovy_tsentr_mulliyon/39758366129/	https://2gis.tj/dushanbe/firm/70000001111194085	торговый центр	False	True
+khatlon-province	Ситора	4.1	6	0	Sitora, маркази савдо		https://yandex.kz/maps/org/sitora/109172581300/	https://2gis.tj/dushanbe/firm/70000001110978362	торговый центр	False	True
+khatlon-province	Марва	4.8	11	1	Марва, маркази фурӯши		https://yandex.kz/maps/org/marva/120787949599/	https://2gis.tj/dushanbe/firm/70000001111434631	торговый центр	False	True
+khatlon-province	Торговый дом Авранг	4.4	22	0	Авранг, маркази савдо		https://yandex.kz/maps/org/torgovy_dom_avrang/229136548983/	https://2gis.tj/dushanbe/firm/70030077008920596	торговый центр	False	True
+khatlon-province	Торговый Центр Садбарг	4.4	45	0	Tomiris home, мағозаи молҳои рахти хоб		https://yandex.kz/maps/org/torgovy_tsentr_sadbarg/192187631216/	https://2gis.tj/dushanbe/firm/70000001103008157	торговый центр	False	True
+khatlon-province	Ватан Молл	4.4	30	0	Adraschi, мағозаи либосҳои миллии занона		https://yandex.kz/maps/org/vatan_moll/163069895003/	https://2gis.tj/dushanbe/firm/70000001101283394	торговый центр	False	True
+khatlon-province	Торговый центр Олимджон	4.5		0			https://yandex.kz/maps/org/torgovy_tsentr_olimdzhon/232105378560/		торговый центр	False	True
+khatlon-province	Детский мир	4.7		0			https://yandex.kz/maps/org/detskiy_mir/212204915258/		торговый центр	False	True
+khatlon-province	7 Ахтар	4.4	10	0	Бозори хурд		https://yandex.kz/maps/org/7_akhtar/88269984941/	https://2gis.tj/dushanbe/firm/70000001104073068	торговый центр	False	True
+khatlon-province	Торговый центр	4.3		0			https://yandex.kz/maps/org/torgovy_tsentr/26396805496/		торговый центр	False	True
+khatlon-province	Торговый центр Ёкут 2000	1.8	76	0	Манор, супермаркет		https://yandex.kz/maps/org/torgovy_tsentr_yokut_2000/244856735939/	https://2gis.tj/dushanbe/firm/70000001104909741	торговый центр	False	True
+khatlon-province	Торговый центр Бародарон	4.4		0			https://yandex.kz/maps/org/torgovy_tsentr_barodaron/201957092612/		торговый центр	False	True
+khatlon-province	Пайкар	4.9	1	0	Мадагаскар, маркази дилхушии кӯдакон		https://yandex.kz/maps/org/paykar/6369438383/	https://2gis.tj/dushanbe/firm/70000001102011850	супермаркет+интернет-магазин+магазин	False	True
+khatlon-province	Би1	4.8	5	0	Wedrink, нуқтаи фурӯши яхмосҳо вa бабл ти	4	https://yandex.kz/maps/org/bi1/60481304538/	https://2gis.tj/dushanbe/firm/70000001109765039	супермаркет+интернет-магазин+магазин	False	True
+khatlon-province	Пайкар	4.9	5	1	Пайкар, супермaркет	4.3	https://yandex.kz/maps/org/paykar/157772314242/	https://2gis.tj/dushanbe/firm/70000001102693929	супермаркет	False	True
+khatlon-province	Ёвар	4.8		0			https://yandex.kz/maps/org/yovar/103276630635/		супермаркет	False	True
+khatlon-province	Пайкар	4.5	160	0	Алмая, минимаркет		https://yandex.kz/maps/org/paykar/55038028092/	https://2gis.tj/dushanbe/firm/70000001101502277	супермаркет+интернет-магазин+магазин	False	True
+khatlon-province	Пайкар	4.9	36	1	Пайкар, супермaркет	3.5	https://yandex.kz/maps/org/paykar/68712914947/	https://2gis.tj/dushanbe/firm/70000001100829713	супермаркет+интернет-магазин+магазин	False	True
+khatlon-province	Ёвар	4.9		0			https://yandex.kz/maps/org/yovar/136513975000/		супермаркет	False	True
+khatlon-province	8 Mart	4.0	14	0	Rudaki plaza, маркази маъмурӣ тиҷоратӣ	5	https://yandex.kz/maps/org/8_mart/96830259664/	https://2gis.tj/dushanbe/firm/70000001103310267	супермаркет	False	True
+khatlon-province	Пайкар	4.9	6	1	Пайкар, супермaркет	5	https://yandex.kz/maps/org/paykar/92681957587/	https://2gis.tj/dushanbe/firm/70000001101994648	супермаркет+магазин	False	True
+khatlon-province	Пайкар	4.4	2	1	Пайкар, супермaркет	2.8	https://yandex.kz/maps/org/paykar/226533422558/	https://2gis.tj/dushanbe/firm/70000001101232626	супермаркет	False	True
+khatlon-province	Ёвар	4.5	25	1	Ёвар, супермаркети гушт	5	https://yandex.kz/maps/org/yovar/47565423135/	https://2gis.tj/dushanbe/firm/70000001103660478	супермаркет+интернет-магазин+магазин	False	True
+khatlon-province	Ёвар	4.2	3	1	Ёвар, супермаркет	3.7	https://yandex.kz/maps/org/yovar/208923459239/	https://2gis.tj/dushanbe/firm/70000001101423724	супермаркет+интернет-магазин+магазин	False	True
+khatlon-province	Ёвар	4.4	7	1	Ёвар, супермаркет	4.2	https://yandex.kz/maps/org/yovar/104000653984/	https://2gis.tj/dushanbe/firm/70000001101473835	супермаркет	False	True
+khatlon-province	Пайкар	4.7	5	1	Пайкар, супермaркет	4.6	https://yandex.kz/maps/org/paykar/231118673547/	https://2gis.tj/dushanbe/firm/70000001100759615	супермаркет	False	True
+khatlon-province	Релакс	4.6	2	0	Relax, супермаркет	5	https://yandex.kz/maps/org/relaks/79320204829/	https://2gis.tj/dushanbe/firm/70000001101193405	супермаркет	False	True
+khatlon-province	Ёвар	4.3	6	1	Ёвар, супермаркет	4.1	https://yandex.kz/maps/org/yovar/18722414216/	https://2gis.tj/dushanbe/firm/70000001102206774	супермаркет+интернет-магазин+магазин	False	True
+khatlon-province	Релакс	4.1	25	0	Relax, супермаркет	5	https://yandex.kz/maps/org/relaks/65955836791/	https://2gis.tj/dushanbe/firm/70000001101766384	супермаркет	False	True
+khatlon-province	Супермаркет Шохон	4.4	12	0	Шоҳона, супермаркет	5	https://yandex.kz/maps/org/supermarket_shokhon/11287912009/	https://2gis.tj/dushanbe/firm/70000001101773885	супермаркет+интернет-магазин+магазин	False	True
+khatlon-province	Минимаркет Ашан	4.6	54	0	Jana post, нуқтaи додани фармоишҳои интернетӣ	3.7	https://yandex.kz/maps/org/minimarket_ashan/208732589140/	https://2gis.tj/dushanbe/firm/70000001104581033	супермаркет	False	True
+khatlon-province	Ёвар	4.7	4	1	Ёвар, супермаркет	1.7	https://yandex.kz/maps/org/yovar/115533418974/	https://2gis.tj/dushanbe/firm/70000001101139271	супермаркет	False	True
+khatlon-province	Ёвар	4.5	14	1	Ёвар, супермаркет	4.2	https://yandex.kz/maps/org/yovar/46206116707/	https://2gis.tj/dushanbe/firm/70000001102591088	супермаркет	False	True
+khatlon-province	Ёвар	3.8	6	1	Ёвар, супермаркет	4.2	https://yandex.kz/maps/org/yovar/87365631083/	https://2gis.tj/dushanbe/firm/70000001101586453	супермаркет	False	True
+khatlon-province	Ёвар	4.3	41	1	Ёвар, супермаркет	4.2	https://yandex.kz/maps/org/yovar/163848974861/	https://2gis.tj/dushanbe/firm/70000001102700155	супермаркет	False	True
+khatlon-province	Супермаркет Шохмансур	4.1	3	0	Шоҳҷамол, супермаркет		https://yandex.kz/maps/org/supermarket_shokhmansur/140867992717/	https://2gis.tj/dushanbe/firm/70000001101956759	супермаркет	False	True
+khatlon-province	Зарафшон сити	4.6	4	0	Зарафшон, супермаркет		https://yandex.kz/maps/org/zarafshon_siti/192968944749/	https://2gis.tj/dushanbe/firm/70000001101425153	супермаркет	False	True
+khatlon-province	Пайкар	4.3	10	1	Пайкар, супермaркет	2.8	https://yandex.kz/maps/org/paykar/140093525050/	https://2gis.tj/dushanbe/firm/70000001101595670	гипермаркет+интернет-магазин+магазин	False	True
+khatlon-province	Кахор маркет			0			https://yandex.kz/maps/org/kakhor_market/33544395104/		гипермаркет	False	True
+khatlon-province	Фирменный магазин Таджикматлубот		47	0	Daryo, нуқтаи супоридани фармоишҳои интернетӣ	3.9	https://yandex.kz/maps/org/firmenny_magazin_tadzhikmatlubot/63296669436/	https://2gis.tj/dushanbe/firm/70000001103337870	гипермаркет	False	True
+khatlon-province	Дастрас		55	1	Дастрас, супермаркет	3.5	https://yandex.kz/maps/org/dastras/118757178593/	https://2gis.tj/dushanbe/firm/70000001111435598	гипермаркет	False	True
+khatlon-province	Ёвар	4.6	3	1	Ёвар, супермаркет	5	https://yandex.kz/maps/org/yovar/126551156901/	https://2gis.tj/dushanbe/firm/70000001101736941	интернет-магазин+магазин	False	True
+khatlon-province	Диёр	4.5	3	1	Диёр, супермаркет	3.6	https://yandex.kz/maps/org/diyor/156055333250/	https://2gis.tj/dushanbe/firm/70000001101151635	интернет-магазин+магазин	False	True
+khatlon-province	Садия	4.5	13	1	Садия, минимаркет		https://yandex.kz/maps/org/sadiya/137386396991/	https://2gis.tj/dushanbe/firm/70000001110916609	интернет-магазин+магазин	False	True
+khatlon-province	Ёсин	4.9	28	0	Faberlic, нуқтаи қабули онлайн фармоишҳо		https://yandex.kz/maps/org/yosin/87578509592/	https://2gis.tj/dushanbe/firm/70000001102719357	интернет-магазин+магазин	False	True
+khatlon-province	Гипрозем	5.0	91	0	Мағозаи хӯрокворӣ		https://yandex.kz/maps/org/giprozem/63605772441/	https://2gis.tj/dushanbe/firm/70000001104030130	интернет-магазин	False	True
+khatlon-province	Пойтахт	4.3	3	1	Пойтахт, минимаркет		https://yandex.kz/maps/org/poytakht/200167922140/	https://2gis.tj/dushanbe/firm/70000001100683882	интернет-магазин+магазин	False	True
+khatlon-province	Фирменный магазин Форель	4.4	26	0	Об, супермаркет		https://yandex.kz/maps/org/firmenny_magazin_forel/239803105335/	https://2gis.tj/dushanbe/firm/70000001102333554	интернет-магазин	False	True
+khatlon-province	Продукты 24 часа	4.9		0			https://yandex.kz/maps/org/produkty_24_chasa/72695938364/		интернет-магазин+магазин	False	True
+khatlon-province	Sedal Uz	5.0		0			https://yandex.kz/maps/org/sedal_uz/129106205275/		интернет-магазин	False	True
+khatlon-province	Дирам	4.8	189	0	Муҳаммад, супермаркет		https://yandex.kz/maps/org/diram/30717650927/	https://2gis.tj/dushanbe/firm/70000001102232212	интернет-магазин	False	True
+khatlon-province	Ёвар	4.7	13	1	Ёвар, супермаркети гушт	5	https://yandex.kz/maps/org/yovar/235567201303/	https://2gis.tj/dushanbe/firm/70000001103660478	интернет-магазин	False	True
+khatlon-province	Wildberries	4.0	8	1	Wildberries, нуқтаи қабули онлайн фармоишҳо	1	https://yandex.kz/maps/org/wildberries/113812171655/	https://2gis.tj/dushanbe/firm/70000001105382517	пункт выдачи	False	True
+khatlon-province	Wildberries	4.8	2	1	Wildberries, нуқтаи қабули онлайн фармоишҳо	1.5	https://yandex.kz/maps/org/wildberries/8506218093/	https://2gis.tj/dushanbe/firm/70000001101199993	пункт выдачи	False	True
+khatlon-province	Дарё	2.7		0			https://yandex.kz/maps/org/daryo/78187751543/		пункт выдачи	False	True
+khatlon-province	Wildberries	3.4	8	1	Wildberries, нуқтаи қабули онлайн фармоишҳо	2.1	https://yandex.kz/maps/org/wildberries/146366925855/	https://2gis.tj/dushanbe/firm/70000001104621975	пункт выдачи	False	True
+khatlon-province	Wildberries	4.3	6	1	Wildberries, нуқтаи қабули онлайн фармоишҳо	1	https://yandex.kz/maps/org/wildberries/202555961819/	https://2gis.tj/dushanbe/firm/70000001101019654	пункт выдачи	False	True
+khatlon-province	Wildberries	4.4		0			https://yandex.kz/maps/org/wildberries/194119444044/		пункт выдачи	False	True
+khatlon-province	Uzum Market	5.0		0			https://yandex.kz/maps/org/uzum_market/7605274403/		пункт выдачи	False	True
+khatlon-province	Wildberries	4.3	136	0	Маркази 29, мағозаи хӯрокворӣ		https://yandex.kz/maps/org/wildberries/92019236714/	https://2gis.tj/dushanbe/firm/70000001102726969	пункт выдачи	False	True
+khatlon-province	Дарё	4.0	18	0	Liliya, мағозаи гулҳо ва туҳфаҳо		https://yandex.kz/maps/org/daryo/40301477769/	https://2gis.tj/dushanbe/firm/70000001100702550	пункт выдачи	False	True
+khatlon-province	Wildberries	3.9		0			https://yandex.kz/maps/org/wildberries/189093114600/		пункт выдачи	False	True
+khatlon-province	Дарё			0			https://yandex.kz/maps/org/daryo/210595710183/		пункт выдачи	False	True
+khatlon-province	Дарë			0			https://yandex.kz/maps/org/dar_/125700889973/		пункт выдачи	False	True
+khatlon-province	Дарё			0			https://yandex.kz/maps/org/daryo/125604521803/		пункт выдачи	False	True
+khatlon-province	Wildberries		104	0	Баракат, мағозаи хӯрокворӣ		https://yandex.kz/maps/org/wildberries/119648486504/	https://2gis.tj/dushanbe/firm/70000001101701538	пункт выдачи	False	True
+khatlon-province	Дарё	3.7	5	0	Daryo, нуқтаи супоридани фармоишҳои интернетӣ	3.9	https://yandex.kz/maps/org/daryo/5936820974/	https://2gis.tj/dushanbe/firm/70000001104825568	пункт выдачи	False	True
+khatlon-province	Алибобо	3.5	16	0	Faberlic, нуқтаи қабули онлайн фармоишҳо		https://yandex.kz/maps/org/alibobo/197436803346/	https://2gis.tj/dushanbe/firm/70000001100582953	пункт выдачи+маркетплейс	False	True
+khatlon-province	Wildberries	4.1	3	1	Wildberries, нуқтаи қабули онлайн фармоишҳо	3	https://yandex.kz/maps/org/wildberries/90816439602/	https://2gis.tj/dushanbe/firm/70000001105190039	пункт выдачи	False	True
+khatlon-province	Faberlic		94	0	Мариям, мағозаи хӯрокворӣ		https://yandex.kz/maps/org/faberlic/145101767979/	https://2gis.tj/dushanbe/firm/70000001105723044	пункт выдачи	False	True
+khatlon-province	Jana Post			0			https://yandex.kz/maps/org/jana_post/164665064622/		пункт выдачи	False	True
+khatlon-province	Uzum Market	4.9		0			https://yandex.kz/maps/org/uzum_market/159080720425/		пункт выдачи	False	True
+khatlon-province	Дарё		12	0	KFC, тезтайёр	3.8	https://yandex.kz/maps/org/daryo/34610321160/	https://2gis.tj/dushanbe/firm/70000001101201889	пункт выдачи	False	True
+khatlon-province	Wildberries			0			https://yandex.kz/maps/org/wildberries/96733127331/		пункт выдачи	False	True
+khatlon-province	Noor Art Gallery	4.1	53	1	Noor art gallery, мағозаи тӯҳфаҳо		https://yandex.kz/maps/org/noor_art_gallery/20767056431/	https://2gis.tj/dushanbe/firm/70000001115644975	сувениры	False	True
+khatlon-province	Sou So	4.7	50	0	Садия, минимаркет		https://yandex.kz/maps/org/sou_so/212160828795/	https://2gis.tj/dushanbe/firm/70000001110916609	сувениры	False	True
+khatlon-province	Zoda Art Gallery	4.2	7	0	Eastera		https://yandex.kz/maps/org/zoda_art_gallery/194731071772/	https://2gis.tj/dushanbe/firm/70000001113191445	сувениры	False	True
+khatlon-province	President business gifts		4	0	President, мағозаи тӯҳфаҳо		https://yandex.kz/maps/org/president_business_gifts/207703386082/	https://2gis.tj/dushanbe/firm/70000001102823888	сувениры	False	True
+khatlon-province	Bookmark	5.0		0			https://yandex.kz/maps/org/bookmark/23335652526/		сувениры	False	True
+khatlon-province	Шарк	4.4	9	0	Mangal by mavlon, тезтайёр	5	https://yandex.kz/maps/org/shark/126382705014/	https://2gis.tj/dushanbe/firm/70000001113383499	сувениры	False	True
+khatlon-province	Gift and souvenir shop		9	0	Самбуса Азиз, самбӯсахона		https://yandex.kz/maps/org/gift_and_souvenir_shop/189312199736/	https://2gis.tj/dushanbe/firm/70000001102014153	сувениры	False	True
+khatlon-province	Ганджина		4	0	Ганҷина, галерея		https://yandex.kz/maps/org/gandzhina/72330449317/	https://2gis.tj/dushanbe/firm/70000001100919898	сувениры	False	True
+khatlon-province	Шарк		1	0	Mangal by mavlon, тезтайёр	5	https://yandex.kz/maps/org/shark/240955746411/	https://2gis.tj/dushanbe/firm/70000001113383499	сувениры	False	True
+khatlon-province	Таджикский сувенирный магазин		11	0	Мағозаи армуғонҳои миллӣ		https://yandex.kz/maps/org/tadzhikskiy_suvenirny_magazin/218996517999/	https://2gis.tj/dushanbe/firm/70000001102921266	сувениры	False	True
+khatlon-province	Армугон		9	0	Оиша, мағозаи хӯрокворӣ		https://yandex.kz/maps/org/armugon/137071941076/	https://2gis.tj/dushanbe/firm/70000001116997360	сувениры	False	True
+khatlon-province	Exclusive Gifts		8	0	Эмом, маркази савдо		https://yandex.kz/maps/org/exclusive_gifts/138111893930/	https://2gis.tj/dushanbe/firm/70030077007425517	сувениры	False	True
+khatlon-province	Магазин восточных сувениров		6	0	Тезтайёр		https://yandex.kz/maps/org/magazin_vostochnykh_suvenirov/62041301040/	https://2gis.tj/dushanbe/firm/70000001100702524	сувениры	False	True
+khatlon-province	Сувенирный магазин			0			https://yandex.kz/maps/org/suvenirny_magazin/9232496263/		сувениры	False	True
+khatlon-province	Панда		11	0	Шаурмачи, тезтаёр		https://yandex.kz/maps/org/panda/120620449536/	https://2gis.tj/dushanbe/firm/70000001102244846	сувениры	False	True
+khatlon-province	Подарки			0			https://yandex.kz/maps/org/podarki/203610768806/		сувениры	False	True
+khatlon-province	Рухом	4.4	1	0	Галерия Rukhom, олами сангҳо		https://yandex.kz/maps/org/rukhom/122224657167/	https://2gis.tj/dushanbe/firm/70000001100816518	сувениры	False	True
+khatlon-province	Gift and souvenir shop		8	0	Ёвар, супермаркет		https://yandex.kz/maps/org/gift_and_souvenir_shop/188023123943/	https://2gis.tj/dushanbe/firm/70000001101138048	сувениры	False	True
+khatlon-province	Podarki Toj		66	0	Tomiris home, мағозаи молҳои рахти хоб		https://yandex.kz/maps/org/podarki_toj/233270503036/	https://2gis.tj/dushanbe/firm/70000001103008157	сувениры	False	True
+khatlon-province	Jasmine Gifts		36	0	Max biff burger, тезтайёр		https://yandex.kz/maps/org/jasmine_gifts/105873703434/	https://2gis.tj/dushanbe/firm/70000001100787284	сувениры	False	True
+khatlon-province	Магазин именных подарков Суратгирхона		66	0	Саёҳ, тезтайёр		https://yandex.kz/maps/org/magazin_imennykh_podarkov_suratgirkhona/245621029894/	https://2gis.tj/dushanbe/firm/70000001102213624	сувениры	False	True
+khatlon-province	Сувениры Таджикистана		13	0	Орзу, мағозаи хӯрокворӣ		https://yandex.kz/maps/org/suveniry_tadzhikistana/228850203786/	https://2gis.tj/dushanbe/firm/70000001101017841	сувениры	False	True
+khatlon-province	Душанбе Принт		21	0	Садбарг, маркази савдо	4.8	https://yandex.kz/maps/org/dushanbe_print/233670730747/	https://2gis.tj/dushanbe/firm/70000001103210339	сувениры	False	True
+khatlon-province	Сувениры		27	0	Esmanur store, мағозат либосҳои миллӣ		https://yandex.kz/maps/org/suveniry/48448847375/	https://2gis.tj/dushanbe/firm/70000001109926614	сувениры	False	True
+nurek	Продуктовый рынок	4.8		0			https://yandex.kz/maps/org/produktovy_rynok/153677651734/		базар	False	True
+nurek	Бозори анор			0			https://yandex.kz/maps/org/bozori_anor/213080336459/		базар+рынок	False	True
+nurek	Бозори маркази Нохияи Ëвон	4.4		0			https://yandex.kz/maps/org/bozori_markazi_nokhiyai_von/5601124573/		базар	False	True
+nurek	Продуктовый рынок	4.0		0			https://yandex.kz/maps/org/produktovy_rynok/83909579194/		рынок	False	True
+nurek	Продуктовый рынок			0			https://yandex.kz/maps/org/produktovy_rynok/34466891640/		рынок	False	True
+nurek	Магазин Панчруд	3.3	14	0	Панҷруд, мағозаи хӯрокворӣ		https://yandex.kz/maps/org/magazin_panchrud/124274047768/	https://2gis.tj/dushanbe/firm/70000001103293020	торговый центр	False	True
+nurek	7 Авранг			0			https://yandex.kz/maps/org/7_avrang/95885518102/		торговый центр	False	True
+nurek	Торгово-сервисный центр Нилуфар	4.4	5	0	Баҳор, мағoзаи хӯрокворӣ		https://yandex.kz/maps/org/torgovo_servisny_tsentr_nilufar/37990594988/	https://2gis.tj/dushanbe/firm/70000001103485395	торговый центр	False	True
+nurek	Гастроном			0			https://yandex.kz/maps/org/gastronom/166621132273/		супермаркет+магазин	False	True
+nurek	Электрон	4.1		0			https://yandex.kz/maps/org/elektron/156499143920/		магазин	False	False
+nurek	Шоми кафдон			0			https://yandex.kz/maps/org/shomi_kafdon/145877148611/		магазин	False	False
+nurek	Шафоат			0			https://yandex.kz/maps/org/shafoat/65424890820/		магазин	False	False
+nurek	Wildberries			0			https://yandex.kz/maps/org/wildberries/142647600790/		пункт выдачи	False	True
+nurek	Jana Post			0			https://yandex.kz/maps/org/jana_post/67327304075/		пункт выдачи	False	True
+nurek	Сувенирный магазин			0			https://yandex.kz/maps/org/suvenirny_magazin/9232496263/		сувениры	False	True
+pendjikent	Дусти	4.8		0			https://yandex.kz/maps/org/dusti/112757821241/		базар+рынок	False	True
+pendjikent	Центральный рынок Пенджикент	4.9		0			https://yandex.kz/maps/org/tsentralny_rynok_pendzhikent/52363815385/		базар+рынок	False	True
+pendjikent	Мол бозор	3.5		0			https://yandex.kz/maps/org/mol_bozor/135768837329/		базар+рынок	False	True
+pendjikent	Нусратулло Шаб-Бозор			0			https://yandex.kz/maps/org/nusratullo_shab_bozor/154443314754/		рынок	False	True
+pendjikent	Торговый центр			0			https://yandex.kz/maps/org/torgovy_tsentr/207679791286/		торговый центр	False	True
+pendjikent	Алишер			0			https://yandex.kz/maps/org/alisher/227819324561/		торговый центр	False	True
+pendjikent	Причуда	4.4		0			https://yandex.kz/maps/org/prichuda/178732462059/		супермаркет+магазин	False	True
+pendjikent	Умариён	4.3		0			https://yandex.kz/maps/org/umariyon/210050152575/		супермаркет+магазин	False	True
+pendjikent	Сумая	4.1		0			https://yandex.kz/maps/org/sumaya/48547136992/		супермаркет+магазин	False	True
+pendjikent	Продукты			0			https://yandex.kz/maps/org/produkty/74683407566/		супермаркет+магазин	False	True
+pendjikent	Asr Market	4.5		0			https://yandex.kz/maps/org/asr_market/186991072520/		гипермаркет	False	True
+pendjikent	Шахло	4.7		0			https://yandex.kz/maps/org/162595646465/		магазин	False	False
+pendjikent	Нур	4.7		0			https://yandex.kz/maps/org/nur/82677626055/		магазин	False	False
+pendjikent	Саломат	4.4		0			https://yandex.kz/maps/org/salomat/84279485824/		магазин	False	False
+pendjikent	Умариен	4.2		0			https://yandex.kz/maps/org/umariyen/245621821490/		магазин	False	False
+pendjikent	Голд сити			0			https://yandex.kz/maps/org/gold_siti/234814760244/		магазин	False	False
+pendjikent	Магазин Навруз			0			https://yandex.kz/maps/org/magazin_navruz/30971963067/		магазин	False	False
+pendjikent	Ачоиб	3.9		0			https://yandex.kz/maps/org/achoib/7217462887/		магазин	False	False
+pendjikent	Чойи савдои Лу́тибой			0			https://yandex.kz/maps/org/choyi_savdoi_lu_tiboy/119795784478/		магазин	False	False
+pendjikent	Лола	4.3		0			https://yandex.kz/maps/org/lola/162994848288/		магазин	False	False
+pendjikent	Чимтарга			0			https://yandex.kz/maps/org/chimtarga/217351896025/		магазин	False	False
+pendjikent	Продукты			0			https://yandex.kz/maps/org/produkty/223692018000/		магазин	False	False
+pendjikent	Фирдавси			0			https://yandex.kz/maps/org/firdavsi/179061411501/		магазин	False	False
+pendjikent	Мясо Джамшед Хуршед	4.1		0			https://yandex.kz/maps/org/myaso_dzhamshed_khurshed/57505759463/		магазин	False	False
+pendjikent	Фарахноз			0			https://yandex.kz/maps/org/farakhnoz/21578621044/		магазин	False	False
+pendjikent	Продукты			0			https://yandex.kz/maps/org/produkty/198810237984/		магазин	False	False
+pendjikent	Wildberries	3.8		0			https://yandex.kz/maps/org/wildberries/154844428183/		пункт выдачи	False	True
+pendjikent	LakLak			0			https://yandex.kz/maps/org/laklak/67717954235/		пункт выдачи	False	True
+pendjikent	Подарки			0			https://yandex.kz/maps/org/podarki/162704419926/		сувениры	False	True
+pendjikent	Sarpo_tm			0			https://yandex.kz/maps/org/sarpo_tm/217943365280/		сувениры	False	True
+pendjikent	Национальные товары			0			https://yandex.kz/maps/org/natsionalnyye_tovary/122256010599/		сувениры	False	True
+pendjikent	Sovg'alar			0			https://yandex.kz/maps/org/sovg_alar/218069611930/		сувениры	False	True
+sughd-province	Панчшанбе	5.0		0			https://yandex.kz/maps/org/panchshanbe/152987321869/		базар+рынок	False	True
+sughd-province	Бекобод Дехкон Бозори	4.4		0			https://yandex.kz/maps/org/bekobod_dekhkon_bozori/158396171593/		базар	False	True
+sughd-province	Рынок Сомон	4.9		0			https://yandex.kz/maps/org/rynok_somon/145482883160/		базар	False	True
+sughd-province	Фермерский рынок			0			https://yandex.kz/maps/org/fermerskiy_rynok/72251679921/		базар	False	True
+sughd-province	Площадь Регистон	4.5		0			https://yandex.kz/maps/org/ploshchad_registon/116908737800/		базар	False	True
+sughd-province	Дехканский базар	5.0		0			https://yandex.kz/maps/org/dekhkanskiy_bazar/11045241817/		рынок	False	True
+sughd-province	Центральный рынок	5.0		0			https://yandex.kz/maps/org/tsentralny_rynok/9309040284/		рынок	False	True
+sughd-province	Атуш	4.9		0			https://yandex.kz/maps/org/atush/233811100268/		рынок	False	True
+sughd-province	Садбарг	4.9	12	1	Садбарг, маркази савдо	4.8	https://yandex.kz/maps/org/sadbarg/82082493166/	https://2gis.tj/dushanbe/firm/70000001103210339	торговый центр	False	True
+sughd-province	Душанбе Молл	4.7	43	0	Max biff burger, тезтайёр		https://yandex.kz/maps/org/dushanbe_moll/10654459377/	https://2gis.tj/dushanbe/firm/70000001100787284	торговый центр	False	True
+sughd-province	Сиёма Молл	4.8	12	0	Хонаи ман, мағозаи мебел ва молҳои рӯзғор		https://yandex.kz/maps/org/siyoma_moll/221793724068/	https://2gis.tj/dushanbe/firm/70000001102760826	торговый центр	False	True
+sughd-province	Мехргон	5.0	3	1	Меҳргон, бозор	4.5	https://yandex.kz/maps/org/mekhrgon/221813042483/	https://2gis.tj/dushanbe/firm/70000001100697766	торговый центр	False	True
+sughd-province	Саодат	4.0	13	0	Tomiris home, мағозаи молҳои рахти хоб		https://yandex.kz/maps/org/saodat/37086257384/	https://2gis.tj/dushanbe/firm/70000001101334119	торговый центр	False	True
+sughd-province	Муниса	4.4	13	1	Муниса, маркази савдо		https://yandex.kz/maps/org/munisa/66115462825/	https://2gis.tj/dushanbe/firm/70000001100710737	торговый центр	False	True
+sughd-province	Баракат Плаза	4.6	4	0	Пайкар, маркази савдо	5	https://yandex.kz/maps/org/barakat_plaza/23364772455/	https://2gis.tj/dushanbe/firm/70030077011686197	торговый центр	False	True
+sughd-province	Таджикистан	4.3	7	0	Тоҷикистон, маркази савдо	4.3	https://yandex.kz/maps/org/tadzhikistan/19869891947/	https://2gis.tj/dushanbe/firm/70000001111527966	торговый центр	False	True
+sughd-province	Баракат	4.2	23	0	Avon, нуқтаи қабули онлайн фармоишҳо		https://yandex.kz/maps/org/barakat/190196607657/	https://2gis.tj/dushanbe/firm/70000001103824467	торговый центр	False	True
+sughd-province	Аниса	4.0	5	1	Аниса, маркази савдо		https://yandex.kz/maps/org/anisa/48658586135/	https://2gis.tj/dushanbe/firm/70000001110978353	торговый центр	False	True
+sughd-province	Торговый центр Муллиён	4.4	10	0	Мағозаи туҳфаҳо		https://yandex.kz/maps/org/torgovy_tsentr_mulliyon/39758366129/	https://2gis.tj/dushanbe/firm/70000001111194085	торговый центр	False	True
+sughd-province	Ситора	4.1	6	0	Sitora, маркази савдо		https://yandex.kz/maps/org/sitora/109172581300/	https://2gis.tj/dushanbe/firm/70000001110978362	торговый центр	False	True
+sughd-province	Марва	4.8	11	1	Марва, маркази фурӯши		https://yandex.kz/maps/org/marva/120787949599/	https://2gis.tj/dushanbe/firm/70000001111434631	торговый центр	False	True
+sughd-province	Торговый Центр Садбарг	4.4	45	0	Tomiris home, мағозаи молҳои рахти хоб		https://yandex.kz/maps/org/torgovy_tsentr_sadbarg/192187631216/	https://2gis.tj/dushanbe/firm/70000001103008157	торговый центр	False	True
+sughd-province	Торговый центр Олимджон	4.5		0			https://yandex.kz/maps/org/torgovy_tsentr_olimdzhon/232105378560/		торговый центр	False	True
+sughd-province	Пайкар	4.9	1	0	Мадагаскар, маркази дилхушии кӯдакон		https://yandex.kz/maps/org/paykar/6369438383/	https://2gis.tj/dushanbe/firm/70000001102011850	супермаркет+магазин+интернет-магазин	False	True
+sughd-province	Би1	4.8	5	0	Wedrink, нуқтаи фурӯши яхмосҳо вa бабл ти	4	https://yandex.kz/maps/org/bi1/60481304538/	https://2gis.tj/dushanbe/firm/70000001109765039	супермаркет+магазин+интернет-магазин	False	True
+sughd-province	Пайкар	4.9	5	1	Пайкар, супермaркет	4.3	https://yandex.kz/maps/org/paykar/157772314242/	https://2gis.tj/dushanbe/firm/70000001102693929	супермаркет	False	True
+sughd-province	Пайкар	4.5	160	0	Алмая, минимаркет		https://yandex.kz/maps/org/paykar/55038028092/	https://2gis.tj/dushanbe/firm/70000001101502277	супермаркет+магазин	False	True
+sughd-province	Пайкар	4.9	36	1	Пайкар, супермaркет	3.5	https://yandex.kz/maps/org/paykar/68712914947/	https://2gis.tj/dushanbe/firm/70000001100829713	супермаркет	False	True
+sughd-province	8 Mart	4.0	14	0	Rudaki plaza, маркази маъмурӣ тиҷоратӣ	5	https://yandex.kz/maps/org/8_mart/96830259664/	https://2gis.tj/dushanbe/firm/70000001103310267	супермаркет	False	True
+sughd-province	Пайкар	4.4	2	1	Пайкар, супермaркет	2.8	https://yandex.kz/maps/org/paykar/226533422558/	https://2gis.tj/dushanbe/firm/70000001101232626	супермаркет	False	True
+sughd-province	Пайкар	4.9	6	1	Пайкар, супермaркет	5	https://yandex.kz/maps/org/paykar/92681957587/	https://2gis.tj/dushanbe/firm/70000001101994648	супермаркет	False	True
+sughd-province	Ёвар	4.5	25	1	Ёвар, супермаркети гушт	5	https://yandex.kz/maps/org/yovar/47565423135/	https://2gis.tj/dushanbe/firm/70000001103660478	супермаркет+магазин+интернет-магазин	False	True
+sughd-province	Ёвар	4.2	3	1	Ёвар, супермаркет	3.7	https://yandex.kz/maps/org/yovar/208923459239/	https://2gis.tj/dushanbe/firm/70000001101423724	супермаркет+интернет-магазин	False	True
+sughd-province	Пайкар	4.7	5	1	Пайкар, супермaркет	4.6	https://yandex.kz/maps/org/paykar/231118673547/	https://2gis.tj/dushanbe/firm/70000001100759615	супермаркет	False	True
+sughd-province	Ёвар	4.4	7	1	Ёвар, супермаркет	4.2	https://yandex.kz/maps/org/yovar/104000653984/	https://2gis.tj/dushanbe/firm/70000001101473835	супермаркет	False	True
+sughd-province	Релакс	4.6	2	0	Relax, супермаркет	5	https://yandex.kz/maps/org/relaks/79320204829/	https://2gis.tj/dushanbe/firm/70000001101193405	супермаркет	False	True
+sughd-province	Ёвар	4.3	6	1	Ёвар, супермаркет	4.1	https://yandex.kz/maps/org/yovar/18722414216/	https://2gis.tj/dushanbe/firm/70000001102206774	супермаркет	False	True
+sughd-province	Супермаркет Шохон	4.4	12	0	Шоҳона, супермаркет	5	https://yandex.kz/maps/org/supermarket_shokhon/11287912009/	https://2gis.tj/dushanbe/firm/70000001101773885	супермаркет+интернет-магазин	False	True
+sughd-province	Пайкар	4.3	10	1	Пайкар, супермaркет	2.8	https://yandex.kz/maps/org/paykar/140093525050/	https://2gis.tj/dushanbe/firm/70000001101595670	гипермаркет+интернет-магазин	False	True
+sughd-province	Фирменный магазин Таджикматлубот		47	0	Daryo, нуқтаи супоридани фармоишҳои интернетӣ	3.9	https://yandex.kz/maps/org/firmenny_magazin_tadzhikmatlubot/63296669436/	https://2gis.tj/dushanbe/firm/70000001103337870	гипермаркет	False	True
+sughd-province	Нур			0			https://yandex.kz/maps/org/nur/77547432282/		гипермаркет	False	True
+sughd-province	Изат			0			https://yandex.kz/maps/org/izat/89351473580/		гипермаркет	False	True
+sughd-province	Магазин Инсоф		382	0	Мағозаи хӯрокворӣ		https://yandex.kz/maps/org/magazin_insof/202233806860/	https://2gis.tj/dushanbe/firm/70000001114905368	гипермаркет	False	True
+sughd-province	Дастрас		55	1	Дастрас, супермаркет	3.5	https://yandex.kz/maps/org/dastras/118757178593/	https://2gis.tj/dushanbe/firm/70000001111435598	гипермаркет	False	True
+sughd-province	Диёр	4.5	3	1	Диёр, супермаркет	3.6	https://yandex.kz/maps/org/diyor/156055333250/	https://2gis.tj/dushanbe/firm/70000001101151635	магазин+интернет-магазин	False	True
+sughd-province	Ёвар	4.6	3	1	Ёвар, супермаркет	5	https://yandex.kz/maps/org/yovar/126551156901/	https://2gis.tj/dushanbe/firm/70000001101736941	магазин+интернет-магазин	False	True
+sughd-province	Ёсин	4.9	28	0	Faberlic, нуқтаи қабули онлайн фармоишҳо		https://yandex.kz/maps/org/yosin/87578509592/	https://2gis.tj/dushanbe/firm/70000001102719357	магазин+интернет-магазин	False	True
+sughd-province	Парвиз	4.9	1	1	Парвиз, Маркази савдо	5	https://yandex.kz/maps/org/parviz/103767864188/	https://2gis.tj/dushanbe/firm/70000001102592023	магазин+интернет-магазин	False	True
+sughd-province	Пойтахт	4.3	3	1	Пойтахт, минимаркет		https://yandex.kz/maps/org/poytakht/200167922140/	https://2gis.tj/dushanbe/firm/70000001100683882	интернет-магазин	False	True
+sughd-province	Гипрозем	5.0	91	0	Мағозаи хӯрокворӣ		https://yandex.kz/maps/org/giprozem/63605772441/	https://2gis.tj/dushanbe/firm/70000001104030130	интернет-магазин	False	True
+sughd-province	Месут	2.4	3	1	Месут, мағозаи маҳсулотҳои туркӣ		https://yandex.kz/maps/org/mesut/100581124741/	https://2gis.tj/dushanbe/firm/70000001102981867	интернет-магазин	False	True
+sughd-province	Дарё		5	0	Daryo, нуқтаи супоридани фармоишҳои интернетӣ	5	https://yandex.kz/maps/org/daryo/232682480154/	https://2gis.tj/dushanbe/firm/70000001104619103	маркетплейс	False	True
+sughd-province	Алибобо	3.5	16	0	Faberlic, нуқтаи қабули онлайн фармоишҳо		https://yandex.kz/maps/org/alibobo/197436803346/	https://2gis.tj/dushanbe/firm/70000001100582953	маркетплейс	False	True
+sughd-province	Ssboss Маркетплейс		272	0	Авранг, маркази савдо		https://yandex.kz/maps/org/ssboss_marketpleys/110318290511/	https://2gis.tj/dushanbe/firm/70030077008920596	маркетплейс	False	True
+sughd-province	Вебмаркет		26	0	Baby smile, мағозаи бозичахо		https://yandex.kz/maps/org/vebmarket/55607576899/	https://2gis.tj/dushanbe/firm/70000001111540281	маркетплейс	False	True
+sughd-province	Дастрас		21	0	BBQ burger house, бургерхона	5	https://yandex.kz/maps/org/dastras/157512244066/	https://2gis.tj/dushanbe/firm/70000001102686356	маркетплейс	False	True
+sughd-province	365trends		73	0	Наврӯзӣ, қурутобхона	3.6	https://yandex.kz/maps/org/365trends/130789844967/	https://2gis.tj/dushanbe/firm/70000001101442159	маркетплейс	False	True
+sughd-province	Dastras		70	0	Spar, супермаркет		https://yandex.kz/maps/org/dastras/86094226766/	https://2gis.tj/dushanbe/firm/70000001118569787	маркетплейс	False	True
+sughd-province	Дастрас		8	0	Lak lak, Анбор		https://yandex.kz/maps/org/dastras/96092808278/	https://2gis.tj/dushanbe/firm/70000001110327910	маркетплейс	False	True
+sughd-province	Laklak		4	0	Lak lak, нуқтаи додани фармоишҳо		https://yandex.kz/maps/org/laklak/212789244388/	https://2gis.tj/dushanbe/firm/70000001116658405	маркетплейс	False	True
+sughd-province	Tajzon		83	0	Мирзосаид, маркази савдо		https://yandex.kz/maps/org/tajzon/218445337355/	https://2gis.tj/dushanbe/firm/70030077012847275	маркетплейс	False	True
+sughd-province	Кобгир		152	0	Амид, супермаркет		https://yandex.kz/maps/org/kobgir/55312698299/	https://2gis.tj/dushanbe/firm/70000001116834934	маркетплейс	False	True
+sughd-province	Wildberries	4.0	8	1	Wildberries, нуқтаи қабули онлайн фармоишҳо	1	https://yandex.kz/maps/org/wildberries/113812171655/	https://2gis.tj/dushanbe/firm/70000001105382517	пункт выдачи	False	True
+sughd-province	Wildberries	4.8	2	1	Wildberries, нуқтаи қабули онлайн фармоишҳо	1.5	https://yandex.kz/maps/org/wildberries/8506218093/	https://2gis.tj/dushanbe/firm/70000001101199993	пункт выдачи	False	True
+sughd-province	Wildberries	4.3	6	1	Wildberries, нуқтаи қабули онлайн фармоишҳо	1	https://yandex.kz/maps/org/wildberries/202555961819/	https://2gis.tj/dushanbe/firm/70000001101019654	пункт выдачи	False	True
+sughd-province	Noor Art Gallery	4.1	53	1	Noor art gallery, мағозаи тӯҳфаҳо		https://yandex.kz/maps/org/noor_art_gallery/20767056431/	https://2gis.tj/dushanbe/firm/70000001115644975	сувениры	False	True
+sughd-province	Sou So	4.7	50	0	Садия, минимаркет		https://yandex.kz/maps/org/sou_so/212160828795/	https://2gis.tj/dushanbe/firm/70000001110916609	сувениры	False	True
+sughd-province	Zoda Art Gallery	4.2	7	0	Eastera		https://yandex.kz/maps/org/zoda_art_gallery/194731071772/	https://2gis.tj/dushanbe/firm/70000001113191445	сувениры	False	True
+sughd-province	Шарк	4.4	9	0	Mangal by mavlon, тезтайёр	5	https://yandex.kz/maps/org/shark/126382705014/	https://2gis.tj/dushanbe/firm/70000001113383499	сувениры	False	True
+sughd-province	Gift and souvenir shop		9	0	Самбуса Азиз, самбӯсахона		https://yandex.kz/maps/org/gift_and_souvenir_shop/189312199736/	https://2gis.tj/dushanbe/firm/70000001102014153	сувениры	False	True
+sughd-province	Ганджина		4	0	Ганҷина, галерея		https://yandex.kz/maps/org/gandzhina/72330449317/	https://2gis.tj/dushanbe/firm/70000001100919898	сувениры	False	True
+sughd-province	Шарк		1	0	Mangal by mavlon, тезтайёр	5	https://yandex.kz/maps/org/shark/240955746411/	https://2gis.tj/dushanbe/firm/70000001113383499	сувениры	False	True
+sughd-province	Таджикский сувенирный магазин		11	0	Мағозаи армуғонҳои миллӣ		https://yandex.kz/maps/org/tadzhikskiy_suvenirny_magazin/218996517999/	https://2gis.tj/dushanbe/firm/70000001102921266	сувениры	False	True
+sughd-province	Exclusive Gifts		8	0	Эмом, маркази савдо		https://yandex.kz/maps/org/exclusive_gifts/138111893930/	https://2gis.tj/dushanbe/firm/70030077007425517	сувениры	False	True
+sughd-province	Магазин восточных сувениров		6	0	Тезтайёр		https://yandex.kz/maps/org/magazin_vostochnykh_suvenirov/62041301040/	https://2gis.tj/dushanbe/firm/70000001100702524	сувениры	False	True
+sughd-province	Панда		11	0	Шаурмачи, тезтаёр		https://yandex.kz/maps/org/panda/120620449536/	https://2gis.tj/dushanbe/firm/70000001102244846	сувениры	False	True
+sughd-province	Рухом	4.4	1	0	Галерия Rukhom, олами сангҳо		https://yandex.kz/maps/org/rukhom/122224657167/	https://2gis.tj/dushanbe/firm/70000001100816518	сувениры	False	True
+sughd-province	Gift and souvenir shop		8	0	Ёвар, супермаркет		https://yandex.kz/maps/org/gift_and_souvenir_shop/188023123943/	https://2gis.tj/dushanbe/firm/70000001101138048	сувениры	False	True
+sughd-province	Podarki Toj		66	0	Tomiris home, мағозаи молҳои рахти хоб		https://yandex.kz/maps/org/podarki_toj/233270503036/	https://2gis.tj/dushanbe/firm/70000001103008157	сувениры	False	True
+sughd-province	Jasmine Gifts		36	0	Max biff burger, тезтайёр		https://yandex.kz/maps/org/jasmine_gifts/105873703434/	https://2gis.tj/dushanbe/firm/70000001100787284	сувениры	False	True
+sughd-province	Сувениры Таджикистана		13	0	Орзу, мағозаи хӯрокворӣ		https://yandex.kz/maps/org/suveniry_tadzhikistana/228850203786/	https://2gis.tj/dushanbe/firm/70000001101017841	сувениры	False	True
+sughd-province	Магазин именных подарков Суратгирхона		66	0	Саёҳ, тезтайёр		https://yandex.kz/maps/org/magazin_imennykh_podarkov_suratgirkhona/245621029894/	https://2gis.tj/dushanbe/firm/70000001102213624	сувениры	False	True
+sughd-province	Душанбе Принт		21	0	Садбарг, маркази савдо	4.8	https://yandex.kz/maps/org/dushanbe_print/233670730747/	https://2gis.tj/dushanbe/firm/70000001103210339	сувениры	False	True
+tursunzoda	Городской рынок	4.9		0			https://yandex.kz/maps/org/gorodskoy_rynok/66419120815/		базар+рынок	False	True
+tursunzoda	Центральный Рынок			0			https://yandex.kz/maps/org/tsentralny_rynok/21166890753/		базар+рынок	False	True
+tursunzoda	Новый Базар			0			https://yandex.kz/maps/org/novy_bazar/117935013428/		базар+рынок	False	True
+tursunzoda	Центральный рынок	5.0		0			https://yandex.kz/maps/org/tsentralny_rynok/206365652819/		рынок	False	True
+tursunzoda	Кохи Нур	5.0		0			https://yandex.kz/maps/org/kokhi_nur/156946057399/		торговый центр	False	True
+tursunzoda	Детский мир	4.7		0			https://yandex.kz/maps/org/detskiy_mir/212204915258/		торговый центр	False	True
+tursunzoda	ЦУМ	4.8		0			https://yandex.kz/maps/org/tsum/127282900754/		торговый центр	False	True
+tursunzoda	Ёвар	4.9		0			https://yandex.kz/maps/org/yovar/136513975000/		супермаркет+магазин+интернет-магазин	False	True
+tursunzoda	Шоми Турсунзода	4.8		0			https://yandex.kz/maps/org/shomi_tursunzoda/202952182876/		супермаркет+магазин	False	True
+tursunzoda	Магазин 4444			0			https://yandex.kz/maps/org/magazin_4444/51391261978/		супермаркет+магазин	False	True
+tursunzoda	Собирчон			0			https://yandex.kz/maps/org/sobirchon/220398554893/		супермаркет+магазин	False	True
+tursunzoda	Кахор маркет			0			https://yandex.kz/maps/org/kakhor_market/33544395104/		гипермаркет	False	True
+tursunzoda	Продукты	4.5		0			https://yandex.kz/maps/org/produkty/45671526718/		магазин	False	False
+tursunzoda	Зафар	4.2		0			https://yandex.kz/maps/org/zafar/13959440392/		магазин	False	False
+tursunzoda	Продукты			0			https://yandex.kz/maps/org/produkty/235307484426/		магазин	False	False
+tursunzoda	Рузиев			0			https://yandex.kz/maps/org/ruziyev/236451044346/		магазин	False	False
+tursunzoda	Продукты			0			https://yandex.kz/maps/org/produkty/174294230690/		магазин	False	False
+tursunzoda	Продуктовый магазин			0			https://yandex.kz/maps/org/produktovy_magazin/157170089882/		магазин	False	False
+tursunzoda	Wildberries	4.4		0			https://yandex.kz/maps/org/wildberries/194119444044/		пункт выдачи	False	True
+tursunzoda	Дарё			0			https://yandex.kz/maps/org/daryo/136661201257/		пункт выдачи	False	True
+tursunzoda	Сувенирные магазинчики			0			https://yandex.kz/maps/org/suvenirnyye_magazinchiki/244856801961/		сувениры	False	True
+tursunzoda	Сувениры			0			https://yandex.kz/maps/org/suveniry/27215157976/		сувениры	False	True
+tursunzoda	Подарки			0			https://yandex.kz/maps/org/podarki/59172599772/		сувениры	False	True
+horog	Рынок 20-летия независимости Республики Таджикистан			0			https://yandex.kz/maps/org/rynok_20_letiya_nezavisimosti_respubliki_tadzhikistan/40455271055/		базар+рынок	False	True
+horog	Центральный рынок	4.3		0			https://yandex.kz/maps/org/tsentralny_rynok/144996812543/		рынок	False	True
+horog	Памир Плаза	5.0		0			https://yandex.kz/maps/org/pamir_plaza/10588535829/		торговый центр	False	True
+horog	Nadim			0			https://yandex.kz/maps/org/nadim/120931374490/		торговый центр	False	True
+horog	Чорбог	3.4		0			https://yandex.kz/maps/org/chorbog/240751856459/		торговый центр	False	True
+horog	Памир			0			https://yandex.kz/maps/org/pamir/161625618194/		супермаркет+магазин	False	True
+horog	Саодат	4.4		0			https://yandex.kz/maps/org/saodat/45839433401/		супермаркет+магазин	False	True
+horog	Атлантика			0			https://yandex.kz/maps/org/atlantika/113749844910/		супермаркет+магазин	False	True
+horog	Арзон			0			https://yandex.kz/maps/org/arzon/116268342282/		супермаркет+магазин	False	True
+horog	Продукты			0			https://yandex.kz/maps/org/produkty/103419683402/		магазин	False	False
+horog	Насим			0			https://yandex.kz/maps/org/nasim/114174749743/		магазин	False	False
+horog	Продукты			0			https://yandex.kz/maps/org/produkty/159700093804/		магазин	False	False
+horog	Магазин продуктов			0			https://yandex.kz/maps/org/magazin_produktov/64497174957/		магазин	False	False
+horog	Мастер			0			https://yandex.kz/maps/org/master/1361068375/		магазин	False	False
+horog	Продуктовый магазин			0			https://yandex.kz/maps/org/produktovy_magazin/69640255802/		магазин	False	False
+horog	Хайём			0			https://yandex.kz/maps/org/khayyom/51829575839/		магазин	False	False
+horog	Саодат			0			https://yandex.kz/maps/org/saodat/235845117533/		магазин	False	False
+horog	Мустансир			0			https://yandex.kz/maps/org/mustansir/140309686770/		магазин	False	False
+horog	Мясо			0			https://yandex.kz/maps/org/myaso/66898675289/		магазин	False	False
+horog	Муким			0			https://yandex.kz/maps/org/mukim/7456196091/		магазин	False	False
+horog	Овощи и фрукты			0			https://yandex.kz/maps/org/ovoshchi_i_frukty/149096420756/		магазин	False	False
+horog	1001 Маркет			0			https://yandex.kz/maps/org/1001_market/84491460461/		маркетплейс	False	True
+horog	Wildberries	4.4		0			https://yandex.kz/maps/org/wildberries/101558582857/		пункт выдачи	False	True
+horog	Jana Post			0			https://yandex.kz/maps/org/jana_post/206786511406/		пункт выдачи	False	True
+khujand	Панчшанбе	5.0		0			https://yandex.kz/maps/org/panchshanbe/152987321869/		базар+рынок+Панчшанбе+Панчшанбе базар	True	True
+khujand	Площадь Регистон	4.5		0			https://yandex.kz/maps/org/ploshchad_registon/116908737800/		базар+рынок	False	True
+khujand	Худжанд молл	4.4		0			https://yandex.kz/maps/org/khudzhand_moll/18875835034/		базар+рынок	False	True
+khujand	Рынок Сомон	4.9		0			https://yandex.kz/maps/org/rynok_somon/145482883160/		базар+рынок	False	True
+khujand	Атуш	4.9		0			https://yandex.kz/maps/org/atush/233811100268/		рынок	False	True
+khujand	20-и летие Независимости	4.3		0			https://yandex.kz/maps/org/20_i_letiye_nezavisimosti/30984680048/		рынок	False	True
+khujand	Шёлкокомбинат	4.9		0			https://yandex.kz/maps/org/shyolkokombinat/188382811196/		рынок	False	True
+khujand	Арбузный рынок	4.6		0			https://yandex.kz/maps/org/arbuzny_rynok/89460835335/		рынок	False	True
+khujand	Бозорчаи 34	4.3		0			https://yandex.kz/maps/org/bozorchai_34/236703014231/		рынок	False	True
+khujand	Гулистон	3.9		0			https://yandex.kz/maps/org/guliston/217159117952/		рынок	False	True
+khujand	Фаровон	5.0		0			https://yandex.kz/maps/org/farovon/176126031562/		рынок	False	True
+khujand	Рыбный рынок	4.1		0			https://yandex.kz/maps/org/rybny_rynok/53021917780/		рынок	False	True
+khujand	Бозорчаи 8 мкр	4.7		0			https://yandex.kz/maps/org/bozorchai_8_mkr/106220501422/		рынок	False	True
+khujand	Дусти			0			https://yandex.kz/maps/org/dusti/215098466069/		рынок	False	True
+khujand	Ватан	4.3		0			https://yandex.kz/maps/org/vatan/113037197802/		рынок	False	True
+khujand	Дирам	4.4		0			https://yandex.kz/maps/org/diram/20089370430/		рынок	False	True
+khujand	Айни	4.3		0			https://yandex.kz/maps/org/ayni/193822548306/		рынок	False	True
+khujand	Рынок	4.3		0			https://yandex.kz/maps/org/rynok/101492519738/		рынок	False	True
+khujand	Шабода	4.3		0			https://yandex.kz/maps/org/shaboda/155971704765/		рынок	False	True
+khujand	Сомон-Сугд	4.4		0			https://yandex.kz/maps/org/somon_sugd/67269048260/		рынок	False	True
+khujand	Базар	4.4		0			https://yandex.kz/maps/org/bazar/206308714000/		рынок	False	True
+khujand	Мухаё			0			https://yandex.kz/maps/org/mukhayo/106611267380/		рынок	False	True
+khujand	Ориён			0			https://yandex.kz/maps/org/oriyon/88141040675/		рынок	False	True
+khujand	F-19			0			https://yandex.kz/maps/org/f_19/60878034276/		рынок	False	True
+khujand	Сугдиён	4.3		0			https://yandex.kz/maps/org/sugdiyon/217371900979/		рынок	False	True
+khujand	Торговый комплекс Баракат	5.0		0			https://yandex.kz/maps/org/torgovy_kompleks_barakat/216477853811/		торговый центр	False	True
+khujand	Абдулазиз	4.4		0			https://yandex.kz/maps/org/abdulaziz/230460692826/		торговый центр	False	True
+khujand	Нур	4.4		0			https://yandex.kz/maps/org/nur/115651419668/		торговый центр	False	True
+khujand	Худжанд Плаза	4.8		0			https://yandex.kz/maps/org/khudzhand_plaza/232921231084/		торговый центр	False	True
+khujand	Хонаи ман	4.4		0			https://yandex.kz/maps/org/khonai_man/90944462781/		торговый центр	False	True
+khujand	Abreshim Mall	4.0		0			https://yandex.kz/maps/org/abreshim_mall/57429150130/		торговый центр	False	True
+khujand	Рудаки Плаза	4.4		0			https://yandex.kz/maps/org/rudaki_plaza/177139909556/		торговый центр	False	True
+khujand	Афросиёб	4.3		0			https://yandex.kz/maps/org/afrosiyob/242203911444/		торговый центр	False	True
+khujand	Баракат	4.4		0			https://yandex.kz/maps/org/barakat/111840022760/		торговый центр	False	True
+khujand	Ахсан			0			https://yandex.kz/maps/org/akhsan/105964534733/		торговый центр	False	True
+khujand	Бадри Мунир	4.0		0			https://yandex.kz/maps/org/badri_munir/176757952003/		торговый центр	False	True
+khujand	Делюкс			0			https://yandex.kz/maps/org/delyuks/158482817733/		торговый центр	False	True
+khujand	Асл			0			https://yandex.kz/maps/org/asl/100356727365/		торговый центр	False	True
+khujand	Памир	4.2		0			https://yandex.kz/maps/org/pamir/61340776031/		торговый центр	False	True
+khujand	Точир			0			https://yandex.kz/maps/org/tochir/216369768435/		торговый центр	False	True
+khujand	Akfa Home			0			https://yandex.kz/maps/org/akfa_home/35207566531/		торговый центр	False	True
+khujand	Шамс			0			https://yandex.kz/maps/org/shams/37342788596/		торговый центр	False	True
+khujand	Центр Террабайт			0			https://yandex.kz/maps/org/tsentr_terrabayt/200691715622/		торговый центр	False	True
+khujand	Корвон плаза			0			https://yandex.kz/maps/org/korvon_plaza/84909684046/		торговый центр	False	True
+khujand	Кулангир			0			https://yandex.kz/maps/org/kulangir/184767551916/		торговый центр	False	True
+khujand	Меродж			0			https://yandex.kz/maps/org/merodzh/14506170913/		торговый центр	False	True
+khujand	Садаф	4.5		0			https://yandex.kz/maps/org/sadaf/85191273950/		торговый центр	False	True
+khujand	Сомон Сугд	4.0		0			https://yandex.kz/maps/org/somon_sugd/62240484738/		торговый центр	False	True
+khujand	Анис	4.8		0			https://yandex.kz/maps/org/anis/128383621579/		супермаркет+магазин+интернет-магазин	False	True
+khujand	Амид	5.0		0			https://yandex.kz/maps/org/amid/57467783010/		супермаркет+магазин+интернет-магазин	False	True
+khujand	Амид	5.0		0			https://yandex.kz/maps/org/amid/54539011921/		супермаркет+магазин+интернет-магазин	False	True
+khujand	Амид	4.8		0			https://yandex.kz/maps/org/amid/26852673269/		супермаркет+магазин+интернет-магазин	False	True
+khujand	Ёвар	4.7		0			https://yandex.kz/maps/org/yovar/82318804614/		супермаркет+магазин	False	True
+khujand	Оазис	4.4		0			https://yandex.kz/maps/org/oazis/53357795953/		супермаркет	False	True
+khujand	Амид	4.8		0			https://yandex.kz/maps/org/amid/224414713973/		супермаркет+магазин	False	True
+khujand	Анис 34	4.8		0			https://yandex.kz/maps/org/anis_34/182211403945/		супермаркет+магазин	False	True
+khujand	Оазис	4.2		0			https://yandex.kz/maps/org/oazis/51974890997/		супермаркет	False	True
+khujand	Амид	4.2		0			https://yandex.kz/maps/org/amid/125833126435/		супермаркет+магазин+интернет-магазин	False	True
+khujand	Дастрас	4.8		0			https://yandex.kz/maps/org/dastras/75677173934/		супермаркет	False	True
+khujand	Супермаркет Ёрон+			0			https://yandex.kz/maps/org/supermarket_yoron_/171182671864/		супермаркет	False	True
+khujand	Амид	4.0		0			https://yandex.kz/maps/org/amid/163207014029/		супермаркет	False	True
+khujand	Дадо	4.2		0			https://yandex.kz/maps/org/dado/193469199581/		супермаркет	False	True
+khujand	Амид	4.1		0			https://yandex.kz/maps/org/amid/227017247713/		супермаркет	False	True
+khujand	Супермаркет			0			https://yandex.kz/maps/org/173967059124/		супермаркет	False	True
+khujand	Самарканд	4.0		0			https://yandex.kz/maps/org/samarkand/239406026379/		супермаркет	False	True
+khujand	Ёрон			0			https://yandex.kz/maps/org/yoron/67516327568/		супермаркет	False	True
+khujand	Супермаркет Шахноза			0			https://yandex.kz/maps/org/supermarket_shakhnoza/142680192331/		супермаркет	False	True
+khujand	Торговая Сеть Пайкар			0			https://yandex.kz/maps/org/torgovaya_set_paykar/212645254321/		супермаркет	False	True
+khujand	Супермаркет Афзал			0			https://yandex.kz/maps/org/supermarket_afzal/15849720093/		супермаркет	False	True
+khujand	Амир	4.2		0			https://yandex.kz/maps/org/amir/139387099676/		супермаркет	False	True
+khujand	Green			0			https://yandex.kz/maps/org/green/152289467175/		супермаркет	False	True
+khujand	Сабзина			0			https://yandex.kz/maps/org/sabzina/202933818803/		супермаркет	False	True
+khujand	Амид			0			https://yandex.kz/maps/org/amid/226472198692/		супермаркет	False	True
+khujand	7 Хазина			0			https://yandex.kz/maps/org/7_khazina/7121038316/		гипермаркет	False	True
+khujand	Амид	4.6		0			https://yandex.kz/maps/org/amid/234629866162/		магазин+интернет-магазин	False	True
+khujand	Доро	4.7		0			https://yandex.kz/maps/org/doro/12019787213/		магазин	False	False
+khujand	Мавсим	4.4		0			https://yandex.kz/maps/org/mavsim/183672225980/		магазин	False	False
+khujand	Мухайе	3.9		0			https://yandex.kz/maps/org/mukhayye/148998720387/		магазин	False	False
+khujand	Мархабо	4.0		0			https://yandex.kz/maps/org/markhabo/234323299692/		магазин	False	False
+khujand	Сафия	4.4		0			https://yandex.kz/maps/org/safiya/232159686241/		магазин	False	False
+khujand	Алишер	4.4		0			https://yandex.kz/maps/org/alisher/202018775258/		магазин+интернет-магазин	False	True
+khujand	Санам	4.8		0			https://yandex.kz/maps/org/sanam/194681277356/		магазин	False	False
+khujand	Азамат	3.7		0			https://yandex.kz/maps/org/azamat/8721429227/		магазин	False	False
+khujand	Наташа	4.1		0			https://yandex.kz/maps/org/natasha/18036771824/		магазин	False	False
+khujand	Гавхари	4.5		0			https://yandex.kz/maps/org/gavkhari/14847867968/		магазин	False	False
+khujand	Бахори Ачам	4.1		0			https://yandex.kz/maps/org/bakhori_acham/120257656843/		магазин	False	False
+khujand	Сабзина			0			https://yandex.kz/maps/org/sabzina/24512726509/		магазин	False	False
+khujand	Фирдавси	4.2		0			https://yandex.kz/maps/org/firdavsi/92314170045/		магазин	False	False
+khujand	Продукты	4.4		0			https://yandex.kz/maps/org/produkty/9770709891/		магазин	False	False
+khujand	Мирзо	4.6		0			https://yandex.kz/maps/org/mirzo/159978078754/		магазин	False	False
+khujand	Хуршед	4.3		0			https://yandex.kz/maps/org/khurshed/77262840448/		интернет-магазин	False	True
+khujand	İki			0			https://yandex.kz/maps/org/iki/174234356780/		маркетплейс	False	True
+khujand	Wildberries	4.1		0			https://yandex.kz/maps/org/wildberries/8906158936/		пункт выдачи	False	True
+khujand	Дарё	3.4		0			https://yandex.kz/maps/org/daryo/20629322561/		пункт выдачи	False	True
+khujand	Озон	4.3		0			https://yandex.kz/maps/org/ozon/205805718159/		пункт выдачи	False	True
+khujand	Фаберлик	2.9		0			https://yandex.kz/maps/org/faberlik/217801041435/		пункт выдачи	False	True
+khujand	Wildberries	4.2		0			https://yandex.kz/maps/org/wildberries/191508198349/		пункт выдачи	False	True
+khujand	Jana Post	4.0		0			https://yandex.kz/maps/org/jana_post/123911280126/		пункт выдачи	False	True
+khujand	Wildberries			0			https://yandex.kz/maps/org/wildberries/14026596827/		пункт выдачи	False	True
+khujand	786 Express			0			https://yandex.kz/maps/org/786_express/121246788764/		пункт выдачи	False	True
+khujand	786 Express			0			https://yandex.kz/maps/org/786_express/42001274152/		пункт выдачи	False	True
+khujand	LakLak			0			https://yandex.kz/maps/org/laklak/147894394248/		пункт выдачи	False	True
+khujand	Wildberries			0			https://yandex.kz/maps/org/wildberries/66105713912/		пункт выдачи	False	True
+khujand	Cccpexpress			0			https://yandex.kz/maps/org/cccpexpress/56678448840/		пункт выдачи	False	True
+khujand	LakLak			0			https://yandex.kz/maps/org/laklak/108507462337/		пункт выдачи	False	True
+khujand	Faberlic			0			https://yandex.kz/maps/org/faberlic/221405703918/		пункт выдачи	False	True
+khujand	LakLak			0			https://yandex.kz/maps/org/laklak/189707257708/		пункт выдачи	False	True
+khujand	LakLak			0			https://yandex.kz/maps/org/laklak/4362619126/		пункт выдачи	False	True
+khujand	Wildberries			0			https://yandex.kz/maps/org/wildberries/5494571003/		пункт выдачи	False	True
+khujand	LakLak			0			https://yandex.kz/maps/org/laklak/132936033425/		пункт выдачи	False	True
+khujand	LakLak			0			https://yandex.kz/maps/org/laklak/144708006758/		пункт выдачи	False	True
+khujand	Jana Post			0			https://yandex.kz/maps/org/jana_post/202016877120/		пункт выдачи	False	True
+khujand	LakLak			0			https://yandex.kz/maps/org/laklak/98535906504/		пункт выдачи	False	True
+khujand	Армугон			0			https://yandex.kz/maps/org/armugon/66138503575/		сувениры	False	True
+khujand	Подарки			0			https://yandex.kz/maps/org/podarki/201618283726/		сувениры	False	True
+khujand	Подарки			0			https://yandex.kz/maps/org/podarki/214108525368/		сувениры	False	True
+khatlon-province	Сабад	5.0		0			https://yandex.kz/maps/org/sabad/22859809075/		магазин	False	False
+khatlon-province	Daminov Маркет	5.0		0			https://yandex.kz/maps/org/daminov_market/164155267387/		магазин	False	False
+khatlon-province	Парвиз	4.9	1	1	Парвиз, Маркази савдо	5	https://yandex.kz/maps/org/parviz/103767864188/	https://2gis.tj/dushanbe/firm/70000001102592023	магазин	False	False
+khatlon-province	Бохтар	4.7		0			https://yandex.kz/maps/org/bokhtar/124680788220/		магазин	False	False
+khatlon-province	Электрон	4.1		0			https://yandex.kz/maps/org/elektron/156499143920/		магазин	False	False
+khatlon-province	Шер	4.6		0			https://yandex.kz/maps/org/sher/236938429543/		магазин	False	False
+khatlon-province	Далер	4.1	42	0	Faberlic, нуқтаи қабули онлайн фармоишҳо		https://yandex.kz/maps/org/daler/39172297557/	https://2gis.tj/dushanbe/firm/70000001110773309	магазин	False	False
+khatlon-province	Дарё		5	0	Daryo, нуқтаи супоридани фармоишҳои интернетӣ	5	https://yandex.kz/maps/org/daryo/232682480154/	https://2gis.tj/dushanbe/firm/70000001104619103	маркетплейс	False	True
+khatlon-province	Ssboss Маркетплейс		272	0	Авранг, маркази савдо		https://yandex.kz/maps/org/ssboss_marketpleys/110318290511/	https://2gis.tj/dushanbe/firm/70030077008920596	маркетплейс	False	True
+khatlon-province	Вебмаркет		26	0	Baby smile, мағозаи бозичахо		https://yandex.kz/maps/org/vebmarket/55607576899/	https://2gis.tj/dushanbe/firm/70000001111540281	маркетплейс	False	True
+khatlon-province	Дастрас		21	0	BBQ burger house, бургерхона	5	https://yandex.kz/maps/org/dastras/157512244066/	https://2gis.tj/dushanbe/firm/70000001102686356	маркетплейс	False	True
+khatlon-province	365trends		73	0	Наврӯзӣ, қурутобхона	3.6	https://yandex.kz/maps/org/365trends/130789844967/	https://2gis.tj/dushanbe/firm/70000001101442159	маркетплейс	False	True
+khatlon-province	Dastras		70	0	Spar, супермаркет		https://yandex.kz/maps/org/dastras/86094226766/	https://2gis.tj/dushanbe/firm/70000001118569787	маркетплейс	False	True
+khatlon-province	Дастрас		8	0	Lak lak, Анбор		https://yandex.kz/maps/org/dastras/96092808278/	https://2gis.tj/dushanbe/firm/70000001110327910	маркетплейс	False	True
+khatlon-province	Laklak		4	0	Lak lak, нуқтаи додани фармоишҳо		https://yandex.kz/maps/org/laklak/212789244388/	https://2gis.tj/dushanbe/firm/70000001116658405	маркетплейс	False	True
+khatlon-province	Tajzon		83	0	Мирзосаид, маркази савдо		https://yandex.kz/maps/org/tajzon/218445337355/	https://2gis.tj/dushanbe/firm/70030077012847275	маркетплейс	False	True
+khatlon-province	Кобгир		152	0	Амид, супермаркет		https://yandex.kz/maps/org/kobgir/55312698299/	https://2gis.tj/dushanbe/firm/70000001116834934	маркетплейс	False	True
+khatlon-province	Uzum Market	4.3		0			https://yandex.kz/maps/org/uzum_market/80081236843/		пункт выдачи	False	True
+khatlon-province	Uzum Market	5.0		0			https://yandex.kz/maps/org/uzum_market/169751978386/		пункт выдачи	False	True
+khatlon-province	Wildberries	4.4		0			https://yandex.kz/maps/org/wildberries/188255182612/		пункт выдачи	False	True
+khatlon-province	Uzum Market			0			https://yandex.kz/maps/org/uzum_market/208623027469/		пункт выдачи	False	True
+khatlon-province	Uzum Market			0			https://yandex.kz/maps/org/uzum_market/47702249792/		пункт выдачи	False	True
+khatlon-province	Wildberries		45	0	Faberlic, нуқтаи қабули онлайн фармоишҳо		https://yandex.kz/maps/org/wildberries/221688216521/	https://2gis.tj/dushanbe/firm/70000001110773309	пункт выдачи	False	True
+khatlon-province	Дарё			0			https://yandex.kz/maps/org/daryo/94278711387/		пункт выдачи	False	True
+khatlon-province	Дарё	4.2	15	0	Daryo, нуқтаи супоридани фармоишҳои интернетӣ		https://yandex.kz/maps/org/daryo/159470439566/	https://2gis.tj/dushanbe/firm/70000001102525684	пункт выдачи	False	True
+khatlon-province	Uzum Market	4.9		0			https://yandex.kz/maps/org/uzum_market/190224831296/		пункт выдачи	False	True
+khatlon-province	Wildberries	4.4		0			https://yandex.kz/maps/org/wildberries/177343066189/		пункт выдачи	False	True
+khatlon-province	Uzum Market	4.1		0			https://yandex.kz/maps/org/uzum_market/55178742803/		пункт выдачи	False	True
+khatlon-province	Дарё			0			https://yandex.kz/maps/org/daryo/136661201257/		пункт выдачи	False	True
+khatlon-province	Wildberries	4.5		0			https://yandex.kz/maps/org/wildberries/134613900994/		пункт выдачи	False	True
+khatlon-province	Uzum Market	5.0		0			https://yandex.kz/maps/org/uzum_market/46519560136/		пункт выдачи	False	True
+khatlon-province	Uzum Market	4.8		0			https://yandex.kz/maps/org/uzum_market/9963603177/		пункт выдачи	False	True
+khatlon-province	Wildberries	4.3		0			https://yandex.kz/maps/org/wildberries/6043693218/		пункт выдачи	False	True
+khatlon-province	Uzum Market	5.0		0			https://yandex.kz/maps/org/uzum_market/121441576430/		пункт выдачи	False	True
+khatlon-province	Zoodbox 0286			0			https://yandex.kz/maps/org/zoodbox_0286/151676436732/		пункт выдачи	False	True
+khatlon-province	Uzum Market	5.0		0			https://yandex.kz/maps/org/uzum_market/52673815211/		пункт выдачи	False	True
+khatlon-province	Uzum Market	4.5		0			https://yandex.kz/maps/org/uzum_market/242238206486/		пункт выдачи	False	True
+khatlon-province	Wildberries		30	1	Wildberries, нуқтаи қабули онлайн фармоишҳо	1	https://yandex.kz/maps/org/wildberries/176660530904/	https://2gis.tj/dushanbe/firm/70000001105724391	пункт выдачи	False	True
+khatlon-province	СССРexpress			0			https://yandex.kz/maps/org/express/75388736249/		пункт выдачи	False	True
+isfara	Продукты	4.1		0			https://yandex.kz/maps/org/produkty/101991313127/		магазин	False	False
+isfara	Продукты	2.9		0			https://yandex.kz/maps/org/produkty/172579791739/		магазин	False	False
+isfara	Амруллохон	4.3		0			https://yandex.kz/maps/org/amrullokhon/190621135729/		магазин	False	False
+isfara	Ecofruit	4.2		0			https://yandex.kz/maps/org/ecofruit/238441641288/		магазин	False	False
+isfara	Мухторджон			0			https://yandex.kz/maps/org/mukhtordzhon/82351551999/		магазин	False	False
+isfara	Алибобо			0			https://yandex.kz/maps/org/alibobo/79169767728/		магазин	False	False
+isfara	Обнур			0			https://yandex.kz/maps/org/obnur/135422183538/		магазин	False	False
+isfara	Продукты			0			https://yandex.kz/maps/org/produkty/130686557227/		магазин	False	False
+isfara	Продукты			0			https://yandex.kz/maps/org/produkty/49154708506/		магазин	False	False
+isfara	Продукты			0			https://yandex.kz/maps/org/produkty/78221806439/		магазин	False	False
+isfara	Продукты			0			https://yandex.kz/maps/org/produkty/217634430267/		магазин	False	False
+isfara	Продукты			0			https://yandex.kz/maps/org/produkty/31778304380/		магазин	False	False
+isfara	Продукты			0			https://yandex.kz/maps/org/produkty/217914158098/		магазин	False	False
+isfara	Продукты			0			https://yandex.kz/maps/org/produkty/8525947742/		магазин	False	False
+sughd-province	Крепость Муг	4.7		0			https://yandex.kz/maps/org/krepost_mug/48890553896/		Истаравшан	True	True
+sughd-province	Мечеть Хазрати Шох	4.8		0			https://yandex.kz/maps/org/mechet_khazrati_shokh/55740039759/		Истаравшан	True	True
+sughd-province	Мечеть Сари Мазор	4.5		0			https://yandex.kz/maps/org/mechet_sari_mazor/56525882095/		Истаравшан	True	True
+khatlon-province	Центральный рынок			0			https://yandex.kz/maps/org/tsentralny_rynok/135260797459/		Муминабад базар	True	True
+gorno-badakhshan-autonomous-province	Базар			0			https://yandex.kz/maps/org/bazar/129384882004/		Ишкашим базар	True	True

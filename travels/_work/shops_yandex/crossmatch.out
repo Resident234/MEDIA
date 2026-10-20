@@ -1,0 +1,39 @@
+yandex cards with coords: total 861, dushanbe 172, other cities 689
+dushanbe cards with a 2GIS twin <=120m: 158 (name agrees: 49)
+priority (key-category) cards with a twin: 149
+named-place cards with a twin <=120m: 12 (name agrees: 3)
+per-city yandex cards outside dushanbe (2GIS has no catalog there):
+  "bohtar"                       39
+  "gorno-badakhshan-autonomous-p 36
+  "hisor-district"               47
+  "horog"                        24
+  "isfara"                       34
+  "khatlon-province"             161
+  "khujand"                      116
+  "konibodom"                    36
+  "kulob"                        40
+  "nurek"                        15
+  "pendjikent"                   32
+  "sughd-province"               86
+  "tursunzoda"                   23
+nearest-dist percentiles (dushanbe): p10 3 p50 14 p90 103 max 531
+reverse: 2GIS category cards having a Yandex twin <=120m
+  "\u0431\u0430\u0437\u0430\u0440\u044b    42 cards,  24 with twin
+  "\u0433\u0438\u043f\u0435\u0440\u043c\    3 cards,   2 with twin
+  "\u0438\u043d\u0442\u0435\u0440\u043d\    4 cards,   3 with twin
+  "\u043f\u0443\u043d\u043a\u0442\u044b   180 cards,  71 with twin
+  "\u0440\u0435\u043c\u0451\u0441\u043b\  153 cards,  84 with twin
+  "\u0441\u0443\u043f\u0435\u0440\u043c\  215 cards,  78 with twin
+  "\u0442\u043e\u0440\u0433\u043e\u0432\   60 cards,  32 with twin
+  TOTAL 657 cards, 294 with twin
+pairs where both catalogs rate it: 46
+  differ by >=1.0 star: 14
+    "Wildberries" : yandex 4.8 vs 2gis 1.5 (2 m)
+    "Wildberries" : yandex 4.3 vs 2gis 1 (6 m)
+    "\u0401\u0432\u0430\u0440" : yandex 4.7 vs 2gis 1.7 (4 m)
+    "Wildberries" : yandex 4.0 vs 2gis 1 (8 m)
+    "\u041d\u043e\u0441\u0445\u0430\u043d\u0 : yandex 2.7 vs 2gis 5 (66 m)
+    "\u0421\u0430\u0431\u0430\u0434" : yandex 3.1 vs 2gis 1.4 (11 m)
+    "\u041f\u0430\u0439\u043a\u0430\u0440" : yandex 4.4 vs 2gis 2.8 (2 m)
+    "\u041f\u0430\u0439\u043a\u0430\u0440" : yandex 4.3 vs 2gis 2.8 (10 m)
+crossmatch_stats.json written

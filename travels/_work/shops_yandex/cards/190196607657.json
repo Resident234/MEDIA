@@ -1,0 +1,97 @@
+{
+ "url": "https://yandex.kz/maps/org/barakat/190196607657/?ll=68.783184%2C38.582688&z=16",
+ "title": "Баракат, торговый центр, Душанбе, просп. Исмоила Сомони, 3/2 — Яндекс Карты",
+ "h1": "Баракат",
+ "coords": [
+  "68.783184,38.582688",
+  "68.783184,38.582688"
+ ],
+ "rating": [
+  "Оценка 4.2 Из 5",
+  "41 оценка",
+  "Оценка 4.2 Из 5"
+ ],
+ "categories": [
+  "Торговый центр"
+ ],
+ "address": [
+  {
+   "t": "Душанбе, просп. Исмоила Сомони, 3/2",
+   "h": "/maps/10318/dushanbe/house/YkEYcQ9jSE0DQF1ifXl5c3prbA==/"
+  },
+  {
+   "t": "Душанбе, просп. Исмоила Сомони, 3/2",
+   "h": null
+  },
+  {
+   "t": "Душанбе, просп. Исмоила Сомони, 3/2",
+   "h": "/maps/10318/dushanbe/house/YkEYcQ9jSE0DQF1ifXl5c3prbA==/"
+  },
+  {
+   "t": "Маршрут",
+   "h": null
+  }
+ ],
+ "phones": [],
+ "msgLinks": [
+  {
+   "t": "",
+   "h": "https://vk.com/yandex.maps",
+   "c": "card-social-links-view__link",
+   "ownOrg": 0
+  },
+  {
+   "t": "",
+   "h": "https://t.me/mapsyandex",
+   "c": "card-social-links-view__link",
+   "ownOrg": 0
+  }
+ ],
+ "apps": [],
+ "extLinks": [],
+ "social": [
+  {
+   "t": "",
+   "h": "https://vk.com/yandex.maps",
+   "c": "card-social-links-view__link"
+  },
+  {
+   "t": "",
+   "h": "https://t.me/mapsyandex",
+   "c": "card-social-links-view__link"
+  },
+  {
+   "t": "",
+   "h": "https://zen.yandex.ru/yandexmaps",
+   "c": "card-social-links-view__link"
+  }
+ ],
+ "btns": [],
+ "emails": [],
+ "contactBlock": [
+  "Адрес Душанбе, просп. Исмоила Сомони, 3/2 Маршрут",
+  "Адрес",
+  "",
+  "Душанбе, просп. Исмоила Сомони, 3/2",
+  "Душанбе, просп. Исмоила Сомони, 3/2",
+  "Маршрут",
+  "Маршрут",
+  "Контакты Телефон не указан Добавить",
+  "Контакты",
+  "",
+  "Время работы Открыто до 21:00 График",
+  "Время работы",
+  ""
+ ],
+ "hours": [],
+ "list": {
+  "name": "Баракат",
+  "city": "dushanbe",
+  "rating": 4.2,
+  "reviews": 41,
+  "lon": "68.783184",
+  "lat": "38.582688",
+  "src": "Баракат рынок+торговый центр",
+  "priority": true
+ }
+}

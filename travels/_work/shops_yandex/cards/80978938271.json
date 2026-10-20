@@ -1,0 +1,99 @@
+{
+ "url": "https://yandex.kz/maps/org/ptichiy_rynok/80978938271/?ll=68.797914%2C38.525897&z=14",
+ "title": "Птичий рынок, рынок, Душанбе, посёлок Куштеппа — Яндекс Карты",
+ "h1": "Птичий рынок",
+ "coords": [
+  "68.794049,38.527788",
+  "68.794049,38.527788"
+ ],
+ "rating": [
+  "Оценка 3.2 Из 5",
+  "Оценка 3.2 Из 5",
+  "Оценка 2 Из 5"
+ ],
+ "categories": [
+  "Рынок"
+ ],
+ "address": [
+  {
+   "t": "Душанбе, посёлок Куштеппа",
+   "h": "/maps/10318/dushanbe/geo/4492901720/"
+  },
+  {
+   "t": "Душанбе, посёлок Куштеппа",
+   "h": null
+  },
+  {
+   "t": "Душанбе, посёлок Куштеппа",
+   "h": "/maps/10318/dushanbe/geo/4492901720/"
+  },
+  {
+   "t": "Показать входыМаршрут",
+   "h": null
+  }
+ ],
+ "phones": [],
+ "msgLinks": [
+  {
+   "t": "",
+   "h": "https://vk.com/yandex.maps",
+   "c": "card-social-links-view__link",
+   "ownOrg": 0
+  },
+  {
+   "t": "",
+   "h": "https://t.me/mapsyandex",
+   "c": "card-social-links-view__link",
+   "ownOrg": 0
+  }
+ ],
+ "apps": [],
+ "extLinks": [],
+ "social": [
+  {
+   "t": "",
+   "h": "https://vk.com/yandex.maps",
+   "c": "card-social-links-view__link"
+  },
+  {
+   "t": "",
+   "h": "https://t.me/mapsyandex",
+   "c": "card-social-links-view__link"
+  },
+  {
+   "t": "",
+   "h": "https://zen.yandex.ru/yandexmaps",
+   "c": "card-social-links-view__link"
+  }
+ ],
+ "btns": [],
+ "emails": [],
+ "contactBlock": [
+  "Адрес Душанбе, посёлок Куштеппа Показать входыМаршрут",
+  "Адрес",
+  "",
+  "Душанбе, посёлок Куштеппа",
+  "Душанбе, посёлок Куштеппа",
+  "Показать входыМаршрут",
+  "Показать входы",
+  "",
+  "Маршрут",
+  "Контакты Телефон не указан Добавить",
+  "Контакты",
+  "",
+  "Время работы Закрыто до воскресенья График",
+  "Время работы",
+  ""
+ ],
+ "hours": [],
+ "list": {
+  "name": "Птичий рынок",
+  "city": "dushanbe",
+  "rating": 3.2,
+  "reviews": 6,
+  "lon": "68.794049",
+  "lat": "38.527788",
+  "src": "базар",
+  "priority": true
+ }
+}

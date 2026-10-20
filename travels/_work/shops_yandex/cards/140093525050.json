@@ -1,0 +1,157 @@
+{
+ "url": "https://yandex.kz/maps/org/paykar/140093525050/?ll=68.755381%2C38.567244&z=16",
+ "title": "Пайкар, продуктовый гипермаркет, Душанбе, 11-й микрорайон, ул. Якка-Чинарская, 148 — Яндекс Карты",
+ "h1": "Пайкар",
+ "coords": [
+  "68.755381,38.567244",
+  "68.755381,38.567244"
+ ],
+ "rating": [
+  "Оценка 4.3 Из 5",
+  "51 оценка",
+  "Оценка 4.3 Из 5"
+ ],
+ "categories": [
+  "Продуктовый гипермаркет"
+ ],
+ "address": [
+  {
+   "t": "Душанбе, 11-й микрорайон, ул. Якка-Чинарская, 148",
+   "h": "/maps/10318/dushanbe/house/YkEYcQJlSk0GQF1ifXl3dn5nYA==/"
+  },
+  {
+   "t": "Душанбе, 11-й микрорайон, ул. Якка-Чинарская, 148",
+   "h": null
+  },
+  {
+   "t": "Душанбе, 11-й микрорайон, ул. Якка-Чинарская, 148",
+   "h": "/maps/10318/dushanbe/house/YkEYcQJlSk0GQF1ifXl3dn5nYA==/"
+  },
+  {
+   "t": "Показать входыМаршрут",
+   "h": null
+  }
+ ],
+ "phones": [
+  {
+   "t": "+992 44 630 20 20",
+   "h": null
+  },
+  {
+   "t": "+992 44 630 20 20 Показать телефон",
+   "h": null
+  },
+  {
+   "t": "+992 44 630 20 20 Показать телефон",
+   "h": null
+  }
+ ],
+ "msgLinks": [
+  {
+   "t": "",
+   "h": "http://facebook.com/paykar.shop",
+   "c": "button _view_secondary-gray _ui _size_medium _link",
+   "ownOrg": 1
+  },
+  {
+   "t": "",
+   "h": "https://www.instagram.com/paykar.shop/",
+   "c": "button _view_secondary-gray _ui _size_medium _link",
+   "ownOrg": 1
+  },
+  {
+   "t": "",
+   "h": "https://t.me/paykar_tj/5546",
+   "c": "button _view_secondary-gray _ui _size_medium _link",
+   "ownOrg": 1
+  },
+  {
+   "t": "",
+   "h": "https://vk.com/yandex.maps",
+   "c": "card-social-links-view__link",
+   "ownOrg": 0
+  },
+  {
+   "t": "",
+   "h": "https://t.me/mapsyandex",
+   "c": "card-social-links-view__link",
+   "ownOrg": 0
+  }
+ ],
+ "apps": [],
+ "extLinks": [
+  {
+   "t": "paykar.tj",
+   "h": "http://paykar.tj/"
+  }
+ ],
+ "social": [
+  {
+   "t": "",
+   "h": "http://facebook.com/paykar.shop",
+   "c": "button _view_secondary-gray _ui _size_medium _link"
+  },
+  {
+   "t": "",
+   "h": "https://www.instagram.com/paykar.shop/",
+   "c": "button _view_secondary-gray _ui _size_medium _link"
+  },
+  {
+   "t": "",
+   "h": "https://t.me/paykar_tj/5546",
+   "c": "button _view_secondary-gray _ui _size_medium _link"
+  },
+  {
+   "t": "",
+   "h": "https://vk.com/yandex.maps",
+   "c": "card-social-links-view__link"
+  },
+  {
+   "t": "",
+   "h": "https://t.me/mapsyandex",
+   "c": "card-social-links-view__link"
+  },
+  {
+   "t": "",
+   "h": "https://zen.yandex.ru/yandexmaps",
+   "c": "card-social-links-view__link"
+  }
+ ],
+ "btns": [],
+ "emails": [],
+ "contactBlock": [
+  "Адрес Душанбе, 11-й микрорайон, ул. Якка-Чинарская, 148 Показать входыМаршрут",
+  "Адрес",
+  "",
+  "Душанбе, 11-й микрорайон, ул. Якка-Чинарская, 148",
+  "Душанбе, 11-й микрорайон, ул. Якка-Чинарская, 148",
+  "Показать входыМаршрут",
+  "Показать входы",
+  "",
+  "Маршрут",
+  "Контакты +992 44 630 20 20 Показать телефон paykar.tj 1",
+  "Контакты",
+  "",
+  "",
+  "",
+  "",
+  "",
+  "",
+  "",
+  "",
+  "Время работы Открыто до 00:00 График",
+  "Время работы",
+  ""
+ ],
+ "hours": [],
+ "list": {
+  "name": "Пайкар",
+  "city": "dushanbe",
+  "rating": 4.3,
+  "reviews": 51,
+  "lon": "68.755381",
+  "lat": "38.567244",
+  "src": "гипермаркет+интернет-магазин",
+  "priority": true
+ }
+}

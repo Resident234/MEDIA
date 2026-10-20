@@ -1,0 +1,1604 @@
+[
+ {
+  "id": 0,
+  "file": "70_pokupki.md",
+  "line": 25,
+  "text": "**Базар Арофсиаб**.",
+  "head": "Базар как институт",
+  "sub": "",
+  "block": [],
+  "cands": [
+   {
+    "url": "https://varandej.livejournal.com/859767.html",
+    "snip": "базар Арофсиаб",
+    "why": "лекс."
+   },
+   {
+    "url": "https://varandej.livejournal.com/866418.html",
+    "snip": "Афган-базар.",
+    "why": "лекс."
+   },
+   {
+    "url": "https://varandej.livejournal.com/847298.html",
+    "snip": "Шаартузский базар",
+    "why": "лекс."
+   }
+  ],
+  "lex_top": "https://varandej.livejournal.com/859767.html"
+ },
+ {
+  "id": 1,
+  "file": "places__Бадахшан_Хорог_Рощан_Шугнан_Ишкошим_Вахан_Зоркуль_Мургаб_Памирский_тракт.md",
+  "line": 77,
+  "text": "Расписной дом у въезда.",
+  "head": "",
+  "sub": "Лянгар и Ратм",
+  "block": [],
+  "cands": [
+   {
+    "url": "https://varandej.livejournal.com/868252.html",
+    "snip": "расписной дом у въезда в Лянгар",
+    "why": "лекс."
+   },
+   {
+    "url": "https://journal.tinkoff.ru/dushanbe/",
+    "snip": "въезд в страну только по загранпаспорту",
+    "why": "лекс."
+   },
+   {
+    "url": "https://varandej.livejournal.com/848993.html",
+    "snip": "арка на въезде в Муминабадский район",
+    "why": "лекс."
+   }
+  ],
+  "lex_top": "https://varandej.livejournal.com/868252.html"
+ },
+ {
+  "id": 2,
+  "file": "places__Бадахшан_Хорог_Рощан_Шугнан_Ишкошим_Вахан_Зоркуль_Мургаб_Памирский_тракт.md",
+  "line": 84,
+  "text": "Мазар Наматгут.",
+  "head": "",
+  "sub": "Наматгут",
+  "block": [],
+  "cands": [
+   {
+    "url": "https://varandej.livejournal.com/868252.html",
+    "snip": "мазар Наматгут",
+    "why": "лекс."
+   },
+   {
+    "url": "https://varandej.livejournal.com/867708.html",
+    "snip": "Наматгут — кишлак",
+    "why": "лекс."
+   },
+   {
+    "url": "https://varandej.livejournal.com/866767.html",
+    "snip": "мазар (в Язгуляме)",
+    "why": "лекс."
+   }
+  ],
+  "lex_top": "https://varandej.livejournal.com/868252.html"
+ },
+ {
+  "id": 3,
+  "file": "places__Бадахшан_Хорог_Рощан_Шугнан_Ишкошим_Вахан_Зоркуль_Мургаб_Памирский_тракт.md",
+  "line": 130,
+  "text": "Пик Артёма (4174 м).",
+  "head": "",
+  "sub": "Археология и объекты",
+  "block": [],
+  "cands": [
+   {
+    "url": "https://varandej.livejournal.com/868930.html",
+    "snip": "Пик Артёма — высота 4174м",
+    "why": "лекс."
+   }
+  ],
+  "lex_top": "https://varandej.livejournal.com/868930.html"
+ },
+ {
+  "id": 4,
+  "file": "places__Бадахшан_Хорог_Рощан_Шугнан_Ишкошим_Вахан_Зоркуль_Мургаб_Памирский_тракт.md",
+  "line": 157,
+  "text": "Пик Маркса: 6725 м.",
+  "head": "",
+  "sub": "География и вершины",
+  "block": [
+   "https://varandej.livejournal.com/869157.html"
+  ],
+  "cands": [
+   {
+    "url": "https://varandej.livejournal.com/868252.html",
+    "snip": "пик Маркса, высота 6725м",
+    "why": "лекс."
+   },
+   {
+    "url": "https://varandej.livejournal.com/869157.html",
+    "snip": "источник соседних строк этого блока",
+    "why": "блок"
+   }
+  ],
+  "lex_top": "https://varandej.livejournal.com/868252.html"
+ },
+ {
+  "id": 5,
+  "file": "places__Бадахшан_Хорог_Рощан_Шугнан_Ишкошим_Вахан_Зоркуль_Мургаб_Памирский_тракт.md",
+  "line": 158,
+  "text": "Пик Кызылагын: 6683 м.",
+  "head": "",
+  "sub": "География и вершины",
+  "block": [],
+  "cands": [
+   {
+    "url": "https://varandej.livejournal.com/867890.html",
+    "snip": "Кызыл-Арт и Старый Памирский тракт",
+    "why": "лекс."
+   },
+   {
+    "url": "https://varandej.livejournal.com/868760.html",
+    "snip": "Кызыл-Арт и Старый Памирский тракт",
+    "why": "лекс."
+   },
+   {
+    "url": "https://varandej.livejournal.com/822020.html",
+    "snip": "пограничный перевал Кызыл-Арт, высота 4312м",
+    "why": "лекс."
+   }
+  ],
+  "lex_top": "https://varandej.livejournal.com/867890.html"
+ },
+ {
+  "id": 6,
+  "file": "places__Бадахшан_Хорог_Рощан_Шугнан_Ишкошим_Вахан_Зоркуль_Мургаб_Памирский_тракт.md",
+  "line": 207,
+  "text": "Озеро Искандеркуль.",
+  "head": "",
+  "sub": "Природа",
+  "block": [],
+  "cands": [
+   {
+    "url": "https://varandej.livejournal.com/861110.html",
+    "snip": "Озеро Искандеркуль",
+    "why": "лекс."
+   },
+   {
+    "url": "https://varandej.livejournal.com/863328.html",
+    "snip": "Озеро Искандеркуль.",
+    "why": "лекс."
+   },
+   {
+    "url": "https://varandej.livejournal.com/822020.html",
+    "snip": "озеро Искандеркуль",
+    "why": "лекс."
+   }
+  ],
+  "lex_top": "https://varandej.livejournal.com/861110.html"
+ },
+ {
+  "id": 7,
+  "file": "places__Дорога_Душанбе-Худжанд_Айни_Анзоб.md",
+  "line": 24,
+  "text": "Мост через Зерафшан.",
+  "head": "",
+  "sub": "",
+  "block": [
+   "https://varandej.livejournal.com/862561.html"
+  ],
+  "cands": [
+   {
+    "url": "https://varandej.livejournal.com/862561.html",
+    "snip": "Мазар над кишлаком Дехисор (почитается как могила имама Мусы Казима); мост через Зерафшан; два воинских памятника по дороге в Айни.",
+    "why": "лекс."
+   },
+   {
+    "url": "https://varandej.livejournal.com/866894.html",
+    "snip": "Мост через Бартанг с блокпостом/постом у границы районов, где проверяют документы.",
+    "why": "лекс."
+   },
+   {
+    "url": "https://varandej.livejournal.com/849673.html",
+    "snip": "мост через Вахш (частично восстановлен после взрыва боевиками в период гражданской войны)",
+    "why": "лекс."
+   }
+  ],
+  "lex_top": "https://varandej.livejournal.com/862561.html"
+ },
+ {
+  "id": 8,
+  "file": "places__Душанбе.md",
+  "line": 12,
+  "text": "Улица Айни.",
+  "head": "",
+  "sub": "",
+  "block": [
+   "https://varandej.livejournal.com/844767.html"
+  ],
+  "cands": [
+   {
+    "url": "https://varandej.livejournal.com/845053.html",
+    "snip": "улица Айни",
+    "why": "лекс."
+   },
+   {
+    "url": "https://varandej.livejournal.com/846005.html",
+    "snip": "улица Айни (в Душанбе)",
+    "why": "лекс."
+   },
+   {
+    "url": "https://varandej.livejournal.com/858933.html",
+    "snip": "улица Ленина в Бустане",
+    "why": "лекс."
+   },
+   {
+    "url": "https://varandej.livejournal.com/844767.html",
+    "snip": "Памятник Айни",
+    "why": "блок"
+   }
+  ],
+  "lex_top": "https://varandej.livejournal.com/845053.html"
+ },
+ {
+  "id": 9,
+  "file": "places__Душанбе.md",
+  "line": 21,
+  "text": "Южные ворота.",
+  "head": "",
+  "sub": "",
+  "block": [
+   "https://varandej.livejournal.com/845100.html"
+  ],
+  "cands": [
+   {
+    "url": "https://journal.tinkoff.ru/photoalbum-tadzhikistan/",
+    "snip": "Южные ворота Душанбе",
+    "why": "лекс."
+   },
+   {
+    "url": "https://varandej.livejournal.com/869157.html",
+    "snip": "в ГБАО живут таджики, киргизы, памирцы северные (шугнанцы, рушанцы, бартангцы, орошорцы, хуфцы и баджувцы), памирцы южные (ваханцы, ишкашимцы), язгулямцы; в прошлом жили узбеки и русские",
+    "why": "лекс."
+   },
+   {
+    "url": "https://varandej.livejournal.com/867343.html",
+    "snip": "Южные памирцы (ишкашимцы, ваханцы и афганские сангличцы, а в прошлом ещё зебакцы да горонцы) говорят на языках, с трудом понятных друг другу, но вообще не понятных северным памирцам - шугнанацам, руша",
+    "why": "лекс."
+   },
+   {
+    "url": "https://varandej.livejournal.com/845100.html",
+    "snip": "Его фасад глядит на главный душанбинский перекрёсток - вниз отсюда круто уходит пересекающий Душанбинку проспект Самани, при советах бывший проспектом Путовского: 19. Кадр с его \"воротами\" в контровом",
+    "why": "блок"
+   }
+  ],
+  "lex_top": "https://journal.tinkoff.ru/photoalbum-tadzhikistan/"
+ },
+ {
+  "id": 10,
+  "file": "places__Душанбе.md",
+  "line": 76,
+  "text": "Монумент Независимости.",
+  "head": "",
+  "sub": "",
+  "block": [
+   "https://varandej.livejournal.com/845100.html",
+   "https://varandej.livejournal.com/844767.html"
+  ],
+  "cands": [
+   {
+    "url": "https://journal.tinkoff.ru/kyrgyzstan-tadzhikistan-trip/",
+    "snip": "Монумент Независимости в Душанбе",
+    "why": "лекс."
+   },
+   {
+    "url": "https://varandej.livejournal.com/859152.html",
+    "snip": "Монумент Независимости — уменьшенная и почти точная копия Стелы Герба в Душанбе",
+    "why": "лекс."
+   },
+   {
+    "url": "https://varandej.livejournal.com/844767.html",
+    "snip": "Площадь Дружбы продолжает Сквер Герба с 45-метровой стелой (2011), подозрительно похожей на монумент Независимости в Киеве, даром что там майдан, а тут майдон: 16.",
+    "why": "лекс."
+   },
+   {
+    "url": "https://varandej.livejournal.com/845100.html",
+    "snip": "Площадь Шахидон (название на заре независимости), место начала таджикистанской гражданской войны в марте 1992 г.",
+    "why": "блок"
+   }
+  ],
+  "lex_top": "https://journal.tinkoff.ru/kyrgyzstan-tadzhikistan-trip/"
+ },
+ {
+  "id": 11,
+  "file": "places__Душанбе.md",
+  "line": 83,
+  "text": "Площадь Озоди.",
+  "head": "",
+  "sub": "",
+  "block": [
+   "https://varandej.livejournal.com/844767.html"
+  ],
+  "cands": [
+   {
+    "url": "https://varandej.livejournal.com/845100.html",
+    "snip": "Площадь Озоди.",
+    "why": "лекс."
+   },
+   {
+    "url": "https://varandej.livejournal.com/848620.html",
+    "snip": "Площади Озоди и Шахидон (в столице).",
+    "why": "лекс."
+   },
+   {
+    "url": "https://varandej.livejournal.com/844767.html",
+    "snip": "В 1991 году площадь Озоди сделалась центром проправительственных митингов в начале гражданской войны",
+    "why": "лекс."
+   }
+  ],
+  "lex_top": "https://varandej.livejournal.com/845100.html"
+ },
+ {
+  "id": 12,
+  "file": "places__Душанбе.md",
+  "line": 86,
+  "text": "Памятник Айни.",
+  "head": "",
+  "sub": "",
+  "block": [
+   "https://varandej.livejournal.com/844767.html",
+   "https://varandej.livejournal.com/845053.html"
+  ],
+  "cands": [
+   {
+    "url": "https://varandej.livejournal.com/844767.html",
+    "snip": "Памятник Айни",
+    "why": "лекс."
+   },
+   {
+    "url": "https://varandej.livejournal.com/846005.html",
+    "snip": "памятник «Айни и Горький»",
+    "why": "лекс."
+   },
+   {
+    "url": "https://varandej.livejournal.com/845053.html",
+    "snip": "памятник Садриддину Айни (1978)",
+    "why": "лекс."
+   }
+  ],
+  "lex_top": "https://varandej.livejournal.com/844767.html"
+ },
+ {
+  "id": 13,
+  "file": "places__Душанбе.md",
+  "line": 89,
+  "text": "Памятник Лахути.",
+  "head": "",
+  "sub": "",
+  "block": [],
+  "cands": [
+   {
+    "url": "https://varandej.livejournal.com/845100.html",
+    "snip": "Памятник Лахути.",
+    "why": "лекс."
+   },
+   {
+    "url": "https://varandej.livejournal.com/848620.html",
+    "snip": "Курган-Тюбе, чайхана (возле памятника Рудаки и кинотеатра имени Лахути): зеленый чай.",
+    "why": "лекс."
+   },
+   {
+    "url": "https://varandej.livejournal.com/845053.html",
+    "snip": "сталинки на проспекте Рудаки (в части бывшей улицы Лахути), в основном 1940-х годов постройки",
+    "why": "лекс."
+   }
+  ],
+  "lex_top": "https://varandej.livejournal.com/845100.html"
+ },
+ {
+  "id": 14,
+  "file": "places__Душанбе.md",
+  "line": 90,
+  "text": "Памятник Омару Хайяму.",
+  "head": "",
+  "sub": "",
+  "block": [],
+  "cands": [
+   {
+    "url": "https://varandej.livejournal.com/845100.html",
+    "snip": "Памятник Омару Хайяму.",
+    "why": "лекс."
+   },
+   {
+    "url": "https://varandej.livejournal.com/844767.html",
+    "snip": "С эпохой Саманидов было связано и начало Азиатского Ренессанса, которому она дала немало великих имён (например, Авиценну) и мощнейшую литературуню традицию в лице Рудаки, Фирдауси и даже учившегося в",
+    "why": "лекс."
+   },
+   {
+    "url": "https://varandej.livejournal.com/848620.html",
+    "snip": "Памятник Исмаилу Самани (мнение автора: карикатурный, скульптор вдохновлялся рисованным американским мультфильмом).",
+    "why": "лекс."
+   }
+  ],
+  "lex_top": "https://varandej.livejournal.com/845100.html"
+ },
+ {
+  "id": 15,
+  "file": "places__Душанбе.md",
+  "line": 108,
+  "text": "Река Лучоб.",
+  "head": "",
+  "sub": "",
+  "block": [
+   "https://varandej.livejournal.com/846318.html"
+  ],
+  "cands": [
+   {
+    "url": "https://varandej.livejournal.com/846005.html",
+    "snip": "река Лучоб",
+    "why": "лекс."
+   },
+   {
+    "url": "https://varandej.livejournal.com/867708.html",
+    "snip": "река Пяндж",
+    "why": "лекс."
+   },
+   {
+    "url": "https://varandej.livejournal.com/859152.html",
+    "snip": "Река Сырдарья",
+    "why": "лекс."
+   },
+   {
+    "url": "https://varandej.livejournal.com/846318.html",
+    "snip": "река Варзоб в черте города прозвана Душанбинкой",
+    "why": "блок"
+   }
+  ],
+  "lex_top": "https://varandej.livejournal.com/846005.html"
+ },
+ {
+  "id": 16,
+  "file": "places__Душанбе.md",
+  "line": 117,
+  "text": "Понедельничный базар.",
+  "head": "",
+  "sub": "",
+  "block": [],
+  "cands": [
+   {
+    "url": "https://varandej.livejournal.com/844767.html",
+    "snip": "Понедельничный базар",
+    "why": "лекс."
+   },
+   {
+    "url": "https://varandej.livejournal.com/846318.html",
+    "snip": "Понедельничный базар",
+    "why": "лекс."
+   },
+   {
+    "url": "https://varandej.livejournal.com/859767.html",
+    "snip": "Название его не случайно созвучно с \"Душанбе\" - оба слова означают дни недели, и если южная столица начиналась с Понедельничного базара, то здесь когда-то торговали по четвергам.",
+    "why": "лекс."
+   }
+  ],
+  "lex_top": "https://varandej.livejournal.com/844767.html"
+ },
+ {
+  "id": 17,
+  "file": "places__Душанбе.md",
+  "line": 124,
+  "text": "Луна-парк.",
+  "head": "",
+  "sub": "",
+  "block": [
+   "https://varandej.livejournal.com/844767.html"
+  ],
+  "cands": [
+   {
+    "url": "https://journal.tinkoff.ru/photoalbum-tadzhikistan/",
+    "snip": "Луна-парк в Душанбе",
+    "why": "лекс."
+   },
+   {
+    "url": "https://www.aviasales.ru/psgr/article/goroda-tadzhikistana",
+    "snip": "МЕСТА_АРХИТЕКТУРА Куляб: за мавзолеем расположен Луна-парк",
+    "why": "лекс."
+   },
+   {
+    "url": "https://www.aviasales.ru/psgr/article/vykhodnye-tajikistan",
+    "snip": "МЕСТА_АРХИТЕКТУРА За мавзолеем в Кулябе расположен Луна-парк",
+    "why": "лекс."
+   },
+   {
+    "url": "https://varandej.livejournal.com/844767.html",
+    "snip": "Парк с известной на весь город чайханой \"Фарогат\" в советском Душанбе превратился в правительственный квартал",
+    "why": "блок"
+   }
+  ],
+  "lex_top": "https://journal.tinkoff.ru/photoalbum-tadzhikistan/"
+ },
+ {
+  "id": 18,
+  "file": "places__Душанбе.md",
+  "line": 134,
+  "text": "Аквапарк (строится).",
+  "head": "",
+  "sub": "",
+  "block": [
+   "https://varandej.livejournal.com/845100.html",
+   "https://varandej.livejournal.com/845053.html"
+  ],
+  "cands": [
+   {
+    "url": "https://varandej.livejournal.com/846005.html",
+    "snip": "аквапарк (строится)",
+    "why": "лекс."
+   },
+   {
+    "url": "https://varandej.livejournal.com/846876.html",
+    "snip": "городок Сарбанд (16 тыс. жителей), Вахшский азотно-туковый завод, аквапарк.",
+    "why": "лекс."
+   },
+   {
+    "url": "https://varandej.livejournal.com/846318.html",
+    "snip": "Там же я краешком показывал расположившуюся практически во дворе жилых домов, близ строящегося аквапарка, Варзобскую ГЭС-3, а вот она же крупнее, на фоне Гиссарских гор, с которых стекает река Варзоб,",
+    "why": "лекс."
+   },
+   {
+    "url": "https://varandej.livejournal.com/845100.html",
+    "snip": "Пишут, что по стилю она похожа на мечети Ирана, а не Средней Азии (отличаются они примерно как украинское барокко от русского - на взгляд постороннего вроде и одно и то же, а разбираясь в предмете, их",
+    "why": "блок"
+   }
+  ],
+  "lex_top": "https://varandej.livejournal.com/846005.html"
+ },
+ {
+  "id": 19,
+  "file": "places__Душанбе.md",
+  "line": 136,
+  "text": "Цирк (1978).",
+  "head": "",
+  "sub": "",
+  "block": [
+   "https://varandej.livejournal.com/845053.html",
+   "https://varandej.livejournal.com/846005.html"
+  ],
+  "cands": [
+   {
+    "url": "https://varandej.livejournal.com/846005.html",
+    "snip": "цирк (1978)",
+    "why": "лекс."
+   },
+   {
+    "url": "https://varandej.livejournal.com/846365.html",
+    "snip": "Недостроенный цирк: в центре Гиссара (по данным викимапии).",
+    "why": "лекс."
+   },
+   {
+    "url": "https://varandej.livejournal.com/845053.html",
+    "snip": "памятник Садриддину Айни (1978)",
+    "why": "лекс."
+   }
+  ],
+  "lex_top": "https://varandej.livejournal.com/846005.html"
+ },
+ {
+  "id": 20,
+  "file": "places__Душанбе.md",
+  "line": 158,
+  "text": "Гиссарская крепость.",
+  "head": "",
+  "sub": "",
+  "block": [
+   "https://varandej.livejournal.com/845100.html"
+  ],
+  "cands": [
+   {
+    "url": "https://varandej.livejournal.com/847298.html",
+    "snip": "крепость в Гиссаре",
+    "why": "лекс."
+   },
+   {
+    "url": "https://varandej.livejournal.com/845100.html",
+    "snip": "Гиссар и его крепость.",
+    "why": "лекс."
+   },
+   {
+    "url": "https://journal.tinkoff.ru/tadzhikistan-entry-rules/",
+    "snip": "Гиссарская крепость: древняя крепость",
+    "why": "лекс."
+   }
+  ],
+  "lex_top": "https://varandej.livejournal.com/847298.html"
+ },
+ {
+  "id": 21,
+  "file": "places__Душанбе.md",
+  "line": 159,
+  "text": "Ущелье Аджук.",
+  "head": "",
+  "sub": "",
+  "block": [
+   "https://varandej.livejournal.com/845100.html"
+  ],
+  "cands": [
+   {
+    "url": "https://journal.tinkoff.ru/photoalbum-tadzhikistan/",
+    "snip": "Ущелье Аджук (вне черты города)",
+    "why": "лекс."
+   },
+   {
+    "url": "https://varandej.livejournal.com/842968.html",
+    "snip": "Ширкентское ущелье",
+    "why": "лекс."
+   },
+   {
+    "url": "https://varandej.livejournal.com/847298.html",
+    "snip": "Ширкентское ущелье",
+    "why": "лекс."
+   },
+   {
+    "url": "https://varandej.livejournal.com/845100.html",
+    "snip": "Ширкентское ущелье.",
+    "why": "блок"
+   }
+  ],
+  "lex_top": "https://journal.tinkoff.ru/photoalbum-tadzhikistan/"
+ },
+ {
+  "id": 22,
+  "file": "places__Душанбе.md",
+  "line": 160,
+  "text": "Змеиное озеро.",
+  "head": "",
+  "sub": "",
+  "block": [
+   "https://varandej.livejournal.com/845100.html"
+  ],
+  "cands": [
+   {
+    "url": "https://journal.tinkoff.ru/photoalbum-tadzhikistan/",
+    "snip": "Змеиное озеро (вне черты города)",
+    "why": "лекс."
+   },
+   {
+    "url": "https://journal.tinkoff.ru/iskanderkul-lake/",
+    "snip": "Змеиное озеро: находится рядом с Искандеркулем, вода более темного оттенка",
+    "why": "лекс."
+   },
+   {
+    "url": "https://varandej.livejournal.com/863488.html",
+    "snip": "Змеиное озеро, маленькое, метров 200 в поперечнике, отличается от Искандеркуля биосферой и составом воды",
+    "why": "лекс."
+   },
+   {
+    "url": "https://varandej.livejournal.com/845100.html",
+    "snip": "источник соседних строк этого блока",
+    "why": "блок"
+   }
+  ],
+  "lex_top": "https://journal.tinkoff.ru/photoalbum-tadzhikistan/"
+ },
+ {
+  "id": 23,
+  "file": "places__Душанбе.md",
+  "line": 161,
+  "text": "Фанский водопад.",
+  "head": "",
+  "sub": "",
+  "block": [],
+  "cands": [
+   {
+    "url": "https://journal.tinkoff.ru/photoalbum-tadzhikistan/",
+    "snip": "Фанский водопад (вне черты города)",
+    "why": "лекс."
+   },
+   {
+    "url": "https://journal.tinkoff.ru/iskanderkul-lake/",
+    "snip": "для посещения Фанского водопада нужна удобная обувь",
+    "why": "лекс."
+   },
+   {
+    "url": "https://varandej.livejournal.com/863488.html",
+    "snip": "водопад Фанская Ниагара, высота 46 метров (общая), находится в 2 километрах от Искандеркуля",
+    "why": "лекс."
+   }
+  ],
+  "lex_top": "https://journal.tinkoff.ru/photoalbum-tadzhikistan/"
+ },
+ {
+  "id": 24,
+  "file": "places__Душанбе.md",
+  "line": 162,
+  "text": "ГЭС Нурек (Норак).",
+  "head": "",
+  "sub": "",
+  "block": [],
+  "cands": [
+   {
+    "url": "https://journal.tinkoff.ru/photoalbum-tadzhikistan/",
+    "snip": "ГЭС Нурек (Норак) (вне черты города)",
+    "why": "лекс."
+   },
+   {
+    "url": "https://varandej.livejournal.com/849673.html",
+    "snip": "Нурекское водохранилище",
+    "why": "лекс."
+   },
+   {
+    "url": "https://varandej.livejournal.com/976302.html",
+    "snip": "Нурек: высочайшая в мире ГЭС",
+    "why": "лекс."
+   }
+  ],
+  "lex_top": "https://journal.tinkoff.ru/photoalbum-tadzhikistan/"
+ },
+ {
+  "id": 25,
+  "file": "places__Душанбе.md",
+  "line": 163,
+  "text": "Ширкентское ущелье.",
+  "head": "",
+  "sub": "",
+  "block": [],
+  "cands": [
+   {
+    "url": "https://varandej.livejournal.com/842968.html",
+    "snip": "Ширкентское ущелье",
+    "why": "лекс."
+   },
+   {
+    "url": "https://varandej.livejournal.com/847298.html",
+    "snip": "Ширкентское ущелье",
+    "why": "лекс."
+   },
+   {
+    "url": "https://varandej.livejournal.com/845100.html",
+    "snip": "Ширкентское ущелье.",
+    "why": "лекс."
+   }
+  ],
+  "lex_top": "https://varandej.livejournal.com/842968.html"
+ },
+ {
+  "id": 26,
+  "file": "places__Душанбе.md",
+  "line": 164,
+  "text": "Аджина-Тепе.",
+  "head": "",
+  "sub": "",
+  "block": [],
+  "cands": [
+   {
+    "url": "https://varandej.livejournal.com/842968.html",
+    "snip": "Аджина-Тепе",
+    "why": "лекс."
+   },
+   {
+    "url": "https://varandej.livejournal.com/845100.html",
+    "snip": "Аджина‑Тепе.",
+    "why": "лекс."
+   },
+   {
+    "url": "https://varandej.livejournal.com/846365.html",
+    "snip": "Аджина-Тепе.",
+    "why": "лекс."
+   }
+  ],
+  "lex_top": "https://varandej.livejournal.com/842968.html"
+ },
+ {
+  "id": 27,
+  "file": "places__Душанбе.md",
+  "line": 165,
+  "text": "Хульбук.",
+  "head": "",
+  "sub": "",
+  "block": [],
+  "cands": [
+   {
+    "url": "https://varandej.livejournal.com/848993.html",
+    "snip": "Крепость Хульбук: находится в нижних окрестностях Куляба",
+    "why": "лекс."
+   },
+   {
+    "url": "https://varandej.livejournal.com/848620.html",
+    "snip": "Село Курбаншахид, руины древней крепости Хульбук.",
+    "why": "лекс."
+   },
+   {
+    "url": "https://varandej.livejournal.com/822020.html",
+    "snip": "село Курбаншахид: руины древнего города Хульбук и музей",
+    "why": "лекс."
+   }
+  ],
+  "lex_top": "https://varandej.livejournal.com/848993.html"
+ },
+ {
+  "id": 28,
+  "file": "places__Душанбе.md",
+  "line": 166,
+  "text": "Гора Ходжа-Мумин.",
+  "head": "",
+  "sub": "",
+  "block": [],
+  "cands": [
+   {
+    "url": "https://varandej.livejournal.com/842968.html",
+    "snip": "гора Ходжа-Мумин",
+    "why": "лекс."
+   },
+   {
+    "url": "https://varandej.livejournal.com/847298.html",
+    "snip": "гора Ходжа-Мумин",
+    "why": "лекс."
+   },
+   {
+    "url": "https://varandej.livejournal.com/845100.html",
+    "snip": "Гора Ходжа‑Мумин.",
+    "why": "лекс."
+   }
+  ],
+  "lex_top": "https://varandej.livejournal.com/842968.html"
+ },
+ {
+  "id": 29,
+  "file": "places__Искандеркуль.md",
+  "line": 7,
+  "text": "Анзобский водопад.",
+  "head": "",
+  "sub": "Природа",
+  "block": [
+   "https://varandej.livejournal.com/863488.html"
+  ],
+  "cands": [
+   {
+    "url": "https://varandej.livejournal.com/863488.html",
+    "snip": "Анзобский водопад",
+    "why": "лекс."
+   },
+   {
+    "url": "https://varandej.livejournal.com/863328.html",
+    "snip": "Водопадик сквозь дорогу.",
+    "why": "лекс."
+   },
+   {
+    "url": "https://varandej.livejournal.com/860536.html",
+    "snip": "Анзобский перевал.",
+    "why": "лекс."
+   }
+  ],
+  "lex_top": "https://varandej.livejournal.com/863488.html"
+ },
+ {
+  "id": 30,
+  "file": "places__Искандеркуль.md",
+  "line": 29,
+  "text": "мазар в Язгуляме.",
+  "head": "",
+  "sub": "Святыни и памятные места",
+  "block": [],
+  "cands": [
+   {
+    "url": "https://varandej.livejournal.com/866767.html",
+    "snip": "мазар (в Язгуляме)",
+    "why": "лекс."
+   },
+   {
+    "url": "https://varandej.livejournal.com/868252.html",
+    "snip": "мазар Наматгут",
+    "why": "лекс."
+   },
+   {
+    "url": "https://varandej.livejournal.com/861110.html",
+    "snip": "придорожный мазар у села Дар-Дар",
+    "why": "лекс."
+   }
+  ],
+  "lex_top": "https://varandej.livejournal.com/866767.html"
+ },
+ {
+  "id": 31,
+  "file": "places__нурек.md",
+  "line": 5,
+  "text": "Проспект Рудаки.",
+  "head": "",
+  "sub": "",
+  "block": [],
+  "cands": [
+   {
+    "url": "https://varandej.livejournal.com/846318.html",
+    "snip": "проспект Рудаки",
+    "why": "лекс."
+   },
+   {
+    "url": "https://varandej.livejournal.com/845053.html",
+    "snip": "проспект Рудаки",
+    "why": "лекс."
+   },
+   {
+    "url": "https://journal.tinkoff.ru/kyrgyzstan-tadzhikistan-trip/",
+    "snip": "проспект Рудаки в Душанбе",
+    "why": "лекс."
+   }
+  ],
+  "lex_top": "https://varandej.livejournal.com/846318.html"
+ },
+ {
+  "id": 32,
+  "file": "places__нурек.md",
+  "line": 10,
+  "text": "Президентская гимназия.",
+  "head": "",
+  "sub": "",
+  "block": [
+   "https://varandej.livejournal.com/849673.html"
+  ],
+  "cands": [
+   {
+    "url": "https://varandej.livejournal.com/849673.html",
+    "snip": "Президентская гимназия в Нуреке",
+    "why": "лекс."
+   },
+   {
+    "url": "https://varandej.livejournal.com/864805.html",
+    "snip": "Арка у дороги к Дню Независимости с флагом, гербом, строчкой гимна и портретами Эмомали Рахмона и Исмаила Сомони",
+    "why": "лекс."
+   },
+   {
+    "url": "https://varandej.livejournal.com/846005.html",
+    "snip": "Президентский дворец",
+    "why": "лекс."
+   }
+  ],
+  "lex_top": "https://varandej.livejournal.com/849673.html"
+ },
+ {
+  "id": 33,
+  "file": "places__нурек.md",
+  "line": 24,
+  "text": "Памятник Победы.",
+  "head": "",
+  "sub": "",
+  "block": [
+   "https://varandej.livejournal.com/849673.html"
+  ],
+  "cands": [
+   {
+    "url": "https://varandej.livejournal.com/849673.html",
+    "snip": "Памятник Победы в Нуреке",
+    "why": "лекс."
+   },
+   {
+    "url": "https://varandej.livejournal.com/862243.html",
+    "snip": "Памятник Победы во дворе местной школы.",
+    "why": "лекс."
+   },
+   {
+    "url": "https://varandej.livejournal.com/867292.html",
+    "snip": "памятник Победы: расположен к югу от базара, Воин-освободитель напоминает героя персидских легенд.",
+    "why": "лекс."
+   }
+  ],
+  "lex_top": "https://varandej.livejournal.com/849673.html"
+ },
+ {
+  "id": 34,
+  "file": "places__нурек.md",
+  "line": 39,
+  "text": "Дача Рахмонова.",
+  "head": "",
+  "sub": "",
+  "block": [
+   "https://varandej.livejournal.com/849673.html"
+  ],
+  "cands": [
+   {
+    "url": "https://varandej.livejournal.com/849673.html",
+    "snip": "Дача Рахмонова в окрестностях Нурека",
+    "why": "лекс."
+   },
+   {
+    "url": "https://varandej.livejournal.com/863488.html",
+    "snip": "Президентская дача (на дальней стороне озера Искандеркуль)",
+    "why": "лекс."
+   },
+   {
+    "url": "https://varandej.livejournal.com/865240.html",
+    "snip": "русло Вахша, перекрыто второй раз в присутствии Эмомали Рахмона.",
+    "why": "лекс."
+   }
+  ],
+  "lex_top": "https://varandej.livejournal.com/849673.html"
+ },
+ {
+  "id": 35,
+  "file": "places__Практика_въезд_деньги_быт.md",
+  "line": 10,
+  "text": "Православный собор.",
+  "head": "",
+  "sub": "Архитектура и здания",
+  "block": [
+   "https://varandej.livejournal.com/842968.html"
+  ],
+  "cands": [
+   {
+    "url": "https://varandej.livejournal.com/842968.html",
+    "snip": "православный собор в Душанбе",
+    "why": "лекс."
+   },
+   {
+    "url": "https://varandej.livejournal.com/846318.html",
+    "snip": "Никольский собор, 1943-46, реконструкция 2005-11, православный, имеет резной ганчевый иконостас",
+    "why": "лекс."
+   },
+   {
+    "url": "https://varandej.livejournal.com/846822.html",
+    "snip": "Покровская церковь — православный храм, расположенный в Турсунзаде.",
+    "why": "лекс."
+   }
+  ],
+  "lex_top": "https://varandej.livejournal.com/842968.html"
+ },
+ {
+  "id": 36,
+  "file": "places__Прочее.md",
+  "line": 42,
+  "text": "Гафуров.",
+  "head": "",
+  "sub": "Пригород и окрестности",
+  "block": [],
+  "cands": [
+   {
+    "url": "https://varandej.livejournal.com/858933.html",
+    "snip": "Гафуров, пригород Худжанда",
+    "why": "лекс."
+   },
+   {
+    "url": "https://varandej.livejournal.com/859969.html",
+    "snip": "Гафуров, пригород Худжанда.",
+    "why": "лекс."
+   },
+   {
+    "url": "https://varandej.livejournal.com/848620.html",
+    "snip": "Памятник Бободжану Гафурову: расположен на главной площади.",
+    "why": "лекс."
+   }
+  ],
+  "lex_top": "https://varandej.livejournal.com/858933.html"
+ },
+ {
+  "id": 37,
+  "file": "places__Прочее.md",
+  "line": 51,
+  "text": "**Исфара**: нефть.",
+  "head": "",
+  "sub": "Пригород и окрестности",
+  "block": [
+   "https://varandej.livejournal.com/976302.html"
+  ],
+  "cands": [
+   {
+    "url": "https://varandej.livejournal.com/976302.html",
+    "snip": "Исфара: нефть",
+    "why": "лекс."
+   },
+   {
+    "url": "https://varandej.livejournal.com/846876.html",
+    "snip": "Именна эта угроза экономической катастрофы, для Таджикистана более серьёзной, чем для России эмбарго на нефть, и толкнула страну в объятия Китая.",
+    "why": "лекс."
+   },
+   {
+    "url": "https://varandej.livejournal.com/847298.html",
+    "snip": "Здесь добывали нефть и бирюзу, но в первую очередь на весь Хорасан долина Кафирнигана славилась своей мареной - красильным растением, бывшим основным предметом экспорта.",
+    "why": "лекс."
+   }
+  ],
+  "lex_top": "https://varandej.livejournal.com/976302.html"
+ },
+ {
+  "id": 38,
+  "file": "places__Прочее.md",
+  "line": 70,
+  "text": "Озеро Искандеркуль.",
+  "head": "",
+  "sub": "Водные объекты и ГЭС",
+  "block": [],
+  "cands": [
+   {
+    "url": "https://varandej.livejournal.com/861110.html",
+    "snip": "Озеро Искандеркуль",
+    "why": "лекс."
+   },
+   {
+    "url": "https://varandej.livejournal.com/863328.html",
+    "snip": "Озеро Искандеркуль.",
+    "why": "лекс."
+   },
+   {
+    "url": "https://varandej.livejournal.com/822020.html",
+    "snip": "озеро Искандеркуль",
+    "why": "лекс."
+   }
+  ],
+  "lex_top": "https://varandej.livejournal.com/861110.html"
+ },
+ {
+  "id": 39,
+  "file": "places__Согд_Истаравшан_Ура-Тюбе_Кайраккум_Исфара_Канибадам.md",
+  "line": 3,
+  "text": "**Чайханы**: «Азизом».",
+  "head": "",
+  "sub": "",
+  "block": [],
+  "cands": [
+   {
+    "url": "https://varandej.livejournal.com/874781.html",
+    "snip": "чайхана «Азизом» в Худжанде",
+    "why": "лекс."
+   },
+   {
+    "url": "https://varandej.livejournal.com/864805.html",
+    "snip": "Чайхана «Азизом» в Худжанде, с расписным потолком",
+    "why": "лекс."
+   },
+   {
+    "url": "https://varandej.livejournal.com/859767.html",
+    "snip": "Когда построена \"Азизом\" (в переводе - \"Любимые\"), точно не знаю, больше похожа на новодел, но вполне удачный: 37. 38. 39. Ну а дальше - просто дома по бывшей улице Ленина.",
+    "why": "лекс."
+   }
+  ],
+  "lex_top": "https://varandej.livejournal.com/874781.html"
+ },
+ {
+  "id": 40,
+  "file": "places__Согд_Истаравшан_Ура-Тюбе_Кайраккум_Исфара_Канибадам.md",
+  "line": 19,
+  "text": "Чайхана «Ором».",
+  "head": "",
+  "sub": "Архитектура и заведения",
+  "block": [],
+  "cands": [
+   {
+    "url": "https://varandej.livejournal.com/874781.html",
+    "snip": "чайхана «Ором» в Исфаре",
+    "why": "лекс."
+   },
+   {
+    "url": "https://varandej.livejournal.com/861602.html",
+    "snip": "Чайхана при базаре в Пенджикенте.",
+    "why": "лекс."
+   },
+   {
+    "url": "https://varandej.livejournal.com/846005.html",
+    "snip": "Чайханы у Большого Гиссарского канала",
+    "why": "лекс."
+   }
+  ],
+  "lex_top": "https://varandej.livejournal.com/874781.html"
+ },
+ {
+  "id": 41,
+  "file": "places__Согд_Истаравшан_Ура-Тюбе_Кайраккум_Исфара_Канибадам.md",
+  "line": 72,
+  "text": "Ворота с резной дверью.",
+  "head": "",
+  "sub": "Сарымазар (комплекс суфиев)",
+  "block": [
+   "https://varandej.livejournal.com/860822.html"
+  ],
+  "cands": [
+   {
+    "url": "https://varandej.livejournal.com/860822.html",
+    "snip": "Ворота Сарымазара с резной дверью.",
+    "why": "лекс."
+   },
+   {
+    "url": "https://varandej.livejournal.com/861602.html",
+    "snip": "Обратите внимание на облицовку из каменной \"чешуи\" - в Пенджикенте я видел ещё несколько подобных домов, но в других местах Средней Азии такого оформления не припомню: 12. За резной дверью - тёмный за",
+    "why": "лекс."
+   },
+   {
+    "url": "https://varandej.livejournal.com/867708.html",
+    "snip": "За глиняным забором - настоящая Священная роща, как где-нибудь в Марий Эл , и когда я неуверенно замер у низеньких ворот с архаровыми рогами, в дверь которых не пройти без поклона, проходившие мимо му",
+    "why": "лекс."
+   }
+  ],
+  "lex_top": "https://varandej.livejournal.com/860822.html"
+ },
+ {
+  "id": 42,
+  "file": "places__Согд_Истаравшан_Ура-Тюбе_Кайраккум_Исфара_Канибадам.md",
+  "line": 122,
+  "text": "Туркестанский хребет.",
+  "head": "",
+  "sub": "Прочее",
+  "block": [
+   "https://varandej.livejournal.com/863226.html",
+   "https://varandej.livejournal.com/874781.html"
+  ],
+  "cands": [
+   {
+    "url": "https://varandej.livejournal.com/858933.html",
+    "snip": "Туркестанский хребет (к югу от Худжанда)",
+    "why": "лекс."
+   },
+   {
+    "url": "https://varandej.livejournal.com/860405.html",
+    "snip": "Туркестанский хребет (горы на заднем плане).",
+    "why": "лекс."
+   },
+   {
+    "url": "https://varandej.livejournal.com/861110.html",
+    "snip": "Туркестанский хребет протянулся на 340 километров от Ферганской долины до Самарканда",
+    "why": "лекс."
+   },
+   {
+    "url": "https://varandej.livejournal.com/863226.html",
+    "snip": "Поднявшись по долине Зерафшана в самый глухой горный угол нового Русского Туркестана, они были изрядно удивлены, встретив людей, говоривших на языке, совершенно не похожим ни на таджикский, ни на узбе",
+    "why": "блок"
+   }
+  ],
+  "lex_top": "https://varandej.livejournal.com/858933.html"
+ },
+ {
+  "id": 43,
+  "file": "places__Хатлон_Бохтар_Курган-Тюбе_Куляб_Шаартуз_Вахда.md",
+  "line": 30,
+  "text": "Мечеть в Кулябе.",
+  "head": "",
+  "sub": "Храмы и памятники",
+  "block": [],
+  "cands": [
+   {
+    "url": "https://varandej.livejournal.com/848832.html",
+    "snip": "Мечеть в Кулябе.",
+    "why": "лекс."
+   },
+   {
+    "url": "https://varandej.livejournal.com/848993.html",
+    "snip": "мечеть Хаджи-Мирзо на выезде из Куляба, названа в честь одного из известнейших имамов современного Таджикистана",
+    "why": "лекс."
+   },
+   {
+    "url": "https://varandej.livejournal.com/976302.html",
+    "snip": "Ныне здесь вроде спокойно, вроде даже уютно, на улицах чисто, и есть на что посмотреть (в том числе церковь и костёл в отсутствии мечети)... и всё равно в Бохтаре не отпускает страх. Курган-Тюбе 51. К",
+    "why": "лекс."
+   }
+  ],
+  "lex_top": "https://varandej.livejournal.com/848832.html"
+ },
+ {
+  "id": 44,
+  "file": "places__Хатлон_Бохтар_Курган-Тюбе_Куляб_Шаартуз_Вахда.md",
+  "line": 71,
+  "text": "Гиссарская крепость.",
+  "head": "",
+  "sub": "Крепости и городища",
+  "block": [],
+  "cands": [
+   {
+    "url": "https://varandej.livejournal.com/847298.html",
+    "snip": "крепость в Гиссаре",
+    "why": "лекс."
+   },
+   {
+    "url": "https://varandej.livejournal.com/845100.html",
+    "snip": "Гиссар и его крепость.",
+    "why": "лекс."
+   },
+   {
+    "url": "https://journal.tinkoff.ru/tadzhikistan-entry-rules/",
+    "snip": "Гиссарская крепость: древняя крепость",
+    "why": "лекс."
+   }
+  ],
+  "lex_top": "https://varandej.livejournal.com/847298.html"
+ },
+ {
+  "id": 45,
+  "file": "places__Худжанд.md",
+  "line": 11,
+  "text": "Гостиница «Ленинабад».",
+  "head": "",
+  "sub": "",
+  "block": [
+   "https://varandej.livejournal.com/859152.html"
+  ],
+  "cands": [
+   {
+    "url": "https://varandej.livejournal.com/859576.html",
+    "snip": "Гостиница «Ленинабад».",
+    "why": "лекс."
+   },
+   {
+    "url": "https://varandej.livejournal.com/859767.html",
+    "snip": "гостиница \"Шарк\" (\"Восток\"), сталинка, расположена на Восточной улице, на фронтоне Ленин и Сталин",
+    "why": "лекс."
+   },
+   {
+    "url": "https://www.onetwotrip.com/ru/blog/travel-ideas/journeys-travel-ideas/most-beautiful-mountain-peaks-in-russia-cis/",
+    "snip": "Зато у подножья разбито несколько лагерей для альпинистов, остановиться в которых может любой желающий. Наиболее благоприятные условия для осмотра пика Ленина с июля по сентябрь. Чтобы найти подходящу",
+    "why": "лекс."
+   },
+   {
+    "url": "https://varandej.livejournal.com/859152.html",
+    "snip": "Худжанд, Бекабад, Ашхабад, Душанбе, Алма-Ата, Бишкек, Ош, Чкаловск, Киргизия, Узбекистан, Таджикистан, Ленинабад, Ходжент",
+    "why": "блок"
+   }
+  ],
+  "lex_top": "https://varandej.livejournal.com/859576.html"
+ },
+ {
+  "id": 46,
+  "file": "places__Худжанд.md",
+  "line": 18,
+  "text": "Школа №1 имени Пушкина.",
+  "head": "",
+  "sub": "",
+  "block": [
+   "https://varandej.livejournal.com/859767.html",
+   "https://varandej.livejournal.com/859576.html"
+  ],
+  "cands": [
+   {
+    "url": "https://varandej.livejournal.com/859576.html",
+    "snip": "Школа №1 имени Пушкина.",
+    "why": "лекс."
+   },
+   {
+    "url": "https://varandej.livejournal.com/858933.html",
+    "snip": "Русский драмтеатр имени Пушкина на улице Гафурова (основан в 1932 году)",
+    "why": "лекс."
+   },
+   {
+    "url": "https://varandej.livejournal.com/845100.html",
+    "snip": "Национальная библиотека имени Фирдауси (1954), основана в 1933 г., на фасаде увековечены Толстой и Пушкин, есть резная дверь.",
+    "why": "лекс."
+   },
+   {
+    "url": "https://varandej.livejournal.com/859767.html",
+    "snip": "источник соседних строк этого блока",
+    "why": "блок"
+   }
+  ],
+  "lex_top": "https://varandej.livejournal.com/859576.html"
+ },
+ {
+  "id": 47,
+  "file": "places__Худжанд.md",
+  "line": 64,
+  "text": "Набережные Сырдарьи.",
+  "head": "",
+  "sub": "",
+  "block": [
+   "https://varandej.livejournal.com/859767.html",
+   "https://varandej.livejournal.com/859576.html"
+  ],
+  "cands": [
+   {
+    "url": "https://varandej.livejournal.com/859767.html",
+    "snip": "набережные Сырдарьи, Худжанд",
+    "why": "лекс."
+   },
+   {
+    "url": "https://tengritravel.kz/my-country/evan-makgregor-vdohnovil-kazahstantsa-put-pamira-odinochku-387282/",
+    "snip": "Нашел достаточно дешевую гостиницу по сравнению с алматинскими ценами. Видно, что состояние экономики страны еще не совсем выправилось. Я был впечатлен набережной реки Сырдарья, которая разделяет горо",
+    "why": "лекс."
+   },
+   {
+    "url": "https://varandej.livejournal.com/862243.html",
+    "snip": "Речка Киштут (набережная — главная улица кишлака в Панджруде).",
+    "why": "лекс."
+   },
+   {
+    "url": "https://varandej.livejournal.com/859576.html",
+    "snip": "Домик на набережной, упоминаемый в заметках путешественника 19 века как почта.",
+    "why": "блок"
+   }
+  ],
+  "lex_top": "https://varandej.livejournal.com/859767.html"
+ },
+ {
+  "id": 48,
+  "file": "places__Худжанд.md",
+  "line": 66,
+  "text": "Восточная улица (Шарк).",
+  "head": "",
+  "sub": "",
+  "block": [
+   "https://varandej.livejournal.com/859767.html",
+   "https://varandej.livejournal.com/859576.html"
+  ],
+  "cands": [
+   {
+    "url": "https://varandej.livejournal.com/859767.html",
+    "snip": "Восточная улица (Шарк), Худжанд",
+    "why": "лекс."
+   },
+   {
+    "url": "https://varandej.livejournal.com/869157.html",
+    "snip": "|| Ош восточный . || Сулейман-гора. Виды и вершины , да ещё пол-поста о базаре . Но вот эту мозаику, к примеру, я тогда не заснял: 49. Равно как и троллейбус, исправно курсирующий по ошским улицам с 1",
+    "why": "лекс."
+   },
+   {
+    "url": "https://varandej.livejournal.com/845053.html",
+    "snip": "улица Айни",
+    "why": "лекс."
+   },
+   {
+    "url": "https://varandej.livejournal.com/859576.html",
+    "snip": "Разграбила магазины, подербанила базарщиков, устоили срельбу из гранатометов на улицах города, обстреляли скорою помощь. По городу ездили пьяные менты и безобразничали. У нас в городе погибла женщина,",
+    "why": "блок"
+   }
+  ],
+  "lex_top": "https://varandej.livejournal.com/859767.html"
+ },
+ {
+  "id": 49,
+  "file": "places__Худжанд.md",
+  "line": 67,
+  "text": "Граффити за базаром.",
+  "head": "",
+  "sub": "",
+  "block": [
+   "https://varandej.livejournal.com/859576.html",
+   "https://varandej.livejournal.com/859767.html"
+  ],
+  "cands": [
+   {
+    "url": "https://varandej.livejournal.com/859767.html",
+    "snip": "граффити в Худжанде за базаром",
+    "why": "лекс."
+   },
+   {
+    "url": "https://varandej.livejournal.com/845053.html",
+    "snip": "В прошлой части была надпись \"Nirvana\", а вот совсем не азиатского вида граффити - здесь такие сюжеты встречаются, пожалуй, даже чаще, чем в Ташкенте или Бишкеке, словно попытки прорвать всеобщую патр",
+    "why": "лекс."
+   },
+   {
+    "url": "https://varandej.livejournal.com/866418.html",
+    "snip": "Афган-базар.",
+    "why": "лекс."
+   },
+   {
+    "url": "https://varandej.livejournal.com/859576.html",
+    "snip": "Панчшанбе-базар.",
+    "why": "блок"
+   }
+  ],
+  "lex_top": "https://varandej.livejournal.com/859767.html"
+ },
+ {
+  "id": 50,
+  "file": "places__Ягноб_и_Фанские_горы.md",
+  "line": 28,
+  "text": "Пятиэтажка под горой.",
+  "head": "",
+  "sub": "Архитектура и городские объекты",
+  "block": [
+   "https://varandej.livejournal.com/864805.html"
+  ],
+  "cands": [
+   {
+    "url": "https://varandej.livejournal.com/864805.html",
+    "snip": "Пятиэтажка под горой в Гарме",
+    "why": "лекс."
+   },
+   {
+    "url": "https://varandej.livejournal.com/874781.html",
+    "snip": "город Худжанд, стоит под горой Музбек (1624м)",
+    "why": "лекс."
+   },
+   {
+    "url": "https://varandej.livejournal.com/860405.html",
+    "snip": "Здание в Истаравшане под горой: стилизация под дореволюционку или больница, построенная русскими (мнение автора).",
+    "why": "лекс."
+   }
+  ],
+  "lex_top": "https://varandej.livejournal.com/864805.html"
+ },
+ {
+  "id": 51,
+  "file": "прочее.md",
+  "line": 23,
+  "text": "Центр — Худжанд.",
+  "head": "",
+  "sub": "",
+  "block": [
+   "https://varandej.livejournal.com/844767.html"
+  ],
+  "cands": [
+   {
+    "url": "https://varandej.livejournal.com/861110.html",
+    "snip": "Худжанд: Сырдарья, Центр, Пачшанбе",
+    "why": "лекс."
+   },
+   {
+    "url": "https://varandej.livejournal.com/860536.html",
+    "snip": "Худжанд (Сырдарья, Центр, Пачшанбе).",
+    "why": "лекс."
+   },
+   {
+    "url": "https://varandej.livejournal.com/843437.html",
+    "snip": "Согдийская область — северная, центр в Худжанде",
+    "why": "лекс."
+   },
+   {
+    "url": "https://varandej.livejournal.com/844767.html",
+    "snip": "В Худжанде (здесь, думаю, такое тоже в порядке вещей), где мы снимали квартиру, к нам стучались продавцы пирожков, а вот дети с пирожками зашли искать покупателя в салон сотовой связи близ центра.",
+    "why": "блок"
+   }
+  ],
+  "lex_top": "https://varandej.livejournal.com/861110.html"
+ },
+ {
+  "id": 52,
+  "file": "прочее.md",
+  "line": 51,
+  "text": "Зоркуль: 4160 м.",
+  "head": "",
+  "sub": "География и высоты",
+  "block": [],
+  "cands": [
+   {
+    "url": "https://varandej.livejournal.com/868451.html",
+    "snip": "Зоркуль находится на высоте 4160м.",
+    "why": "лекс."
+   }
+  ],
+  "lex_top": "https://varandej.livejournal.com/868451.html"
+ },
+ {
+  "id": 53,
+  "file": "прочее.md",
+  "line": 53,
+  "text": "Наматгут: 2,5 км.",
+  "head": "",
+  "sub": "География и высоты",
+  "block": [],
+  "cands": [
+   {
+    "url": "https://varandej.livejournal.com/867708.html",
+    "snip": "Наматгут: самая южная точка путешествий автора (южнее Термеза и Шаартуза), высота 2,5 километров",
+    "why": "лекс."
+   },
+   {
+    "url": "https://varandej.livejournal.com/863328.html",
+    "snip": "Кишлак Гармен расположен на высоте двух с половиной километров (2,5 км).",
+    "why": "лекс."
+   },
+   {
+    "url": "https://varandej.livejournal.com/866303.html",
+    "snip": "Бадахшан — юго-запад Памира и северные хребты Гиндукуша, долины на высоте 1,5-2,5 километра.",
+    "why": "лекс."
+   }
+  ],
+  "lex_top": "https://varandej.livejournal.com/867708.html"
+ },
+ {
+  "id": 54,
+  "file": "транспорт_связь.md",
+  "line": 64,
+  "text": "До Ишкашима: 50 сомони.",
+  "head": "",
+  "sub": "Локальные поездки",
+  "block": [],
+  "cands": [
+   {
+    "url": "https://varandej.livejournal.com/867343.html",
+    "snip": "маршрут до Ишкашима, стоимость 50 сомони.",
+    "why": "лекс."
+   },
+   {
+    "url": "https://www.aviasales.ru/psgr/article/vykhodnye-tajikistan",
+    "snip": "ТРАНСПОРТ_СВЯЗЬ Автобус до Душанбе стоит 50 сомони",
+    "why": "лекс."
+   },
+   {
+    "url": "https://varandej.livejournal.com/822020.html",
+    "snip": "100 сомони (почти 1000 рублей) за 50 километров на Памирском тракте",
+    "why": "лекс."
+   }
+  ],
+  "lex_top": "https://varandej.livejournal.com/867343.html"
+ }
+]

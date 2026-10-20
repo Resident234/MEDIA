@@ -1,0 +1,109 @@
+{
+ "url": "https://yandex.kz/maps/org/suvenirnaya_lavka_sssr/76983650997/?ll=68.788960%2C38.570390&z=16",
+ "title": "Сувенирная лавка СССР, магазин подарков и сувениров, Душанбе, просп. Рудаки, 37 — Яндекс Карты",
+ "h1": "Сувенирная лавка СССР",
+ "coords": [
+  "68.78896,38.57039",
+  "68.788960,38.570390"
+ ],
+ "rating": [
+  "Оценка 5 Из 5"
+ ],
+ "categories": [
+  "Магазин подарков и сувениров",
+  "Антикварный магазин"
+ ],
+ "address": [
+  {
+   "t": "Душанбе, просп. Рудаки, 37",
+   "h": "/maps/10318/dushanbe/house/YkEYcQ9oQEMHQF1ifXl2cX9qZA==/"
+  },
+  {
+   "t": "Душанбе, просп. Рудаки, 37",
+   "h": null
+  },
+  {
+   "t": "Душанбе, просп. Рудаки, 37",
+   "h": "/maps/10318/dushanbe/house/YkEYcQ9oQEMHQF1ifXl2cX9qZA==/"
+  },
+  {
+   "t": "Маршрут",
+   "h": null
+  }
+ ],
+ "phones": [
+  {
+   "t": "+992 91 874 17 50",
+   "h": null
+  },
+  {
+   "t": "+992 91 874 17 50 Показать телефон",
+   "h": null
+  },
+  {
+   "t": "+992 91 874 17 50 Показать телефон",
+   "h": null
+  }
+ ],
+ "msgLinks": [
+  {
+   "t": "",
+   "h": "https://vk.com/yandex.maps",
+   "c": "card-social-links-view__link",
+   "ownOrg": 0
+  },
+  {
+   "t": "",
+   "h": "https://t.me/mapsyandex",
+   "c": "card-social-links-view__link",
+   "ownOrg": 0
+  }
+ ],
+ "apps": [],
+ "extLinks": [],
+ "social": [
+  {
+   "t": "",
+   "h": "https://vk.com/yandex.maps",
+   "c": "card-social-links-view__link"
+  },
+  {
+   "t": "",
+   "h": "https://t.me/mapsyandex",
+   "c": "card-social-links-view__link"
+  },
+  {
+   "t": "",
+   "h": "https://zen.yandex.ru/yandexmaps",
+   "c": "card-social-links-view__link"
+  }
+ ],
+ "btns": [],
+ "emails": [],
+ "contactBlock": [
+  "Адрес Душанбе, просп. Рудаки, 37 Маршрут",
+  "Адрес",
+  "",
+  "Душанбе, просп. Рудаки, 37",
+  "Душанбе, просп. Рудаки, 37",
+  "Маршрут",
+  "Маршрут",
+  "Контакты +992 91 874 17 50 Показать телефон",
+  "Контакты",
+  "",
+  "Время работы Открыто до 22:00 График",
+  "Время работы",
+  ""
+ ],
+ "hours": [],
+ "list": {
+  "name": "Сувенирная лавка СССР",
+  "city": "dushanbe",
+  "rating": null,
+  "reviews": null,
+  "lon": "68.788960",
+  "lat": "38.570390",
+  "src": "сувениры",
+  "priority": true
+ }
+}

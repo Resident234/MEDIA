@@ -1,0 +1,32 @@
+contact_probe: {
+ "with_contact_fields": {
+  "code": 400,
+  "error": "incorrectParams",
+  "n_items": 0,
+  "item_keys": [],
+  "contacts_present": []
+ },
+ "bare": {
+  "code": 400,
+  "error": "incorrectParams",
+  "n_items": 0,
+  "item_keys": [],
+  "contacts_present": []
+ },
+ "reviews_only": {
+  "code": 400,
+  "error": "incorrectParams",
+  "n_items": 0,
+  "item_keys": [],
+  "contacts_present": []
+ },
+ "byphone": {
+  "code": 404,
+  "error": "itemNotFound"
+ }
+}
+country_facet total=159
+cities: [{"name": "Душанбе г. (Таджикистан)", "count": 49}, {"name": "Ош г. (Ош город респ. значения, Кыргызстан)", "count": 35}, {"name": "Манас г. (Манас город областного подчинения, Джалал-Абадская обл., Кыргызстан)", "count": 5}, {"name": "Ноокат г. (Ноокатский район, Ошская обл., Кыргызстан)", "count": 2}, {"name": "Нариман с. (Кара-Суйский район, Ошская область, Кыргызстан)", "count": 1}, {"name": "Суроттуу-Таш с. (Ош город респ. значения, Кыргызстан)", "count": 1}, {"name": "Демер с. (Манас город областного подчинения, Джалал-Абадская обл., Кыргызстан)", "count": 1}, {"name": "Кара-Суу г. (Кара-Суйский район, Ошская обл., Кыргызстан)", "count": 1}, {"name": "Ладан-Кара с. (Манас город областного подчинения, Джалал-Абадская обл., Кыргызстан)", "count": 1}, {"name": "Дыйкан-Кыштак с. (Ош город респ. значения, Кыргызстан)", "count": 1}, {"name": "Падаван с. (Кара-Суйский район, Ошская область, Кыргызстан)", "count": 1}, {"name": "Узген г. (Узгенский район, Ошская обл., Кыргызстан)", "count": 1}, {"name": "Кызыл-Кия г. (Кызыл-Кия город областного подчинения, Баткенская обл., Кыргызстан)", "count": 1}]
+rubrics: [{"id": "268", "name": "Фитнес-клубы", "count": 89}, {"id": "267", "name": "Тренажёрные залы", "count": 41}, {"id": "51256", "name": "Спортивные секции", "count": 9}, {"id": "261", "name": "Бассейны", "count": 6}, {"id": "20228", "name": "Центры йоги", "count": 6}, {"id": "1233", "name": "Спортивное питание", "count": 4}, {"id": "4515", "name": "Обучение танцам", "count": 4}, {"id": "56759", "name": "SPA-процедуры", "count": 3}, {"id": "110354", "name": "Занятия ЛФК", "count": 2}, {"id": "946", "name": "Бани и сауны", "count": 2}, {"id": "13726", "name": "Массажист", "count": 2}, {"id": "110498", "name": "Аренда спортивных площадок", "count": 2}, {"id": "112847", "name": "Нутрициолог", "count": 1}]
+items with reviews_raw keys sample: [["is_reviewable", "is_reviewable_on_flamp", "items"], ["is_reviewable", "is_reviewable_on_flamp", "items"], ["is_reviewable", "is_reviewable_on_flamp", "items"], ["general_review_count_with_stars", "is_reviewable", "is_reviewable_on_flamp", "items", "org_rating", "org_review_count", "org_review_count_with_stars"], ["is_reviewable", "is_reviewable_on_flamp", "items"]]
+rated items: 19

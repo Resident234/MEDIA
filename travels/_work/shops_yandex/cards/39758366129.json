@@ -1,0 +1,97 @@
+{
+ "url": "https://yandex.kz/maps/org/torgovy_tsentr_mulliyon/39758366129/?ll=68.784783%2C38.581313&z=16",
+ "title": "Торговый центр Муллиён, торговый центр, Душанбе, ул. Фатеха Ниязи, 36 — Яндекс Карты",
+ "h1": "Торговый центр Муллиён",
+ "coords": [
+  "68.78483,38.581264",
+  "68.784830,38.581264"
+ ],
+ "rating": [
+  "Оценка 4.4 Из 5",
+  "Оценка 4.4 Из 5",
+  "Оценка 5 Из 5"
+ ],
+ "categories": [
+  "Торговый центр"
+ ],
+ "address": [
+  {
+   "t": "Душанбе, ул. Фатеха Ниязи, 36",
+   "h": "/maps/10318/dushanbe/house/YkEYcQ9kTk0EQF1ifXl5cH9iZw==/"
+  },
+  {
+   "t": "Душанбе, ул. Фатеха Ниязи, 36",
+   "h": null
+  },
+  {
+   "t": "Душанбе, ул. Фатеха Ниязи, 36",
+   "h": "/maps/10318/dushanbe/house/YkEYcQ9kTk0EQF1ifXl5cH9iZw==/"
+  },
+  {
+   "t": "Маршрут",
+   "h": null
+  }
+ ],
+ "phones": [],
+ "msgLinks": [
+  {
+   "t": "",
+   "h": "https://vk.com/yandex.maps",
+   "c": "card-social-links-view__link",
+   "ownOrg": 0
+  },
+  {
+   "t": "",
+   "h": "https://t.me/mapsyandex",
+   "c": "card-social-links-view__link",
+   "ownOrg": 0
+  }
+ ],
+ "apps": [],
+ "extLinks": [],
+ "social": [
+  {
+   "t": "",
+   "h": "https://vk.com/yandex.maps",
+   "c": "card-social-links-view__link"
+  },
+  {
+   "t": "",
+   "h": "https://t.me/mapsyandex",
+   "c": "card-social-links-view__link"
+  },
+  {
+   "t": "",
+   "h": "https://zen.yandex.ru/yandexmaps",
+   "c": "card-social-links-view__link"
+  }
+ ],
+ "btns": [],
+ "emails": [],
+ "contactBlock": [
+  "Адрес Душанбе, ул. Фатеха Ниязи, 36 Маршрут",
+  "Адрес",
+  "",
+  "Душанбе, ул. Фатеха Ниязи, 36",
+  "Душанбе, ул. Фатеха Ниязи, 36",
+  "Маршрут",
+  "Маршрут",
+  "Контакты Телефон не указан Добавить",
+  "Контакты",
+  "",
+  "Время работы Открыто до 18:00 График",
+  "Время работы",
+  ""
+ ],
+ "hours": [],
+ "list": {
+  "name": "Торговый центр Муллиён",
+  "city": "dushanbe",
+  "rating": 4.4,
+  "reviews": 24,
+  "lon": "68.784830",
+  "lat": "38.581264",
+  "src": "торговый центр",
+  "priority": true
+ }
+}

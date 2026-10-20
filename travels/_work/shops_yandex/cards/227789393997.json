@@ -1,0 +1,97 @@
+{
+ "url": "https://yandex.kz/maps/org/aziatskiy_rynok/227789393997/?ll=68.757609%2C38.571151&z=16",
+ "title": "Азиатский рынок, рынок, Душанбе, просп. Абуали ибн Сино, 110/1 — Яндекс Карты",
+ "h1": "Азиатский рынок",
+ "coords": [
+  "68.75726,38.571163",
+  "68.757260,38.571163"
+ ],
+ "rating": [
+  "Оценка 4.4 Из 5",
+  "Оценка 4.4 Из 5",
+  "Оценка 5 Из 5"
+ ],
+ "categories": [
+  "Рынок"
+ ],
+ "address": [
+  {
+   "t": "Душанбе, просп. Абуали ибн Сино, 110/1",
+   "h": "/maps/10318/dushanbe/house/YkEYcQJnT0UOQF1ifXl2cH1mZQ==/"
+  },
+  {
+   "t": "Душанбе, просп. Абуали ибн Сино, 110/1",
+   "h": null
+  },
+  {
+   "t": "Душанбе, просп. Абуали ибн Сино, 110/1",
+   "h": "/maps/10318/dushanbe/house/YkEYcQJnT0UOQF1ifXl2cH1mZQ==/"
+  },
+  {
+   "t": "Маршрут",
+   "h": null
+  }
+ ],
+ "phones": [],
+ "msgLinks": [
+  {
+   "t": "",
+   "h": "https://vk.com/yandex.maps",
+   "c": "card-social-links-view__link",
+   "ownOrg": 0
+  },
+  {
+   "t": "",
+   "h": "https://t.me/mapsyandex",
+   "c": "card-social-links-view__link",
+   "ownOrg": 0
+  }
+ ],
+ "apps": [],
+ "extLinks": [],
+ "social": [
+  {
+   "t": "",
+   "h": "https://vk.com/yandex.maps",
+   "c": "card-social-links-view__link"
+  },
+  {
+   "t": "",
+   "h": "https://t.me/mapsyandex",
+   "c": "card-social-links-view__link"
+  },
+  {
+   "t": "",
+   "h": "https://zen.yandex.ru/yandexmaps",
+   "c": "card-social-links-view__link"
+  }
+ ],
+ "btns": [],
+ "emails": [],
+ "contactBlock": [
+  "Адрес Душанбе, просп. Абуали ибн Сино, 110/1 Маршрут",
+  "Адрес",
+  "",
+  "Душанбе, просп. Абуали ибн Сино, 110/1",
+  "Душанбе, просп. Абуали ибн Сино, 110/1",
+  "Маршрут",
+  "Маршрут",
+  "Контакты Телефон не указан Добавить",
+  "Контакты",
+  "",
+  "Время работы График работы не указан Добавить",
+  "Время работы",
+  ""
+ ],
+ "hours": [],
+ "list": {
+  "name": "Азиатский рынок",
+  "city": "dushanbe",
+  "rating": 4.4,
+  "reviews": 14,
+  "lon": "68.757260",
+  "lat": "38.571163",
+  "src": "базар+рынок",
+  "priority": true
+ }
+}

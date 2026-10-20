@@ -1,0 +1,111 @@
+{
+ "url": "https://yandex.kz/maps/org/svyato_nikolskiy_cobor/112423240918/?ll=68.816754%2C38.566426&z=16",
+ "title": "Свято-Никольский Cобор, православный храм, Душанбе, ул. Дружбы народов, 58 — Яндекс Карты",
+ "h1": "Свято-Никольский Cобор",
+ "coords": [
+  "68.816747,38.566465",
+  "68.816747,38.566465"
+ ],
+ "rating": [
+  "Оценка 4.9 Из 5",
+  "Оценка 4.9 Из 5",
+  "Оценка 5 Из 5"
+ ],
+ "categories": [
+  "Православный храм"
+ ],
+ "address": [
+  {
+   "t": "Душанбе, ул. Дружбы народов, 58",
+   "h": "/maps/10318/dushanbe/house/YkEYfgZmTkADQF1ifXl3d3hhYg==/"
+  },
+  {
+   "t": "Душанбе, ул. Дружбы народов, 58",
+   "h": null
+  },
+  {
+   "t": "Душанбе, ул. Дружбы народов, 58",
+   "h": "/maps/10318/dushanbe/house/YkEYfgZmTkADQF1ifXl3d3hhYg==/"
+  },
+  {
+   "t": "Маршрут",
+   "h": null
+  }
+ ],
+ "phones": [],
+ "msgLinks": [
+  {
+   "t": "",
+   "h": "https://www.facebook.com/1446403702255462",
+   "c": "button _view_secondary-gray _ui _size_medium _link",
+   "ownOrg": 1
+  },
+  {
+   "t": "",
+   "h": "https://vk.com/yandex.maps",
+   "c": "card-social-links-view__link",
+   "ownOrg": 0
+  },
+  {
+   "t": "",
+   "h": "https://t.me/mapsyandex",
+   "c": "card-social-links-view__link",
+   "ownOrg": 0
+  }
+ ],
+ "apps": [],
+ "extLinks": [],
+ "social": [
+  {
+   "t": "",
+   "h": "https://www.facebook.com/1446403702255462",
+   "c": "button _view_secondary-gray _ui _size_medium _link"
+  },
+  {
+   "t": "",
+   "h": "https://vk.com/yandex.maps",
+   "c": "card-social-links-view__link"
+  },
+  {
+   "t": "",
+   "h": "https://t.me/mapsyandex",
+   "c": "card-social-links-view__link"
+  },
+  {
+   "t": "",
+   "h": "https://zen.yandex.ru/yandexmaps",
+   "c": "card-social-links-view__link"
+  }
+ ],
+ "btns": [],
+ "emails": [],
+ "contactBlock": [
+  "Адрес Душанбе, ул. Дружбы народов, 58 Маршрут",
+  "Адрес",
+  "",
+  "Душанбе, ул. Дружбы народов, 58",
+  "Душанбе, ул. Дружбы народов, 58",
+  "Маршрут",
+  "Маршрут",
+  "Контакты Телефон не указан Добавить",
+  "Контакты",
+  "",
+  "",
+  "",
+  "",
+  "Время работы Открыто до 18:00 График",
+  "Время работы",
+  ""
+ ],
+ "hours": [],
+ "list": {
+  "name": "Свято-Никольский Cобор",
+  "city": "dushanbe",
+  "rating": null,
+  "reviews": 65,
+  "lon": "68.816747",
+  "lat": "38.566465",
+  "src": "Никольский собор",
+  "priority": true
+ }
+}

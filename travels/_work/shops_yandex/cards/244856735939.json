@@ -1,0 +1,96 @@
+{
+ "url": "https://yandex.kz/maps/org/torgovy_tsentr_yokut_2000/244856735939/?ll=68.827741%2C38.541526&z=12",
+ "title": "Торговый центр Ёкут 2000, торговый центр, Душанбе, район Шохмансур — Яндекс Карты",
+ "h1": "Торговый центр Ёкут 2000",
+ "coords": [
+  "68.794396,38.559354",
+  "68.794396,38.559354"
+ ],
+ "rating": [
+  "Оценка 1.8 Из 5",
+  "Оценка 1.8 Из 5"
+ ],
+ "categories": [
+  "Торговый центр"
+ ],
+ "address": [
+  {
+   "t": "Душанбе, район Шохмансур",
+   "h": "/maps/10318/dushanbe/geo/4241168719/"
+  },
+  {
+   "t": "Душанбе, район Шохмансур",
+   "h": null
+  },
+  {
+   "t": "Душанбе, район Шохмансур",
+   "h": "/maps/10318/dushanbe/geo/4241168719/"
+  },
+  {
+   "t": "Маршрут",
+   "h": null
+  }
+ ],
+ "phones": [],
+ "msgLinks": [
+  {
+   "t": "",
+   "h": "https://vk.com/yandex.maps",
+   "c": "card-social-links-view__link",
+   "ownOrg": 0
+  },
+  {
+   "t": "",
+   "h": "https://t.me/mapsyandex",
+   "c": "card-social-links-view__link",
+   "ownOrg": 0
+  }
+ ],
+ "apps": [],
+ "extLinks": [],
+ "social": [
+  {
+   "t": "",
+   "h": "https://vk.com/yandex.maps",
+   "c": "card-social-links-view__link"
+  },
+  {
+   "t": "",
+   "h": "https://t.me/mapsyandex",
+   "c": "card-social-links-view__link"
+  },
+  {
+   "t": "",
+   "h": "https://zen.yandex.ru/yandexmaps",
+   "c": "card-social-links-view__link"
+  }
+ ],
+ "btns": [],
+ "emails": [],
+ "contactBlock": [
+  "Адрес Душанбе, район Шохмансур Маршрут",
+  "Адрес",
+  "",
+  "Душанбе, район Шохмансур",
+  "Душанбе, район Шохмансур",
+  "Маршрут",
+  "Маршрут",
+  "Контакты Телефон не указан Добавить",
+  "Контакты",
+  "",
+  "Время работы График работы не указан Добавить",
+  "Время работы",
+  ""
+ ],
+ "hours": [],
+ "list": {
+  "name": "Торговый центр Ёкут 2000",
+  "city": "dushanbe",
+  "rating": 1.8,
+  "reviews": 7,
+  "lon": "68.794396",
+  "lat": "38.559354",
+  "src": "торговый центр",
+  "priority": true
+ }
+}

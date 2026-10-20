@@ -1,0 +1,93 @@
+{
+ "url": "https://yandex.kz/maps/org/art_tj/97817308267/?ll=68.785825%2C38.584648&z=16",
+ "title": "Art.TJ, магазин подарков и сувениров, Душанбе, просп. Рудаки, 93/1 — Яндекс Карты",
+ "h1": "Art.TJ",
+ "coords": [
+  "68.78579,38.584943",
+  "68.785790,38.584943"
+ ],
+ "rating": [],
+ "categories": [
+  "Магазин подарков и сувениров"
+ ],
+ "address": [
+  {
+   "t": "Душанбе, просп. Рудаки, 93/1",
+   "h": "/maps/10318/dushanbe/house/YkEYcQ9lQUcCQF1ifXl5dXpnbA==/"
+  },
+  {
+   "t": "Душанбе, просп. Рудаки, 93/1",
+   "h": null
+  },
+  {
+   "t": "Душанбе, просп. Рудаки, 93/1",
+   "h": "/maps/10318/dushanbe/house/YkEYcQ9lQUcCQF1ifXl5dXpnbA==/"
+  },
+  {
+   "t": "Маршрут",
+   "h": null
+  }
+ ],
+ "phones": [],
+ "msgLinks": [
+  {
+   "t": "",
+   "h": "https://vk.com/yandex.maps",
+   "c": "card-social-links-view__link",
+   "ownOrg": 0
+  },
+  {
+   "t": "",
+   "h": "https://t.me/mapsyandex",
+   "c": "card-social-links-view__link",
+   "ownOrg": 0
+  }
+ ],
+ "apps": [],
+ "extLinks": [],
+ "social": [
+  {
+   "t": "",
+   "h": "https://vk.com/yandex.maps",
+   "c": "card-social-links-view__link"
+  },
+  {
+   "t": "",
+   "h": "https://t.me/mapsyandex",
+   "c": "card-social-links-view__link"
+  },
+  {
+   "t": "",
+   "h": "https://zen.yandex.ru/yandexmaps",
+   "c": "card-social-links-view__link"
+  }
+ ],
+ "btns": [],
+ "emails": [],
+ "contactBlock": [
+  "Адрес Душанбе, просп. Рудаки, 93/1 Маршрут",
+  "Адрес",
+  "",
+  "Душанбе, просп. Рудаки, 93/1",
+  "Душанбе, просп. Рудаки, 93/1",
+  "Маршрут",
+  "Маршрут",
+  "Контакты Телефон не указан Добавить",
+  "Контакты",
+  "",
+  "Время работы График работы не указан Добавить",
+  "Время работы",
+  ""
+ ],
+ "hours": [],
+ "list": {
+  "name": "Art.TJ",
+  "city": "dushanbe",
+  "rating": null,
+  "reviews": null,
+  "lon": "68.785790",
+  "lat": "38.584943",
+  "src": "сувениры",
+  "priority": true
+ }
+}

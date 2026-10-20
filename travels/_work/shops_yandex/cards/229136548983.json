@@ -1,0 +1,145 @@
+{
+ "url": "https://yandex.kz/maps/org/torgovy_dom_avrang/229136548983/?ll=68.740487%2C38.560580&z=16",
+ "title": "Торговый дом Авранг, магазин бытовой техники, Душанбе, ул. Джаббора Расулова, 9 — Яндекс Карты",
+ "h1": "Торговый дом Авранг",
+ "coords": [
+  "68.740488,38.56137",
+  "68.740488,38.561370"
+ ],
+ "rating": [
+  "Оценка 4.4 Из 5",
+  "Оценка 4.4 Из 5",
+  "Оценка 5 Из 5"
+ ],
+ "categories": [
+  "Магазин бытовой техники",
+  "Магазин электроники",
+  "Торговый центр",
+  "Мебельная фурнитура и комплектующие"
+ ],
+ "address": [
+  {
+   "t": "Душанбе, ул. Джаббора Расулова, 9",
+   "h": "/maps/10318/dushanbe/house/YkEYcQNgTU0AQF1ifXl3cXlkbQ==/"
+  },
+  {
+   "t": "Душанбе, ул. Джаббора Расулова, 9",
+   "h": null
+  },
+  {
+   "t": "Душанбе, ул. Джаббора Расулова, 9",
+   "h": "/maps/10318/dushanbe/house/YkEYcQNgTU0AQF1ifXl3cXlkbQ==/"
+  },
+  {
+   "t": "Маршрут",
+   "h": null
+  }
+ ],
+ "phones": [
+  {
+   "t": "+992 48 888 22 22",
+   "h": null
+  },
+  {
+   "t": "+992 48 888 22 22 Показать телефон",
+   "h": null
+  },
+  {
+   "t": "+992 48 888 22 22 Показать телефон",
+   "h": null
+  }
+ ],
+ "msgLinks": [
+  {
+   "t": "",
+   "h": "https://www.facebook.com/AtlantAvrang/",
+   "c": "button _view_secondary-gray _ui _size_medium _link",
+   "ownOrg": 1
+  },
+  {
+   "t": "",
+   "h": "https://www.instagram.com/avrang.tj/?hl=ru",
+   "c": "button _view_secondary-gray _ui _size_medium _link",
+   "ownOrg": 1
+  },
+  {
+   "t": "",
+   "h": "https://vk.com/yandex.maps",
+   "c": "card-social-links-view__link",
+   "ownOrg": 0
+  },
+  {
+   "t": "",
+   "h": "https://t.me/mapsyandex",
+   "c": "card-social-links-view__link",
+   "ownOrg": 0
+  }
+ ],
+ "apps": [],
+ "extLinks": [
+  {
+   "t": "www.avrang.tj",
+   "h": "http://www.avrang.tj/"
+  }
+ ],
+ "social": [
+  {
+   "t": "",
+   "h": "https://www.facebook.com/AtlantAvrang/",
+   "c": "button _view_secondary-gray _ui _size_medium _link"
+  },
+  {
+   "t": "",
+   "h": "https://www.instagram.com/avrang.tj/?hl=ru",
+   "c": "button _view_secondary-gray _ui _size_medium _link"
+  },
+  {
+   "t": "",
+   "h": "https://vk.com/yandex.maps",
+   "c": "card-social-links-view__link"
+  },
+  {
+   "t": "",
+   "h": "https://t.me/mapsyandex",
+   "c": "card-social-links-view__link"
+  },
+  {
+   "t": "",
+   "h": "https://zen.yandex.ru/yandexmaps",
+   "c": "card-social-links-view__link"
+  }
+ ],
+ "btns": [],
+ "emails": [],
+ "contactBlock": [
+  "Адрес Душанбе, ул. Джаббора Расулова, 9 Маршрут",
+  "Адрес",
+  "",
+  "Душанбе, ул. Джаббора Расулова, 9",
+  "Душанбе, ул. Джаббора Расулова, 9",
+  "Маршрут",
+  "Маршрут",
+  "Контакты +992 48 888 22 22 Показать телефон www.avrang.tj",
+  "Контакты",
+  "",
+  "",
+  "",
+  "",
+  "",
+  "",
+  "Время работы Открыто до 19:30 График",
+  "Время работы",
+  ""
+ ],
+ "hours": [],
+ "list": {
+  "name": "Торговый дом Авранг",
+  "city": "dushanbe",
+  "rating": 4.4,
+  "reviews": 63,
+  "lon": "68.740488",
+  "lat": "38.561370",
+  "src": "торговый центр",
+  "priority": true
+ }
+}

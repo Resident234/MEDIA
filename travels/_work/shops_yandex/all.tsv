@@ -1,0 +1,862 @@
+city	name	rating	reviews	addr	cats	lat	lon	src	named	priority	url
+dushanbe	Баракат	4.2	41	просп. Исмоила Сомони, 3/2	Торговый центр	38.582688	68.783184	Баракат рынок+торговый центр	True	True	https://yandex.kz/maps/org/barakat/190196607657/
+dushanbe	Баракат	4.3	8	Душанбе, улица Курбона Рахимова	Магазин продуктов	38.582728	68.798267	Баракат рынок+магазин	True	True	https://yandex.kz/maps/org/barakat/216714300315/
+dushanbe	Баракат			ул. Абдулахада Каххарова, 123	Магазин продуктов	38.538910	68.772121	Баракат рынок	True	True	https://yandex.kz/maps/org/barakat/49644709033/
+dushanbe	продуктовый магазин Баракат				продуктовый магазин Баракат	38.589504	68.746749	Баракат рынок	True	True	https://yandex.kz/maps/org/produktovy_magazin_barakat/214554550547/
+dushanbe	Мехргон	5.0	329	ул. Мехнат, 4	Торговый центр	38.585954	68.799320	Мехргон рынок+торговый центр	True	True	https://yandex.kz/maps/org/mekhrgon/221813042483/
+dushanbe	Сельскохозяйственный рынок Мехргон	4.1	9	Душанбе, район Исмоили Сомони	Сельскохозяйственный рынок Мехргон	38.586669	68.799234	Мехргон рынок+рынок	True	True	https://yandex.kz/maps/org/selskokhozyaystvenny_rynok_mekhrgon/209370131832/
+dushanbe	Варзоб		44	Душанбе, махалла Гулистон		38.615685	68.781881	Варзобский базар+рынок	True	True	https://yandex.kz/maps/org/varzob/195184867076/
+dushanbe	Минимаркет Ашан	4.6	13	ул. Гаффора Мирзо, 14/1		38.560149	68.766352	Ашан+супермаркет	True	True	https://yandex.kz/maps/org/minimarket_ashan/208732589140/
+dushanbe	Би1	4.8	603	ул. Дустии халкхо, 47	Торговые центры Душанбе: места для шопинга и отдыха	38.574076	68.801204	Ашан+супермаркет+магазин+интернет-магазин	True	True	https://yandex.kz/maps/org/bi1/60481304538/
+dushanbe	Чайхана Рохат	4.3	114	просп. Рудаки, 84		38.584577	68.787132	Чайхана Рохат	True	True	https://yandex.kz/maps/org/chaykhana_rokhat/75433156164/
+dushanbe	Рохат			просп. Рудаки, 96		38.590021	68.787214	Чайхана Рохат	True	True	https://yandex.kz/maps/org/rokhat/214967510421/
+dushanbe	Чайхнана Баракат	4.3	5	ул. Рахмона Набиева, 225/1		38.534921	68.738936	Чайхана Рохат	True	True	https://yandex.kz/maps/org/chaykhnana_barakat/150188646088/
+dushanbe	Свято-Никольский Cобор		65	ул. Дружбы народов, 58		38.566465	68.816747	Никольский собор	True	True	https://yandex.kz/maps/org/svyato_nikolskiy_cobor/112423240918/
+dushanbe	Бозори Фаровон	4.8	41	Душанбе, район Сино	Рынок	38.555878	68.734819	базар	False	True	https://yandex.kz/maps/org/bozori_farovon/98674993994/
+dushanbe	Оптовый рынок Корвон	4.9	84	махалла имени Крупской, ул. Крупской, 202	Оптовый рынок Корвон	38.504529	68.756692	базар+рынок	False	True	https://yandex.kz/maps/org/optovy_rynok_korvon/19242693748/
+dushanbe	Рынок Саховат	4.7	20	Душанбе, улица Крупской	Рынок Саховат	38.522927	68.759578	базар+рынок	False	True	https://yandex.kz/maps/org/rynok_sakhovat/66411564956/
+dushanbe	Азиатский рынок	4.4	14	просп. Абуали ибн Сино, 110/1	Азиатский рынок	38.571163	68.757260	базар+рынок	False	True	https://yandex.kz/maps/org/aziatskiy_rynok/227789393997/
+dushanbe	Рынок 33 микрорайон	4.7	41	Рынок 33 микрорайон	Рынок 33 микрорайон	38.550614	68.744484	базар+рынок	False	True	https://yandex.kz/maps/org/rynok_33_mikrorayon/205249764379/
+dushanbe	Автоколонна 2927	4.2	8	Душанбе, район Шохмансур	Рынок	38.559638	68.811367	базар+рынок	False	True	https://yandex.kz/maps/org/avtokolonna_2927/236635628394/
+dushanbe	Рынок 32	4.5	8	Душанбе, 32-й микрорайон	Рынок 32	38.557650	68.747177	базар+рынок	False	True	https://yandex.kz/maps/org/rynok_32/124475173407/
+dushanbe	Рынок Корвон	4.5	42	махалла имени Крупской, ул. Крупской, 82А	Рынок Корвон	38.506500	68.756757	базар+рынок	False	True	https://yandex.kz/maps/org/rynok_korvon/221943598319/
+dushanbe	Оптовый рынок	4.3	9		Оптовый рынок	38.510509	68.738702	базар+рынок	False	True	https://yandex.kz/maps/org/optovy_rynok/239806781887/
+dushanbe	Бозорча	4.6	11	районы республиканского подчинения, район Рудаки, джамоат Зайнабобод, село Шараф	Рынок	38.470432	68.817088	базар	False	True	https://yandex.kz/maps/org/bozorcha/101755583884/
+dushanbe	Рынок Сарвар			Душанбе, улица Навруз	Рынок Сарвар	38.552889	68.786652	базар+рынок	False	True	https://yandex.kz/maps/org/rynok_sarvar/118477068015/
+dushanbe	Хаварон рынок	4.2	9	ул. Садриддина Айни, 307/5	Хаварон рынок	38.555065	68.842714	базар+рынок	False	True	https://yandex.kz/maps/org/khavaron_rynok/125159769020/
+dushanbe	Китайский рынок	3.0	15	Душанбе, 12-й микрорайон	Китайский рынок	38.560512	68.756525	базар+рынок	False	True	https://yandex.kz/maps/org/kitayskiy_rynok/116877541487/
+dushanbe	Рынок Дока	3.9	8	Душанбе, улица Зебуниссо	Рынок Дока	38.557119	68.831963	базар+рынок	False	True	https://yandex.kz/maps/org/rynok_doka/95002349239/
+dushanbe	Яккачанор	4.1	3	Душанбе, улица Мушфики	Рынок	38.554066	68.758859	базар	False	True	https://yandex.kz/maps/org/yakkachanor/205440171483/
+dushanbe	Муросо			Душанбе, 102-й микрорайон	Рынок	38.579472	68.728278	базар	False	True	https://yandex.kz/maps/org/muroso/30527347992/
+dushanbe	Птичий рынок	3.2	6		Птичий рынок	38.527788	68.794049	базар	False	True	https://yandex.kz/maps/org/ptichiy_rynok/80978938271/
+dushanbe	Рынок Саховат Market Sahovat			ул. Фирдоуси, 24	Рынок Саховат Market Sahovat	38.518401	68.764277	базар	False	True	https://yandex.kz/maps/org/rynok_sakhovat_market_sahovat/76200293991/
+dushanbe	Бозори советй			Душанбе, улица Борбада	Рынок	38.538926	68.754994	базар	False	True	https://yandex.kz/maps/org/109623349817/
+dushanbe	Саховат	4.1	11	Душанбе, район Фирдавси	Рынок	38.518849	68.760795	базар	False	True	https://yandex.kz/maps/org/sakhovat/100984794488/
+dushanbe	Носхана	2.7	6	ул. Убайда Зокони, 9	Рынок	38.551375	68.802186	базар	False	True	https://yandex.kz/maps/org/noskhana/8326542988/
+dushanbe	Оптовый рынок	4.0	5	Душанбе, улица Хакимова	Оптовый рынок	38.518386	68.736787	базар	False	True	https://yandex.kz/maps/org/optovy_rynok/161234929702/
+dushanbe	Оптовые склады			Душанбе, район Сино	Рынок	38.559881	68.738548	базар	False	True	https://yandex.kz/maps/org/optovyye_sklady/173751208612/
+dushanbe	Марва			просп. Нусратулло Махсума, 14	Торговый центр	38.582400	68.721585	базар	False	True	https://yandex.kz/maps/org/marva/165281226840/
+dushanbe	Рынок			районы республиканского подчинения, район Рудаки, джамоат Гулистон	Рынок	38.532199	68.877364	базар	False	True	https://yandex.kz/maps/org/rynok/119292690821/
+dushanbe	Душанбе Молл	4.7	215	ул. Дустии халкхо, 47	Торговый центр	38.573892	68.801434	торговый центр	False	True	https://yandex.kz/maps/org/dushanbe_moll/10654459377/
+dushanbe	Садбарг	4.9	344	просп. Рудаки, 10	Торговый центр	38.561623	68.800018	торговый центр	False	True	https://yandex.kz/maps/org/sadbarg/82082493166/
+dushanbe	Сиёма Молл	4.8	158	ул. Фирдоуси, 8	Торговый центр	38.519312	68.752866	торговый центр	False	True	https://yandex.kz/maps/org/siyoma_moll/221793724068/
+dushanbe	Саодат	4.0	50	ул. Шамси, 23	Торговый центр	38.580069	68.741932	торговый центр	False	True	https://yandex.kz/maps/org/saodat/37086257384/
+dushanbe	Муниса	4.4	43	ул. Фатеха Ниязи, 3/1	Торговый центр	38.581253	68.783754	торговый центр	False	True	https://yandex.kz/maps/org/munisa/66115462825/
+dushanbe	Таджикистан	4.3	99	просп. Рудаки, 83	Торговый центр	38.580811	68.786225	торговый центр	False	True	https://yandex.kz/maps/org/tadzhikistan/19869891947/
+dushanbe	Торговый центр Муллиён	4.4	24	ул. Фатеха Ниязи, 36	Торговый центр Муллиён	38.581264	68.784830	торговый центр	False	True	https://yandex.kz/maps/org/torgovy_tsentr_mulliyon/39758366129/
+dushanbe	Баракат Плаза	4.6	29	ул. Садриддина Айни, 16Б	Торговый центр	38.562477	68.791505	торговый центр	False	True	https://yandex.kz/maps/org/barakat_plaza/23364772455/
+dushanbe	Аниса	4.0	27	ул. Бухоро, 50Б	Торговый центр	38.570721	68.787768	торговый центр	False	True	https://yandex.kz/maps/org/anisa/48658586135/
+dushanbe	Ситора	4.1	26	ул. Бухоро, 50А	Торговый центр	38.570587	68.787370	торговый центр	False	True	https://yandex.kz/maps/org/sitora/109172581300/
+dushanbe	Марва	4.8	21	просп. Нусратулло Махсума, 14	Торговый центр	38.582184	68.721663	торговый центр	False	True	https://yandex.kz/maps/org/marva/120787949599/
+dushanbe	Торговый дом Авранг	4.4	63	ул. Джаббора Расулова, 9	Магазин бытовой техники, торговый центр	38.561370	68.740488	торговый центр	False	True	https://yandex.kz/maps/org/torgovy_dom_avrang/229136548983/
+dushanbe	Торговый Центр Садбарг	4.4	20	просп. Рудаки, 10	Торговый Центр Садбарг	38.561674	68.799990	торговый центр	False	True	https://yandex.kz/maps/org/torgovy_tsentr_sadbarg/192187631216/
+dushanbe	Рудаки Плаза	4.8	37	просп. Рудаки, 127	Торговый центр	38.596269	68.786370	торговый центр	False	True	https://yandex.kz/maps/org/rudaki_plaza/102361638243/
+dushanbe	Ватан Молл	4.4	33	ул. Садриддина Айни, 29/9	Торговый центр	38.563161	68.797095	торговый центр	False	True	https://yandex.kz/maps/org/vatan_moll/163069895003/
+dushanbe	Торговый центр Ёкут 2000	1.8	7	Душанбе, район Шохмансур	Торговый центр Ёкут 2000	38.559354	68.794396	торговый центр	False	True	https://yandex.kz/maps/org/torgovy_tsentr_yokut_2000/244856735939/
+dushanbe	Содот	4.0	40	просп. Негмата Карабаева, 86/1	Торговый центр	38.525346	68.762717	торговый центр	False	True	https://yandex.kz/maps/org/sodot/58179562731/
+dushanbe	Мохи нав	4.5	21	просп. Саади Шерози, 45	Торговый центр	38.559699	68.751617	торговый центр	False	True	https://yandex.kz/maps/org/mokhi_nav/60644754866/
+dushanbe	Сабад	3.1	13	ул. Шамси, 2/4	Торговый центр	38.578112	68.749576	торговый центр	False	True	https://yandex.kz/maps/org/sabad/47991834757/
+dushanbe	Мухаммаджан торговый центр	4.0	3		Мухаммаджан торговый центр	38.573111	68.767795	торговый центр	False	True	https://yandex.kz/maps/org/mukhammadzhan_torgovy_tsentr/223110075776/
+dushanbe	Ориёно	4.2	5	просп. Рудаки, 84	Торговый центр	38.586095	68.787024	торговый центр	False	True	https://yandex.kz/maps/org/oriyono/39732107041/
+dushanbe	Шухрат	4.2	8	Душанбе, район Фирдавси	Торговый центр	38.539160	68.762578	торговый центр	False	True	https://yandex.kz/maps/org/shukhrat/224151716615/
+dushanbe	Пайкар	4.3	51	11-й микрорайон, ул. Якка-Чинарская, 148		38.567244	68.755381	гипермаркет+интернет-магазин	False	True	https://yandex.kz/maps/org/paykar/140093525050/
+dushanbe	Фирменный магазин Таджикматлубот			просп. Рудаки, 137	Фирменный магазин Таджикматлубот	38.600835	68.785980	гипермаркет	False	True	https://yandex.kz/maps/org/firmenny_magazin_tadzhikmatlubot/63296669436/
+dushanbe	Дастрас			ул. Шарифджона Хусейнзаде, 4		38.566532	68.785619	гипермаркет	False	True	https://yandex.kz/maps/org/dastras/118757178593/
+dushanbe	Noor Art Gallery	4.1	8	просп. Исмоила Сомони, 26/1	Магазин подарков и сувениров, художественный салон	38.582402	68.767406	сувениры	False	True	https://yandex.kz/maps/org/noor_art_gallery/20767056431/
+dushanbe	Сувенирная лавка СССР			просп. Рудаки, 37	Сувенирная лавка СССР	38.570390	68.788960	сувениры	False	True	https://yandex.kz/maps/org/suvenirnaya_lavka_sssr/76983650997/
+dushanbe	Sou So	4.7	14	ул. Шириншох Шотемура, 57	Магазин подарков и сувениров	38.578602	68.793115	сувениры	False	True	https://yandex.kz/maps/org/sou_so/212160828795/
+dushanbe	Zoda Art Gallery	4.2	3	ул. Садриддина Айни, 48	Магазин подарков и сувениров	38.562772	68.808927	сувениры	False	True	https://yandex.kz/maps/org/zoda_art_gallery/194731071772/
+dushanbe	Шарк	4.4	5	просп. Рудаки, 30	Магазин подарков и сувениров	38.568606	68.792791	сувениры	False	True	https://yandex.kz/maps/org/shark/126382705014/
+dushanbe	Таджикский сувенирный магазин			просп. Рудаки, 83	Таджикский сувенирный магазин	38.580570	68.786267	сувениры	False	True	https://yandex.kz/maps/org/tadzhikskiy_suvenirny_magazin/218996517999/
+dushanbe	President business gifts			просп. Рудаки, 55	Магазин подарков и сувениров, магазин часов	38.571931	68.788214	сувениры	False	True	https://yandex.kz/maps/org/president_business_gifts/207703386082/
+dushanbe	Магазин восточных сувениров			просп. Рудаки, 89	Магазин восточных сувениров	38.582734	68.785483	сувениры	False	True	https://yandex.kz/maps/org/magazin_vostochnykh_suvenirov/62041301040/
+dushanbe	Gift and souvenir shop			Душанбе, район Шохмансур	Магазин подарков и сувениров	38.561673	68.788790	сувениры	False	True	https://yandex.kz/maps/org/gift_and_souvenir_shop/189312199736/
+dushanbe	Ганджина			просп. Рудаки, 37	Магазин подарков и сувениров	38.570461	68.789736	сувениры	False	True	https://yandex.kz/maps/org/gandzhina/72330449317/
+dushanbe	Шарк			просп. Рудаки, 30	Магазин подарков и сувениров	38.568647	68.792706	сувениры	False	True	https://yandex.kz/maps/org/shark/240955746411/
+dushanbe	Сувениры Таджикистана			ул. Мехнат, 4	Сувениры Таджикистана	38.585706	68.798941	сувениры	False	True	https://yandex.kz/maps/org/suveniry_tadzhikistana/228850203786/
+dushanbe	Wowshop			ул. Бухоро, 13	Магазин подарков и сувениров, детские игрушки и игры	38.567521	68.784235	сувениры	False	True	https://yandex.kz/maps/org/wowshop/233684525849/
+dushanbe	Армугон			ул. Маяковского, 42/1	Магазин подарков и сувениров	38.560878	68.748568	сувениры	False	True	https://yandex.kz/maps/org/armugon/137071941076/
+dushanbe	Подарки			просп. Саади Шерози, 24	Магазин подарков и сувениров	38.557953	68.758631	сувениры	False	True	https://yandex.kz/maps/org/podarki/73370531240/
+dushanbe	Podarki Toj			просп. Рудаки, 10	Магазин подарков и сувениров	38.561879	68.799898	сувениры	False	True	https://yandex.kz/maps/org/podarki_toj/233270503036/
+dushanbe	Рухом	4.4	6	Душанбе, улица Шарк		38.588508	68.794732	сувениры	False	True	https://yandex.kz/maps/org/rukhom/122224657167/
+dushanbe	Gift and souvenir shop			ул. Шамси, 23, этаж 1	Магазин подарков и сувениров	38.580246	68.741822	сувениры	False	True	https://yandex.kz/maps/org/gift_and_souvenir_shop/188023123943/
+dushanbe	Exclusive Gifts			просп. Нусратулло Махсума, 105/6	Магазин подарков и сувениров	38.579519	68.729099	сувениры	False	True	https://yandex.kz/maps/org/exclusive_gifts/138111893930/
+dushanbe	Jasmine Gifts			ул. Дружбы народов, 47	Магазин подарков и сувениров	38.573923	68.801350	сувениры	False	True	https://yandex.kz/maps/org/jasmine_gifts/105873703434/
+dushanbe	Art.TJ			просп. Рудаки, 93/1	Магазин подарков и сувениров	38.584943	68.785790	сувениры	False	True	https://yandex.kz/maps/org/art_tj/97817308267/
+dushanbe	Копи центр Пойтахт			ул. Мирзо Турсунзаде, 45	Копи центр Пойтахт	38.580629	68.794018	сувениры	False	True	https://yandex.kz/maps/org/kopi_tsentr_poytakht/242020886744/
+dushanbe	Ситора			просп. Рудаки, 89	Магазин подарков и сувениров	38.582758	68.785444	сувениры	False	True	https://yandex.kz/maps/org/sitora/102922750554/
+dushanbe	Подарки			просп. Рудаки, 55	Магазин подарков и сувениров	38.572206	68.787929	сувениры	False	True	https://yandex.kz/maps/org/podarki/186596694776/
+dushanbe	Душанбе Принт			просп. Рудаки, 10		38.561704	68.800047	сувениры	False	True	https://yandex.kz/maps/org/dushanbe_print/233670730747/
+bohtar	Фаровон	5.0	94		Продуктовый рынок, вещевой рынок	37.830075	68.781395	рынок+базар+Курган-Тюбе базар	True	True	https://yandex.kz/maps/org/farovon/128158733277/
+bohtar	Ходжи Шариф	5.0	127		Рынок	37.842555	68.806986	рынок+базар+Курган-Тюбе базар	True	True	https://yandex.kz/maps/org/khodzhi_sharif/78668058085/
+bohtar	Продуктовый рынок	4.7	24		Продуктовый рынок	37.844439	68.781297	рынок	False	True	https://yandex.kz/maps/org/produktovy_rynok/22258925880/
+bohtar	Форовон	4.3	6		Рынок	37.831236	68.781317	рынок+базар+Курган-Тюбе базар	True	True	https://yandex.kz/maps/org/forovon/234818088744/
+bohtar	Сиёвуш		14	Хатлонская область, Бохтар, улица Садриддина Айни		37.827433	68.769023	торговый центр	False	True	https://yandex.kz/maps/org/siyovush/127132796587/
+bohtar	Ёвар	4.8	19	Хатлонская область, Бохтар, улица Джалолиддини Руми		37.843764	68.780502	супермаркет+магазин+интернет-магазин	False	True	https://yandex.kz/maps/org/yovar/103276630635/
+bohtar	Супермаркет Закия	4.2	3		Супермаркет Закия	37.838691	68.779355	супермаркет+магазин	False	True	https://yandex.kz/maps/org/supermarket_zakiya/20304656130/
+bohtar	Ёвар			ул. Садриддина Айни, 65		37.835208	68.776587	супермаркет+магазин	False	True	https://yandex.kz/maps/org/yovar/4982544858/
+bohtar	Сиёвуш	3.6	7	Хатлонская область, Бохтар, улица С. Рахимова		37.841687	68.775392	супермаркет+магазин	False	True	https://yandex.kz/maps/org/siyovush/56422673101/
+bohtar	Навруз			Хатлонская область, Бохтар, улица Садриддина Айни		37.831015	68.771890	супермаркет+магазин	False	True	https://yandex.kz/maps/org/navruz/2264688994/
+bohtar	Сабад	5.0	21	Хатлонская область, Бохтар, улица Махалаи Вахдат 1	Магазин продуктов	37.830137	68.799138	магазин	False	False	https://yandex.kz/maps/org/sabad/22859809075/
+bohtar	Бохтар	4.7	13	Хатлонская область, Бохтар, улица Космонавтов	Магазин продуктов	37.848136	68.790654	магазин	False	False	https://yandex.kz/maps/org/bokhtar/124680788220/
+bohtar	Продукты	2.9	4	ул. Мирзокодировой, 4/1	Магазин продуктов	37.833473	68.775464	магазин	False	False	https://yandex.kz/maps/org/produkty/43849584045/
+bohtar	Сиёвуш	4.2	14	Хатлонская область, Бохтар, улица Хатлон	Магазин продуктов	37.839334	68.794355	магазин	False	False	https://yandex.kz/maps/org/siyovush/229218185869/
+bohtar	Продукты	3.4	3	ул. Садриддина Айни, 65	Магазин продуктов	37.835172	68.776633	магазин	False	False	https://yandex.kz/maps/org/produkty/201402998708/
+bohtar	Продукты				Магазин продуктов	37.836679	68.778336	магазин	False	False	https://yandex.kz/maps/org/produkty/221974290328/
+bohtar	Магозаи Фотех				Магазин продуктов	37.842129	68.808942	магазин	False	False	https://yandex.kz/maps/org/magozai_fotekh/41387735693/
+bohtar	Курганчик			Хатлонская область, Бохтар, улица Бободжона Гафурова	Магазин продуктов	37.835469	68.786374	магазин	False	False	https://yandex.kz/maps/org/kurganchik/224961145379/
+bohtar	Магозаи хуроквори				Магазин продуктов	37.842320	68.776745	магазин	False	False	https://yandex.kz/maps/org/54593504492/
+bohtar	Продукты				Магазин продуктов	37.837423	68.747721	магазин	False	False	https://yandex.kz/maps/org/produkty/130010086795/
+bohtar	Суман			Хатлонская область, Бохтар, улица Садриддина Айни	Магазин продуктов	37.832425	68.772414	магазин	False	False	https://yandex.kz/maps/org/suman/185299190873/
+bohtar	Эхсон			Хатлонская область, Бохтар, проспект Вахдат	Магазин продуктов	37.838223	68.775995	магазин	False	False	https://yandex.kz/maps/org/ekhson/11903894845/
+bohtar	Продукты				Магазин продуктов	37.845605	68.780309	магазин	False	False	https://yandex.kz/maps/org/produkty/5266671385/
+bohtar	Продукты			просп. Борбад, 29	Магазин продуктов	37.842857	68.785215	магазин	False	False	https://yandex.kz/maps/org/produkty/132912364595/
+bohtar	Продукты			Хатлонская область, Бохтар, улица Космонавтов	Магазин продуктов	37.845536	68.778342	магазин	False	False	https://yandex.kz/maps/org/produkty/19379261768/
+bohtar	Продукты				Магазин продуктов	37.837159	68.785346	магазин	False	False	https://yandex.kz/maps/org/produkty/12319074297/
+bohtar	Продукты				Магазин продуктов	37.835852	68.783711	магазин	False	False	https://yandex.kz/maps/org/produkty/53931669586/
+bohtar	Фируза			Хатлонская область, Бохтар, улица Джафара Абдуллоева	Магазин продуктов	37.837416	68.773952	магазин	False	False	https://yandex.kz/maps/org/firuza/139025959203/
+bohtar	Продукты				Магазин продуктов	37.830519	68.782209	магазин	False	False	https://yandex.kz/maps/org/produkty/170426604469/
+bohtar	Дарё	2.7	5	Хатлонская область, Бохтар, улица Бободжона Гафурова	Пункт выдачи	37.836488	68.787593	пункт выдачи	False	True	https://yandex.kz/maps/org/daryo/78187751543/
+bohtar	Wildberries	3.9	7	ул. Джалолиддини Руми, 3А	Пункт выдачи	37.843326	68.780729	пункт выдачи	False	True	https://yandex.kz/maps/org/wildberries/189093114600/
+bohtar	Jana Post			ул. Космонавтов, 60	Пункт выдачи	37.848410	68.790086	пункт выдачи	False	True	https://yandex.kz/maps/org/jana_post/164665064622/
+bohtar	СССРexpress				Пункт выдачи	37.844329	68.755776	пункт выдачи	False	True	https://yandex.kz/maps/org/express/75388736249/
+bohtar	Jana Post			ул. Норинова, 10	Пункт выдачи	37.834009	68.777211	пункт выдачи	False	True	https://yandex.kz/maps/org/jana_post/81447234836/
+bohtar	LakLak			Хатлонская область, Бохтар, улица Бободжона Гафурова	Пункт выдачи	37.831452	68.781774	пункт выдачи	False	True	https://yandex.kz/maps/org/laklak/202898659603/
+bohtar	LakLak			просп. Вахдат, 196А		37.838839	68.775266	пункт выдачи	False	True	https://yandex.kz/maps/org/laklak/112749811440/
+bohtar	LakLak			ул. Мирзокодировой, 3А		37.833396	68.776111	пункт выдачи	False	True	https://yandex.kz/maps/org/laklak/15900633748/
+bohtar	LakLak			Хатлонская область, Бохтар, улица Садриддина Айни		37.838533	68.788566	пункт выдачи	False	True	https://yandex.kz/maps/org/laklak/147316839326/
+bohtar	Подарки			ул. Мирзокодировой, 29		37.830303	68.779789	сувениры	False	True	https://yandex.kz/maps/org/podarki/203610768806/
+gorno-badakhshan-autonomous-province	Сомониён	4.4	6	районы республиканского подчинения, джамоат Калаи Лаби Об, посёлок Таджикабад	Рынок	39.116117	70.848970	базар	False	True	https://yandex.kz/maps/org/somoniyon/23584210599/
+gorno-badakhshan-autonomous-province	Баракат	4.2	3	районы республиканского подчинения, район Лахш, посёлок Вахдат	Рынок	39.227574	71.208415	базар	False	True	https://yandex.kz/maps/org/barakat/40843963043/
+gorno-badakhshan-autonomous-province	Бозори марказӣ			районы республиканского подчинения, Раштский район, посёлок Гарм	Рынок	39.025789	70.375701	базар	False	True	https://yandex.kz/maps/org/bozori_markaz_/116063771840/
+gorno-badakhshan-autonomous-province	Центральный рынок	4.3	6		Центральный рынок	37.490547	71.538775	рынок	False	True	https://yandex.kz/maps/org/tsentralny_rynok/144996812543/
+gorno-badakhshan-autonomous-province	Рынок 20-летия независимости Республики Таджикистан				Рынок 20-летия независимости Республики Таджикистан	37.490730	71.527243	рынок	False	True	https://yandex.kz/maps/org/rynok_20_letiya_nezavisimosti_respubliki_tadzhikistan/40455271055/
+gorno-badakhshan-autonomous-province	Памир Плаза	5.0	53	Горно-Бадахшанская автономная область, Хорог, улица Шириншо Шотемура	Торговый центр	37.491111	71.538707	торговый центр	False	True	https://yandex.kz/maps/org/pamir_plaza/10588535829/
+gorno-badakhshan-autonomous-province	Nadim			Горно-Бадахшанская автономная область, Хорог, улица Шириншо Шотемура	Торговый центр	37.490244	71.531415	торговый центр	False	True	https://yandex.kz/maps/org/nadim/120931374490/
+gorno-badakhshan-autonomous-province	Саодат	4.4	7			37.491291	71.526731	супермаркет+магазин+интернет-магазин	False	True	https://yandex.kz/maps/org/saodat/45839433401/
+gorno-badakhshan-autonomous-province	Супермаркет	4.2	4		Супермаркет	37.529833	71.652726	супермаркет+магазин	False	True	https://yandex.kz/maps/org/supermarket/25806516959/
+gorno-badakhshan-autonomous-province	Супермаркет			Горно-Бадахшанская автономная область, Дарвазский район, село Калаи Хумб, улица Шохмансур	Супермаркет	38.453266	70.790350	супермаркет+магазин	False	True	https://yandex.kz/maps/org/supermarket/114520537373/
+gorno-badakhshan-autonomous-province	Памир					37.492160	71.553799	супермаркет	False	True	https://yandex.kz/maps/org/pamir/161625618194/
+gorno-badakhshan-autonomous-province	Арзон			Горно-Бадахшанская автономная область, Хорог, улица Шириншо Шотемура		37.490898	71.539570	супермаркет	False	True	https://yandex.kz/maps/org/arzon/116268342282/
+gorno-badakhshan-autonomous-province	Атлантика			Горно-Бадахшанская автономная область, Хорог, улица Шириншо Шотемура		37.492567	71.551941	супермаркет	False	True	https://yandex.kz/maps/org/atlantika/113749844910/
+gorno-badakhshan-autonomous-province	Супермаркет			Горно-Бадахшанская автономная область, Шугнанский район, село Миденшор	Супермаркет	37.581242	71.514173	супермаркет	False	True	https://yandex.kz/maps/org/supermarket/38109412374/
+gorno-badakhshan-autonomous-province	Сулхия			Горно-Бадахшанская автономная область, Шугнанский район, село Миденшор		37.577982	71.512784	супермаркет	False	True	https://yandex.kz/maps/org/sulkhiya/236817803997/
+gorno-badakhshan-autonomous-province	Продукты			Горно-Бадахшанская автономная область, село Вир		37.73085	72.069664	гипермаркет+магазин	False	True	https://yandex.kz/maps/org/produkty/214920707196/
+gorno-badakhshan-autonomous-province	Яхшибек магазин				Яхшибек магазин	38.318970	72.322588	магазин	False	False	https://yandex.kz/maps/org/yakhshibek_magazin/126032637147/
+gorno-badakhshan-autonomous-province	Продукты			Горно-Бадахшанская автономная область, Шугнанский район, село Танг, улица Мидентанг	Магазин продуктов	37.610286	71.755248	магазин	False	False	https://yandex.kz/maps/org/produkty/134460405107/
+gorno-badakhshan-autonomous-province	Минимаркет Махабатшо			Горно-Бадахшанская автономная область, Рушанский район, джамоат имени Муминшо Абдулвосиева, село Шипад	Магазин продуктов	38.110305	71.333309	магазин	False	False	https://yandex.kz/maps/org/minimarket_makhabatsho/166683054697/
+gorno-badakhshan-autonomous-province	Надим				Магазин продуктов	37.946400	71.562345	магазин	False	False	https://yandex.kz/maps/org/nadim/105343458570/
+gorno-badakhshan-autonomous-province	Джамшед			Горно-Бадахшанская автономная область, Ванджский район, джамоат Техарв, село Гидж	Магазин продуктов	38.549684	71.724913	магазин	False	False	https://yandex.kz/maps/org/dzhamshed/133714142040/
+gorno-badakhshan-autonomous-province	Сулхия			Горно-Бадахшанская автономная область, Мургаб, улица Исмоила Сомони	Магазин продуктов	38.164424	73.963541	магазин	False	False	https://yandex.kz/maps/org/sulkhiya/20867242802/
+gorno-badakhshan-autonomous-province	Мастер				Магазин продуктов	37.492035	71.566060	магазин	False	False	https://yandex.kz/maps/org/master/1361068375/
+gorno-badakhshan-autonomous-province	Мустансир			Горно-Бадахшанская автономная область, Шугнанский район, село Богев	Магазин продуктов	37.533241	71.661110	магазин	False	False	https://yandex.kz/maps/org/mustansir/140309686770/
+gorno-badakhshan-autonomous-province	Продукты			Горно-Бадахшанская автономная область, Хорог, улица Карамшоева	Магазин продуктов	37.487396	71.549616	магазин	False	False	https://yandex.kz/maps/org/produkty/103419683402/
+gorno-badakhshan-autonomous-province	Магазин Муяссар				Магазин Муяссар	37.731898	72.068737	магазин	False	False	https://yandex.kz/maps/org/magazin_muyassar/156632018931/
+gorno-badakhshan-autonomous-province	Насим			Горно-Бадахшанская автономная область, Хорог, улица Шириншо Шотемура	Магазин продуктов	37.492223	71.551398	магазин	False	False	https://yandex.kz/maps/org/nasim/114174749743/
+gorno-badakhshan-autonomous-province	Алинур			Горно-Бадахшанская автономная область, Шугнанский район, село Бердибекобод	Магазин продуктов	37.549675	71.715491	магазин	False	False	https://yandex.kz/maps/org/alinur/103105687038/
+gorno-badakhshan-autonomous-province	Продукты				Магазин продуктов	37.407183	71.630112	магазин	False	False	https://yandex.kz/maps/org/produkty/131888007546/
+gorno-badakhshan-autonomous-province	Продукты			Горно-Бадахшанская автономная область, Хорог, улица Шириншо Шотемура	Магазин продуктов	37.492167	71.550579	магазин	False	False	https://yandex.kz/maps/org/produkty/159700093804/
+gorno-badakhshan-autonomous-province	Рахмат			Горно-Бадахшанская автономная область, Рошткалинский район, джамоат имени Курбоншо Гадолиева, село Шикуш	Магазин продуктов	37.417974	71.620558	магазин	False	False	https://yandex.kz/maps/org/rakhmat/167444427275/
+gorno-badakhshan-autonomous-province	Продукты			Горно-Бадахшанская автономная область, Дарвазский район, село Калаи Хумб, улица Шохмансур	Магазин продуктов	38.455988	70.789549	магазин	False	False	https://yandex.kz/maps/org/produkty/105408246362/
+gorno-badakhshan-autonomous-province	1001 Маркет			Горно-Бадахшанская автономная область, Хорог, улица Шириншо Шотемура		37.491099	71.538647	маркетплейс	False	True	https://yandex.kz/maps/org/1001_market/84491460461/
+gorno-badakhshan-autonomous-province	Wildberries	4.4	8	Хорог, ул. Шириншо Шотемура, 143	Пункт выдачи	37.491824	71.547580	пункт выдачи	False	True	https://yandex.kz/maps/org/wildberries/101558582857/
+gorno-badakhshan-autonomous-province	Jana Post			Хорог, ул. Шириншо Шотемура, 86	Пункт выдачи	37.492814	71.550401	пункт выдачи	False	True	https://yandex.kz/maps/org/jana_post/206786511406/
+hisor-district	Авиценна	3.5	4	районы республиканского подчинения, Гиссар	Рынок	38.522593	68.563586	базар+рынок	False	True	https://yandex.kz/maps/org/avitsenna/74703052604/
+hisor-district	Самох	4.3	6	районы республиканского подчинения, Гиссар	Рынок	38.524200	68.560598	базар+рынок	False	True	https://yandex.kz/maps/org/samokh/122044728360/
+hisor-district	Продуктовый рынок	4.2	3		Продуктовый рынок	38.495598	68.657094	рынок	False	True	https://yandex.kz/maps/org/produktovy_rynok/126408740920/
+hisor-district	Рынок				Рынок	38.527829	68.679048	рынок	False	True	https://yandex.kz/maps/org/rynok/150738243855/
+hisor-district	Алмоси	4.7	25	районы республиканского подчинения, город Гиссар с административной территорией, джамоат Сомон, село Гайратобод	Торговый центр	38.553007	68.567444	торговый центр	False	True	https://yandex.kz/maps/org/almosi/179422658040/
+hisor-district	Торговый центр	4.8	20	Гиссар, ул. А. Юсуфи, 1А	Торговый центр	38.524042	68.559092	торговый центр	False	True	https://yandex.kz/maps/org/torgovy_tsentr/198021442749/
+hisor-district	Торговый центр	4.3	4	районы республиканского подчинения, Гиссар	Торговый центр	38.523873	68.562100	торговый центр	False	True	https://yandex.kz/maps/org/torgovy_tsentr/26396805496/
+hisor-district	Хуросон	4.3	4	районы республиканского подчинения, Гиссар, улица Исмоила Сомони	Торговый центр	38.530642	68.558148	торговый центр	False	True	https://yandex.kz/maps/org/khuroson/43973764304/
+hisor-district	Торговый центр			районы республиканского подчинения, район Рудаки, джамоат Сарикишти, село Навобод, улица Кайхон	Торговый центр	38.523035	68.664650	торговый центр	False	True	https://yandex.kz/maps/org/torgovy_tsentr/81003173552/
+hisor-district	Айни	4.3	3	районы республиканского подчинения, район Рудаки, джамоат Чортеппа, село Очамайли	Торговый центр	38.527240	68.678932	торговый центр	False	True	https://yandex.kz/maps/org/ayni/139123800821/
+hisor-district	Навобод	4.1	5		Торговый центр	38.528578	68.680479	торговый центр	False	True	https://yandex.kz/maps/org/navobod/9190666737/
+hisor-district	Gissar Mall			районы республиканского подчинения, Гиссар, жилой комплекс Хисор Молл	Торговый центр	38.526648	68.556726	торговый центр	False	True	https://yandex.kz/maps/org/gissar_mall/117053916008/
+hisor-district	Муслима	4.4	7		Торговый центр	38.523907	68.559833	торговый центр	False	True	https://yandex.kz/maps/org/muslima/204567524853/
+hisor-district	Би-1	4.4	30	районы республиканского подчинения, Гиссар		38.526820	68.554373	супермаркет+магазин	False	True	https://yandex.kz/maps/org/bi_1/207264013100/
+hisor-district	Фарогат	4.4	21	Гиссар, ул. А. Юсуфи, 14		38.528001	68.558014	супермаркет+магазин+интернет-магазин	False	True	https://yandex.kz/maps/org/farogat/37222322377/
+hisor-district	Ориён	4.0	5	районы республиканского подчинения, Гиссар		38.527993	68.546710	супермаркет+магазин	False	True	https://yandex.kz/maps/org/oriyon/138760293108/
+hisor-district	Таги Чинор	3.9	4			38.592200	68.548566	супермаркет+магазин	False	True	https://yandex.kz/maps/org/tagi_chinor/62462192780/
+hisor-district	Би1	3.4	3	районы республиканского подчинения, город Гиссар с административной территорией, джамоат Сомон		38.552836	68.560709	супермаркет	False	True	https://yandex.kz/maps/org/bi1/112605335609/
+hisor-district	Супермаркет				Супермаркет	38.533360	68.557873	супермаркет	False	True	https://yandex.kz/maps/org/supermarket/173109864912/
+hisor-district	Фуркат					38.528812	68.508379	супермаркет	False	True	https://yandex.kz/maps/org/furkat/190708676469/
+hisor-district	Супермаркет				Супермаркет	38.506482	68.535788	супермаркет	False	True	https://yandex.kz/maps/org/supermarket/97342592444/
+hisor-district	Эшон Бобо					38.529051	68.509407	супермаркет	False	True	https://yandex.kz/maps/org/eshon_bobo/50465670090/
+hisor-district	Нозияи Нур			районы республиканского подчинения, город Гиссар с административной территорией, джамоат Дехконобод, село Гачак		38.506447	68.535804	супермаркет	False	True	https://yandex.kz/maps/org/noziyai_nur/116818992965/
+hisor-district	Гармоваи хирманак	4.4	11	районы республиканского подчинения, город Гиссар с административной территорией, джамоат Сомон, село Дучинора	Магазин продуктов	38.581679	68.560305	магазин	False	False	https://yandex.kz/maps/org/garmovai_khirmanak/178670487091/
+hisor-district	Минимаркет	4.0	3		Магазин продуктов	38.574424	68.497408	магазин	False	False	https://yandex.kz/maps/org/minimarket/202251188677/
+hisor-district	Бону			районы республиканского подчинения, город Гиссар с административной территорией, джамоат Навобод, село Мавлонджари Боло	Магазин продуктов	38.573291	68.553678	магазин	False	False	https://yandex.kz/maps/org/bonu/29959916762/
+hisor-district	Продукты				Магазин продуктов	38.645620	68.537975	магазин	False	False	https://yandex.kz/maps/org/produkty/78857243302/
+hisor-district	Продукты			районы республиканского подчинения, город Гиссар с административной территорией, джамоат Алмоси, село Гули Сурх	Магазин продуктов	38.673618	68.605838	магазин	False	False	https://yandex.kz/maps/org/produkty/48850658939/
+hisor-district	Продукты	4.2	7		Магазин продуктов	38.523851	68.559665	магазин	False	False	https://yandex.kz/maps/org/produkty/176231666418/
+hisor-district	Минимаркет			районы республиканского подчинения, город Гиссар с административной территорией, джамоат Алмоси, село Гули Сурх	Магазин продуктов	38.667959	68.600607	магазин	False	False	https://yandex.kz/maps/org/minimarket/118088967445/
+hisor-district	Продукты	4.2	3		Магазин продуктов	38.495980	68.651402	магазин	False	False	https://yandex.kz/maps/org/produkty/99485618348/
+hisor-district	Продукты				Магазин продуктов	38.523625	68.529398	магазин	False	False	https://yandex.kz/maps/org/produkty/106858165855/
+hisor-district	Сангали			районы республиканского подчинения, район Рудаки, джамоат Чортеппа, село Шайнаки Гадо	Магазин продуктов	38.518291	68.658255	магазин	False	False	https://yandex.kz/maps/org/sangali/242599565399/
+hisor-district	Мини-маркет Манас-2	4.3	3		Магазин продуктов	38.500262	68.665078	магазин	False	False	https://yandex.kz/maps/org/mini_market_manas_2/207328285519/
+hisor-district	Худойдод			районы республиканского подчинения, город Гиссар с административной территорией, джамоат Алмоси, село Гули Сурх	Магазин продуктов	38.668598	68.602041	магазин	False	False	https://yandex.kz/maps/org/khudoydod/69964981845/
+hisor-district	Аббос				Магазин продуктов	38.589296	68.619010	магазин	False	False	https://yandex.kz/maps/org/abbos/191662406694/
+hisor-district	Очамайли				Магазин продуктов	38.527802	68.679138	магазин	False	False	https://yandex.kz/maps/org/ochamayli/107984558619/
+hisor-district	Продукты				Магазин продуктов	38.569434	68.485410	магазин	False	False	https://yandex.kz/maps/org/produkty/30247700374/
+hisor-district	Вали			районы республиканского подчинения, город Гиссар с административной территорией, джамоат Навобод, село Мавлонджари Боло	Магазин продуктов	38.574397	68.553937	магазин	False	False	https://yandex.kz/maps/org/vali/88593665951/
+hisor-district	Продукты			районы республиканского подчинения, район Рудаки, джамоат Чортеппа, село Кампир Кала	Магазин продуктов	38.535410	68.669493	магазин	False	False	https://yandex.kz/maps/org/produkty/19233630770/
+hisor-district	Джахонгир			районы республиканского подчинения, район Рудаки, джамоат Чортеппа, село Кампир Кала	Магазин продуктов	38.527701	68.676055	магазин	False	False	https://yandex.kz/maps/org/dzhakhongir/176315637112/
+hisor-district	Фаровон				Магазин продуктов	38.552994	68.568797	магазин	False	False	https://yandex.kz/maps/org/farovon/155762959547/
+hisor-district	Продукты	4.3	6	село Джалолобод, ул. Джалолабад, 20	Магазин продуктов	38.542679	68.475718	магазин	False	False	https://yandex.kz/maps/org/produkty/54690221056/
+hisor-district	Дарё			районы республиканского подчинения, Гиссар	Пункт выдачи	38.522662	68.563578	пункт выдачи	False	True	https://yandex.kz/maps/org/daryo/125604521803/
+hisor-district	LakLak			Гиссар, ул. А. Юсуфи, 1А		38.524033	68.558848	пункт выдачи	False	True	https://yandex.kz/maps/org/laklak/137113695891/
+hisor-district	Сувениры			районы республиканского подчинения, город Гиссар с административной территорией, джамоат Хисор, село Гиссар	Сувениры	38.483378	68.594813	сувениры	False	True	https://yandex.kz/maps/org/suveniry/27215157976/
+hisor-district	Сувенирные магазинчики			районы республиканского подчинения, город Гиссар с административной территорией, джамоат Хисор, село Гиссар	Сувенирные магазинчики	38.483884	68.593139	сувениры	False	True	https://yandex.kz/maps/org/suvenirnyye_magazinchiki/244856801961/
+dushanbe	Саховат	4.9	222	Душанбе, район Фирдавси	Продуктовый рынок	38.518835	68.760918	рынок	False	True	https://yandex.kz/maps/org/sakhovat/140970017024/
+dushanbe	Вахдат	4.9	164	Душанбе, район Фирдавси	Вещевой рынок	38.507284	68.757177	рынок	False	True	https://yandex.kz/maps/org/vakhdat/36575007634/
+dushanbe	Фаровон	4.1	37	ул. Джаббора Расулова, 10	Продуктовый рынок	38.562166	68.740568	рынок	False	True	https://yandex.kz/maps/org/farovon/146839124673/
+dushanbe	Афганский рынок Сафариён	4.3	19	просп. Абуали ибн Сино, 110/1	Афганский рынок Сафариён	38.571063	68.757602	рынок	False	True	https://yandex.kz/maps/org/afganskiy_rynok_safariyon/195026015349/
+dushanbe	Рынок Балх	4.4	33		Рынок Балх	38.541085	68.720714	рынок	False	True	https://yandex.kz/maps/org/rynok_balkh/7650931619/
+dushanbe	Гипрозем	5.0	217	ул. Борбада, 130	Продуктовый рынок, магазин продуктов	38.513544	68.740902	рынок	False	True	https://yandex.kz/maps/org/giprozem/63605772441/
+dushanbe	Маркази савдои Ховарон	4.4	7	Душанбе, район Шохмансур	Продуктовый рынок	38.555418	68.842312	рынок	False	True	https://yandex.kz/maps/org/123707829054/
+dushanbe	Рохи охан	4.2	9	Душанбе, улица Абдукодирхочаи Савдо	Продуктовый рынок	38.555975	68.798143	рынок	False	True	https://yandex.kz/maps/org/rokhi_okhan/58063990154/
+dushanbe	Базар № 103	3.7	36	Душанбе, 103-й микрорайон	Базар № 103	38.571928	68.740239	рынок	False	True	https://yandex.kz/maps/org/bazar_103/32256591552/
+dushanbe	Блошиный рынок	4.2	5	Душанбе, район Сино	Блошиный рынок	38.569832	68.758410	рынок	False	True	https://yandex.kz/maps/org/bloshiny_rynok/128176404659/
+dushanbe	Шомусахар	4.0	12	просп. Исмоила Сомони, 57/1	Продуктовый рынок	38.583696	68.759924	рынок	False	True	https://yandex.kz/maps/org/shomusakhar/46487695030/
+dushanbe	Пайкар	4.9	151	ул. Садриддина Айни, 16Б		38.562603	68.791508	супермаркет+магазин+интернет-магазин	False	True	https://yandex.kz/maps/org/paykar/6369438383/
+dushanbe	Пайкар	4.9	122	просп. Рудаки, 66		38.579476	68.787617	супермаркет+магазин+интернет-магазин	False	True	https://yandex.kz/maps/org/paykar/68712914947/
+dushanbe	Пайкар	4.5	114	ул. Бухоро, 27		38.568257	68.786554	супермаркет+магазин+интернет-магазин	False	True	https://yandex.kz/maps/org/paykar/55038028092/
+dushanbe	Ёвар	4.2	77	ул. Мирзо Турсунзаде, 18/6		38.572385	68.795350	супермаркет+магазин+интернет-магазин	False	True	https://yandex.kz/maps/org/yovar/208923459239/
+dushanbe	Ёвар	4.5	38	Душанбе, район Сино		38.568408	68.766283	супермаркет+магазин+интернет-магазин	False	True	https://yandex.kz/maps/org/yovar/47565423135/
+dushanbe	8 Mart	4.0	26	просп. Рудаки, 127		38.596119	68.786366	супермаркет	False	True	https://yandex.kz/maps/org/8_mart/96830259664/
+dushanbe	Пайкар	4.9	72	ул. Садриддина Айни, 57		38.563449	68.810026	супермаркет+магазин	False	True	https://yandex.kz/maps/org/paykar/92681957587/
+dushanbe	Тим	4.1	32	просп. Исмоила Сомони, 6/1		38.583487	68.784923	супермаркет+магазин	False	True	https://yandex.kz/maps/org/tim/66279491984/
+dushanbe	Супермаркет Шохон	4.4	43	ул. Пушкина, 7	Супермаркет Шохон	38.574738	68.791734	супермаркет+магазин+интернет-магазин	False	True	https://yandex.kz/maps/org/supermarket_shokhon/11287912009/
+dushanbe	Пайкар	4.7	20	ул. Саида Носира, 25		38.594890	68.780359	супермаркет	False	True	https://yandex.kz/maps/org/paykar/231118673547/
+dushanbe	Пайкар	4.9	44	ул. Борбада, 101		38.526159	68.748255	супермаркет	False	True	https://yandex.kz/maps/org/paykar/157772314242/
+dushanbe	Пайкар	4.4	53	ул. Бободжана Гафурова, 68		38.586744	68.740466	супермаркет	False	True	https://yandex.kz/maps/org/paykar/226533422558/
+dushanbe	Релакс	4.1	37	ул. Садриддина Айни, 51		38.563407	68.806467	супермаркет	False	True	https://yandex.kz/maps/org/relaks/65955836791/
+dushanbe	Би1	4.3	12	просп. Нусратулло Махсума, 6/2		38.586708	68.754547	супермаркет	False	True	https://yandex.kz/maps/org/bi1/112229161621/
+dushanbe	Ёвар	3.8	26			38.584542	68.760810	супермаркет+магазин	False	True	https://yandex.kz/maps/org/yovar/87365631083/
+dushanbe	Релакс	4.6	41	ул. Алишера Навои, 63		38.590828	68.736413	супермаркет	False	True	https://yandex.kz/maps/org/relaks/79320204829/
+dushanbe	Ёвар	4.7	17	просп. Нусратулло Махсума, 76		38.584130	68.745724	супермаркет	False	True	https://yandex.kz/maps/org/yovar/115533418974/
+dushanbe	Ёвар	4.7	27	ул. Шириншох Шотемура, 71		38.578553	68.795939	супермаркет	False	True	https://yandex.kz/maps/org/yovar/14478609579/
+dushanbe	Ёвар	4.6	34	просп. Негмата Карабаева, 25	Магазин продуктов	38.549580	68.761443	супермаркет+магазин+интернет-магазин	False	True	https://yandex.kz/maps/org/yovar/126551156901/
+dushanbe	Ёвар	4.3	41	ул. Дехоти, 62		38.532770	68.767743	супермаркет	False	True	https://yandex.kz/maps/org/yovar/18722414216/
+dushanbe	Сафар	4.0	28	просп. Саади Шерози, 19		38.559114	68.763593	супермаркет	False	True	https://yandex.kz/maps/org/safar/106045656079/
+dushanbe	Ёвар	4.4	35	ул. Бобо Хамдамова, 1/1		38.581827	68.714769	супермаркет	False	True	https://yandex.kz/maps/org/yovar/104000653984/
+dushanbe	Супермаркет Шохмансур	4.1	52	ул. Садриддина Айни, 69/53	Супермаркет Шохмансур	38.563237	68.814214	супермаркет	False	True	https://yandex.kz/maps/org/supermarket_shokhmansur/140867992717/
+dushanbe	Садия	4.5	21	ул. Шириншох Шотемура, 57	Магазин продуктов	38.578240	68.793377	магазин+интернет-магазин	False	True	https://yandex.kz/maps/org/sadiya/137386396991/
+dushanbe	Пойтахт	4.3	41	ул. Мирзо Турсунзаде, 45	Магазин продуктов	38.581045	68.793973	магазин+интернет-магазин	False	True	https://yandex.kz/maps/org/poytakht/200167922140/
+dushanbe	Диёр	4.5	28	ул. Шамси, 32А	Магазин продуктов	38.579240	68.741761	магазин	False	False	https://yandex.kz/maps/org/diyor/156055333250/
+dushanbe	Ворис	4.2	12	просп. Рудаки, 15/1		38.564480	68.796057	магазин+интернет-магазин	False	True	https://yandex.kz/maps/org/voris/22536202795/
+dushanbe	Ёсин	4.9	54	просп. Джами, 8	Магазин продуктов	38.531425	68.738654	магазин+интернет-магазин	False	True	https://yandex.kz/maps/org/yosin/87578509592/
+dushanbe	Арбат	4.1	27	Душанбе, 91-й микрорайон		38.584822	68.749536	магазин	False	False	https://yandex.kz/maps/org/arbat/186826453304/
+dushanbe	Арзанда	4.6	46	просп. Рудаки, 30	Магазин продуктов	38.568573	68.793339	магазин	False	False	https://yandex.kz/maps/org/19394247662/
+dushanbe	Парвиз	4.9	64	ул. Ахмада Дониша, 3	Магазин продуктов	38.551812	68.815220	магазин	False	False	https://yandex.kz/maps/org/parviz/103767864188/
+dushanbe	Шохин	4.1	10	ул. Шириншох Шотемура, 25	Магазин продуктов	38.578501	68.787723	магазин	False	False	https://yandex.kz/maps/org/shokhin/60660382588/
+dushanbe	София	4.5	35	ул. Муродулло Шерализаде, 18/1А		38.568028	68.753877	магазин	False	False	https://yandex.kz/maps/org/sofiya/30851404893/
+dushanbe	Мухаммадчон	4.6	9	ул. Нурулло Хувайдуллоева, 3	Магазин продуктов	38.573213	68.767866	магазин	False	False	https://yandex.kz/maps/org/mukhammadchon/109804877693/
+dushanbe	Месут	2.4	6	ул. Садриддина Айни, 24	Магазин продуктов	38.562654	68.795378	магазин	False	False	https://yandex.kz/maps/org/mesut/100581124741/
+dushanbe	Азимчон			Душанбе, улица Нурулло Хувайдуллоева	Магазин продуктов	38.573868	68.768574	магазин	False	False	https://yandex.kz/maps/org/azimchon/26112090544/
+dushanbe	Европа	4.3	32	ул. Ахмада Дониша, 19		38.562081	68.814555	интернет-магазин	False	True	https://yandex.kz/maps/org/yevropa/179005998714/
+dushanbe	Дирам	4.8	13	ул. Бохирова, 27А	Магазин продуктов	38.555352	68.812256	интернет-магазин	False	True	https://yandex.kz/maps/org/diram/30717650927/
+dushanbe	Ёвар	4.7	12	ул. Нурулло Хувайдуллоева, 216А	Магазин мяса, колбас	38.568156	68.766192	интернет-магазин	False	True	https://yandex.kz/maps/org/yovar/235567201303/
+dushanbe	Точка продажи молочной фабрики Саодат			Душанбе, улица Шириншох Шотемура	Молочный магазин	38.578971	68.790376	интернет-магазин	False	True	https://yandex.kz/maps/org/tochka_prodazhi_molochnoy_fabriki_saodat/237001399574/
+dushanbe	Алибобо	3.5	4	просп. Рудаки, 93/1	Пункт выдачи	38.584526	68.785786	маркетплейс+пункт выдачи	False	True	https://yandex.kz/maps/org/alibobo/197436803346/
+dushanbe	Дарё			Душанбе, Гиссарская улица		38.580715	68.736913	маркетплейс	False	True	https://yandex.kz/maps/org/daryo/232682480154/
+dushanbe	Ssboss Маркетплейс			ул. Джаббора Расулова, 6/1		38.563803	68.740415	маркетплейс	False	True	https://yandex.kz/maps/org/ssboss_marketpleys/110318290511/
+dushanbe	365trends			ул. Мирзо Турсунзаде, 14		38.571814	68.795976	маркетплейс	False	True	https://yandex.kz/maps/org/365trends/130789844967/
+dushanbe	Dastras			ул. Бухоро, 2	Магазин электроники	38.566677	68.780319	маркетплейс	False	True	https://yandex.kz/maps/org/dastras/86094226766/
+dushanbe	Дастрас			Душанбе, район Сино		38.571649	68.764179	маркетплейс	False	True	https://yandex.kz/maps/org/dastras/96092808278/
+dushanbe	Вебмаркет			ул. Фирдоуси, 8, ФИРДАВСИ 8 СИЕМА МОЛЛ, этаж 3		38.518854	68.752569	маркетплейс	False	True	https://yandex.kz/maps/org/vebmarket/55607576899/
+dushanbe	Кобгир			ул. Шириншох Шотемура, 22		38.578988	68.784732	маркетплейс	False	True	https://yandex.kz/maps/org/kobgir/55312698299/
+dushanbe	Laklak			ул. Пулоди, 31		38.573409	68.797581	маркетплейс	False	True	https://yandex.kz/maps/org/laklak/212789244388/
+dushanbe	Дастрас			ул. Борбада, 120	Магазин электроники	38.518349	68.745530	маркетплейс	False	True	https://yandex.kz/maps/org/dastras/157512244066/
+dushanbe	Bazaar TJ			просп. Рудаки, 10		38.562089	68.800036	маркетплейс	False	True	https://yandex.kz/maps/org/bazaar_tj/133366140233/
+dushanbe	Wildberries	4.0	10	ул. Хамзы Хакимзаде, 5	Пункт выдачи	38.595818	68.781867	пункт выдачи	False	True	https://yandex.kz/maps/org/wildberries/113812171655/
+dushanbe	Wildberries	4.8	85	ул. Абдулкосима Лохути, 13	Пункт выдачи	38.567045	68.799659	пункт выдачи	False	True	https://yandex.kz/maps/org/wildberries/8506218093/
+dushanbe	Wildberries	3.4	4	ул. Абдулахада Каххарова, 33	Пункт выдачи	38.561881	68.775008	пункт выдачи	False	True	https://yandex.kz/maps/org/wildberries/146366925855/
+dushanbe	Wildberries	4.3	9	ул. Пулоди, 43, подъезд 1	Пункт выдачи	38.574353	68.799806	пункт выдачи	False	True	https://yandex.kz/maps/org/wildberries/202555961819/
+dushanbe	Дарё	4.0	5	просп. Рудаки, 85	Пункт выдачи	38.581242	68.785951	пункт выдачи	False	True	https://yandex.kz/maps/org/daryo/40301477769/
+dushanbe	Wildberries	4.3	3		Пункт выдачи	38.531510	68.750292	пункт выдачи	False	True	https://yandex.kz/maps/org/wildberries/92019236714/
+dushanbe	Wildberries			просп. Негмата Карабаева, 21А	Пункт выдачи	38.550614	68.760396	пункт выдачи	False	True	https://yandex.kz/maps/org/wildberries/119648486504/
+dushanbe	Дарё	3.7	3	ул. Ахмада Дониша, 17/2	Пункт выдачи	38.560329	68.813893	пункт выдачи	False	True	https://yandex.kz/maps/org/daryo/5936820974/
+dushanbe	Wildberries			ул. Моёншо Назаршоева, 7	Пункт выдачи	38.557632	68.792586	пункт выдачи	False	True	https://yandex.kz/maps/org/wildberries/196500159810/
+dushanbe	Дарё			ул. Бободжана Гафурова, 32/2	Пункт выдачи	38.580930	68.740220	пункт выдачи	False	True	https://yandex.kz/maps/org/daryo/34610321160/
+dushanbe	Пункт выдачи			Душанбе, район Сино	Пункт выдачи	38.561073	68.737100	пункт выдачи	False	True	https://yandex.kz/maps/org/punkt_vydachi/7259261577/
+dushanbe	Wildberries	4.1	4	ул. Бобо Хамдамова, 2/2	Пункт выдачи	38.584453	68.713840	пункт выдачи	False	True	https://yandex.kz/maps/org/wildberries/90816439602/
+dushanbe	Jana Post			ул. Дустии халкхо, 33	Пункт выдачи	38.569226	68.811334	пункт выдачи	False	True	https://yandex.kz/maps/org/jana_post/59806991017/
+dushanbe	Jana Post			просп. Саади Шерози, 11	Пункт выдачи	38.559554	68.765767	пункт выдачи	False	True	https://yandex.kz/maps/org/jana_post/172060208299/
+dushanbe	Jana Post			ул. Мехнат, 3/5	Пункт выдачи	38.588086	68.798463	пункт выдачи	False	True	https://yandex.kz/maps/org/jana_post/216448696663/
+dushanbe	Wildberries			Душанбе, улица Омара Хайяма	Пункт выдачи	38.614381	68.785124	пункт выдачи	False	True	https://yandex.kz/maps/org/wildberries/41318268292/
+dushanbe	Faberlic			ул. Садриддина Айни, 307	Пункт выдачи	38.555605	68.869015	пункт выдачи	False	True	https://yandex.kz/maps/org/faberlic/145101767979/
+dushanbe	A-Store	3.4	3	просп. Рудаки, 83	Магазин электроники	38.580661	68.786279	пункт выдачи	False	True	https://yandex.kz/maps/org/a_store/220351627564/
+dushanbe	Wildberries				Пункт выдачи	38.574016	68.729610	пункт выдачи	False	True	https://yandex.kz/maps/org/wildberries/24800547910/
+dushanbe	Jana Post			просп. Рудаки, 11	Пункт выдачи	38.563628	68.795990	пункт выдачи	False	True	https://yandex.kz/maps/org/jana_post/76273416399/
+dushanbe	Jana Post			ул. Хамзы Хакимзаде, 5	Пункт выдачи	38.596020	68.782044	пункт выдачи	False	True	https://yandex.kz/maps/org/jana_post/14966111206/
+dushanbe	Jana Post			просп. Рудаки, 53	Пункт выдачи	38.571845	68.787556	пункт выдачи	False	True	https://yandex.kz/maps/org/jana_post/76070888811/
+isfara	Рынок Паншнбе			Согдийская область, Исфаринский район, джамоат Зумрад, село Зумрадшох		40.085831	70.618372	базар	False	True	https://yandex.kz/maps/org/rynok_panshnbe/184539023659/
+isfara	Центральный рынок	5.0	92		Центральный рынок	40.126115	70.625581	рынок	False	True	https://yandex.kz/maps/org/tsentralny_rynok/46466041289/
+isfara	Навбахор	4.3	6		Продуктовый рынок	40.114665	70.604860	рынок	False	True	https://yandex.kz/maps/org/navbakhor/12196931251/
+isfara	ТЦ Пайванд	5.0	164		Торговый центр	40.125948	70.624891	торговый центр	False	True	https://yandex.kz/maps/org/tts_payvand/73792884962/
+isfara	Марҳабо				Торговый центр	40.124437	70.619760	торговый центр	False	True	https://yandex.kz/maps/org/103076694392/
+isfara	Орзу	4.1	7		Торговый центр	40.123997	70.620563	торговый центр	False	True	https://yandex.kz/maps/org/orzu/72825984137/
+isfara	Шахло	4.2	5		Торговый центр	40.124056	70.625222	торговый центр	False	True	https://yandex.kz/maps/org/shakhlo/193778464731/
+isfara	Мерос			Согдийская область, Исфара, улица Маркази	Торговый центр	40.123215	70.615356	торговый центр	False	True	https://yandex.kz/maps/org/meros/3575144452/
+isfara	Амид	4.3	13	Согдийская область, Исфара, улица Исмоила Сомони		40.114070	70.603775	супермаркет+магазин	False	True	https://yandex.kz/maps/org/amid/231067706079/
+isfara	Шифо	4.0	8	Согдийская область, Исфара, улица Собитова		40.117747	70.622317	супермаркет+магазин	False	True	https://yandex.kz/maps/org/shifo/149598601697/
+isfara	Себзор			ул. Маркази, 42		40.119467	70.608970	супермаркет+магазин	False	True	https://yandex.kz/maps/org/sebzor/225089980299/
+isfara	Ширин			Согдийская область, Исфара, улица Собитова		40.117680	70.622332	супермаркет+магазин	False	True	https://yandex.kz/maps/org/shirin/87285821449/
+isfara	Темур		6	Согдийская область, Исфара, улица Бахор		40.114485	70.602958	гипермаркет+магазин	False	True	https://yandex.kz/maps/org/temur/175676778530/
+isfara	Шерали	4.7	19	Согдийская область, Исфаринский район, джамоат Кулканд, село Кулканд, улица Ленина	Магазин продуктов	40.148966	70.710250	интернет-магазин	False	True	https://yandex.kz/maps/org/sherali/220140753413/
+isfara	Шарафчон	4.6	20		Магазин продуктов	40.143859	70.694918	интернет-магазин	False	True	https://yandex.kz/maps/org/sharafchon/8606635448/
+isfara	Wildberries	4.7	12	ул. Собитова, 89	Пункт выдачи	40.123217	70.620140	пункт выдачи	False	True	https://yandex.kz/maps/org/wildberries/237704290495/
+isfara	Faberlic			Согдийская область, Исфара, улица Маркази	Пункт выдачи	40.123698	70.616131	пункт выдачи	False	True	https://yandex.kz/maps/org/faberlic/143866549440/
+isfara	LakLak			ул. Маркази, 26		40.124438	70.622094	пункт выдачи	False	True	https://yandex.kz/maps/org/laklak/21087587106/
+isfara	Азизчон			Канибадам, ул. О. Манонова, 65	Магазин подарков и сувениров	40.290227	70.423966	сувениры	False	True	https://yandex.kz/maps/org/azizchon/132897078034/
+isfara	Hadya			Бешарык, махаллинский сход граждан Хамид Олимжон, ул. Сирдарё, 12A	Магазин подарков и сувениров	40.438770	70.605898	сувениры	False	True	https://yandex.kz/maps/org/hadya/83591737874/
+konibodom	Базар Очилбой		5	Согдийская область, Канибадам		40.299363	70.447803	базар+рынок	False	True	https://yandex.kz/maps/org/bazar_ochilboy/161243294472/
+konibodom	Базар Фаровон	5.0	136		Базар Фаровон	40.289170	70.422478	рынок	False	True	https://yandex.kz/maps/org/bazar_farovon/241785172668/
+konibodom	Панчшанбе	4.9	34		Продуктовый рынок	40.307925	70.426476	рынок	False	True	https://yandex.kz/maps/org/panchshanbe/17946767077/
+konibodom	Асхиё	4.9	16	ул. Исмоила Сомони, 356А	Торговый центр	40.281091	70.439973	торговый центр	False	True	https://yandex.kz/maps/org/askhiyo/125786050076/
+konibodom	Садбарг	4.3	27	Согдийская область, Канибадам, улица Бобо Мансурова	Торговый центр	40.288603	70.423036	торговый центр	False	True	https://yandex.kz/maps/org/sadbarg/174455263872/
+konibodom	Гулистон	4.8	26	ул. Исмоила Сомони, 153/35	Торговый центр	40.289168	70.427988	торговый центр	False	True	https://yandex.kz/maps/org/guliston/206024515641/
+konibodom	Торгово-развлекательный центр Алибой			ул. Исмоила Сомони, 125	Торгово-развлекательный центр Алибой	40.292139	70.425447	торговый центр	False	True	https://yandex.kz/maps/org/torgovo_razvlekatelny_tsentr_aliboy/61494086576/
+konibodom	Чоррох	4.4	24	Согдийская область, Канибадам, улица Садриддина Айни	Торговый центр	40.292366	70.435585	торговый центр	False	True	https://yandex.kz/maps/org/chorrokh/27693580094/
+konibodom	Мерос	5.0	246	Согдийская область, Канибадам, улица Бобо Мансурова		40.289981	70.424778	супермаркет+магазин	False	True	https://yandex.kz/maps/org/meros/129829094401/
+konibodom	Ситора	4.7	45	Согдийская область, Канибадам, улица Исмоила Сомони	Магазин продуктов	40.283831	70.436166	супермаркет+магазин	False	True	https://yandex.kz/maps/org/sitora/65958678350/
+konibodom	Одилон	4.3	9	Согдийская область, Канибадам, улица Б. Ниёзмухамедова		40.284980	70.434293	супермаркет+магазин	False	True	https://yandex.kz/maps/org/odilon/139111082032/
+konibodom	Одилон	3.9	6	ул. Исмоила Сомони, 447		40.298246	70.419386	супермаркет+магазин	False	True	https://yandex.kz/maps/org/221532472553/
+konibodom	Супермаркет 24/7	4.4	13	Согдийская область, Канибадамский район, джамоат Патар, село Патар	Супермаркет 24/7	40.341060	70.449792	супермаркет	False	True	https://yandex.kz/maps/org/supermarket_24_7/131382378037/
+konibodom	Пурфайз			улици Ихтиёрхуча Иброхимова, 168		40.303897	70.430719	гипермаркет	False	True	https://yandex.kz/maps/org/purfayz/236666225523/
+konibodom	Истиклол	4.4	16	ул. Садриддина Айни, 16	Магазин продуктов	40.305777	70.427536	магазин	False	False	https://yandex.kz/maps/org/istiklol/198008952530/
+konibodom	Магазин продуктов	4.4	11	Согдийская область, Канибадам, 19-й микрорайон	Магазин продуктов	40.265675	70.448184	магазин	False	False	https://yandex.kz/maps/org/magazin_produktov/183178310422/
+konibodom	Самира	4.7	12	Согдийская область, Канибадам, улица Джавонон	Магазин продуктов	40.281349	70.444415	магазин	False	False	https://yandex.kz/maps/org/samira/106345920332/
+konibodom	Таги бед	4.4	13	Согдийская область, Канибадам, улица Ахмаджона Шарипова	Магазин продуктов	40.298971	70.442202	магазин	False	False	https://yandex.kz/maps/org/tagi_bed/109088009962/
+konibodom	Сарвар	4.0	6	Согдийская область, Канибадамский район, джамоат Пулодон, село Пулодон, улица Дадохона Олимова	Магазин продуктов	40.300105	70.445526	магазин	False	False	https://yandex.kz/maps/org/sarvar/93499602691/
+konibodom	Tamish Shop			ул. Джавонон, 6	Магазин продуктов	40.283315	70.439866	магазин	False	False	https://yandex.kz/maps/org/tamish_shop/139709203880/
+konibodom	Tajburger			Согдийская область, Канибадамский район, джамоат имени Раджаба Хамробоева, село Кучкак, улица Солиджона Полвонова	Магазин продуктов	40.289041	70.424001	магазин	False	False	https://yandex.kz/maps/org/tajburger/32042632321/
+konibodom	Продукты	4.4	10	Канибадам, ул. Навобод, 71А	Магазин продуктов	40.264048	70.429417	магазин	False	False	https://yandex.kz/maps/org/produkty/181872265258/
+konibodom	Продукты	4.3	5	ул. Бустон, 185	Магазин продуктов	40.306640	70.450326	магазин	False	False	https://yandex.kz/maps/org/produkty/161139281768/
+konibodom	Дилноза	4.3	11	Согдийская область, Канибадамский район, джамоат Фирузоба, село Истиклолият	Магазин продуктов	40.266932	70.423469	магазин	False	False	https://yandex.kz/maps/org/dilnoza/38869188136/
+konibodom	Продукты			Согдийская область, Канибадам, улица Садриддина Айни	Магазин продуктов	40.300482	70.429787	магазин	False	False	https://yandex.kz/maps/org/produkty/4197003937/
+konibodom	Продукты			Согдийская область, Канибадам, 19-й микрорайон	Магазин продуктов	40.273491	70.439471	магазин	False	False	https://yandex.kz/maps/org/produkty/178654808302/
+konibodom	Продукты			ул. Исмоила Сомони, 356А	Магазин продуктов	40.281126	70.440048	магазин	False	False	https://yandex.kz/maps/org/produkty/146811878478/
+konibodom	Салимбой			Согдийская область, Канибадам, улица Бобокалонова	Магазин продуктов	40.288640	70.451286	магазин	False	False	https://yandex.kz/maps/org/salimboy/19252226884/
+konibodom	Продукты	4.1	4	Канибадам, ул. Навобод, 63	Магазин продуктов	40.264194	70.430257	магазин	False	False	https://yandex.kz/maps/org/produkty/122182281319/
+konibodom	Бишарифа				Магазин продуктов	40.307761	70.444090	магазин	False	False	https://yandex.kz/maps/org/bisharifa/160354601974/
+konibodom	Кахрамон ако	4.5	10	Согдийская область, Канибадамский район, джамоат Фирузоба, посёлок Сайхун	Магазин продуктов	40.317018	70.371917	магазин	False	False	https://yandex.kz/maps/org/kakhramon_ako/5931879622/
+konibodom	Фаррух			Канибадам, ул. Курук, 86	Магазин продуктов	40.310987	70.428971	магазин	False	False	https://yandex.kz/maps/org/farrukh/122121170658/
+konibodom	Мумин	4.2	4	Согдийская область, Канибадамский район, джамоат имени Раджаба Хамробоева, село Хамирджуй	Магазин продуктов	40.251286	70.380149	магазин	False	False	https://yandex.kz/maps/org/mumin/138940681224/
+konibodom	Wildberries	4.6	14	ул. Исмоила Сомони, 283к6/2	Пункт выдачи	40.277844	70.443604	пункт выдачи	False	True	https://yandex.kz/maps/org/wildberries/225071191012/
+konibodom	LakLak			Согдийская область, Канибадам, улица Бобо Мансурова		40.289618	70.423736	пункт выдачи	False	True	https://yandex.kz/maps/org/laklak/51223339953/
+konibodom	Азизчон			ул. О. Манонова, 65		40.290227	70.423966	сувениры	False	True	https://yandex.kz/maps/org/azizchon/132897078034/
+kulob	Телефон			Хатлонская область, Куляб		37.905987	69.774168	базар+рынок	False	True	https://yandex.kz/maps/org/telefon/232788962511/
+kulob	Саховат	4.5	28		Продуктовый рынок	37.907722	69.775709	рынок	False	True	https://yandex.kz/maps/org/sakhovat/213566428137/
+kulob	Сомони	4.4	11		Продуктовый рынок	37.912949	69.805710	рынок	False	True	https://yandex.kz/maps/org/somoni/154565761515/
+kulob	Продуктовый рынок	4.0	8		Продуктовый рынок	37.910264	69.778689	рынок	False	True	https://yandex.kz/maps/org/produktovy_rynok/19557306355/
+kulob	Хафтбародарон	4.5	10		Торговый центр	37.914362	69.792318	торговый центр	False	True	https://yandex.kz/maps/org/khaftbarodaron/222933618277/
+kulob	Кулоб				Торговый центр	37.909841	69.776773	торговый центр	False	True	https://yandex.kz/maps/org/kulob/53147611665/
+kulob	Бахром				Торговый центр	37.914489	69.792319	торговый центр	False	True	https://yandex.kz/maps/org/bakhrom/56372998291/
+kulob	Лола				Торговый центр	37.909274	69.776390	торговый центр	False	True	https://yandex.kz/maps/org/lola/212074135187/
+kulob	Гайрат				Торговый центр	37.908720	69.776066	торговый центр	False	True	https://yandex.kz/maps/org/gayrat/33080328915/
+kulob	Ёвар	4.0	5	Хатлонская область, Куляб, проспект Исмоила Сомони		37.912591	69.779151	супермаркет+магазин	False	True	https://yandex.kz/maps/org/yovar/119441187937/
+kulob	Минимаркет			Хатлонская область, Куляб, 10-й микрорайон		37.920571	69.798311	супермаркет+магазин	False	True	https://yandex.kz/maps/org/minimarket/97640407278/
+kulob	Дастрас			10-й микрорайон, 11	Магазин продуктов	37.916084	69.793029	супермаркет+магазин	False	True	https://yandex.kz/maps/org/dastras/59304059258/
+kulob	Би1			Хатлонская область, Куляб, 10-й микрорайон		37.919603	69.800642	супермаркет+магазин	False	True	https://yandex.kz/maps/org/bi1/62887376427/
+kulob	Супермаркет				Супермаркет	37.906884	69.773951	супермаркет+магазин	False	True	https://yandex.kz/maps/org/supermarket/243032135557/
+kulob	Бадахшон	4.3	4			37.907108	69.774147	супермаркет+магазин	False	True	https://yandex.kz/maps/org/badakhshon/7063203589/
+kulob	Нур			ул. Джума Али, 678		37.913899	69.803505	супермаркет+магазин	False	True	https://yandex.kz/maps/org/nur/181820090529/
+kulob	Дороб	4.2	4	Хатлонская область, Куляб, улица Ахмадшаха Масуда		37.884155	69.786949	супермаркет	False	True	https://yandex.kz/maps/org/dorob/4520448418/
+kulob	Продукты			ул. Хофиза Шерози, 1	Магазин продуктов	37.915195	69.789881	магазин	False	False	https://yandex.kz/maps/org/produkty/239628095332/
+kulob	Хочи Хоким	4.5	5		Магазин продуктов	37.931328	69.799299	магазин	False	False	https://yandex.kz/maps/org/khochi_khokim/216734661925/
+kulob	Продукты			Хатлонская область, Куляб, улица Хакимова	Магазин продуктов	37.903012	69.779513	магазин	False	False	https://yandex.kz/maps/org/produkty/136178237299/
+kulob	Магазин продуктов рядом				Магазин продуктов рядом	37.931909	69.799624	магазин	False	False	https://yandex.kz/maps/org/magazin_produktov_ryadom/43636845064/
+kulob	Магазин			Хатлонская область, Кулябский район, джамоат Кулоб, село Чорбог	Магазин	37.925552	69.771936	магазин	False	False	https://yandex.kz/maps/org/magazin/137250184207/
+kulob	Махсус	4.3	6	Хатлонская область, Куляб, улица Борбад	Магазин продуктов	37.915935	69.809729	магазин	False	False	https://yandex.kz/maps/org/makhsus/216925782083/
+kulob	Исмат	4.7	9	Хатлонская область, Куляб, улица Хати Рох	Магазин продуктов	37.892447	69.780020	магазин	False	False	https://yandex.kz/maps/org/ismat/87433935826/
+kulob	Продукты				Магазин продуктов	37.926318	69.795003	магазин	False	False	https://yandex.kz/maps/org/produkty/117719003393/
+kulob	Продукты			Хатлонская область, Куляб, 10-й микрорайон	Магазин продуктов	37.920834	69.798516	магазин	False	False	https://yandex.kz/maps/org/produkty/65873867421/
+kulob	Даврон			Хатлонская область, Куляб, улица Чармагарони Поён	Магазин продуктов	37.905961	69.766806	магазин	False	False	https://yandex.kz/maps/org/davron/242182900177/
+kulob	Продукты			Хатлонская область, Кулябский район, джамоат Кулоб, село Тудакавш, улица Тудакавш	Магазин продуктов	37.916794	69.824219	магазин	False	False	https://yandex.kz/maps/org/produkty/206604990136/
+kulob	Шохрухи раис			Хатлонская область, Куляб, 10-й микрорайон	Магазин продуктов	37.919375	69.801099	магазин	False	False	https://yandex.kz/maps/org/shokhrukhi_rais/240004102065/
+kulob	Продукты			Хатлонская область, Кулябский район, джамоат Кулоб, село Тудакавш	Магазин продуктов	37.917050	69.822853	магазин	False	False	https://yandex.kz/maps/org/produkty/192544043233/
+kulob	Мухаммад				Магазин продуктов	37.900813	69.803451	магазин	False	False	https://yandex.kz/maps/org/mukhammad/172902050221/
+kulob	Имрон			Хатлонская область, Куляб, проспект Исмоила Сомони	Магазин продуктов	37.912876	69.779337	магазин	False	False	https://yandex.kz/maps/org/imron/227597830634/
+kulob	Продукты			Хатлонская область, Куляб, улица Чармагарони Поён	Магазин продуктов	37.906047	69.772282	магазин	False	False	https://yandex.kz/maps/org/produkty/41975477916/
+kulob	Хабиб			Хатлонская область, Куляб, проспект Исмоила Сомони	Магазин продуктов	37.905309	69.771833	магазин	False	False	https://yandex.kz/maps/org/khabib/42239471084/
+kulob	Дарë			Хатлонская область, Куляб, улица Худоёра Назарова	Пункт выдачи	37.913100	69.772899	пункт выдачи	False	True	https://yandex.kz/maps/org/dar_/125700889973/
+kulob	LakLak					37.914301	69.788346	пункт выдачи	False	True	https://yandex.kz/maps/org/laklak/212642938944/
+kulob	LakLak					37.908279	69.775265	пункт выдачи	False	True	https://yandex.kz/maps/org/laklak/159717414682/
+kulob	LakLak			Хатлонская область, Куляб, проспект Исмоила Сомони		37.914890	69.780606	пункт выдачи	False	True	https://yandex.kz/maps/org/laklak/140618344536/
+kulob	LakLak			Хатлонская область, Куляб, улица Худоёра Назарова		37.909788	69.778902	пункт выдачи	False	True	https://yandex.kz/maps/org/laklak/86792601060/
+kulob	LakLak			Хатлонская область, Куляб, улица Джума Али		37.913944	69.805068	пункт выдачи	False	True	https://yandex.kz/maps/org/laklak/174514023166/
+khatlon-province	Базар Ходжи Зайнулло	4.9	59		Базар Ходжи Зайнулло	37.949572	68.818086	базар	False	True	https://yandex.kz/maps/org/bazar_khodzhi_zaynullo/160320248829/
+khatlon-province	Ходжи Шариф	5.0	127		Рынок	37.842555	68.806986	базар+рынок	False	True	https://yandex.kz/maps/org/khodzhi_sharif/78668058085/
+khatlon-province	Продуктовый рынок	4.8	40		Продуктовый рынок	38.319290	69.037402	базар	False	True	https://yandex.kz/maps/org/produktovy_rynok/153677651734/
+khatlon-province	Базар Сешанбе			Хатлонская область, Вахшский район	Базар Сешанбе	37.726559	68.823303	базар	False	True	https://yandex.kz/maps/org/bazar_seshanbe/149938350385/
+khatlon-province	Фаровон	5.0	94		Продуктовый рынок, рынок	37.830075	68.781395	базар+рынок	False	True	https://yandex.kz/maps/org/farovon/128158733277/
+khatlon-province	Базар			Хатлонская область, Вахшский район, джамоат 20-летия Незавиимос Таджистана, село Богара	Базар	37.630286	68.823834	базар	False	True	https://yandex.kz/maps/org/bazar/78199513180/
+khatlon-province	Базар Чоршанбе			Хатлонская область, Вахшский район	Базар Чоршанбе	37.753117	68.907814	базар	False	True	https://yandex.kz/maps/org/bazar_chorshanbe/225750679840/
+khatlon-province	Зеленый рынок Каёнуш	4.5	9		Зеленый рынок Каёнуш	38.078549	69.342843	базар+рынок	False	True	https://yandex.kz/maps/org/zeleny_rynok_kayonush/182360029051/
+khatlon-province	Базар			Хатлонская область, район Джалолиддина Балхи, джамоат Навобод, село Чорбог	Базар	37.696473	68.655333	базар	False	True	https://yandex.kz/maps/org/bazar/43992551910/
+khatlon-province	Продуктовый рынок	4.7	24		Продуктовый рынок	37.844439	68.781297	рынок	False	True	https://yandex.kz/maps/org/produktovy_rynok/22258925880/
+khatlon-province	Продуктовый рынок	4.9	77		Продуктовый рынок	37.595474	68.657506	рынок	False	True	https://yandex.kz/maps/org/produktovy_rynok/179100692274/
+khatlon-province	Садбарг	4.9	344	Душанбе, просп. Рудаки, 10	Торговый центр	38.561623	68.800018	торговый центр	False	True	https://yandex.kz/maps/org/sadbarg/82082493166/
+khatlon-province	Душанбе Молл	4.7	215	Душанбе, ул. Дустии халкхо, 47	Торговый центр	38.573892	68.801434	торговый центр	False	True	https://yandex.kz/maps/org/dushanbe_moll/10654459377/
+khatlon-province	Сиёма Молл	4.8	158	Душанбе, ул. Фирдоуси, 8	Торговый центр	38.519312	68.752866	торговый центр	False	True	https://yandex.kz/maps/org/siyoma_moll/221793724068/
+khatlon-province	Мехргон	5.0	329	Душанбе, ул. Мехнат, 4	Торговый центр	38.585954	68.799320	торговый центр	False	True	https://yandex.kz/maps/org/mekhrgon/221813042483/
+khatlon-province	Саодат	4.0	50	Душанбе, ул. Шамси, 23	Торговый центр	38.580069	68.741932	торговый центр	False	True	https://yandex.kz/maps/org/saodat/37086257384/
+khatlon-province	Муниса	4.4	43	Душанбе, ул. Фатеха Ниязи, 3/1	Торговый центр	38.581253	68.783754	торговый центр	False	True	https://yandex.kz/maps/org/munisa/66115462825/
+khatlon-province	Баракат Плаза	4.6	29	Душанбе, ул. Садриддина Айни, 16Б	Торговый центр	38.562477	68.791505	торговый центр	False	True	https://yandex.kz/maps/org/barakat_plaza/23364772455/
+khatlon-province	Торговый центр	3.9	3	Хатлонская область, район Кушониён, посёлок городского типа Бустонкала	Торговый центр	37.843783	68.829793	торговый центр	False	True	https://yandex.kz/maps/org/torgovy_tsentr/236264490502/
+khatlon-province	Таджикистан	4.3	99	Душанбе, просп. Рудаки, 83	Торговый центр	38.580811	68.786225	торговый центр	False	True	https://yandex.kz/maps/org/tadzhikistan/19869891947/
+khatlon-province	Кохи Нур	5.0	179	районы республиканского подчинения, Турсунзаде, улица 15-летия Независимости	Торговый центр	38.516489	68.214486	торговый центр	False	True	https://yandex.kz/maps/org/kokhi_nur/156946057399/
+khatlon-province	Баракат	4.2	41	Душанбе, просп. Исмоила Сомони, 3/2	Торговый центр	38.582688	68.783184	торговый центр	False	True	https://yandex.kz/maps/org/barakat/190196607657/
+khatlon-province	Аниса	4.0	27	Душанбе, ул. Бухоро, 50Б	Торговый центр	38.570721	68.787768	торговый центр	False	True	https://yandex.kz/maps/org/anisa/48658586135/
+khatlon-province	Торговый центр Муллиён	4.4	24	Душанбе, ул. Фатеха Ниязи, 36	Торговый центр Муллиён	38.581264	68.784830	торговый центр	False	True	https://yandex.kz/maps/org/torgovy_tsentr_mulliyon/39758366129/
+khatlon-province	Ситора	4.1	26	Душанбе, ул. Бухоро, 50А	Торговый центр	38.570587	68.787370	торговый центр	False	True	https://yandex.kz/maps/org/sitora/109172581300/
+khatlon-province	Марва	4.8	21	Душанбе, просп. Нусратулло Махсума, 14	Торговый центр	38.582184	68.721663	торговый центр	False	True	https://yandex.kz/maps/org/marva/120787949599/
+khatlon-province	Торговый дом Авранг	4.4	63	Душанбе, ул. Джаббора Расулова, 9	Магазин бытовой техники, торговый центр	38.561370	68.740488	торговый центр	False	True	https://yandex.kz/maps/org/torgovy_dom_avrang/229136548983/
+khatlon-province	Торговый Центр Садбарг	4.4	20	Душанбе, просп. Рудаки, 10	Торговый Центр Садбарг	38.561674	68.799990	торговый центр	False	True	https://yandex.kz/maps/org/torgovy_tsentr_sadbarg/192187631216/
+khatlon-province	Ватан Молл	4.4	33	Душанбе, ул. Садриддина Айни, 29/9	Торговый центр	38.563161	68.797095	торговый центр	False	True	https://yandex.kz/maps/org/vatan_moll/163069895003/
+khatlon-province	Торговый центр Олимджон	4.5	14	г. Вахдат, просп. Сомониён, 39	Торговый центр Олимджон	38.562160	69.022462	торговый центр	False	True	https://yandex.kz/maps/org/torgovy_tsentr_olimdzhon/232105378560/
+khatlon-province	Детский мир	4.7	49	районы республиканского подчинения, Турсунзаде	Торговый центр	38.510797	68.233876	торговый центр	False	True	https://yandex.kz/maps/org/detskiy_mir/212204915258/
+khatlon-province	7 Ахтар	4.4	29		Торговый центр	38.500099	68.756680	торговый центр	False	True	https://yandex.kz/maps/org/7_akhtar/88269984941/
+khatlon-province	Торговый центр	4.3	4	районы республиканского подчинения, Гиссар	Торговый центр	38.523873	68.562100	торговый центр	False	True	https://yandex.kz/maps/org/torgovy_tsentr/26396805496/
+khatlon-province	Торговый центр Ёкут 2000	1.8	7	Душанбе, район Шохмансур	Торговый центр Ёкут 2000	38.559354	68.794396	торговый центр	False	True	https://yandex.kz/maps/org/torgovy_tsentr_yokut_2000/244856735939/
+khatlon-province	Торговый центр Бародарон	4.4	5	город Вахдат, улица Ватан	Торговый центр Бародарон	38.554709	69.020313	торговый центр	False	True	https://yandex.kz/maps/org/torgovy_tsentr_barodaron/201957092612/
+khatlon-province	Пайкар	4.9	151	Душанбе, ул. Садриддина Айни, 16Б		38.562603	68.791508	супермаркет+интернет-магазин+магазин	False	True	https://yandex.kz/maps/org/paykar/6369438383/
+khatlon-province	Би1	4.8	603	Душанбе, ул. Дустии халкхо, 47	Торговые центры Душанбе: места для шопинга и отдыха	38.574076	68.801204	супермаркет+интернет-магазин+магазин	False	True	https://yandex.kz/maps/org/bi1/60481304538/
+khatlon-province	Пайкар	4.9	44	Душанбе, ул. Борбада, 101		38.526159	68.748255	супермаркет	False	True	https://yandex.kz/maps/org/paykar/157772314242/
+khatlon-province	Ёвар	4.8	19	Хатлонская область, Бохтар, улица Джалолиддини Руми		37.843764	68.780502	супермаркет	False	True	https://yandex.kz/maps/org/yovar/103276630635/
+khatlon-province	Пайкар	4.5	114	Душанбе, ул. Бухоро, 27		38.568257	68.786554	супермаркет+интернет-магазин+магазин	False	True	https://yandex.kz/maps/org/paykar/55038028092/
+khatlon-province	Пайкар	4.9	122	Душанбе, просп. Рудаки, 66		38.579476	68.787617	супермаркет+интернет-магазин+магазин	False	True	https://yandex.kz/maps/org/paykar/68712914947/
+khatlon-province	Ёвар	4.9	34	Турсунзаде, 2-й микрорайон, 144		38.520913	68.225073	супермаркет	False	True	https://yandex.kz/maps/org/yovar/136513975000/
+khatlon-province	8 Mart	4.0	26	Душанбе, просп. Рудаки, 127		38.596119	68.786366	супермаркет	False	True	https://yandex.kz/maps/org/8_mart/96830259664/
+khatlon-province	Пайкар	4.9	72	Душанбе, ул. Садриддина Айни, 57		38.563449	68.810026	супермаркет+магазин	False	True	https://yandex.kz/maps/org/paykar/92681957587/
+khatlon-province	Пайкар	4.4	53	Душанбе, ул. Бободжана Гафурова, 68		38.586744	68.740466	супермаркет	False	True	https://yandex.kz/maps/org/paykar/226533422558/
+khatlon-province	Ёвар	4.5	38	Душанбе, район Сино		38.568408	68.766283	супермаркет+интернет-магазин+магазин	False	True	https://yandex.kz/maps/org/yovar/47565423135/
+khatlon-province	Ёвар	4.2	77	Душанбе, ул. Мирзо Турсунзаде, 18/6		38.572385	68.795350	супермаркет+интернет-магазин+магазин	False	True	https://yandex.kz/maps/org/yovar/208923459239/
+khatlon-province	Ёвар	4.4	35	Душанбе, ул. Бобо Хамдамова, 1/1		38.581827	68.714769	супермаркет	False	True	https://yandex.kz/maps/org/yovar/104000653984/
+khatlon-province	Пайкар	4.7	20	Душанбе, ул. Саида Носира, 25		38.594890	68.780359	супермаркет	False	True	https://yandex.kz/maps/org/paykar/231118673547/
+khatlon-province	Релакс	4.6	41	Душанбе, ул. Алишера Навои, 63		38.590828	68.736413	супермаркет	False	True	https://yandex.kz/maps/org/relaks/79320204829/
+khatlon-province	Ёвар	4.3	41	Душанбе, ул. Дехоти, 62		38.532770	68.767743	супермаркет+интернет-магазин+магазин	False	True	https://yandex.kz/maps/org/yovar/18722414216/
+khatlon-province	Релакс	4.1	37	Душанбе, ул. Садриддина Айни, 51		38.563407	68.806467	супермаркет	False	True	https://yandex.kz/maps/org/relaks/65955836791/
+khatlon-province	Супермаркет Шохон	4.4	43	Душанбе, ул. Пушкина, 7	Супермаркет Шохон	38.574738	68.791734	супермаркет+интернет-магазин+магазин	False	True	https://yandex.kz/maps/org/supermarket_shokhon/11287912009/
+khatlon-province	Минимаркет Ашан	4.6	13	Душанбе, ул. Гаффора Мирзо, 14/1		38.560149	68.766352	супермаркет	False	True	https://yandex.kz/maps/org/minimarket_ashan/208732589140/
+khatlon-province	Ёвар	4.7	17	Душанбе, просп. Нусратулло Махсума, 76		38.584130	68.745724	супермаркет	False	True	https://yandex.kz/maps/org/yovar/115533418974/
+khatlon-province	Ёвар	4.5	12	Душанбе, ул. Борбада, 64/2		38.524450	68.749466	супермаркет	False	True	https://yandex.kz/maps/org/yovar/46206116707/
+khatlon-province	Ёвар	3.8	26			38.584542	68.760810	супермаркет	False	True	https://yandex.kz/maps/org/yovar/87365631083/
+khatlon-province	Ёвар	4.3	15	Душанбе, ул. Фирдоуси, 68/2		38.519025	68.770166	супермаркет	False	True	https://yandex.kz/maps/org/yovar/163848974861/
+khatlon-province	Супермаркет Шохмансур	4.1	52	Душанбе, ул. Садриддина Айни, 69/53	Супермаркет Шохмансур	38.563237	68.814214	супермаркет	False	True	https://yandex.kz/maps/org/supermarket_shokhmansur/140867992717/
+khatlon-province	Зарафшон сити	4.6	37	Душанбе, микрорайон Зарафшон, 19/1		38.586187	68.714744	супермаркет	False	True	https://yandex.kz/maps/org/zarafshon_siti/192968944749/
+khatlon-province	Пайкар	4.3	51	Душанбе, 11-й микрорайон, ул. Якка-Чинарская, 148		38.567244	68.755381	гипермаркет+интернет-магазин+магазин	False	True	https://yandex.kz/maps/org/paykar/140093525050/
+khatlon-province	Кахор маркет			районы республиканского подчинения, Турсунзадевский район, село Байналмилал		38.453754	68.159325	гипермаркет	False	True	https://yandex.kz/maps/org/kakhor_market/33544395104/
+khatlon-province	Фирменный магазин Таджикматлубот			Душанбе, просп. Рудаки, 137	Фирменный магазин Таджикматлубот	38.600835	68.785980	гипермаркет	False	True	https://yandex.kz/maps/org/firmenny_magazin_tadzhikmatlubot/63296669436/
+khatlon-province	Дастрас			Душанбе, ул. Шарифджона Хусейнзаде, 4		38.566532	68.785619	гипермаркет	False	True	https://yandex.kz/maps/org/dastras/118757178593/
+khatlon-province	Ёвар	4.6	34	Душанбе, просп. Негмата Карабаева, 25	Магазин продуктов	38.549580	68.761443	интернет-магазин+магазин	False	True	https://yandex.kz/maps/org/yovar/126551156901/
+khatlon-province	Диёр	4.5	28	Душанбе, ул. Шамси, 32А	Магазин продуктов	38.579240	68.741761	интернет-магазин+магазин	False	True	https://yandex.kz/maps/org/diyor/156055333250/
+khatlon-province	Садия	4.5	21	Душанбе, ул. Шириншох Шотемура, 57	Магазин продуктов	38.578240	68.793377	интернет-магазин+магазин	False	True	https://yandex.kz/maps/org/sadiya/137386396991/
+khatlon-province	Ёсин	4.9	54	Душанбе, просп. Джами, 8	Магазин продуктов	38.531425	68.738654	интернет-магазин+магазин	False	True	https://yandex.kz/maps/org/yosin/87578509592/
+khatlon-province	Гипрозем	5.0	217	Душанбе, ул. Борбада, 130	Продуктовый рынок, магазин продуктов	38.513544	68.740902	интернет-магазин	False	True	https://yandex.kz/maps/org/giprozem/63605772441/
+khatlon-province	Пойтахт	4.3	41	Душанбе, ул. Мирзо Турсунзаде, 45	Магазин продуктов	38.581045	68.793973	интернет-магазин+магазин	False	True	https://yandex.kz/maps/org/poytakht/200167922140/
+khatlon-province	Фирменный магазин Форель	4.4	11	Душанбе, ул. Сохили, 8	Фирменный магазин Форель	38.529074	68.769955	интернет-магазин	False	True	https://yandex.kz/maps/org/firmenny_magazin_forel/239803105335/
+khatlon-province	Продукты 24 часа	4.9	55	Шаргунь, ул. Донишманд, 26	Магазин продуктов	38.465693	67.963421	интернет-магазин+магазин	False	True	https://yandex.kz/maps/org/produkty_24_chasa/72695938364/
+khatlon-province	Sedal Uz	5.0	39	населённый пункт Тергаран, ул. Лангар Кишлак, 5	Магазин продуктов	38.453698	67.883889	интернет-магазин	False	True	https://yandex.kz/maps/org/sedal_uz/129106205275/
+khatlon-province	Дирам	4.8	13	Душанбе, ул. Бохирова, 27А	Магазин продуктов	38.555352	68.812256	интернет-магазин	False	True	https://yandex.kz/maps/org/diram/30717650927/
+khatlon-province	Ёвар	4.7	12	Душанбе, ул. Нурулло Хувайдуллоева, 216А	Магазин мяса, колбас	38.568156	68.766192	интернет-магазин	False	True	https://yandex.kz/maps/org/yovar/235567201303/
+khatlon-province	Wildberries	4.0	10	Душанбе, ул. Хамзы Хакимзаде, 5	Пункт выдачи	38.595818	68.781867	пункт выдачи	False	True	https://yandex.kz/maps/org/wildberries/113812171655/
+khatlon-province	Wildberries	4.8	85	Душанбе, ул. Абдулкосима Лохути, 13	Пункт выдачи	38.567045	68.799659	пункт выдачи	False	True	https://yandex.kz/maps/org/wildberries/8506218093/
+khatlon-province	Дарё	2.7	5	Хатлонская область, Бохтар, улица Бободжона Гафурова	Пункт выдачи	37.836488	68.787593	пункт выдачи	False	True	https://yandex.kz/maps/org/daryo/78187751543/
+khatlon-province	Wildberries	3.4	4	Душанбе, ул. Абдулахада Каххарова, 33	Пункт выдачи	38.561881	68.775008	пункт выдачи	False	True	https://yandex.kz/maps/org/wildberries/146366925855/
+khatlon-province	Wildberries	4.3	9	Душанбе, ул. Пулоди, 43, подъезд 1	Пункт выдачи	38.574353	68.799806	пункт выдачи	False	True	https://yandex.kz/maps/org/wildberries/202555961819/
+khatlon-province	Wildberries	4.4	7	Турсунзаде, 1-й микрорайон, 7	Пункт выдачи	38.516551	68.212240	пункт выдачи	False	True	https://yandex.kz/maps/org/wildberries/194119444044/
+khatlon-province	Uzum Market	5.0	177	Денау, ул. Шарафа Рашидова, 176	Пункт выдачи	38.280229	67.896173	пункт выдачи	False	True	https://yandex.kz/maps/org/uzum_market/7605274403/
+khatlon-province	Wildberries	4.3	3		Пункт выдачи	38.531510	68.750292	пункт выдачи	False	True	https://yandex.kz/maps/org/wildberries/92019236714/
+khatlon-province	Дарё	4.0	5	Душанбе, просп. Рудаки, 85	Пункт выдачи	38.581242	68.785951	пункт выдачи	False	True	https://yandex.kz/maps/org/daryo/40301477769/
+khatlon-province	Wildberries	3.9	7	Бохтар, ул. Джалолиддини Руми, 3А	Пункт выдачи	37.843326	68.780729	пункт выдачи	False	True	https://yandex.kz/maps/org/wildberries/189093114600/
+khatlon-province	Дарё				Пункт выдачи	38.097748	69.337077	пункт выдачи	False	True	https://yandex.kz/maps/org/daryo/210595710183/
+khatlon-province	Дарë			Хатлонская область, Куляб, улица Худоёра Назарова	Пункт выдачи	37.913100	69.772899	пункт выдачи	False	True	https://yandex.kz/maps/org/dar_/125700889973/
+khatlon-province	Дарё			районы республиканского подчинения, Гиссар	Пункт выдачи	38.522662	68.563578	пункт выдачи	False	True	https://yandex.kz/maps/org/daryo/125604521803/
+khatlon-province	Wildberries			Душанбе, просп. Негмата Карабаева, 21А	Пункт выдачи	38.550614	68.760396	пункт выдачи	False	True	https://yandex.kz/maps/org/wildberries/119648486504/
+khatlon-province	Дарё	3.7	3	Душанбе, ул. Ахмада Дониша, 17/2	Пункт выдачи	38.560329	68.813893	пункт выдачи	False	True	https://yandex.kz/maps/org/daryo/5936820974/
+khatlon-province	Алибобо	3.5	4	Душанбе, просп. Рудаки, 93/1	Пункт выдачи	38.584526	68.785786	пункт выдачи+маркетплейс	False	True	https://yandex.kz/maps/org/alibobo/197436803346/
+khatlon-province	Wildberries	4.1	4	Душанбе, ул. Бобо Хамдамова, 2/2	Пункт выдачи	38.584453	68.713840	пункт выдачи	False	True	https://yandex.kz/maps/org/wildberries/90816439602/
+khatlon-province	Faberlic			Душанбе, ул. Садриддина Айни, 307	Пункт выдачи	38.555605	68.869015	пункт выдачи	False	True	https://yandex.kz/maps/org/faberlic/145101767979/
+khatlon-province	Jana Post			Бохтар, ул. Космонавтов, 60	Пункт выдачи	37.848410	68.790086	пункт выдачи	False	True	https://yandex.kz/maps/org/jana_post/164665064622/
+khatlon-province	Uzum Market	4.9	15		Пункт выдачи	38.429833	67.912740	пункт выдачи	False	True	https://yandex.kz/maps/org/uzum_market/159080720425/
+khatlon-province	Дарё			Душанбе, ул. Бободжана Гафурова, 32/2	Пункт выдачи	38.580930	68.740220	пункт выдачи	False	True	https://yandex.kz/maps/org/daryo/34610321160/
+khatlon-province	Wildberries			п. г. т. Сомониён, ул. Исмоила Сомони, 30/4	Пункт выдачи	38.442717	68.775134	пункт выдачи	False	True	https://yandex.kz/maps/org/wildberries/96733127331/
+khatlon-province	Noor Art Gallery	4.1	8	Душанбе, просп. Исмоила Сомони, 26/1	Магазин подарков и сувениров, художественный салон	38.582402	68.767406	сувениры	False	True	https://yandex.kz/maps/org/noor_art_gallery/20767056431/
+khatlon-province	Sou So	4.7	14	Душанбе, ул. Шириншох Шотемура, 57	Магазин подарков и сувениров	38.578602	68.793115	сувениры	False	True	https://yandex.kz/maps/org/sou_so/212160828795/
+khatlon-province	Zoda Art Gallery	4.2	3	Душанбе, ул. Садриддина Айни, 48	Магазин подарков и сувениров	38.562772	68.808927	сувениры	False	True	https://yandex.kz/maps/org/zoda_art_gallery/194731071772/
+khatlon-province	President business gifts			Душанбе, просп. Рудаки, 55	Магазин подарков и сувениров, магазин часов	38.571931	68.788214	сувениры	False	True	https://yandex.kz/maps/org/president_business_gifts/207703386082/
+khatlon-province	Bookmark	5.0	74	Денау, ул. Мустакиллик, 46A, этаж 1	Книжный магазин, магазин подарков и сувениров	38.275775	67.899333	сувениры	False	True	https://yandex.kz/maps/org/bookmark/23335652526/
+khatlon-province	Шарк	4.4	5	Душанбе, просп. Рудаки, 30	Магазин подарков и сувениров	38.568606	68.792791	сувениры	False	True	https://yandex.kz/maps/org/shark/126382705014/
+khatlon-province	Gift and souvenir shop			Душанбе, район Шохмансур	Магазин подарков и сувениров	38.561673	68.788790	сувениры	False	True	https://yandex.kz/maps/org/gift_and_souvenir_shop/189312199736/
+khatlon-province	Ганджина			Душанбе, просп. Рудаки, 37	Магазин подарков и сувениров	38.570461	68.789736	сувениры	False	True	https://yandex.kz/maps/org/gandzhina/72330449317/
+khatlon-province	Шарк			Душанбе, просп. Рудаки, 30	Магазин подарков и сувениров	38.568647	68.792706	сувениры	False	True	https://yandex.kz/maps/org/shark/240955746411/
+khatlon-province	Таджикский сувенирный магазин			Душанбе, просп. Рудаки, 83	Таджикский сувенирный магазин	38.580570	68.786267	сувениры	False	True	https://yandex.kz/maps/org/tadzhikskiy_suvenirny_magazin/218996517999/
+khatlon-province	Армугон			Душанбе, ул. Маяковского, 42/1	Магазин подарков и сувениров	38.560878	68.748568	сувениры	False	True	https://yandex.kz/maps/org/armugon/137071941076/
+khatlon-province	Exclusive Gifts			Душанбе, просп. Нусратулло Махсума, 105/6	Магазин подарков и сувениров	38.579519	68.729099	сувениры	False	True	https://yandex.kz/maps/org/exclusive_gifts/138111893930/
+khatlon-province	Магазин восточных сувениров			Душанбе, просп. Рудаки, 89	Магазин восточных сувениров	38.582734	68.785483	сувениры	False	True	https://yandex.kz/maps/org/magazin_vostochnykh_suvenirov/62041301040/
+khatlon-province	Сувенирный магазин			Нурек, ул. Рудаки, 10/А	Сувенирный магазин	38.389323	69.317051	сувениры	False	True	https://yandex.kz/maps/org/suvenirny_magazin/9232496263/
+khatlon-province	Панда			Душанбе, просп. Негмата Карабаева, 91Б	Магазин подарков и сувениров	38.517035	68.761354	сувениры	False	True	https://yandex.kz/maps/org/panda/120620449536/
+khatlon-province	Подарки			Бохтар, ул. Мирзокодировой, 29	Магазин подарков и сувениров	37.830303	68.779789	сувениры	False	True	https://yandex.kz/maps/org/podarki/203610768806/
+khatlon-province	Рухом	4.4	6	Душанбе, улица Шарк		38.588508	68.794732	сувениры	False	True	https://yandex.kz/maps/org/rukhom/122224657167/
+khatlon-province	Gift and souvenir shop			Душанбе, ул. Шамси, 23, этаж 1	Магазин подарков и сувениров	38.580246	68.741822	сувениры	False	True	https://yandex.kz/maps/org/gift_and_souvenir_shop/188023123943/
+khatlon-province	Podarki Toj			Душанбе, просп. Рудаки, 10	Магазин подарков и сувениров	38.561879	68.799898	сувениры	False	True	https://yandex.kz/maps/org/podarki_toj/233270503036/
+khatlon-province	Jasmine Gifts			Душанбе, ул. Дружбы народов, 47	Магазин подарков и сувениров	38.573923	68.801350	сувениры	False	True	https://yandex.kz/maps/org/jasmine_gifts/105873703434/
+khatlon-province	Магазин именных подарков Суратгирхона			Душанбе, ул. Якка-Чинарская, 22	Магазин именных подарков Суратгирхона	38.543510	68.755493	сувениры	False	True	https://yandex.kz/maps/org/magazin_imennykh_podarkov_suratgirkhona/245621029894/
+khatlon-province	Сувениры Таджикистана			Душанбе, ул. Мехнат, 4	Сувениры Таджикистана	38.585706	68.798941	сувениры	False	True	https://yandex.kz/maps/org/suveniry_tadzhikistana/228850203786/
+khatlon-province	Душанбе Принт			Душанбе, просп. Рудаки, 10		38.561704	68.800047	сувениры	False	True	https://yandex.kz/maps/org/dushanbe_print/233670730747/
+khatlon-province	Сувениры			Душанбе, махалла имени Крупской, ул. Крупской, 202	Сувениры	38.503980	68.756838	сувениры	False	True	https://yandex.kz/maps/org/suveniry/48448847375/
+nurek	Продуктовый рынок	4.8	40		Продуктовый рынок	38.319290	69.037402	базар	False	True	https://yandex.kz/maps/org/produktovy_rynok/153677651734/
+nurek	Бозори анор				Рынок	38.399888	69.240582	базар+рынок	False	True	https://yandex.kz/maps/org/bozori_anor/213080336459/
+nurek	Бозори маркази Нохияи Ëвон	4.4	12		Рынок	38.318750	69.038226	базар	False	True	https://yandex.kz/maps/org/bozori_markazi_nokhiyai_von/5601124573/
+nurek	Продуктовый рынок	4.0	18	Хатлонская область, Нурек, улица Тургенева	Продуктовый рынок	38.389874	69.311578	рынок	False	True	https://yandex.kz/maps/org/produktovy_rynok/83909579194/
+nurek	Продуктовый рынок				Продуктовый рынок	38.404085	69.243611	рынок	False	True	https://yandex.kz/maps/org/produktovy_rynok/34466891640/
+nurek	Магазин Панчруд	3.3	5	Душанбе, район Шохмансур	Магазин Панчруд	38.529079	68.790083	торговый центр	False	True	https://yandex.kz/maps/org/magazin_panchrud/124274047768/
+nurek	7 Авранг				Торговый центр	38.320991	69.031230	торговый центр	False	True	https://yandex.kz/maps/org/7_avrang/95885518102/
+nurek	Торгово-сервисный центр Нилуфар	4.4	11	Душанбе, улица Пахтаи Комил	Торгово-сервисный центр Нилуфар	38.529842	68.800619	торговый центр	False	True	https://yandex.kz/maps/org/torgovo_servisny_tsentr_nilufar/37990594988/
+nurek	Гастроном		8	ул. Рудаки, 11		38.389824	69.317508	супермаркет+магазин	False	True	https://yandex.kz/maps/org/gastronom/166621132273/
+nurek	Электрон	4.1	13		Магазин продуктов	38.388858	69.327371	магазин	False	False	https://yandex.kz/maps/org/elektron/156499143920/
+nurek	Шоми кафдон				Магазин продуктов	38.389212	69.311015	магазин	False	False	https://yandex.kz/maps/org/shomi_kafdon/145877148611/
+nurek	Шафоат				Магазин продуктов	38.389156	69.310677	магазин	False	False	https://yandex.kz/maps/org/shafoat/65424890820/
+nurek	Wildberries			ул. Рудаки, 26/1	Пункт выдачи	38.388942	69.327383	пункт выдачи	False	True	https://yandex.kz/maps/org/wildberries/142647600790/
+nurek	Jana Post			ул. Рудаки, 8	Пункт выдачи	38.389102	69.314839	пункт выдачи	False	True	https://yandex.kz/maps/org/jana_post/67327304075/
+nurek	Сувенирный магазин			ул. Рудаки, 10/А		38.389323	69.317051	сувениры	False	True	https://yandex.kz/maps/org/suvenirny_magazin/9232496263/
+pendjikent	Дусти	4.8	27		Рынок	39.496379	67.609803	базар+рынок	False	True	https://yandex.kz/maps/org/dusti/112757821241/
+pendjikent	Центральный рынок Пенджикент	4.9	36	просп. Рудаки, 176	Центральный рынок Пенджикент	39.498875	67.615264	базар+рынок	False	True	https://yandex.kz/maps/org/tsentralny_rynok_pendzhikent/52363815385/
+pendjikent	Мол бозор	3.5	4		Рынок	39.483091	67.606762	базар+рынок	False	True	https://yandex.kz/maps/org/mol_bozor/135768837329/
+pendjikent	Нусратулло Шаб-Бозор			просп. Рудаки, 132	Продуктовый рынок	39.497088	67.611502	рынок	False	True	https://yandex.kz/maps/org/nusratullo_shab_bozor/154443314754/
+pendjikent	Торговый центр			просп. Рудаки, 176	Торговый центр	39.498847	67.615378	торговый центр	False	True	https://yandex.kz/maps/org/torgovy_tsentr/207679791286/
+pendjikent	Алишер			Согдийская область, Пенджикент, улица 50-летия Таджикистана	Торговый центр	39.484711	67.598161	торговый центр	False	True	https://yandex.kz/maps/org/alisher/227819324561/
+pendjikent	Причуда	4.4	6	просп. Рудаки, 155		39.497716	67.611908	супермаркет+магазин	False	True	https://yandex.kz/maps/org/prichuda/178732462059/
+pendjikent	Умариён	4.3	9	просп. Рудаки, 157		39.497855	67.612497	супермаркет+магазин	False	True	https://yandex.kz/maps/org/umariyon/210050152575/
+pendjikent	Сумая	4.1	8	просп. Рудаки, 91		39.494989	67.597860	супермаркет+магазин	False	True	https://yandex.kz/maps/org/sumaya/48547136992/
+pendjikent	Продукты			ул. Фирдавси, 1790		39.502246	67.594365	супермаркет+магазин	False	True	https://yandex.kz/maps/org/produkty/74683407566/
+pendjikent	Asr Market	4.5	34			39.696440	67.090700	гипермаркет	False	True	https://yandex.kz/maps/org/asr_market/186991072520/
+pendjikent	Шахло	4.7	28	просп. Рудаки, 171	Магазин продуктов	39.498294	67.614619	магазин	False	False	https://yandex.kz/maps/org/162595646465/
+pendjikent	Нур	4.7	11	просп. Рудаки, 72	Магазин продуктов	39.494316	67.597212	магазин	False	False	https://yandex.kz/maps/org/nur/82677626055/
+pendjikent	Саломат	4.4	10	Согдийская область, Пенджикент, улица М. Шерализода	Магазин продуктов	39.496893	67.612483	магазин	False	False	https://yandex.kz/maps/org/salomat/84279485824/
+pendjikent	Умариен	4.2	9	просп. Рудаки, 147А	Магазин продуктов	39.496810	67.608911	магазин	False	False	https://yandex.kz/maps/org/umariyen/245621821490/
+pendjikent	Голд сити			Согдийская область, Пенджикент, проспект Рудаки	Магазин продуктов	39.496282	67.623594	магазин	False	False	https://yandex.kz/maps/org/gold_siti/234814760244/
+pendjikent	Магазин Навруз			просп. Рудаки, 153	Магазин Навруз	39.497350	67.610744	магазин	False	False	https://yandex.kz/maps/org/magazin_navruz/30971963067/
+pendjikent	Ачоиб	3.9	6	Согдийская область, Пенджикент, улица Лохути	Магазин продуктов	39.495471	67.611992	магазин	False	False	https://yandex.kz/maps/org/achoib/7217462887/
+pendjikent	Чойи савдои Лу́тибой			Согдийская область, Пенджикент, улица Шамсиддина Шохина	Магазин продуктов	39.498461	67.616642	магазин	False	False	https://yandex.kz/maps/org/choyi_savdoi_lu_tiboy/119795784478/
+pendjikent	Лола	4.3	4	Согдийская область, Пенджикентский район, джамоат Ханифа Хасан, село Деваштич, улица Ходжи Мухаммадкул	Магазин продуктов	39.481527	67.629349	магазин	False	False	https://yandex.kz/maps/org/lola/162994848288/
+pendjikent	Чимтарга			просп. Рудаки, 14	Магазин продуктов	39.490549	67.587919	магазин	False	False	https://yandex.kz/maps/org/chimtarga/217351896025/
+pendjikent	Продукты			Согдийская область, Пенджикентский район, джамоат Ханифа Хасан, село Кабудсанг	Магазин продуктов	39.489341	67.645810	магазин	False	False	https://yandex.kz/maps/org/produkty/223692018000/
+pendjikent	Фирдавси			Согдийская область, Пенджикент, улица Фирдавси	Магазин продуктов	39.496116	67.594678	магазин	False	False	https://yandex.kz/maps/org/firdavsi/179061411501/
+pendjikent	Мясо Джамшед Хуршед	4.1	5	просп. Рудаки, 76	Магазин мяса, колбас	39.494348	67.597727	магазин	False	False	https://yandex.kz/maps/org/myaso_dzhamshed_khurshed/57505759463/
+pendjikent	Фарахноз			село Деваштич, ул. Ходжи Мухаммадкул, 33	Магазин продуктов	39.479312	67.631679	магазин	False	False	https://yandex.kz/maps/org/farakhnoz/21578621044/
+pendjikent	Продукты			село Деваштич, ул. Ходжи Мухаммадкул, 32А	Магазин продуктов	39.479418	67.631986	магазин	False	False	https://yandex.kz/maps/org/produkty/198810237984/
+pendjikent	Wildberries	3.8	11	просп. Рудаки, 26	Пункт выдачи	39.492344	67.590787	пункт выдачи	False	True	https://yandex.kz/maps/org/wildberries/154844428183/
+pendjikent	LakLak			просп. Рудаки, 144		39.497761	67.614085	пункт выдачи	False	True	https://yandex.kz/maps/org/laklak/67717954235/
+pendjikent	Подарки			Джамбай, махаллинский сход граждан Ахмаджон Курбонов, ул. Галакапа, 72	Магазин подарков и сувениров	39.696950	67.093906	сувениры	False	True	https://yandex.kz/maps/org/podarki/162704419926/
+pendjikent	Sarpo_tm			Джамбай, махаллинский сход граждан Ахмаджон Курбонов, ул. Галакапа, 204	Магазин подарков и сувениров	39.697926	67.097566	сувениры	False	True	https://yandex.kz/maps/org/sarpo_tm/217943365280/
+pendjikent	Национальные товары			Джамбай, махаллинский сход граждан Ахмаджон Курбонов, ул. Галакапа, 85	Магазин подарков и сувениров	39.697103	67.095837	сувениры	False	True	https://yandex.kz/maps/org/natsionalnyye_tovary/122256010599/
+pendjikent	Sovg'alar			Джамбай, ул. Кишлак Кунгирот, 81	Магазин подарков и сувениров	39.692707	67.101260	сувениры	False	True	https://yandex.kz/maps/org/sovg_alar/218069611930/
+sughd-province	Панчшанбе	5.0	1309		Рынок	40.279272	69.633228	базар+рынок	False	True	https://yandex.kz/maps/org/panchshanbe/152987321869/
+sughd-province	Бекобод Дехкон Бозори	4.4	51	Бекабад, махаллинский сход граждан Металлург, ул. Буюк Ипак Йули, 10	Рынок	40.227107	69.272444	базар	False	True	https://yandex.kz/maps/org/bekobod_dekhkon_bozori/158396171593/
+sughd-province	Рынок Сомон	4.9	30		Рынок Сомон	40.244332	69.697712	базар	False	True	https://yandex.kz/maps/org/rynok_somon/145482883160/
+sughd-province	Фермерский рынок			Согдийская область, Спитаменский район, джамоат Тагояк	Фермерский рынок	40.134785	69.326478	базар	False	True	https://yandex.kz/maps/org/fermerskiy_rynok/72251679921/
+sughd-province	Площадь Регистон	4.5	19	Худжанд, улица Джура Зокир	Рынок	40.279321	69.631659	базар	False	True	https://yandex.kz/maps/org/ploshchad_registon/116908737800/
+sughd-province	Дехканский базар	5.0	372	Бекабад, махаллинский сход граждан Узбекистон, ул. Буюк Ипак Йули, 530	Дехканский базар	40.212916	69.266172	рынок	False	True	https://yandex.kz/maps/org/dekhkanskiy_bazar/11045241817/
+sughd-province	Центральный рынок	5.0	81	Согдийская область, Спитаменский район, посёлок городского типа Навкат	Центральный рынок	40.152805	69.374083	рынок	False	True	https://yandex.kz/maps/org/tsentralny_rynok/9309040284/
+sughd-province	Атуш	4.9	104		Вещевой рынок	40.245123	69.703183	рынок	False	True	https://yandex.kz/maps/org/atush/233811100268/
+sughd-province	Садбарг	4.9	344	Душанбе, просп. Рудаки, 10	Торговый центр	38.561623	68.800018	торговый центр	False	True	https://yandex.kz/maps/org/sadbarg/82082493166/
+sughd-province	Душанбе Молл	4.7	215	Душанбе, ул. Дустии халкхо, 47	Торговый центр	38.573892	68.801434	торговый центр	False	True	https://yandex.kz/maps/org/dushanbe_moll/10654459377/
+sughd-province	Сиёма Молл	4.8	158	Душанбе, ул. Фирдоуси, 8	Торговый центр	38.519312	68.752866	торговый центр	False	True	https://yandex.kz/maps/org/siyoma_moll/221793724068/
+sughd-province	Мехргон	5.0	329	Душанбе, ул. Мехнат, 4	Торговый центр	38.585954	68.799320	торговый центр	False	True	https://yandex.kz/maps/org/mekhrgon/221813042483/
+sughd-province	Саодат	4.0	50	Душанбе, ул. Шамси, 23	Торговый центр	38.580069	68.741932	торговый центр	False	True	https://yandex.kz/maps/org/saodat/37086257384/
+sughd-province	Муниса	4.4	43	Душанбе, ул. Фатеха Ниязи, 3/1	Торговый центр	38.581253	68.783754	торговый центр	False	True	https://yandex.kz/maps/org/munisa/66115462825/
+sughd-province	Баракат Плаза	4.6	29	Душанбе, ул. Садриддина Айни, 16Б	Торговый центр	38.562477	68.791505	торговый центр	False	True	https://yandex.kz/maps/org/barakat_plaza/23364772455/
+sughd-province	Таджикистан	4.3	99	Душанбе, просп. Рудаки, 83	Торговый центр	38.580811	68.786225	торговый центр	False	True	https://yandex.kz/maps/org/tadzhikistan/19869891947/
+sughd-province	Баракат	4.2	41	Душанбе, просп. Исмоила Сомони, 3/2	Торговый центр	38.582688	68.783184	торговый центр	False	True	https://yandex.kz/maps/org/barakat/190196607657/
+sughd-province	Аниса	4.0	27	Душанбе, ул. Бухоро, 50Б	Торговый центр	38.570721	68.787768	торговый центр	False	True	https://yandex.kz/maps/org/anisa/48658586135/
+sughd-province	Торговый центр Муллиён	4.4	24	Душанбе, ул. Фатеха Ниязи, 36	Торговый центр Муллиён	38.581264	68.784830	торговый центр	False	True	https://yandex.kz/maps/org/torgovy_tsentr_mulliyon/39758366129/
+sughd-province	Ситора	4.1	26	Душанбе, ул. Бухоро, 50А	Торговый центр	38.570587	68.787370	торговый центр	False	True	https://yandex.kz/maps/org/sitora/109172581300/
+sughd-province	Марва	4.8	21	Душанбе, просп. Нусратулло Махсума, 14	Торговый центр	38.582184	68.721663	торговый центр	False	True	https://yandex.kz/maps/org/marva/120787949599/
+sughd-province	Торговый Центр Садбарг	4.4	20	Душанбе, просп. Рудаки, 10	Торговый Центр Садбарг	38.561674	68.799990	торговый центр	False	True	https://yandex.kz/maps/org/torgovy_tsentr_sadbarg/192187631216/
+sughd-province	Торговый центр Олимджон	4.5	14	г. Вахдат, просп. Сомониён, 39	Торговый центр Олимджон	38.562160	69.022462	торговый центр	False	True	https://yandex.kz/maps/org/torgovy_tsentr_olimdzhon/232105378560/
+sughd-province	Пайкар	4.9	151	Душанбе, ул. Садриддина Айни, 16Б		38.562603	68.791508	супермаркет+магазин+интернет-магазин	False	True	https://yandex.kz/maps/org/paykar/6369438383/
+sughd-province	Би1	4.8	603	Душанбе, ул. Дустии халкхо, 47	Торговые центры Душанбе: места для шопинга и отдыха	38.574076	68.801204	супермаркет+магазин+интернет-магазин	False	True	https://yandex.kz/maps/org/bi1/60481304538/
+sughd-province	Пайкар	4.9	44	Душанбе, ул. Борбада, 101		38.526159	68.748255	супермаркет	False	True	https://yandex.kz/maps/org/paykar/157772314242/
+sughd-province	Пайкар	4.5	114	Душанбе, ул. Бухоро, 27		38.568257	68.786554	супермаркет+магазин	False	True	https://yandex.kz/maps/org/paykar/55038028092/
+sughd-province	Пайкар	4.9	122	Душанбе, просп. Рудаки, 66		38.579476	68.787617	супермаркет	False	True	https://yandex.kz/maps/org/paykar/68712914947/
+sughd-province	8 Mart	4.0	26	Душанбе, просп. Рудаки, 127		38.596119	68.786366	супермаркет	False	True	https://yandex.kz/maps/org/8_mart/96830259664/
+sughd-province	Пайкар	4.4	53	Душанбе, ул. Бободжана Гафурова, 68		38.586744	68.740466	супермаркет	False	True	https://yandex.kz/maps/org/paykar/226533422558/
+sughd-province	Пайкар	4.9	72	Душанбе, ул. Садриддина Айни, 57		38.563449	68.810026	супермаркет	False	True	https://yandex.kz/maps/org/paykar/92681957587/
+sughd-province	Ёвар	4.5	38	Душанбе, район Сино		38.568408	68.766283	супермаркет+магазин+интернет-магазин	False	True	https://yandex.kz/maps/org/yovar/47565423135/
+sughd-province	Ёвар	4.2	77	Душанбе, ул. Мирзо Турсунзаде, 18/6		38.572385	68.795350	супермаркет+интернет-магазин	False	True	https://yandex.kz/maps/org/yovar/208923459239/
+sughd-province	Пайкар	4.7	20	Душанбе, ул. Саида Носира, 25		38.594890	68.780359	супермаркет	False	True	https://yandex.kz/maps/org/paykar/231118673547/
+sughd-province	Ёвар	4.4	35	Душанбе, ул. Бобо Хамдамова, 1/1		38.581827	68.714769	супермаркет	False	True	https://yandex.kz/maps/org/yovar/104000653984/
+sughd-province	Релакс	4.6	41	Душанбе, ул. Алишера Навои, 63		38.590828	68.736413	супермаркет	False	True	https://yandex.kz/maps/org/relaks/79320204829/
+sughd-province	Ёвар	4.3	41	Душанбе, ул. Дехоти, 62		38.532770	68.767743	супермаркет	False	True	https://yandex.kz/maps/org/yovar/18722414216/
+sughd-province	Супермаркет Шохон	4.4	43	Душанбе, ул. Пушкина, 7	Супермаркет Шохон	38.574738	68.791734	супермаркет+интернет-магазин	False	True	https://yandex.kz/maps/org/supermarket_shokhon/11287912009/
+sughd-province	Пайкар	4.3	51	Душанбе, 11-й микрорайон, ул. Якка-Чинарская, 148		38.567244	68.755381	гипермаркет+интернет-магазин	False	True	https://yandex.kz/maps/org/paykar/140093525050/
+sughd-province	Фирменный магазин Таджикматлубот			Душанбе, просп. Рудаки, 137	Фирменный магазин Таджикматлубот	38.600835	68.785980	гипермаркет	False	True	https://yandex.kz/maps/org/firmenny_magazin_tadzhikmatlubot/63296669436/
+sughd-province	Нур					38.523073	68.617940	гипермаркет	False	True	https://yandex.kz/maps/org/nur/77547432282/
+sughd-province	Изат			районы республиканского подчинения, город Гиссар с административной территорией, джамоат Сомон, село Дучинора		38.581314	68.560846	гипермаркет	False	True	https://yandex.kz/maps/org/izat/89351473580/
+sughd-province	Магазин Инсоф				Магазин Инсоф	38.619576	68.757895	гипермаркет	False	True	https://yandex.kz/maps/org/magazin_insof/202233806860/
+sughd-province	Дастрас			Душанбе, ул. Шарифджона Хусейнзаде, 4		38.566532	68.785619	гипермаркет	False	True	https://yandex.kz/maps/org/dastras/118757178593/
+sughd-province	Диёр	4.5	28	Душанбе, ул. Шамси, 32А	Магазин продуктов	38.579240	68.741761	магазин+интернет-магазин	False	True	https://yandex.kz/maps/org/diyor/156055333250/
+sughd-province	Ёвар	4.6	34	Душанбе, просп. Негмата Карабаева, 25	Магазин продуктов	38.549580	68.761443	магазин+интернет-магазин	False	True	https://yandex.kz/maps/org/yovar/126551156901/
+sughd-province	Ёсин	4.9	54	Душанбе, просп. Джами, 8	Магазин продуктов	38.531425	68.738654	магазин+интернет-магазин	False	True	https://yandex.kz/maps/org/yosin/87578509592/
+sughd-province	Парвиз	4.9	64	Душанбе, ул. Ахмада Дониша, 3	Магазин продуктов	38.551812	68.815220	магазин+интернет-магазин	False	True	https://yandex.kz/maps/org/parviz/103767864188/
+sughd-province	Пойтахт	4.3	41	Душанбе, ул. Мирзо Турсунзаде, 45	Магазин продуктов	38.581045	68.793973	интернет-магазин	False	True	https://yandex.kz/maps/org/poytakht/200167922140/
+sughd-province	Гипрозем	5.0	217	Душанбе, ул. Борбада, 130	Продуктовый рынок, магазин продуктов	38.513544	68.740902	интернет-магазин	False	True	https://yandex.kz/maps/org/giprozem/63605772441/
+sughd-province	Месут	2.4	6	Душанбе, ул. Садриддина Айни, 24	Магазин продуктов	38.562654	68.795378	интернет-магазин	False	True	https://yandex.kz/maps/org/mesut/100581124741/
+sughd-province	Дарё			Душанбе, Гиссарская улица		38.580715	68.736913	маркетплейс	False	True	https://yandex.kz/maps/org/daryo/232682480154/
+sughd-province	Алибобо	3.5	4	Душанбе, просп. Рудаки, 93/1	Пункт выдачи	38.584526	68.785786	маркетплейс	False	True	https://yandex.kz/maps/org/alibobo/197436803346/
+sughd-province	Ssboss Маркетплейс			Душанбе, ул. Джаббора Расулова, 6/1		38.563803	68.740415	маркетплейс	False	True	https://yandex.kz/maps/org/ssboss_marketpleys/110318290511/
+sughd-province	Вебмаркет			Душанбе, ул. Фирдоуси, 8, ФИРДАВСИ 8 СИЕМА МОЛЛ, этаж 3		38.518854	68.752569	маркетплейс	False	True	https://yandex.kz/maps/org/vebmarket/55607576899/
+sughd-province	Дастрас			Душанбе, ул. Борбада, 120	Магазин электроники	38.518349	68.745530	маркетплейс	False	True	https://yandex.kz/maps/org/dastras/157512244066/
+sughd-province	365trends			Душанбе, ул. Мирзо Турсунзаде, 14		38.571814	68.795976	маркетплейс	False	True	https://yandex.kz/maps/org/365trends/130789844967/
+sughd-province	Dastras			Душанбе, ул. Бухоро, 2	Магазин электроники	38.566677	68.780319	маркетплейс	False	True	https://yandex.kz/maps/org/dastras/86094226766/
+sughd-province	Дастрас			Душанбе, район Сино		38.571649	68.764179	маркетплейс	False	True	https://yandex.kz/maps/org/dastras/96092808278/
+sughd-province	Laklak			Душанбе, ул. Пулоди, 31		38.573409	68.797581	маркетплейс	False	True	https://yandex.kz/maps/org/laklak/212789244388/
+sughd-province	Tajzon			Душанбе, микрорайон Зарафшон-2, 1м1		38.582230	68.714723	маркетплейс	False	True	https://yandex.kz/maps/org/tajzon/218445337355/
+sughd-province	Кобгир			Душанбе, ул. Шириншох Шотемура, 22		38.578988	68.784732	маркетплейс	False	True	https://yandex.kz/maps/org/kobgir/55312698299/
+sughd-province	Wildberries	4.0	10	Душанбе, ул. Хамзы Хакимзаде, 5	Пункт выдачи	38.595818	68.781867	пункт выдачи	False	True	https://yandex.kz/maps/org/wildberries/113812171655/
+sughd-province	Wildberries	4.8	85	Душанбе, ул. Абдулкосима Лохути, 13	Пункт выдачи	38.567045	68.799659	пункт выдачи	False	True	https://yandex.kz/maps/org/wildberries/8506218093/
+sughd-province	Wildberries	4.3	9	Душанбе, ул. Пулоди, 43, подъезд 1	Пункт выдачи	38.574353	68.799806	пункт выдачи	False	True	https://yandex.kz/maps/org/wildberries/202555961819/
+sughd-province	Noor Art Gallery	4.1	8	Душанбе, просп. Исмоила Сомони, 26/1	Магазин подарков и сувениров, художественный салон	38.582402	68.767406	сувениры	False	True	https://yandex.kz/maps/org/noor_art_gallery/20767056431/
+sughd-province	Sou So	4.7	14	Душанбе, ул. Шириншох Шотемура, 57	Магазин подарков и сувениров	38.578602	68.793115	сувениры	False	True	https://yandex.kz/maps/org/sou_so/212160828795/
+sughd-province	Zoda Art Gallery	4.2	3	Душанбе, ул. Садриддина Айни, 48	Магазин подарков и сувениров	38.562772	68.808927	сувениры	False	True	https://yandex.kz/maps/org/zoda_art_gallery/194731071772/
+sughd-province	Шарк	4.4	5	Душанбе, просп. Рудаки, 30	Магазин подарков и сувениров	38.568606	68.792791	сувениры	False	True	https://yandex.kz/maps/org/shark/126382705014/
+sughd-province	Gift and souvenir shop			Душанбе, район Шохмансур	Магазин подарков и сувениров	38.561673	68.788790	сувениры	False	True	https://yandex.kz/maps/org/gift_and_souvenir_shop/189312199736/
+sughd-province	Ганджина			Душанбе, просп. Рудаки, 37	Магазин подарков и сувениров	38.570461	68.789736	сувениры	False	True	https://yandex.kz/maps/org/gandzhina/72330449317/
+sughd-province	Шарк			Душанбе, просп. Рудаки, 30	Магазин подарков и сувениров	38.568647	68.792706	сувениры	False	True	https://yandex.kz/maps/org/shark/240955746411/
+sughd-province	Таджикский сувенирный магазин			Душанбе, просп. Рудаки, 83	Таджикский сувенирный магазин	38.580570	68.786267	сувениры	False	True	https://yandex.kz/maps/org/tadzhikskiy_suvenirny_magazin/218996517999/
+sughd-province	Exclusive Gifts			Душанбе, просп. Нусратулло Махсума, 105/6	Магазин подарков и сувениров	38.579519	68.729099	сувениры	False	True	https://yandex.kz/maps/org/exclusive_gifts/138111893930/
+sughd-province	Магазин восточных сувениров			Душанбе, просп. Рудаки, 89	Магазин восточных сувениров	38.582734	68.785483	сувениры	False	True	https://yandex.kz/maps/org/magazin_vostochnykh_suvenirov/62041301040/
+sughd-province	Панда			Душанбе, просп. Негмата Карабаева, 91Б	Магазин подарков и сувениров	38.517035	68.761354	сувениры	False	True	https://yandex.kz/maps/org/panda/120620449536/
+sughd-province	Рухом	4.4	6	Душанбе, улица Шарк		38.588508	68.794732	сувениры	False	True	https://yandex.kz/maps/org/rukhom/122224657167/
+sughd-province	Gift and souvenir shop			Душанбе, ул. Шамси, 23, этаж 1	Магазин подарков и сувениров	38.580246	68.741822	сувениры	False	True	https://yandex.kz/maps/org/gift_and_souvenir_shop/188023123943/
+sughd-province	Podarki Toj			Душанбе, просп. Рудаки, 10	Магазин подарков и сувениров	38.561879	68.799898	сувениры	False	True	https://yandex.kz/maps/org/podarki_toj/233270503036/
+sughd-province	Jasmine Gifts			Душанбе, ул. Дружбы народов, 47	Магазин подарков и сувениров	38.573923	68.801350	сувениры	False	True	https://yandex.kz/maps/org/jasmine_gifts/105873703434/
+sughd-province	Сувениры Таджикистана			Душанбе, ул. Мехнат, 4	Сувениры Таджикистана	38.585706	68.798941	сувениры	False	True	https://yandex.kz/maps/org/suveniry_tadzhikistana/228850203786/
+sughd-province	Магазин именных подарков Суратгирхона			Душанбе, ул. Якка-Чинарская, 22	Магазин именных подарков Суратгирхона	38.543510	68.755493	сувениры	False	True	https://yandex.kz/maps/org/magazin_imennykh_podarkov_suratgirkhona/245621029894/
+sughd-province	Душанбе Принт			Душанбе, просп. Рудаки, 10		38.561704	68.800047	сувениры	False	True	https://yandex.kz/maps/org/dushanbe_print/233670730747/
+tursunzoda	Городской рынок	4.9	23	районы республиканского подчинения, Турсунзаде	Городской рынок	38.510539	68.217049	базар+рынок	False	True	https://yandex.kz/maps/org/gorodskoy_rynok/66419120815/
+tursunzoda	Центральный Рынок			районы республиканского подчинения, Турсунзаде	Центральный Рынок	38.510443	68.237570	базар+рынок	False	True	https://yandex.kz/maps/org/tsentralny_rynok/21166890753/
+tursunzoda	Новый Базар			районы республиканского подчинения, Турсунзаде	Новый Базар	38.506389	68.217282	базар+рынок	False	True	https://yandex.kz/maps/org/novy_bazar/117935013428/
+tursunzoda	Центральный рынок	5.0	211	районы республиканского подчинения, Турсунзаде	Центральный рынок	38.512224	68.234124	рынок	False	True	https://yandex.kz/maps/org/tsentralny_rynok/206365652819/
+tursunzoda	Кохи Нур	5.0	179	районы республиканского подчинения, Турсунзаде, улица 15-летия Независимости	Торговый центр	38.516489	68.214486	торговый центр	False	True	https://yandex.kz/maps/org/kokhi_nur/156946057399/
+tursunzoda	Детский мир	4.7	49	районы республиканского подчинения, Турсунзаде	Торговый центр	38.510797	68.233876	торговый центр	False	True	https://yandex.kz/maps/org/detskiy_mir/212204915258/
+tursunzoda	ЦУМ	4.8	78	районы республиканского подчинения, Турсунзаде		38.510527	68.232653	торговый центр	False	True	https://yandex.kz/maps/org/tsum/127282900754/
+tursunzoda	Ёвар	4.9	34	2-й микрорайон, 144		38.520913	68.225073	супермаркет+магазин+интернет-магазин	False	True	https://yandex.kz/maps/org/yovar/136513975000/
+tursunzoda	Шоми Турсунзода	4.8	36	районы республиканского подчинения, Турсунзаде, улица Ф. Мухаммадиева		38.509854	68.217161	супермаркет+магазин	False	True	https://yandex.kz/maps/org/shomi_tursunzoda/202952182876/
+tursunzoda	Магазин 4444			районы республиканского подчинения, Турсунзаде, улица Исмаила Сомони	Магазин 4444	38.520294	68.238325	супермаркет+магазин	False	True	https://yandex.kz/maps/org/magazin_4444/51391261978/
+tursunzoda	Собирчон			районы республиканского подчинения, Турсунзаде		38.511010	68.217185	супермаркет+магазин	False	True	https://yandex.kz/maps/org/sobirchon/220398554893/
+tursunzoda	Кахор маркет			районы республиканского подчинения, Турсунзадевский район, село Байналмилал		38.453754	68.159325	гипермаркет	False	True	https://yandex.kz/maps/org/kakhor_market/33544395104/
+tursunzoda	Продукты	4.5	13	ул. Б. Гафурова, 70	Магазин продуктов	38.509699	68.225009	магазин	False	False	https://yandex.kz/maps/org/produkty/45671526718/
+tursunzoda	Зафар	4.2	8	районы республиканского подчинения, Турсунзаде, улица Мир Сайида Али Хамадони	Магазин продуктов	38.521574	68.237623	магазин	False	False	https://yandex.kz/maps/org/zafar/13959440392/
+tursunzoda	Продукты			районы республиканского подчинения, Турсунзаде, улица Б. Гафурова	Магазин продуктов	38.510504	68.232344	магазин	False	False	https://yandex.kz/maps/org/produkty/235307484426/
+tursunzoda	Рузиев			районы республиканского подчинения, Турсунзаде	Магазин продуктов	38.511688	68.234352	магазин	False	False	https://yandex.kz/maps/org/ruziyev/236451044346/
+tursunzoda	Продукты			районы республиканского подчинения, Турсунзаде, улица Мирзо Ризо	Магазин продуктов	38.514101	68.225385	магазин	False	False	https://yandex.kz/maps/org/produkty/174294230690/
+tursunzoda	Продуктовый магазин			1-й микрорайон, 28А	Продуктовый магазин	38.522276	68.216158	магазин	False	False	https://yandex.kz/maps/org/produktovy_magazin/157170089882/
+tursunzoda	Wildberries	4.4	7	1-й микрорайон, 7	Пункт выдачи	38.516551	68.212240	пункт выдачи	False	True	https://yandex.kz/maps/org/wildberries/194119444044/
+tursunzoda	Дарё			районы республиканского подчинения, Турсунзаде	Пункт выдачи	38.509295	68.216754	пункт выдачи	False	True	https://yandex.kz/maps/org/daryo/136661201257/
+tursunzoda	Сувенирные магазинчики			районы республиканского подчинения, город Гиссар с административной территорией, джамоат Хисор, село Гиссар	Сувенирные магазинчики	38.483884	68.593139	сувениры	False	True	https://yandex.kz/maps/org/suvenirnyye_magazinchiki/244856801961/
+tursunzoda	Сувениры			районы республиканского подчинения, город Гиссар с административной территорией, джамоат Хисор, село Гиссар	Сувениры	38.483378	68.594813	сувениры	False	True	https://yandex.kz/maps/org/suveniry/27215157976/
+tursunzoda	Подарки				Магазин подарков и сувениров	38.576536	68.330655	сувениры	False	True	https://yandex.kz/maps/org/podarki/59172599772/
+horog	Рынок 20-летия независимости Республики Таджикистан			Горно-Бадахшанская автономная область, Хорог		37.49073	71.527243	базар+рынок	False	True	https://yandex.kz/maps/org/rynok_20_letiya_nezavisimosti_respubliki_tadzhikistan/40455271055/
+horog	Центральный рынок	4.3	6		Центральный рынок	37.490547	71.538775	рынок	False	True	https://yandex.kz/maps/org/tsentralny_rynok/144996812543/
+horog	Памир Плаза	5.0	53	Горно-Бадахшанская автономная область, Хорог, улица Шириншо Шотемура	Торговый центр	37.491111	71.538707	торговый центр	False	True	https://yandex.kz/maps/org/pamir_plaza/10588535829/
+horog	Nadim			Горно-Бадахшанская автономная область, Хорог, улица Шириншо Шотемура	Торговый центр	37.490244	71.531415	торговый центр	False	True	https://yandex.kz/maps/org/nadim/120931374490/
+horog	Чорбог	3.4	3	ул. Шириншо Шотемура, 157	Торговый центр	37.491765	71.547917	торговый центр	False	True	https://yandex.kz/maps/org/chorbog/240751856459/
+horog	Памир					37.492160	71.553799	супермаркет+магазин	False	True	https://yandex.kz/maps/org/pamir/161625618194/
+horog	Саодат	4.4	7			37.491291	71.526731	супермаркет+магазин	False	True	https://yandex.kz/maps/org/saodat/45839433401/
+horog	Атлантика			Горно-Бадахшанская автономная область, Хорог, улица Шириншо Шотемура		37.492567	71.551941	супермаркет+магазин	False	True	https://yandex.kz/maps/org/atlantika/113749844910/
+horog	Арзон			Горно-Бадахшанская автономная область, Хорог, улица Шириншо Шотемура		37.490898	71.539570	супермаркет+магазин	False	True	https://yandex.kz/maps/org/arzon/116268342282/
+horog	Продукты			Горно-Бадахшанская автономная область, Хорог, улица Карамшоева	Магазин продуктов	37.487396	71.549616	магазин	False	False	https://yandex.kz/maps/org/produkty/103419683402/
+horog	Насим			Горно-Бадахшанская автономная область, Хорог, улица Шириншо Шотемура	Магазин продуктов	37.492223	71.551398	магазин	False	False	https://yandex.kz/maps/org/nasim/114174749743/
+horog	Продукты			Горно-Бадахшанская автономная область, Хорог, улица Шириншо Шотемура	Магазин продуктов	37.492167	71.550579	магазин	False	False	https://yandex.kz/maps/org/produkty/159700093804/
+horog	Магазин продуктов				Магазин продуктов	37.487098	71.548124	магазин	False	False	https://yandex.kz/maps/org/magazin_produktov/64497174957/
+horog	Мастер				Магазин продуктов	37.492035	71.566060	магазин	False	False	https://yandex.kz/maps/org/master/1361068375/
+horog	Продуктовый магазин				Продуктовый магазин	37.496428	71.597091	магазин	False	False	https://yandex.kz/maps/org/produktovy_magazin/69640255802/
+horog	Хайём			Горно-Бадахшанская автономная область, Хорог, улица Шириншо Шотемура	Магазин продуктов	37.490544	71.534476	магазин	False	False	https://yandex.kz/maps/org/khayyom/51829575839/
+horog	Саодат			Горно-Бадахшанская автономная область, Шугнанский район, село Рож	Магазин продуктов	37.533520	71.630827	магазин	False	False	https://yandex.kz/maps/org/saodat/235845117533/
+horog	Мустансир			Горно-Бадахшанская автономная область, Шугнанский район, село Богев	Магазин продуктов	37.533241	71.661110	магазин	False	False	https://yandex.kz/maps/org/mustansir/140309686770/
+horog	Мясо				Магазин мяса, колбас	37.488915	71.569506	магазин	False	False	https://yandex.kz/maps/org/myaso/66898675289/
+horog	Муким			Горно-Бадахшанская автономная область, Шугнанский район, село Рож	Магазин продуктов	37.533530	71.630830	магазин	False	False	https://yandex.kz/maps/org/mukim/7456196091/
+horog	Овощи и фрукты				Магазин овощей и фруктов	37.489138	71.549443	магазин	False	False	https://yandex.kz/maps/org/ovoshchi_i_frukty/149096420756/
+horog	1001 Маркет			Горно-Бадахшанская автономная область, Хорог, улица Шириншо Шотемура		37.491099	71.538647	маркетплейс	False	True	https://yandex.kz/maps/org/1001_market/84491460461/
+horog	Wildberries	4.4	8	ул. Шириншо Шотемура, 143	Пункт выдачи	37.491824	71.547580	пункт выдачи	False	True	https://yandex.kz/maps/org/wildberries/101558582857/
+horog	Jana Post			ул. Шириншо Шотемура, 86	Пункт выдачи	37.492814	71.550401	пункт выдачи	False	True	https://yandex.kz/maps/org/jana_post/206786511406/
+khujand	Панчшанбе	5.0	1309		Рынок	40.279272	69.633228	базар+рынок+Панчшанбе+Панчшанбе базар	True	True	https://yandex.kz/maps/org/panchshanbe/152987321869/
+khujand	Площадь Регистон	4.5	19	Худжанд, улица Джура Зокир	Рынок	40.279321	69.631659	базар+рынок	False	True	https://yandex.kz/maps/org/ploshchad_registon/116908737800/
+khujand	Худжанд молл	4.4	6		Рынок	40.277461	69.633805	базар+рынок	False	True	https://yandex.kz/maps/org/khudzhand_moll/18875835034/
+khujand	Рынок Сомон	4.9	30		Рынок Сомон	40.244332	69.697712	базар+рынок	False	True	https://yandex.kz/maps/org/rynok_somon/145482883160/
+khujand	Атуш	4.9	104		Вещевой рынок	40.245123	69.703183	рынок	False	True	https://yandex.kz/maps/org/atush/233811100268/
+khujand	20-и летие Независимости	4.3	6		Вещевой рынок	40.280423	69.635171	рынок	False	True	https://yandex.kz/maps/org/20_i_letiye_nezavisimosti/30984680048/
+khujand	Шёлкокомбинат	4.9	35	Согдийская область, Худжанд, улица Шарифа Курбона	Продуктовый рынок	40.268266	69.649255	рынок	False	True	https://yandex.kz/maps/org/shyolkokombinat/188382811196/
+khujand	Арбузный рынок	4.6	21	Согдийская область, Худжанд, Северная улица	Арбузный рынок	40.309997	69.646829	рынок	False	True	https://yandex.kz/maps/org/arbuzny_rynok/89460835335/
+khujand	Бозорчаи 34	4.3	33	Согдийская область, Худжанд, 34-й микрорайон	Продуктовый рынок	40.304496	69.646320	рынок	False	True	https://yandex.kz/maps/org/bozorchai_34/236703014231/
+khujand	Гулистон	3.9	15	Согдийская область, Гафуровский район, джамоат Хайдара Усмонова, село Шайхбурхон	Продуктовый рынок	40.276364	69.641400	рынок	False	True	https://yandex.kz/maps/org/guliston/217159117952/
+khujand	Фаровон	5.0	125	п. г. т. Гафуров, ул. Ленина, 2	Продуктовый рынок	40.228069	69.729451	рынок	False	True	https://yandex.kz/maps/org/farovon/176126031562/
+khujand	Рыбный рынок	4.1	6		Рыбный рынок	40.280889	69.635314	рынок	False	True	https://yandex.kz/maps/org/rybny_rynok/53021917780/
+khujand	Бозорчаи 8 мкр	4.7	20	Бозорчаи 8 мкр	Продуктовый рынок	40.286486	69.584399	рынок	False	True	https://yandex.kz/maps/org/bozorchai_8_mkr/106220501422/
+khujand	Дусти			Согдийская область, Худжанд, улица Озоди	Вещевой рынок	40.277683	69.625950	рынок	False	True	https://yandex.kz/maps/org/dusti/215098466069/
+khujand	Ватан	4.3	9	ул. Камоли Худжанди, 153А	Продуктовый рынок	40.280918	69.617282	рынок	False	True	https://yandex.kz/maps/org/vatan/113037197802/
+khujand	Дирам	4.4	16	Согдийская область, Худжанд, 34-й микрорайон	Продуктовый рынок	40.304760	69.645865	рынок	False	True	https://yandex.kz/maps/org/diram/20089370430/
+khujand	Айни	4.3	11		Продуктовый рынок	40.232537	69.693243	рынок	False	True	https://yandex.kz/maps/org/ayni/193822548306/
+khujand	Рынок	4.3	7		Рынок	40.236448	69.719895	рынок	False	True	https://yandex.kz/maps/org/rynok/101492519738/
+khujand	Шабода	4.3	4		Продуктовый рынок	40.231872	69.691903	рынок	False	True	https://yandex.kz/maps/org/shaboda/155971704765/
+khujand	Сомон-Сугд	4.4	25		Вещевой рынок	40.242103	69.702843	рынок	False	True	https://yandex.kz/maps/org/somon_sugd/67269048260/
+khujand	Базар	4.4	13		Базар	40.213663	69.726898	рынок	False	True	https://yandex.kz/maps/org/bazar/206308714000/
+khujand	Мухаё				Продуктовый рынок	40.238232	69.702757	рынок	False	True	https://yandex.kz/maps/org/mukhayo/106611267380/
+khujand	Ориён				Вещевой рынок	40.243957	69.703725	рынок	False	True	https://yandex.kz/maps/org/oriyon/88141040675/
+khujand	F-19				Вещевой рынок	40.244193	69.698971	рынок	False	True	https://yandex.kz/maps/org/f_19/60878034276/
+khujand	Сугдиён	4.3	8		Вещевой рынок	40.243356	69.699736	рынок	False	True	https://yandex.kz/maps/org/sugdiyon/217371900979/
+khujand	Торговый комплекс Баракат	5.0	123		Торговый центр	40.245892	69.699457	торговый центр	False	True	https://yandex.kz/maps/org/torgovy_kompleks_barakat/216477853811/
+khujand	Абдулазиз	4.4	34	ул. Джура Зокира, 248	Торговый центр	40.280106	69.631617	торговый центр	False	True	https://yandex.kz/maps/org/abdulaziz/230460692826/
+khujand	Нур	4.4	10	ул. Гагарина, 177А	Торговый центр	40.271468	69.644320	торговый центр	False	True	https://yandex.kz/maps/org/nur/115651419668/
+khujand	Худжанд Плаза	4.8	33	Согдийская область, Худжанд, 13-й микрорайон	Торговый центр	40.290865	69.595573	торговый центр	False	True	https://yandex.kz/maps/org/khudzhand_plaza/232921231084/
+khujand	Хонаи ман	4.4	15		Торговый центр	40.294307	69.612865	торговый центр	False	True	https://yandex.kz/maps/org/khonai_man/90944462781/
+khujand	Abreshim Mall	4.0	9	просп. Исмоила Сомони, 9	Торговый центр	40.268102	69.647575	торговый центр	False	True	https://yandex.kz/maps/org/abreshim_mall/57429150130/
+khujand	Рудаки Плаза	4.4	10	Согдийская область, Худжанд, 13-й микрорайон	Торговый центр	40.292436	69.596696	торговый центр	False	True	https://yandex.kz/maps/org/rudaki_plaza/177139909556/
+khujand	Афросиёб	4.3	6		Торговый центр	40.277940	69.632398	торговый центр	False	True	https://yandex.kz/maps/org/afrosiyob/242203911444/
+khujand	Баракат	4.4	8		Торговый центр	40.245581	69.699148	торговый центр	False	True	https://yandex.kz/maps/org/barakat/111840022760/
+khujand	Ахсан			просп. Исмоила Сомони, 16	Торговый центр	40.282829	69.623655	торговый центр	False	True	https://yandex.kz/maps/org/akhsan/105964534733/
+khujand	Бадри Мунир	4.0	4	ул. Шарк, 3А	Торговый центр	40.278651	69.633789	торговый центр	False	True	https://yandex.kz/maps/org/badri_munir/176757952003/
+khujand	Делюкс				Торговый центр	40.247511	69.692332	торговый центр	False	True	https://yandex.kz/maps/org/delyuks/158482817733/
+khujand	Асл			Согдийская область, Худжанд, 20-й микрорайон	Торговый центр	40.302942	69.627352	торговый центр	False	True	https://yandex.kz/maps/org/asl/100356727365/
+khujand	Памир	4.2	20	Бустон, ул. Рудаки, 16	Торговый центр	40.231846	69.690673	торговый центр	False	True	https://yandex.kz/maps/org/pamir/61340776031/
+khujand	Точир				Торговый центр	40.277460	69.632301	торговый центр	False	True	https://yandex.kz/maps/org/tochir/216369768435/
+khujand	Akfa Home			Согдийская область, Худжанд, 19-й микрорайон	Торговый центр	40.298851	69.614226	торговый центр	False	True	https://yandex.kz/maps/org/akfa_home/35207566531/
+khujand	Шамс				Торговый центр	40.290966	69.641489	торговый центр	False	True	https://yandex.kz/maps/org/shams/37342788596/
+khujand	Центр Террабайт			Согдийская область, Бустон, улица Ахмада Дониша	Центр Террабайт	40.232916	69.707766	торговый центр	False	True	https://yandex.kz/maps/org/tsentr_terrabayt/200691715622/
+khujand	Корвон плаза				Торговый центр	40.244845	69.698166	торговый центр	False	True	https://yandex.kz/maps/org/korvon_plaza/84909684046/
+khujand	Кулангир			Согдийская область, Гафуровский район, джамоат Хайдара Усмонова, село Кулангир	Торговый центр	40.283547	69.672765	торговый центр	False	True	https://yandex.kz/maps/org/kulangir/184767551916/
+khujand	Меродж			Согдийская область, Худжанд, улица Саидходжи Урунходжаева	Торговый центр	40.263537	69.662851	торговый центр	False	True	https://yandex.kz/maps/org/merodzh/14506170913/
+khujand	Садаф	4.5	11	п. г. т. Гафуров, ул. А. Нозирова, 1	Торговый центр	40.227510	69.730078	торговый центр	False	True	https://yandex.kz/maps/org/sadaf/85191273950/
+khujand	Сомон Сугд	4.0	5		Торговый центр	40.242524	69.703269	торговый центр	False	True	https://yandex.kz/maps/org/somon_sugd/62240484738/
+khujand	Анис	4.8	139			40.283211	69.627451	супермаркет+магазин+интернет-магазин	False	True	https://yandex.kz/maps/org/anis/128383621579/
+khujand	Амид	5.0	213	просп. Исмоила Сомони, 9, Худжанд		40.267989	69.647842	супермаркет+магазин+интернет-магазин	False	True	https://yandex.kz/maps/org/amid/57467783010/
+khujand	Амид	5.0	114	Согдийская область, Худжанд, 13-й микрорайон		40.293592	69.597290	супермаркет+магазин+интернет-магазин	False	True	https://yandex.kz/maps/org/amid/54539011921/
+khujand	Амид	4.8	83	31-й микрорайон, 40А	Магазин смешанных товаров	40.299134	69.637774	супермаркет+магазин+интернет-магазин	False	True	https://yandex.kz/maps/org/amid/26852673269/
+khujand	Ёвар	4.7	15	ул. Камоли Худжанди, 106		40.279981	69.616769	супермаркет+магазин	False	True	https://yandex.kz/maps/org/yovar/82318804614/
+khujand	Оазис	4.4	40	просп. Исмоила Сомони, 3Б		40.285698	69.623395	супермаркет	False	True	https://yandex.kz/maps/org/oazis/53357795953/
+khujand	Амид	4.8	67	19-й микрорайон, 54		40.301228	69.611401	супермаркет+магазин	False	True	https://yandex.kz/maps/org/amid/224414713973/
+khujand	Анис 34	4.8	60	34-й микрорайон, 33А		40.301831	69.648693	супермаркет+магазин	False	True	https://yandex.kz/maps/org/anis_34/182211403945/
+khujand	Оазис	4.2	35	Согдийская область, Худжанд, улица Рифата Ходжиева		40.297282	69.613327	супермаркет	False	True	https://yandex.kz/maps/org/oazis/51974890997/
+khujand	Амид	4.2	24	ул. Камоли Худжанди, 69		40.277613	69.611859	супермаркет+магазин+интернет-магазин	False	True	https://yandex.kz/maps/org/amid/125833126435/
+khujand	Дастрас	4.8	35	Согдийская область, Бустон, улица 1 Мая		40.236868	69.697054	супермаркет	False	True	https://yandex.kz/maps/org/dastras/75677173934/
+khujand	Супермаркет Ёрон+			Согдийская область, Гафуровский район, джамоат Хайдара Усмонова, село Кулангир	Супермаркет Ёрон+	40.283040	69.672794	супермаркет	False	True	https://yandex.kz/maps/org/supermarket_yoron_/171182671864/
+khujand	Амид	4.0	22			40.273245	69.605638	супермаркет	False	True	https://yandex.kz/maps/org/amid/163207014029/
+khujand	Дадо	4.2	3	Согдийская область, Худжанд, улица Абдумаджида Кодирова		40.295187	69.587459	супермаркет	False	True	https://yandex.kz/maps/org/dado/193469199581/
+khujand	Амид	4.1	6	Согдийская область, Худжанд, 8-й микрорайон		40.280545	69.584128	супермаркет	False	True	https://yandex.kz/maps/org/amid/227017247713/
+khujand	Супермаркет			ул. Хакима Карима, 22	Супермаркет	40.284116	69.615957	супермаркет	False	True	https://yandex.kz/maps/org/173967059124/
+khujand	Самарканд	4.0	21	Бустон, ул. Пушкина, 15		40.235081	69.696716	супермаркет	False	True	https://yandex.kz/maps/org/samarkand/239406026379/
+khujand	Ёрон			Худжанд, ул. Фатхулло Ахмедова, 181		40.283286	69.671656	супермаркет	False	True	https://yandex.kz/maps/org/yoron/67516327568/
+khujand	Супермаркет Шахноза			село Кулангир, ул. Мирзо Турсунзода, 1	Супермаркет Шахноза	40.284142	69.682612	супермаркет	False	True	https://yandex.kz/maps/org/supermarket_shakhnoza/142680192331/
+khujand	Торговая Сеть Пайкар			Бустон, ул. Душанбе, 10		40.230300	69.705152	супермаркет	False	True	https://yandex.kz/maps/org/torgovaya_set_paykar/212645254321/
+khujand	Супермаркет Афзал			Согдийская область, Гафуровский район, село Унджи, улица Мухаммаджона Орипова	Супермаркет Афзал	40.284353	69.687018	супермаркет	False	True	https://yandex.kz/maps/org/supermarket_afzal/15849720093/
+khujand	Амир	4.2	4	Согдийская область, Бустон, улица Фотеха Ниёзи		40.238135	69.702265	супермаркет	False	True	https://yandex.kz/maps/org/amir/139387099676/
+khujand	Green			Согдийская область, Худжанд, улица Усмана Касымова		40.292302	69.586780	супермаркет	False	True	https://yandex.kz/maps/org/green/152289467175/
+khujand	Сабзина			31-й микрорайон, 88А, Продуктовый . (Бывший ), магазин "Сабзина", магазин продуктов Набиджон	Магазин продуктов	40.303174	69.637756	супермаркет	False	True	https://yandex.kz/maps/org/sabzina/202933818803/
+khujand	Амид			Согдийская область, Худжанд, улица Фатхулло Ахмедова		40.278715	69.647175	супермаркет	False	True	https://yandex.kz/maps/org/amid/226472198692/
+khujand	7 Хазина			Согдийская область, посёлок городского типа Гафуров, улица Зебуниссо Тохировой		40.215672	69.719345	гипермаркет	False	True	https://yandex.kz/maps/org/7_khazina/7121038316/
+khujand	Амид	4.6	59	ул. Фирдавси, 133	Магазин продуктов	40.282700	69.619955	магазин+интернет-магазин	False	True	https://yandex.kz/maps/org/amid/234629866162/
+khujand	Доро	4.7	25	Согдийская область, Худжанд, улица Рифата Ходжиева	Магазин продуктов	40.304218	69.632504	магазин	False	False	https://yandex.kz/maps/org/doro/12019787213/
+khujand	Мавсим	4.4	25	Согдийская область, Худжанд, улица Дадоджона Раджаби	Магазин продуктов	40.267452	69.649319	магазин	False	False	https://yandex.kz/maps/org/mavsim/183672225980/
+khujand	Мухайе	3.9	6	Согдийская область, Худжанд, улица Таги Сада	Магазин продуктов	40.283591	69.635407	магазин	False	False	https://yandex.kz/maps/org/mukhayye/148998720387/
+khujand	Мархабо	4.0	8	ул. Дадоджона Раджаби, 20А	Магазин продуктов	40.263663	69.645586	магазин	False	False	https://yandex.kz/maps/org/markhabo/234323299692/
+khujand	Сафия	4.4	15	Согдийская область, Худжанд, проспект Султона Умарова	Магазин продуктов	40.308258	69.631498	магазин	False	False	https://yandex.kz/maps/org/safiya/232159686241/
+khujand	Алишер	4.4	8	ул. Танбури, 20	Магазин продуктов	40.284258	69.618360	магазин+интернет-магазин	False	True	https://yandex.kz/maps/org/alisher/202018775258/
+khujand	Санам	4.8	12	Согдийская область, Худжанд, 19-й микрорайон	Магазин продуктов	40.300335	69.611194	магазин	False	False	https://yandex.kz/maps/org/sanam/194681277356/
+khujand	Азамат	3.7	6	ул. Лохути, 24	Магазин продуктов	40.294974	69.619669	магазин	False	False	https://yandex.kz/maps/org/azamat/8721429227/
+khujand	Наташа	4.1	6	Согдийская область, Худжанд, улица Аминчона Шукухи	Магазин продуктов	40.269611	69.630687	магазин	False	False	https://yandex.kz/maps/org/natasha/18036771824/
+khujand	Гавхари	4.5	18	Согдийская область, Худжанд, улица Пахтакор	Магазин продуктов	40.272981	69.602209	магазин	False	False	https://yandex.kz/maps/org/gavkhari/14847867968/
+khujand	Бахори Ачам	4.1	29	Согдийская область, Худжанд, улица Рифата Ходжиева	Магазин продуктов	40.297452	69.613846	магазин	False	False	https://yandex.kz/maps/org/bakhori_acham/120257656843/
+khujand	Сабзина			Согдийская область, Худжанд, улица Рифата Ходжиева	Магазин продуктов	40.297805	69.614824	магазин	False	False	https://yandex.kz/maps/org/sabzina/24512726509/
+khujand	Фирдавси	4.2	5	ул. Фирдавси, 56	Магазин продуктов	40.287756	69.634988	магазин	False	False	https://yandex.kz/maps/org/firdavsi/92314170045/
+khujand	Продукты	4.4	11	13-й микрорайон, 19	Магазин продуктов	40.293790	69.592814	магазин	False	False	https://yandex.kz/maps/org/produkty/9770709891/
+khujand	Мирзо	4.6	9	18-й микрорайон, 13	Магазин продуктов	40.299602	69.604641	магазин	False	False	https://yandex.kz/maps/org/mirzo/159978078754/
+khujand	Хуршед	4.3	19	Согдийская область, Худжанд, 13-й микрорайон	Магазин смешанных товаров	40.290042	69.594151	интернет-магазин	False	True	https://yandex.kz/maps/org/khurshed/77262840448/
+khujand	İki			Согдийская область, Худжанд, 29-й микрорайон		40.311489	69.648845	маркетплейс	False	True	https://yandex.kz/maps/org/iki/174234356780/
+khujand	Wildberries	4.1	37	ул. Камоли Худжанди, 138	Пункт выдачи	40.280565	69.621176	пункт выдачи	False	True	https://yandex.kz/maps/org/wildberries/8906158936/
+khujand	Дарё	3.4	4	Согдийская область, Худжанд, микрорайон Бофанда	Пункт выдачи	40.270477	69.644459	пункт выдачи	False	True	https://yandex.kz/maps/org/daryo/20629322561/
+khujand	Озон	4.3	21	34-й микрорайон, 10	Пункт выдачи	40.306744	69.648306	пункт выдачи	False	True	https://yandex.kz/maps/org/ozon/205805718159/
+khujand	Фаберлик	2.9	6	Согдийская область, Худжанд, улица Рифата Ходжиева	Пункт выдачи	40.298214	69.616038	пункт выдачи	False	True	https://yandex.kz/maps/org/faberlik/217801041435/
+khujand	Wildberries	4.2	4	просп. Исмоила Сомони, 175	Пункт выдачи	40.272097	69.643886	пункт выдачи	False	True	https://yandex.kz/maps/org/wildberries/191508198349/
+khujand	Jana Post	4.0	5	ул. Камоли Худжанди, 190	Пункт выдачи	40.283832	69.633068	пункт выдачи	False	True	https://yandex.kz/maps/org/jana_post/123911280126/
+khujand	Wildberries			ул. Мансура Акрамова, 19А	Пункт выдачи	40.283995	69.636559	пункт выдачи	False	True	https://yandex.kz/maps/org/wildberries/14026596827/
+khujand	786 Express			ул. Гагарина, 133		40.278272	69.641373	пункт выдачи	False	True	https://yandex.kz/maps/org/786_express/121246788764/
+khujand	786 Express			ул. Камоли Худжанди, 257А	Пункт выдачи	40.283940	69.635162	пункт выдачи	False	True	https://yandex.kz/maps/org/786_express/42001274152/
+khujand	LakLak					40.272239	69.643613	пункт выдачи	False	True	https://yandex.kz/maps/org/laklak/147894394248/
+khujand	Wildberries			Согдийская область, Худжанд, 29-й микрорайон	Пункт выдачи	40.311359	69.648822	пункт выдачи	False	True	https://yandex.kz/maps/org/wildberries/66105713912/
+khujand	Cccpexpress			Согдийская область, Худжанд, улица Камоли Худжанди	Пункт выдачи	40.266815	69.600815	пункт выдачи	False	True	https://yandex.kz/maps/org/cccpexpress/56678448840/
+khujand	LakLak			просп. Исмоила Сомони, 10	Пункт выдачи	40.284806	69.622419	пункт выдачи	False	True	https://yandex.kz/maps/org/laklak/108507462337/
+khujand	Faberlic			просп. Исмоила Сомони, 81	Пункт выдачи	40.276077	69.636370	пункт выдачи	False	True	https://yandex.kz/maps/org/faberlic/221405703918/
+khujand	LakLak			ул. Аминчона Шукухи, 1	Пункт выдачи	40.273271	69.639281	пункт выдачи	False	True	https://yandex.kz/maps/org/laklak/189707257708/
+khujand	LakLak			ул. Мулло Абдурауфа Султонова, 1	Пункт выдачи	40.280801	69.604810	пункт выдачи	False	True	https://yandex.kz/maps/org/laklak/4362619126/
+khujand	Wildberries			Бустон, ул. Пушкина, 18	Пункт выдачи	40.234724	69.698343	пункт выдачи	False	True	https://yandex.kz/maps/org/wildberries/5494571003/
+khujand	LakLak			ул. Камоли Худжанди, 2	Пункт выдачи	40.273549	69.606699	пункт выдачи	False	True	https://yandex.kz/maps/org/laklak/132936033425/
+khujand	LakLak			13-й микрорайон, 19	Пункт выдачи	40.293772	69.592743	пункт выдачи	False	True	https://yandex.kz/maps/org/laklak/144708006758/
+khujand	Jana Post			Согдийская область, Бустон, Гафуровский проспект	Пункт выдачи	40.242794	69.704717	пункт выдачи	False	True	https://yandex.kz/maps/org/jana_post/202016877120/
+khujand	LakLak			Бустон, ул. Пушкина, 15		40.235027	69.696993	пункт выдачи	False	True	https://yandex.kz/maps/org/laklak/98535906504/
+khujand	Армугон			просп. Исмоила Сомони, 6	Магазин подарков и сувениров	40.286644	69.621614	сувениры	False	True	https://yandex.kz/maps/org/armugon/66138503575/
+khujand	Подарки			просп. Исмоила Сомони, 43	Магазин подарков и сувениров	40.280258	69.626491	сувениры	False	True	https://yandex.kz/maps/org/podarki/201618283726/
+khujand	Подарки			Согдийская область, Худжанд, улица Рифата Ходжиева	Магазин подарков и сувениров	40.298664	69.617349	сувениры	False	True	https://yandex.kz/maps/org/podarki/214108525368/
+khatlon-province	Сабад	5.0	21	Хатлонская область, Бохтар, улица Махалаи Вахдат 1	Магазин продуктов	37.830137	68.799138	магазин	False	False	https://yandex.kz/maps/org/sabad/22859809075/
+khatlon-province	Daminov Маркет	5.0	142	городской посёлок Узун, ул. Ёр Хакимов, 9	Магазин продуктов	38.367546	68.002882	магазин	False	False	https://yandex.kz/maps/org/daminov_market/164155267387/
+khatlon-province	Парвиз	4.9	64	Душанбе, ул. Ахмада Дониша, 3	Магазин продуктов	38.551812	68.815220	магазин	False	False	https://yandex.kz/maps/org/parviz/103767864188/
+khatlon-province	Бохтар	4.7	13	Хатлонская область, Бохтар, улица Космонавтов	Магазин продуктов	37.848136	68.790654	магазин	False	False	https://yandex.kz/maps/org/bokhtar/124680788220/
+khatlon-province	Электрон	4.1	13		Магазин продуктов	38.388858	69.327371	магазин	False	False	https://yandex.kz/maps/org/elektron/156499143920/
+khatlon-province	Шер	4.6	12	районы республиканского подчинения, район Рудаки, село Оби Шифо	Магазин продуктов	38.441753	68.733673	магазин	False	False	https://yandex.kz/maps/org/sher/236938429543/
+khatlon-province	Далер	4.1	16	Душанбе, просп. Негмата Карабаева, 92	Магазин продуктов	38.523828	68.763127	магазин	False	False	https://yandex.kz/maps/org/daler/39172297557/
+khatlon-province	Дарё			Душанбе, Гиссарская улица		38.580715	68.736913	маркетплейс	False	True	https://yandex.kz/maps/org/daryo/232682480154/
+khatlon-province	Ssboss Маркетплейс			Душанбе, ул. Джаббора Расулова, 6/1		38.563803	68.740415	маркетплейс	False	True	https://yandex.kz/maps/org/ssboss_marketpleys/110318290511/
+khatlon-province	Вебмаркет			Душанбе, ул. Фирдоуси, 8, ФИРДАВСИ 8 СИЕМА МОЛЛ, этаж 3		38.518854	68.752569	маркетплейс	False	True	https://yandex.kz/maps/org/vebmarket/55607576899/
+khatlon-province	Дастрас			Душанбе, ул. Борбада, 120	Магазин электроники	38.518349	68.745530	маркетплейс	False	True	https://yandex.kz/maps/org/dastras/157512244066/
+khatlon-province	365trends			Душанбе, ул. Мирзо Турсунзаде, 14		38.571814	68.795976	маркетплейс	False	True	https://yandex.kz/maps/org/365trends/130789844967/
+khatlon-province	Dastras			Душанбе, ул. Бухоро, 2	Магазин электроники	38.566677	68.780319	маркетплейс	False	True	https://yandex.kz/maps/org/dastras/86094226766/
+khatlon-province	Дастрас			Душанбе, район Сино		38.571649	68.764179	маркетплейс	False	True	https://yandex.kz/maps/org/dastras/96092808278/
+khatlon-province	Laklak			Душанбе, ул. Пулоди, 31		38.573409	68.797581	маркетплейс	False	True	https://yandex.kz/maps/org/laklak/212789244388/
+khatlon-province	Tajzon			Душанбе, микрорайон Зарафшон-2, 1м1		38.582230	68.714723	маркетплейс	False	True	https://yandex.kz/maps/org/tajzon/218445337355/
+khatlon-province	Кобгир			Душанбе, ул. Шириншох Шотемура, 22		38.578988	68.784732	маркетплейс	False	True	https://yandex.kz/maps/org/kobgir/55312698299/
+khatlon-province	Uzum Market	4.3	3	Денау, махаллинский сход граждан Cуфи Оллаёр, ул. Шарофа Рашидова, 242B	Пункт выдачи	38.267666	67.898764	пункт выдачи	False	True	https://yandex.kz/maps/org/uzum_market/80081236843/
+khatlon-province	Uzum Market	5.0	175	Термез, ул. Навбахор, 29-Г	Пункт выдачи	37.238847	67.294468	пункт выдачи	False	True	https://yandex.kz/maps/org/uzum_market/169751978386/
+khatlon-province	Wildberries	4.4	6	Денау, ул. Шарафа Рашидова, 166	Пункт выдачи	38.282498	67.896610	пункт выдачи	False	True	https://yandex.kz/maps/org/wildberries/188255182612/
+khatlon-province	Uzum Market				Пункт выдачи	37.837057	67.581528	пункт выдачи	False	True	https://yandex.kz/maps/org/uzum_market/208623027469/
+khatlon-province	Uzum Market			Джаркурган, ул. Узбекистан, 1	Пункт выдачи	37.509753	67.420368	пункт выдачи	False	True	https://yandex.kz/maps/org/uzum_market/47702249792/
+khatlon-province	Wildberries			Душанбе, просп. Негмата Карабаева, 92/2	Пункт выдачи	38.524482	68.762802	пункт выдачи	False	True	https://yandex.kz/maps/org/wildberries/221688216521/
+khatlon-province	Дарё			г. Вахдат, просп. Сомониён, 6	Пункт выдачи	38.557646	69.012718	пункт выдачи	False	True	https://yandex.kz/maps/org/daryo/94278711387/
+khatlon-province	Дарё	4.2	5	Душанбе, просп. Негмата Карабаева, 86/1	Пункт выдачи	38.525728	68.763122	пункт выдачи	False	True	https://yandex.kz/maps/org/daryo/159470439566/
+khatlon-province	Uzum Market	4.9	11	Термез, махаллинский сход граждан Тинчлик, ул. Мустакиллик, 106	Пункт выдачи	37.249187	67.259802	пункт выдачи	False	True	https://yandex.kz/maps/org/uzum_market/190224831296/
+khatlon-province	Wildberries	4.4	65		Пункт выдачи	37.243519	67.312794	пункт выдачи	False	True	https://yandex.kz/maps/org/wildberries/177343066189/
+khatlon-province	Uzum Market	4.1	4		Пункт выдачи	37.839900	67.597447	пункт выдачи	False	True	https://yandex.kz/maps/org/uzum_market/55178742803/
+khatlon-province	Дарё			районы республиканского подчинения, Турсунзаде	Пункт выдачи	38.509295	68.216754	пункт выдачи	False	True	https://yandex.kz/maps/org/daryo/136661201257/
+khatlon-province	Wildberries	4.5	56	Термез, ул. Ислама Каримова, 170	Пункт выдачи	37.234516	67.300640	пункт выдачи	False	True	https://yandex.kz/maps/org/wildberries/134613900994/
+khatlon-province	Uzum Market	5.0	117	Термез, ул. Ибн Сины, 3	Пункт выдачи	37.238686	67.266885	пункт выдачи	False	True	https://yandex.kz/maps/org/uzum_market/46519560136/
+khatlon-province	Uzum Market	4.8	74	Термез, ул. Фидокор, 52	Пункт выдачи	37.241508	67.323020	пункт выдачи	False	True	https://yandex.kz/maps/org/uzum_market/9963603177/
+khatlon-province	Wildberries	4.3	6	Термез, ул. Ислама Каримова, 132	Пункт выдачи	37.223089	67.284484	пункт выдачи	False	True	https://yandex.kz/maps/org/wildberries/6043693218/
+khatlon-province	Uzum Market	5.0	127	Термез, ул. Баркамол Авлод, 12/5	Пункт выдачи	37.224675	67.272620	пункт выдачи	False	True	https://yandex.kz/maps/org/uzum_market/121441576430/
+khatlon-province	Zoodbox 0286			Шурчи, ул. Амира Темура, 70Д		38.012217	67.792618	пункт выдачи	False	True	https://yandex.kz/maps/org/zoodbox_0286/151676436732/
+khatlon-province	Uzum Market	5.0	144	Термез, ул. Имама ат-Термези, 21/1	Пункт выдачи	37.241057	67.281485	пункт выдачи	False	True	https://yandex.kz/maps/org/uzum_market/52673815211/
+khatlon-province	Uzum Market	4.5	13		Пункт выдачи	37.252806	67.321346	пункт выдачи	False	True	https://yandex.kz/maps/org/uzum_market/242238206486/
+khatlon-province	Wildberries				Пункт выдачи	38.509363	68.733317	пункт выдачи	False	True	https://yandex.kz/maps/org/wildberries/176660530904/
+khatlon-province	СССРexpress				Пункт выдачи	37.844329	68.755776	пункт выдачи	False	True	https://yandex.kz/maps/org/express/75388736249/
+isfara	Продукты	4.1	3	Согдийская область, Исфара, улица Абдурахмона Джами	Магазин продуктов	40.126811	70.623994	магазин	False	False	https://yandex.kz/maps/org/produkty/101991313127/
+isfara	Продукты	2.9	4	Согдийская область, Исфара, улица Маркази	Магазин продуктов	40.124738	70.622719	магазин	False	False	https://yandex.kz/maps/org/produkty/172579791739/
+isfara	Амруллохон	4.3	10	Согдийская область, Исфаринский район, село Навгилем, улица Лутфулло Бузургзода	Магазин продуктов	40.129359	70.651924	магазин	False	False	https://yandex.kz/maps/org/amrullokhon/190621135729/
+isfara	Ecofruit	4.2	4	ул. Маркази, 91	Магазин продуктов	40.111179	70.601682	магазин	False	False	https://yandex.kz/maps/org/ecofruit/238441641288/
+isfara	Мухторджон			Согдийская область, Исфара, улица Фариддуна Аттора	Магазин продуктов	40.129733	70.628034	магазин	False	False	https://yandex.kz/maps/org/mukhtordzhon/82351551999/
+isfara	Алибобо			Согдийская область, Исфаринский район, село Навгилем, улица Лутфулло Бузургзода	Магазин продуктов	40.127307	70.642916	магазин	False	False	https://yandex.kz/maps/org/alibobo/79169767728/
+isfara	Обнур			Согдийская область, Исфара, улица Колхозчи	Магазин продуктов	40.117200	70.604105	магазин	False	False	https://yandex.kz/maps/org/obnur/135422183538/
+isfara	Продукты			Согдийская область, Исфаринский район, село Навгилем, 5-я линия	Магазин продуктов	40.122850	70.646655	магазин	False	False	https://yandex.kz/maps/org/produkty/130686557227/
+isfara	Продукты			Согдийская область, Исфаринский район, село Навгилем, улица Р. Махсумова	Магазин продуктов	40.128404	70.648221	магазин	False	False	https://yandex.kz/maps/org/produkty/49154708506/
+isfara	Продукты			Согдийская область, Исфаринский район, село Навгилем, улица Лутфулло Бузургзода	Магазин продуктов	40.132451	70.657302	магазин	False	False	https://yandex.kz/maps/org/produkty/78221806439/
+isfara	Продукты			Согдийская область, Исфара, улица Исмоила Сомони	Магазин продуктов	40.115209	70.601601	магазин	False	False	https://yandex.kz/maps/org/produkty/217634430267/
+isfara	Продукты			Согдийская область, Исфаринский район, село Навгилем	Магазин продуктов	40.129156	70.649317	магазин	False	False	https://yandex.kz/maps/org/produkty/31778304380/
+isfara	Продукты			Согдийская область, Исфаринский район, село Навгилем	Магазин продуктов	40.131223	70.663126	магазин	False	False	https://yandex.kz/maps/org/produkty/217914158098/
+isfara	Продукты			Согдийская область, Исфаринский район, село Навгилем, улица Лутфулло Бузургзода	Магазин продуктов	40.128580	70.648931	магазин	False	False	https://yandex.kz/maps/org/produkty/8525947742/
+sughd-province	Крепость Муг	4.7	19			39.916172	69.007364	Истаравшан	True	True	https://yandex.kz/maps/org/krepost_mug/48890553896/
+sughd-province	Мечеть Хазрати Шох	4.8	31			39.909819	69.003786	Истаравшан	True	True	https://yandex.kz/maps/org/mechet_khazrati_shokh/55740039759/
+sughd-province	Мечеть Сари Мазор	4.5	17			39.902092	68.986572	Истаравшан	True	True	https://yandex.kz/maps/org/mechet_sari_mazor/56525882095/
+khatlon-province	Центральный рынок		10	Хатлонская область, посёлок Муминабад		38.110102	70.036167	Муминабад базар	True	True	https://yandex.kz/maps/org/tsentralny_rynok/135260797459/
+gorno-badakhshan-autonomous-province	Базар			Горно-Бадахшанская автономная область, Ишкашимский район, джамоат имени Рустамбека Юсуфбекова, поселок Ишкашим		36.724656	71.614398	Ишкашим базар	True	True	https://yandex.kz/maps/org/bazar/129384882004/

@@ -1,0 +1,97 @@
+{
+ "url": "https://yandex.kz/maps/org/torgovy_tsentr_sadbarg/192187631216/?ll=68.800054%2C38.561574&z=16",
+ "title": "Торговый Центр Садбарг, торговый центр, Душанбе, просп. Рудаки, 10 — Яндекс Карты",
+ "h1": "Торговый Центр Садбарг",
+ "coords": [
+  "68.79999,38.561674",
+  "68.799990,38.561674"
+ ],
+ "rating": [
+  "Оценка 4.4 Из 5",
+  "Оценка 4.4 Из 5",
+  "Оценка 5 Из 5"
+ ],
+ "categories": [
+  "Торговый центр"
+ ],
+ "address": [
+  {
+   "t": "Душанбе, просп. Рудаки, 10",
+   "h": "/maps/10318/dushanbe/house/YkEYfgdgSUADQF1ifXl3cHlkYA==/"
+  },
+  {
+   "t": "Душанбе, просп. Рудаки, 10",
+   "h": null
+  },
+  {
+   "t": "Душанбе, просп. Рудаки, 10",
+   "h": "/maps/10318/dushanbe/house/YkEYfgdgSUADQF1ifXl3cHlkYA==/"
+  },
+  {
+   "t": "Маршрут",
+   "h": null
+  }
+ ],
+ "phones": [],
+ "msgLinks": [
+  {
+   "t": "",
+   "h": "https://vk.com/yandex.maps",
+   "c": "card-social-links-view__link",
+   "ownOrg": 0
+  },
+  {
+   "t": "",
+   "h": "https://t.me/mapsyandex",
+   "c": "card-social-links-view__link",
+   "ownOrg": 0
+  }
+ ],
+ "apps": [],
+ "extLinks": [],
+ "social": [
+  {
+   "t": "",
+   "h": "https://vk.com/yandex.maps",
+   "c": "card-social-links-view__link"
+  },
+  {
+   "t": "",
+   "h": "https://t.me/mapsyandex",
+   "c": "card-social-links-view__link"
+  },
+  {
+   "t": "",
+   "h": "https://zen.yandex.ru/yandexmaps",
+   "c": "card-social-links-view__link"
+  }
+ ],
+ "btns": [],
+ "emails": [],
+ "contactBlock": [
+  "Адрес Душанбе, просп. Рудаки, 10 Маршрут",
+  "Адрес",
+  "",
+  "Душанбе, просп. Рудаки, 10",
+  "Душанбе, просп. Рудаки, 10",
+  "Маршрут",
+  "Маршрут",
+  "Контакты Телефон не указан Добавить",
+  "Контакты",
+  "",
+  "Время работы График работы не указан Добавить",
+  "Время работы",
+  ""
+ ],
+ "hours": [],
+ "list": {
+  "name": "Торговый Центр Садбарг",
+  "city": "dushanbe",
+  "rating": 4.4,
+  "reviews": 20,
+  "lon": "68.799990",
+  "lat": "38.561674",
+  "src": "торговый центр",
+  "priority": true
+ }
+}

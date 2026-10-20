@@ -1,0 +1,127 @@
+{
+ "url": "https://yandex.kz/maps/org/dushanbe_moll/10654459377/?ll=68.801159%2C38.574156&z=16",
+ "title": "Душанбе Молл, торговый центр, Душанбе, ул. Дустии халкхо, 47 — Яндекс Карты",
+ "h1": "Душанбе Молл",
+ "coords": [
+  "68.801434,38.573892",
+  "68.801434,38.573892"
+ ],
+ "rating": [
+  "Оценка 4.7 Из 5",
+  "Оценка 4.7 Из 5",
+  "Оценка 5 Из 5"
+ ],
+ "categories": [
+  "Торговый центр",
+  "Развлекательный центр"
+ ],
+ "address": [
+  {
+   "t": "Душанбе, ул. Дустии халкхо, 47",
+   "h": "/maps/10318/dushanbe/house/YkEYfgdhSEAOQF1ifXl2dX1mYg==/"
+  },
+  {
+   "t": "Душанбе, ул. Дустии халкхо, 47",
+   "h": null
+  },
+  {
+   "t": "Душанбе, ул. Дустии халкхо, 47",
+   "h": "/maps/10318/dushanbe/house/YkEYfgdhSEAOQF1ifXl2dX1mYg==/"
+  },
+  {
+   "t": "Показать входыМаршрут",
+   "h": null
+  }
+ ],
+ "phones": [
+  {
+   "t": "+992 44 601 11 30",
+   "h": null
+  },
+  {
+   "t": "+992 44 601 11 30 Показать телефон",
+   "h": null
+  },
+  {
+   "t": "+992 44 601 11 30 Показать телефон",
+   "h": null
+  }
+ ],
+ "msgLinks": [
+  {
+   "t": "",
+   "h": "https://www.instagram.com/dushanbemall.tj?igsh=MTV2M2tqcHJtd3ozYg==",
+   "c": "button _view_secondary-gray _ui _size_medium _link",
+   "ownOrg": 1
+  },
+  {
+   "t": "",
+   "h": "https://vk.com/yandex.maps",
+   "c": "card-social-links-view__link",
+   "ownOrg": 0
+  },
+  {
+   "t": "",
+   "h": "https://t.me/mapsyandex",
+   "c": "card-social-links-view__link",
+   "ownOrg": 0
+  }
+ ],
+ "apps": [],
+ "extLinks": [],
+ "social": [
+  {
+   "t": "",
+   "h": "https://www.instagram.com/dushanbemall.tj?igsh=MTV2M2tqcHJtd3ozYg==",
+   "c": "button _view_secondary-gray _ui _size_medium _link"
+  },
+  {
+   "t": "",
+   "h": "https://vk.com/yandex.maps",
+   "c": "card-social-links-view__link"
+  },
+  {
+   "t": "",
+   "h": "https://t.me/mapsyandex",
+   "c": "card-social-links-view__link"
+  },
+  {
+   "t": "",
+   "h": "https://zen.yandex.ru/yandexmaps",
+   "c": "card-social-links-view__link"
+  }
+ ],
+ "btns": [],
+ "emails": [],
+ "contactBlock": [
+  "Адрес Душанбе, ул. Дустии халкхо, 47 Показать входыМаршрут",
+  "Адрес",
+  "",
+  "Душанбе, ул. Дустии халкхо, 47",
+  "Душанбе, ул. Дустии халкхо, 47",
+  "Показать входыМаршрут",
+  "Показать входы",
+  "",
+  "Маршрут",
+  "Контакты +992 44 601 11 30 Показать телефон",
+  "Контакты",
+  "",
+  "",
+  "",
+  "",
+  "Время работы Открыто до 22:00 График",
+  "Время работы",
+  ""
+ ],
+ "hours": [],
+ "list": {
+  "name": "Душанбе Молл",
+  "city": "dushanbe",
+  "rating": 4.7,
+  "reviews": 215,
+  "lon": "68.801434",
+  "lat": "38.573892",
+  "src": "торговый центр",
+  "priority": true
+ }
+}

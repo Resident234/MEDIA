@@ -1,0 +1,96 @@
+{
+ "url": "https://yandex.kz/maps/org/noskhana/8326542988/?ll=68.802004%2C38.551424&z=16",
+ "title": "Носхана, рынок, Душанбе, ул. Убайда Зокони, 9 — Яндекс Карты",
+ "h1": "Носхана",
+ "coords": [
+  "68.802186,38.551375",
+  "68.802186,38.551375"
+ ],
+ "rating": [
+  "Оценка 2.7 Из 5",
+  "Оценка 2.7 Из 5"
+ ],
+ "categories": [
+  "Рынок"
+ ],
+ "address": [
+  {
+   "t": "Душанбе, ул. Убайда Зокони, 9",
+   "h": "/maps/10318/dushanbe/house/YkEYfgdiSUUDQF1ifXl0cHhhZw==/"
+  },
+  {
+   "t": "Душанбе, ул. Убайда Зокони, 9",
+   "h": null
+  },
+  {
+   "t": "Душанбе, ул. Убайда Зокони, 9",
+   "h": "/maps/10318/dushanbe/house/YkEYfgdiSUUDQF1ifXl0cHhhZw==/"
+  },
+  {
+   "t": "Маршрут",
+   "h": null
+  }
+ ],
+ "phones": [],
+ "msgLinks": [
+  {
+   "t": "",
+   "h": "https://vk.com/yandex.maps",
+   "c": "card-social-links-view__link",
+   "ownOrg": 0
+  },
+  {
+   "t": "",
+   "h": "https://t.me/mapsyandex",
+   "c": "card-social-links-view__link",
+   "ownOrg": 0
+  }
+ ],
+ "apps": [],
+ "extLinks": [],
+ "social": [
+  {
+   "t": "",
+   "h": "https://vk.com/yandex.maps",
+   "c": "card-social-links-view__link"
+  },
+  {
+   "t": "",
+   "h": "https://t.me/mapsyandex",
+   "c": "card-social-links-view__link"
+  },
+  {
+   "t": "",
+   "h": "https://zen.yandex.ru/yandexmaps",
+   "c": "card-social-links-view__link"
+  }
+ ],
+ "btns": [],
+ "emails": [],
+ "contactBlock": [
+  "Адрес Душанбе, ул. Убайда Зокони, 9 Маршрут",
+  "Адрес",
+  "",
+  "Душанбе, ул. Убайда Зокони, 9",
+  "Душанбе, ул. Убайда Зокони, 9",
+  "Маршрут",
+  "Маршрут",
+  "Контакты Телефон не указан Добавить",
+  "Контакты",
+  "",
+  "Время работы График работы не указан Добавить",
+  "Время работы",
+  ""
+ ],
+ "hours": [],
+ "list": {
+  "name": "Носхана",
+  "city": "dushanbe",
+  "rating": 2.7,
+  "reviews": 6,
+  "lon": "68.802186",
+  "lat": "38.551375",
+  "src": "базар",
+  "priority": true
+ }
+}

@@ -1,0 +1,96 @@
+{
+ "url": "https://yandex.kz/maps/org/optovy_rynok/161234929702/?ll=68.739782%2C38.517634&z=16",
+ "title": "Оптовый рынок, рынок, Душанбе, улица Хакимова — Яндекс Карты",
+ "h1": "Оптовый рынок",
+ "coords": [
+  "68.736787,38.518386",
+  "68.736787,38.518386"
+ ],
+ "rating": [
+  "Оценка 4 Из 5",
+  "Оценка 4 Из 5"
+ ],
+ "categories": [
+  "Рынок"
+ ],
+ "address": [
+  {
+   "t": "Душанбе, улица Хакимова",
+   "h": "/maps/10318/dushanbe/geo/1536253339/"
+  },
+  {
+   "t": "Душанбе, улица Хакимова",
+   "h": null
+  },
+  {
+   "t": "Душанбе, улица Хакимова",
+   "h": "/maps/10318/dushanbe/geo/1536253339/"
+  },
+  {
+   "t": "Маршрут",
+   "h": null
+  }
+ ],
+ "phones": [],
+ "msgLinks": [
+  {
+   "t": "",
+   "h": "https://vk.com/yandex.maps",
+   "c": "card-social-links-view__link",
+   "ownOrg": 0
+  },
+  {
+   "t": "",
+   "h": "https://t.me/mapsyandex",
+   "c": "card-social-links-view__link",
+   "ownOrg": 0
+  }
+ ],
+ "apps": [],
+ "extLinks": [],
+ "social": [
+  {
+   "t": "",
+   "h": "https://vk.com/yandex.maps",
+   "c": "card-social-links-view__link"
+  },
+  {
+   "t": "",
+   "h": "https://t.me/mapsyandex",
+   "c": "card-social-links-view__link"
+  },
+  {
+   "t": "",
+   "h": "https://zen.yandex.ru/yandexmaps",
+   "c": "card-social-links-view__link"
+  }
+ ],
+ "btns": [],
+ "emails": [],
+ "contactBlock": [
+  "Адрес Душанбе, улица Хакимова Маршрут",
+  "Адрес",
+  "",
+  "Душанбе, улица Хакимова",
+  "Душанбе, улица Хакимова",
+  "Маршрут",
+  "Маршрут",
+  "Контакты Телефон не указан Добавить",
+  "Контакты",
+  "",
+  "Время работы График работы не указан Добавить",
+  "Время работы",
+  ""
+ ],
+ "hours": [],
+ "list": {
+  "name": "Оптовый рынок",
+  "city": "dushanbe",
+  "rating": 4.0,
+  "reviews": 5,
+  "lon": "68.736787",
+  "lat": "38.518386",
+  "src": "базар",
+  "priority": true
+ }
+}

@@ -1,0 +1,97 @@
+{
+ "url": "https://yandex.kz/maps/org/sabad/47991834757/?ll=68.749677%2C38.578070&z=16",
+ "title": "Сабад, торговый центр, Душанбе, ул. Шамси, 2/4 — Яндекс Карты",
+ "h1": "Сабад",
+ "coords": [
+  "68.749576,38.578112",
+  "68.749576,38.578112"
+ ],
+ "rating": [
+  "Оценка 3.1 Из 5",
+  "Оценка 3.1 Из 5",
+  "Оценка 1 Из 5"
+ ],
+ "categories": [
+  "Торговый центр"
+ ],
+ "address": [
+  {
+   "t": "Душанбе, ул. Шамси, 2/4",
+   "h": "/maps/10318/dushanbe/house/YkEYcQNpT0IAQF1ifXl2eXxlbQ==/"
+  },
+  {
+   "t": "Душанбе, ул. Шамси, 2/4",
+   "h": null
+  },
+  {
+   "t": "Душанбе, ул. Шамси, 2/4",
+   "h": "/maps/10318/dushanbe/house/YkEYcQNpT0IAQF1ifXl2eXxlbQ==/"
+  },
+  {
+   "t": "Маршрут",
+   "h": null
+  }
+ ],
+ "phones": [],
+ "msgLinks": [
+  {
+   "t": "",
+   "h": "https://vk.com/yandex.maps",
+   "c": "card-social-links-view__link",
+   "ownOrg": 0
+  },
+  {
+   "t": "",
+   "h": "https://t.me/mapsyandex",
+   "c": "card-social-links-view__link",
+   "ownOrg": 0
+  }
+ ],
+ "apps": [],
+ "extLinks": [],
+ "social": [
+  {
+   "t": "",
+   "h": "https://vk.com/yandex.maps",
+   "c": "card-social-links-view__link"
+  },
+  {
+   "t": "",
+   "h": "https://t.me/mapsyandex",
+   "c": "card-social-links-view__link"
+  },
+  {
+   "t": "",
+   "h": "https://zen.yandex.ru/yandexmaps",
+   "c": "card-social-links-view__link"
+  }
+ ],
+ "btns": [],
+ "emails": [],
+ "contactBlock": [
+  "Адрес Душанбе, ул. Шамси, 2/4 Маршрут",
+  "Адрес",
+  "",
+  "Душанбе, ул. Шамси, 2/4",
+  "Душанбе, ул. Шамси, 2/4",
+  "Маршрут",
+  "Маршрут",
+  "Контакты Телефон не указан Добавить",
+  "Контакты",
+  "",
+  "Время работы График работы не указан Добавить",
+  "Время работы",
+  ""
+ ],
+ "hours": [],
+ "list": {
+  "name": "Сабад",
+  "city": "dushanbe",
+  "rating": 3.1,
+  "reviews": 13,
+  "lon": "68.749576",
+  "lat": "38.578112",
+  "src": "торговый центр",
+  "priority": true
+ }
+}

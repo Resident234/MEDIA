@@ -1,0 +1,19 @@
+--- STEP open root (headed)
+[agent-browser] restore: missing; save: saved
+✓ Карта Душанбе: улицы, дома и организации города — 2ГИС
+  https://2gis.tj/dushanbe
+[agent-browser] launched browser; restore: loaded
+✓ Done
+URL_ROOT=https://captcha.2gis.ru/
+TITLE_ROOT=
+--- STEP open card
+✗ Failed to read: Попытка установить соединение была безуспешной, т.к. от другого компьютера за требуемое время не получен нужный отклик, или было разорвано уже установленное соединение из-за неверного отклика уже подключенного компьютера. (os error 10060)
+[agent-browser] launched browser; restore: loaded
+✓ Done
+URL_CARD=https://captcha.2gis.ru/
+TITLE_CARD=
+--- STEP eval
+[agent-browser] launched browser; restore: loaded
+"{\"url\":\"https://captcha.2gis.ru/\",\"title\":\"\",\"len\":19,\"tel\":[],\"wa\":[],\"tg\":[],\"ig\":[],\"vk\":[],\"fb\":[],\"yt\":[],\"site\":[],\"btns\":[],\"captcha\":true,\"snippet\":\"404 page not found\\n\"}"
+--- STEP cookies
+[agent-browser] launched browser; restore: loaded

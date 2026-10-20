@@ -1,0 +1,97 @@
+{
+ "url": "https://yandex.kz/maps/org/rynok_sakhovat/66411564956/?ll=68.759578%2C38.521748&z=16",
+ "title": "Рынок Саховат, рынок, Душанбе, улица Крупской — Яндекс Карты",
+ "h1": "Рынок Саховат",
+ "coords": [
+  "68.759578,38.522927",
+  "68.759578,38.522927"
+ ],
+ "rating": [
+  "Оценка 4.7 Из 5",
+  "Оценка 4.7 Из 5",
+  "Оценка 5 Из 5"
+ ],
+ "categories": [
+  "Рынок"
+ ],
+ "address": [
+  {
+   "t": "Душанбе, улица Крупской",
+   "h": "/maps/10318/dushanbe/geo/4487608180/"
+  },
+  {
+   "t": "Душанбе, улица Крупской",
+   "h": null
+  },
+  {
+   "t": "Душанбе, улица Крупской",
+   "h": "/maps/10318/dushanbe/geo/4487608180/"
+  },
+  {
+   "t": "Маршрут",
+   "h": null
+  }
+ ],
+ "phones": [],
+ "msgLinks": [
+  {
+   "t": "",
+   "h": "https://vk.com/yandex.maps",
+   "c": "card-social-links-view__link",
+   "ownOrg": 0
+  },
+  {
+   "t": "",
+   "h": "https://t.me/mapsyandex",
+   "c": "card-social-links-view__link",
+   "ownOrg": 0
+  }
+ ],
+ "apps": [],
+ "extLinks": [],
+ "social": [
+  {
+   "t": "",
+   "h": "https://vk.com/yandex.maps",
+   "c": "card-social-links-view__link"
+  },
+  {
+   "t": "",
+   "h": "https://t.me/mapsyandex",
+   "c": "card-social-links-view__link"
+  },
+  {
+   "t": "",
+   "h": "https://zen.yandex.ru/yandexmaps",
+   "c": "card-social-links-view__link"
+  }
+ ],
+ "btns": [],
+ "emails": [],
+ "contactBlock": [
+  "Адрес Душанбе, улица Крупской Маршрут",
+  "Адрес",
+  "",
+  "Душанбе, улица Крупской",
+  "Душанбе, улица Крупской",
+  "Маршрут",
+  "Маршрут",
+  "Контакты Телефон не указан Добавить",
+  "Контакты",
+  "",
+  "Время работы График работы не указан Добавить",
+  "Время работы",
+  ""
+ ],
+ "hours": [],
+ "list": {
+  "name": "Рынок Саховат",
+  "city": "dushanbe",
+  "rating": 4.7,
+  "reviews": 20,
+  "lon": "68.759578",
+  "lat": "38.522927",
+  "src": "базар+рынок",
+  "priority": true
+ }
+}

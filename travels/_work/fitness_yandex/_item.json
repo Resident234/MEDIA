@@ -1,0 +1,17 @@
+{
+ "html": "<see travels\\_work\\fitness_yandex\\_item_html.txt>",
+ "text": "Dorob Gym Kurushi Kabir\nDorob Gym Kurushi Kabir\nРейтинг \n4,1\n17 оценок\n17 оценок\nОткрыто до 23:00\nФитнес-клуб, спортивный, тренажёрный зал\nДушанбе, ул. Шарифджона Хусейнзаде, 34\nКомментарий\n«Отличный спортивный комплекс»\nФото",
+ "scrollables": [
+  {
+   "cls": "scroll__container",
+   "sh": 4765,
+   "ch": 561
+  }
+ ],
+ "count": 5,
+ "winScroll": {
+  "sh": 625,
+  "ch": 625,
+  "top": 0
+ }
+}

@@ -1,0 +1,120 @@
+{
+ "url": "https://yandex.kz/maps/org/taekvondo/81883066631/?ll=68.790217%2C38.576786&z=16",
+ "title": "Таэквондо, спортивный, тренажёрный зал, Душанбе, ул. Бохтар, 23 — Яндекс Карты",
+ "h1": "Таэквондо",
+ "coords": [
+  "68.790224,38.576918",
+  "68.790224,38.576918"
+ ],
+ "rating": [
+  "Оценка 4.2 Из 5",
+  "Оценка 4.2 Из 5",
+  "Оценка 5 Из 5"
+ ],
+ "categories": [
+  "Спортивный, тренажёрный зал"
+ ],
+ "address": [
+  {
+   "t": "Душанбе, ул. Бохтар, 23",
+   "h": "/maps/10318/dushanbe/house/YkEYcQ5gS0QPQF1ifXl2d3trYg==/"
+  },
+  {
+   "t": "Душанбе, ул. Бохтар, 23",
+   "h": null
+  },
+  {
+   "t": "Душанбе, ул. Бохтар, 23",
+   "h": "/maps/10318/dushanbe/house/YkEYcQ5gS0QPQF1ifXl2d3trYg==/"
+  },
+  {
+   "t": "Маршрут",
+   "h": null
+  }
+ ],
+ "phones": [
+  {
+   "t": "+992 91 861 66 18",
+   "h": null
+  },
+  {
+   "t": "+992 91 861 66 18 Показать телефон",
+   "h": null
+  },
+  {
+   "t": "+992 91 861 66 18 Показать телефон",
+   "h": null
+  }
+ ],
+ "msgLinks": [
+  {
+   "t": "",
+   "h": "https://www.facebook.com/480197475336937",
+   "c": "button _view_secondary-gray _ui _size_medium _link",
+   "ownOrg": 1
+  },
+  {
+   "t": "",
+   "h": "https://vk.com/yandex.maps",
+   "c": "card-social-links-view__link",
+   "ownOrg": 0
+  },
+  {
+   "t": "",
+   "h": "https://t.me/mapsyandex",
+   "c": "card-social-links-view__link",
+   "ownOrg": 0
+  }
+ ],
+ "extLinks": [],
+ "social": [
+  {
+   "t": "",
+   "h": "https://www.facebook.com/480197475336937",
+   "c": "button _view_secondary-gray _ui _size_medium _link"
+  },
+  {
+   "t": "",
+   "h": "https://vk.com/yandex.maps",
+   "c": "card-social-links-view__link"
+  },
+  {
+   "t": "",
+   "h": "https://t.me/mapsyandex",
+   "c": "card-social-links-view__link"
+  },
+  {
+   "t": "",
+   "h": "https://zen.yandex.ru/yandexmaps",
+   "c": "card-social-links-view__link"
+  }
+ ],
+ "btns": [],
+ "emails": [],
+ "contactBlock": [
+  "Адрес Душанбе, ул. Бохтар, 23 Маршрут",
+  "Адрес",
+  "",
+  "Душанбе, ул. Бохтар, 23",
+  "Душанбе, ул. Бохтар, 23",
+  "Маршрут",
+  "Маршрут",
+  "Контакты +992 91 861 66 18 Показать телефон",
+  "Контакты",
+  "",
+  "",
+  "",
+  "",
+  "Время работы График работы не указан Добавить",
+  "Время работы",
+  ""
+ ],
+ "hours": [],
+ "list": {
+  "name": "Таэквондо",
+  "rating": 4.2,
+  "reviews": 3,
+  "lon": "68.790224",
+  "lat": "38.576918"
+ }
+}

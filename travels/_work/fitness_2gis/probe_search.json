@@ -1,0 +1,1225 @@
+{
+ "dushanbe": {
+  "Фитнес|-": {
+   "code": 200,
+   "error": null,
+   "total": 88,
+   "n": 10,
+   "sample": [
+    {
+     "id": "70000001109657173",
+     "name": "Dorob Gym, толори варзишӣ",
+     "address_name": "кӯчаи Бухоро, 34",
+     "point": {
+      "lat": 38.568544,
+      "lon": 68.784771
+     },
+     "adm_div": [
+      [
+       "country",
+       null,
+       "Тоҷикистон"
+      ],
+      [
+       "region",
+       null,
+       "Душанбе"
+      ],
+      [
+       "city",
+       "dushanbe",
+       "Душанбе"
+      ],
+      [
+       "district",
+       null,
+       "Исмоили Сомонӣ"
+      ]
+     ],
+     "reviews": {
+      "general_rating": 4.7,
+      "general_review_count": 3,
+      "general_review_count_with_stars": 4,
+      "is_reviewable": false,
+      "is_reviewable_on_flamp": true,
+      "items": [
+       {
+        "is_reviewable": true,
+        "tag": "2gis_reviews"
+       }
+      ],
+      "org_rating": 4.8,
+      "org_review_count": 6,
+      "org_review_count_with_stars": 14
+     },
+     "contact_groups": null,
+     "contacts": null,
+     "phones": null,
+     "rubrics": [
+      [
+       "268",
+       null
+      ],
+      [
+       "267",
+       null
+      ]
+     ]
+    },
+    {
+     "id": "70000001101572228",
+     "name": "Pro Fit, толори варзишӣ",
+     "address_name": "кӯчаи Бухоро, 32",
+     "point": {
+      "lat": 38.56835,
+      "lon": 68.784479
+     },
+     "adm_div": [
+      [
+       "country",
+       null,
+       "Тоҷикистон"
+      ],
+      [
+       "region",
+       null,
+       "Душанбе"
+      ],
+      [
+       "city",
+       "dushanbe",
+       "Душанбе"
+      ],
+      [
+       "district",
+       null,
+       "Исмоили Сомонӣ"
+      ]
+     ],
+     "reviews": {
+      "general_review_count_with_stars": 1,
+      "is_reviewable": false,
+      "is_reviewable_on_flamp": true,
+      "items": [
+       {
+        "is_reviewable": true,
+        "tag": "2gis_reviews"
+       }
+      ],
+      "org_rating": 5,
+      "org_review_count": 1,
+      "org_review_count_with_stars": 2
+     },
+     "contact_groups": null,
+     "contacts": null,
+     "phones": null,
+     "rubrics": [
+      [
+       "268",
+       null
+      ],
+      [
+       "267",
+       null
+      ]
+     ]
+    },
+    {
+     "id": "70000001101990158",
+     "name": "Кангурт, толори варзишӣ",
+     "address_name": null,
+     "point": {
+      "lat": 38.56076,
+      "lon": 68.781306
+     },
+     "adm_div": [
+      [
+       "country",
+       null,
+       "Тоҷикистон"
+      ],
+      [
+       "region",
+       null,
+       "Душанбе"
+      ],
+      [
+       "city",
+       "dushanbe",
+       "Душанбе"
+      ],
+      [
+       "district",
+       null,
+       "Фирдавсӣ"
+      ]
+     ],
+     "reviews": {
+      "general_review_count_with_stars": 1,
+      "is_reviewable": false,
+      "is_reviewable_on_flamp": true,
+      "items": [
+       {
+        "is_reviewable": true,
+        "tag": "2gis_reviews"
+       }
+      ],
+      "org_review_count_with_stars": 1
+     },
+     "contact_groups": null,
+     "contacts": null,
+     "phones": null,
+     "rubrics": [
+      [
+       "267",
+       null
+      ],
+      [
+       "51256",
+       null
+      ]
+     ]
+    }
+   ]
+  },
+  "Фитнес|ru_RU": {
+   "code": 404,
+   "error": "itemNotFound",
+   "total": null,
+   "n": 0,
+   "sample": []
+  },
+  "Фитнес|ru_TJ": {
+   "code": 200,
+   "error": null,
+   "total": 88,
+   "n": 10,
+   "sample": [
+    {
+     "id": "70000001109657173",
+     "name": "Dorob Gym, толори варзишӣ",
+     "address_name": "улица Бухоро, 34",
+     "point": {
+      "lat": 38.568544,
+      "lon": 68.784771
+     },
+     "adm_div": [
+      [
+       "country",
+       null,
+       "Таджикистан"
+      ],
+      [
+       "region",
+       null,
+       "Душанбе"
+      ],
+      [
+       "city",
+       "dushanbe",
+       "Душанбе"
+      ],
+      [
+       "district",
+       null,
+       "Исмоили Сомони район"
+      ]
+     ],
+     "reviews": {
+      "general_rating": 4.7,
+      "general_review_count": 3,
+      "general_review_count_with_stars": 4,
+      "is_reviewable": false,
+      "is_reviewable_on_flamp": true,
+      "items": [
+       {
+        "is_reviewable": true,
+        "tag": "2gis_reviews"
+       }
+      ],
+      "org_rating": 4.8,
+      "org_review_count": 6,
+      "org_review_count_with_stars": 14
+     },
+     "contact_groups": null,
+     "contacts": null,
+     "phones": null,
+     "rubrics": [
+      [
+       "268",
+       null
+      ],
+      [
+       "267",
+       null
+      ]
+     ]
+    },
+    {
+     "id": "70000001101572228",
+     "name": "Pro Fit, толори варзишӣ",
+     "address_name": "улица Бухоро, 32",
+     "point": {
+      "lat": 38.56835,
+      "lon": 68.784479
+     },
+     "adm_div": [
+      [
+       "country",
+       null,
+       "Таджикистан"
+      ],
+      [
+       "region",
+       null,
+       "Душанбе"
+      ],
+      [
+       "city",
+       "dushanbe",
+       "Душанбе"
+      ],
+      [
+       "district",
+       null,
+       "Исмоили Сомони район"
+      ]
+     ],
+     "reviews": {
+      "general_review_count_with_stars": 1,
+      "is_reviewable": false,
+      "is_reviewable_on_flamp": true,
+      "items": [
+       {
+        "is_reviewable": true,
+        "tag": "2gis_reviews"
+       }
+      ],
+      "org_rating": 5,
+      "org_review_count": 1,
+      "org_review_count_with_stars": 2
+     },
+     "contact_groups": null,
+     "contacts": null,
+     "phones": null,
+     "rubrics": [
+      [
+       "268",
+       null
+      ],
+      [
+       "267",
+       null
+      ]
+     ]
+    },
+    {
+     "id": "70000001101990158",
+     "name": "Кангурт, толори варзишӣ",
+     "address_name": null,
+     "point": {
+      "lat": 38.56076,
+      "lon": 68.781306
+     },
+     "adm_div": [
+      [
+       "country",
+       null,
+       "Таджикистан"
+      ],
+      [
+       "region",
+       null,
+       "Душанбе"
+      ],
+      [
+       "city",
+       "dushanbe",
+       "Душанбе"
+      ],
+      [
+       "district",
+       null,
+       "Фирдавси район"
+      ]
+     ],
+     "reviews": {
+      "general_review_count_with_stars": 1,
+      "is_reviewable": false,
+      "is_reviewable_on_flamp": true,
+      "items": [
+       {
+        "is_reviewable": true,
+        "tag": "2gis_reviews"
+       }
+      ],
+      "org_review_count_with_stars": 1
+     },
+     "contact_groups": null,
+     "contacts": null,
+     "phones": null,
+     "rubrics": [
+      [
+       "267",
+       null
+      ],
+      [
+       "51256",
+       null
+      ]
+     ]
+    }
+   ]
+  },
+  "Тренажерный зал|-": {
+   "code": 200,
+   "error": null,
+   "total": 57,
+   "n": 10,
+   "sample": [
+    {
+     "id": "70000001101990158",
+     "name": "Кангурт, толори варзишӣ",
+     "address_name": null,
+     "point": {
+      "lat": 38.56076,
+      "lon": 68.781306
+     },
+     "adm_div": [
+      [
+       "country",
+       null,
+       "Тоҷикистон"
+      ],
+      [
+       "region",
+       null,
+       "Душанбе"
+      ],
+      [
+       "city",
+       "dushanbe",
+       "Душанбе"
+      ],
+      [
+       "district",
+       null,
+       "Фирдавсӣ"
+      ]
+     ],
+     "reviews": {
+      "general_review_count_with_stars": 1,
+      "is_reviewable": false,
+      "is_reviewable_on_flamp": true,
+      "items": [
+       {
+        "is_reviewable": true,
+        "tag": "2gis_reviews"
+       }
+      ],
+      "org_review_count_with_stars": 1
+     },
+     "contact_groups": null,
+     "contacts": null,
+     "phones": null,
+     "rubrics": [
+      [
+       "267",
+       null
+      ],
+      [
+       "51256",
+       null
+      ]
+     ]
+    },
+    {
+     "id": "70000001109657173",
+     "name": "Dorob Gym, толори варзишӣ",
+     "address_name": "кӯчаи Бухоро, 34",
+     "point": {
+      "lat": 38.568544,
+      "lon": 68.784771
+     },
+     "adm_div": [
+      [
+       "country",
+       null,
+       "Тоҷикистон"
+      ],
+      [
+       "region",
+       null,
+       "Душанбе"
+      ],
+      [
+       "city",
+       "dushanbe",
+       "Душанбе"
+      ],
+      [
+       "district",
+       null,
+       "Исмоили Сомонӣ"
+      ]
+     ],
+     "reviews": {
+      "general_rating": 4.7,
+      "general_review_count": 3,
+      "general_review_count_with_stars": 4,
+      "is_reviewable": false,
+      "is_reviewable_on_flamp": true,
+      "items": [
+       {
+        "is_reviewable": true,
+        "tag": "2gis_reviews"
+       }
+      ],
+      "org_rating": 4.8,
+      "org_review_count": 6,
+      "org_review_count_with_stars": 14
+     },
+     "contact_groups": null,
+     "contacts": null,
+     "phones": null,
+     "rubrics": [
+      [
+       "267",
+       null
+      ],
+      [
+       "268",
+       null
+      ]
+     ]
+    },
+    {
+     "id": "70000001101572228",
+     "name": "Pro Fit, толори варзишӣ",
+     "address_name": "кӯчаи Бухоро, 32",
+     "point": {
+      "lat": 38.56835,
+      "lon": 68.784479
+     },
+     "adm_div": [
+      [
+       "country",
+       null,
+       "Тоҷикистон"
+      ],
+      [
+       "region",
+       null,
+       "Душанбе"
+      ],
+      [
+       "city",
+       "dushanbe",
+       "Душанбе"
+      ],
+      [
+       "district",
+       null,
+       "Исмоили Сомонӣ"
+      ]
+     ],
+     "reviews": {
+      "general_review_count_with_stars": 1,
+      "is_reviewable": false,
+      "is_reviewable_on_flamp": true,
+      "items": [
+       {
+        "is_reviewable": true,
+        "tag": "2gis_reviews"
+       }
+      ],
+      "org_rating": 5,
+      "org_review_count": 1,
+      "org_review_count_with_stars": 2
+     },
+     "contact_groups": null,
+     "contacts": null,
+     "phones": null,
+     "rubrics": [
+      [
+       "267",
+       null
+      ],
+      [
+       "268",
+       null
+      ]
+     ]
+    }
+   ]
+  },
+  "Тренажерный зал|ru_RU": {
+   "code": 200,
+   "error": null,
+   "total": 1,
+   "n": 1,
+   "sample": [
+    {
+     "id": "70030077006813680",
+     "name": "Залам",
+     "address_name": null,
+     "point": {
+      "lat": 40.843229,
+      "lon": 47.81461
+     },
+     "adm_div": [
+      [
+       "region",
+       null,
+       "Габалинский"
+      ]
+     ],
+     "reviews": {
+      "items": [
+       {
+        "is_reviewable": true,
+        "tag": "2gis_reviews"
+       }
+      ]
+     },
+     "contact_groups": null,
+     "contacts": null,
+     "phones": null,
+     "rubrics": []
+    }
+   ]
+  },
+  "Тренажерный зал|ru_TJ": {
+   "code": 200,
+   "error": null,
+   "total": 57,
+   "n": 10,
+   "sample": [
+    {
+     "id": "70000001101990158",
+     "name": "Кангурт, толори варзишӣ",
+     "address_name": null,
+     "point": {
+      "lat": 38.56076,
+      "lon": 68.781306
+     },
+     "adm_div": [
+      [
+       "country",
+       null,
+       "Таджикистан"
+      ],
+      [
+       "region",
+       null,
+       "Душанбе"
+      ],
+      [
+       "city",
+       "dushanbe",
+       "Душанбе"
+      ],
+      [
+       "district",
+       null,
+       "Фирдавси район"
+      ]
+     ],
+     "reviews": {
+      "general_review_count_with_stars": 1,
+      "is_reviewable": false,
+      "is_reviewable_on_flamp": true,
+      "items": [
+       {
+        "is_reviewable": true,
+        "tag": "2gis_reviews"
+       }
+      ],
+      "org_review_count_with_stars": 1
+     },
+     "contact_groups": null,
+     "contacts": null,
+     "phones": null,
+     "rubrics": [
+      [
+       "267",
+       null
+      ],
+      [
+       "51256",
+       null
+      ]
+     ]
+    },
+    {
+     "id": "70000001109657173",
+     "name": "Dorob Gym, толори варзишӣ",
+     "address_name": "улица Бухоро, 34",
+     "point": {
+      "lat": 38.568544,
+      "lon": 68.784771
+     },
+     "adm_div": [
+      [
+       "country",
+       null,
+       "Таджикистан"
+      ],
+      [
+       "region",
+       null,
+       "Душанбе"
+      ],
+      [
+       "city",
+       "dushanbe",
+       "Душанбе"
+      ],
+      [
+       "district",
+       null,
+       "Исмоили Сомони район"
+      ]
+     ],
+     "reviews": {
+      "general_rating": 4.7,
+      "general_review_count": 3,
+      "general_review_count_with_stars": 4,
+      "is_reviewable": false,
+      "is_reviewable_on_flamp": true,
+      "items": [
+       {
+        "is_reviewable": true,
+        "tag": "2gis_reviews"
+       }
+      ],
+      "org_rating": 4.8,
+      "org_review_count": 6,
+      "org_review_count_with_stars": 14
+     },
+     "contact_groups": null,
+     "contacts": null,
+     "phones": null,
+     "rubrics": [
+      [
+       "267",
+       null
+      ],
+      [
+       "268",
+       null
+      ]
+     ]
+    },
+    {
+     "id": "70000001101572228",
+     "name": "Pro Fit, толори варзишӣ",
+     "address_name": "улица Бухоро, 32",
+     "point": {
+      "lat": 38.56835,
+      "lon": 68.784479
+     },
+     "adm_div": [
+      [
+       "country",
+       null,
+       "Таджикистан"
+      ],
+      [
+       "region",
+       null,
+       "Душанбе"
+      ],
+      [
+       "city",
+       "dushanbe",
+       "Душанбе"
+      ],
+      [
+       "district",
+       null,
+       "Исмоили Сомони район"
+      ]
+     ],
+     "reviews": {
+      "general_review_count_with_stars": 1,
+      "is_reviewable": false,
+      "is_reviewable_on_flamp": true,
+      "items": [
+       {
+        "is_reviewable": true,
+        "tag": "2gis_reviews"
+       }
+      ],
+      "org_rating": 5,
+      "org_review_count": 1,
+      "org_review_count_with_stars": 2
+     },
+     "contact_groups": null,
+     "contacts": null,
+     "phones": null,
+     "rubrics": [
+      [
+       "267",
+       null
+      ],
+      [
+       "268",
+       null
+      ]
+     ]
+    }
+   ]
+  }
+ },
+ "khujand": {
+  "Фитнес|-": {
+   "code": 200,
+   "error": null,
+   "total": 368,
+   "n": 10,
+   "sample": [
+    {
+     "id": "70000001030858196",
+     "name": "Pulse, фитнес-клуб",
+     "address_name": "улица Алымбека Датка, 232а",
+     "point": {
+      "lat": 40.517594,
+      "lon": 72.805999
+     },
+     "adm_div": [
+      [
+       "country",
+       null,
+       "Кыргызстан"
+      ],
+      [
+       "region",
+       null,
+       "Ош"
+      ],
+      [
+       "city",
+       "osh",
+       "Ош"
+      ]
+     ],
+     "reviews": {
+      "general_rating": 4.3,
+      "general_review_count": 23,
+      "general_review_count_with_stars": 90,
+      "is_reviewable": false,
+      "is_reviewable_on_flamp": true,
+      "items": [
+       {
+        "is_reviewable": true,
+        "tag": "2gis_reviews"
+       }
+      ],
+      "org_rating": 4.3,
+      "org_review_count": 23,
+      "org_review_count_with_stars": 90
+     },
+     "contact_groups": null,
+     "contacts": null,
+     "phones": null,
+     "rubrics": [
+      [
+       "268",
+       null
+      ],
+      [
+       "267",
+       null
+      ]
+     ]
+    },
+    {
+     "id": "70000001101556835",
+     "name": "Булак, спортивный комплекс",
+     "address_name": "улица Сай Бою, 1",
+     "point": {
+      "lat": 40.522749,
+      "lon": 72.803587
+     },
+     "adm_div": [
+      [
+       "country",
+       null,
+       "Кыргызстан"
+      ],
+      [
+       "region",
+       null,
+       "Ош"
+      ],
+      [
+       "city",
+       "osh",
+       "Ош"
+      ]
+     ],
+     "reviews": {
+      "general_rating": 4.8,
+      "general_review_count": 23,
+      "general_review_count_with_stars": 128,
+      "is_reviewable": false,
+      "is_reviewable_on_flamp": true,
+      "items": [
+       {
+        "is_reviewable": true,
+        "tag": "2gis_reviews"
+       }
+      ],
+      "org_rating": 4,
+      "org_review_count": 23,
+      "org_review_count_with_stars": 128
+     },
+     "contact_groups": null,
+     "contacts": null,
+     "phones": null,
+     "rubrics": [
+      [
+       "268",
+       null
+      ],
+      [
+       "267",
+       null
+      ],
+      [
+       "51256",
+       null
+      ]
+     ]
+    },
+    {
+     "id": "70000001048075300",
+     "name": "Шавкат, спортивный комплекс",
+     "address_name": "1-я улица, 52",
+     "point": {
+      "lat": 40.57151,
+      "lon": 72.754921
+     },
+     "adm_div": [
+      [
+       "country",
+       null,
+       "Кыргызстан"
+      ],
+      [
+       "region",
+       null,
+       "Ошская область"
+      ],
+      [
+       "settlement",
+       "bishkek",
+       "с. Суроттуу-Таш"
+      ]
+     ],
+     "reviews": {
+      "general_rating": 4.6,
+      "general_review_count": 17,
+      "general_review_count_with_stars": 264,
+      "is_reviewable": false,
+      "is_reviewable_on_flamp": true,
+      "items": [
+       {
+        "is_reviewable": true,
+        "tag": "2gis_reviews"
+       }
+      ],
+      "org_rating": 4.6,
+      "org_review_count": 17,
+      "org_review_count_with_stars": 264
+     },
+     "contact_groups": null,
+     "contacts": null,
+     "phones": null,
+     "rubrics": [
+      [
+       "268",
+       null
+      ],
+      [
+       "51256",
+       null
+      ],
+      [
+       "261",
+       null
+      ]
+     ]
+    }
+   ]
+  },
+  "Фитнес|ru_RU": {
+   "code": 404,
+   "error": "itemNotFound",
+   "total": null,
+   "n": 0,
+   "sample": []
+  },
+  "Фитнес|ru_TJ": {
+   "code": 404,
+   "error": "itemNotFound",
+   "total": null,
+   "n": 0,
+   "sample": []
+  },
+  "Тренажерный зал|-": {
+   "code": 200,
+   "error": null,
+   "total": 296,
+   "n": 10,
+   "sample": [
+    {
+     "id": "70000001030858196",
+     "name": "Pulse, фитнес-клуб",
+     "address_name": "улица Алымбека Датка, 232а",
+     "point": {
+      "lat": 40.517594,
+      "lon": 72.805999
+     },
+     "adm_div": [
+      [
+       "country",
+       null,
+       "Кыргызстан"
+      ],
+      [
+       "region",
+       null,
+       "Ош"
+      ],
+      [
+       "city",
+       "osh",
+       "Ош"
+      ]
+     ],
+     "reviews": {
+      "general_rating": 4.3,
+      "general_review_count": 23,
+      "general_review_count_with_stars": 90,
+      "is_reviewable": false,
+      "is_reviewable_on_flamp": true,
+      "items": [
+       {
+        "is_reviewable": true,
+        "tag": "2gis_reviews"
+       }
+      ],
+      "org_rating": 4.3,
+      "org_review_count": 23,
+      "org_review_count_with_stars": 90
+     },
+     "contact_groups": null,
+     "contacts": null,
+     "phones": null,
+     "rubrics": [
+      [
+       "267",
+       null
+      ],
+      [
+       "268",
+       null
+      ]
+     ]
+    },
+    {
+     "id": "70000001101556835",
+     "name": "Булак, спортивный комплекс",
+     "address_name": "улица Сай Бою, 1",
+     "point": {
+      "lat": 40.522749,
+      "lon": 72.803587
+     },
+     "adm_div": [
+      [
+       "country",
+       null,
+       "Кыргызстан"
+      ],
+      [
+       "region",
+       null,
+       "Ош"
+      ],
+      [
+       "city",
+       "osh",
+       "Ош"
+      ]
+     ],
+     "reviews": {
+      "general_rating": 4.8,
+      "general_review_count": 23,
+      "general_review_count_with_stars": 128,
+      "is_reviewable": false,
+      "is_reviewable_on_flamp": true,
+      "items": [
+       {
+        "is_reviewable": true,
+        "tag": "2gis_reviews"
+       }
+      ],
+      "org_rating": 4,
+      "org_review_count": 23,
+      "org_review_count_with_stars": 128
+     },
+     "contact_groups": null,
+     "contacts": null,
+     "phones": null,
+     "rubrics": [
+      [
+       "267",
+       null
+      ],
+      [
+       "268",
+       null
+      ],
+      [
+       "51256",
+       null
+      ]
+     ]
+    },
+    {
+     "id": "70000001030857816",
+     "name": "Алга Ош, спортивный комплекс",
+     "address_name": "улица Сагынбека Супаналиева, 234",
+     "point": {
+      "lat": 40.519264,
+      "lon": 72.804502
+     },
+     "adm_div": [
+      [
+       "country",
+       null,
+       "Кыргызстан"
+      ],
+      [
+       "region",
+       null,
+       "Ош"
+      ],
+      [
+       "city",
+       "osh",
+       "Ош"
+      ]
+     ],
+     "reviews": {
+      "general_rating": 4.3,
+      "general_review_count": 22,
+      "general_review_count_with_stars": 76,
+      "is_reviewable": false,
+      "is_reviewable_on_flamp": true,
+      "items": [
+       {
+        "is_reviewable": true,
+        "tag": "2gis_reviews"
+       }
+      ],
+      "org_rating": 4.3,
+      "org_review_count": 22,
+      "org_review_count_with_stars": 76
+     },
+     "contact_groups": null,
+     "contacts": null,
+     "phones": null,
+     "rubrics": [
+      [
+       "267",
+       null
+      ],
+      [
+       "51256",
+       null
+      ],
+      [
+       "268",
+       null
+      ]
+     ]
+    }
+   ]
+  },
+  "Тренажерный зал|ru_RU": {
+   "code": 200,
+   "error": null,
+   "total": 1,
+   "n": 1,
+   "sample": [
+    {
+     "id": "70030077006813680",
+     "name": "Залам",
+     "address_name": null,
+     "point": {
+      "lat": 40.843229,
+      "lon": 47.81461
+     },
+     "adm_div": [
+      [
+       "region",
+       null,
+       "Габалинский"
+      ]
+     ],
+     "reviews": {
+      "items": [
+       {
+        "is_reviewable": true,
+        "tag": "2gis_reviews"
+       }
+      ]
+     },
+     "contact_groups": null,
+     "contacts": null,
+     "phones": null,
+     "rubrics": []
+    }
+   ]
+  },
+  "Тренажерный зал|ru_TJ": {
+   "code": 200,
+   "error": null,
+   "total": 1,
+   "n": 1,
+   "sample": [
+    {
+     "id": "70030077006813680",
+     "name": "Залам",
+     "address_name": null,
+     "point": {
+      "lat": 40.843229,
+      "lon": 47.81461
+     },
+     "adm_div": [
+      [
+       "region",
+       null,
+       "Габалинский"
+      ]
+     ],
+     "reviews": {
+      "items": [
+       {
+        "is_reviewable": true,
+        "tag": "2gis_reviews"
+       }
+      ]
+     },
+     "contact_groups": null,
+     "contacts": null,
+     "phones": null,
+     "rubrics": []
+    }
+   ]
+  }
+ }
+}

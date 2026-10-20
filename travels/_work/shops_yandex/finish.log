@@ -1,0 +1,31 @@
+00:58:22 finish_run started, waiting for the live yx_lookup to end
+--- restart after prose_numbers step added ---
+01:01:29 finish_run started, waiting for the live yx_lookup to end
+01:31:38 still waiting for yx_lookup (30 min)
+02:01:47 still waiting for yx_lookup (60 min)
+02:31:58 still waiting for yx_lookup (90 min)
+03:02:06 still waiting for yx_lookup (120 min)
+03:32:14 still waiting for yx_lookup (150 min)
+04:02:22 still waiting for yx_lookup (180 min)
+04:32:30 still waiting for yx_lookup (210 min)
+05:02:40 still waiting for yx_lookup (240 min)
+05:32:48 still waiting for yx_lookup (270 min)
+06:02:56 still waiting for yx_lookup (300 min)
+06:12:59 no live yx_lookup; resuming the plan
+06:12:59 START resume_lookup yx_lookup.py
+10:57:32 END resume_lookup rc=0 in 284 min
+10:57:32 START parse_rows parse_rows.py
+10:57:32 END parse_rows rc=0 in 0 min
+10:57:32 START yx_shopcards yx_shopcards.py
+13:07:11 END yx_shopcards rc=1 in 129 min
+13:07:12 START parse_rows2 parse_rows.py
+13:07:13 END parse_rows2 rc=0 in 0 min
+13:07:13 START crossmatch crossmatch_2gis.py
+13:07:16 END crossmatch rc=0 in 0 min
+13:07:16 START make_md make_md.py
+13:07:18 END make_md rc=0 in 0 min
+13:07:18 START prose_numbers prose_numbers.py
+13:07:18 END prose_numbers rc=1 in 0 min
+13:07:21 build.py rc=0 ��������⠭.md: 716199 ch, 3677 lines, 3678
+   ## 1. \u0421\u0440\u043e\u043a\u0438 \u043f\u0440\u0435\u0431\u044b\u0432\
+13:07:21 finish_run done

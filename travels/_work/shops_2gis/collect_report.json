@@ -1,0 +1,1507 @@
+{
+ "passes": [
+  {
+   "pass": "query:базар",
+   "declared_total": 30,
+   "tiles": [
+    {
+     "bbox": [
+      68.58,
+      38.42,
+      69.06,
+      38.74
+     ],
+     "depth": 0,
+     "code": 200,
+     "total": 30,
+     "truncated": false
+    }
+   ],
+   "unique_so_far": 30
+  },
+  {
+   "pass": "query:бозор",
+   "declared_total": 43,
+   "tiles": [
+    {
+     "bbox": [
+      68.58,
+      38.42,
+      69.06,
+      38.74
+     ],
+     "depth": 0,
+     "code": 200,
+     "total": 42,
+     "truncated": false
+    }
+   ],
+   "unique_so_far": 43
+  },
+  {
+   "pass": "query:рынок",
+   "declared_total": 48,
+   "tiles": [
+    {
+     "bbox": [
+      68.58,
+      38.42,
+      69.06,
+      38.74
+     ],
+     "depth": 0,
+     "code": 200,
+     "total": 38,
+     "truncated": false
+    }
+   ],
+   "unique_so_far": 53
+  },
+  {
+   "pass": "query:торговый центр",
+   "declared_total": 26,
+   "tiles": [
+    {
+     "bbox": [
+      68.58,
+      38.42,
+      68.82,
+      38.58
+     ],
+     "depth": 2,
+     "code": 200,
+     "total": 45,
+     "truncated": false
+    },
+    {
+     "bbox": [
+      68.58,
+      38.58,
+      68.82,
+      38.74
+     ],
+     "depth": 2,
+     "code": 200,
+     "total": 15,
+     "truncated": false
+    },
+    {
+     "bbox": [
+      68.82,
+      38.42,
+      69.06,
+      38.74
+     ],
+     "depth": 1,
+     "code": 200,
+     "total": 2,
+     "truncated": false
+    }
+   ],
+   "unique_so_far": 113
+  },
+  {
+   "pass": "query:супермаркет",
+   "declared_total": 219,
+   "tiles": [
+    {
+     "bbox": [
+      68.58,
+      38.42,
+      68.69999999999999,
+      38.58
+     ],
+     "depth": 3,
+     "code": 200,
+     "total": 3,
+     "truncated": false
+    },
+    {
+     "bbox": [
+      68.69999999999999,
+      38.42,
+      68.82,
+      38.5
+     ],
+     "depth": 4,
+     "code": 200,
+     "total": 1,
+     "truncated": false
+    },
+    {
+     "bbox": [
+      68.69999999999999,
+      38.5,
+      68.75999999999999,
+      38.54
+     ],
+     "depth": 6,
+     "code": 200,
+     "total": 25,
+     "truncated": false
+    },
+    {
+     "bbox": [
+      68.69999999999999,
+      38.54,
+      68.75999999999999,
+      38.58
+     ],
+     "depth": 6,
+     "code": 200,
+     "total": 27,
+     "truncated": false
+    },
+    {
+     "bbox": [
+      68.75999999999999,
+      38.5,
+      68.82,
+      38.54
+     ],
+     "depth": 6,
+     "code": 200,
+     "total": 22,
+     "truncated": false
+    },
+    {
+     "bbox": [
+      68.75999999999999,
+      38.54,
+      68.78999999999999,
+      38.58
+     ],
+     "depth": 7,
+     "code": 200,
+     "total": 24,
+     "truncated": false
+    },
+    {
+     "bbox": [
+      68.78999999999999,
+      38.54,
+      68.82,
+      38.58
+     ],
+     "depth": 7,
+     "code": 200,
+     "total": 46,
+     "truncated": false
+    },
+    {
+     "bbox": [
+      68.58,
+      38.58,
+      68.69999999999999,
+      38.74
+     ],
+     "depth": 3,
+     "code": 404,
+     "error": "itemNotFound",
+     "total": null
+    },
+    {
+     "bbox": [
+      68.69999999999999,
+      38.58,
+      68.75999999999999,
+      38.66
+     ],
+     "depth": 5,
+     "code": 200,
+     "total": 42,
+     "truncated": false
+    },
+    {
+     "bbox": [
+      68.75999999999999,
+      38.58,
+      68.82,
+      38.66
+     ],
+     "depth": 5,
+     "code": 200,
+     "total": 22,
+     "truncated": false
+    },
+    {
+     "bbox": [
+      68.69999999999999,
+      38.66,
+      68.82,
+      38.74
+     ],
+     "depth": 4,
+     "code": 404,
+     "error": "itemNotFound",
+     "total": null
+    },
+    {
+     "bbox": [
+      68.82,
+      38.42,
+      69.06,
+      38.74
+     ],
+     "depth": 1,
+     "code": 200,
+     "total": 7,
+     "truncated": false
+    }
+   ],
+   "unique_so_far": 331
+  },
+  {
+   "pass": "query:гипермаркет",
+   "declared_total": 3,
+   "tiles": [
+    {
+     "bbox": [
+      68.58,
+      38.42,
+      69.06,
+      38.74
+     ],
+     "depth": 0,
+     "code": 200,
+     "total": 3,
+     "truncated": false
+    }
+   ],
+   "unique_so_far": 331
+  },
+  {
+   "pass": "query:пункт выдачи",
+   "declared_total": 182,
+   "tiles": [
+    {
+     "bbox": [
+      68.58,
+      38.42,
+      68.69999999999999,
+      38.58
+     ],
+     "depth": 3,
+     "code": 404,
+     "error": "itemNotFound",
+     "total": null
+    },
+    {
+     "bbox": [
+      68.69999999999999,
+      38.42,
+      68.82,
+      38.5
+     ],
+     "depth": 4,
+     "code": 200,
+     "total": 1,
+     "truncated": false
+    },
+    {
+     "bbox": [
+      68.69999999999999,
+      38.5,
+      68.75999999999999,
+      38.58
+     ],
+     "depth": 5,
+     "code": 200,
+     "total": 46,
+     "truncated": false
+    },
+    {
+     "bbox": [
+      68.75999999999999,
+      38.5,
+      68.82,
+      38.54
+     ],
+     "depth": 6,
+     "code": 200,
+     "total": 18,
+     "truncated": false
+    },
+    {
+     "bbox": [
+      68.75999999999999,
+      38.54,
+      68.82,
+      38.58
+     ],
+     "depth": 6,
+     "code": 200,
+     "total": 49,
+     "truncated": false
+    },
+    {
+     "bbox": [
+      68.58,
+      38.58,
+      68.69999999999999,
+      38.74
+     ],
+     "depth": 3,
+     "code": 404,
+     "error": "itemNotFound",
+     "total": null
+    },
+    {
+     "bbox": [
+      68.69999999999999,
+      38.58,
+      68.75999999999999,
+      38.66
+     ],
+     "depth": 5,
+     "code": 200,
+     "total": 28,
+     "truncated": false
+    },
+    {
+     "bbox": [
+      68.75999999999999,
+      38.58,
+      68.82,
+      38.66
+     ],
+     "depth": 5,
+     "code": 200,
+     "total": 31,
+     "truncated": false
+    },
+    {
+     "bbox": [
+      68.69999999999999,
+      38.66,
+      68.82,
+      38.74
+     ],
+     "depth": 4,
+     "code": 404,
+     "error": "itemNotFound",
+     "total": null
+    },
+    {
+     "bbox": [
+      68.82,
+      38.42,
+      69.06,
+      38.74
+     ],
+     "depth": 1,
+     "code": 200,
+     "total": 8,
+     "truncated": false
+    }
+   ],
+   "unique_so_far": 511
+  },
+  {
+   "pass": "query:интернет-магазин",
+   "declared_total": 17,
+   "tiles": [
+    {
+     "bbox": [
+      68.58,
+      38.42,
+      69.06,
+      38.74
+     ],
+     "depth": 0,
+     "code": 200,
+     "total": 13,
+     "truncated": false
+    }
+   ],
+   "unique_so_far": 533
+  },
+  {
+   "pass": "query:маркетплейс",
+   "declared_total": 4,
+   "tiles": [
+    {
+     "bbox": [
+      68.58,
+      38.42,
+      69.06,
+      38.74
+     ],
+     "depth": 0,
+     "code": 200,
+     "total": 4,
+     "truncated": false
+    }
+   ],
+   "unique_so_far": 534
+  },
+  {
+   "pass": "query:ремесла",
+   "declared_total": 88,
+   "tiles": [
+    {
+     "bbox": [
+      68.58,
+      38.42,
+      68.69999999999999,
+      38.58
+     ],
+     "depth": 3,
+     "code": 404,
+     "error": "itemNotFound",
+     "total": null
+    },
+    {
+     "bbox": [
+      68.69999999999999,
+      38.42,
+      68.82,
+      38.5
+     ],
+     "depth": 4,
+     "code": 200,
+     "total": 1,
+     "truncated": false
+    },
+    {
+     "bbox": [
+      68.69999999999999,
+      38.5,
+      68.75999999999999,
+      38.58
+     ],
+     "depth": 5,
+     "code": 200,
+     "total": 43,
+     "truncated": false
+    },
+    {
+     "bbox": [
+      68.75999999999999,
+      38.5,
+      68.82,
+      38.58
+     ],
+     "depth": 5,
+     "code": 200,
+     "total": 19,
+     "truncated": false
+    },
+    {
+     "bbox": [
+      68.58,
+      38.58,
+      68.82,
+      38.74
+     ],
+     "depth": 2,
+     "code": 200,
+     "total": 20,
+     "truncated": false
+    },
+    {
+     "bbox": [
+      68.82,
+      38.42,
+      69.06,
+      38.74
+     ],
+     "depth": 1,
+     "code": 200,
+     "total": 5,
+     "truncated": false
+    }
+   ],
+   "unique_so_far": 623
+  },
+  {
+   "pass": "query:сувениры",
+   "declared_total": 76,
+   "tiles": [
+    {
+     "bbox": [
+      68.58,
+      38.42,
+      68.69999999999999,
+      38.58
+     ],
+     "depth": 3,
+     "code": 404,
+     "error": "itemNotFound",
+     "total": null
+    },
+    {
+     "bbox": [
+      68.69999999999999,
+      38.42,
+      68.82,
+      38.5
+     ],
+     "depth": 4,
+     "code": 404,
+     "error": "itemNotFound",
+     "total": null
+    },
+    {
+     "bbox": [
+      68.69999999999999,
+      38.5,
+      68.75999999999999,
+      38.58
+     ],
+     "depth": 5,
+     "code": 200,
+     "total": 30,
+     "truncated": false
+    },
+    {
+     "bbox": [
+      68.75999999999999,
+      38.5,
+      68.82,
+      38.58
+     ],
+     "depth": 5,
+     "code": 200,
+     "total": 22,
+     "truncated": false
+    },
+    {
+     "bbox": [
+      68.58,
+      38.58,
+      68.82,
+      38.74
+     ],
+     "depth": 2,
+     "code": 200,
+     "total": 22,
+     "truncated": false
+    },
+    {
+     "bbox": [
+      68.82,
+      38.42,
+      69.06,
+      38.74
+     ],
+     "depth": 1,
+     "code": 200,
+     "total": 1,
+     "truncated": false
+    }
+   ],
+   "unique_so_far": 688
+  },
+  {
+   "pass": "query:магазин",
+   "declared_total": 722,
+   "tiles": [
+    {
+     "bbox": [
+      68.58,
+      38.42,
+      68.69999999999999,
+      38.58
+     ],
+     "depth": 3,
+     "code": 200,
+     "total": 48,
+     "truncated": false
+    },
+    {
+     "bbox": [
+      68.69999999999999,
+      38.42,
+      68.75999999999999,
+      38.46
+     ],
+     "depth": 6,
+     "code": 200,
+     "total": 2,
+     "truncated": false
+    },
+    {
+     "bbox": [
+      68.69999999999999,
+      38.46,
+      68.72999999999999,
+      38.5
+     ],
+     "depth": 7,
+     "code": 200,
+     "total": 30,
+     "truncated": false
+    },
+    {
+     "bbox": [
+      68.72999999999999,
+      38.46,
+      68.75999999999999,
+      38.5
+     ],
+     "depth": 7,
+     "code": 200,
+     "total": 58,
+     "truncated": true
+    },
+    {
+     "bbox": [
+      68.75999999999999,
+      38.42,
+      68.82,
+      38.5
+     ],
+     "depth": 5,
+     "code": 200,
+     "total": 12,
+     "truncated": false
+    },
+    {
+     "bbox": [
+      68.69999999999999,
+      38.5,
+      68.72999999999999,
+      38.54
+     ],
+     "depth": 7,
+     "code": 200,
+     "total": 63,
+     "truncated": true
+    },
+    {
+     "bbox": [
+      68.72999999999999,
+      38.5,
+      68.75999999999999,
+      38.54
+     ],
+     "depth": 7,
+     "code": 200,
+     "total": 274,
+     "truncated": true
+    },
+    {
+     "bbox": [
+      68.69999999999999,
+      38.54,
+      68.72999999999999,
+      38.58
+     ],
+     "depth": 7,
+     "code": 200,
+     "total": 82,
+     "truncated": true
+    },
+    {
+     "bbox": [
+      68.72999999999999,
+      38.54,
+      68.75999999999999,
+      38.58
+     ],
+     "depth": 7,
+     "code": 200,
+     "total": 453,
+     "truncated": true
+    },
+    {
+     "bbox": [
+      68.75999999999999,
+      38.5,
+      68.78999999999999,
+      38.54
+     ],
+     "depth": 7,
+     "code": 200,
+     "total": 181,
+     "truncated": true
+    },
+    {
+     "bbox": [
+      68.78999999999999,
+      38.5,
+      68.82,
+      38.54
+     ],
+     "depth": 7,
+     "code": 200,
+     "total": 20,
+     "truncated": false
+    },
+    {
+     "bbox": [
+      68.75999999999999,
+      38.54,
+      68.78999999999999,
+      38.58
+     ],
+     "depth": 7,
+     "code": 200,
+     "total": 211,
+     "truncated": true
+    },
+    {
+     "bbox": [
+      68.78999999999999,
+      38.54,
+      68.82,
+      38.58
+     ],
+     "depth": 7,
+     "code": 200,
+     "total": 268,
+     "truncated": true
+    },
+    {
+     "bbox": [
+      68.58,
+      38.58,
+      68.69999999999999,
+      38.74
+     ],
+     "depth": 3,
+     "code": 200,
+     "total": 3,
+     "truncated": false
+    },
+    {
+     "bbox": [
+      68.69999999999999,
+      38.58,
+      68.72999999999999,
+      38.62
+     ],
+     "depth": 7,
+     "code": 200,
+     "total": 147,
+     "truncated": true
+    },
+    {
+     "bbox": [
+      68.72999999999999,
+      38.58,
+      68.75999999999999,
+      38.62
+     ],
+     "depth": 7,
+     "code": 200,
+     "total": 175,
+     "truncated": true
+    },
+    {
+     "bbox": [
+      68.69999999999999,
+      38.62,
+      68.75999999999999,
+      38.66
+     ],
+     "depth": 6,
+     "code": 200,
+     "total": 9,
+     "truncated": false
+    },
+    {
+     "bbox": [
+      68.75999999999999,
+      38.58,
+      68.78999999999999,
+      38.62
+     ],
+     "depth": 7,
+     "code": 200,
+     "total": 121,
+     "truncated": true
+    },
+    {
+     "bbox": [
+      68.78999999999999,
+      38.58,
+      68.82,
+      38.62
+     ],
+     "depth": 7,
+     "code": 200,
+     "total": 82,
+     "truncated": true
+    },
+    {
+     "bbox": [
+      68.75999999999999,
+      38.62,
+      68.82,
+      38.66
+     ],
+     "depth": 6,
+     "code": 200,
+     "total": 33,
+     "truncated": false
+    },
+    {
+     "bbox": [
+      68.69999999999999,
+      38.66,
+      68.82,
+      38.74
+     ],
+     "depth": 4,
+     "code": 200,
+     "total": 18,
+     "truncated": false
+    },
+    {
+     "bbox": [
+      68.82,
+      38.42,
+      68.94,
+      38.5
+     ],
+     "depth": 4,
+     "code": 404,
+     "error": "itemNotFound",
+     "total": null
+    },
+    {
+     "bbox": [
+      68.82,
+      38.5,
+      68.88,
+      38.54
+     ],
+     "depth": 6,
+     "code": 200,
+     "total": 23,
+     "truncated": false
+    },
+    {
+     "bbox": [
+      68.82,
+      38.54,
+      68.85,
+      38.58
+     ],
+     "depth": 7,
+     "code": 200,
+     "total": 81,
+     "truncated": true
+    },
+    {
+     "bbox": [
+      68.85,
+      38.54,
+      68.88,
+      38.58
+     ],
+     "depth": 7,
+     "code": 200,
+     "total": 106,
+     "truncated": true
+    },
+    {
+     "bbox": [
+      68.88,
+      38.5,
+      68.94,
+      38.58
+     ],
+     "depth": 5,
+     "code": 200,
+     "total": 12,
+     "truncated": false
+    },
+    {
+     "bbox": [
+      68.94,
+      38.42,
+      69.06,
+      38.58
+     ],
+     "depth": 3,
+     "code": 404,
+     "error": "itemNotFound",
+     "total": null
+    },
+    {
+     "bbox": [
+      68.82,
+      38.58,
+      69.06,
+      38.74
+     ],
+     "depth": 2,
+     "code": 200,
+     "total": 6,
+     "truncated": false
+    }
+   ],
+   "unique_so_far": 1423
+  },
+  {
+   "pass": "query:дукон",
+   "declared_total": 1377,
+   "tiles": [
+    {
+     "bbox": [
+      68.58,
+      38.42,
+      68.69999999999999,
+      38.58
+     ],
+     "depth": 3,
+     "code": 200,
+     "total": 10,
+     "truncated": false
+    },
+    {
+     "bbox": [
+      68.69999999999999,
+      38.42,
+      68.82,
+      38.5
+     ],
+     "depth": 4,
+     "code": 200,
+     "total": 12,
+     "truncated": false
+    },
+    {
+     "bbox": [
+      68.69999999999999,
+      38.5,
+      68.72999999999999,
+      38.54
+     ],
+     "depth": 7,
+     "code": 200,
+     "total": 12,
+     "truncated": false
+    },
+    {
+     "bbox": [
+      68.72999999999999,
+      38.5,
+      68.75999999999999,
+      38.54
+     ],
+     "depth": 7,
+     "code": 200,
+     "total": 235,
+     "truncated": true
+    },
+    {
+     "bbox": [
+      68.69999999999999,
+      38.54,
+      68.72999999999999,
+      38.58
+     ],
+     "depth": 7,
+     "code": 200,
+     "total": 16,
+     "truncated": false
+    },
+    {
+     "bbox": [
+      68.72999999999999,
+      38.54,
+      68.75999999999999,
+      38.58
+     ],
+     "depth": 7,
+     "code": 200,
+     "total": 216,
+     "truncated": true
+    },
+    {
+     "bbox": [
+      68.75999999999999,
+      38.5,
+      68.78999999999999,
+      38.54
+     ],
+     "depth": 7,
+     "code": 200,
+     "total": 109,
+     "truncated": true
+    },
+    {
+     "bbox": [
+      68.78999999999999,
+      38.5,
+      68.82,
+      38.54
+     ],
+     "depth": 7,
+     "code": 200,
+     "total": 12,
+     "truncated": false
+    },
+    {
+     "bbox": [
+      68.75999999999999,
+      38.54,
+      68.78999999999999,
+      38.58
+     ],
+     "depth": 7,
+     "code": 200,
+     "total": 120,
+     "truncated": true
+    },
+    {
+     "bbox": [
+      68.78999999999999,
+      38.54,
+      68.82,
+      38.58
+     ],
+     "depth": 7,
+     "code": 200,
+     "total": 190,
+     "truncated": true
+    },
+    {
+     "bbox": [
+      68.58,
+      38.58,
+      68.69999999999999,
+      38.74
+     ],
+     "depth": 3,
+     "code": 404,
+     "error": "itemNotFound",
+     "total": null
+    },
+    {
+     "bbox": [
+      68.69999999999999,
+      38.58,
+      68.72999999999999,
+      38.62
+     ],
+     "depth": 7,
+     "code": 200,
+     "total": 93,
+     "truncated": true
+    },
+    {
+     "bbox": [
+      68.72999999999999,
+      38.58,
+      68.75999999999999,
+      38.62
+     ],
+     "depth": 7,
+     "code": 200,
+     "total": 93,
+     "truncated": true
+    },
+    {
+     "bbox": [
+      68.69999999999999,
+      38.62,
+      68.75999999999999,
+      38.66
+     ],
+     "depth": 6,
+     "code": 200,
+     "total": 3,
+     "truncated": false
+    },
+    {
+     "bbox": [
+      68.75999999999999,
+      38.58,
+      68.78999999999999,
+      38.62
+     ],
+     "depth": 7,
+     "code": 200,
+     "total": 122,
+     "truncated": true
+    },
+    {
+     "bbox": [
+      68.78999999999999,
+      38.58,
+      68.82,
+      38.62
+     ],
+     "depth": 7,
+     "code": 200,
+     "total": 26,
+     "truncated": false
+    },
+    {
+     "bbox": [
+      68.75999999999999,
+      38.62,
+      68.82,
+      38.66
+     ],
+     "depth": 6,
+     "code": 200,
+     "total": 22,
+     "truncated": false
+    },
+    {
+     "bbox": [
+      68.69999999999999,
+      38.66,
+      68.82,
+      38.74
+     ],
+     "depth": 4,
+     "code": 200,
+     "total": 4,
+     "truncated": false
+    },
+    {
+     "bbox": [
+      68.82,
+      38.42,
+      68.94,
+      38.5
+     ],
+     "depth": 4,
+     "code": 404,
+     "error": "itemNotFound",
+     "total": null
+    },
+    {
+     "bbox": [
+      68.82,
+      38.5,
+      68.88,
+      38.54
+     ],
+     "depth": 6,
+     "code": 200,
+     "total": 3,
+     "truncated": false
+    },
+    {
+     "bbox": [
+      68.82,
+      38.54,
+      68.85,
+      38.58
+     ],
+     "depth": 7,
+     "code": 200,
+     "total": 32,
+     "truncated": false
+    },
+    {
+     "bbox": [
+      68.85,
+      38.54,
+      68.88,
+      38.58
+     ],
+     "depth": 7,
+     "code": 200,
+     "total": 40,
+     "truncated": false
+    },
+    {
+     "bbox": [
+      68.88,
+      38.5,
+      68.94,
+      38.58
+     ],
+     "depth": 5,
+     "code": 200,
+     "total": 1,
+     "truncated": false
+    },
+    {
+     "bbox": [
+      68.94,
+      38.42,
+      69.06,
+      38.58
+     ],
+     "depth": 3,
+     "code": 404,
+     "error": "itemNotFound",
+     "total": null
+    },
+    {
+     "bbox": [
+      68.82,
+      38.58,
+      69.06,
+      38.74
+     ],
+     "depth": 2,
+     "code": 200,
+     "total": 1,
+     "truncated": false
+    }
+   ],
+   "unique_so_far": 2016
+  },
+  {
+   "pass": "query:ярмарка",
+   "declared_total": 29,
+   "tiles": [
+    {
+     "bbox": [
+      68.58,
+      38.42,
+      69.06,
+      38.74
+     ],
+     "depth": 0,
+     "code": 200,
+     "total": 29,
+     "truncated": false
+    }
+   ],
+   "unique_so_far": 2016
+  },
+  {
+   "pass": "rubric:350",
+   "declared_total": null,
+   "tiles": [
+    {
+     "bbox": [
+      68.58,
+      38.42,
+      68.69999999999999,
+      38.58
+     ],
+     "depth": 3,
+     "code": 403,
+     "error": "apiKeyIsBlocked",
+     "total": null
+    },
+    {
+     "bbox": [
+      68.69999999999999,
+      38.42,
+      68.82,
+      38.5
+     ],
+     "depth": 4,
+     "code": 200,
+     "total": 1,
+     "truncated": false
+    },
+    {
+     "bbox": [
+      68.69999999999999,
+      38.5,
+      68.75999999999999,
+      38.58
+     ],
+     "depth": 5,
+     "code": 200,
+     "total": 48,
+     "truncated": false
+    },
+    {
+     "bbox": [
+      68.75999999999999,
+      38.5,
+      68.82,
+      38.54
+     ],
+     "depth": 6,
+     "code": 200,
+     "total": 21,
+     "truncated": false
+    },
+    {
+     "bbox": [
+      68.75999999999999,
+      38.54,
+      68.78999999999999,
+      38.58
+     ],
+     "depth": 7,
+     "code": 200,
+     "total": 18,
+     "truncated": false
+    },
+    {
+     "bbox": [
+      68.78999999999999,
+      38.54,
+      68.82,
+      38.58
+     ],
+     "depth": 7,
+     "code": 200,
+     "total": 40,
+     "truncated": false
+    },
+    {
+     "bbox": [
+      68.58,
+      38.58,
+      68.69999999999999,
+      38.74
+     ],
+     "depth": 3,
+     "code": 404,
+     "error": "itemNotFound",
+     "total": null
+    },
+    {
+     "bbox": [
+      68.69999999999999,
+      38.58,
+      68.75999999999999,
+      38.66
+     ],
+     "depth": 5,
+     "code": 403,
+     "error": "apiKeyIsBlocked",
+     "total": null
+    },
+    {
+     "bbox": [
+      68.75999999999999,
+      38.58,
+      68.82,
+      38.66
+     ],
+     "depth": 5,
+     "code": 403,
+     "error": "apiKeyIsBlocked",
+     "total": null
+    },
+    {
+     "bbox": [
+      68.69999999999999,
+      38.66,
+      68.82,
+      38.74
+     ],
+     "depth": 4,
+     "code": 404,
+     "error": "itemNotFound",
+     "total": null
+    },
+    {
+     "bbox": [
+      68.82,
+      38.42,
+      69.06,
+      38.74
+     ],
+     "depth": 1,
+     "code": 200,
+     "total": 6,
+     "truncated": false
+    }
+   ],
+   "unique_so_far": 2016
+  },
+  {
+   "pass": "rubric:12127",
+   "declared_total": null,
+   "tiles": [
+    {
+     "bbox": [
+      68.58,
+      38.42,
+      69.06,
+      38.74
+     ],
+     "depth": 0,
+     "code": 200,
+     "total": 3,
+     "truncated": false
+    }
+   ],
+   "unique_so_far": 2016
+  },
+  {
+   "pass": "rubric:112611",
+   "declared_total": null,
+   "tiles": [
+    {
+     "bbox": [
+      68.58,
+      38.42,
+      68.82,
+      38.74
+     ],
+     "depth": 1,
+     "code": 403,
+     "error": "apiKeyIsBlocked",
+     "total": null
+    },
+    {
+     "bbox": [
+      68.82,
+      38.42,
+      69.06,
+      38.74
+     ],
+     "depth": 1,
+     "code": 403,
+     "error": "apiKeyIsBlocked",
+     "total": null
+    }
+   ],
+   "unique_so_far": 2016
+  },
+  {
+   "pass": "rubric:110333",
+   "declared_total": null,
+   "tiles": [
+    {
+     "bbox": [
+      68.58,
+      38.42,
+      68.82,
+      38.74
+     ],
+     "depth": 1,
+     "code": 403,
+     "error": "apiKeyIsBlocked",
+     "total": null
+    },
+    {
+     "bbox": [
+      68.82,
+      38.42,
+      69.06,
+      38.74
+     ],
+     "depth": 1,
+     "code": 200,
+     "total": 1,
+     "truncated": false
+    }
+   ],
+   "unique_so_far": 2016
+  },
+  {
+   "pass": "rubric:510",
+   "declared_total": null,
+   "tiles": [
+    {
+     "bbox": [
+      68.58,
+      38.42,
+      69.06,
+      38.74
+     ],
+     "depth": 0,
+     "code": 403,
+     "error": "apiKeyIsBlocked",
+     "total": null
+    }
+   ],
+   "unique_so_far": 2016
+  }
+ ],
+ "requests_made": 551,
+ "total_items": 2016
+}

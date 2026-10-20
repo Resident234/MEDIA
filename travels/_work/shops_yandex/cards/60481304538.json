@@ -1,0 +1,130 @@
+{
+ "url": "https://yandex.kz/maps/org/bi1/60481304538/?ll=68.801159%2C38.574156&z=16",
+ "title": "Би1, супермаркет, Душанбе, ул. Дустии халкхо, 47 — Яндекс Карты",
+ "h1": "Би1",
+ "coords": [
+  "68.801204,38.574076",
+  "68.801204,38.574076"
+ ],
+ "rating": [
+  "Оценка 4.8 Из 5",
+  "Оценка 4.8 Из 5",
+  "Оценка 5 Из 5"
+ ],
+ "categories": [
+  "Супермаркет",
+  "Гипермаркет"
+ ],
+ "address": [
+  {
+   "t": "Душанбе, ул. Дустии халкхо, 47",
+   "h": "/maps/10318/dushanbe/house/YkEYfgdhSEAOQF1ifXl2dX1mYg==/"
+  },
+  {
+   "t": "Душанбе, ул. Дустии халкхо, 47",
+   "h": null
+  },
+  {
+   "t": "Душанбе, ул. Дустии халкхо, 47",
+   "h": "/maps/10318/dushanbe/house/YkEYfgdhSEAOQF1ifXl2dX1mYg==/"
+  },
+  {
+   "t": "Маршрут",
+   "h": null
+  }
+ ],
+ "phones": [
+  {
+   "t": "+992 98 055 77 99",
+   "h": null
+  },
+  {
+   "t": "+992 98 055 77 99 Показать телефон",
+   "h": null
+  },
+  {
+   "t": "+992 98 055 77 99 Показать телефон",
+   "h": null
+  }
+ ],
+ "msgLinks": [
+  {
+   "t": "",
+   "h": "https://www.facebook.com/103000451498558",
+   "c": "button _view_secondary-gray _ui _size_medium _link",
+   "ownOrg": 1
+  },
+  {
+   "t": "",
+   "h": "https://vk.com/yandex.maps",
+   "c": "card-social-links-view__link",
+   "ownOrg": 0
+  },
+  {
+   "t": "",
+   "h": "https://t.me/mapsyandex",
+   "c": "card-social-links-view__link",
+   "ownOrg": 0
+  }
+ ],
+ "apps": [],
+ "extLinks": [
+  {
+   "t": "bi1.tj",
+   "h": "http://bi1.tj/"
+  }
+ ],
+ "social": [
+  {
+   "t": "",
+   "h": "https://www.facebook.com/103000451498558",
+   "c": "button _view_secondary-gray _ui _size_medium _link"
+  },
+  {
+   "t": "",
+   "h": "https://vk.com/yandex.maps",
+   "c": "card-social-links-view__link"
+  },
+  {
+   "t": "",
+   "h": "https://t.me/mapsyandex",
+   "c": "card-social-links-view__link"
+  },
+  {
+   "t": "",
+   "h": "https://zen.yandex.ru/yandexmaps",
+   "c": "card-social-links-view__link"
+  }
+ ],
+ "btns": [],
+ "emails": [],
+ "contactBlock": [
+  "Адрес Душанбе, ул. Дустии халкхо, 47 Маршрут",
+  "Адрес",
+  "",
+  "Душанбе, ул. Дустии халкхо, 47",
+  "Душанбе, ул. Дустии халкхо, 47",
+  "Маршрут",
+  "Маршрут",
+  "Контакты +992 98 055 77 99 Показать телефон bi1.tj",
+  "Контакты",
+  "",
+  "",
+  "",
+  "",
+  "Время работы Открыто до 22:00 График",
+  "Время работы",
+  ""
+ ],
+ "hours": [],
+ "list": {
+  "name": "Би1",
+  "city": "dushanbe",
+  "rating": 4.8,
+  "reviews": 603,
+  "lon": "68.801204",
+  "lat": "38.574076",
+  "src": "Ашан+супермаркет+магазин+интернет-магазин",
+  "priority": true
+ }
+}

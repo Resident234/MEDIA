@@ -1,0 +1,110 @@
+{
+ "url": "https://yandex.kz/maps/org/bozori_farovon/98674993994/?ll=68.735510%2C38.571303&z=11",
+ "title": "Бозори Фаровон, рынок, Душанбе, район Сино — Яндекс Карты",
+ "h1": "Бозори Фаровон",
+ "coords": [
+  "68.734819,38.555878",
+  "68.734819,38.555878"
+ ],
+ "rating": [
+  "Оценка 4.8 Из 5",
+  "41 оценка",
+  "Оценка 4.8 Из 5"
+ ],
+ "categories": [
+  "Рынок"
+ ],
+ "address": [
+  {
+   "t": "Душанбе, район Сино",
+   "h": "/maps/10318/dushanbe/geo/4241375249/"
+  },
+  {
+   "t": "Душанбе, район Сино",
+   "h": null
+  },
+  {
+   "t": "Душанбе, район Сино",
+   "h": "/maps/10318/dushanbe/geo/4241375249/"
+  },
+  {
+   "t": "Маршрут",
+   "h": null
+  }
+ ],
+ "phones": [
+  {
+   "t": "+992 93 785 91 91",
+   "h": null
+  },
+  {
+   "t": "+992 93 785 91 91 Показать телефон",
+   "h": null
+  },
+  {
+   "t": "+992 93 785 91 91 Показать телефон",
+   "h": null
+  }
+ ],
+ "msgLinks": [
+  {
+   "t": "",
+   "h": "https://vk.com/yandex.maps",
+   "c": "card-social-links-view__link",
+   "ownOrg": 0
+  },
+  {
+   "t": "",
+   "h": "https://t.me/mapsyandex",
+   "c": "card-social-links-view__link",
+   "ownOrg": 0
+  }
+ ],
+ "apps": [],
+ "extLinks": [],
+ "social": [
+  {
+   "t": "",
+   "h": "https://vk.com/yandex.maps",
+   "c": "card-social-links-view__link"
+  },
+  {
+   "t": "",
+   "h": "https://t.me/mapsyandex",
+   "c": "card-social-links-view__link"
+  },
+  {
+   "t": "",
+   "h": "https://zen.yandex.ru/yandexmaps",
+   "c": "card-social-links-view__link"
+  }
+ ],
+ "btns": [],
+ "emails": [],
+ "contactBlock": [
+  "Адрес Душанбе, район Сино Маршрут",
+  "Адрес",
+  "",
+  "Душанбе, район Сино",
+  "Душанбе, район Сино",
+  "Маршрут",
+  "Маршрут",
+  "Контакты +992 93 785 91 91 Показать телефон",
+  "Контакты",
+  "",
+  "Время работы График работы не указан Добавить",
+  "Время работы",
+  ""
+ ],
+ "hours": [],
+ "list": {
+  "name": "Бозори Фаровон",
+  "city": "dushanbe",
+  "rating": 4.8,
+  "reviews": 41,
+  "lon": "68.734819",
+  "lat": "38.555878",
+  "src": "базар",
+  "priority": true
+ }
+}

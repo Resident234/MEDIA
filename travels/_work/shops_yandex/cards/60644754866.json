@@ -1,0 +1,99 @@
+{
+ "url": "https://yandex.kz/maps/org/mokhi_nav/60644754866/?ll=68.751617%2C38.559699&z=13",
+ "title": "Мохи нав, торговый центр, Душанбе, просп. Саади Шерози, 45 — Яндекс Карты",
+ "h1": "Мохи нав",
+ "coords": [
+  "68.751617,38.559699",
+  "68.751617,38.559699"
+ ],
+ "rating": [
+  "Оценка 4.5 Из 5",
+  "21 оценка",
+  "Оценка 4.5 Из 5"
+ ],
+ "categories": [
+  "Торговый центр"
+ ],
+ "address": [
+  {
+   "t": "Душанбе, просп. Саади Шерози, 45",
+   "h": "/maps/10318/dushanbe/house/YkEYcQJhTEwHQF1ifXl0eHpqbA==/"
+  },
+  {
+   "t": "Душанбе, просп. Саади Шерози, 45",
+   "h": null
+  },
+  {
+   "t": "Душанбе, просп. Саади Шерози, 45",
+   "h": "/maps/10318/dushanbe/house/YkEYcQJhTEwHQF1ifXl0eHpqbA==/"
+  },
+  {
+   "t": "Показать входыМаршрут",
+   "h": null
+  }
+ ],
+ "phones": [],
+ "msgLinks": [
+  {
+   "t": "",
+   "h": "https://vk.com/yandex.maps",
+   "c": "card-social-links-view__link",
+   "ownOrg": 0
+  },
+  {
+   "t": "",
+   "h": "https://t.me/mapsyandex",
+   "c": "card-social-links-view__link",
+   "ownOrg": 0
+  }
+ ],
+ "apps": [],
+ "extLinks": [],
+ "social": [
+  {
+   "t": "",
+   "h": "https://vk.com/yandex.maps",
+   "c": "card-social-links-view__link"
+  },
+  {
+   "t": "",
+   "h": "https://t.me/mapsyandex",
+   "c": "card-social-links-view__link"
+  },
+  {
+   "t": "",
+   "h": "https://zen.yandex.ru/yandexmaps",
+   "c": "card-social-links-view__link"
+  }
+ ],
+ "btns": [],
+ "emails": [],
+ "contactBlock": [
+  "Адрес Душанбе, просп. Саади Шерози, 45 Показать входыМаршрут",
+  "Адрес",
+  "",
+  "Душанбе, просп. Саади Шерози, 45",
+  "Душанбе, просп. Саади Шерози, 45",
+  "Показать входыМаршрут",
+  "Показать входы",
+  "",
+  "Маршрут",
+  "Контакты Телефон не указан Добавить",
+  "Контакты",
+  "",
+  "Время работы График работы не указан Добавить",
+  "Время работы",
+  ""
+ ],
+ "hours": [],
+ "list": {
+  "name": "Мохи нав",
+  "city": "dushanbe",
+  "rating": 4.5,
+  "reviews": 21,
+  "lon": "68.751617",
+  "lat": "38.559699",
+  "src": "торговый центр",
+  "priority": true
+ }
+}

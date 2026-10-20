@@ -1,0 +1,54 @@
+{
+ "id": "70000001101445485",
+ "name": "Dorob Gym, толори варзишӣ",
+ "rating": 5.0,
+ "review_count": 3,
+ "address": null,
+ "district": "Шоҳмансур",
+ "city_alias": "dushanbe",
+ "lon": 68.794221,
+ "lat": 38.570999,
+ "rubric_ids": [
+  "267",
+  "268"
+ ],
+ "rubric_names": [
+  "Толорҳои варзишӣ",
+  "Фитнес-клубҳо"
+ ],
+ "reviews_raw": {
+  "general_rating": 5,
+  "general_review_count": 3,
+  "general_review_count_with_stars": 7,
+  "is_reviewable": false,
+  "is_reviewable_on_flamp": true,
+  "items": [
+   {
+    "is_reviewable": true,
+    "tag": "2gis_reviews"
+   }
+  ],
+  "org_rating": 4.8,
+  "org_review_count": 6,
+  "org_review_count_with_stars": 14
+ },
+ "url_2gis": "https://2gis.tj/dushanbe/firm/70000001101445485",
+ "passes": [
+  "rubric:267",
+  "rubric:268",
+  "query:Фитнес",
+  "query:Тренажерный зал"
+ ],
+ "address_comment": "ошёнаи: 2",
+ "rating_field": "general_rating",
+ "general_rating": 5,
+ "org_rating": 4.8,
+ "work_time": null,
+ "phones": null,
+ "contacts": null,
+ "contact_groups": null,
+ "urls": null,
+ "name_ru": "Dorob Gym, толори варзишӣ",
+ "address_ru": null,
+ "district_ru": "Шохмансур район"
+}

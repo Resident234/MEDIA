@@ -1,0 +1,97 @@
+{
+ "url": "https://yandex.kz/maps/org/anisa/48658586135/?ll=68.787738%2C38.570756&z=16",
+ "title": "Аниса, торговый центр, Душанбе, ул. Бухоро, 50Б — Яндекс Карты",
+ "h1": "Аниса",
+ "coords": [
+  "68.787768,38.570721",
+  "68.787768,38.570721"
+ ],
+ "rating": [
+  "Оценка 4 Из 5",
+  "Оценка 4 Из 5",
+  "Оценка 5 Из 5"
+ ],
+ "categories": [
+  "Торговый центр"
+ ],
+ "address": [
+  {
+   "t": "Душанбе, ул. Бухоро, 50Б",
+   "h": "/maps/10318/dushanbe/house/YkEYcQ9nTkYPQF1ifXl2cXtmYg==/"
+  },
+  {
+   "t": "Душанбе, ул. Бухоро, 50Б",
+   "h": null
+  },
+  {
+   "t": "Душанбе, ул. Бухоро, 50Б",
+   "h": "/maps/10318/dushanbe/house/YkEYcQ9nTkYPQF1ifXl2cXtmYg==/"
+  },
+  {
+   "t": "Маршрут",
+   "h": null
+  }
+ ],
+ "phones": [],
+ "msgLinks": [
+  {
+   "t": "",
+   "h": "https://vk.com/yandex.maps",
+   "c": "card-social-links-view__link",
+   "ownOrg": 0
+  },
+  {
+   "t": "",
+   "h": "https://t.me/mapsyandex",
+   "c": "card-social-links-view__link",
+   "ownOrg": 0
+  }
+ ],
+ "apps": [],
+ "extLinks": [],
+ "social": [
+  {
+   "t": "",
+   "h": "https://vk.com/yandex.maps",
+   "c": "card-social-links-view__link"
+  },
+  {
+   "t": "",
+   "h": "https://t.me/mapsyandex",
+   "c": "card-social-links-view__link"
+  },
+  {
+   "t": "",
+   "h": "https://zen.yandex.ru/yandexmaps",
+   "c": "card-social-links-view__link"
+  }
+ ],
+ "btns": [],
+ "emails": [],
+ "contactBlock": [
+  "Адрес Душанбе, ул. Бухоро, 50Б Маршрут",
+  "Адрес",
+  "",
+  "Душанбе, ул. Бухоро, 50Б",
+  "Душанбе, ул. Бухоро, 50Б",
+  "Маршрут",
+  "Маршрут",
+  "Контакты Телефон не указан Добавить",
+  "Контакты",
+  "",
+  "Время работы График работы не указан Добавить",
+  "Время работы",
+  ""
+ ],
+ "hours": [],
+ "list": {
+  "name": "Аниса",
+  "city": "dushanbe",
+  "rating": 4.0,
+  "reviews": 27,
+  "lon": "68.787768",
+  "lat": "38.570721",
+  "src": "торговый центр",
+  "priority": true
+ }
+}

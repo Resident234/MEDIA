@@ -1,0 +1,96 @@
+{
+ "url": "https://yandex.kz/maps/org/kitayskiy_rynok/116877541487/?ll=68.759181%2C38.561292&z=16",
+ "title": "Китайский рынок, рынок, Душанбе, 12-й микрорайон — Яндекс Карты",
+ "h1": "Китайский рынок",
+ "coords": [
+  "68.756525,38.560512",
+  "68.756525,38.560512"
+ ],
+ "rating": [
+  "Оценка 3 Из 5",
+  "Оценка 3 Из 5"
+ ],
+ "categories": [
+  "Рынок"
+ ],
+ "address": [
+  {
+   "t": "Душанбе, 12-й микрорайон",
+   "h": "/maps/10318/dushanbe/geo/1508574181/"
+  },
+  {
+   "t": "Душанбе, 12-й микрорайон",
+   "h": null
+  },
+  {
+   "t": "Душанбе, 12-й микрорайон",
+   "h": "/maps/10318/dushanbe/geo/1508574181/"
+  },
+  {
+   "t": "Маршрут",
+   "h": null
+  }
+ ],
+ "phones": [],
+ "msgLinks": [
+  {
+   "t": "",
+   "h": "https://vk.com/yandex.maps",
+   "c": "card-social-links-view__link",
+   "ownOrg": 0
+  },
+  {
+   "t": "",
+   "h": "https://t.me/mapsyandex",
+   "c": "card-social-links-view__link",
+   "ownOrg": 0
+  }
+ ],
+ "apps": [],
+ "extLinks": [],
+ "social": [
+  {
+   "t": "",
+   "h": "https://vk.com/yandex.maps",
+   "c": "card-social-links-view__link"
+  },
+  {
+   "t": "",
+   "h": "https://t.me/mapsyandex",
+   "c": "card-social-links-view__link"
+  },
+  {
+   "t": "",
+   "h": "https://zen.yandex.ru/yandexmaps",
+   "c": "card-social-links-view__link"
+  }
+ ],
+ "btns": [],
+ "emails": [],
+ "contactBlock": [
+  "Адрес Душанбе, 12-й микрорайон Маршрут",
+  "Адрес",
+  "",
+  "Душанбе, 12-й микрорайон",
+  "Душанбе, 12-й микрорайон",
+  "Маршрут",
+  "Маршрут",
+  "Контакты Телефон не указан Добавить",
+  "Контакты",
+  "",
+  "Время работы График работы не указан Добавить",
+  "Время работы",
+  ""
+ ],
+ "hours": [],
+ "list": {
+  "name": "Китайский рынок",
+  "city": "dushanbe",
+  "rating": 3.0,
+  "reviews": 15,
+  "lon": "68.756525",
+  "lat": "38.560512",
+  "src": "базар+рынок",
+  "priority": true
+ }
+}

@@ -1,0 +1,143 @@
+{
+ "url": "https://yandex.kz/maps/org/siyoma_moll/221793724068/?ll=68.752865%2C38.519313&z=16",
+ "title": "Сиёма Молл, торговый центр, Душанбе, ул. Фирдоуси, 8 — Яндекс Карты",
+ "h1": "Сиёма Молл",
+ "coords": [
+  "68.752866,38.519312",
+  "68.752866,38.519312"
+ ],
+ "rating": [
+  "Оценка 4.8 Из 5",
+  "Оценка 4.8 Из 5",
+  "Оценка 1 Из 5"
+ ],
+ "categories": [
+  "Торговый центр",
+  "Развлекательный центр"
+ ],
+ "address": [
+  {
+   "t": "Душанбе, ул. Фирдоуси, 8",
+   "h": "/maps/10318/dushanbe/house/YkEYcQJiQUMBQF1ifXlweH9iZg==/"
+  },
+  {
+   "t": "Душанбе, ул. Фирдоуси, 8",
+   "h": null
+  },
+  {
+   "t": "Душанбе, ул. Фирдоуси, 8",
+   "h": "/maps/10318/dushanbe/house/YkEYcQJiQUMBQF1ifXlweH9iZg==/"
+  },
+  {
+   "t": "Маршрут",
+   "h": null
+  }
+ ],
+ "phones": [
+  {
+   "t": "+992 44 652 66 66",
+   "h": null
+  },
+  {
+   "t": "+992 44 652 66 66 Показать телефон",
+   "h": null
+  },
+  {
+   "t": "+992 44 652 66 66 Показать телефон",
+   "h": null
+  }
+ ],
+ "msgLinks": [
+  {
+   "t": "",
+   "h": "https://www.facebook.com/106241331898733",
+   "c": "button _view_secondary-gray _ui _size_medium _link",
+   "ownOrg": 1
+  },
+  {
+   "t": "",
+   "h": "https://www.instagram.com/siyomamall.tj/",
+   "c": "button _view_secondary-gray _ui _size_medium _link",
+   "ownOrg": 1
+  },
+  {
+   "t": "",
+   "h": "https://vk.com/yandex.maps",
+   "c": "card-social-links-view__link",
+   "ownOrg": 0
+  },
+  {
+   "t": "",
+   "h": "https://t.me/mapsyandex",
+   "c": "card-social-links-view__link",
+   "ownOrg": 0
+  }
+ ],
+ "apps": [],
+ "extLinks": [
+  {
+   "t": "siyomamall.tj",
+   "h": "https://siyomamall.tj/"
+  }
+ ],
+ "social": [
+  {
+   "t": "",
+   "h": "https://www.facebook.com/106241331898733",
+   "c": "button _view_secondary-gray _ui _size_medium _link"
+  },
+  {
+   "t": "",
+   "h": "https://www.instagram.com/siyomamall.tj/",
+   "c": "button _view_secondary-gray _ui _size_medium _link"
+  },
+  {
+   "t": "",
+   "h": "https://vk.com/yandex.maps",
+   "c": "card-social-links-view__link"
+  },
+  {
+   "t": "",
+   "h": "https://t.me/mapsyandex",
+   "c": "card-social-links-view__link"
+  },
+  {
+   "t": "",
+   "h": "https://zen.yandex.ru/yandexmaps",
+   "c": "card-social-links-view__link"
+  }
+ ],
+ "btns": [],
+ "emails": [],
+ "contactBlock": [
+  "Адрес Душанбе, ул. Фирдоуси, 8 Маршрут",
+  "Адрес",
+  "",
+  "Душанбе, ул. Фирдоуси, 8",
+  "Душанбе, ул. Фирдоуси, 8",
+  "Маршрут",
+  "Маршрут",
+  "Контакты +992 44 652 66 66 Показать телефон siyomamall.tj",
+  "Контакты",
+  "",
+  "",
+  "",
+  "",
+  "",
+  "",
+  "Время работы Открыто до 22:00 График",
+  "Время работы",
+  ""
+ ],
+ "hours": [],
+ "list": {
+  "name": "Сиёма Молл",
+  "city": "dushanbe",
+  "rating": 4.8,
+  "reviews": 158,
+  "lon": "68.752866",
+  "lat": "38.519312",
+  "src": "торговый центр",
+  "priority": true
+ }
+}

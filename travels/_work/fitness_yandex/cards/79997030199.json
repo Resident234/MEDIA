@@ -1,0 +1,94 @@
+{
+ "url": "https://yandex.kz/maps/org/aura_gym/79997030199/?ll=68.735806%2C38.512763&z=16",
+ "title": "Aura Gym, фитнес-клуб, Душанбе, ул. Борбада, 93/10 — Яндекс Карты",
+ "h1": "Aura Gym",
+ "coords": [
+  "68.735722,38.512727",
+  "68.735722,38.512727"
+ ],
+ "rating": [
+  "Оценка 4.3 Из 5",
+  "Оценка 4.3 Из 5",
+  "Оценка 5 Из 5"
+ ],
+ "categories": [
+  "Фитнес-клуб",
+  "Спортивный, тренажёрный зал"
+ ],
+ "address": [
+  {
+   "t": "Душанбе, ул. Борбада, 93/10",
+   "h": "/maps/10318/dushanbe/house/YkEYcQRlQUUAQF1ifXlwc3tlZw==/"
+  },
+  {
+   "t": "Душанбе, ул. Борбада, 93/10",
+   "h": null
+  },
+  {
+   "t": "Душанбе, ул. Борбада, 93/10",
+   "h": "/maps/10318/dushanbe/house/YkEYcQRlQUUAQF1ifXlwc3tlZw==/"
+  },
+  {
+   "t": "Маршрут",
+   "h": null
+  }
+ ],
+ "phones": [],
+ "msgLinks": [
+  {
+   "t": "",
+   "h": "https://vk.com/yandex.maps",
+   "c": "card-social-links-view__link",
+   "ownOrg": 0
+  },
+  {
+   "t": "",
+   "h": "https://t.me/mapsyandex",
+   "c": "card-social-links-view__link",
+   "ownOrg": 0
+  }
+ ],
+ "extLinks": [],
+ "social": [
+  {
+   "t": "",
+   "h": "https://vk.com/yandex.maps",
+   "c": "card-social-links-view__link"
+  },
+  {
+   "t": "",
+   "h": "https://t.me/mapsyandex",
+   "c": "card-social-links-view__link"
+  },
+  {
+   "t": "",
+   "h": "https://zen.yandex.ru/yandexmaps",
+   "c": "card-social-links-view__link"
+  }
+ ],
+ "btns": [],
+ "emails": [],
+ "contactBlock": [
+  "Адрес Душанбе, ул. Борбада, 93/10 Маршрут",
+  "Адрес",
+  "",
+  "Душанбе, ул. Борбада, 93/10",
+  "Душанбе, ул. Борбада, 93/10",
+  "Маршрут",
+  "Маршрут",
+  "Контакты Телефон не указан Добавить",
+  "Контакты",
+  "",
+  "Время работы Открыто до 22:00 График",
+  "Время работы",
+  ""
+ ],
+ "hours": [],
+ "list": {
+  "name": "Aura Gym",
+  "rating": 4.3,
+  "reviews": 5,
+  "lon": "68.735722",
+  "lat": "38.512727"
+ }
+}

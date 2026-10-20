@@ -1,0 +1,414 @@
+{
+ "faberlic.com": {
+  "cards": 65,
+  "checked": "2026-10-19 23:34",
+  "status": 200,
+  "final": "https://faberlic.com/ru/ru/",
+  "apps": [],
+  "own": []
+ },
+ "laklakmarket.tj": {
+  "cards": 39,
+  "checked": "2026-10-19 23:34",
+  "status": 200,
+  "final": "https://laklakmarket.tj/",
+  "apps": [
+   "https://apps.apple.com/us/app/laklak-online-shopping-app/id6737066055",
+   "https://play.google.com/store/apps/details?id=tj.laklakmarket.ecommerce.app"
+  ],
+  "own": [
+   "https://apps.apple.com/us/app/laklak-online-shopping-app/id6737066055",
+   "https://play.google.com/store/apps/details?id=tj.laklakmarket.ecommerce.app"
+  ]
+ },
+ "wildberries.tj": {
+  "cards": 20,
+  "checked": "2026-10-19 23:34",
+  "status": 498,
+  "final": "https://www.wildberries.tj/",
+  "apps": [],
+  "own": []
+ },
+ "evar.tj": {
+  "cards": 19,
+  "checked": "2026-10-19 23:34",
+  "status": 503,
+  "final": "https://evar.tj/",
+  "apps": [],
+  "own": []
+ },
+ "paykar.tj": {
+  "cards": 15,
+  "checked": "2026-10-19 23:34",
+  "status": 200,
+  "final": "https://paykar.tj/",
+  "apps": [
+   "https://play.google.com/store/apps/details?id=tj.paykar.shop&amp;hl=ru",
+   "https://play.google.com/store/apps/details?id=tj.paykar.shop\\u0026hl=ru\\"
+  ],
+  "own": [
+   "https://play.google.com/store/apps/details?id=tj.paykar.shop&amp;hl=ru",
+   "https://play.google.com/store/apps/details?id=tj.paykar.shop\\u0026hl=ru\\"
+  ]
+ },
+ "daryo.tj": {
+  "cards": 11,
+  "checked": "2026-10-19 23:34",
+  "status": 200,
+  "final": "https://www.daryo.tj/",
+  "apps": [],
+  "own": []
+ },
+ "schiever.tj": {
+  "cards": 10,
+  "checked": "2026-10-19 23:34",
+  "status": "error",
+  "error": "HTTPSConnectionPool(host='schiever.tj', port=443): Max retries exceeded with url: / (Caused by NewConnectionError('<urll | HTTPConnectionPool(host='schiever.tj', port=80): Max retries exceeded with ur",
+  "apps": [],
+  "own": []
+ },
+ "kfc.tj": {
+  "cards": 8,
+  "checked": "2026-10-19 23:35",
+  "status": 200,
+  "final": "https://www.kfc.tj/",
+  "apps": [],
+  "own": []
+ },
+ "janapost.tj": {
+  "cards": 7,
+  "checked": "2026-10-19 23:35",
+  "status": 200,
+  "final": "https://janapost.tj/ru/home",
+  "apps": [
+   "https://play.google.com/store/apps/details?id=com.aitan.inexport&hl=kk&gl=US",
+   "https://apps.apple.com/us/app/ja%C5%84a-post/id1460570242"
+  ],
+  "own": [
+   "https://play.google.com/store/apps/details?id=com.aitan.inexport&hl=kk&gl=US",
+   "https://apps.apple.com/us/app/ja%C5%84a-post/id1460570242"
+  ]
+ },
+ "coffeemoose.tj": {
+  "cards": 5,
+  "checked": "2026-10-19 23:35",
+  "status": 200,
+  "final": "https://coffeemoose.tj/",
+  "apps": [],
+  "own": []
+ },
+ "babilon-t.com": {
+  "cards": 3,
+  "checked": "2026-10-19 23:35",
+  "status": 200,
+  "final": "https://babilon-t.com/",
+  "apps": [],
+  "own": []
+ },
+ "sa-net.tj": {
+  "cards": 3,
+  "checked": "2026-10-19 23:35",
+  "status": 200,
+  "final": "http://sa-net.tj/",
+  "apps": [],
+  "own": []
+ },
+ "dodopizza.tj": {
+  "cards": 3,
+  "checked": "2026-10-19 23:35",
+  "status": 403,
+  "final": "https://dodopizza.tj/",
+  "apps": [],
+  "own": []
+ },
+ "rukhom.tajnet.tj": {
+  "cards": 2,
+  "checked": "2026-10-19 23:35",
+  "status": 404,
+  "final": "http://rukhom.tajnet.tj/",
+  "apps": [],
+  "own": []
+ },
+ "tojiktelecom.tj": {
+  "cards": 2,
+  "checked": "2026-10-19 23:36",
+  "status": "error",
+  "error": "HTTPSConnectionPool(host='tojiktelecom.tj', port=443): Max retries exceeded with url: / (Caused by NewConnectionError('< | HTTPConnectionPool(host='tojiktelecom.tj', port=80): Max retries exceeded wit",
+  "apps": [],
+  "own": []
+ },
+ "amid24.tj": {
+  "cards": 2,
+  "checked": "2026-10-19 23:36",
+  "status": 200,
+  "final": "http://amid24.tj/client/",
+  "apps": [],
+  "own": []
+ },
+ "8mart.tj": {
+  "cards": 1,
+  "checked": "2026-10-19 23:36",
+  "status": 200,
+  "final": "https://8mart.tj/",
+  "apps": [],
+  "own": []
+ },
+ "bek-express.com": {
+  "cards": 1,
+  "checked": "2026-10-19 23:36",
+  "status": 200,
+  "final": "https://bek-express.com/",
+  "apps": [],
+  "own": []
+ },
+ "cccpexpress.com": {
+  "cards": 1,
+  "checked": "2026-10-19 23:36",
+  "status": "error",
+  "error": "HTTPSConnectionPool(host='cccpexpress.com', port=443): Max retries exceeded with url: / (Caused by NewConnectionError('< | HTTPConnectionPool(host='cccpexpress.com', port=80): Max retries exceeded wit",
+  "apps": [],
+  "own": []
+ },
+ "faberlic.ru": {
+  "cards": 1,
+  "checked": "2026-10-19 23:36",
+  "status": 200,
+  "final": "https://faberlic.com/ru/ru/",
+  "apps": [],
+  "own": []
+ },
+ "litefinance.com": {
+  "cards": 1,
+  "checked": "2026-10-19 23:36",
+  "status": 200,
+  "final": "https://www.litefinance.org/",
+  "apps": [
+   "https://apps.apple.com/US/app/id1661254805?mt=8",
+   "https://play.google.com/store/apps/details?id=com.litefinance.cabinet&pid=site"
+  ],
+  "own": [
+   "https://apps.apple.com/US/app/id1661254805?mt=8",
+   "https://play.google.com/store/apps/details?id=com.litefinance.cabinet&pid=site"
+  ]
+ },
+ "nets.tj": {
+  "cards": 1,
+  "checked": "2026-10-19 23:36",
+  "status": 200,
+  "final": "https://nets.tj/",
+  "apps": [],
+  "own": []
+ },
+ "oshno.tj": {
+  "cards": 1,
+  "checked": "2026-10-19 23:37",
+  "status": "error",
+  "error": "HTTPSConnectionPool(host='oshno.tj', port=443): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3 | HTTPConnectionPool(host='oshno.tj', port=80): Max retries exceeded with url: ",
+  "apps": [],
+  "own": []
+ },
+ "paydo.tj": {
+  "cards": 1,
+  "checked": "2026-10-19 23:37",
+  "status": 200,
+  "final": "https://paydo.tj/ru",
+  "apps": [
+   "https://apps.apple.com/tj/app/paydo/id6741800274",
+   "https://play.google.com/store/apps/details?id=com.app.paydo"
+  ],
+  "own": [
+   "https://apps.apple.com/tj/app/paydo/id6741800274",
+   "https://play.google.com/store/apps/details?id=com.app.paydo"
+  ]
+ },
+ "prinesi.tj": {
+  "cards": 1,
+  "checked": "2026-10-19 23:37",
+  "status": 200,
+  "final": "https://prinesi.tj/ru",
+  "apps": [
+   "https://play.google.com/store/apps/details?id=com.prinesi.customer&amp;pcampaignid=web_share",
+   "https://apps.apple.com/tj/app/prinesi-tj/id6747112083"
+  ],
+  "own": [
+   "https://play.google.com/store/apps/details?id=com.prinesi.customer&amp;pcampaignid=web_share",
+   "https://apps.apple.com/tj/app/prinesi-tj/id6747112083"
+  ]
+ },
+ "rudakiplaza.com": {
+  "cards": 1,
+  "checked": "2026-10-19 23:37",
+  "status": "error",
+  "error": "HTTPSConnectionPool(host='rudakiplaza.com', port=443): Max retries exceeded with url: / (Caused by NewConnectionError('< | HTTPConnectionPool(host='rudakiplaza.com', port=80): Max retries exceeded wit",
+  "apps": [],
+  "own": []
+ },
+ "sesamt.com": {
+  "cards": 1,
+  "checked": "2026-10-19 23:38",
+  "status": 200,
+  "final": "https://sesamt.com/",
+  "apps": [],
+  "own": []
+ },
+ "tojnet.tj": {
+  "cards": 1,
+  "checked": "2026-10-19 23:38",
+  "status": "error",
+  "error": "HTTPSConnectionPool(host='tojnet.tj', port=443): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib | HTTPConnectionPool(host='tojnet.tj', port=80): Max retries exceeded with url:",
+  "apps": [],
+  "own": []
+ },
+ "eco.hasib.tj": {
+  "cards": 1,
+  "checked": "2026-10-19 23:39",
+  "status": "error",
+  "error": "HTTPSConnectionPool(host='eco.hasib.tj', port=443): Max retries exceeded with url: / (Caused by NewConnectionError('<url | HTTPConnectionPool(host='eco.hasib.tj', port=80): Max retries exceeded with u",
+  "apps": [],
+  "own": []
+ },
+ "jobs.evar.tj": {
+  "cards": 1,
+  "checked": "2026-10-19 23:39",
+  "status": 200,
+  "final": "https://jobs.evar.tj/",
+  "apps": [],
+  "own": []
+ },
+ "test.dastras.tj": {
+  "cards": 1,
+  "checked": "2026-10-19 23:39",
+  "status": "error",
+  "error": "HTTPSConnectionPool(host='test.dastras.tj', port=443): Max retries exceeded with url: / (Caused by NewConnectionError('< | HTTPConnectionPool(host='test.dastras.tj', port=80): Max retries exceeded wit",
+  "apps": [],
+  "own": []
+ },
+ "dushanbemall.tj": {
+  "cards": 1,
+  "checked": "2026-10-19 23:39",
+  "status": "error",
+  "error": "HTTPSConnectionPool(host='dushanbemall.tj', port=443): Max retries exceeded with url: / (Caused by NewConnectionError('< | HTTPConnectionPool(host='dushanbemall.tj', port=80): Max retries exceeded wit",
+  "apps": [],
+  "own": []
+ },
+ "inrercom.tj": {
+  "cards": 1,
+  "checked": "2026-10-19 23:40",
+  "status": "error",
+  "error": "HTTPSConnectionPool(host='inrercom.tj', port=443): Max retries exceeded with url: / (Caused by NewConnectionError('<urll | HTTPConnectionPool(host='inrercom.tj', port=80): Max retries exceeded with ur",
+  "apps": [],
+  "own": []
+ },
+ "olinas.tj": {
+  "cards": 1,
+  "checked": "2026-10-19 23:40",
+  "status": "error",
+  "error": "HTTPSConnectionPool(host='olinas.tj', port=443): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib | HTTPConnectionPool(host='olinas.tj', port=80): Max retries exceeded with url:",
+  "apps": [],
+  "own": []
+ },
+ "siyomamall.tj": {
+  "cards": 1,
+  "checked": "2026-10-19 23:40",
+  "status": 200,
+  "final": "https://siyomamall.tj/",
+  "apps": [],
+  "own": []
+ },
+ "tojikzamin.blogspot.com": {
+  "cards": 1,
+  "checked": "2026-10-19 23:40",
+  "status": "error",
+  "error": "('Connection aborted.', OSError(0, 'Error')) | ('Connection aborted.', OSError(0, 'Error'))",
+  "apps": [],
+  "own": []
+ },
+ "burgerchili.tj": {
+  "cards": 1,
+  "checked": "2026-10-19 23:40",
+  "status": "error",
+  "error": "HTTPSConnectionPool(host='burgerchili.tj', port=443): Max retries exceeded with url: / (Caused by NewConnectionError('<u | HTTPConnectionPool(host='burgerchili.tj', port=80): Max retries exceeded with",
+  "apps": [],
+  "own": []
+ },
+ "dedi.tajikistan": {
+  "cards": 1,
+  "checked": "2026-10-19 23:40",
+  "status": "error",
+  "error": "HTTPSConnectionPool(host='dedi.tajikistan', port=443): Max retries exceeded with url: / (Caused by NewConnectionError('< | HTTPConnectionPool(host='dedi.tajikistan', port=80): Max retries exceeded wit",
+  "apps": [],
+  "own": []
+ },
+ "evafood.app": {
+  "cards": 1,
+  "checked": "2026-10-19 23:40",
+  "status": 522,
+  "final": "https://evafood.app/",
+  "apps": [],
+  "own": []
+ },
+ "kfcfeedbacktjk.com": {
+  "cards": 1,
+  "checked": "2026-10-19 23:41",
+  "status": "error",
+  "error": "HTTPSConnectionPool(host='kfcfeedbacktjk.com', port=443): Max retries exceeded with url: / (Caused by NewConnectionError | HTTPConnectionPool(host='kfcfeedbacktjk.com', port=80): Max retries exceeded ",
+  "apps": [],
+  "own": []
+ },
+ "mcafe.tj": {
+  "cards": 1,
+  "checked": "2026-10-19 23:41",
+  "status": "error",
+  "error": "HTTPSConnectionPool(host='mcafe.tj', port=443): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3 | HTTPConnectionPool(host='mcafe.tj', port=80): Max retries exceeded with url: ",
+  "apps": [],
+  "own": []
+ },
+ "oddmenu.com": {
+  "cards": 1,
+  "checked": "2026-10-19 23:41",
+  "status": 200,
+  "final": "https://oddmenu.com/",
+  "apps": [],
+  "own": []
+ },
+ "pizzamania.tj": {
+  "cards": 1,
+  "checked": "2026-10-19 23:41",
+  "status": "error",
+  "error": "HTTPSConnectionPool(host='pizzamania.tj', port=443): Max retries exceeded with url: / (Caused by NewConnectionError('<ur | HTTPConnectionPool(host='pizzamania.tj', port=80): Max retries exceeded with ",
+  "apps": [],
+  "own": []
+ },
+ "skafe.tj": {
+  "cards": 1,
+  "checked": "2026-10-19 23:41",
+  "status": "error",
+  "error": "HTTPSConnectionPool(host='skafe.tj', port=443): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3 | HTTPConnectionPool(host='skafe.tj', port=80): Max retries exceeded with url: ",
+  "apps": [],
+  "own": []
+ },
+ "tajiktelecom.tj": {
+  "cards": 1,
+  "checked": "2026-10-19 23:41",
+  "status": 404,
+  "final": "https://tajiktelecom.tj/",
+  "apps": [],
+  "own": []
+ },
+ "megafon.tj": {
+  "cards": 2,
+  "checked": "2026-10-20 00:24",
+  "status": 200,
+  "final": "https://megafon.tj/",
+  "apps": [
+   "https://apps.apple.com/us/app/%D0%BC%D1%84-life/id1242242589",
+   "https://play.google.com/store/apps/details?id=tj.life.mobile.app&hl=ru",
+   "https://appgallery.huawei.com/app/C107534647?sharePrepath=ag&locale=ru_RU&source=appshare&subsource=C107534647&shareTo=org.telegram.messenger&shareFrom=appmarket&shareIds=df04caec8e5b46f89c4302d019d8a8f3_org.telegram.messenger&callType=SHARE"
+  ],
+  "own": [
+   "https://apps.apple.com/us/app/%D0%BC%D1%84-life/id1242242589",
+   "https://play.google.com/store/apps/details?id=tj.life.mobile.app&hl=ru",
+   "https://appgallery.huawei.com/app/C107534647?sharePrepath=ag&locale=ru_RU&source=appshare&subsource=C107534647&shareTo=org.telegram.messenger&shareFrom=appmarket&shareIds=df04caec8e5b46f89c4302d019d8a8f3_org.telegram.messenger&callType=SHARE"
+  ]
+ }
+}

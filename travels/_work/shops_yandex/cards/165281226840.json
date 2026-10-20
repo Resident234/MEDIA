@@ -1,0 +1,95 @@
+{
+ "url": "https://yandex.kz/maps/org/marva/165281226840/?ll=68.721631%2C38.582364&z=16",
+ "title": "Марва, торговый центр, Душанбе, просп. Нусратулло Махсума, 14 — Яндекс Карты",
+ "h1": "Марва",
+ "coords": [
+  "68.721585,38.5824",
+  "68.721585,38.582400"
+ ],
+ "rating": [],
+ "categories": [
+  "Торговый центр",
+  "Продуктовый рынок",
+  "Рынок"
+ ],
+ "address": [
+  {
+   "t": "Душанбе, просп. Нусратулло Махсума, 14",
+   "h": "/maps/10318/dushanbe/house/YkEYcQVhT0YGQF1ifXl5c39lYA==/"
+  },
+  {
+   "t": "Душанбе, просп. Нусратулло Махсума, 14",
+   "h": null
+  },
+  {
+   "t": "Душанбе, просп. Нусратулло Махсума, 14",
+   "h": "/maps/10318/dushanbe/house/YkEYcQVhT0YGQF1ifXl5c39lYA==/"
+  },
+  {
+   "t": "Маршрут",
+   "h": null
+  }
+ ],
+ "phones": [],
+ "msgLinks": [
+  {
+   "t": "",
+   "h": "https://vk.com/yandex.maps",
+   "c": "card-social-links-view__link",
+   "ownOrg": 0
+  },
+  {
+   "t": "",
+   "h": "https://t.me/mapsyandex",
+   "c": "card-social-links-view__link",
+   "ownOrg": 0
+  }
+ ],
+ "apps": [],
+ "extLinks": [],
+ "social": [
+  {
+   "t": "",
+   "h": "https://vk.com/yandex.maps",
+   "c": "card-social-links-view__link"
+  },
+  {
+   "t": "",
+   "h": "https://t.me/mapsyandex",
+   "c": "card-social-links-view__link"
+  },
+  {
+   "t": "",
+   "h": "https://zen.yandex.ru/yandexmaps",
+   "c": "card-social-links-view__link"
+  }
+ ],
+ "btns": [],
+ "emails": [],
+ "contactBlock": [
+  "Адрес Душанбе, просп. Нусратулло Махсума, 14 Маршрут",
+  "Адрес",
+  "",
+  "Душанбе, просп. Нусратулло Махсума, 14",
+  "Душанбе, просп. Нусратулло Махсума, 14",
+  "Маршрут",
+  "Маршрут",
+  "Контакты Телефон не указан Добавить",
+  "Контакты",
+  "",
+  "Время работы Открыто до 19:00 График",
+  "Время работы",
+  ""
+ ],
+ "hours": [],
+ "list": {
+  "name": "Марва",
+  "city": "dushanbe",
+  "rating": null,
+  "reviews": null,
+  "lon": "68.721585",
+  "lat": "38.582400",
+  "src": "базар",
+  "priority": true
+ }
+}

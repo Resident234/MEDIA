@@ -1,0 +1,11 @@
+### bare http=200 len=151
+{"meta":{"api_version":"3.0.21778","code":400,"error":{"message":"Incorrect values of params: 'id'","type":"incorrectParams"},"issue_date":"20261014"}}
+
+### one http=200 len=151
+{"meta":{"api_version":"3.0.21778","code":400,"error":{"message":"Incorrect values of params: 'id'","type":"incorrectParams"},"issue_date":"20261014"}}
+
+### fields_contacts http=200 len=151
+{"meta":{"api_version":"3.0.21778","code":400,"error":{"message":"Incorrect values of params: 'id'","type":"incorrectParams"},"issue_date":"20261014"}}
+
+### array_syntax http=200 len=151
+{"meta":{"api_version":"3.0.21778","code":400,"error":{"message":"Incorrect values of params: 'id'","type":"incorrectParams"},"issue_date":"20261014"}}

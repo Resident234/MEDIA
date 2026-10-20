@@ -1,0 +1,843 @@
+[
+ {
+  "city": "Душанбе",
+  "city_id": "70030076174471798",
+  "matched": "Душанбе",
+  "chain": [
+   "Таджикистан",
+   "Душанбе"
+  ],
+  "chain_ok": true,
+  "verified": true,
+  "center": [
+   68.769311,
+   38.557039
+  ],
+  "totals": {
+   "Фитнес": 89,
+   "Тренажерный зал": 57
+  },
+  "codes": {
+   "Фитнес|city_id": [
+    200,
+    null,
+    89
+   ],
+   "Фитнес|location": [
+    200,
+    null,
+    89
+   ],
+   "Тренажерный зал|city_id": [
+    200,
+    null,
+    57
+   ],
+   "Тренажерный зал|location": [
+    200,
+    null,
+    57
+   ]
+  }
+ },
+ {
+  "city": "Худжанд",
+  "city_id": "70030077021139098",
+  "matched": "Худжанд",
+  "chain": [
+   "Согдийская область"
+  ],
+  "chain_ok": false,
+  "verified": false,
+  "center": [
+   69.61491,
+   40.290743
+  ],
+  "totals": {},
+  "codes": {
+   "Фитнес|city_id": [
+    404,
+    "itemNotFound",
+    null
+   ],
+   "Фитнес|location": [
+    200,
+    null,
+    368
+   ],
+   "Тренажерный зал|city_id": [
+    404,
+    "itemNotFound",
+    null
+   ],
+   "Тренажерный зал|location": [
+    200,
+    null,
+    296
+   ]
+  }
+ },
+ {
+  "city": "Куляб",
+  "city_id": "70030077176523059",
+  "matched": "Куляб",
+  "chain": [
+   "Хатлонская область",
+   "Кулябский район"
+  ],
+  "chain_ok": false,
+  "verified": false,
+  "center": [
+   69.795687,
+   37.908385
+  ],
+  "totals": {},
+  "codes": {
+   "Фитнес|city_id": [
+    404,
+    "itemNotFound",
+    null
+   ],
+   "Фитнес|location": [
+    404,
+    "itemNotFound",
+    null
+   ],
+   "Тренажерный зал|city_id": [
+    404,
+    "itemNotFound",
+    null
+   ],
+   "Тренажерный зал|location": [
+    200,
+    null,
+    206
+   ]
+  }
+ },
+ {
+  "city": "Бохтар",
+  "city_id": "70030077176521498",
+  "matched": "Бохтар",
+  "chain": [
+   "Хатлонская область",
+   "район Кушониён"
+  ],
+  "chain_ok": false,
+  "verified": false,
+  "center": [
+   68.780259,
+   37.83579
+  ],
+  "totals": {},
+  "codes": {
+   "Фитнес|city_id": [
+    404,
+    "itemNotFound",
+    null
+   ],
+   "Фитнес|location": [
+    404,
+    "itemNotFound",
+    null
+   ],
+   "Тренажерный зал|city_id": [
+    404,
+    "itemNotFound",
+    null
+   ],
+   "Тренажерный зал|location": [
+    200,
+    null,
+    209
+   ]
+  }
+ },
+ {
+  "city": "Истаравшан",
+  "city_id": "70030077198269062",
+  "matched": "Истаравшан",
+  "chain": [
+   "Согдийская область",
+   "Истаравшанский район"
+  ],
+  "chain_ok": false,
+  "verified": false,
+  "center": [
+   69.008671,
+   39.916858
+  ],
+  "totals": {},
+  "codes": {
+   "Фитнес|city_id": [
+    404,
+    "itemNotFound",
+    null
+   ],
+   "Фитнес|location": [
+    404,
+    "itemNotFound",
+    null
+   ],
+   "Тренажерный зал|city_id": [
+    404,
+    "itemNotFound",
+    null
+   ],
+   "Тренажерный зал|location": [
+    200,
+    null,
+    208
+   ]
+  }
+ },
+ {
+  "city": "Турсунзаде",
+  "city_id": "70030077176521987",
+  "matched": "Турсунзаде",
+  "chain": [
+   "Районы республиканского подчинения",
+   "Турсунзадевский район"
+  ],
+  "chain_ok": false,
+  "verified": false,
+  "center": [
+   68.219934,
+   38.51349
+  ],
+  "totals": {},
+  "codes": {
+   "Фитнес|city_id": [
+    404,
+    "itemNotFound",
+    null
+   ],
+   "Фитнес|location": [
+    404,
+    "itemNotFound",
+    null
+   ],
+   "Тренажерный зал|city_id": [
+    404,
+    "itemNotFound",
+    null
+   ],
+   "Тренажерный зал|location": [
+    200,
+    null,
+    213
+   ]
+  }
+ },
+ {
+  "city": "Вахдат",
+  "city_id": "70030077176522325",
+  "matched": "Вахдат",
+  "chain": [
+   "Районы республиканского подчинения",
+   "Вахдатский район"
+  ],
+  "chain_ok": false,
+  "verified": true,
+  "center": [
+   69.012891,
+   38.556198
+  ],
+  "totals": {},
+  "codes": {
+   "Фитнес|city_id": [
+    404,
+    "itemNotFound",
+    null
+   ],
+   "Фитнес|location": [
+    200,
+    null,
+    89
+   ],
+   "Тренажерный зал|city_id": [
+    404,
+    "itemNotFound",
+    null
+   ],
+   "Тренажерный зал|location": [
+    200,
+    null,
+    57
+   ]
+  }
+ },
+ {
+  "city": "Пенджикент",
+  "city_id": "70030077170704875",
+  "matched": "Пенджикент",
+  "chain": [
+   "Согдийская область",
+   "Пенджикентский район"
+  ],
+  "chain_ok": false,
+  "verified": false,
+  "center": [
+   67.606311,
+   39.493536
+  ],
+  "totals": {},
+  "codes": {
+   "Фитнес|city_id": [
+    404,
+    "itemNotFound",
+    null
+   ],
+   "Фитнес|location": [
+    404,
+    "itemNotFound",
+    null
+   ],
+   "Тренажерный зал|city_id": [
+    404,
+    "itemNotFound",
+    null
+   ],
+   "Тренажерный зал|location": [
+    200,
+    null,
+    213
+   ]
+  }
+ },
+ {
+  "city": "Исфара",
+  "city_id": "70030077170705113",
+  "matched": "Исфара",
+  "chain": [
+   "Согдийская область",
+   "Исфаринский район"
+  ],
+  "chain_ok": false,
+  "verified": false,
+  "center": [
+   70.606142,
+   40.113321
+  ],
+  "totals": {},
+  "codes": {
+   "Фитнес|city_id": [
+    404,
+    "itemNotFound",
+    null
+   ],
+   "Фитнес|location": [
+    200,
+    null,
+    365
+   ],
+   "Тренажерный зал|city_id": [
+    404,
+    "itemNotFound",
+    null
+   ],
+   "Тренажерный зал|location": [
+    200,
+    null,
+    190
+   ]
+  }
+ },
+ {
+  "city": "Канибадам",
+  "city_id": "70030077170704343",
+  "matched": "Канибадам",
+  "chain": [
+   "Согдийская область",
+   "Канибадамский район"
+  ],
+  "chain_ok": false,
+  "verified": false,
+  "center": [
+   70.435268,
+   40.288466
+  ],
+  "totals": {},
+  "codes": {
+   "Фитнес|city_id": [
+    404,
+    "itemNotFound",
+    null
+   ],
+   "Фитнес|location": [
+    404,
+    "itemNotFound",
+    null
+   ],
+   "Тренажерный зал|city_id": [
+    404,
+    "itemNotFound",
+    null
+   ],
+   "Тренажерный зал|location": [
+    200,
+    null,
+    200
+   ]
+  }
+ },
+ {
+  "city": "Нурек",
+  "city_id": "70030077176522618",
+  "matched": "Нурек",
+  "chain": [
+   "Хатлонская область",
+   "Нурекский район"
+  ],
+  "chain_ok": false,
+  "verified": false,
+  "center": [
+   69.298222,
+   38.391845
+  ],
+  "totals": {},
+  "codes": {
+   "Фитнес|city_id": [
+    404,
+    "itemNotFound",
+    null
+   ],
+   "Фитнес|location": [
+    404,
+    "itemNotFound",
+    null
+   ],
+   "Тренажерный зал|city_id": [
+    404,
+    "itemNotFound",
+    null
+   ],
+   "Тренажерный зал|location": [
+    200,
+    null,
+    207
+   ]
+  }
+ },
+ {
+  "city": "Мургаб",
+  "city_id": "70030077176521853",
+  "matched": "Мургаб",
+  "chain": [
+   "Горно-Бадахшанская область",
+   "Мургабский район"
+  ],
+  "chain_ok": false,
+  "verified": false,
+  "center": [
+   73.974968,
+   38.178442
+  ],
+  "totals": {},
+  "codes": {
+   "Фитнес|city_id": [
+    404,
+    "itemNotFound",
+    null
+   ],
+   "Фитнес|location": [
+    404,
+    "itemNotFound",
+    null
+   ],
+   "Тренажерный зал|city_id": [
+    404,
+    "itemNotFound",
+    null
+   ],
+   "Тренажерный зал|location": [
+    200,
+    null,
+    182
+   ]
+  }
+ },
+ {
+  "city": "Хорог",
+  "city_id": "70030077176523768",
+  "matched": "Хорог",
+  "chain": [
+   "Горно-Бадахшанская область",
+   "Рушанский район"
+  ],
+  "chain_ok": false,
+  "verified": false,
+  "center": [
+   71.589004,
+   37.490551
+  ],
+  "totals": {},
+  "codes": {
+   "Фитнес|city_id": [
+    404,
+    "itemNotFound",
+    null
+   ],
+   "Фитнес|location": [
+    404,
+    "itemNotFound",
+    null
+   ],
+   "Тренажерный зал|city_id": [
+    404,
+    "itemNotFound",
+    null
+   ],
+   "Тренажерный зал|location": [
+    200,
+    null,
+    193
+   ]
+  }
+ },
+ {
+  "city": "Гиссар",
+  "city_id": "70030077176521689",
+  "matched": "Гиссар",
+  "chain": [
+   "Районы республиканского подчинения",
+   "Гиссарский район"
+  ],
+  "chain_ok": false,
+  "verified": true,
+  "center": [
+   68.553657,
+   38.526938
+  ],
+  "totals": {},
+  "codes": {
+   "Фитнес|city_id": [
+    404,
+    "itemNotFound",
+    null
+   ],
+   "Фитнес|location": [
+    200,
+    null,
+    89
+   ],
+   "Тренажерный зал|city_id": [
+    404,
+    "itemNotFound",
+    null
+   ],
+   "Тренажерный зал|location": [
+    200,
+    null,
+    57
+   ]
+  }
+ },
+ {
+  "city": "Ванч",
+  "city_id": "70030077176521607",
+  "matched": "Ванч",
+  "chain": [
+   "Горно-Бадахшанская область",
+   "Ванчский район"
+  ],
+  "chain_ok": false,
+  "verified": false,
+  "center": [
+   71.456477,
+   38.372081
+  ],
+  "totals": {},
+  "codes": {
+   "Фитнес|city_id": [
+    404,
+    "itemNotFound",
+    null
+   ],
+   "Фитнес|location": [
+    404,
+    "itemNotFound",
+    null
+   ],
+   "Тренажерный зал|city_id": [
+    404,
+    "itemNotFound",
+    null
+   ],
+   "Тренажерный зал|location": [
+    200,
+    null,
+    194
+   ]
+  }
+ },
+ {
+  "city": "Рашт",
+  "city_id": "4504222397638719",
+  "matched": "Белый Раст",
+  "chain": [
+   "Московская область",
+   "Дмитровский муниципальный округ"
+  ],
+  "chain_ok": false,
+  "verified": false,
+  "center": [
+   37.406266,
+   56.131549
+  ],
+  "totals": {},
+  "codes": {
+   "Фитнес|city_id": [
+    404,
+    "itemNotFound",
+    null
+   ],
+   "Фитнес|location": [
+    200,
+    null,
+    3454
+   ],
+   "Тренажерный зал|city_id": [
+    404,
+    "itemNotFound",
+    null
+   ],
+   "Тренажерный зал|location": [
+    200,
+    null,
+    1650
+   ]
+  }
+ },
+ {
+  "city": "Лахш",
+  "city_id": "70030077022383742",
+  "matched": "район Лахш",
+  "chain": [
+   "Районы республиканского подчинения"
+  ],
+  "chain_ok": false,
+  "verified": false,
+  "center": [
+   71.381897,
+   39.339819
+  ],
+  "totals": {},
+  "codes": {
+   "Фитнес|city_id": [
+    404,
+    "itemNotFound",
+    null
+   ],
+   "Фитнес|location": [
+    200,
+    null,
+    359
+   ],
+   "Тренажерный зал|city_id": [
+    404,
+    "itemNotFound",
+    null
+   ],
+   "Тренажерный зал|location": [
+    200,
+    null,
+    186
+   ]
+  }
+ },
+ {
+  "city": "Файзабад",
+  "city_id": "70030077022390215",
+  "matched": "Файзабадский район",
+  "chain": [
+   "Районы республиканского подчинения"
+  ],
+  "chain_ok": false,
+  "verified": false,
+  "center": [
+   69.392236,
+   38.51896
+  ],
+  "totals": {},
+  "codes": {
+   "Фитнес|city_id": [
+    404,
+    "itemNotFound",
+    null
+   ],
+   "Фитнес|location": [
+    404,
+    "itemNotFound",
+    null
+   ],
+   "Тренажерный зал|city_id": [
+    404,
+    "itemNotFound",
+    null
+   ],
+   "Тренажерный зал|location": [
+    200,
+    null,
+    207
+   ]
+  }
+ },
+ {
+  "city": "Истиклол",
+  "city_id": "70030077170705084",
+  "matched": "Истиклол",
+  "chain": [
+   "Согдийская область",
+   "Гафуровский район"
+  ],
+  "chain_ok": false,
+  "verified": false,
+  "center": [
+   69.65052,
+   40.585009
+  ],
+  "totals": {},
+  "codes": {
+   "Фитнес|city_id": [
+    404,
+    "itemNotFound",
+    null
+   ],
+   "Фитнес|location": [
+    404,
+    "itemNotFound",
+    null
+   ],
+   "Тренажерный зал|city_id": [
+    404,
+    "itemNotFound",
+    null
+   ],
+   "Тренажерный зал|location": [
+    200,
+    null,
+    202
+   ]
+  }
+ },
+ {
+  "city": "Конбулак",
+  "city_id": "70030076141823804",
+  "matched": "Кен-Булун",
+  "chain": [
+   "Чуйская область",
+   "Ысык-Атинский район"
+  ],
+  "chain_ok": false,
+  "verified": false,
+  "center": [
+   75.127946,
+   42.873457
+  ],
+  "totals": {},
+  "codes": {
+   "Фитнес|city_id": [
+    404,
+    "itemNotFound",
+    null
+   ],
+   "Фитнес|location": [
+    200,
+    null,
+    291
+   ],
+   "Тренажерный зал|city_id": [
+    404,
+    "itemNotFound",
+    null
+   ],
+   "Тренажерный зал|location": [
+    200,
+    null,
+    147
+   ]
+  }
+ },
+ {
+  "city": "Яван",
+  "city_id": null,
+  "matched": null,
+  "chain": [],
+  "chain_ok": false,
+  "verified": false,
+  "center": null,
+  "totals": {},
+  "codes": {}
+ },
+ {
+  "city": "Кумсангир",
+  "city_id": null,
+  "matched": null,
+  "chain": [],
+  "chain_ok": false,
+  "verified": false,
+  "center": null,
+  "totals": {},
+  "codes": {}
+ },
+ {
+  "city": "Джиргатол",
+  "city_id": null,
+  "matched": null,
+  "chain": [],
+  "chain_ok": false,
+  "verified": false,
+  "center": null,
+  "totals": {},
+  "codes": {}
+ },
+ {
+  "city": "Рошан",
+  "city_id": null,
+  "matched": null,
+  "chain": [],
+  "chain_ok": false,
+  "verified": false,
+  "center": null,
+  "totals": {},
+  "codes": {}
+ },
+ {
+  "city": "Шамсидин Шуҳин",
+  "city_id": "70030077022419594",
+  "matched": "район Шамсиддин Шохин",
+  "chain": [
+   "Хатлонская область"
+  ],
+  "chain_ok": false,
+  "verified": false,
+  "center": [
+   70.049143,
+   37.725966
+  ],
+  "totals": {},
+  "codes": {
+   "Фитнес|city_id": [
+    404,
+    "itemNotFound",
+    null
+   ],
+   "Фитнес|location": [
+    404,
+    "itemNotFound",
+    null
+   ],
+   "Тренажерный зал|city_id": [
+    404,
+    "itemNotFound",
+    null
+   ],
+   "Тренажерный зал|location": [
+    200,
+    null,
+    204
+   ]
+  }
+ }
+]

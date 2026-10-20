@@ -1,0 +1,111 @@
+{
+ "url": "https://yandex.kz/maps/org/chaykhnana_barakat/150188646088/?ll=68.738888%2C38.534979&z=16",
+ "title": "Чайхнана Баракат, кафе, Душанбе, ул. Рахмона Набиева, 225/1 — Яндекс Карты",
+ "h1": "Чайхнана Баракат",
+ "coords": [
+  "68.738936,38.534921",
+  "68.738936,38.534921"
+ ],
+ "rating": [
+  "Оценка 4.3 Из 5",
+  "Оценка 4.3 Из 5"
+ ],
+ "categories": [
+  "Кафе",
+  "Чайхана",
+  "Ресторан"
+ ],
+ "address": [
+  {
+   "t": "Душанбе, ул. Рахмона Набиева, 225/1",
+   "h": "/maps/10318/dushanbe/house/YkEYcQRoQU0PQF1ifXlydXVkbA==/"
+  },
+  {
+   "t": "Душанбе, ул. Рахмона Набиева, 225/1",
+   "h": null
+  },
+  {
+   "t": "Душанбе, ул. Рахмона Набиева, 225/1",
+   "h": "/maps/10318/dushanbe/house/YkEYcQRoQU0PQF1ifXlydXVkbA==/"
+  },
+  {
+   "t": "Маршрут",
+   "h": null
+  }
+ ],
+ "phones": [
+  {
+   "t": "+992 98 866 96 26",
+   "h": null
+  },
+  {
+   "t": "+992 98 866 96 26 Показать телефон",
+   "h": null
+  },
+  {
+   "t": "+992 98 866 96 26 Показать телефон",
+   "h": null
+  }
+ ],
+ "msgLinks": [
+  {
+   "t": "",
+   "h": "https://vk.com/yandex.maps",
+   "c": "card-social-links-view__link",
+   "ownOrg": 0
+  },
+  {
+   "t": "",
+   "h": "https://t.me/mapsyandex",
+   "c": "card-social-links-view__link",
+   "ownOrg": 0
+  }
+ ],
+ "apps": [],
+ "extLinks": [],
+ "social": [
+  {
+   "t": "",
+   "h": "https://vk.com/yandex.maps",
+   "c": "card-social-links-view__link"
+  },
+  {
+   "t": "",
+   "h": "https://t.me/mapsyandex",
+   "c": "card-social-links-view__link"
+  },
+  {
+   "t": "",
+   "h": "https://zen.yandex.ru/yandexmaps",
+   "c": "card-social-links-view__link"
+  }
+ ],
+ "btns": [],
+ "emails": [],
+ "contactBlock": [
+  "Адрес Душанбе, ул. Рахмона Набиева, 225/1 Маршрут",
+  "Адрес",
+  "",
+  "Душанбе, ул. Рахмона Набиева, 225/1",
+  "Душанбе, ул. Рахмона Набиева, 225/1",
+  "Маршрут",
+  "Маршрут",
+  "Контакты +992 98 866 96 26 Показать телефон",
+  "Контакты",
+  "",
+  "Время работы График работы не указан Добавить",
+  "Время работы",
+  ""
+ ],
+ "hours": [],
+ "list": {
+  "name": "Чайхнана Баракат",
+  "city": "dushanbe",
+  "rating": 4.3,
+  "reviews": 5,
+  "lon": "68.738936",
+  "lat": "38.534921",
+  "src": "Чайхана Рохат",
+  "priority": true
+ }
+}

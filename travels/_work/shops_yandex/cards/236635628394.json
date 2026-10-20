@@ -1,0 +1,97 @@
+{
+ "url": "https://yandex.kz/maps/org/avtokolonna_2927/236635628394/?ll=68.827741%2C38.541526&z=12",
+ "title": "Автоколонна 2927, рынок, Душанбе, район Шохмансур — Яндекс Карты",
+ "h1": "Автоколонна 2927",
+ "coords": [
+  "68.811367,38.559638",
+  "68.811367,38.559638"
+ ],
+ "rating": [
+  "Оценка 4.2 Из 5",
+  "Оценка 4.2 Из 5",
+  "Оценка 2 Из 5"
+ ],
+ "categories": [
+  "Рынок"
+ ],
+ "address": [
+  {
+   "t": "Душанбе, район Шохмансур",
+   "h": "/maps/10318/dushanbe/geo/4241168719/"
+  },
+  {
+   "t": "Душанбе, район Шохмансур",
+   "h": null
+  },
+  {
+   "t": "Душанбе, район Шохмансур",
+   "h": "/maps/10318/dushanbe/geo/4241168719/"
+  },
+  {
+   "t": "Маршрут",
+   "h": null
+  }
+ ],
+ "phones": [],
+ "msgLinks": [
+  {
+   "t": "",
+   "h": "https://vk.com/yandex.maps",
+   "c": "card-social-links-view__link",
+   "ownOrg": 0
+  },
+  {
+   "t": "",
+   "h": "https://t.me/mapsyandex",
+   "c": "card-social-links-view__link",
+   "ownOrg": 0
+  }
+ ],
+ "apps": [],
+ "extLinks": [],
+ "social": [
+  {
+   "t": "",
+   "h": "https://vk.com/yandex.maps",
+   "c": "card-social-links-view__link"
+  },
+  {
+   "t": "",
+   "h": "https://t.me/mapsyandex",
+   "c": "card-social-links-view__link"
+  },
+  {
+   "t": "",
+   "h": "https://zen.yandex.ru/yandexmaps",
+   "c": "card-social-links-view__link"
+  }
+ ],
+ "btns": [],
+ "emails": [],
+ "contactBlock": [
+  "Адрес Душанбе, район Шохмансур Маршрут",
+  "Адрес",
+  "",
+  "Душанбе, район Шохмансур",
+  "Душанбе, район Шохмансур",
+  "Маршрут",
+  "Маршрут",
+  "Контакты Телефон не указан Добавить",
+  "Контакты",
+  "",
+  "Время работы График работы не указан Добавить",
+  "Время работы",
+  ""
+ ],
+ "hours": [],
+ "list": {
+  "name": "Автоколонна 2927",
+  "city": "dushanbe",
+  "rating": 4.2,
+  "reviews": 8,
+  "lon": "68.811367",
+  "lat": "38.559638",
+  "src": "базар+рынок",
+  "priority": true
+ }
+}

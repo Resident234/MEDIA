@@ -1,0 +1,107 @@
+{
+ "url": "https://yandex.kz/maps/org/gift_and_souvenir_shop/188023123943/?ll=68.742023%2C38.580108&z=16",
+ "title": "Gift and souvenir shop, магазин подарков и сувениров, Душанбе, ул. Шамси, 23 — Яндекс Карты",
+ "h1": "Gift and souvenir shop",
+ "coords": [
+  "68.741822,38.580246",
+  "68.741822,38.580246"
+ ],
+ "rating": [],
+ "categories": [
+  "Магазин подарков и сувениров"
+ ],
+ "address": [
+  {
+   "t": "Душанбе, ул. Шамси, 23 этаж 1",
+   "h": "/maps/10318/dushanbe/house/YkEYcQNiSUcEQF1ifXl5cX1jYw==/"
+  },
+  {
+   "t": "Душанбе, ул. Шамси, 23этаж 1",
+   "h": null
+  },
+  {
+   "t": "Душанбе, ул. Шамси, 23",
+   "h": "/maps/10318/dushanbe/house/YkEYcQNiSUcEQF1ifXl5cX1jYw==/"
+  },
+  {
+   "t": "Маршрут",
+   "h": null
+  }
+ ],
+ "phones": [
+  {
+   "t": "+992 90 770 25 12",
+   "h": null
+  },
+  {
+   "t": "+992 90 770 25 12 Показать телефон",
+   "h": null
+  },
+  {
+   "t": "+992 90 770 25 12 Показать телефон",
+   "h": null
+  }
+ ],
+ "msgLinks": [
+  {
+   "t": "",
+   "h": "https://vk.com/yandex.maps",
+   "c": "card-social-links-view__link",
+   "ownOrg": 0
+  },
+  {
+   "t": "",
+   "h": "https://t.me/mapsyandex",
+   "c": "card-social-links-view__link",
+   "ownOrg": 0
+  }
+ ],
+ "apps": [],
+ "extLinks": [],
+ "social": [
+  {
+   "t": "",
+   "h": "https://vk.com/yandex.maps",
+   "c": "card-social-links-view__link"
+  },
+  {
+   "t": "",
+   "h": "https://t.me/mapsyandex",
+   "c": "card-social-links-view__link"
+  },
+  {
+   "t": "",
+   "h": "https://zen.yandex.ru/yandexmaps",
+   "c": "card-social-links-view__link"
+  }
+ ],
+ "btns": [],
+ "emails": [],
+ "contactBlock": [
+  "Адрес Душанбе, ул. Шамси, 23этаж 1 Маршрут",
+  "Адрес",
+  "",
+  "Душанбе, ул. Шамси, 23этаж 1",
+  "Душанбе, ул. Шамси, 23",
+  "этаж 1",
+  "Маршрут",
+  "Маршрут",
+  "Контакты +992 90 770 25 12 Показать телефон",
+  "Контакты",
+  "",
+  "Время работы Открыто до 18:00 График",
+  "Время работы",
+  ""
+ ],
+ "hours": [],
+ "list": {
+  "name": "Gift and souvenir shop",
+  "city": "dushanbe",
+  "rating": null,
+  "reviews": null,
+  "lon": "68.741822",
+  "lat": "38.580246",
+  "src": "сувениры",
+  "priority": true
+ }
+}

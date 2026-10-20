@@ -1,0 +1,93 @@
+{
+ "url": "https://yandex.kz/maps/org/optovyye_sklady/173751208612/?ll=68.735510%2C38.571303&z=11",
+ "title": "Оптовые склады, рынок, Душанбе, район Сино — Яндекс Карты",
+ "h1": "Оптовые склады",
+ "coords": [
+  "68.738548,38.559881",
+  "68.738548,38.559881"
+ ],
+ "rating": [],
+ "categories": [
+  "Рынок"
+ ],
+ "address": [
+  {
+   "t": "Душанбе, район Сино",
+   "h": "/maps/10318/dushanbe/geo/4241375249/"
+  },
+  {
+   "t": "Душанбе, район Сино",
+   "h": null
+  },
+  {
+   "t": "Душанбе, район Сино",
+   "h": "/maps/10318/dushanbe/geo/4241375249/"
+  },
+  {
+   "t": "Маршрут",
+   "h": null
+  }
+ ],
+ "phones": [],
+ "msgLinks": [
+  {
+   "t": "",
+   "h": "https://vk.com/yandex.maps",
+   "c": "card-social-links-view__link",
+   "ownOrg": 0
+  },
+  {
+   "t": "",
+   "h": "https://t.me/mapsyandex",
+   "c": "card-social-links-view__link",
+   "ownOrg": 0
+  }
+ ],
+ "apps": [],
+ "extLinks": [],
+ "social": [
+  {
+   "t": "",
+   "h": "https://vk.com/yandex.maps",
+   "c": "card-social-links-view__link"
+  },
+  {
+   "t": "",
+   "h": "https://t.me/mapsyandex",
+   "c": "card-social-links-view__link"
+  },
+  {
+   "t": "",
+   "h": "https://zen.yandex.ru/yandexmaps",
+   "c": "card-social-links-view__link"
+  }
+ ],
+ "btns": [],
+ "emails": [],
+ "contactBlock": [
+  "Адрес Душанбе, район Сино Маршрут",
+  "Адрес",
+  "",
+  "Душанбе, район Сино",
+  "Душанбе, район Сино",
+  "Маршрут",
+  "Маршрут",
+  "Контакты Телефон не указан Добавить",
+  "Контакты",
+  "",
+  "Время работы График работы не указан Добавить",
+  "Время работы",
+  ""
+ ],
+ "hours": [],
+ "list": {
+  "name": "Оптовые склады",
+  "city": "dushanbe",
+  "rating": null,
+  "reviews": null,
+  "lon": "68.738548",
+  "lat": "38.559881",
+  "src": "базар",
+  "priority": true
+ }
+}

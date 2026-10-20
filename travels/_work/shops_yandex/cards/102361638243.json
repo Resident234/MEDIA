@@ -1,0 +1,129 @@
+{
+ "url": "https://yandex.kz/maps/org/rudaki_plaza/102361638243/?ll=68.786310%2C38.596147&z=16",
+ "title": "Рудаки Плаза, торговый центр, Душанбе, просп. Рудаки, 127 — Яндекс Карты",
+ "h1": "Рудаки Плаза",
+ "coords": [
+  "68.78637,38.596269",
+  "68.786370,38.596269"
+ ],
+ "rating": [
+  "Оценка 4.8 Из 5",
+  "Оценка 4.8 Из 5",
+  "Оценка 5 Из 5"
+ ],
+ "categories": [
+  "Торговый центр"
+ ],
+ "address": [
+  {
+   "t": "Душанбе, просп. Рудаки, 127",
+   "h": "/maps/10318/dushanbe/house/YkEYcQ9mSkQHQF1ifXl4d31nYw==/"
+  },
+  {
+   "t": "Душанбе, просп. Рудаки, 127",
+   "h": null
+  },
+  {
+   "t": "Душанбе, просп. Рудаки, 127",
+   "h": "/maps/10318/dushanbe/house/YkEYcQ9mSkQHQF1ifXl4d31nYw==/"
+  },
+  {
+   "t": "Маршрут",
+   "h": null
+  }
+ ],
+ "phones": [
+  {
+   "t": "+992 44 600 01 27",
+   "h": null
+  },
+  {
+   "t": "+992 44 600 01 27 Показать телефон",
+   "h": null
+  },
+  {
+   "t": "+992 44 600 01 27 Показать телефон",
+   "h": null
+  }
+ ],
+ "msgLinks": [
+  {
+   "t": "",
+   "h": "https://www.instagram.com/bcrudakiplaza?igsh=MTFmbGRnYzUzNmNsbg==",
+   "c": "button _view_secondary-gray _ui _size_medium _link",
+   "ownOrg": 1
+  },
+  {
+   "t": "",
+   "h": "https://vk.com/yandex.maps",
+   "c": "card-social-links-view__link",
+   "ownOrg": 0
+  },
+  {
+   "t": "",
+   "h": "https://t.me/mapsyandex",
+   "c": "card-social-links-view__link",
+   "ownOrg": 0
+  }
+ ],
+ "apps": [],
+ "extLinks": [
+  {
+   "t": "rudakiplaza.com",
+   "h": "http://rudakiplaza.com/"
+  }
+ ],
+ "social": [
+  {
+   "t": "",
+   "h": "https://www.instagram.com/bcrudakiplaza?igsh=MTFmbGRnYzUzNmNsbg==",
+   "c": "button _view_secondary-gray _ui _size_medium _link"
+  },
+  {
+   "t": "",
+   "h": "https://vk.com/yandex.maps",
+   "c": "card-social-links-view__link"
+  },
+  {
+   "t": "",
+   "h": "https://t.me/mapsyandex",
+   "c": "card-social-links-view__link"
+  },
+  {
+   "t": "",
+   "h": "https://zen.yandex.ru/yandexmaps",
+   "c": "card-social-links-view__link"
+  }
+ ],
+ "btns": [],
+ "emails": [],
+ "contactBlock": [
+  "Адрес Душанбе, просп. Рудаки, 127 Маршрут",
+  "Адрес",
+  "",
+  "Душанбе, просп. Рудаки, 127",
+  "Душанбе, просп. Рудаки, 127",
+  "Маршрут",
+  "Маршрут",
+  "Контакты +992 44 600 01 27 Показать телефон rudakiplaza.com",
+  "Контакты",
+  "",
+  "",
+  "",
+  "",
+  "Время работы Открыто до 17:00 График",
+  "Время работы",
+  ""
+ ],
+ "hours": [],
+ "list": {
+  "name": "Рудаки Плаза",
+  "city": "dushanbe",
+  "rating": 4.8,
+  "reviews": 37,
+  "lon": "68.786370",
+  "lat": "38.596269",
+  "src": "торговый центр",
+  "priority": true
+ }
+}

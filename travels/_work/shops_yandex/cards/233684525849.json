@@ -1,0 +1,124 @@
+{
+ "url": "https://yandex.kz/maps/org/wowshop/233684525849/?ll=68.784217%2C38.567498&z=16",
+ "title": "Wowshop, магазин подарков и сувениров, Душанбе, ул. Бухоро, 13 — Яндекс Карты",
+ "h1": "Wowshop",
+ "coords": [
+  "68.784235,38.567521",
+  "68.784235,38.567521"
+ ],
+ "rating": [
+  "Оценка 1 Из 5"
+ ],
+ "categories": [
+  "Магазин подарков и сувениров",
+  "Детские игрушки и игры",
+  "Игорное и развлекательное оборудование"
+ ],
+ "address": [
+  {
+   "t": "Душанбе, ул. Бухоро, 13",
+   "h": "/maps/10318/dushanbe/house/YkEYcQ9kS0QAQF1ifXl3dnhqbA==/"
+  },
+  {
+   "t": "Душанбе, ул. Бухоро, 13",
+   "h": null
+  },
+  {
+   "t": "Душанбе, ул. Бухоро, 13",
+   "h": "/maps/10318/dushanbe/house/YkEYcQ9kS0QAQF1ifXl3dnhqbA==/"
+  },
+  {
+   "t": "Маршрут",
+   "h": null
+  }
+ ],
+ "phones": [
+  {
+   "t": "+992 91 139 31 11",
+   "h": null
+  },
+  {
+   "t": "+992 91 139 31 11 Показать телефон",
+   "h": null
+  },
+  {
+   "t": "+992 91 139 31 11 Показать телефон",
+   "h": null
+  }
+ ],
+ "msgLinks": [
+  {
+   "t": "",
+   "h": "https://www.instagram.com/wowshop.tjk/",
+   "c": "button _view_secondary-gray _ui _size_medium _link",
+   "ownOrg": 1
+  },
+  {
+   "t": "",
+   "h": "https://vk.com/yandex.maps",
+   "c": "card-social-links-view__link",
+   "ownOrg": 0
+  },
+  {
+   "t": "",
+   "h": "https://t.me/mapsyandex",
+   "c": "card-social-links-view__link",
+   "ownOrg": 0
+  }
+ ],
+ "apps": [],
+ "extLinks": [],
+ "social": [
+  {
+   "t": "",
+   "h": "https://www.instagram.com/wowshop.tjk/",
+   "c": "button _view_secondary-gray _ui _size_medium _link"
+  },
+  {
+   "t": "",
+   "h": "https://vk.com/yandex.maps",
+   "c": "card-social-links-view__link"
+  },
+  {
+   "t": "",
+   "h": "https://t.me/mapsyandex",
+   "c": "card-social-links-view__link"
+  },
+  {
+   "t": "",
+   "h": "https://zen.yandex.ru/yandexmaps",
+   "c": "card-social-links-view__link"
+  }
+ ],
+ "btns": [],
+ "emails": [],
+ "contactBlock": [
+  "Адрес Душанбе, ул. Бухоро, 13 Маршрут",
+  "Адрес",
+  "",
+  "Душанбе, ул. Бухоро, 13",
+  "Душанбе, ул. Бухоро, 13",
+  "Маршрут",
+  "Маршрут",
+  "Контакты +992 91 139 31 11 Показать телефон",
+  "Контакты",
+  "",
+  "",
+  "",
+  "",
+  "Время работы Открыто до 20:00 График",
+  "Время работы",
+  ""
+ ],
+ "hours": [],
+ "list": {
+  "name": "Wowshop",
+  "city": "dushanbe",
+  "rating": null,
+  "reviews": null,
+  "lon": "68.784235",
+  "lat": "38.567521",
+  "src": "сувениры",
+  "priority": true
+ }
+}

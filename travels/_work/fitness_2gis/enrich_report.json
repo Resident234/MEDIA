@@ -1,0 +1,76 @@
+{
+ "probe": {
+  "batch_0": {
+   "code": 200,
+   "n": 50,
+   "keys": [
+    "address_comment",
+    "address_name",
+    "adm_div",
+    "full_name",
+    "id",
+    "name",
+    "point",
+    "purpose_name",
+    "reviews",
+    "rubrics",
+    "type"
+   ]
+  },
+  "batch_50": {
+   "code": 200,
+   "n": 50,
+   "keys": [
+    "address_comment",
+    "address_name",
+    "adm_div",
+    "full_name",
+    "id",
+    "name",
+    "point",
+    "purpose_name",
+    "reviews",
+    "rubrics",
+    "type"
+   ]
+  },
+  "batch_100": {
+   "code": 200,
+   "n": 5,
+   "keys": [
+    "address_comment",
+    "address_name",
+    "adm_div",
+    "id",
+    "name",
+    "point",
+    "reviews",
+    "rubrics",
+    "type"
+   ]
+  },
+  "single_with_contacts": {
+   "code": 200,
+   "returned_keys": [
+    "address_comment",
+    "address_name",
+    "adm_div",
+    "id",
+    "name",
+    "point",
+    "reviews",
+    "rubrics",
+    "type"
+   ],
+   "phones": null,
+   "contacts": null,
+   "contact_groups": null,
+   "urls": null
+  }
+ },
+ "cards": 105,
+ "items": 105,
+ "ge4": 19,
+ "no_rating": 84,
+ "with_phones": 0
+}

@@ -1,0 +1,93 @@
+{
+ "url": "https://yandex.kz/maps/org/suveniry_tadzhikistana/228850203786/?ll=68.799264%2C38.585967&z=16",
+ "title": "Сувениры Таджикистана, магазин подарков и сувениров, Душанбе, ул. Мехнат, 4 — Яндекс Карты",
+ "h1": "Сувениры Таджикистана",
+ "coords": [
+  "68.798941,38.585706",
+  "68.798941,38.585706"
+ ],
+ "rating": [],
+ "categories": [
+  "Магазин подарков и сувениров"
+ ],
+ "address": [
+  {
+   "t": "Душанбе, ул. Мехнат, 4",
+   "h": "/maps/10318/dushanbe/house/YkEYcQ5pS0MDQF1ifXl5dHVlYw==/"
+  },
+  {
+   "t": "Душанбе, ул. Мехнат, 4",
+   "h": null
+  },
+  {
+   "t": "Душанбе, ул. Мехнат, 4",
+   "h": "/maps/10318/dushanbe/house/YkEYcQ5pS0MDQF1ifXl5dHVlYw==/"
+  },
+  {
+   "t": "Маршрут",
+   "h": null
+  }
+ ],
+ "phones": [],
+ "msgLinks": [
+  {
+   "t": "",
+   "h": "https://vk.com/yandex.maps",
+   "c": "card-social-links-view__link",
+   "ownOrg": 0
+  },
+  {
+   "t": "",
+   "h": "https://t.me/mapsyandex",
+   "c": "card-social-links-view__link",
+   "ownOrg": 0
+  }
+ ],
+ "apps": [],
+ "extLinks": [],
+ "social": [
+  {
+   "t": "",
+   "h": "https://vk.com/yandex.maps",
+   "c": "card-social-links-view__link"
+  },
+  {
+   "t": "",
+   "h": "https://t.me/mapsyandex",
+   "c": "card-social-links-view__link"
+  },
+  {
+   "t": "",
+   "h": "https://zen.yandex.ru/yandexmaps",
+   "c": "card-social-links-view__link"
+  }
+ ],
+ "btns": [],
+ "emails": [],
+ "contactBlock": [
+  "Адрес Душанбе, ул. Мехнат, 4 Маршрут",
+  "Адрес",
+  "",
+  "Душанбе, ул. Мехнат, 4",
+  "Душанбе, ул. Мехнат, 4",
+  "Маршрут",
+  "Маршрут",
+  "Контакты Телефон не указан Добавить",
+  "Контакты",
+  "",
+  "Время работы График работы не указан Добавить",
+  "Время работы",
+  ""
+ ],
+ "hours": [],
+ "list": {
+  "name": "Сувениры Таджикистана",
+  "city": "dushanbe",
+  "rating": null,
+  "reviews": null,
+  "lon": "68.798941",
+  "lat": "38.585706",
+  "src": "сувениры",
+  "priority": true
+ }
+}

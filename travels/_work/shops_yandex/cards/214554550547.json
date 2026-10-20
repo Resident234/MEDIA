@@ -1,0 +1,106 @@
+{
+ "url": "https://yandex.kz/maps/org/produktovy_magazin_barakat/214554550547/?ll=68.749766%2C38.590536&z=15",
+ "title": "продуктовый магазин Баракат, магазин продуктов, Душанбе, поселок Панджруд — Яндекс Карты",
+ "h1": "продуктовый магазин Баракат",
+ "coords": [
+  "68.746749,38.589504",
+  "68.746749,38.589504"
+ ],
+ "rating": [],
+ "categories": [
+  "Магазин продуктов"
+ ],
+ "address": [
+  {
+   "t": "Душанбе, поселок Панджруд",
+   "h": "/maps/10318/dushanbe/geo/3745270126/"
+  },
+  {
+   "t": "Душанбе, поселок Панджруд",
+   "h": null
+  },
+  {
+   "t": "Душанбе, поселок Панджруд",
+   "h": "/maps/10318/dushanbe/geo/3745270126/"
+  },
+  {
+   "t": "Маршрут",
+   "h": null
+  }
+ ],
+ "phones": [
+  {
+   "t": "+992 92 709 01 34",
+   "h": null
+  },
+  {
+   "t": "+992 92 709 01 34 Показать телефон",
+   "h": null
+  },
+  {
+   "t": "+992 92 709 01 34 Показать телефон",
+   "h": null
+  }
+ ],
+ "msgLinks": [
+  {
+   "t": "",
+   "h": "https://vk.com/yandex.maps",
+   "c": "card-social-links-view__link",
+   "ownOrg": 0
+  },
+  {
+   "t": "",
+   "h": "https://t.me/mapsyandex",
+   "c": "card-social-links-view__link",
+   "ownOrg": 0
+  }
+ ],
+ "apps": [],
+ "extLinks": [],
+ "social": [
+  {
+   "t": "",
+   "h": "https://vk.com/yandex.maps",
+   "c": "card-social-links-view__link"
+  },
+  {
+   "t": "",
+   "h": "https://t.me/mapsyandex",
+   "c": "card-social-links-view__link"
+  },
+  {
+   "t": "",
+   "h": "https://zen.yandex.ru/yandexmaps",
+   "c": "card-social-links-view__link"
+  }
+ ],
+ "btns": [],
+ "emails": [],
+ "contactBlock": [
+  "Адрес Душанбе, поселок Панджруд Маршрут",
+  "Адрес",
+  "",
+  "Душанбе, поселок Панджруд",
+  "Душанбе, поселок Панджруд",
+  "Маршрут",
+  "Маршрут",
+  "Контакты +992 92 709 01 34 Показать телефон",
+  "Контакты",
+  "",
+  "Время работы График работы не указан Добавить",
+  "Время работы",
+  ""
+ ],
+ "hours": [],
+ "list": {
+  "name": "продуктовый магазин Баракат",
+  "city": "dushanbe",
+  "rating": null,
+  "reviews": null,
+  "lon": "68.746749",
+  "lat": "38.589504",
+  "src": "Баракат рынок",
+  "priority": true
+ }
+}

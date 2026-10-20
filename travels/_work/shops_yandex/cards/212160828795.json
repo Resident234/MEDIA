@@ -1,0 +1,97 @@
+{
+ "url": "https://yandex.kz/maps/org/sou_so/212160828795/?ll=68.793379%2C38.578394&z=16",
+ "title": "Sou So, магазин подарков и сувениров, Душанбе, ул. Шириншох Шотемура, 57 — Яндекс Карты",
+ "h1": "Sou So",
+ "coords": [
+  "68.793115,38.578602",
+  "68.793115,38.578602"
+ ],
+ "rating": [
+  "Оценка 4.7 Из 5",
+  "Оценка 4.7 Из 5",
+  "Оценка 5 Из 5"
+ ],
+ "categories": [
+  "Магазин подарков и сувениров"
+ ],
+ "address": [
+  {
+   "t": "Душанбе, ул. Шириншох Шотемура, 57",
+   "h": "/maps/10318/dushanbe/house/YkEYcQ5jSk0HQF1ifXl2eX9qYA==/"
+  },
+  {
+   "t": "Душанбе, ул. Шириншох Шотемура, 57",
+   "h": null
+  },
+  {
+   "t": "Душанбе, ул. Шириншох Шотемура, 57",
+   "h": "/maps/10318/dushanbe/house/YkEYcQ5jSk0HQF1ifXl2eX9qYA==/"
+  },
+  {
+   "t": "Маршрут",
+   "h": null
+  }
+ ],
+ "phones": [],
+ "msgLinks": [
+  {
+   "t": "",
+   "h": "https://vk.com/yandex.maps",
+   "c": "card-social-links-view__link",
+   "ownOrg": 0
+  },
+  {
+   "t": "",
+   "h": "https://t.me/mapsyandex",
+   "c": "card-social-links-view__link",
+   "ownOrg": 0
+  }
+ ],
+ "apps": [],
+ "extLinks": [],
+ "social": [
+  {
+   "t": "",
+   "h": "https://vk.com/yandex.maps",
+   "c": "card-social-links-view__link"
+  },
+  {
+   "t": "",
+   "h": "https://t.me/mapsyandex",
+   "c": "card-social-links-view__link"
+  },
+  {
+   "t": "",
+   "h": "https://zen.yandex.ru/yandexmaps",
+   "c": "card-social-links-view__link"
+  }
+ ],
+ "btns": [],
+ "emails": [],
+ "contactBlock": [
+  "Адрес Душанбе, ул. Шириншох Шотемура, 57 Маршрут",
+  "Адрес",
+  "",
+  "Душанбе, ул. Шириншох Шотемура, 57",
+  "Душанбе, ул. Шириншох Шотемура, 57",
+  "Маршрут",
+  "Маршрут",
+  "Контакты Телефон не указан Добавить",
+  "Контакты",
+  "",
+  "Время работы Открыто до 20:00 График",
+  "Время работы",
+  ""
+ ],
+ "hours": [],
+ "list": {
+  "name": "Sou So",
+  "city": "dushanbe",
+  "rating": 4.7,
+  "reviews": 14,
+  "lon": "68.793115",
+  "lat": "38.578602",
+  "src": "сувениры",
+  "priority": true
+ }
+}

@@ -1,0 +1,120 @@
+{
+ "url": "https://yandex.kz/maps/org/lider_gym/172544675379/?ll=68.794018%2C38.580629&z=16",
+ "title": "Лидер Gym, спортивный, тренажёрный зал, Душанбе, ул. Мирзо Турсунзаде, 45 — Яндекс Карты",
+ "h1": "Лидер Gym",
+ "coords": [
+  "68.793971,38.580033",
+  "68.793971,38.580033"
+ ],
+ "rating": [
+  "Оценка 4.3 Из 5",
+  "Оценка 4.3 Из 5",
+  "Оценка 5 Из 5"
+ ],
+ "categories": [
+  "Спортивный, тренажёрный зал"
+ ],
+ "address": [
+  {
+   "t": "Душанбе, ул. Мирзо Турсунзаде, 45",
+   "h": "/maps/10318/dushanbe/house/YkEYcQ5kSUQPQF1ifXl5cXphbQ==/"
+  },
+  {
+   "t": "Душанбе, ул. Мирзо Турсунзаде, 45",
+   "h": null
+  },
+  {
+   "t": "Душанбе, ул. Мирзо Турсунзаде, 45",
+   "h": "/maps/10318/dushanbe/house/YkEYcQ5kSUQPQF1ifXl5cXphbQ==/"
+  },
+  {
+   "t": "Маршрут",
+   "h": null
+  }
+ ],
+ "phones": [
+  {
+   "t": "+992 90 411 80 08",
+   "h": null
+  },
+  {
+   "t": "+992 90 411 80 08 Показать телефон",
+   "h": null
+  },
+  {
+   "t": "+992 90 411 80 08 Показать телефон",
+   "h": null
+  }
+ ],
+ "msgLinks": [
+  {
+   "t": "",
+   "h": "https://www.instagram.com/leader_gym_official?igsh=MXA2eGQzMDh5YXBzdA==",
+   "c": "button _view_secondary-gray _ui _size_medium _link",
+   "ownOrg": 1
+  },
+  {
+   "t": "",
+   "h": "https://vk.com/yandex.maps",
+   "c": "card-social-links-view__link",
+   "ownOrg": 0
+  },
+  {
+   "t": "",
+   "h": "https://t.me/mapsyandex",
+   "c": "card-social-links-view__link",
+   "ownOrg": 0
+  }
+ ],
+ "extLinks": [],
+ "social": [
+  {
+   "t": "",
+   "h": "https://www.instagram.com/leader_gym_official?igsh=MXA2eGQzMDh5YXBzdA==",
+   "c": "button _view_secondary-gray _ui _size_medium _link"
+  },
+  {
+   "t": "",
+   "h": "https://vk.com/yandex.maps",
+   "c": "card-social-links-view__link"
+  },
+  {
+   "t": "",
+   "h": "https://t.me/mapsyandex",
+   "c": "card-social-links-view__link"
+  },
+  {
+   "t": "",
+   "h": "https://zen.yandex.ru/yandexmaps",
+   "c": "card-social-links-view__link"
+  }
+ ],
+ "btns": [],
+ "emails": [],
+ "contactBlock": [
+  "Адрес Душанбе, ул. Мирзо Турсунзаде, 45 Маршрут",
+  "Адрес",
+  "",
+  "Душанбе, ул. Мирзо Турсунзаде, 45",
+  "Душанбе, ул. Мирзо Турсунзаде, 45",
+  "Маршрут",
+  "Маршрут",
+  "Контакты +992 90 411 80 08 Показать телефон",
+  "Контакты",
+  "",
+  "",
+  "",
+  "",
+  "Время работы График работы не указан Добавить",
+  "Время работы",
+  ""
+ ],
+ "hours": [],
+ "list": {
+  "name": "Лидер Gym",
+  "rating": 4.3,
+  "reviews": 5,
+  "lon": "68.793971",
+  "lat": "38.580033"
+ }
+}

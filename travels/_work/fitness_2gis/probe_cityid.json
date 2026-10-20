@@ -1,0 +1,1996 @@
+[
+ {
+  "city": "Душанбе",
+  "lon": 68.769311,
+  "lat": 38.557039,
+  "adm_div_city": {
+   "code": 200,
+   "error": null,
+   "total": 1,
+   "n": 1,
+   "tajik": 0,
+   "countries": [
+    "-"
+   ],
+   "first": [
+    {
+     "id": "70030076174471798",
+     "name": "Душанбе",
+     "type": "adm_div",
+     "full_name": "Душанбе",
+     "rating": null
+    }
+   ]
+  },
+  "reverse": {
+   "code": 200,
+   "error": null,
+   "total": 5,
+   "n": 5,
+   "tajik": 0,
+   "countries": [
+    "-"
+   ],
+   "first": [
+    {
+     "id": "70030077024084526",
+     "name": "Майдони варзишӣ",
+     "type": "adm_div",
+     "full_name": "Душанбе, Майдони варзишӣ",
+     "rating": null
+    },
+    {
+     "id": "70030077013570227",
+     "name": "Фирдавсӣ",
+     "type": "adm_div",
+     "full_name": "Душанбе, Фирдавсӣ",
+     "rating": null
+    },
+    {
+     "id": "70030076174471798",
+     "name": "Душанбе",
+     "type": "adm_div",
+     "full_name": "Душанбе",
+     "rating": null
+    },
+    {
+     "id": "70030076149053692",
+     "name": "Dushanbe",
+     "type": "adm_div",
+     "full_name": "Dushanbe",
+     "rating": null
+    },
+    {
+     "id": "70030076149053692",
+     "name": "Душанбе",
+     "type": "adm_div",
+     "full_name": "Душанбе",
+     "rating": null
+    }
+   ]
+  },
+  "city_ids": [
+   "70030076174471798"
+  ],
+  "city_id|Фитнес": {
+   "code": 200,
+   "error": null,
+   "total": 89,
+   "n": 10,
+   "tajik": 10,
+   "countries": [
+    "Тоҷикистон"
+   ],
+   "first": [
+    {
+     "id": "70000001103044666",
+     "name": "X-FIT, клуби варзишӣ",
+     "type": "branch",
+     "full_name": null,
+     "rating": 5
+    },
+    {
+     "id": "70000001102009215",
+     "name": "Crocus fitness, клуби фитнесс",
+     "type": "branch",
+     "full_name": null,
+     "rating": 3.4
+    },
+    {
+     "id": "70000001102570930",
+     "name": "Spa hayot, маркази варзишӣ",
+     "type": "branch",
+     "full_name": "Душанбе, хиёбони Неъмат Қарабоев, 8/1",
+     "rating": null
+    },
+    {
+     "id": "70000001101445485",
+     "name": "Dorob Gym, толори варзишӣ",
+     "type": "branch",
+     "full_name": null,
+     "rating": 5
+    },
+    {
+     "id": "70000001109657173",
+     "name": "Dorob Gym, толори варзишӣ",
+     "type": "branch",
+     "full_name": null,
+     "rating": 4.7
+    }
+   ]
+  },
+  "polygon|Фитнес": {
+   "code": 200,
+   "error": null,
+   "total": 76,
+   "n": 10,
+   "tajik": 10,
+   "countries": [
+    "Тоҷикистон"
+   ],
+   "first": [
+    {
+     "id": "70000001103044666",
+     "name": "X-FIT, клуби варзишӣ",
+     "type": "branch",
+     "full_name": null,
+     "rating": 5
+    },
+    {
+     "id": "70000001102009215",
+     "name": "Crocus fitness, клуби фитнесс",
+     "type": "branch",
+     "full_name": null,
+     "rating": 3.4
+    },
+    {
+     "id": "70000001102570930",
+     "name": "Spa hayot, маркази варзишӣ",
+     "type": "branch",
+     "full_name": "Душанбе, хиёбони Неъмат Қарабоев, 8/1",
+     "rating": null
+    },
+    {
+     "id": "70000001101445485",
+     "name": "Dorob Gym, толори варзишӣ",
+     "type": "branch",
+     "full_name": null,
+     "rating": 5
+    },
+    {
+     "id": "70000001109657173",
+     "name": "Dorob Gym, толори варзишӣ",
+     "type": "branch",
+     "full_name": null,
+     "rating": 4.7
+    }
+   ]
+  },
+  "bbox|Фитнес": {
+   "code": 200,
+   "error": null,
+   "total": 2,
+   "n": 2,
+   "tajik": 2,
+   "countries": [
+    "Тоҷикистон"
+   ],
+   "first": [
+    {
+     "id": "70000001111186619",
+     "name": "Ҳаёти Солим, варзиши занона",
+     "type": "branch",
+     "full_name": null,
+     "rating": null
+    },
+    {
+     "id": "70000001104949064",
+     "name": "Power gym, толори варзишӣ",
+     "type": "branch",
+     "full_name": null,
+     "rating": 5
+    }
+   ]
+  },
+  "city_id|Тренажерный зал": {
+   "code": 200,
+   "error": null,
+   "total": 57,
+   "n": 10,
+   "tajik": 10,
+   "countries": [
+    "Тоҷикистон"
+   ],
+   "first": [
+    {
+     "id": "70000001103044666",
+     "name": "X-FIT, клуби варзишӣ",
+     "type": "branch",
+     "full_name": null,
+     "rating": 5
+    },
+    {
+     "id": "70000001102570930",
+     "name": "Spa hayot, маркази варзишӣ",
+     "type": "branch",
+     "full_name": "Душанбе, хиёбони Неъмат Қарабоев, 8/1",
+     "rating": null
+    },
+    {
+     "id": "70000001101445485",
+     "name": "Dorob Gym, толори варзишӣ",
+     "type": "branch",
+     "full_name": null,
+     "rating": 5
+    },
+    {
+     "id": "70000001109657173",
+     "name": "Dorob Gym, толори варзишӣ",
+     "type": "branch",
+     "full_name": null,
+     "rating": 4.7
+    },
+    {
+     "id": "70000001111828764",
+     "name": "Tajmmaf, толори варзишӣ",
+     "type": "branch",
+     "full_name": null,
+     "rating": null
+    }
+   ]
+  },
+  "polygon|Тренажерный зал": {
+   "code": 200,
+   "error": null,
+   "total": 49,
+   "n": 10,
+   "tajik": 10,
+   "countries": [
+    "Тоҷикистон"
+   ],
+   "first": [
+    {
+     "id": "70000001103044666",
+     "name": "X-FIT, клуби варзишӣ",
+     "type": "branch",
+     "full_name": null,
+     "rating": 5
+    },
+    {
+     "id": "70000001102570930",
+     "name": "Spa hayot, маркази варзишӣ",
+     "type": "branch",
+     "full_name": "Душанбе, хиёбони Неъмат Қарабоев, 8/1",
+     "rating": null
+    },
+    {
+     "id": "70000001101445485",
+     "name": "Dorob Gym, толори варзишӣ",
+     "type": "branch",
+     "full_name": null,
+     "rating": 5
+    },
+    {
+     "id": "70000001109657173",
+     "name": "Dorob Gym, толори варзишӣ",
+     "type": "branch",
+     "full_name": null,
+     "rating": 4.7
+    },
+    {
+     "id": "70000001111828764",
+     "name": "Tajmmaf, толори варзишӣ",
+     "type": "branch",
+     "full_name": null,
+     "rating": null
+    }
+   ]
+  },
+  "bbox|Тренажерный зал": {
+   "code": 200,
+   "error": null,
+   "total": 1,
+   "n": 1,
+   "tajik": 1,
+   "countries": [
+    "Тоҷикистон"
+   ],
+   "first": [
+    {
+     "id": "70000001104949064",
+     "name": "Power gym, толори варзишӣ",
+     "type": "branch",
+     "full_name": null,
+     "rating": 5
+    }
+   ]
+  }
+ },
+ {
+  "city": "Худжанд",
+  "lon": 69.61491,
+  "lat": 40.290743,
+  "adm_div_city": {
+   "code": 404,
+   "error": "itemNotFound",
+   "total": null,
+   "n": 0,
+   "tajik": 0,
+   "countries": [],
+   "first": []
+  },
+  "reverse": {
+   "code": 200,
+   "error": null,
+   "total": 1,
+   "n": 1,
+   "tajik": 0,
+   "countries": [
+    "-"
+   ],
+   "first": [
+    {
+     "id": "70030076149052367",
+     "name": "Суғд Oblast",
+     "type": "adm_div",
+     "full_name": "Суғд Oblast",
+     "rating": null
+    }
+   ]
+  },
+  "city_ids": [],
+  "polygon|Фитнес": {
+   "code": 404,
+   "error": "itemNotFound",
+   "total": null,
+   "n": 0,
+   "tajik": 0,
+   "countries": [],
+   "first": []
+  },
+  "bbox|Фитнес": {
+   "code": 404,
+   "error": "itemNotFound",
+   "total": null,
+   "n": 0,
+   "tajik": 0,
+   "countries": [],
+   "first": []
+  },
+  "polygon|Тренажерный зал": {
+   "code": 404,
+   "error": "itemNotFound",
+   "total": null,
+   "n": 0,
+   "tajik": 0,
+   "countries": [],
+   "first": []
+  },
+  "bbox|Тренажерный зал": {
+   "code": 404,
+   "error": "itemNotFound",
+   "total": null,
+   "n": 0,
+   "tajik": 0,
+   "countries": [],
+   "first": []
+  }
+ },
+ {
+  "city": "Куляб",
+  "lon": 69.795687,
+  "lat": 37.908385,
+  "adm_div_city": {
+   "code": 404,
+   "error": "itemNotFound",
+   "total": null,
+   "n": 0,
+   "tajik": 0,
+   "countries": [],
+   "first": []
+  },
+  "reverse": {
+   "code": 200,
+   "error": null,
+   "total": 2,
+   "n": 2,
+   "tajik": 0,
+   "countries": [
+    "-"
+   ],
+   "first": [
+    {
+     "id": "70030077022409011",
+     "name": "Кулябский район",
+     "type": "adm_div",
+     "full_name": "Кулябский район",
+     "rating": null
+    },
+    {
+     "id": "70030076149052869",
+     "name": "Khatlon Region Oblast",
+     "type": "adm_div",
+     "full_name": "Khatlon Region Oblast",
+     "rating": null
+    }
+   ]
+  },
+  "city_ids": [],
+  "polygon|Фитнес": {
+   "code": 404,
+   "error": "itemNotFound",
+   "total": null,
+   "n": 0,
+   "tajik": 0,
+   "countries": [],
+   "first": []
+  },
+  "bbox|Фитнес": {
+   "code": 404,
+   "error": "itemNotFound",
+   "total": null,
+   "n": 0,
+   "tajik": 0,
+   "countries": [],
+   "first": []
+  },
+  "polygon|Тренажерный зал": {
+   "code": 404,
+   "error": "itemNotFound",
+   "total": null,
+   "n": 0,
+   "tajik": 0,
+   "countries": [],
+   "first": []
+  },
+  "bbox|Тренажерный зал": {
+   "code": 404,
+   "error": "itemNotFound",
+   "total": null,
+   "n": 0,
+   "tajik": 0,
+   "countries": [],
+   "first": []
+  }
+ },
+ {
+  "city": "Бохтар",
+  "lon": 68.780259,
+  "lat": 37.83579,
+  "adm_div_city": {
+   "code": 404,
+   "error": "itemNotFound",
+   "total": null,
+   "n": 0,
+   "tajik": 0,
+   "countries": [],
+   "first": []
+  },
+  "reverse": {
+   "code": 200,
+   "error": null,
+   "total": 2,
+   "n": 2,
+   "tajik": 0,
+   "countries": [
+    "-"
+   ],
+   "first": [
+    {
+     "id": "70030077022402386",
+     "name": "район Кушониён",
+     "type": "adm_div",
+     "full_name": "район Кушониён",
+     "rating": null
+    },
+    {
+     "id": "70030076149052869",
+     "name": "Khatlon Region Oblast",
+     "type": "adm_div",
+     "full_name": "Khatlon Region Oblast",
+     "rating": null
+    }
+   ]
+  },
+  "city_ids": [],
+  "polygon|Фитнес": {
+   "code": 404,
+   "error": "itemNotFound",
+   "total": null,
+   "n": 0,
+   "tajik": 0,
+   "countries": [],
+   "first": []
+  },
+  "bbox|Фитнес": {
+   "code": 404,
+   "error": "itemNotFound",
+   "total": null,
+   "n": 0,
+   "tajik": 0,
+   "countries": [],
+   "first": []
+  },
+  "polygon|Тренажерный зал": {
+   "code": 404,
+   "error": "itemNotFound",
+   "total": null,
+   "n": 0,
+   "tajik": 0,
+   "countries": [],
+   "first": []
+  },
+  "bbox|Тренажерный зал": {
+   "code": 404,
+   "error": "itemNotFound",
+   "total": null,
+   "n": 0,
+   "tajik": 0,
+   "countries": [],
+   "first": []
+  }
+ },
+ {
+  "city": "Истаравшан",
+  "lon": 69.008671,
+  "lat": 39.916858,
+  "adm_div_city": {
+   "code": 404,
+   "error": "itemNotFound",
+   "total": null,
+   "n": 0,
+   "tajik": 0,
+   "countries": [],
+   "first": []
+  },
+  "reverse": {
+   "code": 200,
+   "error": null,
+   "total": 2,
+   "n": 2,
+   "tajik": 0,
+   "countries": [
+    "-"
+   ],
+   "first": [
+    {
+     "id": "70030077021151265",
+     "name": "Истаравшанский район",
+     "type": "adm_div",
+     "full_name": "Истаравшанский район",
+     "rating": null
+    },
+    {
+     "id": "70030076149052367",
+     "name": "Суғд Oblast",
+     "type": "adm_div",
+     "full_name": "Суғд Oblast",
+     "rating": null
+    }
+   ]
+  },
+  "city_ids": [],
+  "polygon|Фитнес": {
+   "code": 404,
+   "error": "itemNotFound",
+   "total": null,
+   "n": 0,
+   "tajik": 0,
+   "countries": [],
+   "first": []
+  },
+  "bbox|Фитнес": {
+   "code": 404,
+   "error": "itemNotFound",
+   "total": null,
+   "n": 0,
+   "tajik": 0,
+   "countries": [],
+   "first": []
+  },
+  "polygon|Тренажерный зал": {
+   "code": 404,
+   "error": "itemNotFound",
+   "total": null,
+   "n": 0,
+   "tajik": 0,
+   "countries": [],
+   "first": []
+  },
+  "bbox|Тренажерный зал": {
+   "code": 404,
+   "error": "itemNotFound",
+   "total": null,
+   "n": 0,
+   "tajik": 0,
+   "countries": [],
+   "first": []
+  }
+ },
+ {
+  "city": "Турсунзаде",
+  "lon": 68.219934,
+  "lat": 38.51349,
+  "adm_div_city": {
+   "code": 404,
+   "error": "itemNotFound",
+   "total": null,
+   "n": 0,
+   "tajik": 0,
+   "countries": [],
+   "first": []
+  },
+  "reverse": {
+   "code": 200,
+   "error": null,
+   "total": 2,
+   "n": 2,
+   "tajik": 0,
+   "countries": [
+    "-"
+   ],
+   "first": [
+    {
+     "id": "70030077022389408",
+     "name": "Турсунзадевский район",
+     "type": "adm_div",
+     "full_name": "Турсунзадевский район",
+     "rating": null
+    },
+    {
+     "id": "70030076149053583",
+     "name": "Districts of Republican Subordination",
+     "type": "adm_div",
+     "full_name": "Districts of Republican Subordination",
+     "rating": null
+    }
+   ]
+  },
+  "city_ids": [],
+  "polygon|Фитнес": {
+   "code": 404,
+   "error": "itemNotFound",
+   "total": null,
+   "n": 0,
+   "tajik": 0,
+   "countries": [],
+   "first": []
+  },
+  "bbox|Фитнес": {
+   "code": 404,
+   "error": "itemNotFound",
+   "total": null,
+   "n": 0,
+   "tajik": 0,
+   "countries": [],
+   "first": []
+  },
+  "polygon|Тренажерный зал": {
+   "code": 404,
+   "error": "itemNotFound",
+   "total": null,
+   "n": 0,
+   "tajik": 0,
+   "countries": [],
+   "first": []
+  },
+  "bbox|Тренажерный зал": {
+   "code": 404,
+   "error": "itemNotFound",
+   "total": null,
+   "n": 0,
+   "tajik": 0,
+   "countries": [],
+   "first": []
+  }
+ },
+ {
+  "city": "Вахдат",
+  "lon": 69.012891,
+  "lat": 38.556198,
+  "adm_div_city": {
+   "code": 404,
+   "error": "itemNotFound",
+   "total": null,
+   "n": 0,
+   "tajik": 0,
+   "countries": [],
+   "first": []
+  },
+  "reverse": {
+   "code": 200,
+   "error": null,
+   "total": 2,
+   "n": 2,
+   "tajik": 0,
+   "countries": [
+    "-"
+   ],
+   "first": [
+    {
+     "id": "70030077021163883",
+     "name": "Вахдатский район",
+     "type": "adm_div",
+     "full_name": "Вахдатский район",
+     "rating": null
+    },
+    {
+     "id": "70030076149053583",
+     "name": "Districts of Republican Subordination",
+     "type": "adm_div",
+     "full_name": "Districts of Republican Subordination",
+     "rating": null
+    }
+   ]
+  },
+  "city_ids": [],
+  "polygon|Фитнес": {
+   "code": 404,
+   "error": "itemNotFound",
+   "total": null,
+   "n": 0,
+   "tajik": 0,
+   "countries": [],
+   "first": []
+  },
+  "bbox|Фитнес": {
+   "code": 404,
+   "error": "itemNotFound",
+   "total": null,
+   "n": 0,
+   "tajik": 0,
+   "countries": [],
+   "first": []
+  },
+  "polygon|Тренажерный зал": {
+   "code": 404,
+   "error": "itemNotFound",
+   "total": null,
+   "n": 0,
+   "tajik": 0,
+   "countries": [],
+   "first": []
+  },
+  "bbox|Тренажерный зал": {
+   "code": 404,
+   "error": "itemNotFound",
+   "total": null,
+   "n": 0,
+   "tajik": 0,
+   "countries": [],
+   "first": []
+  }
+ },
+ {
+  "city": "Пенджикент",
+  "lon": 67.606311,
+  "lat": 39.493536,
+  "adm_div_city": {
+   "code": 404,
+   "error": "itemNotFound",
+   "total": null,
+   "n": 0,
+   "tajik": 0,
+   "countries": [],
+   "first": []
+  },
+  "reverse": {
+   "code": 200,
+   "error": null,
+   "total": 2,
+   "n": 2,
+   "tajik": 0,
+   "countries": [
+    "-"
+   ],
+   "first": [
+    {
+     "id": "70030077021152543",
+     "name": "Пенджикентский район",
+     "type": "adm_div",
+     "full_name": "Пенджикентский район",
+     "rating": null
+    },
+    {
+     "id": "70030076149052367",
+     "name": "Суғд Oblast",
+     "type": "adm_div",
+     "full_name": "Суғд Oblast",
+     "rating": null
+    }
+   ]
+  },
+  "city_ids": [],
+  "polygon|Фитнес": {
+   "code": 404,
+   "error": "itemNotFound",
+   "total": null,
+   "n": 0,
+   "tajik": 0,
+   "countries": [],
+   "first": []
+  },
+  "bbox|Фитнес": {
+   "code": 404,
+   "error": "itemNotFound",
+   "total": null,
+   "n": 0,
+   "tajik": 0,
+   "countries": [],
+   "first": []
+  },
+  "polygon|Тренажерный зал": {
+   "code": 404,
+   "error": "itemNotFound",
+   "total": null,
+   "n": 0,
+   "tajik": 0,
+   "countries": [],
+   "first": []
+  },
+  "bbox|Тренажерный зал": {
+   "code": 404,
+   "error": "itemNotFound",
+   "total": null,
+   "n": 0,
+   "tajik": 0,
+   "countries": [],
+   "first": []
+  }
+ },
+ {
+  "city": "Исфара",
+  "lon": 70.606142,
+  "lat": 40.113321,
+  "adm_div_city": {
+   "code": 404,
+   "error": "itemNotFound",
+   "total": null,
+   "n": 0,
+   "tajik": 0,
+   "countries": [],
+   "first": []
+  },
+  "reverse": {
+   "code": 200,
+   "error": null,
+   "total": 2,
+   "n": 2,
+   "tajik": 0,
+   "countries": [
+    "-"
+   ],
+   "first": [
+    {
+     "id": "70030077021151708",
+     "name": "Исфаринский район",
+     "type": "adm_div",
+     "full_name": "Исфаринский район",
+     "rating": null
+    },
+    {
+     "id": "70030076149052367",
+     "name": "Суғд Oblast",
+     "type": "adm_div",
+     "full_name": "Суғд Oblast",
+     "rating": null
+    }
+   ]
+  },
+  "city_ids": [],
+  "polygon|Фитнес": {
+   "code": 404,
+   "error": "itemNotFound",
+   "total": null,
+   "n": 0,
+   "tajik": 0,
+   "countries": [],
+   "first": []
+  },
+  "bbox|Фитнес": {
+   "code": 404,
+   "error": "itemNotFound",
+   "total": null,
+   "n": 0,
+   "tajik": 0,
+   "countries": [],
+   "first": []
+  },
+  "polygon|Тренажерный зал": {
+   "code": 404,
+   "error": "itemNotFound",
+   "total": null,
+   "n": 0,
+   "tajik": 0,
+   "countries": [],
+   "first": []
+  },
+  "bbox|Тренажерный зал": {
+   "code": 404,
+   "error": "itemNotFound",
+   "total": null,
+   "n": 0,
+   "tajik": 0,
+   "countries": [],
+   "first": []
+  }
+ },
+ {
+  "city": "Канибадам",
+  "lon": 70.435268,
+  "lat": 40.288466,
+  "adm_div_city": {
+   "code": 404,
+   "error": "itemNotFound",
+   "total": null,
+   "n": 0,
+   "tajik": 0,
+   "countries": [],
+   "first": []
+  },
+  "reverse": {
+   "code": 200,
+   "error": null,
+   "total": 2,
+   "n": 2,
+   "tajik": 0,
+   "countries": [
+    "-"
+   ],
+   "first": [
+    {
+     "id": "70030077021152171",
+     "name": "Канибадамский район",
+     "type": "adm_div",
+     "full_name": "Канибадамский район",
+     "rating": null
+    },
+    {
+     "id": "70030076149052367",
+     "name": "Суғд Oblast",
+     "type": "adm_div",
+     "full_name": "Суғд Oblast",
+     "rating": null
+    }
+   ]
+  },
+  "city_ids": [],
+  "polygon|Фитнес": {
+   "code": 404,
+   "error": "itemNotFound",
+   "total": null,
+   "n": 0,
+   "tajik": 0,
+   "countries": [],
+   "first": []
+  },
+  "bbox|Фитнес": {
+   "code": 404,
+   "error": "itemNotFound",
+   "total": null,
+   "n": 0,
+   "tajik": 0,
+   "countries": [],
+   "first": []
+  },
+  "polygon|Тренажерный зал": {
+   "code": 404,
+   "error": "itemNotFound",
+   "total": null,
+   "n": 0,
+   "tajik": 0,
+   "countries": [],
+   "first": []
+  },
+  "bbox|Тренажерный зал": {
+   "code": 404,
+   "error": "itemNotFound",
+   "total": null,
+   "n": 0,
+   "tajik": 0,
+   "countries": [],
+   "first": []
+  }
+ },
+ {
+  "city": "Нурек",
+  "lon": 69.298222,
+  "lat": 38.391845,
+  "adm_div_city": {
+   "code": 404,
+   "error": "itemNotFound",
+   "total": null,
+   "n": 0,
+   "tajik": 0,
+   "countries": [],
+   "first": []
+  },
+  "reverse": {
+   "code": 200,
+   "error": null,
+   "total": 2,
+   "n": 2,
+   "tajik": 0,
+   "countries": [
+    "-"
+   ],
+   "first": [
+    {
+     "id": "70030077022426216",
+     "name": "Нурекский район",
+     "type": "adm_div",
+     "full_name": "Нурекский район",
+     "rating": null
+    },
+    {
+     "id": "70030076149052869",
+     "name": "Khatlon Region Oblast",
+     "type": "adm_div",
+     "full_name": "Khatlon Region Oblast",
+     "rating": null
+    }
+   ]
+  },
+  "city_ids": [],
+  "polygon|Фитнес": {
+   "code": 404,
+   "error": "itemNotFound",
+   "total": null,
+   "n": 0,
+   "tajik": 0,
+   "countries": [],
+   "first": []
+  },
+  "bbox|Фитнес": {
+   "code": 404,
+   "error": "itemNotFound",
+   "total": null,
+   "n": 0,
+   "tajik": 0,
+   "countries": [],
+   "first": []
+  },
+  "polygon|Тренажерный зал": {
+   "code": 404,
+   "error": "itemNotFound",
+   "total": null,
+   "n": 0,
+   "tajik": 0,
+   "countries": [],
+   "first": []
+  },
+  "bbox|Тренажерный зал": {
+   "code": 404,
+   "error": "itemNotFound",
+   "total": null,
+   "n": 0,
+   "tajik": 0,
+   "countries": [],
+   "first": []
+  }
+ },
+ {
+  "city": "Мургаб",
+  "lon": 73.974968,
+  "lat": 38.178442,
+  "adm_div_city": {
+   "code": 404,
+   "error": "itemNotFound",
+   "total": null,
+   "n": 0,
+   "tajik": 0,
+   "countries": [],
+   "first": []
+  },
+  "reverse": {
+   "code": 200,
+   "error": null,
+   "total": 2,
+   "n": 2,
+   "tajik": 0,
+   "countries": [
+    "-"
+   ],
+   "first": [
+    {
+     "id": "70030077022735815",
+     "name": "Мургабский район",
+     "type": "adm_div",
+     "full_name": "Мургабский район",
+     "rating": null
+    },
+    {
+     "id": "70030076149052840",
+     "name": "Gorno-Badakhshan Autonomous Region Oblast",
+     "type": "adm_div",
+     "full_name": "Gorno-Badakhshan Autonomous Region Oblast",
+     "rating": null
+    }
+   ]
+  },
+  "city_ids": [],
+  "polygon|Фитнес": {
+   "code": 404,
+   "error": "itemNotFound",
+   "total": null,
+   "n": 0,
+   "tajik": 0,
+   "countries": [],
+   "first": []
+  },
+  "bbox|Фитнес": {
+   "code": 404,
+   "error": "itemNotFound",
+   "total": null,
+   "n": 0,
+   "tajik": 0,
+   "countries": [],
+   "first": []
+  },
+  "polygon|Тренажерный зал": {
+   "code": 404,
+   "error": "itemNotFound",
+   "total": null,
+   "n": 0,
+   "tajik": 0,
+   "countries": [],
+   "first": []
+  },
+  "bbox|Тренажерный зал": {
+   "code": 404,
+   "error": "itemNotFound",
+   "total": null,
+   "n": 0,
+   "tajik": 0,
+   "countries": [],
+   "first": []
+  }
+ },
+ {
+  "city": "Хорог",
+  "lon": 71.589004,
+  "lat": 37.490551,
+  "adm_div_city": {
+   "code": 404,
+   "error": "itemNotFound",
+   "total": null,
+   "n": 0,
+   "tajik": 0,
+   "countries": [],
+   "first": []
+  },
+  "reverse": {
+   "code": 200,
+   "error": null,
+   "total": 2,
+   "n": 2,
+   "tajik": 0,
+   "countries": [
+    "-"
+   ],
+   "first": [
+    {
+     "id": "70030077022767512",
+     "name": "Рушанский район",
+     "type": "adm_div",
+     "full_name": "Рушанский район",
+     "rating": null
+    },
+    {
+     "id": "70030076149052840",
+     "name": "Gorno-Badakhshan Autonomous Region Oblast",
+     "type": "adm_div",
+     "full_name": "Gorno-Badakhshan Autonomous Region Oblast",
+     "rating": null
+    }
+   ]
+  },
+  "city_ids": [],
+  "polygon|Фитнес": {
+   "code": 404,
+   "error": "itemNotFound",
+   "total": null,
+   "n": 0,
+   "tajik": 0,
+   "countries": [],
+   "first": []
+  },
+  "bbox|Фитнес": {
+   "code": 404,
+   "error": "itemNotFound",
+   "total": null,
+   "n": 0,
+   "tajik": 0,
+   "countries": [],
+   "first": []
+  },
+  "polygon|Тренажерный зал": {
+   "code": 404,
+   "error": "itemNotFound",
+   "total": null,
+   "n": 0,
+   "tajik": 0,
+   "countries": [],
+   "first": []
+  },
+  "bbox|Тренажерный зал": {
+   "code": 404,
+   "error": "itemNotFound",
+   "total": null,
+   "n": 0,
+   "tajik": 0,
+   "countries": [],
+   "first": []
+  }
+ },
+ {
+  "city": "Гиссар",
+  "lon": 68.553657,
+  "lat": 38.526938,
+  "adm_div_city": {
+   "code": 404,
+   "error": "itemNotFound",
+   "total": null,
+   "n": 0,
+   "tajik": 0,
+   "countries": [],
+   "first": []
+  },
+  "reverse": {
+   "code": 200,
+   "error": null,
+   "total": 2,
+   "n": 2,
+   "tajik": 0,
+   "countries": [
+    "-"
+   ],
+   "first": [
+    {
+     "id": "70030077021164223",
+     "name": "Гиссарский район",
+     "type": "adm_div",
+     "full_name": "Гиссарский район",
+     "rating": null
+    },
+    {
+     "id": "70030076149053583",
+     "name": "Districts of Republican Subordination",
+     "type": "adm_div",
+     "full_name": "Districts of Republican Subordination",
+     "rating": null
+    }
+   ]
+  },
+  "city_ids": [],
+  "polygon|Фитнес": {
+   "code": 404,
+   "error": "itemNotFound",
+   "total": null,
+   "n": 0,
+   "tajik": 0,
+   "countries": [],
+   "first": []
+  },
+  "bbox|Фитнес": {
+   "code": 404,
+   "error": "itemNotFound",
+   "total": null,
+   "n": 0,
+   "tajik": 0,
+   "countries": [],
+   "first": []
+  },
+  "polygon|Тренажерный зал": {
+   "code": 404,
+   "error": "itemNotFound",
+   "total": null,
+   "n": 0,
+   "tajik": 0,
+   "countries": [],
+   "first": []
+  },
+  "bbox|Тренажерный зал": {
+   "code": 404,
+   "error": "itemNotFound",
+   "total": null,
+   "n": 0,
+   "tajik": 0,
+   "countries": [],
+   "first": []
+  }
+ },
+ {
+  "city": "Ванч",
+  "lon": 71.456477,
+  "lat": 38.372081,
+  "adm_div_city": {
+   "code": 404,
+   "error": "itemNotFound",
+   "total": null,
+   "n": 0,
+   "tajik": 0,
+   "countries": [],
+   "first": []
+  },
+  "reverse": {
+   "code": 200,
+   "error": null,
+   "total": 2,
+   "n": 2,
+   "tajik": 0,
+   "countries": [
+    "-"
+   ],
+   "first": [
+    {
+     "id": "70030077022722824",
+     "name": "Ванчский район",
+     "type": "adm_div",
+     "full_name": "Ванчский район",
+     "rating": null
+    },
+    {
+     "id": "70030076149052840",
+     "name": "Gorno-Badakhshan Autonomous Region Oblast",
+     "type": "adm_div",
+     "full_name": "Gorno-Badakhshan Autonomous Region Oblast",
+     "rating": null
+    }
+   ]
+  },
+  "city_ids": [],
+  "polygon|Фитнес": {
+   "code": 404,
+   "error": "itemNotFound",
+   "total": null,
+   "n": 0,
+   "tajik": 0,
+   "countries": [],
+   "first": []
+  },
+  "bbox|Фитнес": {
+   "code": 404,
+   "error": "itemNotFound",
+   "total": null,
+   "n": 0,
+   "tajik": 0,
+   "countries": [],
+   "first": []
+  },
+  "polygon|Тренажерный зал": {
+   "code": 404,
+   "error": "itemNotFound",
+   "total": null,
+   "n": 0,
+   "tajik": 0,
+   "countries": [],
+   "first": []
+  },
+  "bbox|Тренажерный зал": {
+   "code": 404,
+   "error": "itemNotFound",
+   "total": null,
+   "n": 0,
+   "tajik": 0,
+   "countries": [],
+   "first": []
+  }
+ },
+ {
+  "city": "Лахш",
+  "lon": 71.381897,
+  "lat": 39.339819,
+  "adm_div_city": {
+   "code": 404,
+   "error": "itemNotFound",
+   "total": null,
+   "n": 0,
+   "tajik": 0,
+   "countries": [],
+   "first": []
+  },
+  "reverse": {
+   "code": 200,
+   "error": null,
+   "total": 2,
+   "n": 2,
+   "tajik": 0,
+   "countries": [
+    "-"
+   ],
+   "first": [
+    {
+     "id": "70030077022383742",
+     "name": "район Лахш",
+     "type": "adm_div",
+     "full_name": "район Лахш",
+     "rating": null
+    },
+    {
+     "id": "70030076149053583",
+     "name": "Districts of Republican Subordination",
+     "type": "adm_div",
+     "full_name": "Districts of Republican Subordination",
+     "rating": null
+    }
+   ]
+  },
+  "city_ids": [],
+  "polygon|Фитнес": {
+   "code": 404,
+   "error": "itemNotFound",
+   "total": null,
+   "n": 0,
+   "tajik": 0,
+   "countries": [],
+   "first": []
+  },
+  "bbox|Фитнес": {
+   "code": 404,
+   "error": "itemNotFound",
+   "total": null,
+   "n": 0,
+   "tajik": 0,
+   "countries": [],
+   "first": []
+  },
+  "polygon|Тренажерный зал": {
+   "code": 404,
+   "error": "itemNotFound",
+   "total": null,
+   "n": 0,
+   "tajik": 0,
+   "countries": [],
+   "first": []
+  },
+  "bbox|Тренажерный зал": {
+   "code": 404,
+   "error": "itemNotFound",
+   "total": null,
+   "n": 0,
+   "tajik": 0,
+   "countries": [],
+   "first": []
+  }
+ },
+ {
+  "city": "Файзабад",
+  "lon": 70.035,
+  "lat": 38.554,
+  "adm_div_city": {
+   "code": 404,
+   "error": "itemNotFound",
+   "total": null,
+   "n": 0,
+   "tajik": 0,
+   "countries": [],
+   "first": []
+  },
+  "reverse": {
+   "code": 200,
+   "error": null,
+   "total": 2,
+   "n": 2,
+   "tajik": 0,
+   "countries": [
+    "-"
+   ],
+   "first": [
+    {
+     "id": "70030077022396462",
+     "name": "Бальджуванский район",
+     "type": "adm_div",
+     "full_name": "Бальджуванский район",
+     "rating": null
+    },
+    {
+     "id": "70030076149052869",
+     "name": "Khatlon Region Oblast",
+     "type": "adm_div",
+     "full_name": "Khatlon Region Oblast",
+     "rating": null
+    }
+   ]
+  },
+  "city_ids": [],
+  "polygon|Фитнес": {
+   "code": 404,
+   "error": "itemNotFound",
+   "total": null,
+   "n": 0,
+   "tajik": 0,
+   "countries": [],
+   "first": []
+  },
+  "bbox|Фитнес": {
+   "code": 404,
+   "error": "itemNotFound",
+   "total": null,
+   "n": 0,
+   "tajik": 0,
+   "countries": [],
+   "first": []
+  },
+  "polygon|Тренажерный зал": {
+   "code": 404,
+   "error": "itemNotFound",
+   "total": null,
+   "n": 0,
+   "tajik": 0,
+   "countries": [],
+   "first": []
+  },
+  "bbox|Тренажерный зал": {
+   "code": 404,
+   "error": "itemNotFound",
+   "total": null,
+   "n": 0,
+   "tajik": 0,
+   "countries": [],
+   "first": []
+  }
+ },
+ {
+  "city": "Истиклол",
+  "lon": 69.65052,
+  "lat": 40.585009,
+  "adm_div_city": {
+   "code": 404,
+   "error": "itemNotFound",
+   "total": null,
+   "n": 0,
+   "tajik": 0,
+   "countries": [],
+   "first": []
+  },
+  "reverse": {
+   "code": 200,
+   "error": null,
+   "total": 2,
+   "n": 2,
+   "tajik": 0,
+   "countries": [
+    "-"
+   ],
+   "first": [
+    {
+     "id": "70030077021137258",
+     "name": "Гафуровский район",
+     "type": "adm_div",
+     "full_name": "Гафуровский район",
+     "rating": null
+    },
+    {
+     "id": "70030076149052367",
+     "name": "Суғд Oblast",
+     "type": "adm_div",
+     "full_name": "Суғд Oblast",
+     "rating": null
+    }
+   ]
+  },
+  "city_ids": [],
+  "polygon|Фитнес": {
+   "code": 404,
+   "error": "itemNotFound",
+   "total": null,
+   "n": 0,
+   "tajik": 0,
+   "countries": [],
+   "first": []
+  },
+  "bbox|Фитнес": {
+   "code": 404,
+   "error": "itemNotFound",
+   "total": null,
+   "n": 0,
+   "tajik": 0,
+   "countries": [],
+   "first": []
+  },
+  "polygon|Тренажерный зал": {
+   "code": 404,
+   "error": "itemNotFound",
+   "total": null,
+   "n": 0,
+   "tajik": 0,
+   "countries": [],
+   "first": []
+  },
+  "bbox|Тренажерный зал": {
+   "code": 404,
+   "error": "itemNotFound",
+   "total": null,
+   "n": 0,
+   "tajik": 0,
+   "countries": [],
+   "first": []
+  }
+ },
+ {
+  "city": "Шамсидин Шуҳин",
+  "lon": 70.049143,
+  "lat": 37.725966,
+  "adm_div_city": {
+   "code": 404,
+   "error": "itemNotFound",
+   "total": null,
+   "n": 0,
+   "tajik": 0,
+   "countries": [],
+   "first": []
+  },
+  "reverse": {
+   "code": 200,
+   "error": null,
+   "total": 2,
+   "n": 2,
+   "tajik": 0,
+   "countries": [
+    "-"
+   ],
+   "first": [
+    {
+     "id": "70030077022419594",
+     "name": "район Шамсиддин Шохин",
+     "type": "adm_div",
+     "full_name": "район Шамсиддин Шохин",
+     "rating": null
+    },
+    {
+     "id": "70030076149052869",
+     "name": "Khatlon Region Oblast",
+     "type": "adm_div",
+     "full_name": "Khatlon Region Oblast",
+     "rating": null
+    }
+   ]
+  },
+  "city_ids": [],
+  "polygon|Фитнес": {
+   "code": 404,
+   "error": "itemNotFound",
+   "total": null,
+   "n": 0,
+   "tajik": 0,
+   "countries": [],
+   "first": []
+  },
+  "bbox|Фитнес": {
+   "code": 404,
+   "error": "itemNotFound",
+   "total": null,
+   "n": 0,
+   "tajik": 0,
+   "countries": [],
+   "first": []
+  },
+  "polygon|Тренажерный зал": {
+   "code": 404,
+   "error": "itemNotFound",
+   "total": null,
+   "n": 0,
+   "tajik": 0,
+   "countries": [],
+   "first": []
+  },
+  "bbox|Тренажерный зал": {
+   "code": 404,
+   "error": "itemNotFound",
+   "total": null,
+   "n": 0,
+   "tajik": 0,
+   "countries": [],
+   "first": []
+  }
+ },
+ {
+  "city": "Яван",
+  "lon": 70.816,
+  "lat": 39.335,
+  "adm_div_city": {
+   "code": 404,
+   "error": "itemNotFound",
+   "total": null,
+   "n": 0,
+   "tajik": 0,
+   "countries": [],
+   "first": []
+  },
+  "reverse": {
+   "code": 200,
+   "error": null,
+   "total": 2,
+   "n": 2,
+   "tajik": 0,
+   "countries": [
+    "-"
+   ],
+   "first": [
+    {
+     "id": "70030077022386084",
+     "name": "Раштский район",
+     "type": "adm_div",
+     "full_name": "Раштский район",
+     "rating": null
+    },
+    {
+     "id": "70030076149053583",
+     "name": "Districts of Republican Subordination",
+     "type": "adm_div",
+     "full_name": "Districts of Republican Subordination",
+     "rating": null
+    }
+   ]
+  },
+  "city_ids": [],
+  "polygon|Фитнес": {
+   "code": 404,
+   "error": "itemNotFound",
+   "total": null,
+   "n": 0,
+   "tajik": 0,
+   "countries": [],
+   "first": []
+  },
+  "bbox|Фитнес": {
+   "code": 404,
+   "error": "itemNotFound",
+   "total": null,
+   "n": 0,
+   "tajik": 0,
+   "countries": [],
+   "first": []
+  },
+  "polygon|Тренажерный зал": {
+   "code": 404,
+   "error": "itemNotFound",
+   "total": null,
+   "n": 0,
+   "tajik": 0,
+   "countries": [],
+   "first": []
+  },
+  "bbox|Тренажерный зал": {
+   "code": 404,
+   "error": "itemNotFound",
+   "total": null,
+   "n": 0,
+   "tajik": 0,
+   "countries": [],
+   "first": []
+  }
+ },
+ {
+  "city": "Кумсангир",
+  "lon": 68.383,
+  "lat": 37.567,
+  "adm_div_city": {
+   "code": 404,
+   "error": "itemNotFound",
+   "total": null,
+   "n": 0,
+   "tajik": 0,
+   "countries": [],
+   "first": []
+  },
+  "reverse": {
+   "code": 200,
+   "error": null,
+   "total": 2,
+   "n": 2,
+   "tajik": 0,
+   "countries": [
+    "-"
+   ],
+   "first": [
+    {
+     "id": "70030077022406335",
+     "name": "район Дусти",
+     "type": "adm_div",
+     "full_name": "район Дусти",
+     "rating": null
+    },
+    {
+     "id": "70030076149052869",
+     "name": "Khatlon Region Oblast",
+     "type": "adm_div",
+     "full_name": "Khatlon Region Oblast",
+     "rating": null
+    }
+   ]
+  },
+  "city_ids": [],
+  "polygon|Фитнес": {
+   "code": 404,
+   "error": "itemNotFound",
+   "total": null,
+   "n": 0,
+   "tajik": 0,
+   "countries": [],
+   "first": []
+  },
+  "bbox|Фитнес": {
+   "code": 404,
+   "error": "itemNotFound",
+   "total": null,
+   "n": 0,
+   "tajik": 0,
+   "countries": [],
+   "first": []
+  },
+  "polygon|Тренажерный зал": {
+   "code": 404,
+   "error": "itemNotFound",
+   "total": null,
+   "n": 0,
+   "tajik": 0,
+   "countries": [],
+   "first": []
+  },
+  "bbox|Тренажерный зал": {
+   "code": 404,
+   "error": "itemNotFound",
+   "total": null,
+   "n": 0,
+   "tajik": 0,
+   "countries": [],
+   "first": []
+  }
+ },
+ {
+  "city": "Рошан",
+  "lon": 71.739,
+  "lat": 37.308,
+  "adm_div_city": {
+   "code": 404,
+   "error": "itemNotFound",
+   "total": null,
+   "n": 0,
+   "tajik": 0,
+   "countries": [],
+   "first": []
+  },
+  "reverse": {
+   "code": 200,
+   "error": null,
+   "total": 2,
+   "n": 2,
+   "tajik": 0,
+   "countries": [
+    "-"
+   ],
+   "first": [
+    {
+     "id": "70030077022766922",
+     "name": "Рошткалинский район",
+     "type": "adm_div",
+     "full_name": "Рошткалинский район",
+     "rating": null
+    },
+    {
+     "id": "70030076149052840",
+     "name": "Gorno-Badakhshan Autonomous Region Oblast",
+     "type": "adm_div",
+     "full_name": "Gorno-Badakhshan Autonomous Region Oblast",
+     "rating": null
+    }
+   ]
+  },
+  "city_ids": [],
+  "polygon|Фитнес": {
+   "code": 404,
+   "error": "itemNotFound",
+   "total": null,
+   "n": 0,
+   "tajik": 0,
+   "countries": [],
+   "first": []
+  },
+  "bbox|Фитнес": {
+   "code": 404,
+   "error": "itemNotFound",
+   "total": null,
+   "n": 0,
+   "tajik": 0,
+   "countries": [],
+   "first": []
+  },
+  "polygon|Тренажерный зал": {
+   "code": 404,
+   "error": "itemNotFound",
+   "total": null,
+   "n": 0,
+   "tajik": 0,
+   "countries": [],
+   "first": []
+  },
+  "bbox|Тренажерный зал": {
+   "code": 404,
+   "error": "itemNotFound",
+   "total": null,
+   "n": 0,
+   "tajik": 0,
+   "countries": [],
+   "first": []
+  }
+ },
+ {
+  "city": "Джиргатол",
+  "lon": 69.992,
+  "lat": 39.092,
+  "adm_div_city": {
+   "code": 404,
+   "error": "itemNotFound",
+   "total": null,
+   "n": 0,
+   "tajik": 0,
+   "countries": [],
+   "first": []
+  },
+  "reverse": {
+   "code": 200,
+   "error": null,
+   "total": 2,
+   "n": 2,
+   "tajik": 0,
+   "countries": [
+    "-"
+   ],
+   "first": [
+    {
+     "id": "70030077022386084",
+     "name": "Раштский район",
+     "type": "adm_div",
+     "full_name": "Раштский район",
+     "rating": null
+    },
+    {
+     "id": "70030076149053583",
+     "name": "Districts of Republican Subordination",
+     "type": "adm_div",
+     "full_name": "Districts of Republican Subordination",
+     "rating": null
+    }
+   ]
+  },
+  "city_ids": [],
+  "polygon|Фитнес": {
+   "code": 404,
+   "error": "itemNotFound",
+   "total": null,
+   "n": 0,
+   "tajik": 0,
+   "countries": [],
+   "first": []
+  },
+  "bbox|Фитнес": {
+   "code": 404,
+   "error": "itemNotFound",
+   "total": null,
+   "n": 0,
+   "tajik": 0,
+   "countries": [],
+   "first": []
+  },
+  "polygon|Тренажерный зал": {
+   "code": 404,
+   "error": "itemNotFound",
+   "total": null,
+   "n": 0,
+   "tajik": 0,
+   "countries": [],
+   "first": []
+  },
+  "bbox|Тренажерный зал": {
+   "code": 404,
+   "error": "itemNotFound",
+   "total": null,
+   "n": 0,
+   "tajik": 0,
+   "countries": [],
+   "first": []
+  }
+ }
+]

@@ -1,0 +1,26 @@
+  транспорт_связь.txt chunk 1/9 (+4s)
+  транспорт_связь.txt chunk 2/9 (+4s)
+  транспорт_связь.txt chunk 3/9 (+5s)
+  транспорт_связь.txt chunk 4/9 (+5s)
+  транспорт_связь.txt chunk 5/9 (+6s)
+  транспорт_связь.txt chunk 6/9 (+7s)
+  транспорт_связь.txt chunk 7/9 (+6s)
+  транспорт_связь.txt chunk 8/9 (+8s)
+  транспорт_связь.txt chunk 9/9 (+6s)
+  транспорт_связь.txt merge (9 parts)
+OK транспорт_связь.md: 72801 -> 9129 ch
+EXIT=0
+  прочее.txt chunk 1/11 (+5s)
+  прочее.txt chunk 2/11 (+14s)
+  прочее.txt chunk 3/11 (+4s)
+  прочее.txt chunk 4/11 (+4s)
+  прочее.txt chunk 5/11 (+6s)
+  прочее.txt chunk 6/11 (+6s)
+  прочее.txt chunk 7/11 (+8s)
+  прочее.txt chunk 8/11 (+23s)
+  прочее.txt chunk 9/11 (+32s)
+  прочее.txt chunk 10/11 (+53s)
+  прочее.txt chunk 11/11 (+1s)
+  прочее.txt merge (11 parts)
+OK прочее.md: 84662 -> 8862 ch
+EXIT2=0

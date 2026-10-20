@@ -1,0 +1,3 @@
+
+---STDERR---
+✗ Element not found: --full-page. Verify the selector, role, or name is correct and the element exists in the DOM.

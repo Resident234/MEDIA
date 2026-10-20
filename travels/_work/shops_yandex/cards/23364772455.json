@@ -1,0 +1,111 @@
+{
+ "url": "https://yandex.kz/maps/org/barakat_plaza/23364772455/?ll=68.791512%2C38.562512&z=16",
+ "title": "Баракат Плаза, торговый центр, Душанбе, ул. Садриддина Айни, 16Б — Яндекс Карты",
+ "h1": "Баракат Плаза",
+ "coords": [
+  "68.791505,38.562477",
+  "68.791505,38.562477"
+ ],
+ "rating": [
+  "Оценка 4.6 Из 5",
+  "Оценка 4.6 Из 5",
+  "Оценка 5 Из 5"
+ ],
+ "categories": [
+  "Торговый центр",
+  "Развлекательный центр"
+ ],
+ "address": [
+  {
+   "t": "Душанбе, ул. Садриддина Айни, 16Б",
+   "h": "/maps/10318/dushanbe/house/YkEYcQ5hTEQGQF1ifXl3c3liZg==/"
+  },
+  {
+   "t": "Душанбе, ул. Садриддина Айни, 16Б",
+   "h": null
+  },
+  {
+   "t": "Душанбе, ул. Садриддина Айни, 16Б",
+   "h": "/maps/10318/dushanbe/house/YkEYcQ5hTEQGQF1ifXl3c3liZg==/"
+  },
+  {
+   "t": "Маршрут",
+   "h": null
+  }
+ ],
+ "phones": [
+  {
+   "t": "+992 44 630 20 20",
+   "h": null
+  },
+  {
+   "t": "+992 44 630 20 20 Показать телефон",
+   "h": null
+  },
+  {
+   "t": "+992 44 630 20 20 Показать телефон",
+   "h": null
+  }
+ ],
+ "msgLinks": [
+  {
+   "t": "",
+   "h": "https://vk.com/yandex.maps",
+   "c": "card-social-links-view__link",
+   "ownOrg": 0
+  },
+  {
+   "t": "",
+   "h": "https://t.me/mapsyandex",
+   "c": "card-social-links-view__link",
+   "ownOrg": 0
+  }
+ ],
+ "apps": [],
+ "extLinks": [],
+ "social": [
+  {
+   "t": "",
+   "h": "https://vk.com/yandex.maps",
+   "c": "card-social-links-view__link"
+  },
+  {
+   "t": "",
+   "h": "https://t.me/mapsyandex",
+   "c": "card-social-links-view__link"
+  },
+  {
+   "t": "",
+   "h": "https://zen.yandex.ru/yandexmaps",
+   "c": "card-social-links-view__link"
+  }
+ ],
+ "btns": [],
+ "emails": [],
+ "contactBlock": [
+  "Адрес Душанбе, ул. Садриддина Айни, 16Б Маршрут",
+  "Адрес",
+  "",
+  "Душанбе, ул. Садриддина Айни, 16Б",
+  "Душанбе, ул. Садриддина Айни, 16Б",
+  "Маршрут",
+  "Маршрут",
+  "Контакты +992 44 630 20 20 Показать телефон",
+  "Контакты",
+  "",
+  "Время работы Открыто до 00:00 График",
+  "Время работы",
+  ""
+ ],
+ "hours": [],
+ "list": {
+  "name": "Баракат Плаза",
+  "city": "dushanbe",
+  "rating": 4.6,
+  "reviews": 29,
+  "lon": "68.791505",
+  "lat": "38.562477",
+  "src": "торговый центр",
+  "priority": true
+ }
+}

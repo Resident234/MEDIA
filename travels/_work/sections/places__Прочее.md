@@ -1,0 +1,84 @@
+**Душанбе и Гиссарская долина**
+- **Архитектура и городская среда**:
+    - Центральная улица: неоклассические высотки времен Союза, засажена высокими деревьями. [→45](https://www.onetwotrip.com/ru/blog/guides/asia/activities-in-the-fsu/)
+    - Флагшток: самый высокий в мире, высота 165 метров. [→25](https://varandej.livejournal.com/844767.html) [→45](https://www.onetwotrip.com/ru/blog/guides/asia/activities-in-the-fsu/)
+    - Монумент Исмоила Сомони: высота 11,5 м, арка до 40 м. [→56](https://tengritravel.kz/around-the-world/stoyanka-aleksandra-makedonskogo-spyaschiy-drakon-10-394394/)
+    - Национальная библиотека: длина 167 м, высота 52 м, площадь 45 тыс. кв. м. [→56](https://tengritravel.kz/around-the-world/stoyanka-aleksandra-makedonskogo-spyaschiy-drakon-10-394394/)
+    - Кохи Навруз: современная архитектурная гордость Таджикистана. [→1](https://journal.tinkoff.ru/list/cinema-travel/)
+    - Советская архитектура: всех эпох, характеризуется как вычурная и необычная (мнение автора). [→14](https://varandej.livejournal.com/843082.html) [→16](https://varandej.livejournal.com/976302.html)
+- **Культура и досуг**:
+    - Парк имени поэта Рудаки: ухоженный парк в центре города. [→45](https://www.onetwotrip.com/ru/blog/guides/asia/activities-in-the-fsu/)
+    - 3D-кинотеатр «Навруз»: самый большой экран в стране (105 кв. м). [→1](https://journal.tinkoff.ru/list/cinema-travel/)
+    - Кинотеатр «Кайхон»: расположен внутри дворца «Кохи Навруз». [→1](https://journal.tinkoff.ru/list/cinema-travel/)
+    - Музей музыкальных инструментов Гурминджа: проводятся музыкальные вечера. [→45](https://www.onetwotrip.com/ru/blog/guides/asia/activities-in-the-fsu/)
+- **Музеи**:
+    - Национальный музей: пафосный (мнение автора). [→16](https://varandej.livejournal.com/976302.html) [→54](https://varandej.livejournal.com/861295.html)
+    - Музей древностей: коллекция не хуже среднеазиатских залов Эрмитажа (мнение автора). [→16](https://varandej.livejournal.com/976302.html)
+- **Окрестности**:
+    - Гиссарская крепость (26 км от города): дворец бека Бухарского эмирата. [→56](https://tengritravel.kz/around-the-world/stoyanka-aleksandra-makedonskogo-spyaschiy-drakon-10-394394/) [→45](https://www.onetwotrip.com/ru/blog/guides/asia/activities-in-the-fsu/)
+
+**Худжанд и пригород (Бустан, Арбоб)**
+- **Худжанд**:
+    - Статус: «Северная столица», «Таджикский Питер» (мнение автора), население до 200 тыс. (в агломерации пол-миллиона). [→33](https://varandej.livejournal.com/858933.html) [→16](https://varandej.livejournal.com/976302.html)
+    - Объекты: древности, уездные домики, гостиница «Худжанд» (высотка). [→16](https://varandej.livejournal.com/976302.html) [→30](https://varandej.livejournal.com/859152.html)
+    - Рынок Панчшанбе: крытый, самый роскошный в СССР (мнение автора). [→16](https://varandej.livejournal.com/976302.html)
+- **Бустан (ранее Чкаловск, Ленинабад-30)**: [→33](https://varandej.livejournal.com/858933.html)
+    - Статус: пригород Худжанда, бывший ЗАТО, центр Минсредмаша в Средней Азии и Сибири, население 26 тыс. жителей. [→33](https://varandej.livejournal.com/858933.html)
+    - Архитектура и здания:
+        - Дворец культуры (1949 г.), ЗАГС, здание конторы «Востокредмета» (мощное сталинское здание). [→33](https://varandej.livejournal.com/858933.html) [→23](https://varandej.livejournal.com/860536.html)
+        - Кинотеатр «Искра» (сталинский), Русский драмтеатр им. Пушкина (осн. 1932 г.), здание бывшего театра кукол (1960), кинотеатр «Космос». [→33](https://varandej.livejournal.com/858933.html)
+        - Среднеазиатский политехникум им. Ленинского Комсомола (с 2006 — Горно-металлургический институт Таджикистана) и филиал Института Конфуция. [→33](https://varandej.livejournal.com/858933.html)
+        - «Сталинская» улочка за институтом (одна из последних уцелевших после землетрясения). [→33](https://varandej.livejournal.com/858933.html)
+    - Площади и парки:
+        - Главная площадь (ансамбль сохранен после землетрясения) с памятником Ленину. [→33](https://varandej.livejournal.com/858933.html) [→44](https://varandej.livejournal.com/849673.html)
+        - Площадь 850-летия Москвы (название с 1997 г.). [→33](https://varandej.livejournal.com/858933.html)
+        - Верхний парк (им. Садриддина Айни): Летний театр, Малый спортзал, площадка с Царь-пушкой (сооружена при независимости). [→33](https://varandej.livejournal.com/858933.html)
+        - Нижний парк: мемориал Великой Отечественной, дамба вдоль пруда, горбатый мостик. [→33](https://varandej.livejournal.com/858933.html)
+        - Сосновый бульвар вдоль Московской улицы. [→33](https://varandej.livejournal.com/858933.html)
+    - Прочее: стела Работникам атомной промышленности, крытый рынок напротив ЗАГСа, бюст Владимира Опланчука, Горнохимический комбинат №6 («Востокредмет»), урановый рудник Киик-Тап. [→33](https://varandej.livejournal.com/858933.html) [→30](https://varandej.livejournal.com/859152.html)
+    - Утрачено: Дворец пионеров (снесен после землетрясения). [→33](https://varandej.livejournal.com/858933.html)
+- **Пригород и окрестности**:
+    - Дворец культуры «Арбоб»: самый роскошный во всем СССР (мнение автора). [→16](https://varandej.livejournal.com/976302.html)
+    - Гафуров. [→33](https://varandej.livejournal.com/858933.html)
+    - Рельеф: Кураминский хребет (отрог Моголтау) над Худжандом, Туркестанский хребет к югу. [→33](https://varandej.livejournal.com/858933.html) [→30](https://varandej.livejournal.com/859152.html)
+
+**Другие города и поселения**
+- **Истаравшан (Ура-Тюбе)**: древности, базар, старый и новый город, священные рощи. [→33](https://varandej.livejournal.com/858933.html) [→23](https://varandej.livejournal.com/860536.html) [→52](https://varandej.livejournal.com/861110.html)
+- **Пенджикент**: древний город, центр долины Зарафшана; фрески находятся в Эрмитаже. Окрестности: Саразм, Панджруд. [→16](https://varandej.livejournal.com/976302.html) [→60](https://varandej.livejournal.com/863488.html)
+- **Бохтар**: церковь и костёл (при отсутствии мечети). [→16](https://varandej.livejournal.com/976302.html) [→71](https://varandej.livejournal.com/822020.html)
+- **Куляб**: древние и советские объекты. [→16](https://varandej.livejournal.com/976302.html) [→71](https://varandej.livejournal.com/822020.html)
+- **Турсунзаде**: Таджикский алюминиевый завод (пущен в 1975 г.), дает около 1/3 экспорта республики и 3/4 валютных поступлений бюджета; работает на импортном сырье и энергии Нурекской ГЭС. [→14](https://varandej.livejournal.com/843082.html)
+- **Исфара**: нефть. [→16](https://varandej.livejournal.com/976302.html)
+- **Нурек**: высочайшая в мире ГЭС. [→16](https://varandej.livejournal.com/976302.html) [→44](https://varandej.livejournal.com/849673.html)
+- **Дангара**: родной город президента Эмомали Рахмона, внешне похож на благоустроенный город. [→13](https://varandej.livejournal.com/843437.html)
+
+**ГБАО и Памир**
+- **Хорог**: столица Памира, центр ГБАО, самый высокогорный город в бывшем СССР (2300 м). Объекты: памятник Ильичу на фоне гор Афганистана, остатки русской гарнизонной церкви. [→16](https://varandej.livejournal.com/976302.html) [→14](https://varandej.livejournal.com/843082.html)
+- **Мургаб**: райцентр Высокого Памира (3600 м), виден китайский хребет Музтаг (выше пика Коммунизма). [→16](https://varandej.livejournal.com/976302.html) [→71](https://varandej.livejournal.com/822020.html)
+- **Природа и география**:
+    - Памир: плато на 4-километровой высоте; холод, ветер, дефицит воды, разреженный воздух, бесплодная соленая земля. [→13](https://varandej.livejournal.com/843437.html)
+    - Ваханская долина: нищая, переполнена туристами. [→14](https://varandej.livejournal.com/843082.html)
+    - Горный Бадахшан: система долин от пограничного Пянджа. [→13](https://varandej.livejournal.com/843437.html)
+- **Дороги**: по дороге из Гарма в Дарваз в предгорьях Памира установлены знак минной опасности и табличка в память об убитых иностранцах. [→14](https://varandej.livejournal.com/843082.html)
+
+**Природа и регионы**
+- **Горы и вершины**:
+    - Пик Ленина: высота 7134 м, Чон-Алайский хребет (граница Киргизии и Таджикистана). Один из трех семитысячников Кыргызстана, считается самым доступным и популярным в мире (мнение автора). [→48](https://www.onetwotrip.com/ru/blog/travel-ideas/journeys-travel-ideas/most-beautiful-mountain-peaks-in-russia-cis/) [→71](https://varandej.livejournal.com/822020.html)
+    - Фанские горы: место посещения альпинистов. [→14](https://varandej.livejournal.com/843082.html) [→12](https://varandej.livejournal.com/842968.html)
+- **Водные объекты и ГЭС**:
+    - Рогунская ГЭС (р. Вахш): начата в 1976 (СССР), возобновлена в 2004-07 (Россия), продолжает Италия; 29 октября перекрыли Вахш. [→14](https://varandej.livejournal.com/843082.html)
+    - Озеро Искандеркуль. [→52](https://varandej.livejournal.com/861110.html)
+- **Долины и области**:
+    - Гиссарская долина: центр страны, верховья р. Кафирниган. [→13](https://varandej.livejournal.com/843437.html)
+    - Хатлонская область: 24 тыс. кв. км, 2,9 млн жителей; долины р. Кафирниган, Вахш, Сурхоб и Пяндж. [→13](https://varandej.livejournal.com/843437.html)
+    - Согдийская область: 25 тыс. км², 2,5 млн жителей; долины Зерафшана и Сырдарьи. [→13](https://varandej.livejournal.com/843437.html)
+    - Каратегин (Раштская долина): вдоль р. Сурхоб; до 1955 г. была Гармская область; характеризуется госучреждениями за высокими заборами с автоматчиками. [→13](https://varandej.livejournal.com/843437.html)
+    - Ягнобская долина: сохранились последние согдианцы (по языку и внешности). [→13](https://varandej.livejournal.com/843437.html)
+    - ГБАО: 64 тыс. км², население 215 тыс. человек (2% страны). [→13](https://varandej.livejournal.com/843437.html)
+- **Прочее**:
+    - Здравница «Гарм-Чашма»: построена в 1957 году. [→56](https://tengritravel.kz/around-the-world/stoyanka-aleksandra-makedonskogo-spyaschiy-drakon-10-394394/)
+    - Общие черты: в стране есть советские мозаики и огромные чайханы с расписными потолками. [→14](https://varandej.livejournal.com/843082.html) [→26](https://varandej.livejournal.com/845100.html)
+
+**Историко-географические примечания**
+- **Вне Таджикской ССР**: Самарканд (овладевала Караханидская держава), Бухара, степные кишлаки Нурата и Бричмулла (сохранили таджикский язык). [→13](https://varandej.livejournal.com/843437.html)
+- **Другое**: Бактрия была настолько буддийской, что миссионеры принесли религию в Тибет. Пандшерское ущелье населено исключительно таджиками. [→13](https://varandej.livejournal.com/843437.html)

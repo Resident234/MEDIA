@@ -1,0 +1,74 @@
+Душанбе code=200 err=None n=1
+   item type=adm_div id=70030076174471798 name=Душанбе | city_id=None alias=None | region_id=None | country=None
+Худжанд code=200 err=None n=1
+   item type=adm_div id=70030077021139098 name=Худжанд | city_id=None alias=None | region_id=None | country=None
+Куляб code=200 err=None n=1
+   item type=adm_div id=70030077176523059 name=Куляб | city_id=None alias=None | region_id=None | country=None
+Бохтар code=200 err=None n=1
+   item type=adm_div id=70030077176521498 name=Бохтар | city_id=None alias=None | region_id=None | country=None
+Курган-Тюбе code=200 err=None n=1
+   item type=adm_div id=1407997653811205 name=Курган | city_id=None alias=None | region_id=None | country=None
+Истаравшан code=200 err=None n=1
+   item type=adm_div id=70030077198269062 name=Истаравшан | city_id=None alias=None | region_id=None | country=None
+Турсунзаде code=200 err=None n=1
+   item type=adm_div id=70030077176521987 name=Турсунзаде | city_id=None alias=None | region_id=None | country=None
+Вахдат code=200 err=None n=1
+   item type=adm_div id=70030077176522325 name=Вахдат | city_id=None alias=None | region_id=None | country=None
+Пенджикент code=200 err=None n=1
+   item type=adm_div id=70030077170704875 name=Пенджикент | city_id=None alias=None | region_id=None | country=None
+Исфара code=200 err=None n=1
+   item type=adm_div id=70030077170705113 name=Исфара | city_id=None alias=None | region_id=None | country=None
+Канибадам code=200 err=None n=1
+   item type=adm_div id=70030077170704343 name=Канибадам | city_id=None alias=None | region_id=None | country=None
+Нурек code=200 err=None n=1
+   item type=adm_div id=70030077176522618 name=Нурек | city_id=None alias=None | region_id=None | country=None
+Рудаки code=200 err=None n=1
+   item type=adm_div id=70030077022386935 name=район Рудаки | city_id=None alias=None | region_id=None | country=None
+Мургаб code=200 err=None n=1
+   item type=adm_div id=70030077176521853 name=Мургаб | city_id=None alias=None | region_id=None | country=None
+Хорог code=200 err=None n=1
+   item type=adm_div id=70030077176523768 name=Хорог | city_id=None alias=None | region_id=None | country=None
+Восе code=200 err=None n=3
+   item type=adm_div id=4363484909273136 name=Воля | city_id=None alias=None | region_id=None | country=None
+   item type=adm_div id=12526259233882117 name=Минеральные Воды | city_id=None alias=None | region_id=None | country=None
+   item type=street id=70030076231803348 name=улица Васи Алексеева | city_id=None alias=None | region_id=None | country=None
+Джиргатол code=404 err=itemNotFound n=0
+Матча code=404 err=itemNotFound n=0
+Адрасман code=200 err=None n=1
+   item type=attraction id=70030076609164980 name=Дом-памятник И.А. Гончарову | city_id=None alias=None | region_id=None | country=None
+Яван code=404 err=itemNotFound n=0
+Файзабад code=200 err=None n=1
+   item type=adm_div id=70030077022390215 name=Файзабадский район | city_id=None alias=None | region_id=None | country=None
+Кумсангир code=404 err=itemNotFound n=0
+Хаваст code=404 err=itemNotFound n=0
+Гиссар code=200 err=None n=1
+   item type=adm_div id=70030077176521689 name=Гиссар | city_id=None alias=None | region_id=None | country=None
+Шахринав code=200 err=None n=1
+   item type=adm_div id=70030077005042668 name=Шахрихан | city_id=None alias=None | region_id=None | country=None
+Сохибкор code=404 err=itemNotFound n=0
+Орзу code=404 err=itemNotFound n=0
+Спитамен code=200 err=None n=1
+   item type=adm_div id=70030076810718334 name=Спитак | city_id=None alias=None | region_id=None | country=None
+Кайраккум code=200 err=None n=1
+   item type=adm_div id=70030077005042736 name=Каракуль (город) | city_id=None alias=None | region_id=None | country=None
+Ишторба code=200 err=None n=1
+   item type=building id=5348660212684216 name=Дворцовая площадь, 6-8 / Большая Морская улица, 2 / набережная реки Мойки, 39-47 | city_id=None alias=None | region_id=None | country=None
+Рошан code=200 err=None n=4
+   item type=street id=70030076134264468 name=улица Петра Романова | city_id=None alias=None | region_id=None | country=None
+   item type=attraction id=70030076377326795 name=Памятная доска погибшим ученикам | city_id=None alias=None | region_id=None | country=None
+   item type=attraction id=70030076908567314 name=Арт-объект Романы Достоевского | city_id=None alias=None | region_id=None | country=None
+   item type=attraction id=70030076993428719 name=Источник преподобного Романа Киржачского | city_id=None alias=None | region_id=None | country=None
+Ванч code=200 err=None n=1
+   item type=adm_div id=70030077176521607 name=Ванч | city_id=None alias=None | region_id=None | country=None
+Калаи-Хумб code=200 err=None n=1
+   item type=adm_div id=70030076128025972 name=Калаис | city_id=None alias=None | region_id=None | country=None
+Фархор code=404 err=itemNotFound n=0
+Пяндж code=200 err=None n=2
+   item type=adm_div id=70030076144259987 name=Пянда | city_id=None alias=None | region_id=None | country=None
+   item type=adm_div id=70030076144253693 name=Пянда | city_id=None alias=None | region_id=None | country=None
+Сангвор code=200 err=None n=1
+   item type=adm_div id=70030077022388051 name=район Сангвор | city_id=None alias=None | region_id=None | country=None
+Рашт code=200 err=None n=1
+   item type=adm_div id=4504222397638719 name=Белый Раст | city_id=None alias=None | region_id=None | country=None
+Лахш code=200 err=None n=1
+   item type=adm_div id=70030077022383742 name=район Лахш | city_id=None alias=None | region_id=None | country=None

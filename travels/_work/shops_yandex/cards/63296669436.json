@@ -1,0 +1,93 @@
+{
+ "url": "https://yandex.kz/maps/org/firmenny_magazin_tadzhikmatlubot/63296669436/?ll=68.785789%2C38.600525&z=16",
+ "title": "Фирменный магазин Таджикматлубот, продуктовый гипермаркет, Душанбе, просп. Рудаки, 137 — Яндекс Карты",
+ "h1": "Фирменный магазин Таджикматлубот",
+ "coords": [
+  "68.78598,38.600835",
+  "68.785980,38.600835"
+ ],
+ "rating": [],
+ "categories": [
+  "Продуктовый гипермаркет"
+ ],
+ "address": [
+  {
+   "t": "Душанбе, просп. Рудаки, 137",
+   "h": "/maps/10318/dushanbe/house/YkEYcQ9mSUcEQF1ifXpxcXlnYg==/"
+  },
+  {
+   "t": "Душанбе, просп. Рудаки, 137",
+   "h": null
+  },
+  {
+   "t": "Душанбе, просп. Рудаки, 137",
+   "h": "/maps/10318/dushanbe/house/YkEYcQ9mSUcEQF1ifXpxcXlnYg==/"
+  },
+  {
+   "t": "Маршрут",
+   "h": null
+  }
+ ],
+ "phones": [],
+ "msgLinks": [
+  {
+   "t": "",
+   "h": "https://vk.com/yandex.maps",
+   "c": "card-social-links-view__link",
+   "ownOrg": 0
+  },
+  {
+   "t": "",
+   "h": "https://t.me/mapsyandex",
+   "c": "card-social-links-view__link",
+   "ownOrg": 0
+  }
+ ],
+ "apps": [],
+ "extLinks": [],
+ "social": [
+  {
+   "t": "",
+   "h": "https://vk.com/yandex.maps",
+   "c": "card-social-links-view__link"
+  },
+  {
+   "t": "",
+   "h": "https://t.me/mapsyandex",
+   "c": "card-social-links-view__link"
+  },
+  {
+   "t": "",
+   "h": "https://zen.yandex.ru/yandexmaps",
+   "c": "card-social-links-view__link"
+  }
+ ],
+ "btns": [],
+ "emails": [],
+ "contactBlock": [
+  "Адрес Душанбе, просп. Рудаки, 137 Маршрут",
+  "Адрес",
+  "",
+  "Душанбе, просп. Рудаки, 137",
+  "Душанбе, просп. Рудаки, 137",
+  "Маршрут",
+  "Маршрут",
+  "Контакты Телефон не указан Добавить",
+  "Контакты",
+  "",
+  "Время работы График работы не указан Добавить",
+  "Время работы",
+  ""
+ ],
+ "hours": [],
+ "list": {
+  "name": "Фирменный магазин Таджикматлубот",
+  "city": "dushanbe",
+  "rating": null,
+  "reviews": null,
+  "lon": "68.785980",
+  "lat": "38.600835",
+  "src": "гипермаркет",
+  "priority": true
+ }
+}

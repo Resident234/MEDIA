@@ -1,0 +1,97 @@
+{
+ "url": "https://yandex.kz/maps/org/yakkachanor/205440171483/?ll=68.759105%2C38.553589&z=14",
+ "title": "Яккачанор, рынок, Душанбе, улица Мушфики — Яндекс Карты",
+ "h1": "Яккачанор",
+ "coords": [
+  "68.758859,38.554066",
+  "68.758859,38.554066"
+ ],
+ "rating": [
+  "Оценка 4.1 Из 5",
+  "Оценка 4.1 Из 5",
+  "Оценка 5 Из 5"
+ ],
+ "categories": [
+  "Рынок"
+ ],
+ "address": [
+  {
+   "t": "Душанбе, улица Мушфики",
+   "h": "/maps/10318/dushanbe/geo/1536252511/"
+  },
+  {
+   "t": "Душанбе, улица Мушфики",
+   "h": null
+  },
+  {
+   "t": "Душанбе, улица Мушфики",
+   "h": "/maps/10318/dushanbe/geo/1536252511/"
+  },
+  {
+   "t": "Маршрут",
+   "h": null
+  }
+ ],
+ "phones": [],
+ "msgLinks": [
+  {
+   "t": "",
+   "h": "https://vk.com/yandex.maps",
+   "c": "card-social-links-view__link",
+   "ownOrg": 0
+  },
+  {
+   "t": "",
+   "h": "https://t.me/mapsyandex",
+   "c": "card-social-links-view__link",
+   "ownOrg": 0
+  }
+ ],
+ "apps": [],
+ "extLinks": [],
+ "social": [
+  {
+   "t": "",
+   "h": "https://vk.com/yandex.maps",
+   "c": "card-social-links-view__link"
+  },
+  {
+   "t": "",
+   "h": "https://t.me/mapsyandex",
+   "c": "card-social-links-view__link"
+  },
+  {
+   "t": "",
+   "h": "https://zen.yandex.ru/yandexmaps",
+   "c": "card-social-links-view__link"
+  }
+ ],
+ "btns": [],
+ "emails": [],
+ "contactBlock": [
+  "Адрес Душанбе, улица Мушфики Маршрут",
+  "Адрес",
+  "",
+  "Душанбе, улица Мушфики",
+  "Душанбе, улица Мушфики",
+  "Маршрут",
+  "Маршрут",
+  "Контакты Телефон не указан Добавить",
+  "Контакты",
+  "",
+  "Время работы График работы не указан Добавить",
+  "Время работы",
+  ""
+ ],
+ "hours": [],
+ "list": {
+  "name": "Яккачанор",
+  "city": "dushanbe",
+  "rating": 4.1,
+  "reviews": 3,
+  "lon": "68.758859",
+  "lat": "38.554066",
+  "src": "базар",
+  "priority": true
+ }
+}

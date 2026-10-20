@@ -1,0 +1,93 @@
+{
+ "url": "https://yandex.kz/maps/org/barakat/49644709033/?ll=68.772305%2C38.538859&z=16",
+ "title": "Баракат, магазин продуктов, Душанбе, ул. Абдулахада Каххарова, 123 — Яндекс Карты",
+ "h1": "Баракат",
+ "coords": [
+  "68.772121,38.53891",
+  "68.772121,38.538910"
+ ],
+ "rating": [],
+ "categories": [
+  "Магазин продуктов"
+ ],
+ "address": [
+  {
+   "t": "Душанбе, ул. Абдулахада Каххарова, 123",
+   "h": "/maps/10318/dushanbe/house/YkEYcQBiSkUCQF1ifXlyeXRmbQ==/"
+  },
+  {
+   "t": "Душанбе, ул. Абдулахада Каххарова, 123",
+   "h": null
+  },
+  {
+   "t": "Душанбе, ул. Абдулахада Каххарова, 123",
+   "h": "/maps/10318/dushanbe/house/YkEYcQBiSkUCQF1ifXlyeXRmbQ==/"
+  },
+  {
+   "t": "Маршрут",
+   "h": null
+  }
+ ],
+ "phones": [],
+ "msgLinks": [
+  {
+   "t": "",
+   "h": "https://vk.com/yandex.maps",
+   "c": "card-social-links-view__link",
+   "ownOrg": 0
+  },
+  {
+   "t": "",
+   "h": "https://t.me/mapsyandex",
+   "c": "card-social-links-view__link",
+   "ownOrg": 0
+  }
+ ],
+ "apps": [],
+ "extLinks": [],
+ "social": [
+  {
+   "t": "",
+   "h": "https://vk.com/yandex.maps",
+   "c": "card-social-links-view__link"
+  },
+  {
+   "t": "",
+   "h": "https://t.me/mapsyandex",
+   "c": "card-social-links-view__link"
+  },
+  {
+   "t": "",
+   "h": "https://zen.yandex.ru/yandexmaps",
+   "c": "card-social-links-view__link"
+  }
+ ],
+ "btns": [],
+ "emails": [],
+ "contactBlock": [
+  "Адрес Душанбе, ул. Абдулахада Каххарова, 123 Маршрут",
+  "Адрес",
+  "",
+  "Душанбе, ул. Абдулахада Каххарова, 123",
+  "Душанбе, ул. Абдулахада Каххарова, 123",
+  "Маршрут",
+  "Маршрут",
+  "Контакты Телефон не указан Добавить",
+  "Контакты",
+  "",
+  "Время работы График работы не указан Добавить",
+  "Время работы",
+  ""
+ ],
+ "hours": [],
+ "list": {
+  "name": "Баракат",
+  "city": "dushanbe",
+  "rating": null,
+  "reviews": null,
+  "lon": "68.772121",
+  "lat": "38.538910",
+  "src": "Баракат рынок",
+  "priority": true
+ }
+}

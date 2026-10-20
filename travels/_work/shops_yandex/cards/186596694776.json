@@ -1,0 +1,93 @@
+{
+ "url": "https://yandex.kz/maps/org/podarki/186596694776/?ll=68.788618%2C38.571342&z=16",
+ "title": "Подарки, магазин подарков и сувениров, Душанбе, просп. Рудаки, 55 — Яндекс Карты",
+ "h1": "Подарки",
+ "coords": [
+  "68.787929,38.572206",
+  "68.787929,38.572206"
+ ],
+ "rating": [],
+ "categories": [
+  "Магазин подарков и сувениров"
+ ],
+ "address": [
+  {
+   "t": "Душанбе, просп. Рудаки, 55",
+   "h": "/maps/10318/dushanbe/house/YkEYcQ9oT0QOQF1ifXl2cH9nZg==/"
+  },
+  {
+   "t": "Душанбе, просп. Рудаки, 55",
+   "h": null
+  },
+  {
+   "t": "Душанбе, просп. Рудаки, 55",
+   "h": "/maps/10318/dushanbe/house/YkEYcQ9oT0QOQF1ifXl2cH9nZg==/"
+  },
+  {
+   "t": "Маршрут",
+   "h": null
+  }
+ ],
+ "phones": [],
+ "msgLinks": [
+  {
+   "t": "",
+   "h": "https://vk.com/yandex.maps",
+   "c": "card-social-links-view__link",
+   "ownOrg": 0
+  },
+  {
+   "t": "",
+   "h": "https://t.me/mapsyandex",
+   "c": "card-social-links-view__link",
+   "ownOrg": 0
+  }
+ ],
+ "apps": [],
+ "extLinks": [],
+ "social": [
+  {
+   "t": "",
+   "h": "https://vk.com/yandex.maps",
+   "c": "card-social-links-view__link"
+  },
+  {
+   "t": "",
+   "h": "https://t.me/mapsyandex",
+   "c": "card-social-links-view__link"
+  },
+  {
+   "t": "",
+   "h": "https://zen.yandex.ru/yandexmaps",
+   "c": "card-social-links-view__link"
+  }
+ ],
+ "btns": [],
+ "emails": [],
+ "contactBlock": [
+  "Адрес Душанбе, просп. Рудаки, 55 Маршрут",
+  "Адрес",
+  "",
+  "Душанбе, просп. Рудаки, 55",
+  "Душанбе, просп. Рудаки, 55",
+  "Маршрут",
+  "Маршрут",
+  "Контакты Телефон не указан Добавить",
+  "Контакты",
+  "",
+  "Время работы График работы не указан Добавить",
+  "Время работы",
+  ""
+ ],
+ "hours": [],
+ "list": {
+  "name": "Подарки",
+  "city": "dushanbe",
+  "rating": null,
+  "reviews": null,
+  "lon": "68.787929",
+  "lat": "38.572206",
+  "src": "сувениры",
+  "priority": true
+ }
+}

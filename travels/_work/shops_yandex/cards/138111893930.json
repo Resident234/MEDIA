@@ -1,0 +1,106 @@
+{
+ "url": "https://yandex.kz/maps/org/exclusive_gifts/138111893930/?ll=68.729078%2C38.579438&z=16",
+ "title": "Exclusive Gifts, магазин подарков и сувениров, Душанбе, просп. Нусратулло Махсума, 105/6 — Яндекс Карты",
+ "h1": "Exclusive Gifts",
+ "coords": [
+  "68.729099,38.579519",
+  "68.729099,38.579519"
+ ],
+ "rating": [],
+ "categories": [
+  "Магазин подарков и сувениров"
+ ],
+ "address": [
+  {
+   "t": "Душанбе, просп. Нусратулло Махсума, 105/6",
+   "h": "/maps/10318/dushanbe/house/YkEYcQVpSUIPQF1ifXl2eHhgYw==/"
+  },
+  {
+   "t": "Душанбе, просп. Нусратулло Махсума, 105/6",
+   "h": null
+  },
+  {
+   "t": "Душанбе, просп. Нусратулло Махсума, 105/6",
+   "h": "/maps/10318/dushanbe/house/YkEYcQVpSUIPQF1ifXl2eHhgYw==/"
+  },
+  {
+   "t": "Маршрут",
+   "h": null
+  }
+ ],
+ "phones": [
+  {
+   "t": "+992 92 802 02 00",
+   "h": null
+  },
+  {
+   "t": "+992 92 802 02 00 Показать телефон",
+   "h": null
+  },
+  {
+   "t": "+992 92 802 02 00 Показать телефон",
+   "h": null
+  }
+ ],
+ "msgLinks": [
+  {
+   "t": "",
+   "h": "https://vk.com/yandex.maps",
+   "c": "card-social-links-view__link",
+   "ownOrg": 0
+  },
+  {
+   "t": "",
+   "h": "https://t.me/mapsyandex",
+   "c": "card-social-links-view__link",
+   "ownOrg": 0
+  }
+ ],
+ "apps": [],
+ "extLinks": [],
+ "social": [
+  {
+   "t": "",
+   "h": "https://vk.com/yandex.maps",
+   "c": "card-social-links-view__link"
+  },
+  {
+   "t": "",
+   "h": "https://t.me/mapsyandex",
+   "c": "card-social-links-view__link"
+  },
+  {
+   "t": "",
+   "h": "https://zen.yandex.ru/yandexmaps",
+   "c": "card-social-links-view__link"
+  }
+ ],
+ "btns": [],
+ "emails": [],
+ "contactBlock": [
+  "Адрес Душанбе, просп. Нусратулло Махсума, 105/6 Маршрут",
+  "Адрес",
+  "",
+  "Душанбе, просп. Нусратулло Махсума, 105/6",
+  "Душанбе, просп. Нусратулло Махсума, 105/6",
+  "Маршрут",
+  "Маршрут",
+  "Контакты +992 92 802 02 00 Показать телефон",
+  "Контакты",
+  "",
+  "Время работы График работы не указан Добавить",
+  "Время работы",
+  ""
+ ],
+ "hours": [],
+ "list": {
+  "name": "Exclusive Gifts",
+  "city": "dushanbe",
+  "rating": null,
+  "reviews": null,
+  "lon": "68.729099",
+  "lat": "38.579519",
+  "src": "сувениры",
+  "priority": true
+ }
+}

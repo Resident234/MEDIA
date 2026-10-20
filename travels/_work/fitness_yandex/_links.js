@@ -1,0 +1,1 @@
+(() => {const s=new Set();for(const a of document.querySelectorAll("a")){const h=a.getAttribute("href")||"";const m=h.match(/^\/maps\/(\d+)\/([a-z-]+)/);if(m)s.add(m[1]+"/"+m[2]);}return JSON.stringify([...s].slice(0,20));})()

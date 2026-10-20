@@ -1,0 +1,110 @@
+{
+ "url": "https://yandex.kz/maps/org/vatan_moll/163069895003/?ll=68.797216%2C38.563337&z=16",
+ "title": "Ватан Молл, торговый центр, Душанбе, ул. Садриддина Айни, 29/9 — Яндекс Карты",
+ "h1": "Ватан Молл",
+ "coords": [
+  "68.797095,38.563161",
+  "68.797095,38.563161"
+ ],
+ "rating": [
+  "Оценка 4.4 Из 5",
+  "Оценка 4.4 Из 5",
+  "Оценка 3 Из 5"
+ ],
+ "categories": [
+  "Торговый центр"
+ ],
+ "address": [
+  {
+   "t": "Душанбе, ул. Садриддина Айни, 29/9",
+   "h": "/maps/10318/dushanbe/house/YkEYcQ5nS0QBQF1ifXl3cn9gYw==/"
+  },
+  {
+   "t": "Душанбе, ул. Садриддина Айни, 29/9",
+   "h": null
+  },
+  {
+   "t": "Душанбе, ул. Садриддина Айни, 29/9",
+   "h": "/maps/10318/dushanbe/house/YkEYcQ5nS0QBQF1ifXl3cn9gYw==/"
+  },
+  {
+   "t": "Маршрут",
+   "h": null
+  }
+ ],
+ "phones": [
+  {
+   "t": "+992 20 988 07 07",
+   "h": null
+  },
+  {
+   "t": "+992 20 988 07 07 Показать телефон",
+   "h": null
+  },
+  {
+   "t": "+992 20 988 07 07 Показать телефон",
+   "h": null
+  }
+ ],
+ "msgLinks": [
+  {
+   "t": "",
+   "h": "https://vk.com/yandex.maps",
+   "c": "card-social-links-view__link",
+   "ownOrg": 0
+  },
+  {
+   "t": "",
+   "h": "https://t.me/mapsyandex",
+   "c": "card-social-links-view__link",
+   "ownOrg": 0
+  }
+ ],
+ "apps": [],
+ "extLinks": [],
+ "social": [
+  {
+   "t": "",
+   "h": "https://vk.com/yandex.maps",
+   "c": "card-social-links-view__link"
+  },
+  {
+   "t": "",
+   "h": "https://t.me/mapsyandex",
+   "c": "card-social-links-view__link"
+  },
+  {
+   "t": "",
+   "h": "https://zen.yandex.ru/yandexmaps",
+   "c": "card-social-links-view__link"
+  }
+ ],
+ "btns": [],
+ "emails": [],
+ "contactBlock": [
+  "Адрес Душанбе, ул. Садриддина Айни, 29/9 Маршрут",
+  "Адрес",
+  "",
+  "Душанбе, ул. Садриддина Айни, 29/9",
+  "Душанбе, ул. Садриддина Айни, 29/9",
+  "Маршрут",
+  "Маршрут",
+  "Контакты +992 20 988 07 07 Показать телефон",
+  "Контакты",
+  "",
+  "Время работы Открыто до 21:00 График",
+  "Время работы",
+  ""
+ ],
+ "hours": [],
+ "list": {
+  "name": "Ватан Молл",
+  "city": "dushanbe",
+  "rating": 4.4,
+  "reviews": 33,
+  "lon": "68.797095",
+  "lat": "38.563161",
+  "src": "торговый центр",
+  "priority": true
+ }
+}

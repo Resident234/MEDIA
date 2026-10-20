@@ -1,0 +1,97 @@
+{
+ "url": "https://yandex.kz/maps/org/sakhovat/100984794488/?ll=68.748105%2C38.513070&z=12",
+ "title": "Саховат, рынок, Душанбе, район Фирдавси — Яндекс Карты",
+ "h1": "Саховат",
+ "coords": [
+  "68.760795,38.518849",
+  "68.760795,38.518849"
+ ],
+ "rating": [
+  "Оценка 4.1 Из 5",
+  "Оценка 4.1 Из 5",
+  "Оценка 4 Из 5"
+ ],
+ "categories": [
+  "Рынок"
+ ],
+ "address": [
+  {
+   "t": "Душанбе, район Фирдавси",
+   "h": "/maps/10318/dushanbe/geo/4241369949/"
+  },
+  {
+   "t": "Душанбе, район Фирдавси",
+   "h": null
+  },
+  {
+   "t": "Душанбе, район Фирдавси",
+   "h": "/maps/10318/dushanbe/geo/4241369949/"
+  },
+  {
+   "t": "Маршрут",
+   "h": null
+  }
+ ],
+ "phones": [],
+ "msgLinks": [
+  {
+   "t": "",
+   "h": "https://vk.com/yandex.maps",
+   "c": "card-social-links-view__link",
+   "ownOrg": 0
+  },
+  {
+   "t": "",
+   "h": "https://t.me/mapsyandex",
+   "c": "card-social-links-view__link",
+   "ownOrg": 0
+  }
+ ],
+ "apps": [],
+ "extLinks": [],
+ "social": [
+  {
+   "t": "",
+   "h": "https://vk.com/yandex.maps",
+   "c": "card-social-links-view__link"
+  },
+  {
+   "t": "",
+   "h": "https://t.me/mapsyandex",
+   "c": "card-social-links-view__link"
+  },
+  {
+   "t": "",
+   "h": "https://zen.yandex.ru/yandexmaps",
+   "c": "card-social-links-view__link"
+  }
+ ],
+ "btns": [],
+ "emails": [],
+ "contactBlock": [
+  "Адрес Душанбе, район Фирдавси Маршрут",
+  "Адрес",
+  "",
+  "Душанбе, район Фирдавси",
+  "Душанбе, район Фирдавси",
+  "Маршрут",
+  "Маршрут",
+  "Контакты Телефон не указан Добавить",
+  "Контакты",
+  "",
+  "Время работы Открыто до 23:50 График",
+  "Время работы",
+  ""
+ ],
+ "hours": [],
+ "list": {
+  "name": "Саховат",
+  "city": "dushanbe",
+  "rating": 4.1,
+  "reviews": 11,
+  "lon": "68.760795",
+  "lat": "38.518849",
+  "src": "базар",
+  "priority": true
+ }
+}

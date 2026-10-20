@@ -1,0 +1,110 @@
+{
+ "url": "https://yandex.kz/maps/org/sitora/109172581300/?ll=68.787388%2C38.570566&z=16",
+ "title": "Ситора, торговый центр, Душанбе, ул. Бухоро, 50А — Яндекс Карты",
+ "h1": "Ситора",
+ "coords": [
+  "68.78737,38.570587",
+  "68.787370,38.570587"
+ ],
+ "rating": [
+  "Оценка 4.1 Из 5",
+  "Оценка 4.1 Из 5",
+  "Оценка 5 Из 5"
+ ],
+ "categories": [
+  "Торговый центр"
+ ],
+ "address": [
+  {
+   "t": "Душанбе, ул. Бухоро, 50А",
+   "h": "/maps/10318/dushanbe/house/YkEYcQ9nSk0PQF1ifXl2cXllYg==/"
+  },
+  {
+   "t": "Душанбе, ул. Бухоро, 50А",
+   "h": null
+  },
+  {
+   "t": "Душанбе, ул. Бухоро, 50А",
+   "h": "/maps/10318/dushanbe/house/YkEYcQ9nSk0PQF1ifXl2cXllYg==/"
+  },
+  {
+   "t": "Маршрут",
+   "h": null
+  }
+ ],
+ "phones": [
+  {
+   "t": "+992 10 944 11 11",
+   "h": null
+  },
+  {
+   "t": "+992 10 944 11 11 Показать телефон",
+   "h": null
+  },
+  {
+   "t": "+992 10 944 11 11 Показать телефон",
+   "h": null
+  }
+ ],
+ "msgLinks": [
+  {
+   "t": "",
+   "h": "https://vk.com/yandex.maps",
+   "c": "card-social-links-view__link",
+   "ownOrg": 0
+  },
+  {
+   "t": "",
+   "h": "https://t.me/mapsyandex",
+   "c": "card-social-links-view__link",
+   "ownOrg": 0
+  }
+ ],
+ "apps": [],
+ "extLinks": [],
+ "social": [
+  {
+   "t": "",
+   "h": "https://vk.com/yandex.maps",
+   "c": "card-social-links-view__link"
+  },
+  {
+   "t": "",
+   "h": "https://t.me/mapsyandex",
+   "c": "card-social-links-view__link"
+  },
+  {
+   "t": "",
+   "h": "https://zen.yandex.ru/yandexmaps",
+   "c": "card-social-links-view__link"
+  }
+ ],
+ "btns": [],
+ "emails": [],
+ "contactBlock": [
+  "Адрес Душанбе, ул. Бухоро, 50А Маршрут",
+  "Адрес",
+  "",
+  "Душанбе, ул. Бухоро, 50А",
+  "Душанбе, ул. Бухоро, 50А",
+  "Маршрут",
+  "Маршрут",
+  "Контакты +992 10 944 11 11 Показать телефон",
+  "Контакты",
+  "",
+  "Время работы График работы не указан Добавить",
+  "Время работы",
+  ""
+ ],
+ "hours": [],
+ "list": {
+  "name": "Ситора",
+  "city": "dushanbe",
+  "rating": 4.1,
+  "reviews": 26,
+  "lon": "68.787370",
+  "lat": "38.570587",
+  "src": "торговый центр",
+  "priority": true
+ }
+}

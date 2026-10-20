@@ -1,0 +1,93 @@
+{
+ "url": "https://yandex.kz/maps/org/podarki/73370531240/?ll=68.758723%2C38.557878&z=16",
+ "title": "Подарки, магазин подарков и сувениров, Душанбе, просп. Саади Шерози, 24 — Яндекс Карты",
+ "h1": "Подарки",
+ "coords": [
+  "68.758631,38.557953",
+  "68.758631,38.557953"
+ ],
+ "rating": [],
+ "categories": [
+  "Магазин подарков и сувениров"
+ ],
+ "address": [
+  {
+   "t": "Душанбе, просп. Саади Шерози, 24",
+   "h": "/maps/10318/dushanbe/house/YkEYcQJoTkcEQF1ifXl0dnRkbA==/"
+  },
+  {
+   "t": "Душанбе, просп. Саади Шерози, 24",
+   "h": null
+  },
+  {
+   "t": "Душанбе, просп. Саади Шерози, 24",
+   "h": "/maps/10318/dushanbe/house/YkEYcQJoTkcEQF1ifXl0dnRkbA==/"
+  },
+  {
+   "t": "Маршрут",
+   "h": null
+  }
+ ],
+ "phones": [],
+ "msgLinks": [
+  {
+   "t": "",
+   "h": "https://vk.com/yandex.maps",
+   "c": "card-social-links-view__link",
+   "ownOrg": 0
+  },
+  {
+   "t": "",
+   "h": "https://t.me/mapsyandex",
+   "c": "card-social-links-view__link",
+   "ownOrg": 0
+  }
+ ],
+ "apps": [],
+ "extLinks": [],
+ "social": [
+  {
+   "t": "",
+   "h": "https://vk.com/yandex.maps",
+   "c": "card-social-links-view__link"
+  },
+  {
+   "t": "",
+   "h": "https://t.me/mapsyandex",
+   "c": "card-social-links-view__link"
+  },
+  {
+   "t": "",
+   "h": "https://zen.yandex.ru/yandexmaps",
+   "c": "card-social-links-view__link"
+  }
+ ],
+ "btns": [],
+ "emails": [],
+ "contactBlock": [
+  "Адрес Душанбе, просп. Саади Шерози, 24 Маршрут",
+  "Адрес",
+  "",
+  "Душанбе, просп. Саади Шерози, 24",
+  "Душанбе, просп. Саади Шерози, 24",
+  "Маршрут",
+  "Маршрут",
+  "Контакты Телефон не указан Добавить",
+  "Контакты",
+  "",
+  "Время работы График работы не указан Добавить",
+  "Время работы",
+  ""
+ ],
+ "hours": [],
+ "list": {
+  "name": "Подарки",
+  "city": "dushanbe",
+  "rating": null,
+  "reviews": null,
+  "lon": "68.758631",
+  "lat": "38.557953",
+  "src": "сувениры",
+  "priority": true
+ }
+}
