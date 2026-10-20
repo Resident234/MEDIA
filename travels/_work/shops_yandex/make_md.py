@@ -307,6 +307,23 @@ def city_ru(city, rs):
     return "%s (`%s`)" % (ru, city) if ru else city
 
 
+def plural(n, forms):
+    """Русская плюрализация: forms = (1 карточка, 2 карточки, 5 карточек)."""
+    x = n % 100
+    if 11 <= x <= 14:
+        return forms[2]
+    x %= 10
+    if x == 1:
+        return forms[0]
+    if 2 <= x <= 4:
+        return forms[1]
+    return forms[2]
+
+
+KAR = ("карточка", "карточки", "карточек")
+RES = ("результат", "результата", "результатов")
+
+
 def cov_row(label, items, gcons):
     """Строка таблицы покрытия: сколько в bucket'е карточек и что у них заполнено."""
     rated = [i for i in items if i.get("rating") is not None]
@@ -490,7 +507,8 @@ def main():
             bits.append("карточка: %s" % r["url"])
             fh.write("; ".join(bits) + ".\n")
         if len(rs) > 3:
-            fh.write("- (ещё %d карточек по этому запросу — в массиве)\n" % (len(rs) - 3))
+            n = len(rs) - 3
+            fh.write("- (ещё %d %s по этому запросу — в массиве)\n" % (n, plural(n, KAR)))
         fh.write("\n")
 
     # ---------- 2) named places: Yandex side ----------
@@ -502,8 +520,9 @@ def main():
         if not rs:
             continue
         named_cities += len(rs)
-        fh.write("**%s** — %d карточек, найденных по названиям из раздела\n\n" %
-                 (city_ru(city, rs), len(rs)))
+        fh.write("**%s** — %d %s, найденн%s по названиям из раздела\n\n" %
+                 (city_ru(city, rs), len(rs), plural(len(rs), KAR),
+                  "ая" if len(rs) % 100 == 1 and len(rs) % 10 == 1 else "ые"))
         rs.sort(key=lambda x: (x.get("name") or ""))
         for r in rs:
             cid = r.get("id") or (r.get("url") or "").rstrip("/").split("/")[-1]
@@ -521,7 +540,8 @@ def main():
                 cid = r.get("id") or href.rstrip("/").split("/")[-1]
                 fh.write("; ".join(yx_bits(r, ycards.get(cid))) + ".\n")
             if len(rs) > 3:
-                fh.write("- (ещё %d результатов по этому запросу — в массиве)\n" % (len(rs) - 3))
+                fh.write("- (ещё %d %s по этому запросу — в массиве)\n" % (
+                    len(rs) - 3, plural(len(rs) - 3, RES)))
             fh.write("\n")
         if not pairs:
             fh.write("`[ещё не собрано — yx_lookup идёт]`\n\n")
@@ -539,17 +559,17 @@ def main():
              "более раннем bucket, а точные числа по путям — в таблице сбора выше.\n\n")
     for b in KEY_BUCKETS:
         items = buckets[b]
-        fh.write("#### %s — %d карточек\n\n" % (b, len(items)))
+        fh.write("#### %s — %d %s\n\n" % (b, len(items), plural(len(items), KAR)))
         items.sort(key=lambda x: (-(x.get("rating") or 0), x["name"]))
         for it in items:
             fh.write(card_line(it, gcons[it["id"]]))
         fh.write("\n")
-    fh.write("#### Магазины прочие — %d карточек\n\nполный список со всеми "
+    fh.write("#### Магазины прочие — %d %s\n\nполный список со всеми "
              "контактами — в `_work/shops_yandex/appendix_2gis_full.tsv` (колонки "
              "от bucket до apps, генерируется вместе с этим текстом) и в "
              "`_work/shops_2gis/aggregate.tsv` (то же без приложений с сайтов); "
              "в справочник построчно не внесён, потому это родовая корзина, а не "
-             "запрошенная категория.\n\n" % tail)
+             "запрошенная категория.\n\n" % (tail, plural(tail, KAR)))
 
     # ---------- 4) Yandex per-city ----------
     fh.write("### Данные карт: категории по городам страны (Яндекс.Карты)\n\n")
@@ -563,9 +583,10 @@ def main():
             rs = yall[city]
             key = [r for r in rs if set((r.get("src") or "").split("+")) - gen]
             nrest = len(rs) - len(key)
-            fh.write("#### %s — %d карточек (по ключевым категориям %d, по родовым "
+            fh.write("#### %s — %d %s (по ключевым категориям %d, по родовым "
                      "«магазин»/«дукон» ещё %d)\n\n" % (
-                         city_ru(city, rs), len(rs), len(key), nrest))
+                         city_ru(city, rs), len(rs), plural(len(rs), KAR),
+                         len(key), nrest))
             key.sort(key=lambda x: (-(float(x.get("rating") or 0)), x.get("name") or ""))
             for r in key:
                 cid = r.get("id") or (r.get("url") or "").rstrip("/").split("/")[-1]

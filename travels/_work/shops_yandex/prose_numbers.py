@@ -64,8 +64,8 @@ def main():
     checks = [
         # (описание, шаблон в прозе, ожидаемые значения)
         ("двойники по Душанбе",
-         r"по Душанбе, (\d+) из (\d+) стоят в \d+ м и ближе",
-         [st.get("dush_twins"), st.get("yx_dushanbe")]),
+         r"из (\d+) карточек Яндекса, снятых по Душанбе, (\d+) стоят в (\d+) м и ближе",
+         [st.get("yx_dushanbe"), st.get("dush_twins"), st.get("thresh_m")]),
         ("совпадение имён в парах",
          r"имена при этом совпадают лишь у (\d+)",
          [st.get("dush_twin_names")]),
@@ -98,20 +98,33 @@ def main():
          [rev.get("интернет-магазины и маркетплейсы", [None, None])[1],
           rev.get("интернет-магазины и маркетплейсы", [None, None])[0]]),
         ("пары с двумя оценками",
-         r"Пар, где оценку имеют оба справочника, всего (\d+)",
+         r"Пар, где оценку имеют оба справочника, (?:всего )?(\d+)",
          [st.get("both_rated")]),
         ("расхождения больше звезды",
-         r"Из \d+ в (\S+) разница больше звезды",
+         r"В (\S+) из \d+ разница больше звезды",
          [len(st.get("disagree", []))]),
         ("строки за пределами Душанбе",
-         r"Бохтар (\d+) и ГБАО (\d+)",
-         [cities.get("bohtar"),
-          sum(v for k, v in cities.items() if "badakhshan" in k or k == "horog")]),
+         r"двойников не имеют по определению",
+         None),
+        ("городские тоталы Яндекса в свёртке",
+         r"область (\d+), Худжанд (\d+), Согдийская область (\d+), Гиссарский район (\d+), "
+         r"Куляб (\d+), Бохтар (\d+)",
+         [cities.get("khatlon-province"), cities.get("khujand"),
+          cities.get("sughd-province"), cities.get("hisor-district"),
+          cities.get("kulob"), cities.get("bohtar")]),
+        ("итог странового снятия",
+         r"Снятие дало (\d+) карточку с координатами: (\d+) по Душанбе и (\d+) по остальным",
+         [st.get("yx_with_coords"), st.get("yx_dushanbe"), st.get("yx_other")]),
+        ("открытые карточки Яндекса",
+         r"Из (\d+) приоритетных карточек открыто (\d+)",
+         [ps.get("priority"), cards]),
     ]
 
     out, stale = [], 0
     for name, pat, exp in checks:
-        if exp is None:
+        if exp is None:      # проверка-напоминание: строка должна остаться в тексте
+            out.append({"what": name,
+                        "status": "OK" if re.search(pat, text) else "MISSING"})
             continue
         m = re.search(pat, text)
         if not m:
