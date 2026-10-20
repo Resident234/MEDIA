@@ -1,0 +1,2 @@
+[2026-10-20 21:19:17] start: total=484 done=0 todo=484
+[2026-10-20 21:21:58] batch fail: LLM failed: HTTP Error 502: Bad Gateway

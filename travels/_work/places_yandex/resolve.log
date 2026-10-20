@@ -1,0 +1,8 @@
+[2026-10-20 21:41:07] start: total=484 done=0 gis_hit=106 retest=False force=False
+[2026-10-20 21:45:41] [0001] none	10318/dushanbe	Общий облик	
+[2026-10-20 21:46:25] [0004] list	10318/dushanbe	Проспект Айни	
+[2026-10-20 21:51:54] start: total=484 done=2 gis_hit=93 retest=False force=False
+[2026-10-20 21:51:57] [0002] org	10318/dushanbe	Стиль	://yandex.kz/maps/org/style/42171452958/
+[2026-10-20 21:54:12] [0007] list	10318/dushanbe	Бухарская улица	
+[2026-10-20 21:56:23] [0008] list	10318/dushanbe	Проспекты	
+[2026-10-20 21:57:46] [0011] list	10318/dushanbe	Офис Tcell	ps/org/tcell_golovnoy_ofis/122398339595/
