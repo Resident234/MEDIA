@@ -1,0 +1,83 @@
+{
+ "plain": {
+  "code": 200,
+  "bytes": 710688,
+  "ids": 12,
+  "total": [
+   "1084"
+  ],
+  "new_ids_vs_prev": 12,
+  "sample": [
+   "70000001100582687",
+   "70000001101114368",
+   "70000001101129301",
+   "70000001101257547"
+  ]
+ },
+ "page2": {
+  "code": 200,
+  "bytes": 710759,
+  "ids": 12,
+  "total": [
+   "1084"
+  ],
+  "new_ids_vs_prev": 0,
+  "sample": []
+ },
+ "page3": {
+  "code": 200,
+  "bytes": 710511,
+  "ids": 12,
+  "total": [
+   "1084"
+  ],
+  "new_ids_vs_prev": 0,
+  "sample": []
+ },
+ "p_param": {
+  "code": -1,
+  "bytes": 28,
+  "ids": 0,
+  "err": "<HTTPError 404: 'Not Found'>"
+ },
+ "table_view": {
+  "code": 200,
+  "bytes": 711105,
+  "ids": 12,
+  "total": [
+   "1084"
+  ],
+  "new_ids_vs_prev": 0,
+  "sample": []
+ },
+ "zoom12_city": {
+  "code": -1,
+  "bytes": 28,
+  "ids": 0,
+  "err": "<HTTPError 404: 'Not Found'>"
+ },
+ "zoom14_tile1": {
+  "code": -1,
+  "bytes": 28,
+  "ids": 0,
+  "err": "<HTTPError 404: 'Not Found'>"
+ },
+ "zoom14_tile2": {
+  "code": -1,
+  "bytes": 28,
+  "ids": 0,
+  "err": "<HTTPError 404: 'Not Found'>"
+ },
+ "zoom16_tile": {
+  "code": -1,
+  "bytes": 28,
+  "ids": 0,
+  "err": "<HTTPError 404: 'Not Found'>"
+ },
+ "rubric": {
+  "code": -1,
+  "bytes": 28,
+  "ids": 0,
+  "err": "<HTTPError 404: 'Not Found'>"
+ }
+}

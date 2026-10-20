@@ -1,0 +1,290 @@
+{
+ "rubrics": [
+  {
+   "id": "207",
+   "name": "Аптеки",
+   "count": 100
+  },
+  {
+   "id": "208",
+   "name": "БАДы",
+   "count": 11
+  },
+  {
+   "id": "660",
+   "name": "Медицинские приборы",
+   "count": 4
+  },
+  {
+   "id": "345",
+   "name": "Товары для новорождённых",
+   "count": 2
+  },
+  {
+   "id": "659",
+   "name": "Средства гигиены",
+   "count": 2
+  },
+  {
+   "id": "110512",
+   "name": "Ароматовары",
+   "count": 1
+  },
+  {
+   "id": "4529",
+   "name": "Невролог",
+   "count": 1
+  },
+  {
+   "id": "4521",
+   "name": "Многопрофильные медицинские центры",
+   "count": 1
+  },
+  {
+   "id": "16870",
+   "name": "Травматолог-ортопед",
+   "count": 1
+  },
+  {
+   "id": "9956",
+   "name": "Альтернативная медицина",
+   "count": 1
+  },
+  {
+   "id": "210",
+   "name": "Оптика",
+   "count": 1
+  },
+  {
+   "id": "382",
+   "name": "Косметика и парфюмерия",
+   "count": 1
+  },
+  {
+   "id": "110495",
+   "name": "Товары для реабилитации",
+   "count": 1
+  }
+ ],
+ "districts": [
+  {
+   "id": "70030077013573016",
+   "name": "Исмоили Сомони",
+   "count": null
+  },
+  {
+   "id": "70030077013573846",
+   "name": "Шохмансур",
+   "count": null
+  },
+  {
+   "id": "70030077013570949",
+   "name": "Сино",
+   "count": null
+  },
+  {
+   "id": "70030077013570227",
+   "name": "Фирдавси",
+   "count": null
+  }
+ ],
+ "widget_values": [
+  {
+   "text": "Доставка",
+   "type": "filter",
+   "value_type": "additional_field_tag",
+   "values": [
+    "covid_homedelivery"
+   ]
+  },
+  {
+   "text": "По рейтингу",
+   "type": "sort",
+   "value_type": "text_field_tag",
+   "values": [
+    "rating"
+   ]
+  },
+  {
+   "text": "По новизне",
+   "type": "sort",
+   "value_type": "text_field_tag",
+   "values": [
+    "opened_time"
+   ]
+  },
+  {
+   "text": "По алфавиту",
+   "type": "sort",
+   "value_type": "text_field_tag",
+   "values": [
+    "name"
+   ]
+  },
+  {
+   "text": "На карте",
+   "type": "filter",
+   "value_type": "text_field_tag",
+   "values": [
+    "bound"
+   ]
+  },
+  {
+   "text": "С сайтом",
+   "type": "filter",
+   "value_type": "additional_field_tag",
+   "values": [
+    "has_site"
+   ]
+  },
+  {
+   "text": "С фото",
+   "type": "filter",
+   "value_type": "text_field_tag",
+   "values": [
+    "has_photos"
+   ]
+  },
+  {
+   "text": "С ценами",
+   "type": "filter",
+   "value_type": "text_field_tag",
+   "values": [
+    "has_goods"
+   ]
+  },
+  {
+   "text": "Расчёт по картам",
+   "type": "filter",
+   "value_type": "additional_field_tag",
+   "values": [
+    "general_payment_type_card"
+   ]
+  },
+  {
+   "text": "Исмоили Сомони",
+   "type": null,
+   "value_type": null,
+   "values": [
+    "70030077013573016"
+   ]
+  },
+  {
+   "text": "Сино",
+   "type": null,
+   "value_type": null,
+   "values": [
+    "70030077013570949"
+   ]
+  },
+  {
+   "text": "Фирдавси",
+   "type": null,
+   "value_type": null,
+   "values": [
+    "70030077013570227"
+   ]
+  },
+  {
+   "text": "Шохмансур",
+   "type": null,
+   "value_type": null,
+   "values": [
+    "70030077013573846"
+   ]
+  },
+  {
+   "text": "Были друзья",
+   "type": "filter",
+   "value_type": "text_field_tag",
+   "values": [
+    "friends_were_here"
+   ]
+  },
+  {
+   "text": "Для людей с инвалидностью",
+   "type": "filter",
+   "value_type": "additional_field_tag",
+   "values": [
+    "accessible_entrance_accessible_entrance"
+   ]
+  },
+  {
+   "text": "Пандус",
+   "type": "filter",
+   "value_type": "additional_field_tag",
+   "values": [
+    "accessible_entrance_inclusive_environment_ramp_inclusive"
+   ]
+  },
+  {
+   "text": "Розница",
+   "type": "filter",
+   "value_type": "additional_field_tag",
+   "values": [
+    "type_of_business_type_retail"
+   ]
+  },
+  {
+   "text": "Интернет-магазин",
+   "type": "filter",
+   "value_type": "additional_field_tag",
+   "values": [
+    "type_of_business_type_online_store"
+   ]
+  },
+  {
+   "text": "Опт",
+   "type": "filter",
+   "value_type": "additional_field_tag",
+   "values": [
+    "type_of_business_type_wholesale"
+   ]
+  },
+  {
+   "text": "Английский",
+   "type": "filter",
+   "value_type": "additional_field_tag",
+   "values": [
+    "service_language_english"
+   ]
+  },
+  {
+   "text": "Китайский",
+   "type": "filter",
+   "value_type": "additional_field_tag",
+   "values": [
+    "service_language_chinese"
+   ]
+  },
+  {
+   "text": "Русский",
+   "type": "filter",
+   "value_type": "additional_field_tag",
+   "values": [
+    "service_language_russian"
+   ]
+  },
+  {
+   "text": "Фарси",
+   "type": "filter",
+   "value_type": "additional_field_tag",
+   "values": [
+    "service_language_farsi"
+   ]
+  },
+  {
+   "text": "Французский",
+   "type": "filter",
+   "value_type": "additional_field_tag",
+   "values": [
+    "service_language_french"
+   ]
+  }
+ ],
+ "sorts": [
+  "rating",
+  "opened_time",
+  "name"
+ ]
+}

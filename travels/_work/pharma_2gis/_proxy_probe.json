@@ -1,0 +1,162 @@
+{
+ "cfg": {
+  "enableProxy": false,
+  "proxyHost": "localhost",
+  "proxyPort": 9090,
+  "sberProxyEnabled": false,
+  "bssKey": "",
+  "webApiUrl": "https://catalog.api.2gis.ru/2.0/",
+  "webApi3Url": "https://catalog.api.2gis.ru/3.0/",
+  "webApiKey": "c7f1a769-c8a5-4636-b14d-d8c987808a12",
+  "webApiOutsourceKey": "292d0592-6e9a-4882-b2c6-5979d678ddea",
+  "webApiOutsourceUrl": "https://outsource.api.2gis.com/",
+  "sharingRouteApiUrl": "https://social-route-reader.api.2gis.com/route/",
+  "friendsDebugToken": "",
+  "ppnotApiUrl": "https://routing.api.2gis.com/ctx/2.0",
+  "ppnotTypesApiUrl": "https://routing.api.2gis.com/ctx",
+  "ppnaApiUrl": "https://routing.api.2gis.com/carrouting/6.0.0",
+  "ppngApiUrl": "https://routing.api.2gis.com/truck/6.0.0",
+  "isochronesApiUrl": "https://routing.api.2gis.com/get_hull",
+  "trafficApiUrl": "https://jam.api.2gis.com/scores",
+  "photoApiUrl": "https://api.photo.2gis.com/",
+  "photoApiKey": "gYu1s9N1wP",
+  "photoApiKeyProfile": "Cugh6ahW",
+  "feedbackApiUrl": "https://feedback.api.2gis.ru",
+  "dataFeedbackApiUrl": "https://datafeedback.api.2gis.ru/1.0/",
+  "storyComplaintApiUrl": "https://feedback.api.2gis.ru/",
+  "reviewApiUrl": "https://public-api.reviews.2gis.com/2.0/",
+  "reviewApi3Url": "https://public-api.reviews.2gis.com/3.0/",
+  "reviewApiKey": "6e7e1929-4ea9-4a5d-8c05-d601860389bd",
+  "discountsApiUrl": "https://discounts.api.2gis.ru/2.0/",
+  "achievesApiUrl": "https://achieves.2gis.com/1.0/",
+  "profileApiUrl": "https://profile.api.2gis.ru/api/1.0",
+  "profilePrivacyApiUrl": "https://profile-privacy.api.2gis.ru/api/1.0",
+  "hybridApiUrl": "https://hybrid.api.2gis.com",
+  "hybridApiKey": "c7f1a769-c8a5-4636-b14d-d8c987808a12",
+  "sberDecoderApiUrl": "https://sberdecoder.api.2gis.ru/sberdecoder/api/1.0/address/decode",
+  "taxaApiUrl": "https://taksa.api.2gis.ru/taksa/api/1.0/",
+  "marketApiUrl": "https://market-backend.api.2gis.ru/5.0/",
+  "marketGeoApiUrl": "https://realty.api.2gis.ru/api/1.1/",
+  "favoritesApiUrl": "https://favorites.api.2gis.ru/2.0/",
+  "userActivityApiUrl": "https://useractivity.2gis.com/",
+  "pusherApiUrl": "https://pusher.api.2gis.ru/1.0/",
+  "tugcApiUrl": "https://tugc.2gis.com/1.0/",
+  "contestApiUrl": "https://contest.2gis.com/",
+  "congestionApiUrl": "https://congestion.api.2gis.ru/api/1.0/",
+  "chronologyPlacesApiUrl": "https://myplaces.api.2gis.ru/api/1.0/",
+  "socialGraphApiUrl": "https://social-graph.2gis.com/",
+  "otelloApiUrl": "https://otello.api.2gis.com/api/v2",
+  "otelloHotelsAvailabilityApiUrl": "https://hotels-availability.api.2gis.ru",
+  "otelloHotelsAvailabilityApiKey": "10e1fa40-b058-473d-90de-8fb8aba6044a",
+  "otelloSearchApiUrl": "https://otello-fluidsearch.api.2gis.com/api",
+  "otelloSettlementApiUrl": "https://otello-settlement.api.2gis.ru",
+  "otelloGuideApiUrl": "https://otello-guide.api.2gis.ru",
+  "otelloApiKey": "Xz1vPOJXlF",
+  "paymentsApiUrl": "https://payments.2gis.ru/",
+  "etaApiUrl": "https://eta.api.2gis.ru/v3",
+  "etaApiKey": "c7f1a769-c8a5-4636-b14d-d8c987808a12",
+  "optionsApiUrl": "https://options.api.2gis.ru",
+  "clickstreamApiKey": "4909438c18a83e0b332829df6c03dad4e8088d9ec1121357a6c9c81def887d82",
+  "guideApiUrl": "https://guide.api.2gis.com",
+  "russpassApiUrl": "https://russpass.ru/event/5e5617a2826e00001944d03a?utm_source=2gis&utm_medium=cpc&utm_campaign=_5e5617a2826e00001944d03a_aero_2gis_|UIDjpV0Ny",
+  "weatherApiUrl": "https://mobile-weather.api.2gis.ru/api/1.0",
+  "aiChatApiUrl": "",
+  "passepartoutApiUrl": "https://passepartout.2gis.com",
+  "aiSuggestApiUrl": "https://ai-faq-suggest.api.2gis.com",
+  "aiSuggestApiKey": "c7f1a769-c8a5-4636-b14d-d8c987808a12",
+  "sberChatLocalProxy": "",
+  "afishaApiUrl": "https://gigs.api.2gis.ru",
+  "benzApiUrl": "https://benzin.api.2gis.ru/",
+  "featureDiscoveryKeywords": true,
+  "showApi2gisLink": true,
+  "redirectApiLink": "https://redirect.2gis.com/api",
+  "mapsapiTileServer": "//tile{s}.maps.2gis.com/v2/tiles?x={x}&y={y}&z={z}&v=1&r=g&key={key}",
+  "mapsapiArabicTileServer": "//tile{s}.maps.2gis.com/v2/tiles?x={x}&y={y}&z={z}&v=1&ts=online_sd_ar&r=g&key={key}",
+  "mapsapiArabicRetinaTileServer": "//tile{s}.maps.2gis.com/v2/tiles?x={x}&y={y}&z={z}&v=1&ts=online_hd_ar&r=g&key={key}",
+  "mapsapiPoiMetaServer": "//tile{s}.maps.2gis.com/poi?x={x}&y={y}&z={z}&v=1&ts=online_sd",
+  "mapsapiRetinaPoiMetaServer": "//tile{s}.maps.2gis.com/poi?x={x}&y={y}&z={z}&v=1&ts=online_hd",
+  "mapsapiArabicPoiMetaServer": "//tile{s}.maps.2gis.com/poi?x={x}&y={y}&z={z}&v=1&ts=online_sd_ar",
+  "mapsapiArabicRetinaPoiMetaServer": "//tile{s}.maps.2gis.com/poi?x={x}&y={y}&z={z}&v=1&ts=online_hd_ar",
+  "mapsapiTileProtocol": "https:",
+  "mapsapiSecureProtocol": "https:",
+  "mapsapiTileset": "online_sd",
+  "mapsapiRetinaTileset": "online_hd",
+  "jakartaVectorTilesKey": "10153539-2026-4a0c-b7a3-52ddb3fed411"
+ },
+ "probes": {
+  "proxy_items": {
+   "code": "blocked(code=404,len=619985,url=https://2gis.tj/_/items?q=%D0%B0%D0%BF%D1%82%D0%B5%D0%BA%D0%B0&city_id=70030076174471798&limit=12)",
+   "len": 0,
+   "firmids": 0,
+   "head": ""
+  },
+  "proxy_search": {
+   "code": "blocked(code=404,len=620039,url=https://2gis.tj/_/search?q=%D0%B0%D0%BF%D1%82%D0%B5%D0%BA%D0%B0&city_id=70030076174471798)",
+   "len": 0,
+   "firmids": 0,
+   "head": ""
+  },
+  "proxy_catalog_items": {
+   "code": "blocked(code=404,len=620036,url=https://2gis.tj/_/catalog/items?q=%D0%B0%D0%BF%D1%82%D0%B5%D0%BA%D0%B0)",
+   "len": 0,
+   "firmids": 0,
+   "head": ""
+  },
+  "proxy_items_path": {
+   "code": "blocked(code=404,len=620030,url=https://2gis.tj/_/catalog/2gis.items?q=%D0%B0%D0%BF%D1%82%D0%B5%D0%BA%D0%B0)",
+   "len": 0,
+   "firmids": 0,
+   "head": ""
+  },
+  "proxy_v2": {
+   "code": "blocked(code=404,len=619964,url=https://2gis.tj/_/2.0/items?q=%D0%B0%D0%BF%D1%82%D0%B5%D0%BA%D0%B0)",
+   "len": 0,
+   "firmids": 0,
+   "head": ""
+  },
+  "dushanbe_items": {
+   "code": "blocked(code=404,len=578049,url=https://2gis.tj/dushanbe/items?q=%D0%B0%D0%BF%D1%82%D0%B5%D0%BA%D0%B0)",
+   "len": 0,
+   "firmids": 0,
+   "head": ""
+  },
+  "api20_noproj": {
+   "code": "blocked(code=200,len=134,url=https://catalog.api.2gis.ru/2.0/items?q=%D0%B0%D0%BF%D1%82%D0%B5%D0%BA%D0%B0&city_id=70030076174471798&limit=12)",
+   "len": 0,
+   "firmids": 0,
+   "head": ""
+  },
+  "api20_proj": {
+   "code": "blocked(code=200,len=134,url=https://catalog.api.2gis.ru/2.0/items?q=%D0%B0%D0%BF%D1%82%D0%B5%D0%BA%D0%B0&city_id=70030076174471798&project=online_tj&limit=12)",
+   "len": 0,
+   "firmids": 0,
+   "head": ""
+  },
+  "api30_noproj": {
+   "code": "blocked(code=200,len=152,url=https://catalog.api.2gis.ru/3.0/items?q=%D0%B0%D0%BF%D1%82%D0%B5%D0%BA%D0%B0&city_id=70030076174471798&limit=12)",
+   "len": 0,
+   "firmids": 0,
+   "head": ""
+  },
+  "api30_dgis": {
+   "code": "blocked(code=200,len=152,url=https://catalog.api.2gis.ru/3.0/items?q=%D0%B0%D0%BF%D1%82%D0%B5%D0%BA%D0%B0&city_id=70030076174471798&project=dublgis&limit=12)",
+   "len": 0,
+   "firmids": 0,
+   "head": ""
+  },
+  "search_page_page2_hdr": {
+   "code": "fresh",
+   "len": 694176,
+   "firmids": 0,
+   "head": " <!doctype html> <html lang=\"ru\" > <head> <script nonce=\"pZXnZPXap1w61Io8/UmbRQ==\"> var __errors = []; function onWindowE"
+  },
+  "post_proxy_items": {
+   "code": 404,
+   "len": 147
+  },
+  "post_proxy_search_json": {
+   "code": 404,
+   "len": 148
+  }
+ }
+}

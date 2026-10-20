@@ -1,0 +1,72 @@
+{
+ "api3": "https://catalog.api.2gis.ru/3.0/",
+ "api2": "https://catalog.api.2gis.ru/2.0/",
+ "first_item_fields": [],
+ "has_schedule_in_items": false,
+ "has_rubrics": false,
+ "has_rating": false,
+ "total_rubric_dushanbe": null,
+ "limits": {
+  "12": 0,
+  "50": 0,
+  "100": 0,
+  "200": 0
+ },
+ "pages": {
+  "1": {
+   "n": 0,
+   "head": []
+  },
+  "2": {
+   "n": 0,
+   "head": []
+  },
+  "3": {
+   "n": 0,
+   "head": []
+  }
+ },
+ "pages_work": false,
+ "other_cities": {
+  "khujand": {
+   "total": null,
+   "cities_in_items": {}
+  },
+  "bohtar": {
+   "total": null,
+   "cities_in_items": {}
+  },
+  "kulob": {
+   "total": null,
+   "cities_in_items": {}
+  },
+  "regar": {
+   "total": null,
+   "cities_in_items": {}
+  },
+  "nurek": {
+   "total": null,
+   "cities_in_items": {}
+  },
+  "horog": {
+   "total": null,
+   "cities_in_items": {}
+  },
+  "konibodom": {
+   "total": null,
+   "cities_in_items": {}
+  },
+  "tursunzoda": {
+   "total": null,
+   "cities_in_items": {}
+  },
+  "pendjikent": {
+   "total": null,
+   "cities_in_items": {}
+  },
+  "isfara": {
+   "total": null,
+   "cities_in_items": {}
+  }
+ }
+}

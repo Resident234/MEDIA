@@ -1,0 +1,46 @@
+{
+ "api": {
+  "2.0_items": {
+   "code": 200,
+   "head": "{\"meta\":{\"api_version\":\"2.0.21862\",\"code\":404,\"error\":{\"message\":\"Method not found\",\"type\":\"methodNotFound\"},\"issue_date\":\"20261020\"}}",
+   "meta_code": "404"
+  },
+  "3.0_items_ru": {
+   "code": 200,
+   "head": "{\"meta\":{\"api_version\":\"3.0.21862\",\"code\":403,\"error\":{\"message\":\"Authorization error (key is blocked, please contact api@2gis.ru)\",\"type\":\"apiKeyIsBlocked\"},\"issue_date\"",
+   "meta_code": "403"
+  },
+  "3.0_items_com": {
+   "code": 200,
+   "head": "{\"meta\":{\"api_version\":\"3.0.21862\",\"code\":403,\"error\":{\"message\":\"Authorization error (key is blocked, please contact api@2gis.ru)\",\"type\":\"apiKeyIsBlocked\"},\"issue_date\"",
+   "meta_code": "403"
+  },
+  "3.0_items_kz": {
+   "code": -1,
+   "head": "URLError(gaierror(11001, 'getaddrinfo failed'))"
+  },
+  "3.0_items_tj": {
+   "code": -1,
+   "head": "URLError(gaierror(11001, 'getaddrinfo failed'))"
+  },
+  "search2gis": {
+   "code": -1,
+   "head": "URLError(gaierror(11001, 'getaddrinfo failed'))"
+  },
+  "web_search_path": {
+   "code": -1,
+   "head": "<HTTPError 404: 'Not Found'>"
+  },
+  "web_items_path": {
+   "code": 200,
+   "head": "\n    <!doctype html>\n    <html lang=\"tg\" >\n      <head>\n        \n  <script nonce=\"Q6Hv71/RVoF67T9S7z40dg==\">\n    var __errors = []; function onWindowError(e) { __errors.p",
+   "meta_code": "200",
+   "total": "2"
+  }
+ },
+ "card_sample": {
+  "file": "70000001104996125.html",
+  "other_firm_ids": 1,
+  "hints": []
+ }
+}

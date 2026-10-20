@@ -1,0 +1,650 @@
+{
+ "facets": {
+  "rubrics": [
+   {
+    "id": "207",
+    "name": "\u0410\u043f\u0442\u0435\u043a\u0438",
+    "count": 100
+   },
+   {
+    "id": "208",
+    "name": "\u0411\u0410\u0414\u044b",
+    "count": 11
+   },
+   {
+    "id": "660",
+    "name": "\u041c\u0435\u0434\u0438\u0446\u0438\u043d\u0441\u043a\u0438\u0435 \u043f\u0440\u0438\u0431\u043e\u0440\u044b",
+    "count": 4
+   },
+   {
+    "id": "345",
+    "name": "\u0422\u043e\u0432\u0430\u0440\u044b \u0434\u043b\u044f \u043d\u043e\u0432\u043e\u0440\u043e\u0436\u0434\u0451\u043d\u043d\u044b\u0445",
+    "count": 2
+   },
+   {
+    "id": "659",
+    "name": "\u0421\u0440\u0435\u0434\u0441\u0442\u0432\u0430 \u0433\u0438\u0433\u0438\u0435\u043d\u044b",
+    "count": 2
+   },
+   {
+    "id": "110512",
+    "name": "\u0410\u0440\u043e\u043c\u0430\u0442\u043e\u0432\u0430\u0440\u044b",
+    "count": 1
+   },
+   {
+    "id": "4529",
+    "name": "\u041d\u0435\u0432\u0440\u043e\u043b\u043e\u0433",
+    "count": 1
+   },
+   {
+    "id": "4521",
+    "name": "\u041c\u043d\u043e\u0433\u043e\u043f\u0440\u043e\u0444\u0438\u043b\u044c\u043d\u044b\u0435 \u043c\u0435\u0434\u0438\u0446\u0438\u043d\u0441\u043a\u0438\u0435 \u0446\u0435\u043d\u0442\u0440\u044b",
+    "count": 1
+   },
+   {
+    "id": "16870",
+    "name": "\u0422\u0440\u0430\u0432\u043c\u0430\u0442\u043e\u043b\u043e\u0433-\u043e\u0440\u0442\u043e\u043f\u0435\u0434",
+    "count": 1
+   },
+   {
+    "id": "9956",
+    "name": "\u0410\u043b\u044c\u0442\u0435\u0440\u043d\u0430\u0442\u0438\u0432\u043d\u0430\u044f \u043c\u0435\u0434\u0438\u0446\u0438\u043d\u0430",
+    "count": 1
+   },
+   {
+    "id": "210",
+    "name": "\u041e\u043f\u0442\u0438\u043a\u0430",
+    "count": 1
+   },
+   {
+    "id": "382",
+    "name": "\u041a\u043e\u0441\u043c\u0435\u0442\u0438\u043a\u0430 \u0438 \u043f\u0430\u0440\u0444\u044e\u043c\u0435\u0440\u0438\u044f",
+    "count": 1
+   },
+   {
+    "id": "110495",
+    "name": "\u0422\u043e\u0432\u0430\u0440\u044b \u0434\u043b\u044f \u0440\u0435\u0430\u0431\u0438\u043b\u0438\u0442\u0430\u0446\u0438\u0438",
+    "count": 1
+   }
+  ],
+  "districts": [
+   {
+    "id": "70030077013573016",
+    "name": "\u0418\u0441\u043c\u043e\u0438\u043b\u0438 \u0421\u043e\u043c\u043e\u043d\u0438",
+    "count": null
+   },
+   {
+    "id": "70030077013573846",
+    "name": "\u0428\u043e\u0445\u043c\u0430\u043d\u0441\u0443\u0440",
+    "count": null
+   },
+   {
+    "id": "70030077013570949",
+    "name": "\u0421\u0438\u043d\u043e",
+    "count": null
+   },
+   {
+    "id": "70030077013570227",
+    "name": "\u0424\u0438\u0440\u0434\u0430\u0432\u0441\u0438",
+    "count": null
+   }
+  ],
+  "widget_values": [
+   {
+    "text": "\u0414\u043e\u0441\u0442\u0430\u0432\u043a\u0430",
+    "type": "filter",
+    "value_type": "additional_field_tag",
+    "values": [
+     "covid_homedelivery"
+    ]
+   },
+   {
+    "text": "\u041f\u043e \u0440\u0435\u0439\u0442\u0438\u043d\u0433\u0443",
+    "type": "sort",
+    "value_type": "text_field_tag",
+    "values": [
+     "rating"
+    ]
+   },
+   {
+    "text": "\u041f\u043e \u043d\u043e\u0432\u0438\u0437\u043d\u0435",
+    "type": "sort",
+    "value_type": "text_field_tag",
+    "values": [
+     "opened_time"
+    ]
+   },
+   {
+    "text": "\u041f\u043e \u0430\u043b\u0444\u0430\u0432\u0438\u0442\u0443",
+    "type": "sort",
+    "value_type": "text_field_tag",
+    "values": [
+     "name"
+    ]
+   },
+   {
+    "text": "\u041d\u0430 \u043a\u0430\u0440\u0442\u0435",
+    "type": "filter",
+    "value_type": "text_field_tag",
+    "values": [
+     "bound"
+    ]
+   },
+   {
+    "text": "\u0421 \u0441\u0430\u0439\u0442\u043e\u043c",
+    "type": "filter",
+    "value_type": "additional_field_tag",
+    "values": [
+     "has_site"
+    ]
+   },
+   {
+    "text": "\u0421 \u0444\u043e\u0442\u043e",
+    "type": "filter",
+    "value_type": "text_field_tag",
+    "values": [
+     "has_photos"
+    ]
+   },
+   {
+    "text": "\u0421 \u0446\u0435\u043d\u0430\u043c\u0438",
+    "type": "filter",
+    "value_type": "text_field_tag",
+    "values": [
+     "has_goods"
+    ]
+   },
+   {
+    "text": "\u0420\u0430\u0441\u0447\u0451\u0442 \u043f\u043e \u043a\u0430\u0440\u0442\u0430\u043c",
+    "type": "filter",
+    "value_type": "additional_field_tag",
+    "values": [
+     "general_payment_type_card"
+    ]
+   },
+   {
+    "text": "\u0418\u0441\u043c\u043e\u0438\u043b\u0438 \u0421\u043e\u043c\u043e\u043d\u0438",
+    "type": null,
+    "value_type": null,
+    "values": [
+     "70030077013573016"
+    ]
+   },
+   {
+    "text": "\u0421\u0438\u043d\u043e",
+    "type": null,
+    "value_type": null,
+    "values": [
+     "70030077013570949"
+    ]
+   },
+   {
+    "text": "\u0424\u0438\u0440\u0434\u0430\u0432\u0441\u0438",
+    "type": null,
+    "value_type": null,
+    "values": [
+     "70030077013570227"
+    ]
+   },
+   {
+    "text": "\u0428\u043e\u0445\u043c\u0430\u043d\u0441\u0443\u0440",
+    "type": null,
+    "value_type": null,
+    "values": [
+     "70030077013573846"
+    ]
+   },
+   {
+    "text": "\u0411\u044b\u043b\u0438 \u0434\u0440\u0443\u0437\u044c\u044f",
+    "type": "filter",
+    "value_type": "text_field_tag",
+    "values": [
+     "friends_were_here"
+    ]
+   },
+   {
+    "text": "\u0414\u043b\u044f \u043b\u044e\u0434\u0435\u0439 \u0441 \u0438\u043d\u0432\u0430\u043b\u0438\u0434\u043d\u043e\u0441\u0442\u044c\u044e",
+    "type": "filter",
+    "value_type": "additional_field_tag",
+    "values": [
+     "accessible_entrance_accessible_entrance"
+    ]
+   },
+   {
+    "text": "\u041f\u0430\u043d\u0434\u0443\u0441",
+    "type": "filter",
+    "value_type": "additional_field_tag",
+    "values": [
+     "accessible_entrance_inclusive_environment_ramp_inclusive"
+    ]
+   },
+   {
+    "text": "\u0420\u043e\u0437\u043d\u0438\u0446\u0430",
+    "type": "filter",
+    "value_type": "additional_field_tag",
+    "values": [
+     "type_of_business_type_retail"
+    ]
+   },
+   {
+    "text": "\u0418\u043d\u0442\u0435\u0440\u043d\u0435\u0442-\u043c\u0430\u0433\u0430\u0437\u0438\u043d",
+    "type": "filter",
+    "value_type": "additional_field_tag",
+    "values": [
+     "type_of_business_type_online_store"
+    ]
+   },
+   {
+    "text": "\u041e\u043f\u0442",
+    "type": "filter",
+    "value_type": "additional_field_tag",
+    "values": [
+     "type_of_business_type_wholesale"
+    ]
+   },
+   {
+    "text": "\u0410\u043d\u0433\u043b\u0438\u0439\u0441\u043a\u0438\u0439",
+    "type": "filter",
+    "value_type": "additional_field_tag",
+    "values": [
+     "service_language_english"
+    ]
+   },
+   {
+    "text": "\u041a\u0438\u0442\u0430\u0439\u0441\u043a\u0438\u0439",
+    "type": "filter",
+    "value_type": "additional_field_tag",
+    "values": [
+     "service_language_chinese"
+    ]
+   },
+   {
+    "text": "\u0420\u0443\u0441\u0441\u043a\u0438\u0439",
+    "type": "filter",
+    "value_type": "additional_field_tag",
+    "values": [
+     "service_language_russian"
+    ]
+   },
+   {
+    "text": "\u0424\u0430\u0440\u0441\u0438",
+    "type": "filter",
+    "value_type": "additional_field_tag",
+    "values": [
+     "service_language_farsi"
+    ]
+   },
+   {
+    "text": "\u0424\u0440\u0430\u043d\u0446\u0443\u0437\u0441\u043a\u0438\u0439",
+    "type": "filter",
+    "value_type": "additional_field_tag",
+    "values": [
+     "service_language_french"
+    ]
+   }
+  ],
+  "sorts": [
+   "rating",
+   "opened_time",
+   "name"
+  ]
+ },
+ "variants": {
+  "sort_rating": {
+   "url": "https://2gis.tj/dushanbe/search/%D0%B0%D0%BF%D1%82%D0%B5%D0%BA%D0%B8?sorting=rating",
+   "ok": "ok",
+   "ids": 12,
+   "new": 12,
+   "total": 1084
+  },
+  "sort_opened_time": {
+   "url": "https://2gis.tj/dushanbe/search/%D0%B0%D0%BF%D1%82%D0%B5%D0%BA%D0%B8?sorting=opened_time",
+   "ok": "ok",
+   "ids": 12,
+   "new": 0,
+   "total": 1084
+  },
+  "sort_name": {
+   "url": "https://2gis.tj/dushanbe/search/%D0%B0%D0%BF%D1%82%D0%B5%D0%BA%D0%B8?sorting=name",
+   "ok": "ok",
+   "ids": 12,
+   "new": 0,
+   "total": 1084
+  },
+  "rubric_207": {
+   "url": "https://2gis.tj/dushanbe/search/%D0%B0%D0%BF%D1%82%D0%B5%D0%BA%D0%B8?rubric_id=207",
+   "ok": "ok",
+   "ids": 12,
+   "new": 0,
+   "total": 1084
+  },
+  "rubric_208": {
+   "url": "https://2gis.tj/dushanbe/search/%D0%B0%D0%BF%D1%82%D0%B5%D0%BA%D0%B8?rubric_id=208",
+   "ok": "ok",
+   "ids": 12,
+   "new": 0,
+   "total": 1084
+  },
+  "rubric_660": {
+   "url": "https://2gis.tj/dushanbe/search/%D0%B0%D0%BF%D1%82%D0%B5%D0%BA%D0%B8?rubric_id=660",
+   "ok": "ok",
+   "ids": 12,
+   "new": 0,
+   "total": 1084
+  },
+  "rubric_345": {
+   "url": "https://2gis.tj/dushanbe/search/%D0%B0%D0%BF%D1%82%D0%B5%D0%BA%D0%B8?rubric_id=345",
+   "ok": "ok",
+   "ids": 12,
+   "new": 0,
+   "total": 1084
+  },
+  "rubric_659": {
+   "url": "https://2gis.tj/dushanbe/search/%D0%B0%D0%BF%D1%82%D0%B5%D0%BA%D0%B8?rubric_id=659",
+   "ok": "ok",
+   "ids": 12,
+   "new": 0,
+   "total": 1084
+  },
+  "rubric_110512": {
+   "url": "https://2gis.tj/dushanbe/search/%D0%B0%D0%BF%D1%82%D0%B5%D0%BA%D0%B8?rubric_id=110512",
+   "ok": "ok",
+   "ids": 12,
+   "new": 0,
+   "total": 1084
+  },
+  "district_70030077013573016": {
+   "url": "https://2gis.tj/dushanbe/search/%D0%B0%D0%BF%D1%82%D0%B5%D0%BA%D0%B8?district=70030077013573016",
+   "ok": "ok",
+   "ids": 12,
+   "new": 0,
+   "total": 1084
+  },
+  "q_district_70030077013573016": {
+   "url": "https://2gis.tj/dushanbe/search/%D0%B0%D0%BF%D1%82%D0%B5%D0%BA%D0%B0%20%D0%98%D1%81%D0%BC%D0%BE%D0%B8%D0%BB%D0%B8%20%D0%A1%D0%BE%D0%BC%D0%BE%D0%BD%D0%B8",
+   "ok": "ok",
+   "ids": 12,
+   "new": 6,
+   "total": 255
+  },
+  "district_70030077013573846": {
+   "url": "https://2gis.tj/dushanbe/search/%D0%B0%D0%BF%D1%82%D0%B5%D0%BA%D0%B8?district=70030077013573846",
+   "ok": "ok",
+   "ids": 12,
+   "new": 0,
+   "total": 1084
+  },
+  "q_district_70030077013573846": {
+   "url": "https://2gis.tj/dushanbe/search/%D0%B0%D0%BF%D1%82%D0%B5%D0%BA%D0%B0%20%D0%A8%D0%BE%D1%85%D0%BC%D0%B0%D0%BD%D1%81%D1%83%D1%80",
+   "ok": "ok",
+   "ids": 12,
+   "new": 11,
+   "total": 276
+  },
+  "district_70030077013570949": {
+   "url": "https://2gis.tj/dushanbe/search/%D0%B0%D0%BF%D1%82%D0%B5%D0%BA%D0%B8?district=70030077013570949",
+   "ok": "ok",
+   "ids": 12,
+   "new": 0,
+   "total": 1084
+  },
+  "q_district_70030077013570949": {
+   "url": "https://2gis.tj/dushanbe/search/%D0%B0%D0%BF%D1%82%D0%B5%D0%BA%D0%B0%20%D0%A1%D0%B8%D0%BD%D0%BE",
+   "ok": "ok",
+   "ids": 12,
+   "new": 7,
+   "total": 547
+  },
+  "district_70030077013570227": {
+   "url": "https://2gis.tj/dushanbe/search/%D0%B0%D0%BF%D1%82%D0%B5%D0%BA%D0%B8?district=70030077013570227",
+   "ok": "ok",
+   "ids": 12,
+   "new": 0,
+   "total": 1084
+  },
+  "q_district_70030077013570227": {
+   "url": "https://2gis.tj/dushanbe/search/%D0%B0%D0%BF%D1%82%D0%B5%D0%BA%D0%B0%20%D0%A4%D0%B8%D1%80%D0%B4%D0%B0%D0%B2%D1%81%D0%B8",
+   "ok": "ok",
+   "ids": 12,
+   "new": 10,
+   "total": 50
+  },
+  "widget_covid_homedelivery": {
+   "url": "https://2gis.tj/dushanbe/search/%D0%B0%D0%BF%D1%82%D0%B5%D0%BA%D0%B8?covid_homedelivery=1",
+   "ok": "ok",
+   "ids": 12,
+   "new": 0,
+   "total": 1084
+  },
+  "widget_rating": {
+   "url": "https://2gis.tj/dushanbe/search/%D0%B0%D0%BF%D1%82%D0%B5%D0%BA%D0%B8?rating=1",
+   "ok": "ok",
+   "ids": 12,
+   "new": 0,
+   "total": 1084
+  },
+  "widget_opened_time": {
+   "url": "https://2gis.tj/dushanbe/search/%D0%B0%D0%BF%D1%82%D0%B5%D0%BA%D0%B8?opened_time=1",
+   "ok": "ok",
+   "ids": 12,
+   "new": 0,
+   "total": 1084
+  },
+  "widget_name": {
+   "url": "https://2gis.tj/dushanbe/search/%D0%B0%D0%BF%D1%82%D0%B5%D0%BA%D0%B8?name=1",
+   "ok": "ok",
+   "ids": 12,
+   "new": 0,
+   "total": 1084
+  },
+  "widget_bound": {
+   "url": "https://2gis.tj/dushanbe/search/%D0%B0%D0%BF%D1%82%D0%B5%D0%BA%D0%B8?bound=1",
+   "ok": "ok",
+   "ids": 12,
+   "new": 0,
+   "total": 1084
+  },
+  "widget_has_site": {
+   "url": "https://2gis.tj/dushanbe/search/%D0%B0%D0%BF%D1%82%D0%B5%D0%BA%D0%B8?has_site=1",
+   "ok": "ok",
+   "ids": 12,
+   "new": 0,
+   "total": 1084
+  },
+  "q00_\\u0430\\u043f\\u": {
+   "url": "https://2gis.tj/dushanbe/search/%D0%B0%D0%BF%D1%82%D0%B5%D0%BA%D0%B0%2024%20%D1%87%D0%B0%D1%81%D0%B0",
+   "ok": "ok",
+   "ids": 12,
+   "new": 8,
+   "total": 130
+  },
+  "q01_\\u043a\\u0440\\u": {
+   "url": "https://2gis.tj/dushanbe/search/%D0%BA%D1%80%D1%83%D0%B3%D0%BB%D0%BE%D1%81%D1%83%D1%82%D0%BE%D1%87%D0%BD%D0%B0%D1%8F%20%D0%B0%D0%BF%D1%82%D0%B5%D0%BA%D0%B0",
+   "ok": "ok",
+   "ids": 12,
+   "new": 0,
+   "total": 130
+  },
+  "q02_\\u0430\\u043f\\u": {
+   "url": "https://2gis.tj/dushanbe/search/%D0%B0%D0%BF%D1%82%D0%B5%D1%87%D0%BD%D1%8B%D0%B9%20%D0%BF%D1%83%D0%BD%D0%BA%D1%82",
+   "ok": "ok",
+   "ids": 12,
+   "new": 0,
+   "total": 1079
+  },
+  "q03_\\u0434\\u043e\\u": {
+   "url": "https://2gis.tj/dushanbe/search/%D0%B4%D0%BE%D1%80%D1%83%D1%85%D0%BE%D0%BD%D0%B0",
+   "ok": "ok",
+   "ids": 12,
+   "new": 1,
+   "total": 1138
+  },
+  "q04_\\u0444\\u0430\\u": {
+   "url": "https://2gis.tj/dushanbe/search/%D1%84%D0%B0%D1%80%D0%BC%D0%B0%D1%86%D0%B8%D1%8F",
+   "ok": "ok",
+   "ids": 12,
+   "new": 12,
+   "total": 118
+  },
+  "q05_\\u0430\\u043f\\u": {
+   "url": "https://2gis.tj/dushanbe/search/%D0%B0%D0%BF%D1%82%D0%B5%D0%BA%D0%B0%20%D1%80%D1%8F%D0%B4%D0%BE%D0%BC",
+   "ok": "ok",
+   "ids": 12,
+   "new": 0,
+   "total": 1084
+  },
+  "q06_\\u043b\\u0435\\u": {
+   "url": "https://2gis.tj/dushanbe/search/%D0%BB%D0%B5%D0%BA%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B0",
+   "ok": "ok",
+   "ids": 12,
+   "new": 1,
+   "total": 1086
+  },
+  "q07_\\u0430\\u043f\\u": {
+   "url": "https://2gis.tj/dushanbe/search/%D0%B0%D0%BF%D1%82%D0%B5%D0%BA%D0%B0%20%D0%98%D1%81%D0%BC%D0%BE%D0%B8%D0%BB%D0%B8%20%D0%A1%D0%BE%D0%BC%D0%BE%D0%BD%D0%B8",
+   "ok": "ok",
+   "ids": 12,
+   "new": 0,
+   "total": 255
+  },
+  "q08_\\u0430\\u043f\\u": {
+   "url": "https://2gis.tj/dushanbe/search/%D0%B0%D0%BF%D1%82%D0%B5%D0%BA%D0%B0%20%D0%A4%D0%B8%D1%80%D0%B4%D0%BE%D1%83%D1%81%D0%B8",
+   "ok": "ok",
+   "ids": 12,
+   "new": 12,
+   "total": 151
+  },
+  "q09_\\u0430\\u043f\\u": {
+   "url": "https://2gis.tj/dushanbe/search/%D0%B0%D0%BF%D1%82%D0%B5%D0%BA%D0%B0%20%D0%A1%D0%B8%D0%BD%D0%BE",
+   "ok": "ok",
+   "ids": 12,
+   "new": 0,
+   "total": 547
+  },
+  "seo_rubric_alias": {
+   "url": "https://2gis.tj/dushanbe/rubric/apteki",
+   "ok": "blocked(code=404,len=577992,url=https://2gis.tj/dushanbe/rubric/apteki)",
+   "ids": 0,
+   "new": 0,
+   "total": null
+  },
+  "seo_rubrics_alias": {
+   "url": "https://2gis.tj/dushanbe/rubrics/apteki",
+   "ok": "blocked(code=404,len=521711,url=https://2gis.tj/dushanbe/rubrics/apteki)",
+   "ids": 0,
+   "new": 0,
+   "total": null
+  },
+  "seo_type_apteki": {
+   "url": "https://2gis.tj/dushanbe/type/apteki",
+   "ok": "blocked(code=404,len=577998,url=https://2gis.tj/dushanbe/type/apteki)",
+   "ids": 0,
+   "new": 0,
+   "total": null
+  },
+  "seo_rubric_id": {
+   "url": "https://2gis.tj/dushanbe/rubric/207",
+   "ok": "ok",
+   "ids": 12,
+   "new": 0,
+   "total": 1080
+  },
+  "seo_search_alias": {
+   "url": "https://2gis.tj/dushanbe/search/apteki",
+   "ok": "ok",
+   "ids": 12,
+   "new": 0,
+   "total": 1079
+  },
+  "seo_apteki_page2": {
+   "url": "https://2gis.tj/dushanbe/search/apteki?page=2",
+   "ok": "ok",
+   "ids": 12,
+   "new": 0,
+   "total": 1079
+  }
+ },
+ "union": [
+  "70000001100582687",
+  "70000001100619713",
+  "70000001100840147",
+  "70000001100857681",
+  "70000001100876582",
+  "70000001101114368",
+  "70000001101129301",
+  "70000001101134504",
+  "70000001101257547",
+  "70000001101289238",
+  "70000001101398750",
+  "70000001101405781",
+  "70000001101494319",
+  "70000001101502651",
+  "70000001101711278",
+  "70000001101760147",
+  "70000001101765734",
+  "70000001101886214",
+  "70000001101960712",
+  "70000001101961035",
+  "70000001102001290",
+  "70000001102013491",
+  "70000001102241203",
+  "70000001102313384",
+  "70000001102318107",
+  "70000001102332646",
+  "70000001102337427",
+  "70000001102545745",
+  "70000001102565918",
+  "70000001102566330",
+  "70000001102567238",
+  "70000001102574972",
+  "70000001102592680",
+  "70000001102592986",
+  "70000001102593504",
+  "70000001102663419",
+  "70000001102664685",
+  "70000001102694410",
+  "70000001102695628",
+  "70000001102695835",
+  "70000001102695953",
+  "70000001102710658",
+  "70000001102715414",
+  "70000001102816669",
+  "70000001102836528",
+  "70000001102853560",
+  "70000001102853578",
+  "70000001102853584",
+  "70000001102908140",
+  "70000001103036786",
+  "70000001103188111",
+  "70000001103435406",
+  "70000001103965137",
+  "70000001103965495",
+  "70000001103971557",
+  "70000001103973430",
+  "70000001103976719",
+  "70000001104027865",
+  "70000001104836204",
+  "70000001104860453",
+  "70000001104942186",
+  "70000001104996114",
+  "70000001105321646",
+  "70000001105364174",
+  "70000001109952353",
+  "70000001110335246",
+  "70000001110604306",
+  "70000001110654560",
+  "70000001110869173",
+  "70000001111006773",
+  "70000001111056199",
+  "70000001111056686",
+  "70000001113723410",
+  "70000001113912414",
+  "70000001116769637",
+  "70000001117010654",
+  "70000001117744527",
+  "70000001118060655",
+  "70000001118115788",
+  "70000001118123093"
+ ],
+ "union_size": 80
+}

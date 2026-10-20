@@ -1,0 +1,126 @@
+{
+ "c_center_z12": {
+  "code": 200,
+  "bytes": 710898,
+  "ids": 12,
+  "total": [
+   "1084"
+  ]
+ },
+ "c_center_z14": {
+  "code": 200,
+  "bytes": 710898,
+  "ids": 12,
+  "total": [
+   "1084"
+  ]
+ },
+ "c_center_z16": {
+  "code": 200,
+  "bytes": 710894,
+  "ids": 12,
+  "total": [
+   "1084"
+  ]
+ },
+ "c_west_z15": {
+  "code": 200,
+  "bytes": 710898,
+  "ids": 12,
+  "total": [
+   "1084"
+  ]
+ },
+ "c_east_z15": {
+  "code": 200,
+  "bytes": 710841,
+  "ids": 12,
+  "total": [
+   "1084"
+  ]
+ },
+ "c_north_z15": {
+  "code": 200,
+  "bytes": 710841,
+  "ids": 12,
+  "total": [
+   "1084"
+  ]
+ },
+ "c_south_z15": {
+  "code": 200,
+  "bytes": 710840,
+  "ids": 12,
+  "total": [
+   "1084"
+  ]
+ },
+ "rubric_id": {
+  "code": -1,
+  "bytes": 28,
+  "err": "<HTTPError 404: 'Not Found'>"
+ },
+ "rubric_id_page2": {
+  "code": 200,
+  "bytes": 710838,
+  "ids": 12,
+  "total": [
+   "1084"
+  ]
+ },
+ "type_seo": {
+  "code": -1,
+  "bytes": 28,
+  "err": "<HTTPError 404: 'Not Found'>"
+ },
+ "apteki_path": {
+  "code": 200,
+  "bytes": 710858,
+  "ids": 12,
+  "total": [
+   "1084"
+  ]
+ },
+ "apteki_lat": {
+  "code": 200,
+  "bytes": 685526,
+  "ids": 12,
+  "total": [
+   "968"
+  ]
+ },
+ "doruhona": {
+  "code": 200,
+  "bytes": 721671,
+  "ids": 12,
+  "total": [
+   "1138"
+  ]
+ },
+ "apteka_24": {
+  "code": 200,
+  "bytes": 658545,
+  "ids": 12,
+  "total": [
+   "130"
+  ]
+ },
+ "robots.txt": {
+  "code": 200,
+  "bytes": 1193,
+  "head": "User-agent: *\nHost: https://2gis.tj\nSitemap: https://2gis.tj/sitemap.xml\n\nDisallow: /_/*\nDisallow: /maps_action\n\nDisallow: /*printmode=\nDisallow: /*login_token="
+ },
+ "sitemap.xml": {
+  "code": -1,
+  "bytes": 28,
+  "err": "<HTTPError 403: 'Forbidden'>"
+ },
+ "sitemaps_firms.xml": {
+  "code": -1,
+  "bytes": 28,
+  "err": "<HTTPError 403: 'Forbidden'>"
+ },
+ "frontend_paths": {
+  "//disk.2gis.com/guide/rubrics/24_hotel.svg": 1
+ }
+}
