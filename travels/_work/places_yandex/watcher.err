@@ -1,0 +1,12 @@
+Traceback (most recent call last):
+  File "watcher.py", line 110, in <module>
+    sys.exit(main())
+  File "watcher.py", line 81, in main
+    rc = run([sys.executable, "make_blocks.py"], cwd=MERGE_DIR)
+  File "watcher.py", line 57, in run
+    log("  " + line)
+  File "watcher.py", line 28, in log
+    print(line)
+  File "D:\Users\GSU\AppData\Local\Programs\Python\Python37\lib\encodings\cp866.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_map)[0]
+UnicodeEncodeError: 'charmap' codec can't encode characters in position 21-24: character maps to <undefined>

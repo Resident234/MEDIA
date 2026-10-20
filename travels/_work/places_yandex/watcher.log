@@ -1,0 +1,11 @@
+[22:10:01] watcher start: threshold=10 poll=120s max=2.0h
+[22:10:01] initial useful=5
+[22:18:01] useful=6 (+1)
+[22:22:01] useful=7 (+1)
+[22:24:01] useful=9 (+2)
+[22:26:01] useful=10 (+1)
+[22:26:01] threshold reached, running pipeline
+[22:26:01] $ D:\Users\GSU\AppData\Local\Programs\Python\Python37\python.exe merge_maps.py
+[22:26:02]   merged: total=484 gis=93 yx=10 both=0 none=381 -> merged.jsonl
+[22:26:02] $ D:\Users\GSU\AppData\Local\Programs\Python\Python37\python.exe make_blocks.py
+[22:26:02]   places__����_���ࠢ蠭_��-�_���ࠪ��_����_��������� -> 1 items
