@@ -1,0 +1,46 @@
+[20:30:07] planned 10 banks: Амонатбонк, Алиф, Арванд, Имон Интернешнл, КБТ, Хумо, ICB, Спитамен, Активбанк, Freedom
+[20:30:07] skip Амонатбонк (already sent)
+[20:30:07] SEND Алиф [992900909080] -> Алиф Банк (OAO Alif Bank)
+[20:34:42] planned 10 banks: Амонатбонк, Алиф, Арванд, Имон Интернешнл, КБТ, Хумо, ICB, Спитамен, Активбанк, Freedom
+[20:34:42] skip Амонатбонк (already sent)
+[20:34:42] SEND Алиф [992900909080] -> Алиф Банк (OAO Alif Bank)
+[20:34:52]   chat=\u0410\u043b\u0438\u0444 composer=70ch
+[20:34:52]   SENT
+[20:34:52]   sleep 45
+[20:35:37] SEND Арванд [992929149333] -> Банк Арванд (ЗАО)
+[20:35:49]   chat=+992 92 914 9333 composer=70ch
+[20:35:49]   SENT
+[20:35:49]   sleep 45
+[20:36:34] SEND Имон Интернешнл [992928455505] -> Imon International Bank (ЗАО МДО)
+[20:36:47]   chat=+992 92 845 5505 composer=70ch
+[20:36:47]   SENT
+[20:36:47]   sleep 45
+[20:37:32] SEND КБТ [992777090197] -> Коммерцбанк Таджикистана (КБТ)
+[20:37:45]   chat=+992 77 709 0197 composer=70ch
+[20:38:00]   FAIL send: {'e': 'ev_timeout'}
+[20:38:00] SEND Хумо [992887775544] -> Хумо Банк (ЗАО)
+[20:38:57]   FAIL no chat: {'hasBox': False, 'boxTxt': None, 'title': None}
+[20:38:57] SEND ICB [992771110111] -> ICB — Первый Микрофинансовый Банк (ЗАО ИКБТ)
+[20:39:34]   chat=+992 77 111 0111 composer=70ch
+[20:39:34]   SENT
+[20:39:34]   sleep 45
+[20:40:19] SEND Спитамен [992888656565] -> Спитамен Банк (ЗАО)
+[20:41:28]   FAIL no chat: {'hasBox': False, 'boxTxt': None, 'title': None}
+[20:41:28] SEND Активбанк [992988077111] -> Активбанк (ЗАО)
+[20:42:03]   chat=+992 98 807 7111 composer=70ch
+[20:42:03]   SENT
+[20:42:03]   sleep 45
+[20:42:48] SEND Freedom [992555005599] -> Freedom Bank Таджикистан (ЗАО)
+[20:43:25]   chat=Freedom Bank Tajikistan composer=70ch
+[20:43:25]   SENT
+[20:43:25] DONE: 6 sent, 3 failed
+[20:43:54] planned 3 banks: КБТ, Хумо, Спитамен
+[20:43:54] SEND КБТ [992777090197] -> Коммерцбанк Таджикистана (КБТ)
+[20:44:02]   chat=+992 77 709 0197 composer=70ch
+[20:44:02]   SENT
+[20:44:02]   sleep 60
+[20:45:02] SEND Хумо [992887775544] -> Хумо Банк (ЗАО)
+[20:45:44]   FAIL no chat: {'hasBox': False, 'boxTxt': None, 'title': None}
+[20:45:44] SEND Спитамен [992888656565] -> Спитамен Банк (ЗАО)
+[20:46:26]   FAIL no chat: {'hasBox': False, 'boxTxt': None, 'title': None}
+[20:46:26] DONE: 1 sent, 2 failed

@@ -60,8 +60,10 @@ DATA = [
     ("Хумо",
      "Хумо Банк (ЗАО)",
      "992887775544", "+992 88 777 55 44", None,
-     "https://humo.tj/ru", True,
-     "FB post: 'Viber, WhatsApp, Telegram: (+992) 88 777 55 44'"),
+     "https://humo.tj/ru", False,
+     "WebSearch/FB указывает 88 777 55 44 как WhatsApp, но web.whatsapp.com "
+     "отвечает «номер не зарегистрирован в WhatsApp» (проверено 2026-10-21). "
+     "Звоните на hotline."),
     ("ICB",
      "ICB — Первый Микрофинансовый Банк (ЗАО ИКБТ)",
      "992771110111", "+992 77 111 0 111", None,
@@ -85,8 +87,10 @@ DATA = [
     ("Спитамен",
      "Спитамен Банк (ЗАО)",
      "992888656565", "+992 888 656 565", None,
-     "https://www.spitamenbank.tj/ru/loan-application/", True,
-     "На loan-application: 'пишите на WhatsApp или Telegram +992 888 656565'"),
+     "https://www.spitamenbank.tj/ru/loan-application/", False,
+     "loan-application указывает 888 656 565 как WhatsApp/Telegram, но "
+     "web.whatsapp.com отвечает «номер не зарегистрирован в WhatsApp» "
+     "(проверено 2026-10-21). Звоните на hotline."),
     ("Тахвидбанк",
      "Тавхидбанк / Тахвидбанк (ОАО)",
      "992446017070", "+992 44 601 70 70", None,
