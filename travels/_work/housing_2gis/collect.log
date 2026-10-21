@@ -1,0 +1,176 @@
+[2026-10-22 00:23:51] start: queries=766 done=0 rows=0
+[2026-10-22 00:23:52] Q отель	+12	U12	T74	
+[2026-10-22 00:23:54] Q гостиница	+0	U12	T74	
+[2026-10-22 00:23:56] Q гостевой дом	+3	U15	T3	
+[2026-10-22 00:23:58] Q мини-отель	+0	U15	T75	
+[2026-10-22 00:24:01] Q мини отель	+0	U15	T75	
+[2026-10-22 00:24:03] Q хостел	+11	U26	T12	
+[2026-10-22 00:24:05] Q апартаменты	+12	U38	T247	
+[2026-10-22 00:24:07] Q квартира посуточно	+2	U40	T2	
+[2026-10-22 00:24:09] Q квартиры посуточно	+0	U40	T2	
+[2026-10-22 00:24:11] Q пансионат	+1	U41	T1	
+[2026-10-22 00:24:13] Q дом отдыха	+1	U42	T4	
+[2026-10-22 00:24:15] Q база отдыха	+1	U43	T4	
+[2026-10-22 00:24:17] Q санаторий	+11	U54	T19	
+[2026-10-22 00:24:19] Q mehmonxona	+6	U60	T6	
+[2026-10-22 00:24:31] Q mehteхonа	+0	U60	TNone	blocked(code=404,len=511017,url=https://2gis.tj/dushanbe/search/mehte%D1%85on%D0%B0)
+[2026-10-22 00:24:33] Q коттедж	+0	U60	T237	
+[2026-10-22 00:24:35] Q аренда коттеджей	+0	U60	T2	
+[2026-10-22 00:24:37] Q guest house	+12	U72	T15	
+[2026-10-22 00:24:39] Q hostel	+0	U72	T12	
+[2026-10-22 00:24:41] Q otel	+0	U72	T74	
+[2026-10-22 00:24:43] Q отель Исмоили Сомони	+5	U77	T35	
+[2026-10-22 00:24:46] Q отель Фирдоуси	+2	U79	T2	
+[2026-10-22 00:24:48] Q отель Сино	+3	U82	T24	
+[2026-10-22 00:24:50] Q отель Шохмансур	+2	U84	T42	
+[2026-10-22 00:25:01] Q отель Центральный	+0	U84	TNone	blocked(code=404,len=844599,url=https://2gis.tj/dushanbe/search/%D0%BE%D1%82%D0%B5%D0%BB%D1%8C%20%D0%A6%D0%B5%D0%BD%D1%82%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9)
+[2026-10-22 00:25:04] Q отель Фирдавси	+8	U92	T14	
+[2026-10-22 00:25:06] Q отель Рудаки	+1	U93	T29	
+[2026-10-22 00:25:17] Q отель Абу-али Ибн Сино	+0	U93	TNone	blocked(code=404,len=564658,url=https://2gis.tj/dushanbe/search/%D0%BE%D1%82%D0%B5%D0%BB%D1%8C%20%D0%90%D0%B1%D1%83-%D0%B0%D0%BB%D0%B8%20%D0%98%D0%B1%D0%BD%20%D0%A1%D0%B8%D0%BD%D0%BE)
+[2026-10-22 00:25:19] Q отель Гиссарский район	+1	U94	T1	
+[2026-10-22 00:25:31] Q отель Вахдат	+0	U94	TNone	blocked(code=404,len=633148,url=https://2gis.tj/dushanbe/search/%D0%BE%D1%82%D0%B5%D0%BB%D1%8C%20%D0%92%D0%B0%D1%85%D0%B4%D0%B0%D1%82)
+[2026-10-22 00:25:43] Q отель Парвас	+0	U94	TNone	blocked(code=404,len=776001,url=https://2gis.tj/dushanbe/search/%D0%BE%D1%82%D0%B5%D0%BB%D1%8C%20%D0%9F%D0%B0%D1%80%D0%B2%D0%B0%D1%81)
+[2026-10-22 00:25:54] Q отель Носири Хусрав	+0	U94	TNone	blocked(code=404,len=529009,url=https://2gis.tj/dushanbe/search/%D0%BE%D1%82%D0%B5%D0%BB%D1%8C%20%D0%9D%D0%BE%D1%81%D0%B8%D1%80%D0%B8%20%D0%A5%D1%83%D1%81%D1%80%D0%B0%D0%B2)
+[2026-10-22 00:25:56] Q гостиница Исмоили Сомони	+0	U94	T33	
+[2026-10-22 00:25:58] Q гостиница Фирдоуси	+0	U94	T3	
+[2026-10-22 00:26:00] Q гостиница Сино	+0	U94	T24	
+[2026-10-22 00:26:02] Q гостиница Шохмансур	+1	U95	T42	
+[2026-10-22 00:26:14] Q гостиница Центральный	+0	U95	TNone	blocked(code=404,len=780257,url=https://2gis.tj/dushanbe/search/%D0%B3%D0%BE%D1%81%D1%82%D0%B8%D0%BD%D0%B8%D1%86%D0%B0%20%D0%A6%D0%B5%D0%BD%D1%82%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9)
+[2026-10-22 00:26:16] Q гостиница Фирдавси	+0	U95	T14	
+[2026-10-22 00:26:18] Q гостиница Рудаки	+0	U95	T32	
+[2026-10-22 00:26:29] Q гостиница Абу-али Ибн Сино	+0	U95	TNone	blocked(code=404,len=565044,url=https://2gis.tj/dushanbe/search/%D0%B3%D0%BE%D1%81%D1%82%D0%B8%D0%BD%D0%B8%D1%86%D0%B0%20%D0%90%D0%B1%D1%83-%D0%B0%D0%BB%D0%B8%20%D0%98%D0%B1%D0%BD%20%D0%A1%D0%B8%D0%BD%D0%BE)
+[2026-10-22 00:26:31] Q гостиница Гиссарский район	+0	U95	T1	
+[2026-10-22 00:26:43] Q гостиница Вахдат	+0	U95	TNone	blocked(code=404,len=677426,url=https://2gis.tj/dushanbe/search/%D0%B3%D0%BE%D1%81%D1%82%D0%B8%D0%BD%D0%B8%D1%86%D0%B0%20%D0%92%D0%B0%D1%85%D0%B4%D0%B0%D1%82)
+[2026-10-22 00:26:55] Q гостиница Парвас	+0	U95	TNone	blocked(code=404,len=738434,url=https://2gis.tj/dushanbe/search/%D0%B3%D0%BE%D1%81%D1%82%D0%B8%D0%BD%D0%B8%D1%86%D0%B0%20%D0%9F%D0%B0%D1%80%D0%B2%D0%B0%D1%81)
+[2026-10-22 00:27:06] Q гостиница Носири Хусрав	+0	U95	TNone	blocked(code=404,len=529481,url=https://2gis.tj/dushanbe/search/%D0%B3%D0%BE%D1%81%D1%82%D0%B8%D0%BD%D0%B8%D1%86%D0%B0%20%D0%9D%D0%BE%D1%81%D0%B8%D1%80%D0%B8%20%D0%A5%D1%83%D1%81%D1%80%D0%B0%D0%B2)
+[2026-10-22 00:27:08] Q гостевой дом Исмоили Сомони	+0	U95	T2	
+[2026-10-22 00:27:19] Q гостевой дом Фирдоуси	+0	U95	TNone	blocked(code=404,len=553361,url=https://2gis.tj/dushanbe/search/%D0%B3%D0%BE%D1%81%D1%82%D0%B5%D0%B2%D0%BE%D0%B9%20%D0%B4%D0%BE%D0%BC%20%D0%A4%D0%B8%D1%80%D0%B4%D0%BE%D1%83%D1%81%D0%B8)
+[2026-10-22 00:27:21] Q гостевой дом Сино	+0	U95	T1	
+[2026-10-22 00:27:33] Q гостевой дом Шохмансур	+0	U95	TNone	blocked(code=404,len=617652,url=https://2gis.tj/dushanbe/search/%D0%B3%D0%BE%D1%81%D1%82%D0%B5%D0%B2%D0%BE%D0%B9%20%D0%B4%D0%BE%D0%BC%20%D0%A8%D0%BE%D1%85%D0%BC%D0%B0%D0%BD%D1%81%D1%83%D1%80)
+[2026-10-22 00:27:44] Q гостевой дом Центральный	+0	U95	TNone	blocked(code=404,len=548483,url=https://2gis.tj/dushanbe/search/%D0%B3%D0%BE%D1%81%D1%82%D0%B5%D0%B2%D0%BE%D0%B9%20%D0%B4%D0%BE%D0%BC%20%D0%A6%D0%B5%D0%BD%D1%82%D1%80%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9)
+[2026-10-22 00:27:56] Q гостевой дом Фирдавси	+0	U95	TNone	blocked(code=404,len=606347,url=https://2gis.tj/dushanbe/search/%D0%B3%D0%BE%D1%81%D1%82%D0%B5%D0%B2%D0%BE%D0%B9%20%D0%B4%D0%BE%D0%BC%20%D0%A4%D0%B8%D1%80%D0%B4%D0%B0%D0%B2%D1%81%D0%B8)
+[2026-10-22 00:28:07] Q гостевой дом Рудаки	+0	U95	TNone	blocked(code=404,len=603505,url=https://2gis.tj/dushanbe/search/%D0%B3%D0%BE%D1%81%D1%82%D0%B5%D0%B2%D0%BE%D0%B9%20%D0%B4%D0%BE%D0%BC%20%D0%A0%D1%83%D0%B4%D0%B0%D0%BA%D0%B8)
+[2026-10-22 00:28:19] Q гостевой дом Абу-али Ибн Сино	+0	U95	TNone	blocked(code=404,len=575494,url=https://2gis.tj/dushanbe/search/%D0%B3%D0%BE%D1%81%D1%82%D0%B5%D0%B2%D0%BE%D0%B9%20%D0%B4%D0%BE%D0%BC%20%D0%90%D0%B1%D1%83-%D0%B0%D0%BB%D0%B8%20%D0%98%D0%B1%D0%BD%20%D0%A1%D0%B8%D0%BD%D0%BE)
+[2026-10-22 00:28:30] Q гостевой дом Гиссарский район	+0	U95	TNone	blocked(code=404,len=571084,url=https://2gis.tj/dushanbe/search/%D0%B3%D0%BE%D1%81%D1%82%D0%B5%D0%B2%D0%BE%D0%B9%20%D0%B4%D0%BE%D0%BC%20%D0%93%D0%B8%D1%81%D1%81%D0%B0%D1%80%D1%81%D0%BA%D0%B8%D0%B9%20%D1%80%D0%B0%D0%B9%D0%BE%D0%BD)
+[2026-10-22 00:28:42] Q гостевой дом Вахдат	+0	U95	TNone	blocked(code=404,len=583665,url=https://2gis.tj/dushanbe/search/%D0%B3%D0%BE%D1%81%D1%82%D0%B5%D0%B2%D0%BE%D0%B9%20%D0%B4%D0%BE%D0%BC%20%D0%92%D0%B0%D1%85%D0%B4%D0%B0%D1%82)
+[2026-10-22 00:28:53] Q гостевой дом Парвас	+0	U95	TNone	blocked(code=404,len=548229,url=https://2gis.tj/dushanbe/search/%D0%B3%D0%BE%D1%81%D1%82%D0%B5%D0%B2%D0%BE%D0%B9%20%D0%B4%D0%BE%D0%BC%20%D0%9F%D0%B0%D1%80%D0%B2%D0%B0%D1%81)
+[2026-10-22 00:29:04] Q гостевой дом Носири Хусрав	+0	U95	TNone	blocked(code=404,len=573537,url=https://2gis.tj/dushanbe/search/%D0%B3%D0%BE%D1%81%D1%82%D0%B5%D0%B2%D0%BE%D0%B9%20%D0%B4%D0%BE%D0%BC%20%D0%9D%D0%BE%D1%81%D0%B8%D1%80%D0%B8%20%D0%A5%D1%83%D1%81%D1%80%D0%B0%D0%B2)
+[2026-10-22 00:29:06] Q отель Садриддин Айнӣ	+4	U99	T21	
+[2026-10-22 00:29:09] Q отель Рӯдакӣ	+0	U99	T27	
+[2026-10-22 00:29:11] Q отель Нусратулло Махсум	+2	U101	T3	
+[2026-10-22 00:29:13] Q отель Неъмат Қарабоев	+1	U102	T4	
+[2026-10-22 00:29:24] Q отель Крупской	+0	U102	TNone	blocked(code=404,len=809496,url=https://2gis.tj/dushanbe/search/%D0%BE%D1%82%D0%B5%D0%BB%D1%8C%20%D0%9A%D1%80%D1%83%D0%BF%D1%81%D0%BA%D0%BE%D0%B9)
+[2026-10-22 00:29:36] Q отель Борбад	+0	U102	TNone	blocked(code=404,len=812026,url=https://2gis.tj/dushanbe/search/%D0%BE%D1%82%D0%B5%D0%BB%D1%8C%20%D0%91%D0%BE%D1%80%D0%B1%D0%B0%D0%B4)
+[2026-10-22 00:29:38] Q отель Фирдавсӣ	+0	U102	T14	
+[2026-10-22 00:29:40] Q отель Алишер Навоӣ	+2	U104	T4	
+[2026-10-22 00:29:42] Q отель Испечак	+1	U105	T5	
+[2026-10-22 00:29:54] Q отель Деҳотӣ	+0	U105	TNone	blocked(code=404,len=752140,url=https://2gis.tj/dushanbe/search/%D0%BE%D1%82%D0%B5%D0%BB%D1%8C%20%D0%94%D0%B5%D2%B3%D0%BE%D1%82%D3%A3)
+[2026-10-22 00:29:56] Q отель Мирзо Турсунзада	+4	U109	T9	
+[2026-10-22 00:29:58] Q отель Бобоҷон Ғафуров	+1	U110	T2	
+[2026-10-22 00:30:00] Q отель Зарафшон	+0	U110	T1	
+[2026-10-22 00:30:02] Q отель Саъдӣ Шерозӣ	+1	U111	T8	
+[2026-10-22 00:30:14] Q отель Меҳнат	+0	U111	TNone	blocked(code=404,len=750935,url=https://2gis.tj/dushanbe/search/%D0%BE%D1%82%D0%B5%D0%BB%D1%8C%20%D0%9C%D0%B5%D2%B3%D0%BD%D0%B0%D1%82)
+[2026-10-22 00:30:16] Q отель Исмоили Сомонӣ	+0	U111	T35	
+[2026-10-22 00:30:28] Q отель Шамси	+0	U111	TNone	blocked(code=404,len=810270,url=https://2gis.tj/dushanbe/search/%D0%BE%D1%82%D0%B5%D0%BB%D1%8C%20%D0%A8%D0%B0%D0%BC%D1%81%D0%B8)
+[2026-10-22 00:30:39] Q отель Маяковский	+0	U111	TNone	blocked(code=404,len=739716,url=https://2gis.tj/dushanbe/search/%D0%BE%D1%82%D0%B5%D0%BB%D1%8C%20%D0%9C%D0%B0%D1%8F%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9)
+[2026-10-22 00:30:41] Q отель Дӯстии халқҳо	+3	U114	T4	
+[2026-10-22 00:30:43] Q отель Зафар	+0	U114	T1	
+[2026-10-22 00:30:55] Q отель Абӯалӣ ибни Сино	+0	U114	TNone	blocked(code=404,len=628207,url=https://2gis.tj/dushanbe/search/%D0%BE%D1%82%D0%B5%D0%BB%D1%8C%20%D0%90%D0%B1%D3%AF%D0%B0%D0%BB%D3%A3%20%D0%B8%D0%B1%D0%BD%D0%B8%20%D0%A1%D0%B8%D0%BD%D0%BE)
+[2026-10-22 00:30:57] Q отель Ҳофизи Шерозӣ	+0	U114	T6	
+[2026-10-22 00:30:59] Q отель Бухоро	+2	U116	T9	
+[2026-10-22 00:31:11] Q отель Моёншо Назаршоев	+0	U116	TNone	blocked(code=404,len=813542,url=https://2gis.tj/dushanbe/search/%D0%BE%D1%82%D0%B5%D0%BB%D1%8C%20%D0%9C%D0%BE%D1%91%D0%BD%D1%88%D0%BE%20%D0%9D%D0%B0%D0%B7%D0%B0%D1%80%D1%88%D0%BE%D0%B5%D0%B2)
+[2026-10-22 00:31:12] Q отель Ҷаббор Расулов	+2	U118	T3	
+[2026-10-22 00:31:14] Q отель Пӯлодӣ	+1	U119	T2	
+[2026-10-22 00:31:26] Q отель Навбаҳор-2	+0	U119	TNone	blocked(code=404,len=540723,url=https://2gis.tj/dushanbe/search/%D0%BE%D1%82%D0%B5%D0%BB%D1%8C%20%D0%9D%D0%B0%D0%B2%D0%B1%D0%B0%D2%B3%D0%BE%D1%80-2)
+[2026-10-22 00:31:28] Q отель Якка-Чинор	+0	U119	T1	
+[2026-10-22 00:31:39] Q отель Бобо Ҳамдамов	+0	U119	TNone	blocked(code=404,len=529185,url=https://2gis.tj/dushanbe/search/%D0%BE%D1%82%D0%B5%D0%BB%D1%8C%20%D0%91%D0%BE%D0%B1%D0%BE%20%D2%B2%D0%B0%D0%BC%D0%B4%D0%B0%D0%BC%D0%BE%D0%B2)
+[2026-10-22 00:31:42] Q отель Ҷомӣ	+2	U121	T5	
+[2026-10-22 00:31:53] Q отель Куштеппа-2	+0	U121	TNone	blocked(code=404,len=534798,url=https://2gis.tj/dushanbe/search/%D0%BE%D1%82%D0%B5%D0%BB%D1%8C%20%D0%9A%D1%83%D1%88%D1%82%D0%B5%D0%BF%D0%BF%D0%B0-2)
+[2026-10-22 00:31:55] Q отель Абдулаҳад Қаҳҳоров	+0	U121	T8	
+[2026-10-22 00:31:57] Q отель Дилкушо	+0	U121	T1	
+[2026-10-22 00:32:08] Q отель Нурулло Хувайдуллоев	+0	U121	TNone	blocked(code=404,len=530446,url=https://2gis.tj/dushanbe/search/%D0%BE%D1%82%D0%B5%D0%BB%D1%8C%20%D0%9D%D1%83%D1%80%D1%83%D0%BB%D0%BB%D0%BE%20%D0%A5%D1%83%D0%B2%D0%B0%D0%B9%D0%B4%D1%83%D0%BB%D0%BB%D0%BE%D0%B5%D0%B2)
+[2026-10-22 00:32:10] Q отель Аҳмади Дониш	+1	U122	T3	
+[2026-10-22 00:32:12] Q отель Қурбон Раҳимов	+0	U122	T2	
+[2026-10-22 00:32:14] Q отель Шевченко	+0	U122	T4	
+[2026-10-22 00:32:16] Q отель Карамова	+2	U124	T2	
+[2026-10-22 00:32:28] Q отель Деҳи Боло	+0	U124	TNone	blocked(code=404,len=630247,url=https://2gis.tj/dushanbe/search/%D0%BE%D1%82%D0%B5%D0%BB%D1%8C%20%D0%94%D0%B5%D2%B3%D0%B8%20%D0%91%D0%BE%D0%BB%D0%BE)
+[2026-10-22 00:32:39] Q отель Мушфиқӣ	+0	U124	TNone	blocked(code=404,len=751872,url=https://2gis.tj/dushanbe/search/%D0%BE%D1%82%D0%B5%D0%BB%D1%8C%20%D0%9C%D1%83%D1%88%D1%84%D0%B8%D2%9B%D3%A3)
+[2026-10-22 00:32:41] Q отель Ҳамадонӣ	+4	U128	T66	
+[2026-10-22 00:32:53] Q отель Навбахор	+0	U128	TNone	blocked(code=404,len=810535,url=https://2gis.tj/dushanbe/search/%D0%BE%D1%82%D0%B5%D0%BB%D1%8C%20%D0%9D%D0%B0%D0%B2%D0%B1%D0%B0%D1%85%D0%BE%D1%80)
+[2026-10-22 00:32:55] Q отель Раҳмон Набиев	+1	U129	T4	
+[2026-10-22 00:33:06] Q отель 2-юми Арбобхотун	+0	U129	TNone	blocked(code=404,len=527119,url=https://2gis.tj/dushanbe/search/%D0%BE%D1%82%D0%B5%D0%BB%D1%8C%202-%D1%8E%D0%BC%D0%B8%20%D0%90%D1%80%D0%B1%D0%BE%D0%B1%D1%85%D0%BE%D1%82%D1%83%D0%BD)
+[2026-10-22 00:33:17] Q отель Даври Ҷанубӣ	+0	U129	TNone	blocked(code=404,len=526885,url=https://2gis.tj/dushanbe/search/%D0%BE%D1%82%D0%B5%D0%BB%D1%8C%20%D0%94%D0%B0%D0%B2%D1%80%D0%B8%20%D2%B6%D0%B0%D0%BD%D1%83%D0%B1%D3%A3)
+[2026-10-22 00:33:19] Q отель Ҳамза Ҳакимзода	+0	U129	T2	
+[2026-10-22 00:33:21] Q отель Абулқосим Лоҳутӣ	+1	U130	T3	
+[2026-10-22 00:33:23] Q отель Шарифҷон Ҳусейнзода	+0	U130	T6	
+[2026-10-22 00:33:25] Q отель Қазоқон	+3	U133	T26	
+[2026-10-22 00:33:27] Q отель Фотеҳ Ниёзӣ	+0	U133	T2	
+[2026-10-22 00:33:39] Q отель Деҳнаваки боло	+0	U133	TNone	blocked(code=404,len=746962,url=https://2gis.tj/dushanbe/search/%D0%BE%D1%82%D0%B5%D0%BB%D1%8C%20%D0%94%D0%B5%D2%B3%D0%BD%D0%B0%D0%B2%D0%B0%D0%BA%D0%B8%20%D0%B1%D0%BE%D0%BB%D0%BE)
+[2026-10-22 00:33:50] Q отель Асадулло Ғуломов	+0	U133	TNone	blocked(code=404,len=556286,url=https://2gis.tj/dushanbe/search/%D0%BE%D1%82%D0%B5%D0%BB%D1%8C%20%D0%90%D1%81%D0%B0%D0%B4%D1%83%D0%BB%D0%BB%D0%BE%20%D2%92%D1%83%D0%BB%D0%BE%D0%BC%D0%BE%D0%B2)
+[2026-10-22 00:33:52] Q отель Соҳилӣ	+2	U135	T7	
+[2026-10-22 00:34:04] Q отель Обчакорон-1	+0	U135	TNone	blocked(code=404,len=844282,url=https://2gis.tj/dushanbe/search/%D0%BE%D1%82%D0%B5%D0%BB%D1%8C%20%D0%9E%D0%B1%D1%87%D0%B0%D0%BA%D0%BE%D1%80%D0%BE%D0%BD-1)
+[2026-10-22 00:34:06] Q отель Умари Хайём	+1	U136	T3	
+[2026-10-22 00:34:18] Q отель Муродулло Шерализода	+0	U136	TNone	blocked(code=404,len=528214,url=https://2gis.tj/dushanbe/search/%D0%BE%D1%82%D0%B5%D0%BB%D1%8C%20%D0%9C%D1%83%D1%80%D0%BE%D0%B4%D1%83%D0%BB%D0%BB%D0%BE%20%D0%A8%D0%B5%D1%80%D0%B0%D0%BB%D0%B8%D0%B7%D0%BE%D0%B4%D0%B0)
+[2026-10-22 00:34:20] Q отель Чорякорон	+1	U137	T77	
+[2026-10-22 00:34:22] Q отель Гипрозем	+1	U138	T3	
+[2026-10-22 00:34:33] Q отель Арбобхотун	+0	U138	TNone	blocked(code=404,len=811127,url=https://2gis.tj/dushanbe/search/%D0%BE%D1%82%D0%B5%D0%BB%D1%8C%20%D0%90%D1%80%D0%B1%D0%BE%D0%B1%D1%85%D0%BE%D1%82%D1%83%D0%BD)
+[2026-10-22 00:34:45] Q отель Гулбутта-1	+0	U138	TNone	blocked(code=404,len=550314,url=https://2gis.tj/dushanbe/search/%D0%BE%D1%82%D0%B5%D0%BB%D1%8C%20%D0%93%D1%83%D0%BB%D0%B1%D1%83%D1%82%D1%82%D0%B0-1)
+[2026-10-22 00:34:56] Q отель 50-солагии Тоҷикистон	+0	U138	TNone	blocked(code=404,len=533458,url=https://2gis.tj/dushanbe/search/%D0%BE%D1%82%D0%B5%D0%BB%D1%8C%2050-%D1%81%D0%BE%D0%BB%D0%B0%D0%B3%D0%B8%D0%B8%20%D0%A2%D0%BE%D2%B7%D0%B8%D0%BA%D0%B8%D1%81%D1%82%D0%BE%D0%BD)
+[2026-10-22 00:34:58] Q отель Миралӣ Маҳмадалӣ	+1	U139	T2	
+[2026-10-22 00:35:10] Q отель Беҳзод	+0	U139	TNone	blocked(code=404,len=751144,url=https://2gis.tj/dushanbe/search/%D0%BE%D1%82%D0%B5%D0%BB%D1%8C%20%D0%91%D0%B5%D2%B3%D0%B7%D0%BE%D0%B4)
+[2026-10-22 00:35:21] Q отель Каҳрамон	+0	U139	TNone	blocked(code=404,len=775972,url=https://2gis.tj/dushanbe/search/%D0%BE%D1%82%D0%B5%D0%BB%D1%8C%20%D0%9A%D0%B0%D2%B3%D1%80%D0%B0%D0%BC%D0%BE%D0%BD)
+[2026-10-22 00:35:33] Q отель Насафӣ	+0	U139	TNone	blocked(code=404,len=750709,url=https://2gis.tj/dushanbe/search/%D0%BE%D1%82%D0%B5%D0%BB%D1%8C%20%D0%9D%D0%B0%D1%81%D0%B0%D1%84%D3%A3)
+[2026-10-22 00:35:44] Q отель Фазлиддин Шаҳобов	+0	U139	TNone	blocked(code=404,len=529153,url=https://2gis.tj/dushanbe/search/%D0%BE%D1%82%D0%B5%D0%BB%D1%8C%20%D0%A4%D0%B0%D0%B7%D0%BB%D0%B8%D0%B4%D0%B4%D0%B8%D0%BD%20%D0%A8%D0%B0%D2%B3%D0%BE%D0%B1%D0%BE%D0%B2)
+[2026-10-22 00:35:56] Q отель Шириншох Шотемур	+0	U139	TNone	blocked(code=404,len=767022,url=https://2gis.tj/dushanbe/search/%D0%BE%D1%82%D0%B5%D0%BB%D1%8C%20%D0%A8%D0%B8%D1%80%D0%B8%D0%BD%D1%88%D0%BE%D1%85%20%D0%A8%D0%BE%D1%82%D0%B5%D0%BC%D1%83%D1%80)
+[2026-10-22 00:36:07] Q отель Фазлиддин Муҳаммадиев	+0	U139	TNone	blocked(code=404,len=528499,url=https://2gis.tj/dushanbe/search/%D0%BE%D1%82%D0%B5%D0%BB%D1%8C%20%D0%A4%D0%B0%D0%B7%D0%BB%D0%B8%D0%B4%D0%B4%D0%B8%D0%BD%20%D0%9C%D1%83%D2%B3%D0%B0%D0%BC%D0%BC%D0%B0%D0%B4%D0%B8%D0%B5%D0%B2)
+[2026-10-22 00:36:19] Q отель Обчакорон	+0	U139	TNone	blocked(code=404,len=776119,url=https://2gis.tj/dushanbe/search/%D0%BE%D1%82%D0%B5%D0%BB%D1%8C%20%D0%9E%D0%B1%D1%87%D0%B0%D0%BA%D0%BE%D1%80%D0%BE%D0%BD)
+[2026-10-22 00:36:30] Q отель Хуҷамбиёи Поён	+0	U139	TNone	blocked(code=404,len=607344,url=https://2gis.tj/dushanbe/search/%D0%BE%D1%82%D0%B5%D0%BB%D1%8C%20%D0%A5%D1%83%D2%B7%D0%B0%D0%BC%D0%B1%D0%B8%D1%91%D0%B8%20%D0%9F%D0%BE%D1%91%D0%BD)
+[2026-10-22 00:36:42] Q отель Гулпарвар-2	+0	U139	TNone	blocked(code=404,len=531068,url=https://2gis.tj/dushanbe/search/%D0%BE%D1%82%D0%B5%D0%BB%D1%8C%20%D0%93%D1%83%D0%BB%D0%BF%D0%B0%D1%80%D0%B2%D0%B0%D1%80-2)
+[2026-10-22 00:36:54] Q отель Ҷавлибой	+0	U139	TNone	blocked(code=404,len=751222,url=https://2gis.tj/dushanbe/search/%D0%BE%D1%82%D0%B5%D0%BB%D1%8C%20%D2%B6%D0%B0%D0%B2%D0%BB%D0%B8%D0%B1%D0%BE%D0%B9)
+[2026-10-22 00:37:05] Q отель 3-юми Арбобхотун	+0	U139	TNone	blocked(code=404,len=528767,url=https://2gis.tj/dushanbe/search/%D0%BE%D1%82%D0%B5%D0%BB%D1%8C%203-%D1%8E%D0%BC%D0%B8%20%D0%90%D1%80%D0%B1%D0%BE%D0%B1%D1%85%D0%BE%D1%82%D1%83%D0%BD)
+[2026-10-22 00:37:16] Q отель 40 солагии Ғалаба	+0	U139	TNone	blocked(code=404,len=527005,url=https://2gis.tj/dushanbe/search/%D0%BE%D1%82%D0%B5%D0%BB%D1%8C%2040%20%D1%81%D0%BE%D0%BB%D0%B0%D0%B3%D0%B8%D0%B8%20%D2%92%D0%B0%D0%BB%D0%B0%D0%B1%D0%B0)
+[2026-10-22 00:37:28] Q отель Маҳмадшои Боло	+0	U139	TNone	blocked(code=404,len=530260,url=https://2gis.tj/dushanbe/search/%D0%BE%D1%82%D0%B5%D0%BB%D1%8C%20%D0%9C%D0%B0%D2%B3%D0%BC%D0%B0%D0%B4%D1%88%D0%BE%D0%B8%20%D0%91%D0%BE%D0%BB%D0%BE)
+[2026-10-22 00:37:40] Q отель Шайнак	+0	U139	TNone	blocked(code=404,len=773800,url=https://2gis.tj/dushanbe/search/%D0%BE%D1%82%D0%B5%D0%BB%D1%8C%20%D0%A8%D0%B0%D0%B9%D0%BD%D0%B0%D0%BA)
+[2026-10-22 00:37:51] Q отель Асирӣ	+0	U139	TNone	blocked(code=404,len=750779,url=https://2gis.tj/dushanbe/search/%D0%BE%D1%82%D0%B5%D0%BB%D1%8C%20%D0%90%D1%81%D0%B8%D1%80%D3%A3)
+[2026-10-22 00:37:54] Q отель Хусрави Деҳлавӣ	+1	U140	T4	
+[2026-10-22 00:38:05] Q отель Мамадали Қурбонов	+0	U140	TNone	blocked(code=404,len=527229,url=https://2gis.tj/dushanbe/search/%D0%BE%D1%82%D0%B5%D0%BB%D1%8C%20%D0%9C%D0%B0%D0%BC%D0%B0%D0%B4%D0%B0%D0%BB%D0%B8%20%D2%9A%D1%83%D1%80%D0%B1%D0%BE%D0%BD%D0%BE%D0%B2)
+[2026-10-22 00:38:07] Q отель Машъал	+1	U141	T1	
+[2026-10-22 00:38:19] Q отель Абдуллобеков	+0	U141	TNone	blocked(code=404,len=752409,url=https://2gis.tj/dushanbe/search/%D0%BE%D1%82%D0%B5%D0%BB%D1%8C%20%D0%90%D0%B1%D0%B4%D1%83%D0%BB%D0%BB%D0%BE%D0%B1%D0%B5%D0%BA%D0%BE%D0%B2)
+[2026-10-22 00:38:21] Q отель Ҳабибулло Назаров	+0	U141	T1	
+[2026-10-22 00:38:32] Q отель Навободи Боло	+0	U141	TNone	blocked(code=404,len=849804,url=https://2gis.tj/dushanbe/search/%D0%BE%D1%82%D0%B5%D0%BB%D1%8C%20%D0%9D%D0%B0%D0%B2%D0%BE%D0%B1%D0%BE%D0%B4%D0%B8%20%D0%91%D0%BE%D0%BB%D0%BE)
+[2026-10-22 00:38:44] Q отель Малика Собирова	+0	U141	TNone	blocked(code=404,len=580230,url=https://2gis.tj/dushanbe/search/%D0%BE%D1%82%D0%B5%D0%BB%D1%8C%20%D0%9C%D0%B0%D0%BB%D0%B8%D0%BA%D0%B0%20%D0%A1%D0%BE%D0%B1%D0%B8%D1%80%D0%BE%D0%B2%D0%B0)
+[2026-10-22 00:38:46] Q отель Мирзо Мастонгулов	+1	U142	T2	
+[2026-10-22 00:38:58] Q отель Шараф	+0	U142	TNone	blocked(code=404,len=810011,url=https://2gis.tj/dushanbe/search/%D0%BE%D1%82%D0%B5%D0%BB%D1%8C%20%D0%A8%D0%B0%D1%80%D0%B0%D1%84)
+[2026-10-22 00:39:09] Q отель Истаравшан	+0	U142	TNone	blocked(code=404,len=756214,url=https://2gis.tj/dushanbe/search/%D0%BE%D1%82%D0%B5%D0%BB%D1%8C%20%D0%98%D1%81%D1%82%D0%B0%D1%80%D0%B0%D0%B2%D1%88%D0%B0%D0%BD)
+[2026-10-22 00:39:20] Q отель Фурузон	+0	U142	TNone	blocked(code=404,len=736740,url=https://2gis.tj/dushanbe/search/%D0%BE%D1%82%D0%B5%D0%BB%D1%8C%20%D0%A4%D1%83%D1%80%D1%83%D0%B7%D0%BE%D0%BD)
+[2026-10-22 00:39:32] Q отель Хоразмӣ	+0	U142	TNone	blocked(code=404,len=750897,url=https://2gis.tj/dushanbe/search/%D0%BE%D1%82%D0%B5%D0%BB%D1%8C%20%D0%A5%D0%BE%D1%80%D0%B0%D0%B7%D0%BC%D3%A3)
+[2026-10-22 00:39:34] Q отель Шарк	+0	U142	T1	
+[2026-10-22 00:39:46] Q отель Гулбутта-2	+0	U142	TNone	blocked(code=404,len=616979,url=https://2gis.tj/dushanbe/search/%D0%BE%D1%82%D0%B5%D0%BB%D1%8C%20%D0%93%D1%83%D0%BB%D0%B1%D1%83%D1%82%D1%82%D0%B0-2)
+[2026-10-22 00:39:48] Q отель Сомон	+1	U143	T1	
+[2026-10-22 00:39:50] Q отель Рустам Амакӣ	+1	U144	T2	
+[2026-10-22 00:40:01] Q отель Пӯлод Толис	+0	U144	TNone	blocked(code=404,len=532105,url=https://2gis.tj/dushanbe/search/%D0%BE%D1%82%D0%B5%D0%BB%D1%8C%20%D0%9F%D3%AF%D0%BB%D0%BE%D0%B4%20%D0%A2%D0%BE%D0%BB%D0%B8%D1%81)
+[2026-10-22 00:40:03] Q отель Акобир Адҳамов	+2	U146	T2	
+[2026-10-22 00:40:15] Q отель Зебуниссо	+0	U146	TNone	blocked(code=404,len=753856,url=https://2gis.tj/dushanbe/search/%D0%BE%D1%82%D0%B5%D0%BB%D1%8C%20%D0%97%D0%B5%D0%B1%D1%83%D0%BD%D0%B8%D1%81%D1%81%D0%BE)
+[2026-10-22 00:40:26] Q отель Павел Ханҷин	+0	U146	TNone	blocked(code=404,len=526850,url=https://2gis.tj/dushanbe/search/%D0%BE%D1%82%D0%B5%D0%BB%D1%8C%20%D0%9F%D0%B0%D0%B2%D0%B5%D0%BB%20%D0%A5%D0%B0%D0%BD%D2%B7%D0%B8%D0%BD)
+[2026-10-22 00:40:38] Q отель Гагарин	+0	U146	TNone	blocked(code=404,len=758340,url=https://2gis.tj/dushanbe/search/%D0%BE%D1%82%D0%B5%D0%BB%D1%8C%20%D0%93%D0%B0%D0%B3%D0%B0%D1%80%D0%B8%D0%BD)
+[2026-10-22 00:40:40] Q отель Саид Носир	+0	U146	T2	
+[2026-10-22 00:40:52] Q отель Чортути Поён	+0	U146	TNone	blocked(code=404,len=844668,url=https://2gis.tj/dushanbe/search/%D0%BE%D1%82%D0%B5%D0%BB%D1%8C%20%D0%A7%D0%BE%D1%80%D1%82%D1%83%D1%82%D0%B8%20%D0%9F%D0%BE%D1%91%D0%BD)
+[2026-10-22 00:41:03] Q отель Қаротегин	+0	U146	TNone	blocked(code=404,len=751752,url=https://2gis.tj/dushanbe/search/%D0%BE%D1%82%D0%B5%D0%BB%D1%8C%20%D2%9A%D0%B0%D1%80%D0%BE%D1%82%D0%B5%D0%B3%D0%B8%D0%BD)
+[2026-10-22 00:41:15] Q отель Кушониён	+0	U146	TNone	blocked(code=404,len=775802,url=https://2gis.tj/dushanbe/search/%D0%BE%D1%82%D0%B5%D0%BB%D1%8C%20%D0%9A%D1%83%D1%88%D0%BE%D0%BD%D0%B8%D1%91%D0%BD)
+[2026-10-22 00:41:27] Q отель Сарикишти Поён	+0	U146	TNone	blocked(code=404,len=672222,url=https://2gis.tj/dushanbe/search/%D0%BE%D1%82%D0%B5%D0%BB%D1%8C%20%D0%A1%D0%B0%D1%80%D0%B8%D0%BA%D0%B8%D1%88%D1%82%D0%B8%20%D0%9F%D0%BE%D1%91%D0%BD)
+[2026-10-22 00:41:38] Q отель Дарёобод	+0	U146	TNone	blocked(code=404,len=751250,url=https://2gis.tj/dushanbe/search/%D0%BE%D1%82%D0%B5%D0%BB%D1%8C%20%D0%94%D0%B0%D1%80%D1%91%D0%BE%D0%B1%D0%BE%D0%B4)
+[2026-10-22 00:41:50] Q отель Ҷӯибодом-3	+0	U146	TNone	blocked(code=404,len=638613,url=https://2gis.tj/dushanbe/search/%D0%BE%D1%82%D0%B5%D0%BB%D1%8C%20%D2%B6%D3%AF%D0%B8%D0%B1%D0%BE%D0%B4%D0%BE%D0%BC-3)
+[2026-10-22 00:42:01] Q отель Ҷӯибодом-1	+0	U146	TNone	blocked(code=404,len=639071,url=https://2gis.tj/dushanbe/search/%D0%BE%D1%82%D0%B5%D0%BB%D1%8C%20%D2%B6%D3%AF%D0%B8%D0%B1%D0%BE%D0%B4%D0%BE%D0%BC-1)
+[2026-10-22 00:42:13] Q отель Абая	+0	U146	TNone	blocked(code=404,len=810225,url=https://2gis.tj/dushanbe/search/%D0%BE%D1%82%D0%B5%D0%BB%D1%8C%20%D0%90%D0%B1%D0%B0%D1%8F)
+[2026-10-22 00:42:24] Q отель Деҳқонобод-2	+0	U146	TNone	blocked(code=404,len=531141,url=https://2gis.tj/dushanbe/search/%D0%BE%D1%82%D0%B5%D0%BB%D1%8C%20%D0%94%D0%B5%D2%B3%D2%9B%D0%BE%D0%BD%D0%BE%D0%B1%D0%BE%D0%B4-2)
+[2026-10-22 00:42:36] Q отель Нодира	+0	U146	TNone	blocked(code=404,len=752211,url=https://2gis.tj/dushanbe/search/%D0%BE%D1%82%D0%B5%D0%BB%D1%8C%20%D0%9D%D0%BE%D0%B4%D0%B8%D1%80%D0%B0)
+[2026-10-22 00:42:48] Q отель Сабзикор	+0	U146	TNone	blocked(code=404,len=775785,url=https://2gis.tj/dushanbe/search/%D0%BE%D1%82%D0%B5%D0%BB%D1%8C%20%D0%A1%D0%B0%D0%B1%D0%B7%D0%B8%D0%BA%D0%BE%D1%80)
+[2026-10-22 00:42:59] Q отель Амиршоев	+0	U146	TNone	blocked(code=404,len=752176,url=https://2gis.tj/dushanbe/search/%D0%BE%D1%82%D0%B5%D0%BB%D1%8C%20%D0%90%D0%BC%D0%B8%D1%80%D1%88%D0%BE%D0%B5%D0%B2)
+[2026-10-22 00:43:11] Q отель Абдуқодирхоҷаи Савдо	+0	U146	TNone	blocked(code=404,len=640819,url=https://2gis.tj/dushanbe/search/%D0%BE%D1%82%D0%B5%D0%BB%D1%8C%20%D0%90%D0%B1%D0%B4%D1%83%D2%9B%D0%BE%D0%B4%D0%B8%D1%80%D1%85%D0%BE%D2%B7%D0%B0%D0%B8%20%D0%A1%D0%B0%D0%B2%D0%B4%D0%BE)
+[2026-10-22 00:43:22] Q отель Қуштеппа-1	+0	U146	TNone	blocked(code=404,len=526329,url=https://2gis.tj/dushanbe/search/%D0%BE%D1%82%D0%B5%D0%BB%D1%8C%20%D2%9A%D1%83%D1%88%D1%82%D0%B5%D0%BF%D0%BF%D0%B0-1)
+[2026-10-22 00:43:34] Q отель Пушкин	+0	U146	TNone	blocked(code=404,len=751277,url=https://2gis.tj/dushanbe/search/%D0%BE%D1%82%D0%B5%D0%BB%D1%8C%20%D0%9F%D1%83%D1%88%D0%BA%D0%B8%D0%BD)
+[2026-10-22 00:43:45] Q отель Лоиқ Шералӣ	+0	U146	TNone	blocked(code=404,len=528327,url=https://2gis.tj/dushanbe/search/%D0%BE%D1%82%D0%B5%D0%BB%D1%8C%20%D0%9B%D0%BE%D0%B8%D2%9B%20%D0%A8%D0%B5%D1%80%D0%B0%D0%BB%D3%A3)
+[2026-10-22 00:43:56] Q отель Сомон-1	+0	U146	TNone	blocked(code=404,len=525926,url=https://2gis.tj/dushanbe/search/%D0%BE%D1%82%D0%B5%D0%BB%D1%8C%20%D0%A1%D0%BE%D0%BC%D0%BE%D0%BD-1)
+[2026-10-22 00:44:08] Q отель Зардушт	+0	U146	TNone	blocked(code=404,len=775824,url=https://2gis.tj/dushanbe/search/%D0%BE%D1%82%D0%B5%D0%BB%D1%8C%20%D0%97%D0%B0%D1%80%D0%B4%D1%83%D1%88%D1%82)
+[2026-10-22 00:44:20] Q отель Конститутсия	+0	U146	TNone	blocked(code=404,len=776572,url=https://2gis.tj/dushanbe/search/%D0%BE%D1%82%D0%B5%D0%BB%D1%8C%20%D0%9A%D0%BE%D0%BD%D1%81%D1%82%D0%B8%D1%82%D1%83%D1%82%D1%81%D0%B8%D1%8F)
+[2026-10-22 00:44:31] Q отель Ҳабиб Аҳрорӣ	+0	U146	TNone	blocked(code=404,len=528707,url=https://2gis.tj/dushanbe/search/%D0%BE%D1%82%D0%B5%D0%BB%D1%8C%20%D2%B2%D0%B0%D0%B1%D0%B8%D0%B1%20%D0%90%D2%B3%D1%80%D0%BE%D1%80%D3%A3)
