@@ -1,4 +1,4 @@
-# -*- coding: utf-8 -*-
+﻿# -*- coding: utf-8 -*-
 """Из banks_2gis/{rows,card}.jsonl → banks_block.md (Душанбе).
 
 usage: python make_md.py
@@ -103,8 +103,11 @@ def fmt_row(r, card):
     if url:
         parts.append(u"· [2ГИС](%s)" % url)
     if card:
+        site = card.get("website")
         wa = card.get("whatsapp_url")
         tg = card.get("telegram_url")
+        if site:
+            parts.append(u"· [Сайт](%s)" % site)
         if wa:
             parts.append(u"· [WhatsApp](%s)" % rewrite_wa(wa))
         if tg:
@@ -204,13 +207,15 @@ def main():
     lines.extend(render_hotlines())
     wa_only = sum(1 for r in banks if cards.get(str(r["id"]), {}).get("whatsapp_url"))
     tg_only = sum(1 for r in banks if cards.get(str(r["id"]), {}).get("telegram_url"))
+    site_only = sum(1 for r in banks if cards.get(str(r["id"]), {}).get("website"))
     lines.append(
         u"_Источник: 2ГИС, рубрика «Банки». Снято %d отделений; у %d указан "
-        u"WhatsApp, у %d — Telegram. Все WhatsApp-ссылки содержат готовый текст: "
-        u"«%s». 2ГИС в Таджикистане индексирует только Душанбе, банки Худжанда "
-        u"— ниже отдельным блоком по данным OpenStreetMap (там WhatsApp/Telegram "
-        u"не проставлены, только координаты и название)._"
-        % (len(banks), wa_only, tg_only, WA_MESSAGE))
+        u"WhatsApp, у %d — Telegram, у %d — официальный сайт. Все WhatsApp-ссылки "
+        u"содержат готовый текст: «%s». 2ГИС в Таджикистане индексирует только "
+        u"Душанбе, банки Худжанда — ниже отдельным блоком по данным "
+        u"OpenStreetMap (там WhatsApp/Telegram не проставлены, только координаты "
+        u"и название)._"
+        % (len(banks), wa_only, tg_only, site_only, WA_MESSAGE))
     lines.append(u"")
 
     total_written = 0
