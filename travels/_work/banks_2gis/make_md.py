@@ -182,15 +182,16 @@ def render_hotlines():
         return []
     lines = []
     n_v = sum(1 for r in rows if r.get("verified_whatsapp"))
+    n_wa = sum(1 for r in rows if r.get("wa_url"))
     lines.append(u"#### Горячие линии — сводка по сетям")
     lines.append(u"")
     lines.append(
-        u"_Ниже — официальные номера WhatsApp/Telegram/телефонов каждой "
-        u"банковской сети (головной офис отвечает и по отделениям Худжанда). "
-        u"Из %d сетей %d публикуют WhatsApp явно (отметка ✅), остальные %d — "
-        u"только телефон (в WA-ссылке подставлен основной номер, статус "
-        u"«проверьте» — ⚠️). Все WhatsApp-ссылки содержат готовый текст: "
-        u"«%s»._"
+        u"_Ниже — официальные номера Telegram/телефонов каждой банковской "
+        u"сети (головной офис отвечает и по отделениям Худжанда). "
+        u"Из %d сетей %d реально публикуют WhatsApp (отметка ✅, проверено "
+        u"через web.whatsapp.com 2026-10-21 и официальные сайты/FB). "
+        u"У остальных %d WhatsApp-номера нет — только телефон горячей линии. "
+        u"Все WhatsApp-ссылки содержат готовый текст: «%s»._"
         % (len(rows), n_v, len(rows) - n_v, WA_MESSAGE))
     lines.append(u"")
     lines.append(u"| Банк | WhatsApp | Telegram | Телефон | Источник | Статус |")
@@ -213,8 +214,7 @@ def render_hotlines():
             src = u"[сайт](%s)" % site
         else:
             src = u"—"
-        st = u"✅" if r.get("verified_whatsapp") else (
-            u"⚠️" if wa else u"нет WA")
+        st = u"✅" if r.get("verified_whatsapp") else u"нет WA"
         lines.append(u"| %s | %s | %s | %s | %s | %s |" % (
             nm, wa_md, tg_md, tel, src, st))
     lines.append(u"")

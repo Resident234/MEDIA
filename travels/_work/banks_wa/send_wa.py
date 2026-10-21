@@ -61,6 +61,21 @@ SEND_JS = (
 )
 
 
+# Клик по "OK"/"Отмена" в модалке "Номер не зарегистрирован".
+DISMISS_JS = (
+    '(() => {'
+    'const b = Array.from(document.querySelectorAll('
+    '  "[role=button],button"));'
+    'const re = /^(OK|\\u041e\\u0411\\u041d\\u041e|\\u041e\\u041a|'
+    '\\u041e\\u0422\\u041c\\u0415\\u041d\\u0410|\\u0425\\u041e\\u0420\\u041e'
+    '\\u0428\\u041e)$/i;'
+    'const ok = b.filter(x => re.test((x.innerText||"").trim()));'
+    'if (ok.length) { ok[0].click(); return JSON.stringify('
+    '  {dismissed: ok.length}); }'
+    'return JSON.stringify({none: true});})()'
+)
+
+
 def a(s):
     return str(s).encode("ascii", "backslashreplace").decode("ascii")
 
@@ -104,7 +119,7 @@ def send_web_url(digits):
                                                                 WA_ENCODED)
 
 
-def one_bank(rec):
+def one_bank(rec, quick=False):
     key = rec["key"]
     name = rec.get("name") or key
     digits = rec.get("wa_phone")
@@ -115,14 +130,18 @@ def one_bank(rec):
     log("SEND %s [%s] -> %s" % (key, digits, name))
     op(url)
     st = None
-    for _ in range(20):  # 40 сек максимум
+    tries = 6 if quick else 20  # quick: 12 сек максимум
+    for _ in range(tries):
         time.sleep(2)
         st = ev(CHECK_JS)
         if st.get("hasBox") and st.get("boxTxt") and len(st["boxTxt"]) > 10:
             break
     if not (st and st.get("hasBox") and st.get("boxTxt")):
-        log("  FAIL no chat: %s" % a(st))
-        return {"key": key, "status": "no_chat", "state": st, "url": url}
+        # Попытка закрыть модалку "Номер не зарегистрирован"
+        d = ev(DISMISS_JS)
+        log("  FAIL no chat, dismiss=%s : %s" % (a(d), a(st)))
+        return {"key": key, "status": "not_registered", "state": st,
+                "url": url, "dismiss": d}
     title = st.get("title")
     log("  chat=%s composer=%dch" % (a(title), len(st.get("boxTxt") or "")))
     r = ev(SEND_JS)
@@ -138,11 +157,18 @@ def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--dry", action="store_true")
     ap.add_argument("--only")
+    ap.add_argument("--unverified", action="store_true",
+                    help="брать только ⚠️ (wa_phone есть, verified_whatsapp=false)")
     ap.add_argument("--gap", type=int, default=45, help="секунд между банками")
     args = ap.parse_args()
 
     rows = [json.loads(l) for l in io.open(HOTLINES, encoding="utf-8") if l.strip()]
-    rows = [r for r in rows if r.get("verified_whatsapp") and r.get("wa_phone")]
+    if args.unverified:
+        rows = [r for r in rows
+                if r.get("wa_phone") and not r.get("verified_whatsapp")]
+    else:
+        rows = [r for r in rows
+                if r.get("verified_whatsapp") and r.get("wa_phone")]
     if args.only:
         keep = {s.strip().lower() for s in args.only.split(",")}
         rows = [r for r in rows
@@ -164,11 +190,12 @@ def main():
             prev = {}
 
     results = []
+    quick = args.unverified
     for i, rec in enumerate(rows):
         if rec["key"] in prev.get("sent_keys", []):
             log("skip %s (already sent)" % rec["key"])
             continue
-        r = one_bank(rec)
+        r = one_bank(rec, quick=quick)
         results.append(r)
         if r["status"] == "sent":
             prev.setdefault("sent_keys", []).append(r["key"])
@@ -179,7 +206,9 @@ def main():
             time.sleep(args.gap)
 
     n_sent = sum(1 for r in results if r["status"] == "sent")
-    log("DONE: %d sent, %d failed" % (n_sent, len(results) - n_sent))
+    n_nr = sum(1 for r in results if r["status"] == "not_registered")
+    log("DONE: %d sent, %d not_registered, %d other" % (
+        n_sent, n_nr, len(results) - n_sent - n_nr))
 
 
 if __name__ == "__main__":
