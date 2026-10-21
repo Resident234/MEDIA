@@ -18,6 +18,10 @@ HERE = os.path.dirname(os.path.abspath(__file__))
 SRC = os.path.join(HERE, "..", "banks_osm", "osm_khj_banks.json")
 OUT = os.path.join(HERE, "khujand_block.md")
 
+import sys
+sys.path.insert(0, HERE)
+from make_md import render_hotlines  # noqa: E402
+
 WA_MESSAGE = (u"Здравствуйте. Открываете ли вы карты нерезидентам "
               u"и на каких условиях ?")
 WA_ENCODED = urllib.parse.quote(WA_MESSAGE.encode("utf-8"))
@@ -129,13 +133,16 @@ def main():
     lines.append(u"### Банки — Худжанд")
     lines.append(u"")
     lines.append(
-        u"_Источник: OpenStreetMap (Overpass API). 2ГИС в Таджикистане "
-        u"индексирует только Душанбе (khujand/bokhtar/kulyab → HTTP 404), "
-        u"Яндекс.Карты агрессивно троттлят автоматические запросы. OSM даёт "
-        u"координаты и название отделения, но почти никогда — WhatsApp/Telegram. "
-        u"Чтобы уточнить условия для нерезидента, используйте телефон из "
-        u"карточки или найдите живую страницу банка в Яндексе по названию._"
+        u"_2ГИС в Худжанде не представлен (404 на khujand/bokhtar/kulyab), "
+        u"OSM даёт координаты и название отделения, но почти никогда — "
+        u"WhatsApp/Telegram. Ниже — та же таблица горячих линий, что и по "
+        u"Душанбе: звоните/пишите на общереспубликанский номер конкретного "
+        u"банка, вам ответят и по Худжанду. Внутри списка отделений "
+        u"используется телефон из OSM-тэга, если он есть._"
     )
+    lines.append(u"")
+    lines.extend(render_hotlines())
+    lines.append(u"#### Отделения в городе (по данным OpenStreetMap / Overpass)")
     lines.append(u"")
     written = 0
     for r in uniq:

@@ -1,0 +1,37 @@
+[09:54:51] FETCH Амонатбонк	https://amonatbank.tj
+[09:54:55]   -> wa=0 tg=0 phones=0 pages=0 errs=6
+[09:54:55] FETCH Ориёнбанк	https://oriyonbonk.tj
+[09:54:56]   -> wa=0 tg=0 phones=0 pages=0 errs=6
+[09:54:57] FETCH Душанбе-Сити-Банк	https://dc.tj
+[09:55:00]   -> wa=0 tg=1 phones=2 pages=1 errs=6
+[09:55:00] FETCH Спитамен Банк	https://spitamenbank.tj
+[09:55:08]   -> wa=0 tg=1 phones=15 pages=3 errs=6
+[09:55:08] FETCH Эсхата	https://eskhata.tj
+[09:58:26]   -> wa=0 tg=0 phones=0 pages=0 errs=6
+[09:58:27] FETCH КБТ	https://cbt.tj
+[09:58:33]   -> wa=0 tg=0 phones=0 pages=13 errs=0
+[09:58:34] FETCH Imon International	https://imon.tj
+[09:58:45]   -> wa=0 tg=2 phones=0 pages=13 errs=0
+[09:58:45] FETCH Арванд	https://arvand.tj
+[09:58:48]   -> wa=0 tg=0 phones=0 pages=0 errs=6
+[09:58:49] FETCH IBT	https://ibt.tj
+[09:58:52]   -> wa=0 tg=0 phones=0 pages=0 errs=6
+[09:58:53] FETCH ICB	https://icb.tj
+[09:59:15]   -> wa=0 tg=0 phones=0 pages=12 errs=1
+[09:59:15] FETCH Хумо	https://humo.tj
+[09:59:26]   -> wa=0 tg=0 phones=1 pages=13 errs=0
+[09:59:27] FETCH Алиф	https://alifbank.tj
+[09:59:38]   -> wa=0 tg=2 phones=3 pages=13 errs=0
+[09:59:39] FETCH NBT	https://nbt.tj
+[09:59:42]   -> wa=0 tg=1 phones=0 pages=1 errs=6
+[09:59:43] FETCH Мехргонбанк	https://mehrgon.tj
+[09:59:47]   -> wa=0 tg=0 phones=0 pages=0 errs=6
+[09:59:48] FETCH Фондбанк	https://fondbank.com
+[09:59:55]   -> wa=0 tg=0 phones=0 pages=3 errs=6
+[09:59:56] FETCH Киштхалозбонк	https://ktb.tj
+[10:00:13]   -> wa=0 tg=0 phones=0 pages=0 errs=6
+[10:00:13] FETCH Тахвидбанк	https://tjb.tj
+[10:00:31]   -> wa=0 tg=0 phones=0 pages=0 errs=6
+[10:00:32] FETCH Матин MFK	https://matin.tj
+[10:00:37]   -> wa=0 tg=0 phones=0 pages=0 errs=6
+[10:00:38] finish: 18 banks, 0 with wa, 5 with tg

@@ -21,6 +21,8 @@ HERE = os.path.dirname(os.path.abspath(__file__))
 ROWS = os.path.join(HERE, "rows.jsonl")
 CARDS = os.path.join(HERE, "card.jsonl")
 OUT = os.path.join(HERE, "banks_block.md")
+HOTLINES = os.path.join(os.path.dirname(HERE), "banks_websites",
+                        "hotlines_curated.jsonl")
 
 WA_MESSAGE = (u"Здравствуйте. Открываете ли вы карты нерезидентам "
               u"и на каких условиях ?")
@@ -126,6 +128,65 @@ def load_cards():
     return out
 
 
+def load_hotlines():
+    out = []
+    if not os.path.exists(HOTLINES):
+        return out
+    for l in io.open(HOTLINES, encoding="utf-8"):
+        try:
+            out.append(json.loads(l))
+        except ValueError:
+            continue
+    # verified first, then by name
+    out.sort(key=lambda r: (not r.get("verified_whatsapp"), r.get("name", "")))
+    return out
+
+
+def render_hotlines():
+    rows = load_hotlines()
+    if not rows:
+        return []
+    lines = []
+    n_v = sum(1 for r in rows if r.get("verified_whatsapp"))
+    lines.append(u"#### Горячие линии — сводка по сетям")
+    lines.append(u"")
+    lines.append(
+        u"_Ниже — официальные номера WhatsApp/Telegram/телефонов каждой "
+        u"банковской сети (головной офис отвечает и по отделениям Худжанда). "
+        u"Из %d сетей %d публикуют WhatsApp явно (отметка ✅), остальные %d — "
+        u"только телефон (в WA-ссылке подставлен основной номер, статус "
+        u"«проверьте» — ⚠️). Все WhatsApp-ссылки содержат готовый текст: "
+        u"«%s»._"
+        % (len(rows), n_v, len(rows) - n_v, WA_MESSAGE))
+    lines.append(u"")
+    lines.append(u"| Банк | WhatsApp | Telegram | Телефон | Источник | Статус |")
+    lines.append(u"|---|---|---|---|---|---|")
+    for r in rows:
+        nm = r.get("name") or r.get("key") or u"—"
+        wa = r.get("wa_url")
+        tg = r.get("telegram_url")
+        tel = r.get("hotline_text") or u"—"
+        site = r.get("site")
+        if wa:
+            wa_md = u"[wa.me](%s)" % wa
+        else:
+            wa_md = u"—"
+        if tg:
+            tg_md = u"[tg](%s)" % tg
+        else:
+            tg_md = u"—"
+        if site:
+            src = u"[сайт](%s)" % site
+        else:
+            src = u"—"
+        st = u"✅" if r.get("verified_whatsapp") else (
+            u"⚠️" if wa else u"нет WA")
+        lines.append(u"| %s | %s | %s | %s | %s | %s |" % (
+            nm, wa_md, tg_md, tel, src, st))
+    lines.append(u"")
+    return lines
+
+
 def main():
     rows = [json.loads(l) for l in io.open(ROWS, encoding="utf-8") if l.strip()]
     banks = [r for r in rows if r.get("is_bank")]
@@ -140,6 +201,7 @@ def main():
     lines = []
     lines.append(u"### Банки — Душанбе")
     lines.append(u"")
+    lines.extend(render_hotlines())
     wa_only = sum(1 for r in banks if cards.get(str(r["id"]), {}).get("whatsapp_url"))
     tg_only = sum(1 for r in banks if cards.get(str(r["id"]), {}).get("telegram_url"))
     lines.append(
