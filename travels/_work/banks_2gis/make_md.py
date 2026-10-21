@@ -56,7 +56,38 @@ NETWORK_PATTERNS = [
     (u"Ансолт Банк", re.compile(r"Ансолт", re.UNICODE | re.IGNORECASE)),
     (u"Душанбе-сити-банк", re.compile(r"Душанбе-сити|Dushanbe-City", re.UNICODE | re.IGNORECASE)),
     (u"Мато (Matin)", re.compile(r"Матin|Матин|Мато", re.UNICODE | re.IGNORECASE)),
+    (u"Ориёнбанк", re.compile(r"Ориён|Orien|Oriyon", re.UNICODE | re.IGNORECASE)),
+    (u"Активбанк", re.compile(r"Активбонк|Актив\s*Банк|Aktiv", re.UNICODE | re.IGNORECASE)),
+    (u"Хумо Банк", re.compile(r"Хумо|Humo", re.UNICODE | re.IGNORECASE)),
+    (u"IBT (МБТ)", re.compile(r"\bIBT\b|Международн.{0,20}банк\s*Таджикистан", re.UNICODE | re.IGNORECASE)),
+    (u"Imon International", re.compile(r"\bImon\b|Имон", re.UNICODE | re.IGNORECASE)),
+    (u"Freedom Bank", re.compile(r"Freedom|Фридом", re.UNICODE | re.IGNORECASE)),
+    (u"Тахвидбанк", re.compile(r"Тахвид|Тавхид|Tawhid|Tahvid", re.UNICODE | re.IGNORECASE)),
 ]
+
+# Официальные сайты сетей. Используются как fallback, когда 2ГИС не проставил
+# website в карточке отделения (головной сайт сети всё равно релевантен).
+NETWORK_SITE = {
+    u"Амонатбонк": u"https://amonatbonk.tj/",
+    u"Алиф Банк": u"https://alif.tj/",
+    u"Коммерцбанк (КБТ)": u"https://cbt.tj/",
+    u"Мехргонбанк": u"https://mehrgon.tj/",
+    u"Национальный банк (NBT)": u"https://nbt.tj/",
+    u"Пайванд Банк": u"https://payvand.tj/",
+    u"Спитамен Банк": u"https://spitamenbank.tj/",
+    u"Фондбанк": u"https://fondbank.com/",
+    u"Эсхата Банк": u"https://eskhata.tj/",
+    u"Арванд Банк": u"https://arvand.tj/",
+    u"Душанбе-сити-банк": u"https://dc.tj/",
+    u"Мато (Matin)": u"https://matin.tj/",
+    u"Ориёнбанк": u"https://oriyonbonk.tj/",
+    u"Активбанк": u"https://activbank.tj/",
+    u"Хумо Банк": u"https://humo.tj/",
+    u"IBT (МБТ)": u"https://ibt.tj/",
+    u"Imon International": u"https://imon.tj/",
+    u"Freedom Bank": u"https://freedom-bank.tj/",
+    u"Тахвидбанк": u"https://tawhidbank.tj/",
+}
 
 
 def network_of(row):
@@ -91,7 +122,7 @@ def rewrite_wa(url):
     return base + "?text=" + WA_ENCODED
 
 
-def fmt_row(r, card):
+def fmt_row(r, card, net=None):
     nm = (r.get("name") or "").strip()
     addr = (r.get("address_name") or "").strip()
     lat = r.get("lat")
@@ -102,12 +133,12 @@ def fmt_row(r, card):
     parts = [u"- **%s**" % nm, u"· %.6f, %.6f" % (lat, lon)]
     if url:
         parts.append(u"· [2ГИС](%s)" % url)
+    site = (card or {}).get("website") or NETWORK_SITE.get(net or "")
+    if site:
+        parts.append(u"· [Сайт](%s)" % site)
     if card:
-        site = card.get("website")
         wa = card.get("whatsapp_url")
         tg = card.get("telegram_url")
-        if site:
-            parts.append(u"· [Сайт](%s)" % site)
         if wa:
             parts.append(u"· [WhatsApp](%s)" % rewrite_wa(wa))
         if tg:
@@ -207,7 +238,10 @@ def main():
     lines.extend(render_hotlines())
     wa_only = sum(1 for r in banks if cards.get(str(r["id"]), {}).get("whatsapp_url"))
     tg_only = sum(1 for r in banks if cards.get(str(r["id"]), {}).get("telegram_url"))
-    site_only = sum(1 for r in banks if cards.get(str(r["id"]), {}).get("website"))
+    def has_site(r):
+        c = cards.get(str(r["id"]), {})
+        return bool(c.get("website") or NETWORK_SITE.get(network_of(r) or ""))
+    site_only = sum(1 for r in banks if has_site(r))
     lines.append(
         u"_Источник: 2ГИС, рубрика «Банки». Снято %d отделений; у %d указан "
         u"WhatsApp, у %d — Telegram, у %d — официальный сайт. Все WhatsApp-ссылки "
@@ -232,7 +266,7 @@ def main():
             items = sorted(bucket[net], key=lambda r: (r.get("name") or "").lower())
             lines.append(u"_**%s** (%d)_" % (net, len(items)))
             for r in items:
-                s = fmt_row(r, cards.get(str(r["id"])))
+                s = fmt_row(r, cards.get(str(r["id"])), net=net)
                 if s:
                     lines.append(s)
                     total_written += 1
