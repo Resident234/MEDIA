@@ -280,6 +280,11 @@ def main():
             lines.append(u"")
             lines.append(u"</details>")
             lines.append(u"")
+        elif unranked:
+            # Короткие категории вроде «Прочего жилья» — без ката: иначе от
+            # заголовка с количеством оставалась одна пустая строка.
+            lines.extend(make_table(unranked))
+            lines.append(u"")
 
     text = u"\n".join(lines).rstrip() + u"\n"
     io.open(OUT, "w", encoding="utf-8", newline="\n").write(text)
