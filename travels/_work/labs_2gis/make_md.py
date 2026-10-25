@@ -12,8 +12,9 @@ usage: python make_md.py
   3. Полный список лабораторий Душанбе с часами и телефоном (без 24/7-секции
      — их обычно единицы, проще видеть весь список).
   4. Топ-3 по районам.
-  5. Ссылки на поиск по остальным городам (только Яндекс, 2ГИС по стране
-     не работает).
+  5. Карточки лабораторий по городам из `../labs_yandex/cards_block.md`
+     (название, координаты, ссылка, рейтинг, телефон, адрес); если блока
+     ещё нет — старая таблица ссылок-поисковиков на Яндекс.
 
 Все цифры выводятся из самих данных, поэтому проза и таблицы не разойдутся.
 """
@@ -25,6 +26,8 @@ from collections import defaultdict, Counter
 HERE = os.path.dirname(os.path.abspath(__file__))
 LABS = os.path.join(HERE, "labs.jsonl")
 YX_ROWS = os.path.join(HERE, "..", "labs_yandex", "rows.jsonl")
+YX_BLOCK = os.path.join(HERE, "..", "labs_yandex", "cards_block.md")
+YX_STATS = os.path.join(HERE, "..", "labs_yandex", "cards_stats.json")
 OUT = os.path.join(HERE, "section_11_labs_block.md")
 
 LAB_KEYS = (u"лаборатор", u"анализ", u"диагност", u"пцр", u"ифа",
@@ -110,6 +113,23 @@ def load_yx():
                                           u"диагност")):
             out.append(r)
     return out
+
+
+def load_yx_block():
+    """Готовый блок карточек из `labs_yandex/cards.py` (если он уже собран)."""
+    if not os.path.exists(YX_BLOCK):
+        return None
+    text = io.open(YX_BLOCK, encoding="utf-8").read().strip()
+    return text or None
+
+
+def load_yx_stats():
+    if not os.path.exists(YX_STATS):
+        return {}
+    try:
+        return json.load(io.open(YX_STATS, encoding="utf-8"))
+    except ValueError:
+        return {}
 
 
 def fmt_hours(rec):
@@ -208,6 +228,8 @@ def yx_cities(yx):
 def render():
     labs = [r for r in load_labs() if is_lab(r)]
     yx = load_yx()
+    yx_block = load_yx_block()
+    yx_stats = load_yx_stats()
     networks = top_networks(labs)
     dists = per_district_top(labs)
     cities = yx_cities(yx)
@@ -235,7 +257,15 @@ def render():
                      total_2gis, len(n24), len(networks),
                      sum(1 for r in labs if first_site(r)),
                      sum(1 for r in labs if first_phone(r))))
-    if total_yx:
+    if yx_block:
+        lines.append(u"- **По стране (Яндекс.Карты)**: %d лабораторных "
+                     u"карточек в %d населённых пунктах — ниже отдельным "
+                     u"блоком, с координатами и ссылками на карточки; Душанбе "
+                     u"там дублирует 2ГИС-список выше, зато у Яндекса свои "
+                     u"рейтинги и телефоны." % (
+                         yx_stats.get("cards") or 0,
+                         yx_stats.get("localities") or 0))
+    elif total_yx:
         lines.append(u"- **По стране (Яндекс.Карты)**: %d карточек в %d "
                      u"таджикских каталогах." % (total_yx, len(cities)))
     else:
@@ -325,33 +355,38 @@ def render():
                 escape(fmt_hours(r)), tail, escape(r.get("url_2gis"))))
         lines.append(u"")
 
-    lines.append(u"#### Лаборатории в остальных городах")
-    lines.append(u"")
-    lines.append(u"2ГИС по Таджикистану покрывает только Душанбе, поэтому "
-                 u"за пределами столицы — Яндекс.Карты. Ниже прямые ссылки "
-                 u"на поиск `лаборатория` по таджикским каталогам.")
-    lines.append(u"")
-    lines.append(u"| Город / регион | Открыть в Яндексе | Открыть в 2ГИС |")
-    lines.append(u"|---|---|---|")
-    LAB_Q = u"%D0%BB%D0%B0%D0%B1%D0%BE%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%B8%D1%8F"
-    known = [
-        (u"Худжанд", u"https://yandex.kz/maps/10322/khujand/search/" + LAB_Q),
-        (u"Бохтар", u"https://yandex.kz/maps/10319/bohtar/search/" + LAB_Q),
-        (u"Куляб", u"https://yandex.kz/maps/20882/kulob/search/" + LAB_Q),
-        (u"Турсунзаде", u"https://yandex.kz/maps/21107/tursunzoda/search/" + LAB_Q),
-        (u"Нурек", u"https://yandex.kz/maps/10321/nurek/search/" + LAB_Q),
-        (u"Пенджикент", u"https://yandex.kz/maps/10320/pendjikent/search/" + LAB_Q),
-        (u"Конибодом", u"https://yandex.kz/maps/116395/konibodom/search/" + LAB_Q),
-        (u"Исфара", u"https://yandex.kz/maps/101751/isfara/search/" + LAB_Q),
-        (u"Хорог (ГБАО)", u"https://yandex.kz/maps/37175/horog/search/" + LAB_Q),
-        (u"Хатлонская область",
-         u"https://yandex.kz/maps/105969/khatlon-province/search/" + LAB_Q),
-        (u"Согдийская область",
-         u"https://yandex.kz/maps/105968/sughd-province/search/" + LAB_Q),
-    ]
-    for name, yx_url in known:
-        lines.append(u"| %s | [Яндекс](%s) | — |" % (escape(name), yx_url))
-    lines.append(u"")
+    if yx_block:
+        lines.append(yx_block)
+        lines.append(u"")
+    else:
+        lines.append(u"#### Лаборатории в остальных городах")
+        lines.append(u"")
+        lines.append(u"2ГИС по Таджикистану покрывает только Душанбе, "
+                     u"поэтому за пределами столицы — Яндекс.Карты. Ниже "
+                     u"прямые ссылки на поиск `лаборатория` по таджикским "
+                     u"каталогам.")
+        lines.append(u"")
+        lines.append(u"| Город / регион | Открыть в Яндексе | Открыть в 2ГИС |")
+        lines.append(u"|---|---|---|")
+        LAB_Q = u"%D0%BB%D0%B0%D0%B1%D0%BE%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%B8%D1%8F"
+        known = [
+            (u"Худжанд", u"https://yandex.kz/maps/10322/khujand/search/" + LAB_Q),
+            (u"Бохтар", u"https://yandex.kz/maps/10319/bohtar/search/" + LAB_Q),
+            (u"Куляб", u"https://yandex.kz/maps/20882/kulob/search/" + LAB_Q),
+            (u"Турсунзаде", u"https://yandex.kz/maps/21107/tursunzoda/search/" + LAB_Q),
+            (u"Нурек", u"https://yandex.kz/maps/10321/nurek/search/" + LAB_Q),
+            (u"Пенджикент", u"https://yandex.kz/maps/10320/pendjikent/search/" + LAB_Q),
+            (u"Конибодом", u"https://yandex.kz/maps/116395/konibodom/search/" + LAB_Q),
+            (u"Исфара", u"https://yandex.kz/maps/101751/isfara/search/" + LAB_Q),
+            (u"Хорог (ГБАО)", u"https://yandex.kz/maps/37175/horog/search/" + LAB_Q),
+            (u"Хатлонская область",
+             u"https://yandex.kz/maps/105969/khatlon-province/search/" + LAB_Q),
+            (u"Согдийская область",
+             u"https://yandex.kz/maps/105968/sughd-province/search/" + LAB_Q),
+        ]
+        for name, yx_url in known:
+            lines.append(u"| %s | [Яндекс](%s) | — |" % (escape(name), yx_url))
+        lines.append(u"")
     lines.append(u"#### Практический вывод")
     lines.append(u"")
     lines.append(u"- В Душанбе лаборатория с забором анализов есть почти в "
@@ -359,7 +394,7 @@ def render():
                  u"карточке 2ГИС.")
     u_dash = u"-"
     lines.append(u_dash + u" В Худжанде, Кулябе, Бохтаре, Турсунзаде, Нуреке, "
-                 u"Пенджикенте, Конибоме, Исфаре лаборатории есть, но "
+                 u"Пенджикенте, Конибодоме, Исфаре лаборатории есть, но "
                  u"реактивы и узкие профили (онкомаркеры, генетика, "
                  u"алергопанели) обычно проще сдать в Душанбе — уточняйте "
                  u"заранее.")
