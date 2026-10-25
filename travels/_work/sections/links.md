@@ -72,4 +72,4 @@
 
 72. <https://ru.skyscanner.com/transport/flights/tas/dyua/?adultsv2=1&cabinclass=economy&childrenv2=&ref=home&rtn=0&preferdirects=true&outboundaltsenabled=false&inboundaltsenabled=false&oym=2410> — пропущена: агрегатор авиабилетов, без текста статьи · не анализировалась
 
-73. <https://t.me/+KOFaRBW15zA5ZTky> — пропущена: Telegram-чат, доступ только по инвайту · не анализировалась
+73. <https://t.me/+KOFaRBW15zA5ZTky> — Telegram-чат, доступ только по инвайту (закрытая супергруппа, постоянных ссылок на отдельные сообщения нет) · разобран 26.10.2026 по выгрузке Telegram Desktop: 130 HTML-файлов, 126 182 сообщения за май 2022 — октябрь 2026, прочитаны все · цитируется в разделе 1 номерами сообщений
