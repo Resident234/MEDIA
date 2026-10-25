@@ -18,7 +18,9 @@ usage: python make_md.py
      Отсекаем объекты с рейтингом <4.0, если рейтинг известен; объекты без
      рейтинга (малоизвестные) идут в конец блока «без рейтинга».
   5. По районам — топ-3.
-  6. Остальные города: ссылки на Яндексе по каждому каталогу.
+  6. Карточки Яндекса по городам из `../food_yandex/cards_block.md` (если
+     прогон там уже прошёл) — Душанбе и остальные города; иначе — ссылки на
+     поиск по каталогам.
 
 Все цифры выводятся из самих данных.
 """
@@ -30,6 +32,7 @@ from collections import defaultdict, Counter
 HERE = os.path.dirname(os.path.abspath(__file__))
 FOOD = os.path.join(HERE, "food.jsonl")
 YX_ROWS = os.path.join(HERE, "..", "food_yandex", "rows.jsonl")
+YX_BLOCK = os.path.join(HERE, "..", "food_yandex", "cards_block.md")
 OUT = os.path.join(HERE, "section_7_food_block.md")
 
 MIN_RATING = 4.0
@@ -288,9 +291,22 @@ def load_yx():
     return out
 
 
+def load_yx_block():
+    """Готовый блок региональных карточек из `../food_yandex/cards.py`.
+
+    Пока прогон не прошёл, файла нет — и в разделе остаются прямые
+    ссылки-поисковики по каталогам.
+    """
+    if not os.path.exists(YX_BLOCK):
+        return u""
+    text = io.open(YX_BLOCK, encoding="utf-8").read().strip()
+    return text if u"###" in text.splitlines()[0] else u""
+
+
 def render():
     all_rows = [r for r in load_food() if is_food(r)]
     yx = load_yx()
+    yx_block = load_yx_block()
     hi, unknown, lo = partition_by_rating(all_rows)
     shown = hi + unknown  # рейтинг <4 не выводим
     by_cat = defaultdict(list)
@@ -327,6 +343,13 @@ def render():
     if total_yx:
         lines.append(u"- **По стране (Яндекс.Карты)**: %d карточек в %d "
                      u"таджикских каталогах." % (total_yx, len(cities)))
+    elif yx_block:
+        lines.append(u"- **По стране (Яндекс.Карты)**: ниже отдельный блок "
+                     u"«Карточки заведений по городам» — те же заведения с "
+                     u"координатами, рейтингом, телефоном и адресом. Душанбе "
+                     u"там дублирует 2ГИС-списки выше — у Яндекса свои "
+                     u"рейтинги и телефоны; остальные города 2ГИС по стране "
+                     u"не покрывает вовсе.")
     else:
         lines.append(u"- **По стране (Яндекс.Карты)**: Яндекс на этом заходе "
                      u"закрыл выдачу по таджикским каталогам (троттлинг), "
@@ -445,48 +468,53 @@ def render():
                 escape(categorize(r)), tail, escape(r.get("url_2gis"))))
         lines.append(u"")
 
-    lines.append(u"#### Заведения в остальных городах")
-    lines.append(u"")
-    lines.append(u"2ГИС по Таджикистану покрывает только Душанбе, поэтому за "
-                 u"пределами столицы — Яндекс.Карты. Ниже прямые ссылки на "
-                 u"поиск по основным типам заведений в каждом таджикском "
-                 u"каталоге.")
-    lines.append(u"")
-    CITIES = [
-        (u"Худжанд", u"10322/khujand"),
-        (u"Конибодом", u"116395/konibodom"),
-        (u"Исфара", u"101751/isfara"),
-        (u"Пенджикент", u"10320/pendjikent"),
-        (u"Бохтар", u"10319/bohtar"),
-        (u"Куляб", u"20882/kulob"),
-        (u"Турсунзаде", u"21107/tursunzoda"),
-        (u"Нурек", u"10321/nurek"),
-        (u"Гиссар", u"105973/hisor-district"),
-        (u"Хорог (ГБАО)", u"37175/horog"),
-        (u"Согдийская область", u"105968/sughd-province"),
-        (u"Хатлонская область", u"105969/khatlon-province"),
-    ]
-    QUERIES = [
-        (u"Кафе", u"кафе"),
-        (u"Рестораны", u"ресторан"),
-        (u"Чайханы", u"чайхана"),
-        (u"Бары", u"бар"),
-        (u"Кофейни", u"кофейня"),
-        (u"Доставка еды", u"доставка еды"),
-    ]
-    from urllib.parse import quote as yq
-    header = u"| Город | " + u" | ".join(
-        escape(q[0]) for q in QUERIES) + u" |"
-    sep = u"|---" * (len(QUERIES) + 1) + u"|"
-    lines.append(header)
-    lines.append(sep)
-    for name, cat in CITIES:
-        cells = []
-        for _, q in QUERIES:
-            url = (u"https://yandex.kz/maps/%s/search/%s" % (cat, yq(q)))
-            cells.append(u"[открыть](%s)" % url)
-        lines.append(u"| %s | %s |" % (escape(name), u" | ".join(cells)))
-    lines.append(u"")
+    if yx_block:
+        lines.append(yx_block)
+        lines.append(u"")
+    else:
+        lines.append(u"#### Заведения в остальных городах")
+        lines.append(u"")
+        lines.append(u"2ГИС по Таджикистану покрывает только Душанбе, поэтому "
+                     u"за пределами столицы — Яндекс.Карты. Ниже прямые ссылки "
+                     u"на поиск по основным типам заведений в каждом "
+                     u"таджикском каталоге.")
+        lines.append(u"")
+        CITIES = [
+            (u"Худжанд", u"10322/khujand"),
+            (u"Конибодом", u"116395/konibodom"),
+            (u"Исфара", u"101751/isfara"),
+            (u"Пенджикент", u"10320/pendjikent"),
+            (u"Бохтар", u"10319/bohtar"),
+            (u"Куляб", u"20882/kulob"),
+            (u"Турсунзаде", u"21107/tursunzoda"),
+            (u"Нурек", u"10321/nurek"),
+            (u"Гиссар", u"105973/hisor-district"),
+            (u"Хорог (ГБАО)", u"37175/horog"),
+            (u"Согдийская область", u"105968/sughd-province"),
+            (u"Хатлонская область", u"105969/khatlon-province"),
+        ]
+        QUERIES = [
+            (u"Кафе", u"кафе"),
+            (u"Рестораны", u"ресторан"),
+            (u"Чайханы", u"чайхана"),
+            (u"Бары", u"бар"),
+            (u"Кофейни", u"кофейня"),
+            (u"Доставка еды", u"доставка еды"),
+        ]
+        from urllib.parse import quote as yq
+        header = u"| Город | " + u" | ".join(
+            escape(q[0]) for q in QUERIES) + u" |"
+        sep = u"|---" * (len(QUERIES) + 1) + u"|"
+        lines.append(header)
+        lines.append(sep)
+        for name, cat in CITIES:
+            cells = []
+            for _, q in QUERIES:
+                url = (u"https://yandex.kz/maps/%s/search/%s"
+                       % (cat, yq(q)))
+                cells.append(u"[открыть](%s)" % url)
+            lines.append(u"| %s | %s |" % (escape(name), u" | ".join(cells)))
+        lines.append(u"")
 
     lines.append(u"#### Практический вывод")
     lines.append(u"")
