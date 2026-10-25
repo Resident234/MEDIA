@@ -31,6 +31,7 @@ import time
 import urllib.parse
 
 import yxd
+import yxhttp
 from cities import CITIES, QUERIES
 from merge import coords as coords_of, km
 
@@ -39,10 +40,26 @@ LISTS = os.path.join(HERE, "lists")
 LOG = os.path.join(LISTS, "run.log")
 TOWNS = os.path.join(HERE, "_towns.json")
 
-# Меньше этого числа объектов в городе — дополнительные формулировки не нужны.
-TAIL_MIN = 20
+# Порог, ниже которого дополнительные формулировки не нужны. На HTTP-канале
+# запрос стоит семь секунд, так что опрашиваем все формулировки везде: разные
+# слова дают разные объекты, и «Апартаменты» находит то, чего нет в «Гостинице».
+TAIL_MIN = 0
 # Пауза между кругами, если что-то не собралось (секунды).
 RETRY_PAUSE = 600
+# Если круг не принёс ни одного нового объекта — держим паузу дольше.
+EMPTY_PAUSE = 900
+# Транспорт: http (по умолчанию, без браузера) или browser (запасной).
+TRANS = os.environ.get("YX_TRANSPORT", "http").lower()
+
+
+def harvest(url):
+    """Один запрос выдачи тем или иным каналом."""
+    if TRANS == "browser":
+        return yxd.harvest_state(url, budget=80, pages=4, tries=1)
+    # 10 страниц по 25 — потолок для самого крупного города (у Душанбе
+    # «меҳмонхона» отдаёт 155 объектов); обход прекращается сам, как только
+    # очередная страница не приносит новых id.
+    return yxhttp.harvest(url, pages=10, pause=3)
 
 
 # В первую очередь — города, где жилья заведомо много: сбор длинный, и если
@@ -79,6 +96,30 @@ def prefix_of(base):
     if not base or "/search/" not in base:
         return None
     return base.split("/search/")[0] + "/search/"
+
+
+def still_open(out, done):
+    """Не закрыт ли запрос, у которого собрано меньше, чем totalResultCount.
+
+    Пагинация обрывается на «нет новых id», а общее число объектов Яндекс
+    сообщает отдельно. Расхождение больше трёх значит, что часть списка не
+    влезла в отведённые страницы, и запрос надо переспросить — с более
+    глубокой пагинацией.
+    """
+    if not os.path.exists(done):
+        return True
+    try:
+        txt = io.open(done, encoding="utf-8").read()
+    except (IOError, OSError):
+        return True
+    # end=1 — пагинация дошла до конца: остаток totalResultCount это чужие
+    # категории, которые Яндекс считает, но не показывает в списке.
+    if "end=1" in txt:
+        return False
+    m = re.search(r"n=(\d+)\s+total=(\d+)", txt)
+    if not m:
+        return False
+    return int(m.group(2)) > int(m.group(1)) + 3
 
 
 def median_km(items, town):
@@ -181,7 +222,7 @@ def mark_relays(todo):
 
 
 def pass_over(todo, prefixes, round_no):
-    """One full pass; returns how many (town, query) files are still missing."""
+    """One full pass; returns (items, still missing, global ban seen)."""
     grand, missing = 0, 0
     for town in todo:
         seen = set()
@@ -194,7 +235,9 @@ def pass_over(todo, prefixes, round_no):
             got = load_items(out)
             for it in got:
                 seen.add(it.get("id") or it.get("title"))
-            if got and os.path.exists(done):
+            if not still_open(out, done):
+                # Маркер ставится и на «ничего не нашлось»: файла может не быть,
+                # а вопрос уже закрыт.
                 continue
             if qi > 3 and len(seen) < TAIL_MIN:
                 continue
@@ -207,8 +250,7 @@ def pass_over(todo, prefixes, round_no):
             kind, items, total, base, complete = "timeout", [], None, None, False
             for attempt in (1, 2):
                 try:
-                    kind, items, total, base, complete = yxd.harvest_state(
-                        url, budget=80, tries=1)
+                    kind, items, total, base, complete = harvest(url)
                 except Exception as exc:  # noqa: BLE001 - один сбой не рвёт проход
                     log("%s/%s EXC %s" % (town["key"], qname,
                                           yxd.show(str(exc))[:160]))
@@ -222,9 +264,27 @@ def pass_over(todo, prefixes, round_no):
                     break
                 log("%s/%s throttled, cooling (%ds)" % (
                     town["key"], qname, int(time.time() - t0)))
+                # Одиночную заглушку имеет смысл переждать. Если и второй
+                # заход пустой — окно антибота закрыто, и любое дальнейшее
+                # тыканье только продлевает его.
                 if attempt == 1:
-                    yxd.cool(50, 4)
-            if kind in ("none", "timeout", "throttled"):
+                    if TRANS != "browser":
+                        time.sleep(90)
+                        continue
+                    if yxd.cool(60, 2):
+                        continue
+                log("window closed: round %d aborted" % round_no)
+                return grand, missing, True
+            if kind == "none":
+                # «Ничего не нашлось» — окончательный ответ, а не сбой. Без
+                # маркера такой город переспрашивался бы каждый круг и съедал
+                # лимит антибота.
+                io.open(done, "w", encoding="utf-8").write(u"none n=0\n")
+                log("%s/%s -> none, marked done %ds" % (
+                    town["key"], qname, int(time.time() - t0)))
+                time.sleep(10)
+                continue
+            if kind in ("timeout", "throttled"):
                 log("%s/%s -> %s, retry later %ds" % (
                     town["key"], qname, kind, int(time.time() - t0)))
                 missing += 1
@@ -248,8 +308,8 @@ def pass_over(todo, prefixes, round_no):
             # кончаются. Прирост меньше трёх — дальше ходить незачем.
             if complete or grew < 3:
                 io.open(done, "w", encoding="utf-8").write(
-                    "%s n=%d total=%s grew=%d\n" % (
-                        qname, len(merged), total, grew))
+                    "%s n=%d total=%s grew=%d end=%d\n" % (
+                        qname, len(merged), total, grew, int(complete)))
             else:
                 missing += 1
             log("r%d %s/%s -> %s n=%d total=%s done=%s %ds" % (
@@ -265,8 +325,10 @@ def pass_over(todo, prefixes, round_no):
                     log("%s relays the regional centre (median %d km), "
                         "rest of queries skipped" % (town["key"], int(med)))
                     break
-            time.sleep(20)
-    return grand, missing
+            # HTTP-канал держит темп в пару секунд на страницу; браузерный
+            # душится сразу, ему нужен долгий шаг.
+            time.sleep(4 if TRANS == "http" else 45)
+    return grand, missing, False
 
 
 def main():
@@ -289,23 +351,41 @@ def main():
     if limit:
         todo = todo[:limit]
     prefixes = load_json(TOWNS)
-    log("towns=%d queries=%d session=%s tail_min=%d rounds=%d" % (
-        len(todo), len(QUERIES), yxd.SESSION, TAIL_MIN, rounds))
+    log("towns=%d queries=%d transport=%s session=%s tail_min=%d rounds=%d" % (
+        len(todo), len(QUERIES), TRANS, yxd.SESSION, TAIL_MIN, rounds))
     if scan:
         log("relay scan: marked %d" % mark_relays(todo))
         return
-    total_items = 0
+    total_items, missing, blocked_last = 0, 0, False
     for r in range(1, rounds + 1):
-        grand, missing = pass_over(todo, prefixes, r)
+        grand, missing, blocked = pass_over(todo, prefixes, r)
         total_items += grand
-        log("round %d done: items=%d missing=%d" % (r, grand, missing))
+        blocked_last = blocked
+        log("round %d done: items=%d missing=%d%s" % (
+            r, grand, missing, " BAN" if blocked else ""))
+        # Порядок важен: при бане на первом же запросе круга missing остаётся
+        # нулём, и раньше сбор объявлял себя законченным.
+        if blocked:
+            log("global ban: waiting %ds before round %d" % (EMPTY_PAUSE, r + 1))
+            time.sleep(EMPTY_PAUSE)
+            continue
         if not missing:
             break
         if r < rounds:
-            log("sleep %ds before round %d" % (RETRY_PAUSE, r + 1))
-            time.sleep(RETRY_PAUSE)
+            # Пустой круг — это антибот, а не отсутствие данных: ждём шире,
+            # чтобы не просиживать все круги впустую.
+            pause = RETRY_PAUSE if grand else EMPTY_PAUSE
+            log("sleep %ds before round %d%s" % (
+                pause, r + 1, "" if grand else " (empty round)"))
+            time.sleep(pause)
+    if missing or blocked_last:
+        # Ненулевой код — сигнал супервизору взять новый заход: работа есть.
+        log("NOT DONE. items=%d missing=%d ban=%d" % (
+            total_items, missing, int(blocked_last)))
+        return 2
     log("DONE. items=%d" % total_items)
+    return 0
 
 
 if __name__ == "__main__":
-    main()
+    sys.exit(main())

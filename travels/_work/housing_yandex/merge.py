@@ -30,7 +30,8 @@ OUT = os.path.join(HERE, "housing_yx.jsonl")
 OK_RE = re.compile(
     u"гостиниц|отел|гостев|guest|хостел|hostel|квартир|апартамент|apartment|"
     u"мотел|motel|меҳмонхона|мехмонхона|меҳмонхона|постоял|мини-отел|"
-    u"гостевой дом|усадба|коттедж|дача|турбаза|кемпинг|camping|глэмпинг|"
+    u"гостевой дом|усадба|коттедж|дача|турбаза|база отдыха|зона отдыха|"
+    u"кемпинг|camping|глэмпинг|"
     u"hotel|guesthouse|guest_house|apart|resort", re.I)
 # Явно не жильё, даже если рядом стоит слово «квартира» в названии.
 NO_RE = re.compile(
@@ -83,7 +84,9 @@ def is_lodging(it):
 
 
 def coords(it):
-    c = it.get("coords")
+    # Браузерный дамп переименовывал coordinates в coords, HTTP-выгрузка
+    # хранит сырой объект — понимаем оба написания.
+    c = it.get("coords") or it.get("coordinates")
     if isinstance(c, (list, tuple)) and len(c) >= 2:
         try:
             return float(c[0]), float(c[1])
@@ -160,6 +163,15 @@ def rating_of(it):
     return val, rev
 
 
+def hours_of(it):
+    # Браузерный дамп кладёт в workingTime готовый текст, HTTP-выгрузка —
+    # разобранное расписание; текст там лежит рядом в workingTimeText.
+    txt = it.get("workingTimeText")
+    if not txt and isinstance(it.get("workingTime"), str):
+        txt = it.get("workingTime")
+    return txt
+
+
 def card_url(it):
     iid = it.get("id")
     seo = it.get("seoname")
@@ -202,7 +214,8 @@ def main():
                 it["_from"] = [src]
                 orgs[key] = it
                 continue
-            for f in ("phones", "urls", "socialLinks", "categories"):
+            for f in ("phones", "urls", "socialLinks", "categories",
+                      "workingTime"):
                 if not rec.get(f) and it.get(f):
                     rec[f] = it.get(f)
                 elif rec.get(f) and it.get(f) and isinstance(rec[f], list) \
@@ -226,6 +239,11 @@ def main():
 
     rows, dropped, foreign = [], 0, 0
     for it in orgs.values():
+        # В общей выдаче по карте рядом с организациями идут топонимы
+        # и остановки — это не жильё.
+        if (it.get("type") or "business") != "business":
+            dropped += 1
+            continue
         country = (it.get("country") or "").strip()
         if country and country not in TJ_COUNTRIES:
             foreign += 1
@@ -255,7 +273,7 @@ def main():
             "phones": phones_of(it),
             "whatsapp": wa, "telegram": tg, "socials": socials,
             "sites": sites_of(it),
-            "hours": it.get("workingTime"),
+            "hours": hours_of(it),
             "categories": [c[0] for c in cats_of(it) if c[0]],
             "found_in": it.get("_from"),
         })

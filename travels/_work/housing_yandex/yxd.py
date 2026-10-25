@@ -20,7 +20,9 @@ Everything the fitness pass learned about this service is baked in here:
 import io
 import json
 import os
+import shutil
 import subprocess
+import tempfile
 import time
 
 EXE = os.path.expandvars(
@@ -31,6 +33,10 @@ SESSION = os.environ.get("YX_SESSION", "yxhousing")
 # «limited» заметно чаще, чем yandex.ru, при том же наборе данных.
 HOST = os.environ.get("YX_HOST", "https://yandex.ru").rstrip("/")
 HOME = HOST + "/maps/"
+# Сколько ждать один вызов CLI. Нормальный eval — секунды; всё, что дольше,
+# означает залипший демон или мёртвый браузер.
+EV_TIMEOUT = int(os.environ.get("YX_EV_TIMEOUT", "45"))
+OPEN_TIMEOUT = int(os.environ.get("YX_OPEN_TIMEOUT", "75"))
 
 # The business objects the page keeps in its state snapshot: they carry phones,
 # socialLinks, ratingData and categories, so one list pass covers what a card
@@ -52,19 +58,53 @@ ORG = ('(() => {const h=document.querySelector("h1");'
        ' text: (document.body.innerText||"").slice(0,900)});})()')
 
 
+def run_cli(args, stdin_text=None, timeout=EV_TIMEOUT):
+    """Run the CLI with output to temp files; returns (rc, out, err).
+
+    Вывод намеренно не через pipe: убитый по таймауту CLI оставляет внуков
+    (node, браузер) с унаследованными ручками, и чтение пайпа висит уже после
+    kill. Файлы же дочитываются всегда, а таймаут остаётся таймаутом.
+    """
+    tmp = tempfile.mkdtemp(prefix="yxd_")
+    fo, fe = os.path.join(tmp, "out"), os.path.join(tmp, "err")
+    rc = -1
+    try:
+        with io.open(fo, "wb") as o, io.open(fe, "wb") as e:
+            p = subprocess.Popen(args, stdin=subprocess.PIPE if stdin_text
+                                 is not None else subprocess.DEVNULL,
+                                 stdout=o, stderr=e)
+            try:
+                p.communicate(input=stdin_text, timeout=timeout)
+                rc = p.returncode
+            except subprocess.TimeoutExpired:
+                p.kill()
+                p.communicate()  # забрать код, не дожидаясь внуков на пайпах
+                rc = -9
+        out = io.open(fo, "rb").read()
+        err = io.open(fe, "rb").read()
+    finally:
+        shutil.rmtree(tmp, ignore_errors=True)
+    return rc, out, err
+
+
 def ev(js):
-    p = subprocess.run([EXE, "--session", SESSION, "eval", "--stdin"],
-                       input=js.encode("utf-8"), capture_output=True)
-    if p.returncode != 0:
-        raise RuntimeError(p.stderr.decode("utf-8", "replace")[:300])
-    v = json.loads(p.stdout.decode("utf-8", "replace").strip())
+    rc, out, err = run_cli([EXE, "--session", SESSION, "eval", "--stdin"],
+                           js.encode("utf-8"), EV_TIMEOUT)
+    if rc == -9:
+        raise RuntimeError("eval timed out after %ds" % EV_TIMEOUT)
+    if rc != 0:
+        raise RuntimeError(err.decode("utf-8", "replace")[:300])
+    v = json.loads(out.decode("utf-8", "replace").strip())
     while isinstance(v, str):
         v = json.loads(v)
     return v
 
 
 def op(url):
-    subprocess.run([EXE, "--session", SESSION, "open", url], capture_output=True)
+    rc, _out, _err = run_cli([EXE, "--session", SESSION, "open", url],
+                             None, OPEN_TIMEOUT)
+    if rc == -9:
+        print("open timed out after %ds" % OPEN_TIMEOUT)
 
 
 def show(text):
@@ -104,6 +144,8 @@ def open_ready(url, budget=75, tries=2):
             if st["snippets"] or st["org"] or st["none"]:
                 return st
             if st.get("lim"):
+                break
+            if time.time() - started > budget:
                 break
         if time.time() - started > budget:
             break
