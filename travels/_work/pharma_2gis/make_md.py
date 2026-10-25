@@ -5,9 +5,10 @@ usage: python make_md.py
 
 Блок строится из двух источников:
   - `pharmacies.jsonl` — 2GIS (Душанбе): сеть/адрес/часы/24x7/сайт/тел/прил.
-  - `../pharma_yandex/rows.jsonl` — Яндекс: все таджикские каталоги; там
-    аптеки ищутся по названию/категории в `text`, а карточек с часами
-    пока нет — из Яндекса берётся география (в каком городе что есть).
+  - `../pharma_yandex/cards_block.md` — Яндекс.Карты: карточки аптек по
+    всем таджикским каталогам (название, координаты, ссылка, рейтинг,
+    телефон, адрес), собирает `../pharma_yandex/cards.py`. Если файла
+    ещё нет — работает старая сводка `../pharma_yandex/rows.jsonl`.
 
 Вывод — `section_11_block.md`:
   1. Короткая проза: сколько сетей, сколько круглосуточных, где искать
@@ -15,9 +16,8 @@ usage: python make_md.py
   2. Таблица топ-сетей Душанбе с сайтом/приложением (если они есть).
   3. Список 24/7 аптек (адрес, телефон, ссылка на карточку).
   4. По каждому району Душанбе — 3 аптеки с высоким рейтингом.
-  5. По остальным городам — сводка Яндекс-покрытия (число карточек + ссылки
-     на поиск Яндекса в этом каталоге), без деталей (детали только 2GIS
-     умеёт отдавать, а 2GIS покрывает Душанбе).
+  5. По остальным городам — карточки аптек Яндекса по городам, с
+     координатами, рейтингом, телефоном и адресом.
 
 Все цифры в прозе выводятся из данных, поэтому цифры в тексте и в таблице
 не разойдутся.
@@ -31,6 +31,8 @@ from collections import Counter, defaultdict
 HERE = os.path.dirname(os.path.abspath(__file__))
 PHARMA = os.path.join(HERE, "pharmacies.jsonl")
 YX_ROWS = os.path.join(HERE, "..", "pharma_yandex", "rows.jsonl")
+YX_BLOCK = os.path.join(HERE, "..", "pharma_yandex", "cards_block.md")
+YX_STATS = os.path.join(HERE, "..", "pharma_yandex", "cards_stats.json")
 OUT = os.path.join(HERE, "section_11_block.md")
 
 
@@ -77,6 +79,23 @@ def load_yx():
            any(k in text[:200] for k in (u"аптека", u"дорухона")):
             out.append(r)
     return out
+
+
+def load_yx_block():
+    """Готовый блок карточек из `pharma_yandex/cards.py` (если он собран)."""
+    if not os.path.exists(YX_BLOCK):
+        return None
+    text = io.open(YX_BLOCK, encoding="utf-8").read().strip()
+    return text or None
+
+
+def load_yx_stats():
+    if not os.path.exists(YX_STATS):
+        return {}
+    try:
+        return json.load(io.open(YX_STATS, encoding="utf-8"))
+    except ValueError:
+        return {}
 
 
 def fmt_hours(rec):
@@ -207,6 +226,8 @@ def yx_cities(yx):
 def render(prose_only=False):
     ap = [r for r in load_pharma() if is_apteka(r)]
     yx = load_yx()
+    yx_block = load_yx_block()
+    yx_stats = load_yx_stats()
     networks = top_networks(ap)
     n24 = round24x7(ap)
     dists = per_district_top(ap)
@@ -228,7 +249,15 @@ def render(prose_only=False):
                  u"сайтом в карточке." % (
                      total_2gis, len(n24), len(networks),
                      sum(1 for r in ap if first_site(r))))
-    if total_yx:
+    if yx_block:
+        lines.append(u"- **По стране (Яндекс.Карты)**: %d карточек аптек в %d "
+                     u"населённых пунктах — ниже отдельным блоком, с "
+                     u"координатами и ссылками на карточки; Душанбе там "
+                     u"дублирует 2ГИС-список выше, зато у Яндекса свои "
+                     u"рейтинги и телефоны." % (
+                         yx_stats.get("cards") or 0,
+                         yx_stats.get("localities") or 0))
+    elif total_yx:
         lines.append(u"- **По стране (Яндекс.Карты)**: %d карточек аптек в "
                      u"%d таджикских каталогах — от Худжанда и Куляба до "
                      u"Хорога и Джиргатольского района." % (
@@ -293,54 +322,58 @@ def render(prose_only=False):
                 escape(r.get("name")), escape(r.get("address_name")),
                 escape(fmt_hours(r)), tail, escape(r.get("url_2gis"))))
         lines.append(u"")
-    lines.append(u"#### Аптеки в остальных городах")
-    lines.append(u"")
-    lines.append(u"2ГИС по Таджикистану работает только по Душанбе, "
-                 u"поэтому за пределами столицы ориентир — Яндекс.Карты. "
-                 u"Ниже — прямые ссылки на поиск `аптека` по "
-                 u"таджикским каталогам: открывается карта со списком "
-                 u"аптек этого города, у каждой карточки — адрес, телефон, "
-                 u"график.")
-    lines.append(u"")
-    lines.append(u"| Город / регион | Открыть в Яндексе | Открыть в 2ГИС |")
-    lines.append(u"|---|---|---|")
-    known = [
-        (u"Худжанд", u"https://yandex.kz/maps/10322/khujand/search/"
-                     u"%D0%B0%D0%BF%D1%82%D0%B5%D0%BA%D0%B0/", None),
-        (u"Бохтар", u"https://yandex.kz/maps/10319/bohtar/search/"
-                     u"%D0%B0%D0%BF%D1%82%D0%B5%D0%BA%D0%B0/", None),
-        (u"Куляб", u"https://yandex.kz/maps/20882/kulob/search/"
-                   u"%D0%B0%D0%BF%D1%82%D0%B5%D0%BA%D0%B0/", None),
-        (u"Турсунзаде", u"https://yandex.kz/maps/21107/tursunzoda/search/"
-                        u"%D0%B0%D0%BF%D1%82%D0%B5%D0%BA%D0%B0/", None),
-        (u"Нурек", u"https://yandex.kz/maps/10321/nurek/search/"
-                   u"%D0%B0%D0%BF%D1%82%D0%B5%D0%BA%D0%B0/", None),
-        (u"Пенджикент", u"https://yandex.kz/maps/10320/pendjikent/search/"
-                        u"%D0%B0%D0%BF%D1%82%D0%B5%D0%BA%D0%B0/", None),
-        (u"Конибодом", u"https://yandex.kz/maps/116395/konibodom/search/"
+    if yx_block:
+        lines.append(yx_block)
+        lines.append(u"")
+    else:
+        lines.append(u"#### Аптеки в остальных городах")
+        lines.append(u"")
+        lines.append(u"2ГИС по Таджикистану работает только по Душанбе, "
+                     u"поэтому за пределами столицы ориентир — Яндекс.Карты. "
+                     u"Ниже — прямые ссылки на поиск `аптека` по "
+                     u"таджикским каталогам: открывается карта со списком "
+                     u"аптек этого города, у каждой карточки — адрес, телефон, "
+                     u"график.")
+        lines.append(u"")
+        lines.append(u"| Город / регион | Открыть в Яндексе | Открыть в 2ГИС |")
+        lines.append(u"|---|---|---|")
+        known = [
+            (u"Худжанд", u"https://yandex.kz/maps/10322/khujand/search/"
                          u"%D0%B0%D0%BF%D1%82%D0%B5%D0%BA%D0%B0/", None),
-        (u"Исфара", u"https://yandex.kz/maps/101751/isfara/search/"
-                    u"%D0%B0%D0%BF%D1%82%D0%B5%D0%BA%D0%B0/", None),
-        (u"Хорог (ГБАО)", u"https://yandex.kz/maps/37175/horog/search/"
-                          u"%D0%B0%D0%BF%D1%82%D0%B5%D0%BA%D0%B0/", None),
-        (u"Хатлонская область", u"https://yandex.kz/maps/105969/khatlon"
-                                u"-province/search/%D0%B0%D0%BF%D1%82%D0%B5"
-                                u"%D0%BA%D0%B0/", None),
-        (u"Согдийская область", u"https://yandex.kz/maps/105968/sughd"
-                                u"-province/search/%D0%B0%D0%BF%D1%82%D0%B5"
-                                u"%D0%BA%D0%B0/", None),
-    ]
-    for name, yx, gis in known:
-        g = (u"[2GIS](%s)" % gis) if gis else u"—"
-        lines.append(u"| %s | [Яндекс](%s) | %s |" % (escape(name), yx, g))
-    lines.append(u"")
+            (u"Бохтар", u"https://yandex.kz/maps/10319/bohtar/search/"
+                        u"%D0%B0%D0%BF%D1%82%D0%B5%D0%BA%D0%B0/", None),
+            (u"Куляб", u"https://yandex.kz/maps/20882/kulob/search/"
+                       u"%D0%B0%D0%BF%D1%82%D0%B5%D0%BA%D0%B0/", None),
+            (u"Турсунзаде", u"https://yandex.kz/maps/21107/tursunzoda/search/"
+                            u"%D0%B0%D0%BF%D1%82%D0%B5%D0%BA%D0%B0/", None),
+            (u"Нурек", u"https://yandex.kz/maps/10321/nurek/search/"
+                       u"%D0%B0%D0%BF%D1%82%D0%B5%D0%BA%D0%B0/", None),
+            (u"Пенджикент", u"https://yandex.kz/maps/10320/pendjikent/search/"
+                            u"%D0%B0%D0%BF%D1%82%D0%B5%D0%BA%D0%B0/", None),
+            (u"Конибодом", u"https://yandex.kz/maps/116395/konibodom/search/"
+                             u"%D0%B0%D0%BF%D1%82%D0%B5%D0%BA%D0%B0/", None),
+            (u"Исфара", u"https://yandex.kz/maps/101751/isfara/search/"
+                        u"%D0%B0%D0%BF%D1%82%D0%B5%D0%BA%D0%B0/", None),
+            (u"Хорог (ГБАО)", u"https://yandex.kz/maps/37175/horog/search/"
+                              u"%D0%B0%D0%BF%D1%82%D0%B5%D0%BA%D0%B0/", None),
+            (u"Хатлонская область", u"https://yandex.kz/maps/105969/khatlon"
+                                    u"-province/search/%D0%B0%D0%BF%D1%82%D0%B5"
+                                    u"%D0%BA%D0%B0/", None),
+            (u"Согдийская область", u"https://yandex.kz/maps/105968/sughd"
+                                    u"-province/search/%D0%B0%D0%BF%D1%82%D0%B5"
+                                    u"%D0%BA%D0%B0/", None),
+        ]
+        for name, yx, gis in known:
+            g = (u"[2GIS](%s)" % gis) if gis else u"—"
+            lines.append(u"| %s | [Яндекс](%s) | %s |" % (escape(name), yx, g))
+        lines.append(u"")
     lines.append(u"#### Практический вывод")
     lines.append(u"")
     lines.append(u"- В Душанбе аптека на расстоянии 10 минут ходьбы почти "
                  u"всегда есть; круглосуточных %d, они работают в каждом "
                  u"районе." % len(n24))
     lines.append(u"- В районных центрах (Худжанд, Куляб, Бохтар, "
-                 u"Турсунзаде, Нурек, Пенджикент, Кониболом, Исфара) аптеки "
+                 u"Турсунзаде, Нурек, Пенджикент, Конибодом, Исфара) аптеки "
                  u"есть, но плотность падает — проверяйте по Яндекс.Картам "
                  u"до выезда.")
     lines.append(u"- В горных кишлаках (Ягноб, Вахан, Зоркуль, Мургаб) "
