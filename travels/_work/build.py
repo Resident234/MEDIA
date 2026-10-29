@@ -44,7 +44,8 @@ def main() -> None:
         places.append(f"### {title}\n\n{body}")
     parts.append("\n\n".join(places))
 
-    for name in ["60_eda.md", "70_pokupki.md", "80_prochee.md", "85_fitness.md", "90_med.md", "95_zametki.md"]:
+    for name in ["60_eda.md", "70_pokupki.md", "80_prochee.md", "85_fitness.md", "90_med.md",
+                 "92_seks.md", "95_zametki.md"]:
         parts.append((W / name).read_text(encoding="utf-8").strip())
 
     links = (S / "links.md").read_text(encoding="utf-8").strip()
