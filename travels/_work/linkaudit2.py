@@ -12,6 +12,7 @@ import sys
 from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
+from docparts import read_all  # noqa: E402
 from linklib import link_numbers  # noqa: E402
 
 BASE = Path(__file__).resolve().parent
@@ -56,7 +57,7 @@ def text_for(url, corp, by_slug):
 def main():
     nums = {v: k for k, v in link_numbers().items()}
     corp, by_slug = load_corpus()
-    docs = [(BASE.parent / "Таджикистан.md").read_text(encoding="utf-8").splitlines()]
+    docs = [read_all().splitlines()]
     rows = []
     for i, ln in enumerate(docs[0], 1):
         if not re.match(r"^\s*(-|\d+\.)\s+", ln):

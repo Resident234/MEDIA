@@ -10,8 +10,9 @@ import io
 import re
 from pathlib import Path
 
+from docparts import read_all
+
 BASE = Path(__file__).resolve().parent
-DOC = BASE.parent / "Таджикистан.md"
 MARK = re.compile(r"\[→(\d+)\]\((https?://[^)]+)\)")
 
 CATS = [
@@ -31,7 +32,7 @@ CATS = [
 
 
 def main():
-    lines = DOC.read_text(encoding="utf-8").splitlines()
+    lines = read_all().splitlines()
     h2, h3 = "", ""
     bullets, linked = [], []
     for lineno, raw in enumerate(lines, 1):

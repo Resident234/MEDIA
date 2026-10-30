@@ -1,15 +1,17 @@
 # -*- coding: utf-8 -*-
 import re
-from pathlib import Path
 
-t = Path("../Таджикистан.md").read_text(encoding="utf-8")
+from docparts import read_all
+
+t = read_all()
 lines = t.splitlines()
 
 
 def show(name, hits):
     print("%-28s %d" % (name, len(hits)))
     for ln in hits[:12]:
-        print("   L%d: %s" % (lines.index(ln) + 1, ln[:170]))
+        out = "   L%d: %s" % (lines.index(ln) + 1, ln[:170])
+        print(out.encode("ascii", "backslashreplace").decode("ascii"))
 
 
 mixed = [l for l in lines if re.search(r"[А-Яа-яЁё][A-Za-z]|[A-Za-z][А-Яа-яЁё]", re.sub(r"https?://\S+", "", l))]
@@ -36,7 +38,7 @@ show("mixed-script", mixed)
 show("CJK", cjk)
 show("mojibake", moj)
 show("latin-inside-cyrillic", latin_in_cyr)
-show("marker проверено/UNCONFIRMED", marker)
+show("marker-provereno/UNCONFIRMED", marker)
 show("external domains/brands", domains)
 
 print("\nchars %d, lines %d, ## %d, ### %d" % (

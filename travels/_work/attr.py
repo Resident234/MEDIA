@@ -12,9 +12,10 @@ import sys
 from collections import defaultdict
 from pathlib import Path
 
+from docparts import read_all
+
 BASE = Path(__file__).resolve().parent
 NOTES = BASE / "notes"
-DOC = BASE.parent / "Таджикистан.md"
 
 STOP = set("""и во с на как что это для от до из по при все уже ещё не ни он она они его её мы вы ты
 такой такой был была были есть был очень один одна самой сам так но или ли же то тех этих тем этим
@@ -77,7 +78,7 @@ def score(q_tokens, q_set, entry_set, idf):
 def main():
     lines, idf = load_index()
     print("index lines: %d" % len(lines), file=sys.stderr)
-    doc_lines = DOC.read_text(encoding="utf-8").splitlines()
+    doc_lines = read_all().splitlines()
     items = []
     for i, ln in enumerate(doc_lines, 1):
         t = ln.strip()
