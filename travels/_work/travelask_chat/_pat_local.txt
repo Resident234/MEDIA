@@ -1,0 +1,1 @@
+local_mp||(?:дарё|dare\.tj|лак\s*лак|lalak|zoodik|вавиот|сомон\s*базар|толвар|tojr|alif\s*(?:mall|shop|шоп)|аввал\s*тч|оббо\s*тч|shef\.tj|ёвар|422000|pandashop|деливери)

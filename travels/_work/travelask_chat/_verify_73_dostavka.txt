@@ -1,0 +1,13 @@
+messages loaded: 126182
+file chars: 39280, lines: 208
+
+quotes with ids: 226, fully ok: 226, problems: 0, quote w/o id: 0
+
+--- long quotes (>40) resolved only against their own bullet ---
+unresolved: 0
+
+--- all citation ids ---
+citation ids found: 197
+ids not found in export: []
+date mismatches: 0
+
