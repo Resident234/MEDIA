@@ -27,6 +27,7 @@ PLACE_ORDER = [
 SPLIT_EDA = "### Карточки заведений по городам (Яндекс.Карты)"
 SPLIT_SHOP_DUSHANBE = "### Данные карт: категории по Душанбе (2ГИС)"
 SPLIT_SHOP_COUNTRY = "### Данные карт: категории по городам страны (Яндекс.Карты)"
+SPLIT_SHOP_MAPS = "### Карты: названия, карточки, координаты, контакты"
 
 
 class Part(NamedTuple):
@@ -119,6 +120,9 @@ def build_parts() -> list[Part]:
 
     pok = read(W / "70_pokupki.md")
     pok_a, pok_rest = split_before(pok, SPLIT_SHOP_DUSHANBE)
+    pok_a_art, pok_a_maps = split_before(pok_a, SPLIT_SHOP_MAPS)
+    pok_a = (pok_a_art + "\n\n" + read(W / "71_pokupki_chat.md")
+             + "\n\n" + pok_a_maps)
     pok_b, pok_c = split_before(pok_rest, SPLIT_SHOP_COUNTRY)
     pok_b = "## 8. Покупки: базары, магазины, ТЦ и ремёсла — продолжение: карты Душанбе\n\n" + pok_b
     pok_c = "## 8. Покупки: базары, магазины, ТЦ и ремёсла — продолжение: карты по стране\n\n" + pok_c
