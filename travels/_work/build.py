@@ -29,6 +29,7 @@ SPLIT_SHOP_DUSHANBE = "### Данные карт: категории по Душ
 SPLIT_SHOP_COUNTRY = "### Данные карт: категории по городам страны (Яндекс.Карты)"
 SPLIT_SHOP_MAPS = "### Карты: названия, карточки, координаты, контакты"
 SPLIT_PROCH = "### Оговорки по разделу"
+SPLIT_MED = "<!-- PHARMACY_BLOCK_BEGIN -->"
 
 
 class Part(NamedTuple):
@@ -131,6 +132,9 @@ def build_parts() -> list[Part]:
     pro_a, pro_b = split_before(read(W / "80_prochee.md"), SPLIT_PROCH)
     pro = pro_a + "\n\n" + read(W / "81_prochee_chat.md") + "\n\n" + pro_b
 
+    med_a, med_b = split_before(read(W / "90_med.md"), SPLIT_MED)
+    med = med_a + "\n\n" + read(W / "91_med_chat.md") + "\n\n" + med_b
+
     links = read(W / "99_links_intro.md") + "\n\n" + read(S / "links.md")
 
     return [
@@ -161,7 +165,7 @@ def build_parts() -> list[Part]:
         Part("Таджикистан_10_залы.md", "10. Залы",
              "Тренажёрные залы", read(W / "85_fitness.md")),
         Part("Таджикистан_11_медицина.md", "11. Медицина",
-             "Медицина, страховка и здоровье в дороге", read(W / "90_med.md")),
+             "Медицина, страховка и здоровье в дороге", med),
         Part("Таджикистан_12_секс_шопы.md", "12. Секс-шопы",
              "Секс-шопы и секс-товары", read(W / "92_seks.md")),
         Part("Таджикистан_13_знакомства.md", "13. Знакомства",
