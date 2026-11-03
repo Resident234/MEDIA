@@ -1,0 +1,44 @@
+messages loaded: 126182
+file chars: 10357, lines: 40
+
+quotes with ids: 10, fully ok: 10, problems: 0, quote w/o id: 27
+
+--- quotes without a following id ---
+  Таджикистан
+  Средняя Азия
+  Ташкент — Худжанд — Душанбе — Ош
+  Маршрут из листа
+  2gis подборки
+  избранное на vc.ru
+  что посмотреть
+  Горный Бадахшан
+  из города Хорога в далёкий город Ош
+  Вонючее озеро
+  Высокое озеро
+  самый весёлый на Памире
+  Границы и соседи
+  без визы до 90 дней
+  90 дней
+  Сроки пребывания
+  Островка
+  Отелло
+  Суточно.ру
+  Чат TravelAsk: жильё — площадки, объекты, цены
+  МегаФона
+  Золотая корона
+  Спитамен
+  Бима
+  непрочитанное
+  сколько это стоит сейчас
+  Чат TravelAsk
+
+--- long quotes (>40) resolved only against their own bullet ---
+unresolved: 1
+  0.17  Чат TravelAsk: жильё — площадки, объекты, цены
+        ids=[15455] lost=чат travelask площадки объекты цены
+
+--- all citation ids ---
+citation ids found: 11
+ids not found in export: []
+date mismatches: 0
+
