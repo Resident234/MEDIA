@@ -24,7 +24,7 @@ PLACE_ORDER = [
     ("places__Прочее.md", "Страна в целом: города, области, большие объекты"),
 ]
 
-SPLIT_EDA = "#### Карточки заведений по городам (Яндекс.Карты)"
+SPLIT_EDA = "### Карточки заведений по городам (Яндекс.Карты)"
 SPLIT_SHOP_DUSHANBE = "### Данные карт: категории по Душанбе (2ГИС)"
 SPLIT_SHOP_COUNTRY = "### Данные карт: категории по городам страны (Яндекс.Карты)"
 
@@ -114,7 +114,8 @@ def build_parts() -> list[Part]:
         places.append("### " + title + "\n\n" + body)
 
     eda_a, eda_b = split_before(read(W / "60_eda.md"), SPLIT_EDA)
-    eda_b = "## 7. Еда, чайханы, кафе и алкоголь — продолжение\n\n" + eda_b
+    eda_b = ("## 7. Еда, чайханы, кафе и алкоголь — продолжение\n\n"
+             + read(W / "61_eda_city.md") + "\n\n" + eda_b)
 
     pok = read(W / "70_pokupki.md")
     pok_a, pok_rest = split_before(pok, SPLIT_SHOP_DUSHANBE)
