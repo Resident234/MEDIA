@@ -30,7 +30,7 @@ SPLIT_SHOP_COUNTRY = "### Данные карт: категории по гор�
 SPLIT_SHOP_MAPS = "### Карты: названия, карточки, координаты, контакты"
 SPLIT_PROCH = "### Оговорки по разделу"
 SPLIT_MED = "<!-- PHARMACY_BLOCK_BEGIN -->"
-SPLIT_FIT = "### Что осталось незакрытым и что для этого нужно"
+SPLIT_FIT = "### Оговорки по разделу"
 
 
 class Part(NamedTuple):
@@ -195,6 +195,12 @@ def build_parts() -> list[Part]:
 
 
 def main() -> None:
+    # Сначала вычищаем технические детали сбора из build/*.md:
+    # они не должны попасть ни в части путеводителя, ни в оглавление.
+    # Скрипт идемпотентен и перегенерирует travels/Таджикистан_техника_сбора.md.
+    import extract_tech
+    extract_tech.main()
+
     parts = build_parts()
     for i, p in enumerate(parts):
         text = (h1(p) + "\n\n" + prev_next(parts, i) + "\n\n" + nav_line(parts, i)
