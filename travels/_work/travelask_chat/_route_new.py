@@ -19,9 +19,11 @@ ROUTE = os.path.join(HERE, "_route", "%s.txt")
 
 def main():
     slug = sys.argv[1]
-    target = sys.argv[2]
-    topn = int(sys.argv[3]) if len(sys.argv) > 3 else 25
-    cited = set(re.findall(r"#(\d+)", io.open(target, encoding="utf-8").read()))
+    topn = int(sys.argv[-1]) if sys.argv[-1].isdigit() else 25
+    targets = [a for a in sys.argv[2:] if not a.isdigit()]
+    cited = set()
+    for t in targets:
+        cited |= set(re.findall(r"#(\d+)", io.open(t, encoding="utf-8").read()))
     idx = {}
     for line in io.open(MSGS, encoding="utf-8"):
         line = line.strip()
