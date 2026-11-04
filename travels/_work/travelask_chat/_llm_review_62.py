@@ -29,9 +29,16 @@ import requests
 import triage
 
 HERE = os.path.dirname(os.path.abspath(__file__))
-DRAFT = os.path.join(HERE, "..", "build", "62_alc.md")
+# REVIEW_DRAFT/REVIEW_RAW/REVIEW_PREFIX позволяют гонять проверку на любом черновике.
+_def_draft = os.path.join(HERE, "..", "build", "62_alc.md")
+DRAFT = os.environ.get("REVIEW_DRAFT") or _def_draft
+if not os.path.isabs(DRAFT):
+    DRAFT = os.path.join(HERE, DRAFT)
 MSGS = os.path.join(HERE, "messages.jsonl")
-RAW = os.path.join(HERE, "_llm_alc_review.jsonl")
+PREFIX = os.environ.get("REVIEW_PREFIX", "_llm_alc")
+RAW = os.environ.get("REVIEW_RAW") or os.path.join(HERE, PREFIX + "_review.jsonl")
+if not os.path.isabs(RAW):
+    RAW = os.path.join(HERE, RAW)
 
 ALCO = re.compile(
     u"(?i)(алкогол|спиртн|пив|пивовар|винзавод|винодел|вино|вина|водк|коньяк"
@@ -261,7 +268,7 @@ def cmd_facts(model, workers=3):
             f.write(json.dumps(dict(r, pass_="facts"), ensure_ascii=False) + u"\n")
 
     slug = re.sub(r"[^a-z0-9]+", "-", model.lower()).strip("-")
-    out_path = os.path.join(HERE, "_llm_alc_facts_%s.txt" % slug)
+    out_path = os.path.join(HERE, "%s_facts_%s.txt" % (PREFIX, slug))
     out = [u"model: %s" % model, u""]
     total = 0
     for r in results:
@@ -373,7 +380,7 @@ def cmd_gaps(model, per_group=55, workers=3):
             f.write(json.dumps(dict(r, pass_="gaps"), ensure_ascii=False) + u"\n")
 
     slug = re.sub(r"[^a-z0-9]+", "-", model.lower()).strip("-")
-    out_path = os.path.join(HERE, "_llm_alc_gaps_%s.txt" % slug)
+    out_path = os.path.join(HERE, "%s_gaps_%s.txt" % (PREFIX, slug))
     out = [u"model: %s" % model, u""]
     total = 0
     for r in results:
@@ -562,7 +569,7 @@ def cmd_bullets(models, workers=1, cooldown=120):
         allrows[r["claim"]] = r
     rows = [allrows.get(s) for _, s, _ in jobs if allrows.get(s)]
     slug = re.sub(r"[^a-z0-9]+", "-", u"+".join(models))[:60].strip("-")
-    out_path = os.path.join(HERE, "_llm_alc_bullets_%s.txt" % slug)
+    out_path = os.path.join(HERE, "%s_bullets_%s.txt" % (PREFIX, slug))
     bad = [r for r in rows if r["supported"] is not True]
     out = [u"models: %s" % u", ".join(models),
            u"claims: %d, supported: %d, flagged: %d"
@@ -654,7 +661,7 @@ def cmd_batch(models, per=3, cooldown=90):
         allrows[r["claim"]] = r
     rows = [allrows.get(s) for _, s, _ in jobs if allrows.get(s)]
     slug = re.sub(r"[^a-z0-9]+", "-", u"+".join(m.split("-")[0] for m in models))[:40]
-    out_path = os.path.join(HERE, "_llm_alc_bullets_%s.txt" % slug)
+    out_path = os.path.join(HERE, "%s_bullets_%s.txt" % (PREFIX, slug))
     bad = [r for r in rows if r["supported"] is not True]
     out = [u"models: %s" % u", ".join(models),
            u"claims: %d, supported: %d, flagged: %d"
