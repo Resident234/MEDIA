@@ -1,0 +1,145 @@
+1166	Госуслуги	none:госуслуги
+1167	Госуслуги	none:госуслуги
+2231	Грязелечебница (р-н Ашт)	none:грязелечебница,ашт
+2067	Бахористон	none:бахористон
+3715	TСell	none:tсell
+3993	Hilton	none:hilton
+8581	Сомон	none:сомон
+15452	Zarmed Taj	none:zarmed,taj
+17045	Худжанд	none:худжанд
+18087	Худжанд	none:худжанд
+18091	Душанбе	none:душанбе
+18092	проспект Рудаки	none:проспект,рудаки
+18781	Тинькофф	none:тинькофф
+20622	Эсхата	none:эсхата
+20690	Эсхата	none:эсхата
+22019	Airbnb	none:airbnb
+22187	Alif	none:alif
+23787	Гиссарская крепость	none:гиссарская,крепость
+29344	Кохи Навруз	none:кохи,навруз
+29345	Кохи Навруз	none:кохи,навруз
+29346	Кохи Навруз	none:кохи,навруз
+29787	Dushanbe	none:dushanbe
+29431	Парламент	none:парламент
+29844	Душанбе	none:душанбе
+31778	Фанские горы	none:фанские,горы
+34092	Худжанд	none:худжанд
+34493	Худжанд	none:худжанд
+38212	Тинькофф	none:тинькофф
+39663	Мегафон	none:мегафон
+39830	Sugdiyon Hotel	none:sugdiyon,hotel
+41660	Опера	none:опера
+44804	АйтимБанк	none:айтимбанк
+45910	Tcell	none:tcell
+47764	Нурекское водохранилище	none:нурекское,водохранилище
+47738	Рогун	none:рогун
+47739	Рогун	none:рогун
+47743	Рогун	none:рогун
+47744	Рогун	none:рогун
+46702	Яккачинор	none:яккачинор
+48566	Таможенная служба Таджикистана	none:таможенная,служба,таджикистана
+48634	Рогун	none:рогун
+48307	Комсомолабад	none:комсомолабад
+48980	Facebook	none:facebook
+48981	Facebook	none:facebook
+48982	Facebook	none:facebook
+48983	Facebook	none:facebook
+49876	Yota	none:yota
+49877	Yota	none:yota
+49878	Yota	none:yota
+52846	Бухара	none:бухара
+59628	IBT 24	none:ibt
+60268	Фанские горы	none:фанские,горы
+60269	Фанские горы	none:фанские,горы
+60270	Фанские горы	none:фанские,горы
+68353	Посольство РФ	none:посольство
+63714	Хомяк	none:хомяк
+65672	Гисарская крепость	none:гисарская,крепость
+70557	Bokhbari	none:bokhbari
+70661	Artyuch	none:artyuch
+71089	Сбербанк Онлайн	none:сбербанк,онлайн
+79716	Tcell	none:tcell
+78395	Бадахшанская автономная область	none:бадахшанская,автономная,область
+78396	Бадахшанская автономная область	none:бадахшанская,автономная,область
+84504	Tissel	none:tissel
+83851	Профсоюзы	none:профсоюзы
+82784	Tcell	none:tcell
+91428	Букинг	none:букинг
+91859	Паншанбе	none:паншанбе
+91861	Паншанбе	none:паншанбе
+96911	Душанбе	none:душанбе
+97150	Сбербанк	none:сбербанк
+102444	Wildberries	none:wildberries
+102446	App Store	none:app,store
+103386	Истиклол	none:истиклол
+103675	Wildberries	none:wildberries
+103682	Wildberries	none:wildberries
+105193	Фанские горы	none:фанские,горы
+109505	Душанбе сити	none:душанбе,сити
+111659	Уральские авиалинии	none:уральские,авиалинии
+111660	Уральские авиалинии	none:уральские,авиалинии
+111661	Уральские авиалинии	none:уральские,авиалинии
+111540	ту-ту	<no-token>
+113056	DC bank	none:bank
+113369	Бохтар	none:бохтар
+113372	Бохтар	none:бохтар
+114177	Aviasales	none:aviasales
+114594	Душанбинский оперный театр	none:душанбинский,оперный,театр
+120925	Мегафон	none:мегафон
+120927	Мегафон	none:мегафон
+121242	Мир	none:мир
+123213	iPhone 16 Pro Max	none:iphone,pro,max
+123700	Samsung A55	none:samsung,a55
+123121	Душанбе	none:душанбе
+125149	Куляба	none:куляба
+131570	DC	<no-token>
+132208	@travelask_help_bot	none:travelask_help_bot
+132364	@travelask_help_bot	none:travelask_help_bot
+132580	@travelask_help_bot	none:travelask_help_bot
+134538	Алаундские озера	none:алаундские,озера
+135700	Sber	none:sber
+136174	Somon.Tj	none:somon
+136902	Tangen	none:tangen
+136908	Daewoo Damas	none:daewoo,damas
+136910	Daewoo Damas	none:daewoo,damas
+137664	Dushanbe City	none:dushanbe,city
+137683	iPhone 17	none:iphone
+137689	iPhone 14 Pro	none:iphone,pro
+137702	MAPS.ME	none:maps
+137746	GBAO	none:gbao
+137797	Dushanbe City	none:dushanbe,city
+140950	Гиссарская крепость	none:гиссарская,крепость
+140951	Гиссарская крепость	none:гиссарская,крепость
+139841	Памирский тракт	none:памирский,тракт
+139965	Центральная радиостанция (ЦРС) Таджикистана	none:центральная,радиостанция,црс,таджикистана
+141124	Пенджикент	none:пенджикент
+141214	@TravelAsk_Euphora_bot	none:travelask_euphora_bot
+141280	@travelask_help_bot	none:travelask_help_bot
+141281	госветслужба	none:госветслужба
+141496	Бабиблон	none:бабиблон
+141516	Бабиблон	none:бабиблон
+143183	T-Sell	none:sell
+143246	Алиф	none:алиф
+143465	PayPal	none:paypal
+148360	Ту Ту ру	<no-token>
+148745	Каиракум	none:каиракум
+152086	Душанбе	none:душанбе
+156950	WhatsApp	none:whatsapp
+156968	Bybit	none:bybit
+156977	Bybit	none:bybit
+156978	Bybit	none:bybit
+156362	Сафеддара	none:сафеддара
+156363	Сафеддара	none:сафеддара
+167156	Бадкорт	none:бадкорт
+169292	Парк Истиклалиат	none:парк,истиклалиат
+169293	Парк Рудаки	none:парк,рудаки
+169294	Рынок Мехргон	none:рынок,мехргон
+169295	Gastropub 28 monkeys	none:gastropub,monkeys
+172133	Национальная библиотека Таджикистана	none:национальная,библиотека,таджикистана
+174606	Spotify	none:spotify
+178517	Зоркуль	none:зоркуль
+186577	Imei Tj	none:imei
+186730	TravelAsk	none:travelask
+89773	PayPal	none:paypal
+130873	Варзобское ущелье	none:варзобское,ущелье
+155200	Euphoria	none:euphoria

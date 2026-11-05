@@ -8,3 +8,8 @@
 # Google Maps collector runtime data (huge, resumable via .ok markers)
 travels/_work/google_maps/out/
 travels/_work/google_maps/__pycache__/
+
+# Chat-photo entity folders: large binary image copies (~478MB), regenerable
+# via travels/_work/chat_photos/build_folders.py; the folder plan lives in
+# travels/_work/chat_photos/manifest.csv (committed).
+travels/Фото_сущности/
