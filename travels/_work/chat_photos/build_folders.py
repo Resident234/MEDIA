@@ -53,6 +53,12 @@ def main():
     groups_path = os.path.join(HERE, "entity_groups.json")
     groups = json.load(io.open(groups_path, encoding="utf-8")) if os.path.exists(groups_path) else {}
 
+    # CLEAN=1: пересборка с нуля (когда vision переносит фото из Прочее в
+    # сущности, иначе в Прочее остаются устаревшие копии). Источник-экспорт
+    # не трогаем, всё пересобирается копированием — безопасно.
+    if os.environ.get("CLEAN") == "1" and os.path.isdir(ROOT):
+        shutil.rmtree(ROOT)
+
     if not os.path.isdir(ROOT):
         os.makedirs(ROOT)
 
