@@ -1,1 +1,5 @@
-scope=unnamed photos to vision: 2015
+scope=unnamed photos to vision: 2011
+  20/2011 (vision, fails=5, skipped=0)
+  40/2011 (vision, fails=9, skipped=0)
+  60/2011 (vision, fails=21, skipped=0)
+  80/2011 (vision, fails=31, skipped=0)
