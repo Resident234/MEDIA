@@ -110,11 +110,20 @@ def main():
     lock = threading.Lock()
     counter = [0]
     skipped = [0]
-    state = {"until": 0.0, "fails": 0}
+    percd = {}          # model -> unix time до кулдауна
+    fails = {"n": 0}
+    COOLDOWN = 120
+
+    def wait_next():
+        """Спит, пока хотя бы одна модель не выйдет из кулдауна; даёт готовые."""
+        while True:
+            now = time.time()
+            ready = [m for m in models if now >= percd.get(m, 0)]
+            if ready:
+                return ready
+            time.sleep(2)
 
     def work(p):
-        while time.time() < state["until"]:
-            time.sleep(2)
         src = os.path.join(EXPORT, p["file"].replace("photos/", u"photos" + os.sep))
         if not os.path.exists(src):
             return
@@ -123,17 +132,28 @@ def main():
                                before=u" | ".join(p.get("ctx_before") or [u"-"])[:600],
                                after=u" | ".join(p.get("ctx_after") or [u"-"])[:600])
         obj = None
-        for _ in range(4):
-            try:
-                obj = json_or_none(vcall(models[0], prompt, b64, tries=1))
-                if obj is not None:
+        used = None
+        # Ротация по пулу: каждая модель — по разу за проход. При 429/ошибке
+        # она уходит в кулдаун, при пустом/неструктурном ответе пробуем след.
+        for _round in range(3):
+            for m in wait_next():
+                try:
+                    txt = vcall(m, prompt, b64, max_tokens=1500, tries=1)
+                except Exception as exc:  # noqa: BLE001
+                    s = str(exc)
+                    if u"429" in s or u"vision" in s or u"cooldown" in s or u"rate" in s:
+                        percd[m] = time.time() + COOLDOWN
+                        with lock:
+                            fails["n"] += 1
+                    time.sleep(1)
+                    continue
+                o = json_or_none(txt)
+                if o is not None:
+                    obj, used = o, m
                     break
-            except Exception as exc:  # noqa: BLE001
-                if u"429" in str(exc) or u"vision" in str(exc) or u"cooldown" in str(exc):
-                    state["until"] = time.time() + 90
-                    state["fails"] += 1
-                time.sleep(5)
-        # obj is None значит вызовы упались (троттл/ошибка): НЕ пишем —
+            if obj is not None:
+                break
+        # obj None => ни одна модель не дала разбор (троттл/рамблинг): НЕ пишем —
         # фото останется в todo для повтора, ledger не пачкаем.
         if obj is None:
             with lock:
@@ -147,12 +167,12 @@ def main():
                                     "category": obj.get("category") or u"",
                                     "named": bool(obj.get("named")),
                                     "evidence": obj.get("evidence") or u"",
-                                    "stage": "vision", "model": models[0]},
+                                    "stage": "vision", "model": used},
                                    ensure_ascii=False) + u"\n")
             counter[0] += 1
             if counter[0] % 20 == 0:
                 print("  %d/%d (vision, fails=%d, skipped=%d)"
-                      % (counter[0], len(todo), state["fails"], skipped[0]))
+                      % (counter[0], len(todo), fails["n"], skipped[0]))
 
     def json_or_none(txt):
         import re
@@ -164,7 +184,8 @@ def main():
         except ValueError:
             return None
 
-    with ThreadPoolExecutor(max_workers=1) as ex:   # 1 поток: деликатный vision-роут
+    workers = int(os.environ.get("WORKERS", "2"))
+    with ThreadPoolExecutor(max_workers=workers) as ex:   #Working pool отвечает быстрее троттленного gemini
         list(ex.map(work, todo))
     print("done vision:", counter[0])
     return 0
