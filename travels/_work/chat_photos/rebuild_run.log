@@ -1,74 +1,75 @@
 >> cluster_entities.py 
-distinct named entities: 775
-  merge candidates (freq>=2): 254 of 775
-  merged batch 1/9 (pool=auto, groups=3, applied=11)
-  merged batch 2/9 (pool=auto, groups=24, applied=10)
-  merged batch 3/9 (pool=auto, groups=2, applied=0)
-  merged batch 4/9 (pool=fusion, groups=2, applied=0)
-  merged batch 5/9 (pool=fusion, groups=2, applied=0)
-  merged batch 6/9 (pool=auto, groups=27, applied=6)
-  merged batch 7/9 (pool=auto, groups=29, applied=2)
-  merged batch 8/9 (pool=auto, groups=22, applied=11)
-  merged batch 9/9 (pool=auto, groups=12, applied=4)
-canonical folders: 748
-   111  Euphoria
-   109  Душанбе
-    72  Худжанд
-    50  Google
-    42  МегаФон
-    39  Душанбе Сити
+distinct named entities: 1028
+  merge candidates (freq>=2): 291 of 1028
+  merged batch 1/10 (pool=auto, groups=2, applied=6)
+  merged batch 2/10 (pool=auto, groups=25, applied=8)
+  merged batch 3/10 (pool=auto, groups=2, applied=0)
+  merged batch 4/10 (pool=fusion, groups=1, applied=0)
+  merged batch 5/10 (pool=fusion, groups=1, applied=0)
+  merged batch 6/10 (pool=auto, groups=24, applied=9)
+  merged batch 7/10 (pool=auto, groups=0, applied=0)
+  merged batch 8/10 (pool=auto, groups=27, applied=6)
+  merged batch 9/10 (pool=auto, groups=26, applied=5)
+  merged batch 10/10 (pool=gpt-oss-20b, groups=2, applied=0)
+canonical folders: 1008
+   123  Душанбе
+   114  Euphora
+    69  Худжанд
+    45  MAPS.ME
+    43  Душанбе Сити
+    40  МегаФон
+    39  imei.tj
     35  TravelAsk_Euphora_bot
-    27  Алиф
-    25  Сбер
-    25  Искандеркуль
+    29  Алиф
+    28  Сбер
+    27  Alif
+    27  Искандеркуль
+    25  tcell
+    23  Кайраккумское водохранилище
     23  Kaspersky eSIM Store
-    21  tcell
-    21  Нурек
-    19  Нурекская ГЭС
-    18  IBT
+    22  Нурек
+    21  IBT
+    21  Нурекская ГЭС
+    20  Бахористон
+    17  Рогун
+    16  Алиф банк
     16  Гиссарская крепость
-    16  Кайраккум
-    16  imei.tj
-    14  Бахористон
+    16  Нурекское водохранилище
+    14  Asian Express
     13  Тинькофф
-    13  Alif
-    13  Рогун
-    13  DC City
-    12  Asian Express
-    12  Алиф банк
 >> build_folders.py {'CLEAN': '1'}
 photos (non-service): 3820  copied: 3820
-named->entity: 2034   Прочее: 1786   service skipped: 1
-folders total: 752 (incl. Прочее)
+named->entity: 2488   Прочее: 1332   service skipped: 1
+folders total: 1014 (incl. Прочее)
 top folders:
-  1786  Прочее
-   111  Euphoria
-   109  Душанбе
-    72  Худжанд
-    50  Google
-    43  МегаФон
-    39  Душанбе Сити
+  1332  Прочее
+   123  Душанбе
+   115  Euphora
+    69  Худжанд
+    45  MAPS.ME
+    43  Душанбе Сити
+    41  imei.tj
+    40  МегаФон
     35  TravelAsk_Euphora_bot
-    27  TravelAsk
-    27  Алиф
-    25  Сбер
-    25  Искандеркуль
+    29  TravelAsk
+    29  Алиф
+    28  Сбер
+    27  Alif
+    27  Искандеркуль
+    25  tcell
+    23  Кайраккумское водохранилище
     23  Kaspersky eSIM Store
-    21  tcell
-    21  Нурек
-    19  Нурекская ГЭС
-    18  IBT
+    22  Нурек
+    21  IBT
+    21  Нурекская ГЭС
+    20  Бахористон
+    17  Рогун
+    16  Алиф банк
     16  Гиссарская крепость
-    16  imei.tj
-    16  Кайраккум
-    14  Бахористон
-    13  DC City
-    13  Alif
+    16  Нурекское водохранилище
+    14  Asian Express
     13  Тинькофф
-    13  Рогун
-    12  Asian Express
-    12  Алиф банк
     12  Фанские горы
-    11  Dushanbe
-    11  Сомон Эйр
-REBUILT=yes NAMED_VISION=226 FOLDERS=752 PROCHEE=1786
+    11  Эсхата
+    11  Wildberries
+REBUILT=yes NAMED_VISION=676 FOLDERS=1014 PROCHEE=1332
