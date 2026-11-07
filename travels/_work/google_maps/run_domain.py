@@ -32,6 +32,37 @@ sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import ggd
 
 
+def _force_utf8_stdio():
+    """Force UTF-8 on stdout/stderr so the collectors don't crash.
+
+    The Windows console/pipe for a redirected child defaults to cp866/cp1251,
+    which cannot encode Tajik-Cyrillic query/place glyphs (e.g. '\u04b6' Ҷ,
+    '\u04b3' ѳ, '\u04b7' ҷ). A bare `print()` of those raised
+    UnicodeEncodeError and killed the lists/cards phases (rc=1). Rows and card
+    JSON are already written as UTF-8 files; only the console echo broke, so we
+    reconfigure the text streams here. `-X utf8` alone did NOT reliably help
+    once stdout is a redirected pipe, so we do it in-process.
+    """
+    for name in ("stdout", "stderr"):
+        stream = getattr(sys, name, None)
+        if stream is None:
+            continue
+        try:
+            stream.reconfigure(encoding="utf-8", errors="replace")
+        except Exception:
+            try:
+                buf = getattr(stream, "buffer", None)
+                if buf is not None:
+                    setattr(sys, name, io.TextIOWrapper(
+                        buf, encoding="utf-8", errors="replace",
+                        line_buffering=True))
+            except Exception:
+                pass
+
+
+_force_utf8_stdio()
+
+
 def slugify(s):
     s = re.sub(r"[^0-9A-Za-z\u0400-\u04FF_-]+", "_", s.strip())
     return s[:80].strip("_") or "x"
@@ -151,7 +182,7 @@ def main():
     ggd.warm()
     if not args.cards_only:
         collect_lists(args.plan, args.outdir)
-    if args.cards and not args.lists_only:
+    if (args.cards or args.cards_only) and not args.lists_only:
         collect_cards(args.outdir)
 
 
