@@ -1,0 +1,76 @@
+>> cluster_entities.py 
+distinct named entities: 1118
+  merge candidates (freq>=2): 310 of 1118
+  merged batch 1/11 (pool=auto, groups=24, applied=9)
+  merged batch 2/11 (pool=auto, groups=2, applied=0)
+  merged batch 3/11 (pool=gpt-oss-20b, groups=27, applied=5)
+  merged batch 4/11 (pool=gpt-oss-20b, groups=23, applied=12)
+  merged batch 5/11 (pool=auto, groups=28, applied=4)
+  merged batch 6/11 (pool=auto, groups=25, applied=7)
+  merged batch 7/11 (pool=auto, groups=3, applied=8)
+  merged batch 8/11 (pool=auto, groups=25, applied=9)
+  merged batch 9/11 (pool=auto, groups=26, applied=7)
+  merged batch 10/11 (pool=auto, groups=27, applied=6)
+  merged batch 11/11 (pool=auto, groups=8, applied=4)
+canonical folders: 1075
+   129  Душанбе
+   124  Euphora
+    72  Худжанд
+    53  Алиф
+    51  Душанбе Сити
+    47  imei.tj
+    46  MAPS.ME
+    44  МегаФон
+    40  TravelAsk_Euphora
+    32  Сбербанк
+    31  Alif Bank
+    27  Искандеркуль
+    26  tcell
+    24  Кайраккум
+    23  Нурек
+    23  Kaspersky eSIM Store
+    22  Гиссар
+    21  Somon
+    21  Нурекская ГЭС
+    20  Бахористон
+    18  Нурекское водохранилище
+    17  Рогун
+    15  Asian Express
+    14  Эсхата
+    13  Тинькофф
+>> build_folders.py {'CLEAN': '1'}
+photos (non-service): 3820  copied: 3820
+named->entity: 2671   Прочее: 1149   service skipped: 1
+folders total: 1082 (incl. Прочее)
+top folders:
+  1149  Прочее
+   129  Душанбе
+   124  Euphora
+    72  Худжанд
+    53  Алиф
+    51  Душанбе Сити
+    47  imei.tj
+    46  MAPS.ME
+    44  МегаФон
+    40  TravelAsk_Euphora
+    32  Сбербанк
+    31  Alif Bank
+    29  TravelAsk
+    27  Искандеркуль
+    26  tcell
+    24  Кайраккум
+    23  Нурек
+    23  Kaspersky eSIM Store
+    22  Гиссар
+    21  Somon
+    21  Нурекская ГЭС
+    20  Бахористон
+    18  Нурекское водохранилище
+    17  Рогун
+    15  Asian Express
+    14  Эсхата
+    13  Тинькофф
+    13  Wildberries
+    12  Фанские горы
+    11  Крепость Худжанда
+REBUILT=yes NAMED_VISION=860 FOLDERS=1082 PROCHEE=1149
