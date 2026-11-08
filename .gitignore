@@ -5,6 +5,12 @@
 .junie/
 .qodo/
 
+# banki.ru scraper: LLM endpoint secret + resumable work cache (do not commit)
+finance/llm_endpoint.json
+finance/_banki_work/
+finance/_probe*.html
+finance/_probe*.py
+
 # Google Maps collector runtime data (huge, resumable via .ok markers)
 travels/_work/google_maps/out/
 travels/_work/google_maps/__pycache__/
