@@ -1,1 +1,4 @@
 scope=unnamed photos to vision: 244
+  20/244 (vision, fails=358, skipped=116)
+  40/244 (vision, fails=605, skipped=196)
+done vision: 48
